@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dodge the Blocks</title>
+  <style>
+    :root { --bg:#0f172a; --panel:#111827; --accent:#22d3ee; --text:#e5e7eb; }
+    html, body { height: 100%; margin: 0; background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji"; }
+    header { text-align:center; padding: 12px 8px; }
+    h1 { margin: 0 0 6px 0; font-size: clamp(18px, 2.5vw, 24px); font-weight: 700; }
+    p { margin: 0; opacity:.8; }
+    .wrap { display:flex; justify-content:center; align-items:center; }
+    #game { background: #0b1221; border: 2px solid #1f2937; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+    .hud { max-width: 720px; margin: 8px auto; display:flex; gap:8px; justify-content:space-between; align-items:center; padding: 0 8px; }
+    .btn { border: 1px solid #334155; background: #0b1221; color: var(--text); padding: 8px 12px; border-radius:10px; cursor:pointer; font-weight:600; }
+    .btn:hover { border-color: var(--accent); }
+    .pill { padding: 6px 10px; background:#0b1221; border:1px solid #334155; border-radius:999px; }
+    footer { text-align:center; opacity:.7; font-size: 12px; padding: 10px; }
+    @media (max-width: 480px){ canvas{ width: 90vw; height: 60vw; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Dodge the Blocks</h1>
+    <p>Move with <b>← ↑ → ↓</b> (or WASD). Survive and score! Press <b>R</b> to restart.</p>
+  </header>
+
+  <div class="wrap">
+    <canvas id="game" width="720" height="480" aria-label="Game canvas" role="img"></canvas>
+  </div>
+
+  <div class="hud">
+    <div class="pill">Score: <span id="score">0</span></div>
+    <div class="pill">Best: <span id="best">0</span></div>
+    <button class="btn" id="restart">Restart (R)</button>
+  </div>
+
+  <footer>Pure HTML + JS, single file.</footer>
+
+  <script>
+    const canvas = document.getElementById('game');
+    const c = canvas.getContext('2d');
+    const scoreEl = document.getElementById('score');
+    const bestEl = document.getElementById('best');
+    const restartBtn = document.getElementById('restart');
+
+    // Game state
+    let running = true;
+    let t = 0; // time counter
+    let score = 0;
+    let best = Number(localStorage.getItem('dtb_best') || 0);
+    bestEl.textContent = best;
+
+    const rand = (min, max) => Math.random() * (max - min) + min;
+
+    const player = {
+      x: canvas.width / 2 - 12,
+      y: canvas.height / 2 - 12,
+      w: 24,
+      h: 24,
+      speed: 4.0,
+      vx: 0,
+      vy: 0,
+      color: '#22d3ee'
+    };
+
+    const keys = new Set();
+    window.addEventListener('keydown', (e) => {
+      keys.add(e.key.toLowerCase());
+      if (e.key.toLowerCase() === 'r') reset();
+    });
+    window.addEventListener('keyup', (e) => keys.delete(e.key.toLowerCase()));
+
+    const obstacles = [];
+    function spawnObstacle() {
+      // Spawn from random edge moving inward
+      const size = rand(12, 40);
+      const speed = rand(1.2, 3.5) + Math.min(3, t / 6000); // ramps with time
+      const edge = Math.floor(rand(0,4));
+      let x, y, vx, vy;
+      if (edge === 0) { // left
+        x = -size; y = rand(0, canvas.height); vx = speed; vy = rand(-speed, speed);
+      } else if (edge === 1) { // right
+        x = canvas.width + size; y = rand(0, canvas.height); vx = -speed; vy = rand(-speed, speed);
+      } else if (edge === 2) { // top
+        x = rand(0, canvas.width); y = -size; vx = rand(-speed, speed); vy = speed;
+      } else { // bottom
+        x = rand(0, canvas.width); y = canvas.height + size; vx = rand(-speed, speed); vy = -speed;
+      }
+      obstacles.push({ x, y, w: size, h: size, vx, vy });
+    }
+
+    function update(dt) {
+      t += dt;
+      // Controls
+      const up = keys.has('arrowup') || keys.has('w');
+      const down = keys.has('arrowdown') || keys.has('s');
+      const left = keys.has('arrowleft') || keys.has('a');
+      const right = keys.has('arrowright') || keys.has('d');
+
+      player.vx = (right - left) * player.speed;
+      player.vy = (down - up) * player.speed;
+      player.x += player.vx;
+      player.y += player.vy;
+
+      // Clamp to bounds
+      player.x = Math.max(0, Math.min(canvas.width - player.w, player.x));
+      player.y = Math.max(0, Math.min(canvas.height - player.h, player.y));
+
+      // Spawn obstacles based on time; faster over time
+      const spawnEvery = Math.max(180 - Math.floor(t / 60), 40); // frames
+      if (frame % spawnEvery === 0) spawnObstacle();
+
+      // Move obstacles & cull
+      for (let i = obstacles.length - 1; i >= 0; i--) {
+        const o = obstacles[i];
+        o.x += o.vx;
+        o.y += o.vy;
+        // Remove if far outside bounds
+        if (o.x < -100 || o.x > canvas.width + 100 || o.y < -100 || o.y > canvas.height + 100) {
+          obstacles.splice(i, 1);
+        }
+      }
+
+      // Collision detection
+      for (const o of obstacles) {
+        if (player.x < o.x + o.w && player.x + player.w > o.x && player.y < o.y + o.h && player.y + player.h > o.y) {
+          running = false;
+          if (score > best) { best = score; localStorage.setItem('dtb_best', String(best)); }
+        }
+      }
+
+      // Score increases with time survived
+      score += Math.floor(dt / 10);
+      scoreEl.textContent = score.toString();
+      bestEl.textContent = String(Math.max(best, score));
+    }
+
+    function draw() {
+      // background grid
+      c.clearRect(0,0,canvas.width,canvas.height);
+      c.fillStyle = '#0b1221';
+      c.fillRect(0,0,canvas.width,canvas.height);
+      c.strokeStyle = 'rgba(255,255,255,0.06)';
+      c.lineWidth = 1;
+      for (let x=0; x<canvas.width; x+=24){
+        c.beginPath(); c.moveTo(x,0); c.lineTo(x,canvas.height); c.stroke();
+      }
+      for (let y=0; y<canvas.height; y+=24){
+        c.beginPath(); c.moveTo(0,y); c.lineTo(canvas.width,y); c.stroke();
+      }
+
+      // player
+      c.fillStyle = player.color;
+      c.fillRect(player.x, player.y, player.w, player.h);
+
+      // obstacles
+      c.fillStyle = '#f87171';
+      obstacles.forEach(o => c.fillRect(o.x, o.y, o.w, o.h));
+
+      if (!running) {
+        c.fillStyle = 'rgba(0,0,0,.6)';
+        c.fillRect(0,0,canvas.width,canvas.height);
+        c.fillStyle = '#e5e7eb';
+        c.textAlign = 'center';
+        c.font = '700 28px system-ui, sans-serif';
+        c.fillText('Game Over', canvas.width/2, canvas.height/2 - 8);
+        c.font = '400 16px system-ui, sans-serif';
+        c.fillText(`Score ${score} — Best ${best}`, canvas.width/2, canvas.height/2 + 16);
+        c.fillText('Press R to Restart', canvas.width/2, canvas.height/2 + 40);
+      }
+    }
+
+    let last = 0, frame = 0;
+    function loop(ms){
+      const dt = Math.min(40, ms - last || 16); // cap delta for stability
+      last = ms; frame++;
+      if (running) update(dt);
+      draw();
+      requestAnimationFrame(loop);
+    }
+
+    function reset(){
+      running = true; t = 0; score = 0; obstacles.length = 0;
+      player.x = canvas.width/2 - player.w/2; player.y = canvas.height/2 - player.h/2;
+      scoreEl.textContent = '0';
+    }
+
+    restartBtn.addEventListener('click', reset);
+    // Start
+    requestAnimationFrame(loop);
+  </script>
+</body>
+</html>
