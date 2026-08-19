@@ -1,7 +1,28 @@
 import { GoogleGenAI, Type, Schema, Modality } from "@google/genai";
 import { Difficulty, TriviaQuestion } from "../types";
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+// The key is never bundled into the built app or committed to the repo — it's
+// entered once in the browser and kept in localStorage on the player's own device.
+export const API_KEY_STORAGE_KEY = "trivia_gemini_api_key";
+
+export function getStoredApiKey(): string | null {
+  try {
+    return localStorage.getItem(API_KEY_STORAGE_KEY);
+  } catch {
+    return null;
+  }
+}
+
+export function setStoredApiKey(key: string): void {
+  localStorage.setItem(API_KEY_STORAGE_KEY, key.trim());
+  ai = new GoogleGenAI({ apiKey: key.trim() });
+}
+
+export function clearStoredApiKey(): void {
+  localStorage.removeItem(API_KEY_STORAGE_KEY);
+}
+
+let ai = new GoogleGenAI({ apiKey: getStoredApiKey() || process.env.GEMINI_API_KEY || "" });
 
 // --- Persistent question history (browser localStorage) ---------------------------
 

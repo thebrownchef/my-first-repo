@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { Difficulty, GameState, TriviaQuestion } from './types';
 import { GENRES } from './constants';
-import { generateTriviaQuestion, generateTriviaAudio, prefetchTriviaQuestion, exportHistory, importHistory, getConnectorAudio, getForTheWinAudio } from './services/geminiService';
+import { generateTriviaQuestion, generateTriviaAudio, prefetchTriviaQuestion, exportHistory, importHistory, getConnectorAudio, getForTheWinAudio, getStoredApiKey, setStoredApiKey, clearStoredApiKey } from './services/geminiService';
 import { Button } from './components/Button';
 import { LoadingSpinner } from './components/LoadingSpinner';
 import { DifficultyBadge } from './components/DifficultyBadge';
@@ -51,22 +51,31 @@ const App: React.FC = () => {
   const [currentQuestionAudio, setCurrentQuestionAudio] = useState<string | null>(null);
   const [isQuotaReached, setIsQuotaReached] = useState<boolean>(false);
   const [loadError, setLoadError] = useState<string | null>(null);
-  const [hasCustomKey, setHasCustomKey] = useState<boolean>(false);
+  const [hasCustomKey, setHasCustomKey] = useState<boolean>(() => !!getStoredApiKey());
+  const [apiKeyInput, setApiKeyInput] = useState<string>('');
+  const [apiKeyInputError, setApiKeyInputError] = useState<string>('');
   const audioContextRef = useRef<AudioContext | null>(null);
   const currentSourceRef = useRef<AudioBufferSourceNode | null>(null);
   const audioRequestIdRef = useRef<number>(0);
   const inputRef = useRef<HTMLInputElement>(null);
   const fetchingRef = useRef<Set<Difficulty>>(new Set());
 
-  useEffect(() => {
-    const checkKey = async () => {
-      if ((window as any).aistudio?.hasSelectedApiKey) {
-        const hasKey = await (window as any).aistudio.hasSelectedApiKey();
-        setHasCustomKey(hasKey);
-      }
-    };
-    checkKey();
-  }, []);
+  const handleSaveApiKey = () => {
+    if (!apiKeyInput.trim()) {
+      setApiKeyInputError('Paste your Gemini API key to continue.');
+      return;
+    }
+    setStoredApiKey(apiKeyInput);
+    setHasCustomKey(true);
+    setApiKeyInputError('');
+    setIsQuotaReached(false);
+  };
+
+  const handleForgetApiKey = () => {
+    clearStoredApiKey();
+    setHasCustomKey(false);
+    setApiKeyInput('');
+  };
 
   // Prefetch player name audio once players are finalized
   useEffect(() => {
@@ -127,13 +136,6 @@ useEffect(() => {
     }
   }, [gameState, genre]);
 
-  const handleSelectApiKey = async () => {
-    if ((window as any).aistudio?.openSelectKey) {
-      await (window as any).aistudio.openSelectKey();
-      setHasCustomKey(true);
-      setIsQuotaReached(false);
-    }
-  };
 
   const getAudioContext = () => {
     if (!audioContextRef.current) {
@@ -580,7 +582,30 @@ useEffect(() => {
         <div className="absolute bottom-[-10%] left-[-10%] w-[500px] h-[500px] rounded-full bg-orange-500/20 blur-[120px]"></div>
       </div>
 
-      {gameState === GameState.PLAYER_SETUP && (
+      {!hasCustomKey ? (
+        <div className="flex flex-col items-center justify-center min-h-screen p-4 md:p-6 text-center max-w-xl mx-auto z-10 relative">
+          <div className="glass-panel p-6 md:p-10 rounded-3xl md:rounded-[2.5rem] shadow-2xl border-white/5 w-full animate-[slideUp_0.6s_ease-out]">
+            <h2 className="text-2xl md:text-3xl font-black text-white mb-3 tracking-tight">Enter Your Gemini API Key</h2>
+            <p className="text-sm text-slate-400 mb-6 leading-relaxed">
+              Trivia Party generates a fresh question and reads it aloud every round, so it needs a Gemini API key to run.
+              Get a free one at <span className="text-pink-300 font-medium">aistudio.google.com</span> — it's saved only in this browser, never sent anywhere but Google.
+            </p>
+            <input
+              type="password"
+              value={apiKeyInput}
+              onChange={(e) => { setApiKeyInput(e.target.value); setApiKeyInputError(''); }}
+              onKeyDown={(e) => e.key === 'Enter' && handleSaveApiKey()}
+              placeholder="Paste your API key..."
+              autoFocus
+              className="w-full bg-white/5 border-2 border-white/10 rounded-xl px-4 py-3 text-base text-white focus:outline-none focus:border-pink-500 transition-all mb-3"
+            />
+            {apiKeyInputError && <p className="text-rose-400 text-sm mb-3">{apiKeyInputError}</p>}
+            <Button onClick={handleSaveApiKey} className="w-full py-4 text-lg font-bold rounded-2xl bg-pink-600 hover:bg-pink-500 text-white shadow-lg shadow-pink-500/20">
+              Save & Continue
+            </Button>
+          </div>
+        </div>
+      ) : gameState === GameState.PLAYER_SETUP && (
         <div className="flex flex-col items-center justify-center min-h-screen p-4 md:p-6 text-center max-w-2xl mx-auto z-10 relative">
           <div className="mb-8 md:mb-12 space-y-2 md:space-y-4 animate-[fadeIn_0.8s_ease-out]">
             <h1 className="text-5xl sm:text-7xl md:text-9xl font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white to-pink-200 drop-shadow-2xl">
@@ -679,11 +704,12 @@ useEffect(() => {
           <div className="w-full glass-panel p-6 md:p-10 rounded-3xl md:rounded-[2.5rem] shadow-2xl border-white/5 animate-[slideUp_0.6s_ease-out]">
             <div className="flex flex-col md:flex-row justify-between items-center mb-6 md:mb-8 gap-4">
               <h2 className="text-xl md:text-2xl font-bold text-white/90 text-center md:text-left">{players[topicPickerIndex]?.name}, Choose Your Realm</h2>
-              <button 
-                onClick={handleSelectApiKey}
-                className={`text-[10px] font-black tracking-widest px-3 py-1.5 rounded-lg border transition-all shrink-0 ${hasCustomKey ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-400' : 'bg-white/5 border-white/10 text-slate-500 hover:text-white'}`}
+              <button
+                onClick={handleForgetApiKey}
+                className="text-[10px] font-black tracking-widest px-3 py-1.5 rounded-lg border transition-all shrink-0 bg-emerald-500/10 border-emerald-500/30 text-emerald-400 hover:bg-emerald-500/20"
+                title="Remove the saved key from this browser"
               >
-                {hasCustomKey ? 'PAID KEY ACTIVE' : 'USE PAID API KEY'}
+                API KEY ACTIVE — CHANGE
               </button>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-2 sm:gap-4 mb-8 md:mb-10">
