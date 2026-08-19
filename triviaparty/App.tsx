@@ -224,7 +224,7 @@ useEffect(() => {
       
       if (!isQuotaReached) {
         const promises: Promise<any>[] = [];
-        if (!newQuestion.questionAudio) {
+        if (!newQuestion.questionAudio && !newQuestion.questionStemAudio) {
           let qText = newQuestion.questionText;
           if (newQuestion.options && newQuestion.options.length > 0) {
             qText += " Is it: " + newQuestion.options.join(", ") + "?";

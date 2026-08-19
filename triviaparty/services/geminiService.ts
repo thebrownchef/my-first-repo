@@ -388,33 +388,31 @@ async function generateWithRetries(
         timestamp: Date.now(),
       });
       
-      // Fetch TTS question and answer audio in the background in parallel
+      // Fetch TTS audio for the question stem, the answer, and each option.
+      // Requested one at a time (with a short stagger) rather than all at once —
+      // firing 6+ TTS calls simultaneously reliably trips the free tier's rate limit.
       try {
         const questionStemText = `${question.questionText} Is it...`;
         const answerTextToSpeak = `${question.correctAnswer}. ${question.explanation}`;
-        
-        const optionPromises = question.options.map(opt => generateTriviaAudio(`${opt}.`));
 
-        const [stemAudioRes, aAudioRes, ...optionAudioResList] = await Promise.all([
-          generateTriviaAudio(questionStemText),
-          generateTriviaAudio(answerTextToSpeak),
-          ...optionPromises
-        ]);
+        const jobs: Array<{ label: 'stem' | 'answer' | number; text: string }> = [
+          { label: 'stem', text: questionStemText },
+          { label: 'answer', text: answerTextToSpeak },
+          ...question.options.map((opt, index) => ({ label: index, text: `${opt}.` })),
+        ];
 
-        if (stemAudioRes.data) {
-          question.questionStemAudio = stemAudioRes.data;
-        }
-        if (aAudioRes.data) {
-          question.answerAudio = aAudioRes.data;
-        }
-        
         question.optionAudios = {};
-        question.options.forEach((opt, index) => {
-          if (optionAudioResList[index].data) {
-             question.optionAudios![opt] = optionAudioResList[index].data;
-          }
-        });
 
+        for (const job of jobs) {
+          const res = await generateTriviaAudio(job.text);
+          if (res.data) {
+            if (job.label === 'stem') question.questionStemAudio = res.data;
+            else if (job.label === 'answer') question.answerAudio = res.data;
+            else question.optionAudios![question.options[job.label]] = res.data;
+          }
+          if (res.error === "QUOTA_EXCEEDED") break; // no point hammering further calls
+          await delay(150); // stay comfortably under the requests-per-minute limit
+        }
       } catch (audioErr) {
         console.warn("Failed to generate background TTS audio for question:", audioErr);
       }
