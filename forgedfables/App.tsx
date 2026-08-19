@@ -11,7 +11,10 @@ import {
   generateStoryImage, 
   generateVictoryImage,
   generateRoundSummary,
-  generateBallad
+  generateBallad,
+  getStoredApiKey,
+  setStoredApiKey,
+  clearStoredApiKey
 } from './services/geminiService';
 import { Button } from './components/Button';
 import { PlayerCard } from './components/PlayerCard';
@@ -148,6 +151,26 @@ const App: React.FC = () => {
     activeCharacterName: undefined, // Initialize empty
     roundSummaries: []
   });
+
+  const [hasCustomKey, setHasCustomKey] = useState<boolean>(() => !!getStoredApiKey());
+  const [apiKeyInput, setApiKeyInput] = useState<string>('');
+  const [apiKeyInputError, setApiKeyInputError] = useState<string>('');
+
+  const handleSaveApiKey = () => {
+    if (!apiKeyInput.trim()) {
+      setApiKeyInputError('Paste your Gemini API key to continue.');
+      return;
+    }
+    setStoredApiKey(apiKeyInput);
+    setHasCustomKey(true);
+    setApiKeyInputError('');
+  };
+
+  const handleForgetApiKey = () => {
+    clearStoredApiKey();
+    setHasCustomKey(false);
+    setApiKeyInput('');
+  };
 
   const [newPlayerName, setNewPlayerName] = useState('');
   const [scenarioInput, setScenarioInput] = useState('');
@@ -1880,6 +1903,34 @@ const App: React.FC = () => {
       </div>
     </div>
   );
+
+  if (!hasCustomKey) {
+    return (
+      <div className="h-screen bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-gray-800 via-gray-900 to-black p-4 md:p-8 flex flex-col items-center justify-center overflow-hidden">
+        <div className="w-full max-w-xl bg-gray-900/70 border border-amber-500/20 rounded-2xl p-8 md:p-10 shadow-2xl text-center">
+          <h2 className="text-2xl md:text-3xl font-black text-amber-100 mb-3 tracking-tight">Enter Your Gemini API Key</h2>
+          <p className="text-sm text-gray-400 mb-6 leading-relaxed">
+            Forged Fables writes your story, illustrates it, and reads it aloud as you play, so it needs a Gemini API key to run.
+            Get a free one at <span className="text-amber-300 font-medium">aistudio.google.com</span> — it's saved only in this browser, never sent anywhere but Google.
+          </p>
+          <input
+            type="password"
+            value={apiKeyInput}
+            onChange={(e) => { setApiKeyInput(e.target.value); setApiKeyInputError(''); }}
+            onKeyDown={(e) => e.key === 'Enter' && handleSaveApiKey()}
+            placeholder="Paste your API key..."
+            autoFocus
+            className="w-full bg-black/30 border-2 border-amber-500/20 rounded-xl px-4 py-3 text-base text-white focus:outline-none focus:border-amber-500 transition-all mb-3"
+          />
+          {apiKeyInputError && <p className="text-red-400 text-sm mb-3">{apiKeyInputError}</p>}
+          <Button onClick={handleSaveApiKey} className="w-full py-4 text-lg">Save &amp; Continue</Button>
+          <p className="text-xs text-gray-500 mt-4">
+            Note: Lyria (the victory ballad music) needs a paid Gemini tier — everything else works on a free key.
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="h-screen bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-gray-800 via-gray-900 to-black p-4 md:p-8 flex flex-col overflow-hidden">

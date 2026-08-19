@@ -6,7 +6,82 @@ const Type = {
 const Modality = {
   AUDIO: "AUDIO"
 };
+import { GoogleGenAI } from "@google/genai";
 import { Player, StorySegment, ConditionUpdate } from "../types";
+
+// The key is never bundled into the built app or committed to the repo — it's
+// entered once in the browser and kept in localStorage on the player's own device.
+export const API_KEY_STORAGE_KEY = "forgedfables_gemini_api_key";
+
+export function getStoredApiKey(): string | null {
+  try {
+    return localStorage.getItem(API_KEY_STORAGE_KEY);
+  } catch {
+    return null;
+  }
+}
+
+export function setStoredApiKey(key: string): void {
+  localStorage.setItem(API_KEY_STORAGE_KEY, key.trim());
+  ai = new GoogleGenAI({ apiKey: key.trim() });
+}
+
+export function clearStoredApiKey(): void {
+  localStorage.removeItem(API_KEY_STORAGE_KEY);
+}
+
+let ai = new GoogleGenAI({ apiKey: getStoredApiKey() || "" });
+
+// Calls Gemini directly from the browser and normalizes the response into the
+// same { text, candidates } shape the app's original Express proxy returned,
+// so every call site below needed no changes beyond swapping fetch() for this.
+async function callGenerateContent(body: any): Promise<{ text: string; candidates: any }> {
+  const { model, ...params } = body;
+  const response = await ai.models.generateContent({ model, ...params });
+  let text = '';
+  try { text = response.text || ''; } catch { /* text getter can throw if empty */ }
+  return { text, candidates: response.candidates };
+}
+
+// Mirrors the original server's /api/generateMusic handler, but streamed
+// straight from the browser instead of through a backend.
+async function callGenerateMusic(prompt: string): Promise<{ audioBase64: string; lyrics: string; mimeType: string }> {
+  const stream = await ai.models.generateContentStream({
+    model: "lyria-3-clip-preview",
+    contents: prompt,
+    config: { responseModalities: ["AUDIO"] },
+  });
+
+  const audioChunks: Uint8Array[] = [];
+  let lyrics = "";
+  let mimeType = "audio/wav";
+
+  for await (const chunk of stream) {
+    const parts = chunk.candidates?.[0]?.content?.parts;
+    if (!parts) continue;
+    for (const part of parts) {
+      if (part.inlineData?.data) {
+        if (audioChunks.length === 0 && part.inlineData.mimeType) mimeType = part.inlineData.mimeType;
+        const binary = atob(part.inlineData.data);
+        const bytes = new Uint8Array(binary.length);
+        for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+        audioChunks.push(bytes);
+      }
+      if (part.text) lyrics += part.text;
+    }
+  }
+
+  const totalLength = audioChunks.reduce((sum, chunk) => sum + chunk.length, 0);
+  const combined = new Uint8Array(totalLength);
+  let offset = 0;
+  for (const chunk of audioChunks) { combined.set(chunk, offset); offset += chunk.length; }
+
+  let binaryStr = '';
+  for (let i = 0; i < combined.length; i++) binaryStr += String.fromCharCode(combined[i]);
+  const audioBase64 = combined.length > 0 ? btoa(binaryStr) : '';
+
+  return { audioBase64, lyrics, mimeType };
+}
 
 // --- CONFIGURATION ---
 
@@ -69,19 +144,10 @@ async function generateWithFallback(
         // console.log(`[Gemini Req] Model: ${currentModel} | Attempt: ${currentModelRetries + 1}`);
 
         try {
-            const res = await fetch("/api/generateContent", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    model: currentModel,
-                    ...params
-                })
+            const response = await callGenerateContent({
+                model: currentModel,
+                ...params
             });
-            if (!res.ok) {
-                const errData = await res.json().catch(() => ({}));
-                throw new Error(errData.error || `HTTP ${res.status}`);
-            }
-            const response = await res.json();
             return response; 
 
         } catch (e: any) {
@@ -149,19 +215,10 @@ async function generateImageWithFallbackStrategy(prompt: string): Promise<string
     for (const modelId of IMAGE_MODELS) {
         try {
             console.log(`[Image Gen] Trying: ${modelId}`);
-            const res = await fetch("/api/generateContent", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    model: modelId,
-                    contents: { parts: [{ text: prompt }] },
-                })
+            const response = await callGenerateContent({
+                model: modelId,
+                contents: { parts: [{ text: prompt }] },
             });
-            if (!res.ok) {
-                const errData = await res.json().catch(() => ({}));
-                throw new Error(errData.error || `HTTP ${res.status}`);
-            }
-            const response = await res.json();
 
             if (response.candidates?.[0]?.content?.parts) {
                 for (const part of response.candidates[0].content.parts) {
@@ -932,25 +989,16 @@ export const generateRoundSummary = async (
 
 export const generateSpeech = async (text: string): Promise<string | undefined> => {
     try {
-        const res = await fetch("/api/generateContent", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({
-                model: TTS_MODEL,
-                contents: [{ parts: [{ text }] }],
-                config: {
-                    responseModalities: [Modality.AUDIO],
-                    speechConfig: {
-                        voiceConfig: { prebuiltVoiceConfig: { voiceName: 'Fenrir' } }
-                    }
+        const response = await callGenerateContent({
+            model: TTS_MODEL,
+            contents: [{ parts: [{ text }] }],
+            config: {
+                responseModalities: [Modality.AUDIO],
+                speechConfig: {
+                    voiceConfig: { prebuiltVoiceConfig: { voiceName: 'Fenrir' } }
                 }
-            })
+            }
         });
-        if (!res.ok) {
-            const errData = await res.json().catch(() => ({}));
-            throw new Error(errData.error || `HTTP ${res.status}`);
-        }
-        const response = await res.json();
         const audioPart = response.candidates?.[0]?.content?.parts?.[0];
         if (audioPart && audioPart.inlineData) {
             return audioPart.inlineData.data;
@@ -974,18 +1022,8 @@ export const generateBallad = async (
             : '';
         const prompt = `Scenario: ${scenario}.${winnerFocus} Create a 30-second thematic audio track summarizing the following narrative sequence. Ensure the music style matches the scenario: ${text}`;
         
-        const res = await fetch("/api/generateMusic", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ prompt })
-        });
-        
-        if (!res.ok) {
-            throw new Error(`HTTP ${res.status}`);
-        }
-        
-        const data = await res.json();
-        
+        const data = await callGenerateMusic(prompt);
+
         if (!data.audioBase64 && !data.lyrics) {
             return undefined;
         }
