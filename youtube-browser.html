@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Signal — a YouTube browser without the algorithm</title>
+<style>
+  :root{
+    --bg:#0b0f14; --panel:#121821; --panel2:#0e141c; --border:#233043; --text:#e6edf3;
+    --muted:#8b98a9; --accent:#5ec8ff; --accent2:#ffb454; --danger:#ff6b6b; --good:#4ade80;
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%;margin:0;background:var(--bg);color:var(--text);
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;}
+  a{color:var(--accent)}
+  button{font-family:inherit}
+  .app{display:grid;grid-template-columns:220px 1fr;grid-template-rows:56px 1fr;height:100vh;}
+  header{grid-column:1/3;display:flex;align-items:center;gap:16px;padding:0 16px;
+    background:var(--panel2);border-bottom:1px solid var(--border);}
+  header h1{font-size:16px;margin:0;font-weight:700;letter-spacing:.3px}
+  header .stat{font-size:12px;color:var(--muted)}
+  nav.side{background:var(--panel2);border-right:1px solid var(--border);padding:12px 8px;overflow-y:auto;}
+  nav.side button{display:block;width:100%;text-align:left;background:transparent;border:none;color:var(--text);
+    padding:10px 12px;border-radius:8px;cursor:pointer;font-size:14px;margin-bottom:2px;}
+  nav.side button:hover{background:#182231}
+  nav.side button.active{background:#1c2b3f;color:var(--accent);font-weight:600}
+  main{overflow-y:auto;padding:18px 22px;}
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .card{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:14px;margin-bottom:14px;}
+  input[type=text],input[type=number],input[type=password],textarea,select{
+    background:var(--panel2);border:1px solid var(--border);color:var(--text);
+    padding:8px 10px;border-radius:8px;font-size:13px;}
+  textarea{width:100%;min-height:70px;font-family:ui-monospace,monospace;}
+  .btn{background:#1c2b3f;border:1px solid var(--border);color:var(--text);padding:7px 12px;
+    border-radius:8px;cursor:pointer;font-size:13px;}
+  .btn:hover{border-color:var(--accent)}
+  .btn.primary{background:#1a3550;border-color:var(--accent);color:var(--accent)}
+  .btn.danger{border-color:var(--danger);color:var(--danger)}
+  .btn.small{padding:4px 8px;font-size:12px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px;}
+  .vcard{background:var(--panel);border:1px solid var(--border);border-radius:10px;overflow:hidden;
+    display:flex;flex-direction:column;}
+  .vcard img{width:100%;aspect-ratio:16/9;object-fit:cover;background:#000;display:block;cursor:pointer}
+  .vcard .body{padding:10px 12px;display:flex;flex-direction:column;gap:6px;flex:1}
+  .vcard .title{font-size:13.5px;font-weight:600;line-height:1.3;cursor:pointer}
+  .vcard .title:hover{color:var(--accent)}
+  .vcard .meta{font-size:11.5px;color:var(--muted)}
+  .vcard .actions{display:flex;gap:6px;margin-top:auto;flex-wrap:wrap}
+  .badge{font-size:10.5px;padding:2px 7px;border-radius:999px;border:1px solid var(--border);color:var(--muted)}
+  .badge.dur{color:var(--accent2);border-color:#3a2e1a}
+  h2{font-size:16px;margin:0 0 10px 0}
+  h3{font-size:13px;margin:0 0 8px 0;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+  label{font-size:12px;color:var(--muted);display:block;margin-bottom:4px}
+  .chlist{display:flex;flex-direction:column;gap:8px}
+  .chrow{display:flex;align-items:center;gap:10px;background:var(--panel2);border:1px solid var(--border);
+    border-radius:8px;padding:8px 10px;}
+  .chrow img{width:36px;height:36px;border-radius:50%;background:#333}
+  .chrow .name{flex:1;font-size:13px}
+  .chrow .weight input{width:60px}
+  .muted{color:var(--muted)}
+  .empty{color:var(--muted);padding:30px;text-align:center;border:1px dashed var(--border);border-radius:12px}
+  dialog{background:var(--panel);color:var(--text);border:1px solid var(--border);border-radius:12px;
+    padding:0;max-width:900px;width:92vw;}
+  dialog::backdrop{background:rgba(0,0,0,.6)}
+  .player-wrap{padding:16px}
+  .player-wrap iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:8px;background:#000}
+  .transcript{max-height:260px;overflow-y:auto;background:var(--panel2);border:1px solid var(--border);
+    border-radius:8px;padding:10px;font-size:12.5px;margin-top:10px;white-space:pre-wrap;}
+  .tabs{display:flex;gap:6px;margin-bottom:10px}
+  .tabs button{padding:6px 10px;font-size:12px}
+  .toast{position:fixed;bottom:18px;right:18px;background:#1a2635;border:1px solid var(--border);
+    padding:10px 14px;border-radius:8px;font-size:13px;z-index:999;max-width:360px}
+  code{background:#0e141c;padding:1px 5px;border-radius:4px;font-size:12px}
+  .searchbar{display:flex;gap:8px;margin-bottom:14px}
+  .searchbar input{flex:1}
+  .sort-controls select{width:auto}
+  ::-webkit-scrollbar{width:10px;height:10px}
+  ::-webkit-scrollbar-thumb{background:#233043;border-radius:6px}
+</style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <h1>📡 Signal</h1>
+    <span class="stat" id="statLine">loading…</span>
+  </header>
+  <nav class="side">
+    <button data-view="feed" class="active">Feed</button>
+    <button data-view="channels">Channels</button>
+    <button data-view="queue">Queue</button>
+    <button data-view="search">Search</button>
+    <button data-view="blocklist">Blocklists</button>
+    <button data-view="settings">Settings</button>
+  </nav>
+  <main id="main"></main>
+</div>
+
+<dialog id="playerDialog">
+  <div class="player-wrap">
+    <div id="playerFrameHolder"></div>
+    <div class="row" style="margin-top:10px;justify-content:space-between">
+      <div class="row">
+        <button class="btn" id="btnMarkWatched">Mark watched</button>
+        <button class="btn" id="btnNextInQueue">Next in queue ▶</button>
+      </div>
+      <button class="btn" id="btnClosePlayer">Close</button>
+    </div>
+    <div class="tabs">
+      <button class="btn small active" data-ttab="info">Info</button>
+      <button class="btn small" data-ttab="transcript">Transcript skim</button>
+    </div>
+    <div id="ttabInfo"></div>
+    <div id="ttabTranscript" style="display:none">
+      <div class="row">
+        <button class="btn small" id="btnLoadTranscript">Fetch transcript</button>
+        <span class="muted" id="transcriptStatus" style="font-size:12px"></span>
+      </div>
+      <div class="transcript" id="transcriptBox" style="display:none"></div>
+    </div>
+  </div>
+</dialog>
+
+<script>
+/* ---------------- IndexedDB layer ---------------- */
+const DB_NAME = 'signal_yt_db';
+const DB_VERSION = 1;
+let db;
+function openDB(){
+  return new Promise((resolve, reject)=>{
+    const req = indexedDB.open(DB_NAME, DB_VERSION);
+    req.onupgradeneeded = (e)=>{
+      const d = e.target.result;
+      if(!d.objectStoreNames.contains('channels')) d.createObjectStore('channels', {keyPath:'id'});
+      if(!d.objectStoreNames.contains('videos')){
+        const s = d.createObjectStore('videos', {keyPath:'id'});
+        s.createIndex('channelId','channelId');
+        s.createIndex('publishedAt','publishedAt');
+      }
+      if(!d.objectStoreNames.contains('state')) d.createObjectStore('state', {keyPath:'videoId'});
+      if(!d.objectStoreNames.contains('queue')) d.createObjectStore('queue', {keyPath:'videoId'});
+      if(!d.objectStoreNames.contains('kv')) d.createObjectStore('kv', {keyPath:'key'});
+    };
+    req.onsuccess = ()=>{ db = req.result; resolve(db); };
+    req.onerror = ()=> reject(req.error);
+  });
+}
+function tx(store, mode='readonly'){ return db.transaction(store, mode).objectStore(store); }
+function idbAll(store){ return new Promise((res,rej)=>{ const r = tx(store).getAll(); r.onsuccess=()=>res(r.result); r.onerror=()=>rej(r.error); }); }
+function idbGet(store, key){ return new Promise((res,rej)=>{ const r = tx(store).get(key); r.onsuccess=()=>res(r.result); r.onerror=()=>rej(r.error); }); }
+function idbPut(store, val){ return new Promise((res,rej)=>{ const r = tx(store,'readwrite').put(val); r.onsuccess=()=>res(); r.onerror=()=>rej(r.error); }); }
+function idbDel(store, key){ return new Promise((res,rej)=>{ const r = tx(store,'readwrite').delete(key); r.onsuccess=()=>res(); r.onerror=()=>rej(r.error); }); }
+async function kvGet(key, dflt){ const v = await idbGet('kv', key); return v ? v.value : dflt; }
+async function kvSet(key, value){ return idbPut('kv', {key, value}); }
+
+/* ---------------- Utilities ---------------- */
+function toast(msg, ms=3500){
+  const t = document.createElement('div');
+  t.className='toast'; t.textContent=msg;
+  document.body.appendChild(t);
+  setTimeout(()=>t.remove(), ms);
+}
+function parseISODuration(iso){
+  // PT#H#M#S
+  const m = /^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/.exec(iso||'');
+  if(!m) return 0;
+  const h=+(m[1]||0), min=+(m[2]||0), s=+(m[3]||0);
+  return h*3600+min*60+s;
+}
+function fmtDuration(sec){
+  if(!sec) return '0:00';
+  const h=Math.floor(sec/3600), m=Math.floor((sec%3600)/60), s=Math.floor(sec%60);
+  if(h) return `${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  return `${m}:${String(s).padStart(2,'0')}`;
+}
+function timeAgo(iso){
+  const d = new Date(iso), now=new Date();
+  const days = Math.floor((now-d)/86400000);
+  if(days<1) return 'today';
+  if(days<30) return `${days}d ago`;
+  if(days<365) return `${Math.floor(days/30)}mo ago`;
+  return `${Math.floor(days/365)}y ago`;
+}
+function extractChannelRef(input){
+  input = input.trim();
+  // full URL forms
+  let m;
+  if(m = /youtube\.com\/channel\/(UC[\w-]{20,})/.exec(input)) return {type:'id', value:m[1]};
+  if(m = /youtube\.com\/@([\w.-]+)/.exec(input)) return {type:'handle', value:'@'+m[1]};
+  if(m = /youtube\.com\/(?:c|user)\/([\w.-]+)/.exec(input)) return {type:'user', value:m[1]};
+  if(/^UC[\w-]{20,}$/.test(input)) return {type:'id', value:input};
+  if(input.startsWith('@')) return {type:'handle', value:input};
+  return {type:'search', value:input};
+}
+function escapeHtml(s){
+  return (s||'').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function debounce(fn, ms){ let t; return (...a)=>{ clearTimeout(t); t=setTimeout(()=>fn(...a), ms); }; }
+
+/* ---------------- YouTube Data API ---------------- */
+const API_BASE = 'https://www.googleapis.com/youtube/v3';
+async function apiKey(){ return await kvGet('apiKey',''); }
+async function ytFetch(path, params){
+  const key = await apiKey();
+  if(!key) throw new Error('No API key set. Add one in Settings.');
+  const url = new URL(API_BASE + path);
+  params.key = key;
+  Object.entries(params).forEach(([k,v])=>url.searchParams.set(k,v));
+  const res = await fetch(url.toString());
+  if(!res.ok){
+    const body = await res.text();
+    throw new Error(`YouTube API error ${res.status}: ${body.slice(0,300)}`);
+  }
+  return res.json();
+}
+async function resolveChannel(ref){
+  if(ref.type==='id'){
+    const data = await ytFetch('/channels', {part:'snippet,contentDetails', id:ref.value});
+    if(!data.items?.length) throw new Error('Channel not found');
+    return channelFromApi(data.items[0]);
+  }
+  if(ref.type==='handle'){
+    const data = await ytFetch('/channels', {part:'snippet,contentDetails', forHandle:ref.value.replace(/^@/,'')});
+    if(!data.items?.length) throw new Error('Channel not found for handle '+ref.value);
+    return channelFromApi(data.items[0]);
+  }
+  if(ref.type==='user'){
+    const data = await ytFetch('/channels', {part:'snippet,contentDetails', forUsername:ref.value});
+    if(!data.items?.length) throw new Error('Channel not found for user '+ref.value);
+    return channelFromApi(data.items[0]);
+  }
+  // fallback: search
+  const s = await ytFetch('/search', {part:'snippet', q:ref.value, type:'channel', maxResults:1});
+  if(!s.items?.length) throw new Error('No channel found for "'+ref.value+'"');
+  const chId = s.items[0].snippet.channelId;
+  return resolveChannel({type:'id', value:chId});
+}
+function channelFromApi(item){
+  const uploads = item.contentDetails.relatedPlaylists.uploads;
+  // UULF = "no shorts" uploads-like playlist: replace UC prefix with UULF
+  const noShortsPlaylist = uploads.startsWith('UU') ? 'UULF'+uploads.slice(2) : null;
+  return {
+    id: item.id,
+    title: item.snippet.title,
+    thumb: item.snippet.thumbnails?.default?.url || '',
+    uploadsPlaylistId: uploads,
+    noShortsPlaylistId: noShortsPlaylist,
+    weight: 1,
+    useNoShortsFeed: true,
+    addedAt: Date.now(),
+  };
+}
+async function fetchPlaylistVideos(playlistId, maxPages=2){
+  let items = [];
+  let pageToken = '';
+  for(let i=0;i<maxPages;i++){
+    const params = {part:'contentDetails', playlistId, maxResults:50};
+    if(pageToken) params.pageToken = pageToken;
+    let data;
+    try{ data = await ytFetch('/playlistItems', params); }
+    catch(e){ throw e; }
+    items = items.concat(data.items || []);
+    if(!data.nextPageToken) break;
+    pageToken = data.nextPageToken;
+  }
+  return items.map(it=>it.contentDetails.videoId);
+}
+async function fetchVideoDetails(videoIds){
+  const out = [];
+  for(let i=0;i<videoIds.length;i+=50){
+    const chunk = videoIds.slice(i,i+50);
+    const data = await ytFetch('/videos', {part:'snippet,contentDetails,liveStreamingDetails', id:chunk.join(',')});
+    out.push(...(data.items||[]));
+  }
+  return out;
+}
+function videoFromApi(item){
+  const dur = parseISODuration(item.contentDetails.duration);
+  const isLive = item.snippet.liveBroadcastContent && item.snippet.liveBroadcastContent!=='none';
+  return {
+    id: item.id,
+    channelId: item.snippet.channelId,
+    channelTitle: item.snippet.channelTitle,
+    title: item.snippet.title,
+    description: item.snippet.description || '',
+    thumb: item.snippet.thumbnails?.medium?.url || item.snippet.thumbnails?.default?.url || '',
+    publishedAt: item.snippet.publishedAt,
+    durationSec: dur,
+    isLive: !!isLive,
+    ingestedAt: Date.now(),
+  };
+}
+
+/* ---------------- Filters / blocklists ---------------- */
+async function getBlocklists(){
+  return {
+    keywords: await kvGet('blockKeywords', []),
+    regexes: await kvGet('blockRegex', []),
+    channels: await kvGet('blockChannels', []),
+    videos: await kvGet('blockVideos', []),
+  };
+}
+async function getHardFilters(){
+  return await kvGet('hardFilters', {hideShorts:true, hideLive:true, maxHours:3});
+}
+function titleBlocked(title, bl){
+  const lower = title.toLowerCase();
+  for(const kw of bl.keywords){ if(kw && lower.includes(kw.toLowerCase())) return true; }
+  for(const rx of bl.regexes){
+    try{ if(rx && new RegExp(rx,'i').test(title)) return true; }catch(e){}
+  }
+  return false;
+}
+async function isVideoAllowed(v){
+  const hf = await getHardFilters();
+  const bl = await getBlocklists();
+  if(hf.hideLive && v.isLive) return false;
+  if(hf.hideShorts && v.durationSec>0 && v.durationSec<60) return false;
+  if(hf.maxHours && v.durationSec > hf.maxHours*3600) return false;
+  if(bl.channels.includes(v.channelId)) return false;
+  if(bl.videos.includes(v.id)) return false;
+  if(titleBlocked(v.title, bl)) return false;
+  return true;
+}
+
+/* ---------------- App state / views ---------------- */
+let currentView = 'feed';
+const $main = document.getElementById('main');
+const $stat = document.getElementById('statLine');
+
+async function refreshStat(){
+  const [channels, videos, queue] = await Promise.all([idbAll('channels'), idbAll('videos'), idbAll('queue')]);
+  $stat.textContent = `${channels.length} channels · ${videos.length} videos ingested · ${queue.length} queued`;
+}
+
+function setActiveNav(view){
+  document.querySelectorAll('nav.side button').forEach(b=>{
+    b.classList.toggle('active', b.dataset.view===view);
+  });
+}
+async function navigate(view){
+  currentView = view;
+  setActiveNav(view);
+  await refreshStat();
+  if(view==='feed') return renderFeed();
+  if(view==='channels') return renderChannels();
+  if(view==='queue') return renderQueue();
+  if(view==='search') return renderSearch();
+  if(view==='blocklist') return renderBlocklist();
+  if(view==='settings') return renderSettings();
+}
+document.querySelectorAll('nav.side button').forEach(b=>{
+  b.addEventListener('click', ()=>navigate(b.dataset.view));
+});
+
+/* ---------------- Video card rendering ---------------- */
+async function videoCardHtml(v, opts={}){
+  const state = await idbGet('state', v.id) || {};
+  const inQueue = !!(await idbGet('queue', v.id));
+  return `
+  <div class="vcard" data-vid="${v.id}">
+    <img src="${v.thumb}" alt="" data-play="${v.id}">
+    <div class="body">
+      <div class="title" data-play="${v.id}">${escapeHtml(v.title)}</div>
+      <div class="meta">${escapeHtml(v.channelTitle)} · ${timeAgo(v.publishedAt)}
+        <span class="badge dur">${fmtDuration(v.durationSec)}</span>
+        ${state.watched ? '<span class="badge">watched</span>' : ''}
+      </div>
+      <div class="actions">
+        ${inQueue
+          ? `<button class="btn small" data-act="unqueue" data-vid="${v.id}">− Queue</button>`
+          : `<button class="btn small" data-act="queue" data-vid="${v.id}">+ Queue</button>`}
+        <button class="btn small" data-act="watched" data-vid="${v.id}">${state.watched?'Unwatch':'Watched'}</button>
+        <button class="btn small" data-act="dismiss" data-vid="${v.id}">Dismiss</button>
+        <button class="btn small danger" data-act="neveragain" data-vid="${v.id}" title="Block this channel entirely">Never (channel)</button>
+      </div>
+    </div>
+  </div>`;
+}
+function wireCardActions(root){
+  root.querySelectorAll('[data-play]').forEach(el=>{
+    el.addEventListener('click', ()=>openPlayer(el.dataset.play));
+  });
+  root.querySelectorAll('[data-act]').forEach(el=>{
+    el.addEventListener('click', async ()=>{
+      const vid = el.dataset.vid;
+      const act = el.dataset.act;
+      if(act==='queue'){ await idbPut('queue', {videoId:vid, addedAt:Date.now()}); toast('Added to queue'); }
+      else if(act==='unqueue'){ await idbDel('queue', vid); toast('Removed from queue'); }
+      else if(act==='watched'){
+        const s = await idbGet('state', vid) || {videoId:vid};
+        s.watched = !s.watched; s.watchedAt = s.watched ? Date.now() : null;
+        await idbPut('state', s);
+      } else if(act==='dismiss'){
+        const s = await idbGet('state', vid) || {videoId:vid};
+        s.dismissed = true; s.dismissedAt = Date.now();
+        await idbPut('state', s);
+        toast('Dismissed');
+      } else if(act==='neveragain'){
+        const v = await idbGet('videos', vid);
+        if(v){
+          const bl = await kvGet('blockChannels', []);
+          if(!bl.includes(v.channelId)) bl.push(v.channelId);
+          await kvSet('blockChannels', bl);
+          toast(`Blocked channel: ${v.channelTitle}`);
+        }
+      }
+      navigate(currentView);
+    });
+  });
+}
+
+/* ---------------- Feed view ---------------- */
+async function renderFeed(){
+  $main.innerHTML = `
+    <div class="row" style="justify-content:space-between;margin-bottom:12px">
+      <h2 style="margin:0">Feed</h2>
+      <div class="row">
+        <button class="btn primary" id="btnRefreshAll">↻ Refresh all channels</button>
+        <select id="sortSel" class="sort-controls">
+          <option value="weighted">Weighted (per-channel)</option>
+          <option value="newest">Newest first</option>
+        </select>
+      </div>
+    </div>
+    <div id="feedBody" class="grid"><div class="empty">Loading…</div></div>
+  `;
+  document.getElementById('btnRefreshAll').addEventListener('click', refreshAllChannels);
+  document.getElementById('sortSel').addEventListener('change', renderFeedList);
+  await renderFeedList();
+}
+async function renderFeedList(){
+  const body = document.getElementById('feedBody');
+  const sortMode = document.getElementById('sortSel')?.value || 'weighted';
+  const [videos, channels, states] = await Promise.all([idbAll('videos'), idbAll('channels'), idbAll('state')]);
+  const chMap = Object.fromEntries(channels.map(c=>[c.id,c]));
+  const dismissed = new Set(states.filter(s=>s.dismissed).map(s=>s.videoId));
+  const watched = new Set(states.filter(s=>s.watched).map(s=>s.videoId));
+
+  let list = [];
+  for(const v of videos){
+    if(dismissed.has(v.id) || watched.has(v.id)) continue;
+    if(!(await isVideoAllowed(v))) continue;
+    list.push(v);
+  }
+  if(list.length===0){
+    body.innerHTML = `<div class="empty">No videos to show. Add channels and hit "Refresh all channels", or adjust your filters/blocklists.</div>`;
+    return;
+  }
+  if(sortMode==='newest'){
+    list.sort((a,b)=> new Date(b.publishedAt)-new Date(a.publishedAt));
+  } else {
+    // Weighted round-robin: score = recency * channel weight, then interleave
+    const byChannel = {};
+    for(const v of list){ (byChannel[v.channelId] ||= []).push(v); }
+    Object.values(byChannel).forEach(arr=>arr.sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)));
+    const weight = (chId)=> (chMap[chId]?.weight ?? 1) || 0.01;
+    // repeatedly pick the channel with highest (weight / picksSoFar+1) ratio, take its next video
+    const picks = {};
+    const channelIds = Object.keys(byChannel).filter(id=>weight(id)>0);
+    const out = [];
+    const total = list.length;
+    for(let i=0;i<total;i++){
+      let best=null, bestScore=-1;
+      for(const id of channelIds){
+        if(!byChannel[id].length) continue;
+        const score = weight(id) / ((picks[id]||0)+1);
+        if(score>bestScore){ bestScore=score; best=id; }
+      }
+      if(best==null) break;
+      out.push(byChannel[best].shift());
+      picks[best] = (picks[best]||0)+1;
+    }
+    list = out;
+  }
+  const html = await Promise.all(list.slice(0,120).map(v=>videoCardHtml(v)));
+  body.innerHTML = html.join('');
+  wireCardActions(body);
+}
+async function refreshAllChannels(){
+  const channels = await idbAll('channels');
+  if(!channels.length){ toast('Add some channels first'); return; }
+  toast(`Refreshing ${channels.length} channel(s)…`);
+  let added = 0, errors = 0;
+  for(const ch of channels){
+    try{
+      const playlistId = (ch.useNoShortsFeed && ch.noShortsPlaylistId) ? ch.noShortsPlaylistId : ch.uploadsPlaylistId;
+      let ids;
+      try{
+        ids = await fetchPlaylistVideos(playlistId, 2);
+      }catch(e){
+        // UULF feed may not exist for some channels; fall back to normal uploads
+        if(playlistId !== ch.uploadsPlaylistId){
+          ids = await fetchPlaylistVideos(ch.uploadsPlaylistId, 2);
+        } else throw e;
+      }
+      const details = await fetchVideoDetails(ids);
+      for(const d of details){
+        const v = videoFromApi(d);
+        await idbPut('videos', v);
+        added++;
+      }
+    }catch(e){
+      console.error(e); errors++;
+      toast(`Error refreshing ${ch.title}: ${e.message}`, 5000);
+    }
+  }
+  toast(`Done. Ingested/updated ${added} videos${errors?`, ${errors} channel error(s)`:''}.`);
+  await refreshStat();
+  if(currentView==='feed') renderFeedList();
+}
+
+/* ---------------- Channels view ---------------- */
+async function renderChannels(){
+  $main.innerHTML = `
+    <h2>Channels</h2>
+    <div class="card">
+      <label>Add a channel — paste a URL, @handle, or channel ID</label>
+      <div class="row">
+        <input type="text" id="chInput" placeholder="@channelname or https://youtube.com/@channelname" style="min-width:340px">
+        <button class="btn primary" id="btnAddChannel">Add channel</button>
+      </div>
+      <p class="muted" style="font-size:12px;margin-top:8px">Requires a YouTube Data API key set in Settings.</p>
+    </div>
+    <div class="card">
+      <h3>Your channels</h3>
+      <div class="chlist" id="chList"><div class="empty">No channels yet.</div></div>
+    </div>
+  `;
+  document.getElementById('btnAddChannel').addEventListener('click', async ()=>{
+    const input = document.getElementById('chInput');
+    const val = input.value.trim();
+    if(!val) return;
+    try{
+      const ref = extractChannelRef(val);
+      const ch = await resolveChannel(ref);
+      const existing = await idbGet('channels', ch.id);
+      if(existing){ ch.weight = existing.weight; ch.useNoShortsFeed = existing.useNoShortsFeed; }
+      await idbPut('channels', ch);
+      toast(`Added: ${ch.title}`);
+      input.value='';
+      renderChannels();
+    }catch(e){ toast('Error: '+e.message, 6000); }
+  });
+  const channels = await idbAll('channels');
+  const listEl = document.getElementById('chList');
+  if(!channels.length){ return; }
+  channels.sort((a,b)=>a.title.localeCompare(b.title));
+  listEl.innerHTML = channels.map(c=>`
+    <div class="chrow" data-ch="${c.id}">
+      <img src="${c.thumb}" alt="">
+      <div class="name">${escapeHtml(c.title)}</div>
+      <label style="margin:0" class="weight">Weight
+        <input type="number" min="0" max="10" step="0.1" value="${c.weight}" data-wch="${c.id}">
+      </label>
+      <label style="margin:0;display:flex;align-items:center;gap:4px;font-size:12px">
+        <input type="checkbox" data-nsf="${c.id}" ${c.useNoShortsFeed?'checked':''}> no-shorts feed
+      </label>
+      <button class="btn small danger" data-rmch="${c.id}">Remove</button>
+    </div>
+  `).join('');
+  listEl.querySelectorAll('[data-wch]').forEach(inp=>{
+    inp.addEventListener('change', async ()=>{
+      const ch = await idbGet('channels', inp.dataset.wch);
+      ch.weight = parseFloat(inp.value)||0;
+      await idbPut('channels', ch);
+      toast('Weight updated');
+    });
+  });
+  listEl.querySelectorAll('[data-nsf]').forEach(inp=>{
+    inp.addEventListener('change', async ()=>{
+      const ch = await idbGet('channels', inp.dataset.nsf);
+      ch.useNoShortsFeed = inp.checked;
+      await idbPut('channels', ch);
+    });
+  });
+  listEl.querySelectorAll('[data-rmch]').forEach(btn=>{
+    btn.addEventListener('click', async ()=>{
+      if(!confirm('Remove this channel? Its already-ingested videos stay in your library.')) return;
+      await idbDel('channels', btn.dataset.rmch);
+      renderChannels();
+    });
+  });
+}
+
+/* ---------------- Queue view ---------------- */
+async function renderQueue(){
+  $main.innerHTML = `<h2>Queue</h2><div id="queueBody" class="grid"><div class="empty">Loading…</div></div>`;
+  const body = document.getElementById('queueBody');
+  const queue = await idbAll('queue');
+  if(!queue.length){ body.innerHTML = `<div class="empty">Queue is empty. Add videos from the Feed or Search.</div>`; return; }
+  queue.sort((a,b)=>a.addedAt-b.addedAt);
+  const videos = [];
+  for(const q of queue){
+    const v = await idbGet('videos', q.videoId);
+    if(v) videos.push(v);
+  }
+  const html = await Promise.all(videos.map(v=>videoCardHtml(v)));
+  body.innerHTML = html.join('');
+  wireCardActions(body);
+}
+
+/* ---------------- Search view (full text over title+description) ---------------- */
+async function renderSearch(){
+  $main.innerHTML = `
+    <h2>Search your library</h2>
+    <div class="searchbar">
+      <input type="text" id="searchInput" placeholder="Search titles and descriptions… (plain text, matches any word)">
+      <label style="margin:0;display:flex;align-items:center;gap:6px;white-space:nowrap">
+        <input type="checkbox" id="searchDismissed"> include dismissed/watched
+      </label>
+    </div>
+    <div id="searchBody" class="grid"><div class="empty">Type to search.</div></div>
+  `;
+  const input = document.getElementById('searchInput');
+  const chk = document.getElementById('searchDismissed');
+  const run = debounce(doSearch, 200);
+  input.addEventListener('input', run);
+  chk.addEventListener('change', run);
+}
+async function doSearch(){
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  const includeAll = document.getElementById('searchDismissed').checked;
+  const body = document.getElementById('searchBody');
+  if(!q){ body.innerHTML = `<div class="empty">Type to search.</div>`; return; }
+  const [videos, states] = await Promise.all([idbAll('videos'), idbAll('state')]);
+  const stateMap = Object.fromEntries(states.map(s=>[s.videoId,s]));
+  const terms = q.split(/\s+/).filter(Boolean);
+  let results = videos.filter(v=>{
+    const hay = (v.title+' '+v.description).toLowerCase();
+    return terms.every(t=>hay.includes(t));
+  });
+  if(!includeAll){
+    results = results.filter(v=>{
+      const s = stateMap[v.id];
+      return !(s && (s.dismissed || s.watched));
+    });
+  }
+  results.sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
+  if(!results.length){ body.innerHTML = `<div class="empty">No matches in your ingested library of ${videos.length} videos.</div>`; return; }
+  const html = await Promise.all(results.slice(0,150).map(v=>videoCardHtml(v)));
+  body.innerHTML = html.join('');
+  wireCardActions(body);
+}
+
+/* ---------------- Blocklist view ---------------- */
+async function renderBlocklist(){
+  const [keywords, regexes, blockedCh] = await Promise.all([
+    kvGet('blockKeywords', []), kvGet('blockRegex', []), kvGet('blockChannels', [])
+  ]);
+  const hf = await getHardFilters();
+  const channels = await idbAll('channels');
+  const chMap = Object.fromEntries(channels.map(c=>[c.id,c.title]));
+  $main.innerHTML = `
+    <h2>Blocklists &amp; hard filters</h2>
+    <div class="card">
+      <h3>Hard filters (always applied)</h3>
+      <div class="row">
+        <label style="margin:0"><input type="checkbox" id="hfShorts" ${hf.hideShorts?'checked':''}> Hide Shorts (&lt;60s)</label>
+        <label style="margin:0"><input type="checkbox" id="hfLive" ${hf.hideLive?'checked':''}> Hide livestreams</label>
+        <label style="margin:0">Max length (hours) <input type="number" id="hfMax" value="${hf.maxHours}" min="0" step="0.5" style="width:70px"></label>
+      </div>
+    </div>
+    <div class="card">
+      <h3>Keyword blocklist (title contains, case-insensitive)</h3>
+      <textarea id="kwBox" placeholder="one keyword per line">${keywords.join('\n')}</textarea>
+      <div class="row" style="margin-top:8px"><button class="btn primary" id="saveKw">Save keywords</button></div>
+    </div>
+    <div class="card">
+      <h3>Regex blocklist (title, one pattern per line)</h3>
+      <textarea id="rxBox" placeholder="e.g. \\b(react|top \\d+)\\b">${regexes.join('\n')}</textarea>
+      <div class="row" style="margin-top:8px"><button class="btn primary" id="saveRx">Save regexes</button></div>
+    </div>
+    <div class="card">
+      <h3>Blocked channels</h3>
+      <div class="chlist" id="blockedChList">${
+        blockedCh.length ? blockedCh.map(id=>`
+          <div class="chrow"><div class="name">${escapeHtml(chMap[id]||id)}</div>
+          <button class="btn small" data-unblock="${id}">Unblock</button></div>
+        `).join('') : '<div class="empty">None blocked.</div>'
+      }</div>
+    </div>
+  `;
+  document.getElementById('saveKw').addEventListener('click', async ()=>{
+    const lines = document.getElementById('kwBox').value.split('\n').map(s=>s.trim()).filter(Boolean);
+    await kvSet('blockKeywords', lines); toast('Keywords saved'); navigate('feed');
+  });
+  document.getElementById('saveRx').addEventListener('click', async ()=>{
+    const lines = document.getElementById('rxBox').value.split('\n').map(s=>s.trim()).filter(Boolean);
+    await kvSet('blockRegex', lines); toast('Regexes saved'); navigate('feed');
+  });
+  ['hfShorts','hfLive','hfMax'].forEach(id=>{
+    document.getElementById(id).addEventListener('change', async ()=>{
+      const nhf = {
+        hideShorts: document.getElementById('hfShorts').checked,
+        hideLive: document.getElementById('hfLive').checked,
+        maxHours: parseFloat(document.getElementById('hfMax').value)||0,
+      };
+      await kvSet('hardFilters', nhf); toast('Filters saved');
+    });
+  });
+  $main.querySelectorAll('[data-unblock]').forEach(btn=>{
+    btn.addEventListener('click', async ()=>{
+      const list = await kvGet('blockChannels', []);
+      await kvSet('blockChannels', list.filter(id=>id!==btn.dataset.unblock));
+      renderBlocklist();
+    });
+  });
+}
+
+/* ---------------- Settings view ---------------- */
+async function renderSettings(){
+  const key = await apiKey();
+  $main.innerHTML = `
+    <h2>Settings</h2>
+    <div class="card">
+      <h3>YouTube Data API key</h3>
+      <p class="muted" style="font-size:12.5px">Create a free key in the Google Cloud Console (enable "YouTube Data API v3"), then paste it here.
+      It's stored only in this browser's IndexedDB — never sent anywhere except Google's API.</p>
+      <div class="row">
+        <input type="password" id="apiKeyInput" value="${key||''}" placeholder="AIza…" style="min-width:340px">
+        <button class="btn primary" id="saveKey">Save</button>
+      </div>
+    </div>
+    <div class="card">
+      <h3>Data</h3>
+      <div class="row">
+        <button class="btn" id="exportBtn">Export all data (JSON)</button>
+        <button class="btn danger" id="wipeBtn">Wipe all local data</button>
+      </div>
+    </div>
+    <div class="card">
+      <h3>Notes</h3>
+      <ul style="font-size:13px;color:var(--muted);line-height:1.6">
+        <li>No autoplay: videos always load paused-ish inside a plain embed; use the Queue to line up what's next.</li>
+        <li>"No-shorts feed" tries each channel's <code>UULF…</code> uploads-without-shorts playlist first, falling back to the regular uploads playlist if that fails.</li>
+        <li>Transcript skimming uses YouTube's public timedtext endpoint when available; some videos have no captions, or the request may be blocked by CORS — there's no guaranteed workaround for a browser-only app.</li>
+        <li>All ingested video metadata, watch/dismiss state, and blocklists live in IndexedDB on this machine only.</li>
+      </ul>
+    </div>
+  `;
+  document.getElementById('saveKey').addEventListener('click', async ()=>{
+    await kvSet('apiKey', document.getElementById('apiKeyInput').value.trim());
+    toast('API key saved');
+  });
+  document.getElementById('exportBtn').addEventListener('click', async ()=>{
+    const [channels, videos, state, queue] = await Promise.all([idbAll('channels'), idbAll('videos'), idbAll('state'), idbAll('queue')]);
+    const blob = new Blob([JSON.stringify({channels, videos, state, queue}, null, 2)], {type:'application/json'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = 'signal-export.json'; a.click();
+    URL.revokeObjectURL(url);
+  });
+  document.getElementById('wipeBtn').addEventListener('click', async ()=>{
+    if(!confirm('This deletes all channels, videos, state and blocklists in this browser. Continue?')) return;
+    indexedDB.deleteDatabase(DB_NAME);
+    toast('Wiped. Reloading…');
+    setTimeout(()=>location.reload(), 800);
+  });
+}
+
+/* ---------------- Player / transcript ---------------- */
+let activeVideoId = null;
+const dlg = document.getElementById('playerDialog');
+async function openPlayer(videoId){
+  activeVideoId = videoId;
+  const v = await idbGet('videos', videoId);
+  if(!v) return;
+  document.getElementById('playerFrameHolder').innerHTML =
+    `<iframe src="https://www.youtube-nocookie.com/embed/${videoId}?rel=0" allowfullscreen allow="encrypted-media"></iframe>`;
+  document.getElementById('ttabInfo').innerHTML = `
+    <div style="margin-top:10px">
+      <div style="font-weight:600">${escapeHtml(v.title)}</div>
+      <div class="muted" style="font-size:12px;margin:4px 0">${escapeHtml(v.channelTitle)} · ${timeAgo(v.publishedAt)} · ${fmtDuration(v.durationSec)}</div>
+      <div style="font-size:12.5px;white-space:pre-wrap;max-height:160px;overflow-y:auto">${escapeHtml(v.description).slice(0,4000)}</div>
+    </div>`;
+  document.getElementById('transcriptBox').style.display='none';
+  document.getElementById('transcriptBox').textContent='';
+  document.getElementById('transcriptStatus').textContent='';
+  showTTab('info');
+  dlg.showModal();
+}
+document.getElementById('btnClosePlayer').addEventListener('click', ()=>{
+  document.getElementById('playerFrameHolder').innerHTML='';
+  dlg.close();
+});
+document.getElementById('btnMarkWatched').addEventListener('click', async ()=>{
+  if(!activeVideoId) return;
+  const s = await idbGet('state', activeVideoId) || {videoId:activeVideoId};
+  s.watched = true; s.watchedAt = Date.now();
+  await idbPut('state', s);
+  toast('Marked watched');
+  navigate(currentView);
+});
+document.getElementById('btnNextInQueue').addEventListener('click', async ()=>{
+  if(activeVideoId){ await idbDel('queue', activeVideoId); }
+  const queue = await idbAll('queue');
+  queue.sort((a,b)=>a.addedAt-b.addedAt);
+  if(!queue.length){ toast('Queue is empty'); document.getElementById('playerFrameHolder').innerHTML=''; dlg.close(); return; }
+  openPlayer(queue[0].videoId);
+});
+document.querySelectorAll('[data-ttab]').forEach(b=>{
+  b.addEventListener('click', ()=>showTTab(b.dataset.ttab));
+});
+function showTTab(tab){
+  document.querySelectorAll('[data-ttab]').forEach(b=>b.classList.toggle('active', b.dataset.ttab===tab));
+  document.getElementById('ttabInfo').style.display = tab==='info' ? '' : 'none';
+  document.getElementById('ttabTranscript').style.display = tab==='transcript' ? '' : 'none';
+}
+document.getElementById('btnLoadTranscript').addEventListener('click', async ()=>{
+  if(!activeVideoId) return;
+  const statusEl = document.getElementById('transcriptStatus');
+  const box = document.getElementById('transcriptBox');
+  statusEl.textContent = 'Fetching…';
+  box.style.display='none';
+  try{
+    const text = await fetchTranscript(activeVideoId);
+    if(!text){
+      statusEl.textContent = 'No captions found for this video (or blocked by browser CORS policy).';
+      return;
+    }
+    box.textContent = text;
+    box.style.display='block';
+    statusEl.textContent = `Loaded ${text.split(/\s+/).length} words. Skim it before committing 40 minutes.`;
+  }catch(e){
+    statusEl.textContent = 'Could not fetch transcript: '+e.message+' (YouTube often blocks this cross-origin from a plain browser app).';
+  }
+});
+async function fetchTranscript(videoId){
+  // Best-effort: YouTube's unofficial timedtext endpoint. No official Data API v3 captions
+  // download without OAuth + the uploader's own permission, so this is opportunistic only.
+  const listUrl = `https://video.google.com/timedtext?type=list&v=${videoId}`;
+  const res = await fetch(listUrl);
+  if(!res.ok) return null;
+  const xml = await res.text();
+  const m = /lang_code="([\w-]+)"/.exec(xml);
+  if(!m) return null;
+  const lang = m[1];
+  const capRes = await fetch(`https://video.google.com/timedtext?lang=${lang}&v=${videoId}`);
+  if(!capRes.ok) return null;
+  const capXml = await capRes.text();
+  const texts = [...capXml.matchAll(/<text[^>]*>([\s\S]*?)<\/text>/g)].map(mm=>
+    mm[1].replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>')
+  );
+  return texts.join(' ');
+}
+
+/* ---------------- Boot ---------------- */
+(async function boot(){
+  await openDB();
+  await navigate('feed');
+})();
+</script>
+</body>
+</html>
