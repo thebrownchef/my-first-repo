@@ -19,8 +19,9 @@ IndexedDB.
 - Keyword and regex blocklists on titles
 - Full-text search over the titles and descriptions of every video you've ever ingested
 - Upload-frequency filter to catch content mills / mass-produced (often AI-generated) channels —
-  hide anything from a channel averaging more than N uploads/day — plus a one-click preset of
-  common clickbait/slop title phrases for the keyword blocklist
+  hide anything from a channel averaging more than N uploads/day
+- Keyword and regex blocklists come **prefilled** with a starter set of common clickbait/slop
+  title patterns (human and AI-generated alike) — fully editable, and restorable with one click
 - Queue-based viewing instead of autoplay
 - Best-effort transcript skimming (via YouTube's public timedtext endpoint, when available)
   so you can decide in seconds whether a long video is worth your time

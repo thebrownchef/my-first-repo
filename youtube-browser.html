@@ -298,10 +298,32 @@ function videoFromApi(item){
 }
 
 /* ---------------- Filters / blocklists ---------------- */
+// Starter blocklist covering common clickbait/slop patterns from both human
+// content farms and mass-produced AI channels. Prefilled on first run only —
+// once saved (or left untouched and read), these are just normal user data
+// and can be freely edited or deleted.
+const DEFAULT_BLOCK_KEYWORDS = [
+  "you won't believe", 'shocking truth', 'gone wrong', 'gone sexual',
+  'this will change your life', 'doctors hate', 'i tried', '24 hours',
+  'exposed', 'the truth about', 'must watch', 'insane fact', 'mind blowing',
+  'ai voice', 'ai generated', 'ai narrat', 'compilation 2024', 'compilation 2025',
+  'oddly satisfying', 'you need to see this', 'will blow your mind',
+  'broke the internet', 'not clickbait', 'life hack', 'try not to',
+  'storytime', 'day in the life', 'last one to leave', 'for 24 hours',
+  'react to', 'reacting to', 'surviving', 'happened live on camera',
+  'i can\'t believe', 'gone viral', 'top 10', 'top 15', 'top 20',
+];
+const DEFAULT_BLOCK_REGEX = [
+  '\\btop \\d+\\b',
+  '\\b\\d+\\s*(hours?|days?)\\s*(challenge|survival)\\b',
+  '\\$\\d+([,.]\\d+)?\\s*(vs|challenge)\\b',
+  '!!!+',
+  '\\bnumber \\d+ will\\b',
+];
 async function getBlocklists(){
   return {
-    keywords: await kvGet('blockKeywords', []),
-    regexes: await kvGet('blockRegex', []),
+    keywords: await kvGet('blockKeywords', DEFAULT_BLOCK_KEYWORDS),
+    regexes: await kvGet('blockRegex', DEFAULT_BLOCK_REGEX),
     channels: await kvGet('blockChannels', []),
     videos: await kvGet('blockVideos', []),
   };
@@ -809,7 +831,7 @@ async function doSearch(){
 /* ---------------- Blocklist view ---------------- */
 async function renderBlocklist(){
   const [keywords, regexes, blockedCh] = await Promise.all([
-    kvGet('blockKeywords', []), kvGet('blockRegex', []), kvGet('blockChannels', [])
+    kvGet('blockKeywords', DEFAULT_BLOCK_KEYWORDS), kvGet('blockRegex', DEFAULT_BLOCK_REGEX), kvGet('blockChannels', [])
   ]);
   const hf = await getHardFilters();
   const channels = await idbAll('channels');
@@ -836,14 +858,21 @@ async function renderBlocklist(){
     </div>
     <div class="card">
       <h3>Keyword blocklist (title contains, case-insensitive)</h3>
+      <p class="muted" style="font-size:11.5px;margin-top:-4px">
+        Prefilled with a starter set of common clickbait/slop phrases (both human and AI-generated).
+        Delete lines you don't want, add your own, or restore the starter set with the button below.
+      </p>
       <textarea id="kwBox" placeholder="one keyword per line">${keywords.join('\n')}</textarea>
       <div class="row" style="margin-top:8px">
         <button class="btn primary" id="saveKw">Save keywords</button>
-        <button class="btn" id="addSlopPreset">+ Add common AI-slop phrases</button>
+        <button class="btn" id="addSlopPreset">+ Re-add starter slop phrases</button>
       </div>
     </div>
     <div class="card">
       <h3>Regex blocklist (title, one pattern per line)</h3>
+      <p class="muted" style="font-size:11.5px;margin-top:-4px">
+        Also prefilled with a starter set (numbered-list titles, "$X challenge/vs", excessive "!!!", etc).
+      </p>
       <textarea id="rxBox" placeholder="e.g. \\b(react|top \\d+)\\b">${regexes.join('\n')}</textarea>
       <div class="row" style="margin-top:8px"><button class="btn primary" id="saveRx">Save regexes</button></div>
     </div>
@@ -877,15 +906,9 @@ async function renderBlocklist(){
     });
   });
   document.getElementById('addSlopPreset').addEventListener('click', async ()=>{
-    const preset = [
-      "you won't believe", 'shocking truth', 'gone wrong', 'gone sexual', 'this will change your life',
-      'number 7 will', 'doctors hate', 'i tried', '24 hours', 'exposed', 'the truth about',
-      'top 10', 'top 15', 'top 20', 'must watch', 'insane fact', 'mind blowing fact',
-      'you won’t believe what happens', 'ai voice', 'ai generated', 'compilation 2024', 'compilation 2025',
-    ];
     const box = document.getElementById('kwBox');
     const existing = new Set(box.value.split('\n').map(s=>s.trim().toLowerCase()).filter(Boolean));
-    const merged = [...existing, ...preset.filter(p=>!existing.has(p))];
+    const merged = [...existing, ...DEFAULT_BLOCK_KEYWORDS.filter(p=>!existing.has(p))];
     box.value = merged.join('\n');
     toast('Preset phrases added — click "Save keywords" to apply');
   });
