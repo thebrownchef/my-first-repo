@@ -312,6 +312,8 @@ const DEFAULT_BLOCK_KEYWORDS = [
   'storytime', 'day in the life', 'last one to leave', 'for 24 hours',
   'react to', 'reacting to', 'surviving', 'happened live on camera',
   'i can\'t believe', 'gone viral', 'top 10', 'top 15', 'top 20',
+  "what's really hidden", 'they warned us', 'prophecies from', 'ancient aliens',
+  'secrets revealed', 'what really happened', 'shrouded in mystery', 'hidden beneath',
 ];
 const DEFAULT_BLOCK_REGEX = [
   '\\btop \\d+\\b',
@@ -702,6 +704,7 @@ async function doDiscover(q){
             <div class="actions">
               <button class="btn small" data-dqueue="${v.id}">+ Queue</button>
               <button class="btn small" data-daddch="${v.channelId}">+ Follow channel</button>
+              <button class="btn small danger" data-dblockch="${v.channelId}" data-dblockname="${escapeHtml(v.channelTitle)}">🚫 Never (channel)</button>
             </div>
           </div>
         </div>`).join('');
@@ -733,6 +736,16 @@ async function doDiscover(q){
           }catch(e){ toast('Error: '+e.message, 5000); }
         });
       });
+      vBody.querySelectorAll('[data-dblockch]').forEach(btn=>{
+        btn.addEventListener('click', async ()=>{
+          const id = btn.dataset.dblockch;
+          const bl = await kvGet('blockChannels', []);
+          if(!bl.includes(id)){ bl.push(id); await kvSet('blockChannels', bl); }
+          toast(`Blocked: ${btn.dataset.dblockname}. It won't appear in Discover or your Feed again.`, 4500);
+          btn.closest('.vcard').style.opacity = '0.35';
+          btn.disabled = true;
+        });
+      });
     }
     // Channels
     const chItems = channelResults.items || [];
@@ -748,6 +761,7 @@ async function doDiscover(q){
           <img src="${it.snippet.thumbnails?.default?.url||''}" alt="">
           <div class="name">${escapeHtml(it.snippet.title)}<div class="muted" style="font-size:11px">${escapeHtml((it.snippet.description||'').slice(0,90))}</div></div>
           <button class="btn small ${already?'':'primary'}" data-followch="${id}" ${already?'disabled':''}>${already?'Following':'+ Follow'}</button>
+          <button class="btn small danger" data-blockchrow="${id}" data-blockname="${escapeHtml(it.snippet.title)}">🚫 Never</button>
         </div>`;
       }).join('');
       cBody.querySelectorAll('[data-followch]').forEach(btn=>{
@@ -759,6 +773,16 @@ async function doDiscover(q){
             btn.textContent='Following'; btn.disabled=true; btn.classList.remove('primary');
             refreshStat();
           }catch(e){ toast('Error: '+e.message, 5000); }
+        });
+      });
+      cBody.querySelectorAll('[data-blockchrow]').forEach(btn=>{
+        btn.addEventListener('click', async ()=>{
+          const id = btn.dataset.blockchrow;
+          const bl = await kvGet('blockChannels', []);
+          if(!bl.includes(id)){ bl.push(id); await kvSet('blockChannels', bl); }
+          toast(`Blocked: ${btn.dataset.blockname}`, 4000);
+          btn.closest('.chrow').style.opacity = '0.35';
+          btn.disabled = true;
         });
       });
     }
