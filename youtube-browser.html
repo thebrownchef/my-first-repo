@@ -86,6 +86,7 @@
   </header>
   <nav class="side">
     <button data-view="feed" class="active">Feed</button>
+    <button data-view="discover">Discover</button>
     <button data-view="channels">Channels</button>
     <button data-view="queue">Queue</button>
     <button data-view="search">Search</button>
@@ -342,6 +343,7 @@ async function navigate(view){
   setActiveNav(view);
   await refreshStat();
   if(view==='feed') return renderFeed();
+  if(view==='discover') return renderDiscover();
   if(view==='channels') return renderChannels();
   if(view==='queue') return renderQueue();
   if(view==='search') return renderSearch();
@@ -580,6 +582,134 @@ async function renderChannels(){
       renderChannels();
     });
   });
+}
+
+/* ---------------- Discover view (query-based search, not personalized) ---------------- */
+async function renderDiscover(){
+  $main.innerHTML = `
+    <h2>Discover</h2>
+    <p class="muted" style="font-size:12.5px;margin-top:-6px">
+      This is plain keyword search against YouTube — not your watch history, not "recommended for you".
+      Same hard filters (no Shorts/live/overlong) apply to results. Find something good, then add the
+      channel or queue the video.
+    </p>
+    <div class="searchbar">
+      <input type="text" id="discoverInput" placeholder="Search a topic, e.g. &quot;stoic philosophy&quot; or a channel name">
+      <button class="btn primary" id="discoverGo">Search</button>
+    </div>
+    <div class="tabs">
+      <button class="btn small active" data-dtab="videos">Videos</button>
+      <button class="btn small" data-dtab="channels">Channels</button>
+    </div>
+    <div id="discoverVideos" class="grid"></div>
+    <div id="discoverChannels" class="chlist" style="display:none"></div>
+  `;
+  const input = document.getElementById('discoverInput');
+  const go = ()=>doDiscover(input.value.trim());
+  document.getElementById('discoverGo').addEventListener('click', go);
+  input.addEventListener('keydown', e=>{ if(e.key==='Enter') go(); });
+  document.querySelectorAll('[data-dtab]').forEach(b=>{
+    b.addEventListener('click', ()=>{
+      document.querySelectorAll('[data-dtab]').forEach(x=>x.classList.toggle('active', x===b));
+      document.getElementById('discoverVideos').style.display = b.dataset.dtab==='videos' ? '' : 'none';
+      document.getElementById('discoverChannels').style.display = b.dataset.dtab==='channels' ? '' : 'none';
+    });
+  });
+}
+async function doDiscover(q){
+  if(!q) return;
+  const vBody = document.getElementById('discoverVideos');
+  const cBody = document.getElementById('discoverChannels');
+  vBody.innerHTML = `<div class="empty">Searching…</div>`;
+  cBody.innerHTML = `<div class="empty">Searching…</div>`;
+  try{
+    const [videoResults, channelResults] = await Promise.all([
+      ytFetch('/search', {part:'snippet', q, type:'video', maxResults:25, safeSearch:'none', order:'relevance'}),
+      ytFetch('/search', {part:'snippet', q, type:'channel', maxResults:12}),
+    ]);
+    // Videos: need duration/live status from videos.list, filtered before showing
+    const ids = (videoResults.items||[]).map(it=>it.id.videoId).filter(Boolean);
+    const details = ids.length ? await fetchVideoDetails(ids) : [];
+    const videos = details.map(videoFromApi);
+    const filtered = [];
+    for(const v of videos){ if(await isVideoAllowed(v)) filtered.push(v); }
+    if(!filtered.length){
+      vBody.innerHTML = `<div class="empty">No results passed your hard filters (Shorts/live/overlong hidden).</div>`;
+    } else {
+      vBody.innerHTML = filtered.map(v=>`
+        <div class="vcard" data-vid="${v.id}">
+          <img src="${v.thumb}" alt="" data-discoverplay="${v.id}">
+          <div class="body">
+            <div class="title" data-discoverplay="${v.id}">${escapeHtml(v.title)}</div>
+            <div class="meta">${escapeHtml(v.channelTitle)} · ${timeAgo(v.publishedAt)}
+              <span class="badge dur">${fmtDuration(v.durationSec)}</span></div>
+            <div class="actions">
+              <button class="btn small" data-dqueue="${v.id}">+ Queue</button>
+              <button class="btn small" data-daddch="${v.channelId}">+ Follow channel</button>
+            </div>
+          </div>
+        </div>`).join('');
+      vBody.querySelectorAll('[data-discoverplay]').forEach(el=>{
+        el.addEventListener('click', async ()=>{
+          const v = filtered.find(x=>x.id===el.dataset.discoverplay);
+          await idbPut('videos', v);
+          openPlayer(v.id);
+        });
+      });
+      vBody.querySelectorAll('[data-dqueue]').forEach(btn=>{
+        btn.addEventListener('click', async ()=>{
+          const v = filtered.find(x=>x.id===btn.dataset.dqueue);
+          await idbPut('videos', v);
+          await idbPut('queue', {videoId:v.id, addedAt:Date.now()});
+          toast('Added to queue');
+          refreshStat();
+        });
+      });
+      vBody.querySelectorAll('[data-daddch]').forEach(btn=>{
+        btn.addEventListener('click', async ()=>{
+          try{
+            const ch = await resolveChannel({type:'id', value:btn.dataset.daddch});
+            const existing = await idbGet('channels', ch.id);
+            if(existing){ toast(`Already following ${ch.title}`); return; }
+            await idbPut('channels', ch);
+            toast(`Following ${ch.title}. Go to Feed → Refresh all channels to pull in its videos.`, 5000);
+            refreshStat();
+          }catch(e){ toast('Error: '+e.message, 5000); }
+        });
+      });
+    }
+    // Channels
+    const chItems = channelResults.items || [];
+    if(!chItems.length){
+      cBody.innerHTML = `<div class="empty">No channel results.</div>`;
+    } else {
+      const existingIds = new Set((await idbAll('channels')).map(c=>c.id));
+      cBody.innerHTML = chItems.map(it=>{
+        const id = it.snippet.channelId;
+        const already = existingIds.has(id);
+        return `
+        <div class="chrow">
+          <img src="${it.snippet.thumbnails?.default?.url||''}" alt="">
+          <div class="name">${escapeHtml(it.snippet.title)}<div class="muted" style="font-size:11px">${escapeHtml((it.snippet.description||'').slice(0,90))}</div></div>
+          <button class="btn small ${already?'':'primary'}" data-followch="${id}" ${already?'disabled':''}>${already?'Following':'+ Follow'}</button>
+        </div>`;
+      }).join('');
+      cBody.querySelectorAll('[data-followch]').forEach(btn=>{
+        btn.addEventListener('click', async ()=>{
+          try{
+            const ch = await resolveChannel({type:'id', value:btn.dataset.followch});
+            await idbPut('channels', ch);
+            toast(`Following ${ch.title}. Go to Feed → Refresh all channels to pull in its videos.`, 5000);
+            btn.textContent='Following'; btn.disabled=true; btn.classList.remove('primary');
+            refreshStat();
+          }catch(e){ toast('Error: '+e.message, 5000); }
+        });
+      });
+    }
+  }catch(e){
+    vBody.innerHTML = `<div class="empty">Search error: ${escapeHtml(e.message)}</div>`;
+    cBody.innerHTML = '';
+  }
 }
 
 /* ---------------- Queue view ---------------- */
