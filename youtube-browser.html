@@ -534,10 +534,32 @@ async function renderChannels(){
       <p class="muted" style="font-size:12px;margin-top:8px">Requires a YouTube Data API key set in Settings.</p>
     </div>
     <div class="card">
-      <h3>Your channels</h3>
+      <div class="row" style="justify-content:space-between">
+        <h3 style="margin:0">Your channels</h3>
+        <button class="btn small" id="btnRefreshStats">↻ Refresh channel stats</button>
+      </div>
       <div class="chlist" id="chList"><div class="empty">No channels yet.</div></div>
     </div>
   `;
+  document.getElementById('btnRefreshStats').addEventListener('click', async ()=>{
+    const channels = await idbAll('channels');
+    if(!channels.length){ toast('No channels to refresh'); return; }
+    toast(`Refreshing stats for ${channels.length} channel(s)…`);
+    let updated=0, errors=0;
+    for(const ch of channels){
+      try{
+        const fresh = await resolveChannel({type:'id', value:ch.id});
+        ch.videoCount = fresh.videoCount;
+        ch.uploadsPerDay = fresh.uploadsPerDay;
+        ch.uploadsPlaylistId = fresh.uploadsPlaylistId;
+        ch.noShortsPlaylistId = fresh.noShortsPlaylistId;
+        await idbPut('channels', ch);
+        updated++;
+      }catch(e){ console.error(e); errors++; }
+    }
+    toast(`Updated stats for ${updated} channel(s)${errors?`, ${errors} error(s)`:''}.`);
+    renderChannels();
+  });
   document.getElementById('btnAddChannel').addEventListener('click', async ()=>{
     const input = document.getElementById('chInput');
     const val = input.value.trim();
