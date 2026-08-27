@@ -1,0 +1,46 @@
+{
+  "_comment": "Non-secret pipeline configuration. The API key is never stored here — it comes from the YOUTUBE_API_KEY repository secret at run time.",
+
+  "wikipedia": {
+    "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+    "userAgent": "signal-discovery-bot/1.0 (+https://github.com/thebrownchef/my-first-repo; contact via repo issues)",
+    "queries": ["youtube.com", "youtu.be"],
+    "eulimit": "max",
+    "pagesPerRunPerQuery": 3,
+    "_comment_eulimit": "'max' lets the API clamp to whatever the caller's rights allow (500 for bot/sysop rights, 50 for anonymous) rather than erroring. See README for the resulting assumption."
+  },
+
+  "expansion": {
+    "maxHops": 2,
+    "channelSectionsPerRun": 200,
+    "_comment": "channelSectionsPerRun bounds channelSections.list calls (1 unit each) per run; expansion continues across runs via the 'sectionsChecked' flag persisted in graph.json."
+  },
+
+  "ranking": {
+    "minDistinctSources": 2,
+    "weights": {
+      "positiveSourceMultiplier": 2.0,
+      "negativeSourceMultiplier": 0.3,
+      "positiveChannelMultiplier": 1.5,
+      "negativeChannelMultiplier": 0.5
+    }
+  },
+
+  "quota": {
+    "dailyUnitBudget": 9000,
+    "_comment": "Kept below the real 10,000/day ceiling so normal daily jitter (other tools using the same key, retries) doesn't tip a run into an actual quotaExceeded error."
+  },
+
+  "items": {
+    "recentItemsPerChannel": 12,
+    "maxChannelsItemFetchPerRun": 300,
+    "useNoShortsUploadsFeed": true,
+    "preferRssForRecentIds": true,
+    "_comment_rss": "Best-effort, zero-quota discovery of a channel's most recent video IDs via its videos.xml uploads feed, fetched only from the job (never the reader). Falls back to playlistItems.list (1 unit) on any failure — cloud IPs get rate-limited harder than residential ones, so this must never block a run."
+  },
+
+  "schedule": {
+    "cron": "17 6 * * *",
+    "_comment": "Informational mirror of the schedule actually configured in .github/workflows/discovery-ingest.yml. GitHub Actions requires the cron expression to live in the workflow YAML itself — there is no mechanism for a workflow to read its own trigger schedule from a JSON file at trigger-evaluation time. This field exists so the schedule is still visible and diffable as configuration; if you change one, change the other. See README 'Conflicts with the brief' section."
+  }
+}

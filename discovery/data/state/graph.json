@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": null,
+  "channels": {},
+  "edges": [],
+  "_comment": "Canonical accumulated crawl state, committed between runs. Not read by the reader — the reader only ever loads files under data/index/. channels[id].sources is a map of sourceId -> {type, label, url, firstSeenAt}; edges is a list of {from, to, kind, at} where kind is 'wiki-mention' or 'channel-feature'."
+}

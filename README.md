@@ -1,5 +1,13 @@
 # my-first-repo
 
+## Signal Discovery — citation-graph YouTube discovery
+
+`discovery/` is a separate, newer system: a scheduled GitHub Actions crawler that seeds
+from Wikipedia's YouTube citations and expands via channels' featured-channel sections,
+plus a static GitHub Pages reader with a graph view, a ranked list view, and persistent
+judgements. No server, no algorithm, no engagement-metric ordering anywhere. See
+[`discovery/README.md`](discovery/README.md) for setup, quota budget, and known limitations.
+
 ## Signal — a browser-only YouTube browser
 
 `youtube-browser.html` is a single-file, no-build web app for browsing YouTube without the

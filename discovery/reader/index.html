@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Signal Discovery</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <h1>📡 Signal Discovery</h1>
+  <span class="stat" id="statLine">loading…</span>
+  <div class="tabs">
+    <button data-view="graph" class="active">Graph</button>
+    <button data-view="list">List</button>
+    <button data-view="queue">Queue</button>
+    <button data-view="settings">Settings</button>
+  </div>
+</header>
+<main id="main"></main>
+
+<dialog id="playerDialog">
+  <div id="playerHolder"></div>
+  <div style="margin-top:10px;display:flex;justify-content:flex-end">
+    <button class="btn" id="closePlayer">Close</button>
+  </div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": null,
+  "nodes": [],
+  "edges": [],
+  "_comment": "Placeholder graph-view data. nodes are {id, kind:'channel'|'source', label}; edges are {from, to, kind:'wiki-mention'|'channel-feature'}. Only channels/sources touching an output-eligible channel are included."
+}
