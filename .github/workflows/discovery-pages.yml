@@ -1,0 +1,47 @@
+name: Discovery reader deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'discovery/reader/**'
+      - 'discovery/data/**'
+      - '.github/workflows/discovery-pages.yml'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # No build step — this just assembles the static reader and the
+      # already-generated data files into one directory so the reader's
+      # relative fetch('./data/...') paths resolve regardless of where the
+      # Pages artifact ends up mounted.
+      - name: Assemble site
+        run: |
+          mkdir -p site
+          cp discovery/reader/index.html discovery/reader/app.js discovery/reader/style.css site/
+          cp -r discovery/data site/data
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

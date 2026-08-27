@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "channelJudgements": {},
+  "itemJudgements": {},
+  "sourceJudgements": {},
+  "_comment": "User judgement input for the ingestion job. This file is read by the crawl and never written to by it — regenerating the index never overwrites your judgements. Edit it by hand, or export it from the reader (Settings/Export) and commit it here via a PR. Verdicts: channelJudgements/itemJudgements use 'positive' | 'negative' | 'excluded'; sourceJudgements (keyed by a source id like 'wiki:<Article Title>' or 'channel:<channelId>') use 'positive' | 'negative' and change how much weight that source contributes to every channel it references."
+}

@@ -1,0 +1,13 @@
+{
+  "name": "signal-discovery-ingest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scheduled ingestion job for the Signal Discovery reader. No runtime dependencies — uses Node's built-in fetch.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "ingest": "node scripts/run.js"
+  }
+}

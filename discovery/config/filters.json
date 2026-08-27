@@ -1,0 +1,45 @@
+{
+  "_comment": "Index-time filter pipeline. Each stage is independently toggleable and defaults to on. Ported from youtube-browser.html's isVideoAllowed()/titleBlocked() predicates.",
+  "minDuration": {
+    "enabled": true,
+    "seconds": 60,
+    "_comment": "Excludes Shorts and other very short clips."
+  },
+  "maxDuration": {
+    "enabled": true,
+    "hours": 3
+  },
+  "excludeLiveAndUpcoming": {
+    "enabled": true
+  },
+  "titleKeywordBlocklist": {
+    "enabled": true,
+    "keywords": [
+      "you won't believe", "shocking truth", "gone wrong", "gone sexual",
+      "this will change your life", "doctors hate", "i tried", "24 hours",
+      "exposed", "the truth about", "must watch", "insane fact", "mind blowing",
+      "ai voice", "ai generated", "ai narrat", "compilation 2024", "compilation 2025",
+      "oddly satisfying", "you need to see this", "will blow your mind",
+      "broke the internet", "not clickbait", "life hack", "try not to",
+      "storytime", "day in the life", "last one to leave", "for 24 hours",
+      "react to", "reacting to", "surviving", "happened live on camera",
+      "i can't believe", "gone viral", "top 10", "top 15", "top 20",
+      "what's really hidden", "they warned us", "prophecies from", "ancient aliens",
+      "secrets revealed", "what really happened", "shrouded in mystery", "hidden beneath"
+    ]
+  },
+  "titleRegexBlocklist": {
+    "enabled": true,
+    "patterns": [
+      "\\btop \\d+\\b",
+      "\\b\\d+\\s*(hours?|days?)\\s*(challenge|survival)\\b",
+      "\\$\\d+([,.]\\d+)?\\s*(vs|challenge)\\b",
+      "!!!+",
+      "\\bnumber \\d+ will\\b"
+    ]
+  },
+  "channelBlocklist": {
+    "enabled": true,
+    "channelIds": []
+  }
+}

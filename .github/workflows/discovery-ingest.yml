@@ -1,0 +1,59 @@
+name: Discovery ingest
+
+on:
+  schedule:
+    # 06:17 UTC daily. Kept off the top of the hour to avoid the thundering
+    # herd of jobs everyone else schedules at :00. Mirrored (informationally)
+    # in discovery/config/pipeline.json's schedule.cron field — see that
+    # file's comment for why the cron itself has to live here, not there.
+    - cron: '17 6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discovery-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run ingestion
+        id: ingest
+        working-directory: discovery
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/run.js
+
+      # Runs even if ingestion exited non-zero (e.g. it hit the quota budget
+      # partway through) — a partial-but-valid index, written atomically by
+      # the job, is still worth committing. See discovery/scripts/run.js and
+      # the README's quota section for why a non-zero exit here does not
+      # mean the written data is corrupt.
+      - name: Commit updated data files
+        if: always()
+        run: |
+          git config user.name "signal-discovery-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add discovery/data
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Discovery ingest: update index and crawl state [skip ci]"
+            git push
+          fi
+
+      - name: Fail the workflow if ingestion reported a problem
+        if: steps.ingest.outcome == 'failure'
+        run: |
+          echo "Ingestion script exited non-zero — see its log above (quota budget reached, or a fatal error). Data changes, if any, were still committed above." >&2
+          exit 1
