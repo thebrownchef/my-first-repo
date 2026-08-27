@@ -215,17 +215,17 @@ async function ytFetch(path, params){
 }
 async function resolveChannel(ref){
   if(ref.type==='id'){
-    const data = await ytFetch('/channels', {part:'snippet,contentDetails', id:ref.value});
+    const data = await ytFetch('/channels', {part:'snippet,contentDetails,statistics', id:ref.value});
     if(!data.items?.length) throw new Error('Channel not found');
     return channelFromApi(data.items[0]);
   }
   if(ref.type==='handle'){
-    const data = await ytFetch('/channels', {part:'snippet,contentDetails', forHandle:ref.value.replace(/^@/,'')});
+    const data = await ytFetch('/channels', {part:'snippet,contentDetails,statistics', forHandle:ref.value.replace(/^@/,'')});
     if(!data.items?.length) throw new Error('Channel not found for handle '+ref.value);
     return channelFromApi(data.items[0]);
   }
   if(ref.type==='user'){
-    const data = await ytFetch('/channels', {part:'snippet,contentDetails', forUsername:ref.value});
+    const data = await ytFetch('/channels', {part:'snippet,contentDetails,statistics', forUsername:ref.value});
     if(!data.items?.length) throw new Error('Channel not found for user '+ref.value);
     return channelFromApi(data.items[0]);
   }
@@ -239,6 +239,10 @@ function channelFromApi(item){
   const uploads = item.contentDetails.relatedPlaylists.uploads;
   // UULF = "no shorts" uploads-like playlist: replace UC prefix with UULF
   const noShortsPlaylist = uploads.startsWith('UU') ? 'UULF'+uploads.slice(2) : null;
+  const videoCount = +(item.statistics?.videoCount || 0);
+  const createdAt = item.snippet.publishedAt;
+  const ageDays = Math.max(1, (Date.now() - new Date(createdAt)) / 86400000);
+  const uploadsPerDay = videoCount ? (videoCount / ageDays) : 0;
   return {
     id: item.id,
     title: item.snippet.title,
@@ -248,6 +252,8 @@ function channelFromApi(item){
     weight: 1,
     useNoShortsFeed: true,
     addedAt: Date.now(),
+    videoCount,
+    uploadsPerDay,
   };
 }
 async function fetchPlaylistVideos(playlistId, maxPages=2){
@@ -301,7 +307,7 @@ async function getBlocklists(){
   };
 }
 async function getHardFilters(){
-  return await kvGet('hardFilters', {hideShorts:true, hideLive:true, maxHours:3});
+  return await kvGet('hardFilters', {hideShorts:true, hideLive:true, maxHours:3, maxUploadsPerDay:0});
 }
 function titleBlocked(title, bl){
   const lower = title.toLowerCase();
@@ -318,6 +324,10 @@ async function isVideoAllowed(v){
   if(hf.hideShorts && v.durationSec>0 && v.durationSec<60) return false;
   if(hf.maxHours && v.durationSec > hf.maxHours*3600) return false;
   if(bl.channels.includes(v.channelId)) return false;
+  if(hf.maxUploadsPerDay){
+    const ch = await idbGet('channels', v.channelId);
+    if(ch && ch.uploadsPerDay > hf.maxUploadsPerDay) return false;
+  }
   if(bl.videos.includes(v.id)) return false;
   if(titleBlocked(v.title, bl)) return false;
   return true;
@@ -550,7 +560,9 @@ async function renderChannels(){
   listEl.innerHTML = channels.map(c=>`
     <div class="chrow" data-ch="${c.id}">
       <img src="${c.thumb}" alt="">
-      <div class="name">${escapeHtml(c.title)}</div>
+      <div class="name">${escapeHtml(c.title)}
+        ${c.uploadsPerDay ? `<div class="muted" style="font-size:11px">${c.uploadsPerDay.toFixed(2)} uploads/day avg${c.uploadsPerDay>=2?' ⚠ high-volume':''}</div>` : ''}
+      </div>
       <label style="margin:0" class="weight">Weight
         <input type="number" min="0" max="10" step="0.1" value="${c.weight}" data-wch="${c.id}">
       </label>
@@ -789,11 +801,24 @@ async function renderBlocklist(){
         <label style="margin:0"><input type="checkbox" id="hfLive" ${hf.hideLive?'checked':''}> Hide livestreams</label>
         <label style="margin:0">Max length (hours) <input type="number" id="hfMax" value="${hf.maxHours}" min="0" step="0.5" style="width:70px"></label>
       </div>
+      <div class="row" style="margin-top:10px">
+        <label style="margin:0">Hide channels averaging more than
+          <input type="number" id="hfUpd" value="${hf.maxUploadsPerDay||0}" min="0" step="0.5" style="width:60px">
+          uploads/day (0 = off)
+        </label>
+      </div>
+      <p class="muted" style="font-size:11.5px;margin:6px 0 0">
+        Content mills (including a lot of AI-generated "slop" channels) tend to post far more often than a
+        person making real videos can. 2–3/day sustained is a common threshold worth trying.
+      </p>
     </div>
     <div class="card">
       <h3>Keyword blocklist (title contains, case-insensitive)</h3>
       <textarea id="kwBox" placeholder="one keyword per line">${keywords.join('\n')}</textarea>
-      <div class="row" style="margin-top:8px"><button class="btn primary" id="saveKw">Save keywords</button></div>
+      <div class="row" style="margin-top:8px">
+        <button class="btn primary" id="saveKw">Save keywords</button>
+        <button class="btn" id="addSlopPreset">+ Add common AI-slop phrases</button>
+      </div>
     </div>
     <div class="card">
       <h3>Regex blocklist (title, one pattern per line)</h3>
@@ -818,15 +843,29 @@ async function renderBlocklist(){
     const lines = document.getElementById('rxBox').value.split('\n').map(s=>s.trim()).filter(Boolean);
     await kvSet('blockRegex', lines); toast('Regexes saved'); navigate('feed');
   });
-  ['hfShorts','hfLive','hfMax'].forEach(id=>{
+  ['hfShorts','hfLive','hfMax','hfUpd'].forEach(id=>{
     document.getElementById(id).addEventListener('change', async ()=>{
       const nhf = {
         hideShorts: document.getElementById('hfShorts').checked,
         hideLive: document.getElementById('hfLive').checked,
         maxHours: parseFloat(document.getElementById('hfMax').value)||0,
+        maxUploadsPerDay: parseFloat(document.getElementById('hfUpd').value)||0,
       };
       await kvSet('hardFilters', nhf); toast('Filters saved');
     });
+  });
+  document.getElementById('addSlopPreset').addEventListener('click', async ()=>{
+    const preset = [
+      "you won't believe", 'shocking truth', 'gone wrong', 'gone sexual', 'this will change your life',
+      'number 7 will', 'doctors hate', 'i tried', '24 hours', 'exposed', 'the truth about',
+      'top 10', 'top 15', 'top 20', 'must watch', 'insane fact', 'mind blowing fact',
+      'you won’t believe what happens', 'ai voice', 'ai generated', 'compilation 2024', 'compilation 2025',
+    ];
+    const box = document.getElementById('kwBox');
+    const existing = new Set(box.value.split('\n').map(s=>s.trim().toLowerCase()).filter(Boolean));
+    const merged = [...existing, ...preset.filter(p=>!existing.has(p))];
+    box.value = merged.join('\n');
+    toast('Preset phrases added — click "Save keywords" to apply');
   });
   $main.querySelectorAll('[data-unblock]').forEach(btn=>{
     btn.addEventListener('click', async ()=>{
