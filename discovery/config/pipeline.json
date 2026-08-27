@@ -4,7 +4,8 @@
   "wikipedia": {
     "apiEndpoint": "https://en.wikipedia.org/w/api.php",
     "userAgent": "signal-discovery-bot/1.0 (+https://github.com/thebrownchef/my-first-repo; contact via repo issues)",
-    "queries": ["youtube.com", "youtu.be"],
+    "queries": ["www.youtube.com", "youtube.com", "m.youtube.com", "youtu.be"],
+    "_comment_queries": "exturlusage matches by URL prefix, not substring — 'youtube.com' alone misses the overwhelming majority of real citations, which are 'https://www.youtube.com/...' and don't start with that string. www.youtube.com must come first. Discovered from the first live run: it returned 0 pages for 'youtube.com' across 3 fetches while 'youtu.be' returned 2 immediately.",
     "eulimit": "max",
     "pagesPerRunPerQuery": 3,
     "_comment_eulimit": "'max' lets the API clamp to whatever the caller's rights allow (500 for bot/sysop rights, 50 for anonymous) rather than erroring. See README for the resulting assumption."
