@@ -1,6 +1,5 @@
 {
   "schemaVersion": 1,
-  "generatedAt": null,
-  "channels": [],
-  "_comment": "Placeholder. Populated by the ingestion job's first successful run (manually trigger 'Discovery ingest' in the Actions tab after setting the YOUTUBE_API_KEY secret). The reader treats an empty channels array as 'no data yet' and says so."
+  "generatedAt": "2026-08-27T07:05:39.475Z",
+  "channels": []
 }

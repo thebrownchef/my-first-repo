@@ -1,7 +1,52 @@
 {
   "schemaVersion": 1,
-  "generatedAt": null,
-  "channels": {},
+  "generatedAt": "2026-08-27T07:05:39.477Z",
+  "channels": {
+    "UCAr4c5MZmYZF3MoMz-wrorA": {
+      "id": "UCAr4c5MZmYZF3MoMz-wrorA",
+      "title": "TV Subotica",
+      "thumb": "https://yt3.ggpht.com/9iftjbeLdN1_j69UCAVMTwyedXcq3QCSZENRu-8Zq0Rvvcp74eyvuwp0T6tdDGivb1Ocyxxbffk=s88-c-k-c0x00ffffff-no-rj",
+      "uploadsPlaylistId": "UUAr4c5MZmYZF3MoMz-wrorA",
+      "noShortsPlaylistId": "UULFAr4c5MZmYZF3MoMz-wrorA",
+      "videoCount": 19627,
+      "uploadsPerDay": 5.0421255375785545,
+      "createdAt": "2015-12-30T16:35:20Z",
+      "hop": 0,
+      "sources": {
+        "wiki:Bunjevci": {
+          "type": "wikipedia",
+          "label": "Bunjevci",
+          "url": "https://en.wikipedia.org/wiki/Bunjevci",
+          "firstSeenAt": "2026-08-27T07:05:39.253Z"
+        }
+      },
+      "sectionsChecked": true,
+      "firstSeenAt": "2026-08-27T07:05:39.253Z",
+      "lastUpdatedAt": "2026-08-27T07:05:39.253Z"
+    },
+    "UC3nkzRHXnw-HAVuX6h1pHyQ": {
+      "id": "UC3nkzRHXnw-HAVuX6h1pHyQ",
+      "title": "P.I.A FILMS",
+      "thumb": "https://yt3.ggpht.com/KpB6hI777oc8v2Ew2mfyLrkXRvmpUl1f8IMMVY-bvg4Sc798jdUXhXqUKzBtkMGgexrrCuLztCs=s88-c-k-c0x00ffffff-no-rj",
+      "uploadsPlaylistId": "UU3nkzRHXnw-HAVuX6h1pHyQ",
+      "noShortsPlaylistId": "UULF3nkzRHXnw-HAVuX6h1pHyQ",
+      "videoCount": 34,
+      "uploadsPerDay": 0.01802604587068054,
+      "createdAt": "2021-06-28T03:15:47.268535Z",
+      "hop": 0,
+      "sources": {
+        "wiki:Salam Farmandeh": {
+          "type": "wikipedia",
+          "label": "Salam Farmandeh",
+          "url": "https://en.wikipedia.org/wiki/Salam_Farmandeh",
+          "firstSeenAt": "2026-08-27T07:05:39.253Z"
+        }
+      },
+      "sectionsChecked": true,
+      "firstSeenAt": "2026-08-27T07:05:39.253Z",
+      "lastUpdatedAt": "2026-08-27T07:05:39.253Z"
+    }
+  },
   "edges": [],
   "_comment": "Canonical accumulated crawl state, committed between runs. Not read by the reader — the reader only ever loads files under data/index/. channels[id].sources is a map of sourceId -> {type, label, url, firstSeenAt}; edges is a list of {from, to, kind, at} where kind is 'wiki-mention' or 'channel-feature'."
 }
