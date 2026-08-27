@@ -117,7 +117,14 @@ async function main() {
           }
         }
         for (const ref of otherRefs) {
-          const info = await resolveChannelRef(ref, yt);
+          let info;
+          try {
+            info = await resolveChannelRef(ref, yt);
+          } catch (err) {
+            if (err.quotaExceeded) throw err;
+            warn(`Skipping unresolvable channel ref ${ref.type}:${ref.value} (from "${ref.articleTitle}"):`, err.message);
+            continue;
+          }
           if (!info) continue;
           upsertChannel(graph, info, 0);
           addSource(graph, info.id, `wiki:${ref.articleTitle}`, {
@@ -218,11 +225,17 @@ async function main() {
   log(`Ranking: ${ranked.length}/${Object.keys(graph.channels).length} channels meet the distinct-source threshold and aren't blocked.`);
 
   // ---------- Stage 4: recent items for output-eligible channels ----------
+  // A single channel's playlist being missing/private/deleted (404, or any
+  // other non-quota failure) must never abort the whole run — that would
+  // discard the seeding+expansion work already sitting in memory, since
+  // graph.json isn't written until after this stage. Only an actual quota
+  // exhaustion stops the loop early; every other per-channel failure is
+  // logged and skipped.
   const itemsByChannel = new Map();
   if (!quotaHit) {
     const toFetch = ranked.slice(0, pipelineConfig.items.maxChannelsItemFetchPerRun);
-    try {
-      for (const ch of toFetch) {
+    for (const ch of toFetch) {
+      try {
         let videoIds = null;
         if (pipelineConfig.items.preferRssForRecentIds) {
           videoIds = await fetchRecentVideoIdsFromRss(ch.id, pipelineConfig.items.recentItemsPerChannel);
@@ -245,13 +258,13 @@ async function main() {
         if (!videoIds?.length) continue;
         const apiVideos = await yt.videosByIds(videoIds);
         itemsByChannel.set(ch.id, apiVideos.map(videoFromApi));
-      }
-    } catch (err) {
-      if (err.quotaExceeded) {
-        quotaHit = true;
-        errorLoud('Quota exhausted during item-fetch stage:', err.message);
-      } else {
-        throw err;
+      } catch (err) {
+        if (err.quotaExceeded) {
+          quotaHit = true;
+          errorLoud('Quota exhausted during item-fetch stage:', err.message);
+          break;
+        }
+        warn(`Skipping recent items for channel ${ch.id} (${ch.title}) — playlist lookup failed:`, err.message);
       }
     }
   }
