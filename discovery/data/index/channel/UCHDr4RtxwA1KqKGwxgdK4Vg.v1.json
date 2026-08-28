@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-28T18:40:21.487Z",
+  "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
+  "title": "Computer History Museum",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
+  "score": 5,
+  "distinctSourceCount": 5,
+  "hop": 0,
+  "uploadsPerDay": 0.31,
+  "sources": [
+    {
+      "id": "wiki:NeWS",
+      "type": "wikipedia",
+      "label": "NeWS",
+      "url": "https://en.wikipedia.org/wiki/NeWS",
+      "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    },
+    {
+      "id": "wiki:PowerPC 600",
+      "type": "wikipedia",
+      "label": "PowerPC 600",
+      "url": "https://en.wikipedia.org/wiki/PowerPC_600",
+      "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    },
+    {
+      "id": "wiki:PowerPC",
+      "type": "wikipedia",
+      "label": "PowerPC",
+      "url": "https://en.wikipedia.org/wiki/PowerPC",
+      "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    },
+    {
+      "id": "wiki:Alpha 21164",
+      "type": "wikipedia",
+      "label": "Alpha 21164",
+      "url": "https://en.wikipedia.org/wiki/Alpha_21164",
+      "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    },
+    {
+      "id": "wiki:PA-7100LC",
+      "type": "wikipedia",
+      "label": "PA-7100LC",
+      "url": "https://en.wikipedia.org/wiki/PA-7100LC",
+      "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "0DVmqVHWwCI",
+      "title": "The Silicon Gold Rush: How AI is Driving the Development of New Chips",
+      "publishedAt": "2026-08-28T03:29:59Z",
+      "durationSec": 4821,
+      "thumb": "https://i.ytimg.com/vi/0DVmqVHWwCI/mqdefault.jpg",
+      "description": "Cloud companies are no longer just buying AI chips—they're designing their own. What does that shift mean for the future of computing?\n\nJoin us for a conversation with Nvidia Chief Scientist Bill Dally and Google Fellow Norm Jouppi, moderated by CHM Fellow and UC Berkeley Pardee Professor of Computer Science Emeritus Dave Patterson, as they explore the technologies, tradeoffs, and innovations shaping the next generation of AI hardware.\n\nThis program is made possible by the generous support of Mark and Mary Stevens.",
+      "chapters": []
+    },
+    {
+      "id": "t8meBjkS_ss",
+      "title": "Oral History of James Pappas",
+      "publishedAt": "2026-08-20T21:42:59Z",
+      "durationSec": 6157,
+      "thumb": "https://i.ytimg.com/vi/t8meBjkS_ss/mqdefault.jpg",
+      "description": "Jim Pappas grew up in Western Massachusetts and attended local public high schools. Inspired initially by relatives in medicine, he originally pursued biology and accounting before joining the United States Air Force in 1975. Serving four years in precision calibration labs, he gained foundational technical experience—including early work on atomic clocks used for GPS testing—which sparked his passion for technology. Upon leaving the service, Pappas earned an electrical engineering degree with an emphasis in computer architecture in three years at the University of Massachusetts Amherst. \n\nThrough a recommendation by professor Harold Stone, Pappas interned and subsequently took a full-time position at Digital Equipment Corporation (DEC). Mentored by Ned Forrester, he built hardware emulators for video and graphics chips. Pappas went on to lead hardware engineering for the VT 200 series terminals alongside HT Cho, and developed 3D graphics chips for VAX and Alpha workstations. During a four-year stint building single-chip VAX CPUs, Pappas realized he had lost touch with the broader industry, prompting him to pivot toward industrywide interconnect standards. Collaborating with Intel, he helped rebrand and launch the Peripheral Component Interconnect (PCI) standard.\n\nJoining Intel in 1994, Pappas spearheaded the development and deployment of Universal Serial Bus (USB) 1.0 to resolve PC cable complexity. By maintaining tight focus with a small consortium of key partners and tailoring features to anchor products (such as the Microsoft Mouse), USB achieved global ubiquity.\n\nFollowing the success of USB, Pat Gelsinger recruited Pappas to oversee top technology initiatives across Intel’s desktop and data center divisions. Over his career, Pappas led or contributed to 77 major industry initiatives. Key efforts included:\n\nUSB 2.0: Driven by strict focus on digital imaging, storage, and communication.\nNVMe & PCIe Interoperability: Partnering with leaders like Amber Huffman to bring PlugFests, ecosystem standards, and solid-state drive (SSD) adoption to mainstream platforms.\nCompute Express Link (CXL): Serving as chair to unify competing memory architectures (CAPI, Gen-Z, CCIX) under a single open standard.\nUniversal Chiplet Interconnect Express (UCIe) & UALink: Establishing foundational open interconnect standards critical to modern AI architectures, chiplet integration, and pooled memory fabrics.\n\nThroughout the interview, Pappas emphasizes leadership strategies for driving successful standards: keeping working groups small and focused, avoiding feature bloat, and embracing \"creative insubordination\". He attributes his career success to operating without fear of failure or termination, enabling decisive engineering and strategic risk-taking. Fully retired in Tumwater, Washington, Pappas reflects on his contribution to the memory and interconnect foundations powering today’s computing and AI landscapes.\n\nInterviewed by Tom Coughlin on 2025-10-27 \n© Computer History Museum\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/300000223\n\nCatalog number: 300000224\nAcquisition number: 2025.0183",
+      "chapters": []
+    },
+    {
+      "id": "N4dAStCA-uE",
+      "title": "Oral History of Eric Fullerton",
+      "publishedAt": "2026-08-18T16:54:48Z",
+      "durationSec": 6788,
+      "thumb": "https://i.ytimg.com/vi/N4dAStCA-uE/mqdefault.jpg",
+      "description": "Eric Fullerton is an Endowed Chair Professor at UCSD (University of California, San Diego) in the Department of Electrical and Computer Engineering and Chemical and Nanoengineering.  He also served as the Director of the Center of Memory and Recording Research (CMRR) at UCSD. After earning a PhD in physics from UCSD and working in a research position at Argonne National Laboratory, he joined IBM Almaden Research Center in 1997. \n\nThere, he conducted groundbreaking research on developing synthetic antiferromagnetic structures in recording media, which led to their introduction into products and enabled higher areal density in thin-film magnetic media. Soon, all magnetic thin-film media worldwide used these advancements.  Derivations of these antiferromagnetically coupled structures continued to extend areal density and played a significant role in advancing thin-film magnetic recording media to this day. \n\nEric Fullerton remained with HGST after Hitachi acquired IBM's Storage business in 2002, and in 2007 he joined the UCSD faculty.  This interview focuses on his work on antiferromagnetically coupled media but also covers his current research activities at CMRR and his own work in related areas such as spintronics. \n\nInterviewed by Tom Yamashita and Gerardo Bertero on 2025-10-20 \n© Computer History Museum\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/300000234\n\nCatalog number: 300000235\nAcquisition number: 2025.0193",
+      "chapters": []
+    },
+    {
+      "id": "e1Xn3030IvM",
+      "title": "Oral History of John Chowning",
+      "publishedAt": "2026-08-12T23:16:28Z",
+      "durationSec": 5895,
+      "thumb": "https://i.ytimg.com/vi/e1Xn3030IvM/mqdefault.jpg",
+      "description": "Dr. John Chowning, is a pioneering composer and the inventor of FM synthesis. In this interview, Chowning details his key foundational ‘aha' moments, including using recursive structures in his 1977 composition Stria and accidentally discovering frequency modulation while researching quadraphonic audio spatialization. He describes the grueling, nocturnal nature of early timeshared computing at Stanford, which ultimately led to the founding of the Center for Computer Research in Music and Acoustics. \n\nChowning reflects on his diverse musical trajectory, ranging from a childhood fascination with cave reverberation and playing jazz drums in the Navy to studying under Nadia Boulanger in Paris. Furthermore, he explores the massive commercial success and democratizing impact of the Yamaha DX7 synthesizer derived from his licensed patent, his work with the powerful Samson Box, and his eventual triumph over institutional skepticism within the traditional Stanford University music faculty department.  \n\nInterviewed by Dag Spicer on 2026-02-10 \n© Computer History Museum\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/300000261\n\nCatalog number: 300000262\nAcquisition number: 2026.0032",
+      "chapters": []
+    },
+    {
+      "id": "HHtCAa5pKbk",
+      "title": "Vintage Computer Festival 2026 at the Computer History Museum",
+      "publishedAt": "2026-08-07T23:49:37Z",
+      "durationSec": 86,
+      "thumb": "https://i.ytimg.com/vi/HHtCAa5pKbk/mqdefault.jpg",
+      "description": "It was a spectacular weekend (Aug. 1-2, 2026) celebrating retro computing at the Vintage Computer Festival! Over 3,300 enthusiasts and collectors joined us for 50+ hands-on demos and 20 events with tech leaders, collectors, historians... and Woz.",
+      "chapters": []
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T07:14:39.522Z",
+  "generatedAt": "2026-08-28T18:40:21.487Z",
   "id": "UCqljQ3DHw8sTiPw5WLArNuA",
   "title": "westlifeVEVO",
   "thumb": "https://yt3.ggpht.com/whsh6fH7B9ClIZWPSyrYk9vuJ6CGzLxn0nQfH2vL3IOXPXpDgVqGdhy1LX6pfSZp_j8zmw6o7w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "World of Our Own (song)",
       "url": "https://en.wikipedia.org/wiki/World_of_Our_Own_(song)",
       "firstSeenAt": "2026-08-27T07:14:07.209Z"
+    },
+    {
+      "id": "wiki:When You're Looking Like That",
+      "type": "wikipedia",
+      "label": "When You're Looking Like That",
+      "url": "https://en.wikipedia.org/wiki/When_You're_Looking_Like_That",
+      "firstSeenAt": "2026-08-28T18:39:16.664Z"
     }
   ],
   "recentItems": [

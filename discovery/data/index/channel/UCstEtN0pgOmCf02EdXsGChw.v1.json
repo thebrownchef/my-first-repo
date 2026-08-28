@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T07:14:39.522Z",
+  "generatedAt": "2026-08-28T18:40:21.487Z",
   "id": "UCstEtN0pgOmCf02EdXsGChw",
   "title": "ABS-CBN Entertainment",
   "thumb": "https://yt3.ggpht.com/4bXwJYOOQaZkVY1KpXj-VgGNaZF5jtDM_FqSgFco276AXH0Aff5CE-DWE9-5_oF_8z0xWIHVHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 26,
+  "distinctSourceCount": 26,
   "hop": 0,
   "uploadsPerDay": 39.57,
   "sources": [
@@ -36,115 +36,269 @@
       "label": "mychosdotcom",
       "url": "https://www.youtube.com/channel/UCvitBuxFbC25mGyKi8bJvEg",
       "firstSeenAt": "2026-08-27T07:14:11.706Z"
+    },
+    {
+      "id": "wiki:Ysabel Ortega",
+      "type": "wikipedia",
+      "label": "Ysabel Ortega",
+      "url": "https://en.wikipedia.org/wiki/Ysabel_Ortega",
+      "firstSeenAt": "2026-08-28T18:39:16.664Z"
+    },
+    {
+      "id": "wiki:Barbie Imperial",
+      "type": "wikipedia",
+      "label": "Barbie Imperial",
+      "url": "https://en.wikipedia.org/wiki/Barbie_Imperial",
+      "firstSeenAt": "2026-08-28T18:39:16.664Z"
+    },
+    {
+      "id": "wiki:The Blood Sisters (TV series)",
+      "type": "wikipedia",
+      "label": "The Blood Sisters (TV series)",
+      "url": "https://en.wikipedia.org/wiki/The_Blood_Sisters_(TV_series)",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:GMO Entertainment Unit",
+      "type": "wikipedia",
+      "label": "GMO Entertainment Unit",
+      "url": "https://en.wikipedia.org/wiki/GMO_Entertainment_Unit",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:Ngayon at Kailanman (2018 TV series)",
+      "type": "wikipedia",
+      "label": "Ngayon at Kailanman (2018 TV series)",
+      "url": "https://en.wikipedia.org/wiki/Ngayon_at_Kailanman_(2018_TV_series)",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:Nadine Lustre",
+      "type": "wikipedia",
+      "label": "Nadine Lustre",
+      "url": "https://en.wikipedia.org/wiki/Nadine_Lustre",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:List of Ngayon at Kailanman episodes",
+      "type": "wikipedia",
+      "label": "List of Ngayon at Kailanman episodes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Ngayon_at_Kailanman_episodes",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:Lumayo Ka Man sa Akin",
+      "type": "wikipedia",
+      "label": "Lumayo Ka Man sa Akin",
+      "url": "https://en.wikipedia.org/wiki/Lumayo_Ka_Man_sa_Akin",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:Forevermore (TV series)",
+      "type": "wikipedia",
+      "label": "Forevermore (TV series)",
+      "url": "https://en.wikipedia.org/wiki/Forevermore_(TV_series)",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:Kahit Konting Pagtingin (TV series)",
+      "type": "wikipedia",
+      "label": "Kahit Konting Pagtingin (TV series)",
+      "url": "https://en.wikipedia.org/wiki/Kahit_Konting_Pagtingin_(TV_series)",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:Dream Dad",
+      "type": "wikipedia",
+      "label": "Dream Dad",
+      "url": "https://en.wikipedia.org/wiki/Dream_Dad",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:Los Bastardos",
+      "type": "wikipedia",
+      "label": "Los Bastardos",
+      "url": "https://en.wikipedia.org/wiki/Los_Bastardos",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:List of Ngayon at Kailanman (2018 TV series) characters",
+      "type": "wikipedia",
+      "label": "List of Ngayon at Kailanman (2018 TV series) characters",
+      "url": "https://en.wikipedia.org/wiki/List_of_Ngayon_at_Kailanman_(2018_TV_series)_characters",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "wiki:Halik (TV series)",
+      "type": "wikipedia",
+      "label": "Halik (TV series)",
+      "url": "https://en.wikipedia.org/wiki/Halik_(TV_series)",
+      "firstSeenAt": "2026-08-28T18:39:19.393Z"
+    },
+    {
+      "id": "wiki:List of Halik episodes",
+      "type": "wikipedia",
+      "label": "List of Halik episodes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Halik_episodes",
+      "firstSeenAt": "2026-08-28T18:39:19.393Z"
+    },
+    {
+      "id": "wiki:Elisse Joson",
+      "type": "wikipedia",
+      "label": "Elisse Joson",
+      "url": "https://en.wikipedia.org/wiki/Elisse_Joson",
+      "firstSeenAt": "2026-08-28T18:39:19.393Z"
+    },
+    {
+      "id": "wiki:Pangako Sa 'Yo",
+      "type": "wikipedia",
+      "label": "Pangako Sa 'Yo",
+      "url": "https://en.wikipedia.org/wiki/Pangako_Sa_'Yo",
+      "firstSeenAt": "2026-08-28T18:39:19.393Z"
+    },
+    {
+      "id": "wiki:List of The General's Daughter episodes",
+      "type": "wikipedia",
+      "label": "List of The General's Daughter episodes",
+      "url": "https://en.wikipedia.org/wiki/List_of_The_General's_Daughter_episodes",
+      "firstSeenAt": "2026-08-28T18:39:19.394Z"
+    },
+    {
+      "id": "wiki:List of Nang Ngumiti ang Langit episodes",
+      "type": "wikipedia",
+      "label": "List of Nang Ngumiti ang Langit episodes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Nang_Ngumiti_ang_Langit_episodes",
+      "firstSeenAt": "2026-08-28T18:39:19.394Z"
+    },
+    {
+      "id": "wiki:List of Kadenang Ginto episodes",
+      "type": "wikipedia",
+      "label": "List of Kadenang Ginto episodes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Kadenang_Ginto_episodes",
+      "firstSeenAt": "2026-08-28T18:39:22.579Z"
+    },
+    {
+      "id": "wiki:List of Los Bastardos episodes",
+      "type": "wikipedia",
+      "label": "List of Los Bastardos episodes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Los_Bastardos_episodes",
+      "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    },
+    {
+      "id": "wiki:Kadenang Ginto",
+      "type": "wikipedia",
+      "label": "Kadenang Ginto",
+      "url": "https://en.wikipedia.org/wiki/Kadenang_Ginto",
+      "firstSeenAt": "2026-08-28T18:39:22.581Z"
     }
   ],
   "recentItems": [
     {
-      "id": "SzZHStHOYr8",
-      "title": "Ano nga ba ang ambag ng libag para kay Anne Curtis? | It’s Showtime | Miss Q&A Talak-era 2026",
-      "publishedAt": "2026-08-27T06:43:51Z",
-      "durationSec": 606,
-      "thumb": "https://i.ytimg.com/vi/SzZHStHOYr8/mqdefault.jpg",
-      "description": "Ano nga ba ang ambag ng libag para kay Anne Curtis?\n\nWatch more It's Showtime videos, click the link below:\n\nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj7nKRXeknplo1Brm-O9YI24\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4fGyFLtn_cMj5Mq9tWisWi\nKapamilya Online Live: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4pckMcQkqVzN2aOPqU7R1_\n\nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n\nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n\nAvailable for Premium and Standard Subscribers Outside PH.\n\nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\n \nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/\n \nVisit our official websites!\nhttps://www.abs-cbn.com/entertainment\n\nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN\nInstagram: https://instagram.com/abscbn\n \n##ShowtimeBekstionary\n#ItsShowtime\n#ABSCBNEntertainment",
+      "id": "Det3PJEr-S0",
+      "title": "Darating Ang Umaga | Episode 99 (4/4) | August 28, 2026",
+      "publishedAt": "2026-08-28T17:34:23Z",
+      "durationSec": 233,
+      "thumb": "https://i.ytimg.com/vi/Det3PJEr-S0/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: \nStream Filipino Movies & TV Shows | iWant\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n \n#DaratingAngUmaga\n#DaratingAngUmagaEpisode99\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "zpQYNsndDhg",
-      "title": "Vice Ganda, naging instant DIREKTOR ng DaCkie | It's Showtime Aug 26, 2026 | Part 4 of 5",
-      "publishedAt": "2026-08-27T06:30:31Z",
-      "durationSec": 1849,
-      "thumb": "https://i.ytimg.com/vi/zpQYNsndDhg/mqdefault.jpg",
-      "description": "Present sa Laro Laro Pick game arena ang mga Business Administration student ng NCR. Ang 'business' nila sa araw na 'to ay umuwing panalo.\n\nKinilala nina Vice Ganda, Karylle, at Darren Espanto si player Jamby, na laking Cam Sur. Pangarap niya, magkaroon ng business sa linyang agriculture, at someday madala ang pamilya sa Maynila para maipasyal naman sila.\n\nDahil sa kuwento ni Jamby, napaisip si Meme kung may pagkakataon ba na ma-enjoy ng bagong henerasyon ang kanilang kabataan, lalo na sa estado ng ekonomiya ng Pilipinas.\n\nAt sa aktingan portion, lumabas ang pagiging direktor ni Vice Ganda nang ilang beses niyang pinaulit ang eksena nina Darren at Jackie Gonzaga.\n\nWatch more It's Showtime videos, click the link below:\n \nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj7nKRXeknplo1Brm-O9YI24\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4fGyFLtn_cMj5Mq9tWisWi\nKapamilya Online Live: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4pckMcQkqVzN2aOPqU7R1_\n \nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n\n#ItsShowtime \n#WitLangShowtime\n#ABSCBNEntertainment",
+      "id": "GjyuIyr-oDw",
+      "title": "Darating Ang Umaga | Episode 99 (3/4) | August 28, 2026",
+      "publishedAt": "2026-08-28T17:34:18Z",
+      "durationSec": 359,
+      "thumb": "https://i.ytimg.com/vi/GjyuIyr-oDw/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: \nStream Filipino Movies & TV Shows | iWant\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n \n#DaratingAngUmaga\n#DaratingAngUmagaEpisode99\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "fF4M6FdV23c",
-      "title": "Gladys Reyes, ni-level up ang 'Oooh Lala Baby' | It's Showtime Aug 26, 2026 | Part 1 of 5",
-      "publishedAt": "2026-08-27T06:30:21Z",
-      "durationSec": 990,
-      "thumb": "https://i.ytimg.com/vi/fF4M6FdV23c/mqdefault.jpg",
-      "description": "Anuman ang pinagdaanan nakaraan, bawat pagsubok ay may iniwang mahalagang aral naman. At kung pinatatag tayo ng mga araw na lumipas, mas masaya ang present dahil mas matibay na tayo bukas.\n\nI-welcome ang bagong era in life! Just like our special bisita, Gladys Reyes. Hindi na lang siya kontrabida, dahil 'songerist' na rin siya! Ipinarinig ni Gladys ang kanyang bagong awitin. At nag-sample ng \"Oooh Lala Baby\" dance, level up with hula hoop!\n\nWatch more It's Showtime videos, click the link below:\n \nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj7nKRXeknplo1Brm-O9YI24\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4fGyFLtn_cMj5Mq9tWisWi\nKapamilya Online Live: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4pckMcQkqVzN2aOPqU7R1_\n \nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n\n#ItsShowtime \n#WitLangShowtime\n#ABSCBNEntertainment",
+      "id": "BWA4BuKBpYM",
+      "title": "Darating Ang Umaga | Episode 99 (2/4) | August 28, 2026",
+      "publishedAt": "2026-08-28T17:34:12Z",
+      "durationSec": 309,
+      "thumb": "https://i.ytimg.com/vi/BWA4BuKBpYM/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: \nStream Filipino Movies & TV Shows | iWant\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n \n#DaratingAngUmaga\n#DaratingAngUmagaEpisode99\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "xyzgv1hweWk",
-      "title": "Laro Laro Pick: Red, sinunod ang SIGNS | It's Showtime Aug 26, 2026 | Part 5 of 5",
-      "publishedAt": "2026-08-27T06:30:21Z",
-      "durationSec": 553,
-      "thumb": "https://i.ytimg.com/vi/xyzgv1hweWk/mqdefault.jpg",
-      "description": "Present sa Laro Laro Pick game arena ang mga Business Administration student ng NCR. Ang 'business' nila sa araw na 'to ay umuwing panalo.\n\nAng mga naunang natanggal sa laro, masaya hanggang dulo dahil bumunot ng player na abanate sa jackpot round matapos mag-fail ang mga estudyante sa naunang rounds.\n\nSwerte nga ang kulay na pula, dahil si Red ang nabigyan ng second chance. May 'signs' daw na nagsasabing sugalan niya ang P400k POT question, but sadly, hindi nasagot ni Red nang tama ang katanungan.\n\nWatch more It's Showtime videos, click the link below:\n \nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj7nKRXeknplo1Brm-O9YI24\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4fGyFLtn_cMj5Mq9tWisWi\nKapamilya Online Live: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4pckMcQkqVzN2aOPqU7R1_\n \nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n\n#ItsShowtime \n#WitLangShowtime\n#ABSCBNEntertainment",
+      "id": "44WJITMsqQw",
+      "title": "Darating Ang Umaga | Episode 99 (1/4) | August 28, 2026",
+      "publishedAt": "2026-08-28T17:34:07Z",
+      "durationSec": 435,
+      "thumb": "https://i.ytimg.com/vi/44WJITMsqQw/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: \nStream Filipino Movies & TV Shows | iWant\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n \n#DaratingAngUmaga\n#DaratingAngUmagaEpisode99\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "MrxfXqW8Dyc",
-      "title": "Miss Q&A candidate, may 'AMATS'? | It's Showtime Aug 26, 2026 | Part 2 of 5",
-      "publishedAt": "2026-08-27T06:30:13Z",
-      "durationSec": 2505,
-      "thumb": "https://i.ytimg.com/vi/MrxfXqW8Dyc/mqdefault.jpg",
-      "description": "Kanya-kanyang amats for today's video sina candidates Josh Rebong, Marian Gor Geous, at Kylie Balong Dagami.\n\nHow true na sumabak si Candidate 1, Josh, nang lasing? Si Candidate 2 naman, tinawag ang sarili na dating gorilla pero ngayon ay 'dyusa' kaya gorgeous na siya, at ang kanyang masasabi lang ay \"ah-huh.\" Kung naubos ang pag-asa ni Meme sa naunang dalawang kandidata, nabuhayan naman siya dahil may 'matino' pang natitira—si Candidate 3, Kylie. 'Yun nga lang, muntik na itong 'palayasin' sa studio.\n\nSa sobrnag intense ng 'puksaan' pati sina Vhong Navarro at Ogie Alcasid nagkainitan?! Ang jokes, nauwi sa personalan at laitan nang dahil lang sa isang katanungan!\n\nWatch more It's Showtime videos, click the link below:\n \nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj7nKRXeknplo1Brm-O9YI24\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4fGyFLtn_cMj5Mq9tWisWi\nKapamilya Online Live: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4pckMcQkqVzN2aOPqU7R1_\n \nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n\n#ItsShowtime \n#WitLangShowtime\n#ABSCBNEntertainment",
+      "id": "g6WX94IputE",
+      "title": "Huwag Kang Mangamba | Episode 95 (4/4) | August 28, 2026",
+      "publishedAt": "2026-08-28T17:15:53Z",
+      "durationSec": 112,
+      "thumb": "https://i.ytimg.com/vi/g6WX94IputE/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: \nhttps://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n \n#HuwagKangMangamba\n#HuwagKangMangambaEpisode95\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "0Zed6BuuLJ0",
-      "title": "Kandidatang 'LASING,' wagi bilang Miss Q&A of the day | It's Showtime Aug 26, 2026 | Part 3 of 5",
-      "publishedAt": "2026-08-27T06:30:08Z",
-      "durationSec": 973,
-      "thumb": "https://i.ytimg.com/vi/0Zed6BuuLJ0/mqdefault.jpg",
-      "description": "Kanya-kanyang amats for today's video sina candidates Josh Rebong, Marian Gor Geous, at Kylie Balong Dagami.\n\nHow true na sumabak si Candidate 1, Josh, nang lasing? Pero huwag magpapa-eme, dahil totoong may amats, as in may 'tama' siya kaya mabilis umabante sa Wit Lang, kung saan nakaharap niya ang former TV show writer na si Kylie.\n\nHinarap ni Kylie ang tanong na, \"Sa palagay mo ba, nasira ang friendship ng sayote at papaya dahil sa tinola.\" Na-test naman ang wit ni Josh nang tanungin kung magpapa-gender reveal ba siya kahit tiyank ang magiging anak niya.\n\nNa-test din ang defenses ni Nicole Cordoves dahil sa presensya ng co-hurado na si Emilio Daez. Parang nag-blush ang miss!\n\nWatch more It's Showtime videos, click the link below:\n \nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj7nKRXeknplo1Brm-O9YI24\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4fGyFLtn_cMj5Mq9tWisWi\nKapamilya Online Live: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4pckMcQkqVzN2aOPqU7R1_\n \nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n\n#ItsShowtime \n#WitLangShowtime\n#ABSCBNEntertainment",
+      "id": "SnTM_TmZ1MQ",
+      "title": "Huwag Kang Mangamba | Episode 95 (3/4) | August 28, 2026",
+      "publishedAt": "2026-08-28T17:15:49Z",
+      "durationSec": 432,
+      "thumb": "https://i.ytimg.com/vi/SnTM_TmZ1MQ/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: \nhttps://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n \n#HuwagKangMangamba\n#HuwagKangMangambaEpisode95\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "SqJ2Sh-s-kc",
-      "title": "Anne, ibinida ang ‘portable bidet’ na nabili niya online | It’s Showtime | Miss Q&A Talak-era 2026",
-      "publishedAt": "2026-08-27T06:06:04Z",
-      "durationSec": 611,
-      "thumb": "https://i.ytimg.com/vi/SqJ2Sh-s-kc/mqdefault.jpg",
-      "description": "Anne, ibinida ang ‘portable bidet’ na nabili niya online.\n\nWatch more It's Showtime videos, click the link below:\n\nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj7nKRXeknplo1Brm-O9YI24\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4fGyFLtn_cMj5Mq9tWisWi\nKapamilya Online Live: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4pckMcQkqVzN2aOPqU7R1_\n\nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n\nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n\nAvailable for Premium and Standard Subscribers Outside PH.\n\nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\n \nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/\n \nVisit our official websites!\nhttps://www.abs-cbn.com/entertainment\n\nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN\nInstagram: https://instagram.com/abscbn\n \n##ShowtimeBekstionary\n#ItsShowtime\n#ABSCBNEntertainment",
+      "id": "rQy4N5mSfKI",
+      "title": "Huwag Kang Mangamba | Episode 95 (2/4) | August 28, 2026",
+      "publishedAt": "2026-08-28T17:15:43Z",
+      "durationSec": 420,
+      "thumb": "https://i.ytimg.com/vi/rQy4N5mSfKI/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: \nhttps://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n \n#HuwagKangMangamba\n#HuwagKangMangambaEpisode95\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "QgUVNEEYEs0",
-      "title": "Ogie at Vhong, ceasefire muna sa awayan?! | It’s Showtime | Miss Q&A Talak-era 2026",
-      "publishedAt": "2026-08-27T05:52:16Z",
-      "durationSec": 603,
-      "thumb": "https://i.ytimg.com/vi/QgUVNEEYEs0/mqdefault.jpg",
-      "description": "Ogie at Vhong, ceasefire muna sa awayan?! \n\nWatch more It's Showtime videos, click the link below:\n\nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj7nKRXeknplo1Brm-O9YI24\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4fGyFLtn_cMj5Mq9tWisWi\nKapamilya Online Live: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj4pckMcQkqVzN2aOPqU7R1_\n\nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n\nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n\nAvailable for Premium and Standard Subscribers Outside PH.\n\nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\n \nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/\n \nVisit our official websites!\nhttps://www.abs-cbn.com/entertainment\n\nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN\nInstagram: https://instagram.com/abscbn\n \n##ShowtimeBekstionary\n#ItsShowtime\n#ABSCBNEntertainment",
+      "id": "4ebxpCmRWHw",
+      "title": "Huwag Kang Mangamba | Episode 95 (1/4) | August 28, 2026",
+      "publishedAt": "2026-08-28T17:15:39Z",
+      "durationSec": 477,
+      "thumb": "https://i.ytimg.com/vi/4ebxpCmRWHw/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: \nhttps://web.iwanttfc.com/\nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n \n#HuwagKangMangamba\n#HuwagKangMangambaEpisode95\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "V4BnTpJSqAU",
-      "title": "Sana Bukas Pa Ang Kahapon | Episode 38 (1/4) | August 27, 2026",
-      "publishedAt": "2026-08-27T05:36:05Z",
-      "durationSec": 497,
-      "thumb": "https://i.ytimg.com/vi/V4BnTpJSqAU/mqdefault.jpg",
-      "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/join\n\nSubscribe to the ABS-CBN Entertainment channel!\nhttp://bit.ly/ABS-CBNEntertainment\n\nWatch full episodes on iWant for FREE here:\nhttps://web.iwanttfc.com/\n\nVisit our official website! \nhttps://www.abs-cbn.com/entertainment\nhttp://www.push.com.ph\n\nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter (X): https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn\n\n#SanaBukasPaAngKahapon\n#SanaBukasPaAngKahapon38\n#abscbnentertainment",
+      "id": "SOhA8e6V04U",
+      "title": "‘Investigation’ Episode | Someone, Someday Trending Scenes",
+      "publishedAt": "2026-08-28T16:30:16Z",
+      "durationSec": 729,
+      "thumb": "https://i.ytimg.com/vi/SOhA8e6V04U/mqdefault.jpg",
+      "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/join\n\nSubscribe to the ABS-CBN Entertainment channel!\nhttp://bit.ly/ABS-CBNEntertainment\n\nWatch full episodes on iWant for FREE here:\nhttps://web.iwanttfc.com/\n\nVisit our official website! \nhttps://www.abs-cbn.com/entertainment\nhttp://www.push.com.ph\n\nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter (X): https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn",
       "chapters": []
     },
     {
-      "id": "6k-DKP-oQoA",
-      "title": "What Lies Beneath | Episode 5 (3/3) | (w/ English Subtitles)",
-      "publishedAt": "2026-08-27T05:00:37Z",
-      "durationSec": 284,
-      "thumb": "https://i.ytimg.com/vi/6k-DKP-oQoA/mqdefault.jpg",
-      "description": "Mel (Sue Ramirez) stages a PR stunt with Anton (Jameson Blake) to clear up the rumors about them. Beth (Charlie Dizon) catches Alice (Janella Salvador) visiting an unusual shop.\n\nWatch more What Lies Beneath videos, click the link below:\n \nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj6ddj8pBMLY3whJlDano3Q0\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj5YSoI312BWI3WTX6Y1HFj9\nTrending Scenes: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj5SzmYurJI0kRflTTon-Q4q\nRecap: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj6WIRmeipJyoFDlyaI0yCmg\n\nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/details/6ce6e626-ca33-46a7-b7e3-1d2fd9a7a4e7\nVisit our official website!\nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN\nInstagram: https://instagram.com/abscbn\n \n#WhatLiesBeneath\n#WhatLiesBeneathWhatWeReveal\n#WhatLiesBeneathEpisode5",
+      "id": "qDaYskdoit8",
+      "title": "Darating Ang Umaga | Episode 98 (4/4) | August 27, 2026",
+      "publishedAt": "2026-08-28T16:15:35Z",
+      "durationSec": 145,
+      "thumb": "https://i.ytimg.com/vi/qDaYskdoit8/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n\nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n\nAvailable for Premium and Standard Subscribers Outside PH.\n\nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\n \nWatch full episodes on iWant for FREE here: \nhttps://web.iwanttfc.com/\n \nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n\nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn \n\n#DaratingAngUmaga\n#DaratingAngUmagaEpisode98\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "lJrnq0tL_nM",
-      "title": "What Lies Beneath | Episode 5 (1/3) | (w/ English Subtitles)",
-      "publishedAt": "2026-08-27T05:00:36Z",
-      "durationSec": 481,
-      "thumb": "https://i.ytimg.com/vi/lJrnq0tL_nM/mqdefault.jpg",
-      "description": "Beth (Charlie Dizon) begins to suspect that her friends are keeping secrets from her.\n\nWatch more What Lies Beneath videos, click the link below:\n \nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj6ddj8pBMLY3whJlDano3Q0\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj5YSoI312BWI3WTX6Y1HFj9\nTrending Scenes: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj5SzmYurJI0kRflTTon-Q4q\nRecap: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj6WIRmeipJyoFDlyaI0yCmg\n\nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/details/6ce6e626-ca33-46a7-b7e3-1d2fd9a7a4e7\nVisit our official website!\nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN\nInstagram: https://instagram.com/abscbn\n \n#WhatLiesBeneath\n#WhatLiesBeneathWhatWeReveal\n#WhatLiesBeneathEpisode5",
+      "id": "0IzuUTCN45g",
+      "title": "Darating Ang Umaga | Episode 98 (2/4) | August 27, 2026",
+      "publishedAt": "2026-08-28T16:15:34Z",
+      "durationSec": 328,
+      "thumb": "https://i.ytimg.com/vi/0IzuUTCN45g/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n\nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n\nAvailable for Premium and Standard Subscribers Outside PH.\n\nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\n \nWatch full episodes on iWant for FREE here: \nhttps://web.iwanttfc.com/\n \nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n\nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn \n\n#DaratingAngUmaga\n#DaratingAngUmagaEpisode98\n#ABSCBNEntertainment",
       "chapters": []
     },
     {
-      "id": "hU5CS2DPg4c",
-      "title": "What Lies Beneath | Episode 5 (2/3) | (w/ English Subtitles)",
-      "publishedAt": "2026-08-27T05:00:12Z",
-      "durationSec": 625,
-      "thumb": "https://i.ytimg.com/vi/hU5CS2DPg4c/mqdefault.jpg",
-      "description": "Mel (Sue Ramirez) endures her mother-in-law's tongue-lashing. Lucas (JM de Guzman) confronts Erica (Kaila Estrada) after learning she went to see Edong (Jake Cuenca).\n\nWatch more What Lies Beneath videos, click the link below:\n \nMain: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj6ddj8pBMLY3whJlDano3Q0\nHighlights: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj5YSoI312BWI3WTX6Y1HFj9\nTrending Scenes: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj5SzmYurJI0kRflTTon-Q4q\nRecap: https://www.youtube.com/playlist?list=PLPcB0_P-Zlj6WIRmeipJyoFDlyaI0yCmg\n\nStream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n \nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n \nAvailable for Premium and Standard Subscribers Outside PH.\n \nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\nWatch full episodes on iWant for FREE here: https://web.iwanttfc.com/details/6ce6e626-ca33-46a7-b7e3-1d2fd9a7a4e7\nVisit our official website!\nhttps://www.abs-cbn.com/entertainment\n \nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN\nInstagram: https://instagram.com/abscbn\n \n#WhatLiesBeneath\n#WhatLiesBeneathWhatWeReveal\n#WhatLiesBeneathEpisode5",
+      "id": "d_MQ1oDL_Vs",
+      "title": "Darating Ang Umaga | Episode 98 (1/4) | August 27, 2026",
+      "publishedAt": "2026-08-28T16:15:22Z",
+      "durationSec": 364,
+      "thumb": "https://i.ytimg.com/vi/d_MQ1oDL_Vs/mqdefault.jpg",
+      "description": "Stream it on demand and watch the full episode on https://web.iwanttfc.com or download the iWant app via Google Play or the App Store.\n\nAvailable for Free, Premium and Standard Subscribers in the Philippines.\n\nAvailable for Premium and Standard Subscribers Outside PH.\n\nSubscribe to ABS-CBN Entertainment channel! - https://bit.ly/ABS-CBNEntertainment\n \nWatch full episodes on iWant for FREE here: \nhttps://web.iwanttfc.com/\n \nVisit our official websites! \nhttps://www.abs-cbn.com/entertainment\n\nFacebook: https://www.facebook.com/ABSCBNnetwork\nTwitter: https://twitter.com/ABSCBN \nInstagram: https://instagram.com/abscbn \n\n#DaratingAngUmaga\n#DaratingAngUmagaEpisode98\n#ABSCBNEntertainment",
       "chapters": []
     }
   ]

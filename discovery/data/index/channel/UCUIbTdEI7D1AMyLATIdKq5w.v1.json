@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T07:14:39.522Z",
+  "generatedAt": "2026-08-28T18:40:21.487Z",
   "id": "UCUIbTdEI7D1AMyLATIdKq5w",
   "title": "Groucho Marx - You Bet Your Life",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ndCH-S-TBxWKYkDqLcNr-568NJIq0KYubISGWqTai26g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Robert E. Sherwood",
       "url": "https://en.wikipedia.org/wiki/Robert_E._Sherwood",
       "firstSeenAt": "2026-08-27T07:14:07.209Z"
+    },
+    {
+      "id": "wiki:Howard Hill",
+      "type": "wikipedia",
+      "label": "Howard Hill",
+      "url": "https://en.wikipedia.org/wiki/Howard_Hill",
+      "firstSeenAt": "2026-08-28T18:39:19.394Z"
+    },
+    {
+      "id": "wiki:Jack M. Warner",
+      "type": "wikipedia",
+      "label": "Jack M. Warner",
+      "url": "https://en.wikipedia.org/wiki/Jack_M._Warner",
+      "firstSeenAt": "2026-08-28T18:39:22.579Z"
     }
   ],
   "recentItems": [
