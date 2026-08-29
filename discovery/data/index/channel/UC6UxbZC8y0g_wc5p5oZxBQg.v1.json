@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T18:40:21.487Z",
+  "generatedAt": "2026-08-29T12:41:32.218Z",
   "id": "UC6UxbZC8y0g_wc5p5oZxBQg",
   "title": "RedSamurai84",
   "thumb": "https://yt3.ggpht.com/kgx1rIdUtEppgBZAYAtjlv0JRs0BWmKLO8Lnd8tMS-qJe_qqGbQKnsfAS1Dl_489fHeJvBWFMA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,48 @@
       "label": "Military Band of the Western Military District",
       "url": "https://en.wikipedia.org/wiki/Military_Band_of_the_Western_Military_District",
       "firstSeenAt": "2026-08-28T18:39:19.393Z"
+    },
+    {
+      "id": "wiki:Victory Day parades",
+      "type": "wikipedia",
+      "label": "Victory Day parades",
+      "url": "https://en.wikipedia.org/wiki/Victory_Day_parades",
+      "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "wiki:Moscow Victory Day Parade",
+      "type": "wikipedia",
+      "label": "Moscow Victory Day Parade",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Victory_Day_Parade",
+      "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "wiki:Central Military Band of the Ministry of Defense of Russia",
+      "type": "wikipedia",
+      "label": "Central Military Band of the Ministry of Defense of Russia",
+      "url": "https://en.wikipedia.org/wiki/Central_Military_Band_of_the_Ministry_of_Defense_of_Russia",
+      "firstSeenAt": "2026-08-29T12:40:14.964Z"
+    },
+    {
+      "id": "wiki:Moscow Military Music College",
+      "type": "wikipedia",
+      "label": "Moscow Military Music College",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Military_Music_College",
+      "firstSeenAt": "2026-08-29T12:40:14.964Z"
+    },
+    {
+      "id": "wiki:2011 Moscow Victory Day Parade",
+      "type": "wikipedia",
+      "label": "2011 Moscow Victory Day Parade",
+      "url": "https://en.wikipedia.org/wiki/2011_Moscow_Victory_Day_Parade",
+      "firstSeenAt": "2026-08-29T12:40:14.964Z"
+    },
+    {
+      "id": "channel:UCYFm5uWjD06406Ydyw9D3dg",
+      "type": "channel",
+      "label": "PetrovFed",
+      "url": "https://www.youtube.com/channel/UCYFm5uWjD06406Ydyw9D3dg",
+      "firstSeenAt": "2026-08-29T12:40:16.974Z"
     }
   ],
   "recentItems": [

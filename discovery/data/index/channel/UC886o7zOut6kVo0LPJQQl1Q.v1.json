@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T18:40:21.487Z",
+  "generatedAt": "2026-08-29T12:41:32.218Z",
   "id": "UC886o7zOut6kVo0LPJQQl1Q",
   "title": "YouTube Music Awards",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfjX6MAeODbDB-Bm5nvTdd_Sokd0QfUVAId6XG4df4jw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "List of awards and nominations received by the Weeknd",
       "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_the_Weeknd",
       "firstSeenAt": "2026-08-27T07:14:04.990Z"
+    },
+    {
+      "id": "wiki:List of awards and nominations received by Miley Cyrus",
+      "type": "wikipedia",
+      "label": "List of awards and nominations received by Miley Cyrus",
+      "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Miley_Cyrus",
+      "firstSeenAt": "2026-08-29T12:40:12.182Z"
     }
   ],
   "recentItems": [

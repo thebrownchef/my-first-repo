@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T18:40:21.487Z",
+  "generatedAt": "2026-08-29T12:41:32.218Z",
   "id": "UC-DNVYGfROFxtSnwtLh3l-w",
   "title": "La Banda Militare: Italian and International Military Music",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nPczNasQ9iy4CPruz9OF_TYg9ljXgwJ4DgUa4lG8ohZA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.78,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Zaporizhian March",
       "url": "https://en.wikipedia.org/wiki/Zaporizhian_March",
       "firstSeenAt": "2026-08-28T18:39:22.579Z"
+    },
+    {
+      "id": "wiki:Prince's Band of Carabiniers",
+      "type": "wikipedia",
+      "label": "Prince's Band of Carabiniers",
+      "url": "https://en.wikipedia.org/wiki/Prince's_Band_of_Carabiniers",
+      "firstSeenAt": "2026-08-29T12:40:10.330Z"
+    },
+    {
+      "id": "channel:UCYFm5uWjD06406Ydyw9D3dg",
+      "type": "channel",
+      "label": "PetrovFed",
+      "url": "https://www.youtube.com/channel/UCYFm5uWjD06406Ydyw9D3dg",
+      "firstSeenAt": "2026-08-29T12:40:16.974Z"
     }
   ],
   "recentItems": [

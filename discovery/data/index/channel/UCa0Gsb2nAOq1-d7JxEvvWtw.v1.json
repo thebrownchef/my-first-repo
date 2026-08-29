@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-28T18:40:21.487Z",
+  "generatedAt": "2026-08-29T12:41:32.218Z",
   "id": "UCa0Gsb2nAOq1-d7JxEvvWtw",
   "title": "MDNationalArmy",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lnpPwwCOdD-AEHkwzzYJfhoBCZpuqHcdWmrFgfUlN0MeQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Armed Forces of the Republic of Moldova",
       "url": "https://en.wikipedia.org/wiki/Armed_Forces_of_the_Republic_of_Moldova",
       "firstSeenAt": "2026-08-28T18:39:14.035Z"
+    },
+    {
+      "id": "wiki:Moldovan National Army",
+      "type": "wikipedia",
+      "label": "Moldovan National Army",
+      "url": "https://en.wikipedia.org/wiki/Moldovan_National_Army",
+      "firstSeenAt": "2026-08-29T12:40:10.675Z"
     }
   ],
   "recentItems": [
