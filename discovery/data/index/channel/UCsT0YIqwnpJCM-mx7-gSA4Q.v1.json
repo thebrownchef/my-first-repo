@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T12:41:32.218Z",
+  "generatedAt": "2026-08-30T11:53:50.696Z",
   "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
   "title": "TEDx Talks",
   "thumb": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 42.9,
   "sources": [
@@ -22,9 +22,25 @@
       "label": "Poppy Starr Olsen",
       "url": "https://en.wikipedia.org/wiki/Poppy_Starr_Olsen",
       "firstSeenAt": "2026-08-27T07:14:04.990Z"
+    },
+    {
+      "id": "wiki:Justin Packshaw",
+      "type": "wikipedia",
+      "label": "Justin Packshaw",
+      "url": "https://en.wikipedia.org/wiki/Justin_Packshaw",
+      "firstSeenAt": "2026-08-30T11:52:30.516Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "Wr_tz54sSPY",
+      "title": "The AI revolution didn’t happen overnight—here’s why | Michael Wooldridge | TEDxManchester",
+      "publishedAt": "2026-08-29T13:30:06Z",
+      "durationSec": 1000,
+      "thumb": "https://i.ytimg.com/vi/Wr_tz54sSPY/mqdefault.jpg",
+      "description": "In this insightful talk, Professor Michael Wooldridge of Oxford University pulls back the curtain on the \"overnight\" AI revolution. Far from being a recent phenomenon, the journey of Artificial Intelligence began in the 1940s in Manchester, England.\n\nFrom the code-breaking genius of Alan Turing to the modern-day phenomena of Nvidia and OpenAI, Wooldridge traces the high-stakes history of the technology that is currently reshaping our world.\n\nThe Professor's talk covers..\n\nThe Early Days: How the first digital computers and the Turing Test set the stage for machine intelligence.\n\nThe Neural Network Breakthrough: Why the 1980s got the science right, but lacked the data and power to make it work.\n\nThe GPU Revolution: The unlikely story of how computer game chips (designed for explosions in Call of Duty) became the secret sauce for modern AI.\n\nThe Rise of Transformers: How a 2017 Google research paper led to the birth of GPT-3 and the early success of ChatGPT.\n\nClever vs Gimmicky vs. Useful: Why AI can solve complex prime number equations in Latin, but still can’t figure out how to load your dishwasher. Michael Wooldridge is the Ashall Professor of the Foundations of Artificial Intelligence at Oxford University. He is best known for his pioneering work on multi-agent systems building multiple artificial intelligences that can cooperate, negotiate, and decipher convoluted problems similar to human collaboration.\n\nIn 2023, he delivered the Royal Institution Christmas Lectures, titled ‘The Truth About AI’, and is a champion for making science accessible, having written the Ladybird Expert Guide to AI and the award-winning The Road to Conscious Machines.\n\nFor Michael’s thirty years of research, technical breakthroughs and dedication to teaching others, he was recently awarded the prestigious Michael Faraday Prize by the Royal Society in late 2025, becoming the first computer scientist in history to receive it. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
     {
       "id": "t8oQ07S75Ic",
       "title": "Could we eradicate Alzheimer's disease? | Jonathan Marsh | TEDxNaples",
@@ -122,15 +138,6 @@
       "durationSec": 430,
       "thumb": "https://i.ytimg.com/vi/R81c501uL4g/mqdefault.jpg",
       "description": "How much of today do we lose while waiting for tomorrow? Ana-Maria Papazova reflects on the pressure to follow a fixed plan and become a single, predetermined version of ourselves. Drawing on her own changing aspirations, she invites us to see life as a palette of possibilities, to remain open to change and to find meaning in the present instead of constantly postponing it for an imagined future.\n Ana-Maria Papazova is a second-year Journalism student at New Bulgarian University. A graduate of the Vasil Levski Sports School, she once believed that her future would remain entirely connected to rhythmic gymnastics. Over time, she discovered that life is not a single predetermined path but a palette of possibilities. She believes that identity is a constantly evolving story and tries to find meaning in the present rather than limiting herself to one permanent version of who she should become. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
-      "chapters": []
-    },
-    {
-      "id": "o1yrI2f6OMw",
-      "title": "MORE THAN A NAME | Jasmita Yasothamani Rukmoni | TEDxChinmaya Vidyalaya Attukal Youth",
-      "publishedAt": "2026-08-28T16:21:27Z",
-      "durationSec": 946,
-      "thumb": "https://i.ytimg.com/vi/o1yrI2f6OMw/mqdefault.jpg",
-      "description": "A name may seem like a simple label, but it can carry history, meaning, expectations and a deeply personal story.\n\nDrawing from her own experiences, Jasmita Yasothamani Rukmoni explores how names influence identity, confidence and the way we understand ourselves. She invites us to look beyond the letters and sounds of a name and discover the stories, values and sense of belonging it can represent.\n\nThis talk encourages us to embrace the uniqueness of our names and recognise that understanding where we come from can help shape who we choose to become. Jasmita is a curious learner with a passion for science, music, and uncovering the extraordinary in everyday life. She is fascinated by the power of words and believes that even something as simple as a name can shape identity, confidence, and purpose.\nDrawing from her own journey, Jasmita takes the TEDx stage to explore how names are more than labels—they carry stories, meaning, and the potential to influence who we become. Through her talk, she invites the audience to reflect on the significance of identity and embrace the unique story behind their own name. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
       "chapters": []
     }
   ]

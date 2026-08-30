@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T12:41:32.218Z",
+  "generatedAt": "2026-08-30T11:53:50.696Z",
   "id": "UCUrWZcth3kwGS3rrON8c1og",
   "title": "BellyVEVO",
   "thumb": "https://yt3.ggpht.com/__70-EZuQxSv1D0tjNRqr0nvHZ-lhjOBqFOV2ilST_8SOR7OZtO1cPNMPcFzdFKMKUvwno88Pw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "What You Want (Belly song)",
       "url": "https://en.wikipedia.org/wiki/What_You_Want_(Belly_song)",
       "firstSeenAt": "2026-08-28T18:39:22.579Z"
+    },
+    {
+      "id": "wiki:See You Next Wednesday (album)",
+      "type": "wikipedia",
+      "label": "See You Next Wednesday (album)",
+      "url": "https://en.wikipedia.org/wiki/See_You_Next_Wednesday_(album)",
+      "firstSeenAt": "2026-08-30T11:52:30.516Z"
     }
   ],
   "recentItems": [

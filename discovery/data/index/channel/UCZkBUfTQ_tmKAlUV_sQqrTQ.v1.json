@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T12:41:32.218Z",
+  "generatedAt": "2026-08-30T11:53:50.696Z",
   "id": "UCZkBUfTQ_tmKAlUV_sQqrTQ",
   "title": "To Tell the Truth (CBS)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ms2XATRU-GIJncimlsiifJQtdmfdcQNTiLZjGDBipF=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Butch Buchholz",
       "url": "https://en.wikipedia.org/wiki/Butch_Buchholz",
       "firstSeenAt": "2026-08-29T12:40:14.964Z"
+    },
+    {
+      "id": "channel:UChPE75Fvvl1HmdAsO7Nzb8w",
+      "type": "channel",
+      "label": "What's My Line?",
+      "url": "https://www.youtube.com/channel/UChPE75Fvvl1HmdAsO7Nzb8w",
+      "firstSeenAt": "2026-08-30T11:52:32.367Z"
     }
   ],
   "recentItems": [

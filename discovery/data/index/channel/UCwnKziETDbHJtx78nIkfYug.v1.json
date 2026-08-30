@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T12:41:32.218Z",
+  "generatedAt": "2026-08-30T11:53:50.696Z",
   "id": "UCwnKziETDbHJtx78nIkfYug",
   "title": "CaspianReport",
   "thumb": "https://yt3.ggpht.com/zTPr0Jg_Xg3qQ0PtpMLspaKm54x4trKqyyKbaob8IjTjx9O5GZGZCRzMpR9dOOeJB4u2ps_F=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Khan Araz",
       "url": "https://www.youtube.com/channel/UCGXnLUx14KH2cMggDlGwE2A",
       "firstSeenAt": "2026-08-28T18:39:43.289Z"
+    },
+    {
+      "id": "wiki:Turkish Armed Forces",
+      "type": "wikipedia",
+      "label": "Turkish Armed Forces",
+      "url": "https://en.wikipedia.org/wiki/Turkish_Armed_Forces",
+      "firstSeenAt": "2026-08-30T11:52:30.517Z"
+    },
+    {
+      "id": "wiki:List of countries with overseas military bases",
+      "type": "wikipedia",
+      "label": "List of countries with overseas military bases",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_with_overseas_military_bases",
+      "firstSeenAt": "2026-08-30T11:52:30.517Z"
     }
   ],
   "recentItems": [

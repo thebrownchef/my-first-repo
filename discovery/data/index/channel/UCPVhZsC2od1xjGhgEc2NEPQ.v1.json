@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T12:41:32.218Z",
+  "generatedAt": "2026-08-30T11:53:50.696Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "BBCRadio1VEVO",
       "url": "https://www.youtube.com/channel/UCKoafhJ9dkAWaEvlXCiBBwA",
       "firstSeenAt": "2026-08-29T12:40:37.392Z"
+    },
+    {
+      "id": "channel:UCd7A6xDlGoar2vHDvVm1CqA",
+      "type": "channel",
+      "label": "OasisVEVO",
+      "url": "https://www.youtube.com/channel/UCd7A6xDlGoar2vHDvVm1CqA",
+      "firstSeenAt": "2026-08-30T11:52:36.007Z"
+    },
+    {
+      "id": "channel:UCDGmojLIoWpXok597xYo8cg",
+      "type": "channel",
+      "label": "BillieEilishVEVO",
+      "url": "https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg",
+      "firstSeenAt": "2026-08-30T11:52:46.149Z"
     }
   ],
   "recentItems": []

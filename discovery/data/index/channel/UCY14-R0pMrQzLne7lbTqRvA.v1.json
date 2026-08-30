@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T12:41:32.218Z",
+  "generatedAt": "2026-08-30T11:53:50.696Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "BBCRadio1VEVO",
       "url": "https://www.youtube.com/channel/UCKoafhJ9dkAWaEvlXCiBBwA",
       "firstSeenAt": "2026-08-29T12:40:37.392Z"
+    },
+    {
+      "id": "channel:UCH_YpPVrF7Kzjew8rB2cdjg",
+      "type": "channel",
+      "label": "The1975VEVO",
+      "url": "https://www.youtube.com/channel/UCH_YpPVrF7Kzjew8rB2cdjg",
+      "firstSeenAt": "2026-08-30T11:52:39.105Z"
     }
   ],
   "recentItems": [

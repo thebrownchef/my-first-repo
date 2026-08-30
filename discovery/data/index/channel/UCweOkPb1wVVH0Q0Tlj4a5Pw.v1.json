@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T12:41:32.218Z",
+  "generatedAt": "2026-08-30T11:53:50.696Z",
   "id": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
   "title": "1theK (원더케이)",
   "thumb": "https://yt3.ggpht.com/N9zJYmTpFKxrDlxmKv09gsjvrSrcVYWcK8lxWTyvTbXd5VMChyKzkf1cVpOT902d1-ZQIQQWeg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 4.04,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "Down (Jessi song)",
       "url": "https://en.wikipedia.org/wiki/Down_(Jessi_song)",
       "firstSeenAt": "2026-08-29T12:40:14.964Z"
+    },
+    {
+      "id": "wiki:Soojin",
+      "type": "wikipedia",
+      "label": "Soojin",
+      "url": "https://en.wikipedia.org/wiki/Soojin",
+      "firstSeenAt": "2026-08-30T11:52:26.129Z"
+    },
+    {
+      "id": "wiki:Nada (South Korean musician)",
+      "type": "wikipedia",
+      "label": "Nada (South Korean musician)",
+      "url": "https://en.wikipedia.org/wiki/Nada_(South_Korean_musician)",
+      "firstSeenAt": "2026-08-30T11:52:26.129Z"
+    },
+    {
+      "id": "wiki:Yuju (singer)",
+      "type": "wikipedia",
+      "label": "Yuju (singer)",
+      "url": "https://en.wikipedia.org/wiki/Yuju_(singer)",
+      "firstSeenAt": "2026-08-30T11:52:26.130Z"
+    },
+    {
+      "id": "wiki:Travel (Mamamoo EP)",
+      "type": "wikipedia",
+      "label": "Travel (Mamamoo EP)",
+      "url": "https://en.wikipedia.org/wiki/Travel_(Mamamoo_EP)",
+      "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "wiki:Ryeoun",
+      "type": "wikipedia",
+      "label": "Ryeoun",
+      "url": "https://en.wikipedia.org/wiki/Ryeoun",
+      "firstSeenAt": "2026-08-30T11:52:30.517Z"
     }
   ],
   "recentItems": [
