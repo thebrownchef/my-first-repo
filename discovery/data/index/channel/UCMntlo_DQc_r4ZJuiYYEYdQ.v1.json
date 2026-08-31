@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T11:53:50.696Z",
+  "generatedAt": "2026-08-31T13:46:15.167Z",
   "id": "UCMntlo_DQc_r4ZJuiYYEYdQ",
   "title": "Stax Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mJI9zARbQGY3NBA9mroiCXuAy5BncvjPP33NSHuPgKM44=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Earth, Wind & Fire",
       "url": "https://en.wikipedia.org/wiki/Earth%2C_Wind_%26_Fire",
       "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "channel:UCMntlo_DQc_r4ZJuiYYEYdQ",
+      "type": "channel",
+      "label": "Stax Records",
+      "url": "https://www.youtube.com/channel/UCMntlo_DQc_r4ZJuiYYEYdQ",
+      "firstSeenAt": "2026-08-31T13:45:05.475Z"
     }
   ],
   "recentItems": [

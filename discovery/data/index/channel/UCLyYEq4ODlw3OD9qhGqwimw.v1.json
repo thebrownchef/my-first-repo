@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-31T13:46:15.167Z",
+  "id": "UCLyYEq4ODlw3OD9qhGqwimw",
+  "title": "Rotten Tomatoes Indie",
+  "thumb": "https://yt3.ggpht.com/O3hkk4VZ31o_jh43JvVJpuwz00zxMd7ZsIX5w4rBmlQBhfWbVOenSObXjfEvu6J3TIalfjJD=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.83,
+  "sources": [
+    {
+      "id": "channel:UCi8e0iOVk1fEOogdfu4YgfA",
+      "type": "channel",
+      "label": "Rotten Tomatoes Trailers",
+      "url": "https://www.youtube.com/channel/UCi8e0iOVk1fEOogdfu4YgfA",
+      "firstSeenAt": "2026-08-27T07:14:28.115Z"
+    },
+    {
+      "id": "wiki:City of Ghosts (2017 film)",
+      "type": "wikipedia",
+      "label": "City of Ghosts (2017 film)",
+      "url": "https://en.wikipedia.org/wiki/City_of_Ghosts_(2017_film)",
+      "firstSeenAt": "2026-08-31T13:44:47.157Z"
+    }
+  ],
+  "recentItems": []
+}

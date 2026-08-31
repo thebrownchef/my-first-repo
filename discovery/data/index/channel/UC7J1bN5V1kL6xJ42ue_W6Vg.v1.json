@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T11:53:50.696Z",
+  "generatedAt": "2026-08-31T13:46:15.167Z",
   "id": "UC7J1bN5V1kL6xJ42ue_W6Vg",
   "title": "sailormoon-official",
   "thumb": "https://yt3.ggpht.com/bAKsBvWy728UgoBt3T_OtSwpJGyKKaYyHnvOkaILSXSUfxjMJZ05obgsHTzUe2zWmEr40xU-Qw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Sailor Moon Eternal",
       "url": "https://en.wikipedia.org/wiki/Sailor_Moon_Eternal",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "wiki:Shizuka Itō",
+      "type": "wikipedia",
+      "label": "Shizuka Itō",
+      "url": "https://en.wikipedia.org/wiki/Shizuka_It%C5%8D",
+      "firstSeenAt": "2026-08-31T13:44:53.295Z"
     }
   ],
   "recentItems": [

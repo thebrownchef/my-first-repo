@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T11:53:50.696Z",
+  "generatedAt": "2026-08-31T13:46:15.167Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 28,
-  "distinctSourceCount": 28,
+  "score": 32,
+  "distinctSourceCount": 32,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -204,6 +204,34 @@
       "label": "BillieEilishVEVO",
       "url": "https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg",
       "firstSeenAt": "2026-08-30T11:52:46.149Z"
+    },
+    {
+      "id": "channel:UC9HH6MEs1k3iuzx61GiUqcg",
+      "type": "channel",
+      "label": "camilaVEVO",
+      "url": "https://www.youtube.com/channel/UC9HH6MEs1k3iuzx61GiUqcg",
+      "firstSeenAt": "2026-08-31T13:44:54.707Z"
+    },
+    {
+      "id": "channel:UCUrWZcth3kwGS3rrON8c1og",
+      "type": "channel",
+      "label": "BellyVEVO",
+      "url": "https://www.youtube.com/channel/UCUrWZcth3kwGS3rrON8c1og",
+      "firstSeenAt": "2026-08-31T13:44:56.508Z"
+    },
+    {
+      "id": "channel:UCi6ot_hQURY84xgaSKrCx3w",
+      "type": "channel",
+      "label": "ScottyMcCreeryVEVO",
+      "url": "https://www.youtube.com/channel/UCi6ot_hQURY84xgaSKrCx3w",
+      "firstSeenAt": "2026-08-31T13:44:57.069Z"
+    },
+    {
+      "id": "channel:UC2a9zmrdjvLsrRgi4G4blWw",
+      "type": "channel",
+      "label": "MGKVEVO",
+      "url": "https://www.youtube.com/channel/UC2a9zmrdjvLsrRgi4G4blWw",
+      "firstSeenAt": "2026-08-31T13:44:58.468Z"
     }
   ],
   "recentItems": []

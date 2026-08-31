@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T11:53:50.696Z",
+  "generatedAt": "2026-08-31T13:46:15.167Z",
   "id": "UCGIY_O-8vW4rfX98KlMkvRg",
   "title": "Nintendo of America",
   "thumb": "https://yt3.ggpht.com/HNg_MA3lYwk6JCHxftRxRUAcMFK0334jI3-G-ERWMnTe5vIT1fORQ2er531XI_eCnMl4v_Wtk38=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Code Name: S.T.E.A.M.",
       "url": "https://en.wikipedia.org/wiki/Code_Name%3A_S.T.E.A.M.",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "wiki:Disney Tsum Tsum Festival",
+      "type": "wikipedia",
+      "label": "Disney Tsum Tsum Festival",
+      "url": "https://en.wikipedia.org/wiki/Disney_Tsum_Tsum_Festival",
+      "firstSeenAt": "2026-08-31T13:44:47.157Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T11:53:50.696Z",
+  "generatedAt": "2026-08-31T13:46:15.167Z",
   "id": "UCyGa1YEx9ST66rYrJTGIKOw",
   "title": "UEFA",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lzayaNdDoCV3pc6hhSYTsZWdZX4dPFU6IA8JliY0LgEeEo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "UEFA Champions League",
       "url": "https://en.wikipedia.org/wiki/UEFA_Champions_League",
       "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    },
+    {
+      "id": "wiki:Goal celebration",
+      "type": "wikipedia",
+      "label": "Goal celebration",
+      "url": "https://en.wikipedia.org/wiki/Goal_celebration",
+      "firstSeenAt": "2026-08-31T13:44:47.157Z"
     }
   ],
   "recentItems": [

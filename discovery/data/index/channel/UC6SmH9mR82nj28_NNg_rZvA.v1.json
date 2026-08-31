@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T11:53:50.696Z",
+  "generatedAt": "2026-08-31T13:46:15.167Z",
   "id": "UC6SmH9mR82nj28_NNg_rZvA",
   "title": "スクウェア・エニックス",
   "thumb": "https://yt3.ggpht.com/ddsKaIbpXCjbk3aJvImDlcfMxolIsXBiElHIE-aC4-Dag9liK2hCy840rnuQ58zuEKUGl3hUnt4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 0,
   "uploadsPerDay": 1.51,
   "sources": [
@@ -120,6 +120,20 @@
       "label": "Rio Natsuki",
       "url": "https://en.wikipedia.org/wiki/Rio_Natsuki",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "wiki:Asumi Nakada",
+      "type": "wikipedia",
+      "label": "Asumi Nakada",
+      "url": "https://en.wikipedia.org/wiki/Asumi_Nakada",
+      "firstSeenAt": "2026-08-31T13:44:50.067Z"
+    },
+    {
+      "id": "wiki:Ai Orikasa",
+      "type": "wikipedia",
+      "label": "Ai Orikasa",
+      "url": "https://en.wikipedia.org/wiki/Ai_Orikasa",
+      "firstSeenAt": "2026-08-31T13:44:53.295Z"
     }
   ],
   "recentItems": [

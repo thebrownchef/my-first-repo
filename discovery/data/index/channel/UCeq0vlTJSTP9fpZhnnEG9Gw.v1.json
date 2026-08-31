@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T11:53:50.696Z",
+  "generatedAt": "2026-08-31T13:46:15.167Z",
   "id": "UCeq0vlTJSTP9fpZhnnEG9Gw",
   "title": "muzline",
   "thumb": "https://yt3.ggpht.com/oMl6ebLbgBWR-47JC87OhRmaOLGHJcgXJhvPpoHTyQ8uLLPsnIxKhT1XrA-cnPdrL6isYnAJuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Legend (MC Lyte album)",
       "url": "https://en.wikipedia.org/wiki/Legend_(MC_Lyte_album)",
       "firstSeenAt": "2026-08-30T11:52:30.516Z"
+    },
+    {
+      "id": "wiki:Dear John (MC Lyte song)",
+      "type": "wikipedia",
+      "label": "Dear John (MC Lyte song)",
+      "url": "https://en.wikipedia.org/wiki/Dear_John_(MC_Lyte_song)",
+      "firstSeenAt": "2026-08-31T13:44:50.067Z"
+    },
+    {
+      "id": "wiki:MC Lyte",
+      "type": "wikipedia",
+      "label": "MC Lyte",
+      "url": "https://en.wikipedia.org/wiki/MC_Lyte",
+      "firstSeenAt": "2026-08-31T13:44:53.294Z"
     }
   ],
   "recentItems": [

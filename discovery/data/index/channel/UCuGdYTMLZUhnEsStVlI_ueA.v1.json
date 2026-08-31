@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-31T13:46:15.167Z",
+  "id": "UCuGdYTMLZUhnEsStVlI_ueA",
+  "title": "Susquehanna's Radio Archive",
+  "thumb": "https://yt3.ggpht.com/QnLKwECYZ3TNcXW0vO_8rDGt5X-vO7H7meQtQ7v9unrclIe97AzI2aBnW-5ET0Tj1s0IUl4DbA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.59,
+  "sources": [
+    {
+      "id": "wiki:WJHT",
+      "type": "wikipedia",
+      "label": "WJHT",
+      "url": "https://en.wikipedia.org/wiki/WJHT",
+      "firstSeenAt": "2026-08-31T13:44:53.295Z"
+    },
+    {
+      "id": "wiki:WNTJ",
+      "type": "wikipedia",
+      "label": "WNTJ",
+      "url": "https://en.wikipedia.org/wiki/WNTJ",
+      "firstSeenAt": "2026-08-31T13:44:53.295Z"
+    }
+  ],
+  "recentItems": []
+}

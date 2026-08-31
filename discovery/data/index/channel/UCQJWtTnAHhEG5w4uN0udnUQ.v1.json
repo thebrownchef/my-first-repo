@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-31T13:46:15.167Z",
+  "id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+  "title": "Prime Video",
+  "thumb": "https://yt3.ggpht.com/9rJFaLKur-UDrYil-QVJ5VVmg6fDl4wtW_aIiGjYpwzt0f6OWGXQM5WRIKZAq0mxjyREHYqnpto=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.65,
+  "sources": [
+    {
+      "id": "wiki:Hunters (2020 TV series)",
+      "type": "wikipedia",
+      "label": "Hunters (2020 TV series)",
+      "url": "https://en.wikipedia.org/wiki/Hunters_(2020_TV_series)",
+      "firstSeenAt": "2026-08-29T12:40:10.330Z"
+    },
+    {
+      "id": "wiki:My Name Is Pauli Murray",
+      "type": "wikipedia",
+      "label": "My Name Is Pauli Murray",
+      "url": "https://en.wikipedia.org/wiki/My_Name_Is_Pauli_Murray",
+      "firstSeenAt": "2026-08-31T13:44:47.157Z"
+    }
+  ],
+  "recentItems": []
+}
