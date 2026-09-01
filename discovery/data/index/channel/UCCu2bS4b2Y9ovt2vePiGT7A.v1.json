@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T13:46:15.167Z",
+  "generatedAt": "2026-09-01T11:38:56.195Z",
   "id": "UCCu2bS4b2Y9ovt2vePiGT7A",
   "title": "EmpirePH",
   "thumb": "https://yt3.ggpht.com/yYnwtROV7p6VZ6s79OEozSIGQvjzdJtL275UkAa6WVN46xcq1_v-TM3r_OdXoBWquy56yhdHYmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.9,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Miss Universe Philippines 2020",
       "url": "https://en.wikipedia.org/wiki/Miss_Universe_Philippines_2020",
       "firstSeenAt": "2026-08-31T13:44:53.295Z"
+    },
+    {
+      "id": "wiki:Miss Universe Philippines 2023",
+      "type": "wikipedia",
+      "label": "Miss Universe Philippines 2023",
+      "url": "https://en.wikipedia.org/wiki/Miss_Universe_Philippines_2023",
+      "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "wiki:Miss Universe Philippines 2024",
+      "type": "wikipedia",
+      "label": "Miss Universe Philippines 2024",
+      "url": "https://en.wikipedia.org/wiki/Miss_Universe_Philippines_2024",
+      "firstSeenAt": "2026-09-01T11:37:15.727Z"
     }
   ],
   "recentItems": [

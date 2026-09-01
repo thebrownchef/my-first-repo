@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "id": "UCdnZdQxYXnbN4uWJg96oGxw",
+  "title": "Rappler",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lUS5QhCxCjzWD8-jglbVpbKcePZaH2adUNUbG5cCW9k80g=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 12.2,
+  "sources": [
+    {
+      "id": "wiki:List of earthquakes in 2020",
+      "type": "wikipedia",
+      "label": "List of earthquakes in 2020",
+      "url": "https://en.wikipedia.org/wiki/List_of_earthquakes_in_2020",
+      "firstSeenAt": "2026-08-31T13:44:47.157Z"
+    },
+    {
+      "id": "wiki:Raining in Manila",
+      "type": "wikipedia",
+      "label": "Raining in Manila",
+      "url": "https://en.wikipedia.org/wiki/Raining_in_Manila",
+      "firstSeenAt": "2026-09-01T11:37:15.727Z"
+    }
+  ],
+  "recentItems": []
+}

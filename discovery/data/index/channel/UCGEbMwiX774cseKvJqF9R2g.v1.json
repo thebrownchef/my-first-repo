@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "id": "UCGEbMwiX774cseKvJqF9R2g",
+  "title": "News5Everywhere",
+  "thumb": "https://yt3.ggpht.com/9mUWp1-5VJ9pqWv11U8PPYBOvzSzlHVH4860st-M7-8U4B9ZDGzIS6ykqiGtcinqEPCQg6j6exw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 31.1,
+  "sources": [
+    {
+      "id": "wiki:DWFM",
+      "type": "wikipedia",
+      "label": "DWFM",
+      "url": "https://en.wikipedia.org/wiki/DWFM",
+      "firstSeenAt": "2026-08-31T13:44:50.068Z"
+    },
+    {
+      "id": "wiki:It's Showtime (Philippine TV program)",
+      "type": "wikipedia",
+      "label": "It's Showtime (Philippine TV program)",
+      "url": "https://en.wikipedia.org/wiki/It's_Showtime_(Philippine_TV_program)",
+      "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "id": "UCWqPRUsJlZaDp-PVbqEch9g",
+  "title": "Smithsonian Channel",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mej33cYIqIZDw0-JNgFVB39H9mLmdKjxfsddaodXaHoDBR=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.5,
+  "sources": [
+    {
+      "id": "wiki:German occupation of the Channel Islands",
+      "type": "wikipedia",
+      "label": "German occupation of the Channel Islands",
+      "url": "https://en.wikipedia.org/wiki/German_occupation_of_the_Channel_Islands",
+      "firstSeenAt": "2026-08-30T11:52:26.130Z"
+    },
+    {
+      "id": "wiki:TAROM Flight 371",
+      "type": "wikipedia",
+      "label": "TAROM Flight 371",
+      "url": "https://en.wikipedia.org/wiki/TAROM_Flight_371",
+      "firstSeenAt": "2026-09-01T11:37:12.181Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "id": "UC2N-kZRatRnJxYqVrRHG6DA",
+  "title": "AJonAir",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_k6aPj3JKpDUFoWcJWhNPutD0oj8nCLH9aBGHpjHBw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 3.34,
+  "sources": [
+    {
+      "id": "wiki:WBAP-FM",
+      "type": "wikipedia",
+      "label": "WBAP-FM",
+      "url": "https://en.wikipedia.org/wiki/WBAP-FM",
+      "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "wiki:WBTP (FM)",
+      "type": "wikipedia",
+      "label": "WBTP (FM)",
+      "url": "https://en.wikipedia.org/wiki/WBTP_(FM)",
+      "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    }
+  ],
+  "recentItems": []
+}

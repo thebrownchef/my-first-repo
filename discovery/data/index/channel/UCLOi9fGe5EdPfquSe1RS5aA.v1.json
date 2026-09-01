@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "id": "UCLOi9fGe5EdPfquSe1RS5aA",
+  "title": "IMAX",
+  "thumb": "https://yt3.ggpht.com/P3okMkJxGF4rNPDAmWaeFTTFUpXMdVpxsVeMJxWwxiatwIo-z7RRVBH87wGMnnbRiNZ6H0AbEw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.38,
+  "sources": [
+    {
+      "id": "wiki:Sully (film)",
+      "type": "wikipedia",
+      "label": "Sully (film)",
+      "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+      "firstSeenAt": "2026-08-29T12:40:10.329Z"
+    },
+    {
+      "id": "wiki:List of films released in IMAX",
+      "type": "wikipedia",
+      "label": "List of films released in IMAX",
+      "url": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
+      "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    }
+  ],
+  "recentItems": []
+}
