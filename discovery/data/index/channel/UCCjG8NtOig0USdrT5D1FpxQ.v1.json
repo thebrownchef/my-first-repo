@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "id": "UCCjG8NtOig0USdrT5D1FpxQ",
+  "title": "NewsNation",
+  "thumb": "https://yt3.ggpht.com/tWgKmMIT4YwdmT0z5S1MN2bIvoFN8_RvIsAWZbLwQVIpq21RO-_Y4sDzVdpj9l6wWRRz8YeUSg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 37.98,
+  "sources": [
+    {
+      "id": "wiki:List of Nikki Haley 2024 presidential campaign endorsements",
+      "type": "wikipedia",
+      "label": "List of Nikki Haley 2024 presidential campaign endorsements",
+      "url": "https://en.wikipedia.org/wiki/List_of_Nikki_Haley_2024_presidential_campaign_endorsements",
+      "firstSeenAt": "2026-09-01T11:37:09.153Z"
+    },
+    {
+      "id": "wiki:List of Republicans who opposed the Donald Trump 2024 presidential campaign",
+      "type": "wikipedia",
+      "label": "List of Republicans who opposed the Donald Trump 2024 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_opposed_the_Donald_Trump_2024_presidential_campaign",
+      "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    }
+  ],
+  "recentItems": []
+}

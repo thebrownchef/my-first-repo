@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "id": "UC_r4iEfF8Nx6IAIZydux7yg",
+  "title": "TVN Noticias",
+  "thumb": "https://yt3.ggpht.com/Pv7AlW_yemfHAkOZpmCZn1BVZg6FDmcIyq0ua0MWneCLZVwQa5ZjjZwaH1Vxb6qf_tm6ShFrVg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 5.3,
+  "sources": [
+    {
+      "id": "wiki:Cobre mine, Panama",
+      "type": "wikipedia",
+      "label": "Cobre mine, Panama",
+      "url": "https://en.wikipedia.org/wiki/Cobre_mine%2C_Panama",
+      "firstSeenAt": "2026-09-02T11:15:15.308Z"
+    },
+    {
+      "id": "wiki:2023 Panamanian protests",
+      "type": "wikipedia",
+      "label": "2023 Panamanian protests",
+      "url": "https://en.wikipedia.org/wiki/2023_Panamanian_protests",
+      "firstSeenAt": "2026-09-02T11:15:15.308Z"
+    }
+  ],
+  "recentItems": []
+}

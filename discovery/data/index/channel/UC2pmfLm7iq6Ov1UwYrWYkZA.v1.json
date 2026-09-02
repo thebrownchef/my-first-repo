@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 38,
-  "distinctSourceCount": 38,
+  "score": 39,
+  "distinctSourceCount": 39,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -274,6 +274,13 @@
       "label": "EltonJohnVEVO",
       "url": "https://www.youtube.com/channel/UCI8Ry7NdFNLel-S8dWU7mDA",
       "firstSeenAt": "2026-09-01T11:37:35.060Z"
+    },
+    {
+      "id": "channel:UCK-VRwguZP3cokOAxI0F1HA",
+      "type": "channel",
+      "label": "ThreeDaysGraceVEVO",
+      "url": "https://www.youtube.com/channel/UCK-VRwguZP3cokOAxI0F1HA",
+      "firstSeenAt": "2026-09-02T11:15:40.493Z"
     }
   ],
   "recentItems": []

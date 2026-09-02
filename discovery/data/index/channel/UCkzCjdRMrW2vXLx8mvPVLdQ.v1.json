@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+  "title": "Man City",
+  "thumb": "https://yt3.ggpht.com/d69oFqtdJbgwN6mZCV5bVITrhhoLS9p0a9Q9PuZ3vTySg2oeEJjyhUZ3G91GfktxdlmNT9Qhhw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.68,
+  "sources": [
+    {
+      "id": "channel:UCnQpt1UxLq00NFULxTDHMww",
+      "type": "channel",
+      "label": "Barclays Women's Super League",
+      "url": "https://www.youtube.com/channel/UCnQpt1UxLq00NFULxTDHMww",
+      "firstSeenAt": "2026-08-28T18:39:40.414Z"
+    },
+    {
+      "id": "wiki:Ray Lewis",
+      "type": "wikipedia",
+      "label": "Ray Lewis",
+      "url": "https://en.wikipedia.org/wiki/Ray_Lewis",
+      "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    }
+  ],
+  "recentItems": []
+}

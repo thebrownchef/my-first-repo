@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UCZWlScCmjiezyIRAybUgXYQ",
   "title": "Film Independent",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mnC3gPGES4zb4UEMwi6i8q8XpMOnxxNePEBwTsTiZcRZY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Straight Out of Brooklyn",
       "url": "https://en.wikipedia.org/wiki/Straight_Out_of_Brooklyn",
       "firstSeenAt": "2026-08-31T13:44:47.158Z"
+    },
+    {
+      "id": "wiki:House Party (1990 film)",
+      "type": "wikipedia",
+      "label": "House Party (1990 film)",
+      "url": "https://en.wikipedia.org/wiki/House_Party_(1990_film)",
+      "firstSeenAt": "2026-09-02T11:15:16.624Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UCI-Q7uYhRVMxyrmcZRf0Egg",
   "title": "SNK OFFICIAL",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lRoZt_Ptq0a_461LC1aodPvWfA4kuEK5m2fHMa8UG1biw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 36,
-  "distinctSourceCount": 36,
+  "score": 39,
+  "distinctSourceCount": 39,
   "hop": 0,
   "uploadsPerDay": 0.51,
   "sources": [
@@ -260,6 +260,27 @@
       "label": "Daiki Nakamura (actor)",
       "url": "https://en.wikipedia.org/wiki/Daiki_Nakamura_(actor)",
       "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    },
+    {
+      "id": "wiki:Yū Shimamura",
+      "type": "wikipedia",
+      "label": "Yū Shimamura",
+      "url": "https://en.wikipedia.org/wiki/Y%C5%AB_Shimamura",
+      "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    },
+    {
+      "id": "wiki:Mayumi Sako",
+      "type": "wikipedia",
+      "label": "Mayumi Sako",
+      "url": "https://en.wikipedia.org/wiki/Mayumi_Sako",
+      "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    },
+    {
+      "id": "wiki:Junya Enoki",
+      "type": "wikipedia",
+      "label": "Junya Enoki",
+      "url": "https://en.wikipedia.org/wiki/Junya_Enoki",
+      "firstSeenAt": "2026-09-02T11:15:15.308Z"
     }
   ],
   "recentItems": [

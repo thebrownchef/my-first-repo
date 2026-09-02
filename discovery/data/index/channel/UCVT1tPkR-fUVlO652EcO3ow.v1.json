@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UCVT1tPkR-fUVlO652EcO3ow",
   "title": "CBS Sunday Morning",
   "thumb": "https://yt3.ggpht.com/8XWkf3KEs9kJQHGdmK6WdZFiFTeIGUdiq2oLOqhuMC-RW_SIHak4qBDqTbWTrEJiUFG2rEyiVQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 2.08,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "CBS Evening News",
       "url": "https://www.youtube.com/channel/UCAeWdyKJXGWmVAXFpgLNNTg",
       "firstSeenAt": "2026-08-31T13:44:53.588Z"
+    },
+    {
+      "id": "wiki:Anne Tyler",
+      "type": "wikipedia",
+      "label": "Anne Tyler",
+      "url": "https://en.wikipedia.org/wiki/Anne_Tyler",
+      "firstSeenAt": "2026-09-02T11:15:16.623Z"
     }
   ],
   "recentItems": [

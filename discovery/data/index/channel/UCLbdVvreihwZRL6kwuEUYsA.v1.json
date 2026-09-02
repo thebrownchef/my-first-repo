@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UCLbdVvreihwZRL6kwuEUYsA",
   "title": "Think Music India",
   "thumb": "https://yt3.ggpht.com/p4TyMutaPSAFZNzFWSGHM0rbT59hPYuAhvMFfpi6uyNJyRLeUG5og5x91rtE6vnb5Vq1TcWT=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.15,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Vaashi (2022 film)",
       "url": "https://en.wikipedia.org/wiki/Vaashi_(2022_film)",
       "firstSeenAt": "2026-08-31T13:44:47.157Z"
+    },
+    {
+      "id": "wiki:Lavanya Tripathi",
+      "type": "wikipedia",
+      "label": "Lavanya Tripathi",
+      "url": "https://en.wikipedia.org/wiki/Lavanya_Tripathi",
+      "firstSeenAt": "2026-09-02T11:15:15.307Z"
     }
   ],
   "recentItems": [

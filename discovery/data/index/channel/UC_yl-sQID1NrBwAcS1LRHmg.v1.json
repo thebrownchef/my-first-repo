@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "id": "UC_yl-sQID1NrBwAcS1LRHmg",
+  "title": "Mandatory",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lx3d1ZtUZg5UulFTSHkPbp4iq7cXckXxfmrnv1BezLtcM=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.22,
+  "sources": [
+    {
+      "id": "wiki:Boogie Nights",
+      "type": "wikipedia",
+      "label": "Boogie Nights",
+      "url": "https://en.wikipedia.org/wiki/Boogie_Nights",
+      "firstSeenAt": "2026-08-27T07:14:07.210Z"
+    },
+    {
+      "id": "wiki:Burt Reynolds",
+      "type": "wikipedia",
+      "label": "Burt Reynolds",
+      "url": "https://en.wikipedia.org/wiki/Burt_Reynolds",
+      "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    }
+  ],
+  "recentItems": []
+}

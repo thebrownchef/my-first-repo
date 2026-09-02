@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UCvw8vPDOgDWGg7NLYOwx3Rg",
   "title": "chang gyong",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m73i_4g2lRlwVNk-SJkfcWSu1Ds4Yj09Gqlv3uQAJveHE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Hakozaki Shrine",
       "url": "https://en.wikipedia.org/wiki/Hakozaki_Shrine",
       "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "wiki:Linji Huguo Chan Temple",
+      "type": "wikipedia",
+      "label": "Linji Huguo Chan Temple",
+      "url": "https://en.wikipedia.org/wiki/Linji_Huguo_Chan_Temple",
+      "firstSeenAt": "2026-09-02T11:15:15.308Z"
     }
   ],
   "recentItems": [

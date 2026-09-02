@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "id": "UCqFzWxSCi39LnW1JKFR3efg",
+  "title": "Saturday Night Live",
+  "thumb": "https://yt3.ggpht.com/0UstnnBY3C69WcOIv8W_8blHZKMpoxluehKazofyMTt93kO2wGbJ1-ZIiHaFSNYBVGAgu3AEUEo=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 2.15,
+  "sources": [
+    {
+      "id": "wiki:Heidi Gardner",
+      "type": "wikipedia",
+      "label": "Heidi Gardner",
+      "url": "https://en.wikipedia.org/wiki/Heidi_Gardner",
+      "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    },
+    {
+      "id": "wiki:Lyle and Erik Menendez",
+      "type": "wikipedia",
+      "label": "Lyle and Erik Menendez",
+      "url": "https://en.wikipedia.org/wiki/Lyle_and_Erik_Menendez",
+      "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UCIWZ1_W5BqsvW9fm1cYFPpQ",
   "title": "ABS-CBN Star Music",
   "thumb": "https://yt3.ggpht.com/I8B05XbfjOLeHWMp32cPDYy1T7OiXd3-ArWzlXb03oXWnZ1hz3FwZ-ilz7atLvL6BKlVEdKb864=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 2.39,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Kathryn Bernardo",
       "url": "https://en.wikipedia.org/wiki/Kathryn_Bernardo",
       "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    },
+    {
+      "id": "channel:UCBShlKe5s0Z04tDm4-gXDeg",
+      "type": "channel",
+      "label": "iWant",
+      "url": "https://www.youtube.com/channel/UCBShlKe5s0Z04tDm4-gXDeg",
+      "firstSeenAt": "2026-09-02T11:15:30.601Z"
     }
   ],
   "recentItems": [

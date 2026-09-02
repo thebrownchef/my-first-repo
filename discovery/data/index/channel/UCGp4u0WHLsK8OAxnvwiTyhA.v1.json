@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UCGp4u0WHLsK8OAxnvwiTyhA",
   "title": "British Pathé",
   "thumb": "https://yt3.ggpht.com/_x4OxZHFyys6g3HZ5S-KBZ4s82W5jO2p8KhmqL1KwU9qjiJJLN2Ovg9RVc9GzD1O3K01Ujl4lDQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 12.88,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "Marlborough House",
       "url": "https://en.wikipedia.org/wiki/Marlborough_House",
       "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    },
+    {
+      "id": "wiki:List of nicknames of prime ministers of the United Kingdom",
+      "type": "wikipedia",
+      "label": "List of nicknames of prime ministers of the United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/List_of_nicknames_of_prime_ministers_of_the_United_Kingdom",
+      "firstSeenAt": "2026-09-02T11:15:12.105Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:38:56.195Z",
+  "generatedAt": "2026-09-02T11:17:02.454Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The1975VEVO",
       "url": "https://www.youtube.com/channel/UCH_YpPVrF7Kzjew8rB2cdjg",
       "firstSeenAt": "2026-08-30T11:52:39.105Z"
+    },
+    {
+      "id": "channel:UC4ppnreDffHj9ccKnKHZwXA",
+      "type": "channel",
+      "label": "slowthaiVEVO",
+      "url": "https://www.youtube.com/channel/UC4ppnreDffHj9ccKnKHZwXA",
+      "firstSeenAt": "2026-09-02T11:15:37.918Z"
     }
   ],
   "recentItems": [

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "id": "UCnYlMfpbCIg54cEyUiE42vw",
+  "title": "NET25 News and Information",
+  "thumb": "https://yt3.ggpht.com/yID1cMtsT-aSNS5b9YvE-pBbrSsV9cNaSiTUEW6AW8WJwbMLR2Y7Rv20MKyHrrfm3r8BbyLC=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 15.24,
+  "sources": [
+    {
+      "id": "wiki:Eagle News International",
+      "type": "wikipedia",
+      "label": "Eagle News International",
+      "url": "https://en.wikipedia.org/wiki/Eagle_News_International",
+      "firstSeenAt": "2026-08-30T11:52:26.129Z"
+    },
+    {
+      "id": "wiki:Net 25",
+      "type": "wikipedia",
+      "label": "Net 25",
+      "url": "https://en.wikipedia.org/wiki/Net_25",
+      "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    }
+  ],
+  "recentItems": []
+}

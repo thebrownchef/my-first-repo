@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "id": "UCHG_uGOb5XSa3_HSPkGrf7A",
+  "title": "Universal Parks News Today",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_l9Nh3cEU7m1USOmYSKAYUFcq8FsIUIXl66YwsgjJNjmw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.6,
+  "sources": [
+    {
+      "id": "wiki:Pikmin",
+      "type": "wikipedia",
+      "label": "Pikmin",
+      "url": "https://en.wikipedia.org/wiki/Pikmin",
+      "firstSeenAt": "2026-08-31T13:44:50.068Z"
+    },
+    {
+      "id": "wiki:Super Nintendo World",
+      "type": "wikipedia",
+      "label": "Super Nintendo World",
+      "url": "https://en.wikipedia.org/wiki/Super_Nintendo_World",
+      "firstSeenAt": "2026-09-02T11:15:12.104Z"
+    }
+  ],
+  "recentItems": []
+}
