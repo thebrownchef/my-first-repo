@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "generatedAt": "2026-09-03T11:12:32.869Z",
   "id": "UCHq777_waKMJw6SZdABmyaA",
   "title": "British Movietone",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niuR7N4BLMMzZ1rA1tQZL_GU7gaxDG2DWnnjcAC29JVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 12.38,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "AP Archive",
       "url": "https://www.youtube.com/channel/UCHTK-2W11Vh1V4uwofOfR4w",
       "firstSeenAt": "2026-09-01T11:37:25.198Z"
+    },
+    {
+      "id": "wiki:Prince Henry, Duke of Gloucester",
+      "type": "wikipedia",
+      "label": "Prince Henry, Duke of Gloucester",
+      "url": "https://en.wikipedia.org/wiki/Prince_Henry%2C_Duke_of_Gloucester",
+      "firstSeenAt": "2026-09-03T11:10:54.336Z"
     }
   ],
   "recentItems": [

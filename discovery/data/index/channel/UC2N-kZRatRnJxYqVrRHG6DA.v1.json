@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "generatedAt": "2026-09-03T11:12:32.869Z",
   "id": "UC2N-kZRatRnJxYqVrRHG6DA",
   "title": "AJonAir",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k6aPj3JKpDUFoWcJWhNPutD0oj8nCLH9aBGHpjHBw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 3.34,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "WBTP (FM)",
       "url": "https://en.wikipedia.org/wiki/WBTP_(FM)",
       "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    },
+    {
+      "id": "wiki:WCLI-FM",
+      "type": "wikipedia",
+      "label": "WCLI-FM",
+      "url": "https://en.wikipedia.org/wiki/WCLI-FM",
+      "firstSeenAt": "2026-09-03T11:10:56.627Z"
     }
   ],
   "recentItems": []

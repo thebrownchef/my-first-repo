@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "generatedAt": "2026-09-03T11:12:32.869Z",
   "id": "UCa9c6LDV43ZfD89zsxkEyzg",
   "title": "SRS Media Vision | Kannada Full Movies",
   "thumb": "https://yt3.ggpht.com/SNj12ppdQg8rpz9tkwn3MTuo1bct5Kc3yyQZUWqzjr8J5aslfxvagT_TdMuoi9D5OHTZ7bBvUA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Gandhinagara",
       "url": "https://en.wikipedia.org/wiki/Gandhinagara",
       "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "channel:UCa9c6LDV43ZfD89zsxkEyzg",
+      "type": "channel",
+      "label": "SRS Media Vision | Kannada Full Movies",
+      "url": "https://www.youtube.com/channel/UCa9c6LDV43ZfD89zsxkEyzg",
+      "firstSeenAt": "2026-09-03T11:11:07.138Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "generatedAt": "2026-09-03T11:12:32.869Z",
   "id": "UC0sEIyXXalzD1lbwm3D2xpA",
   "title": "RuPaul's Drag Race",
   "thumb": "https://yt3.ggpht.com/xwcjSRbKscd19ZSTnO7yI8RmD-LXOYhSg6cdpPeitoJSBy4qMJf6TyjWDBfqAakr1lUJPpBRug=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.72,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Amethyst (drag queen)",
       "url": "https://en.wikipedia.org/wiki/Amethyst_(drag_queen)",
       "firstSeenAt": "2026-09-01T11:37:09.152Z"
+    },
+    {
+      "id": "wiki:Jaida Essence Hall",
+      "type": "wikipedia",
+      "label": "Jaida Essence Hall",
+      "url": "https://en.wikipedia.org/wiki/Jaida_Essence_Hall",
+      "firstSeenAt": "2026-09-03T11:10:55.703Z"
     }
   ],
   "recentItems": [

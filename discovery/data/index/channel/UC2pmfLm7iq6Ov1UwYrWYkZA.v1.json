@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T11:17:02.454Z",
+  "generatedAt": "2026-09-03T11:12:32.869Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 39,
-  "distinctSourceCount": 39,
+  "score": 42,
+  "distinctSourceCount": 42,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -281,6 +281,27 @@
       "label": "ThreeDaysGraceVEVO",
       "url": "https://www.youtube.com/channel/UCK-VRwguZP3cokOAxI0F1HA",
       "firstSeenAt": "2026-09-02T11:15:40.493Z"
+    },
+    {
+      "id": "channel:UC9HnKwLco0wfmmHJT4KOjJw",
+      "type": "channel",
+      "label": "keshaVEVO",
+      "url": "https://www.youtube.com/channel/UC9HnKwLco0wfmmHJT4KOjJw",
+      "firstSeenAt": "2026-09-03T11:11:06.323Z"
+    },
+    {
+      "id": "channel:UCsjrSi7xMkKPk4gcLSjFKbA",
+      "type": "channel",
+      "label": "asapfergVEVO",
+      "url": "https://www.youtube.com/channel/UCsjrSi7xMkKPk4gcLSjFKbA",
+      "firstSeenAt": "2026-09-03T11:11:07.968Z"
+    },
+    {
+      "id": "channel:UCYB4l1xDGsEuuW_vRpuC6Ig",
+      "type": "channel",
+      "label": "TheReklawsVEVO",
+      "url": "https://www.youtube.com/channel/UCYB4l1xDGsEuuW_vRpuC6Ig",
+      "firstSeenAt": "2026-09-03T11:11:17.970Z"
     }
   ],
   "recentItems": []

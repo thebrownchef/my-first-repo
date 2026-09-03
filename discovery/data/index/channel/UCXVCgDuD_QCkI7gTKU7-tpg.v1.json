@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-03T11:12:32.869Z",
+  "id": "UCXVCgDuD_QCkI7gTKU7-tpg",
+  "title": "Nat Geo Kids",
+  "thumb": "https://yt3.ggpht.com/GsBWcfJJbCKMQ-ndyaeLPqIwfqvU2dughQEl0eGRP8MfvML-HIl5HK_vamdjOWzbvMSLdLINGA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.36,
+  "sources": [
+    {
+      "id": "channel:UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "type": "channel",
+      "label": "National Geographic",
+      "url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "firstSeenAt": "2026-08-30T11:52:39.880Z"
+    },
+    {
+      "id": "channel:UCw7SNYrYei7F5ttQO3o-rpA",
+      "type": "channel",
+      "label": "Disney Channel Animation",
+      "url": "https://www.youtube.com/channel/UCw7SNYrYei7F5ttQO3o-rpA",
+      "firstSeenAt": "2026-09-03T11:11:00.618Z"
+    }
+  ],
+  "recentItems": []
+}
