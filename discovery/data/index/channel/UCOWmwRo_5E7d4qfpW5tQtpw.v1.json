@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T11:12:32.869Z",
+  "generatedAt": "2026-09-04T11:16:58.719Z",
   "id": "UCOWmwRo_5E7d4qfpW5tQtpw",
   "title": "ABS-CBN Lifestyle",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l9gIzzOUpZcHqArtQrlGiPxm1vk2PDdtg_OC63fmzOVRw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "iWant",
       "url": "https://www.youtube.com/channel/UCBShlKe5s0Z04tDm4-gXDeg",
       "firstSeenAt": "2026-09-02T11:15:30.601Z"
+    },
+    {
+      "id": "channel:UCayTnP1hE285GofWkTdXclw",
+      "type": "channel",
+      "label": "Jeepney TV",
+      "url": "https://www.youtube.com/channel/UCayTnP1hE285GofWkTdXclw",
+      "firstSeenAt": "2026-09-04T11:15:35.528Z"
     }
   ],
   "recentItems": [

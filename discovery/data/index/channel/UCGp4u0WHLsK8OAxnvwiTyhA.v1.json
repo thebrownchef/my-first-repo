@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T11:12:32.869Z",
+  "generatedAt": "2026-09-04T11:16:58.719Z",
   "id": "UCGp4u0WHLsK8OAxnvwiTyhA",
   "title": "British Pathé",
   "thumb": "https://yt3.ggpht.com/_x4OxZHFyys6g3HZ5S-KBZ4s82W5jO2p8KhmqL1KwU9qjiJJLN2Ovg9RVc9GzD1O3K01Ujl4lDQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 12.88,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "List of nicknames of prime ministers of the United Kingdom",
       "url": "https://en.wikipedia.org/wiki/List_of_nicknames_of_prime_ministers_of_the_United_Kingdom",
       "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    },
+    {
+      "id": "wiki:Akihito",
+      "type": "wikipedia",
+      "label": "Akihito",
+      "url": "https://en.wikipedia.org/wiki/Akihito",
+      "firstSeenAt": "2026-09-04T11:15:20.459Z"
     }
   ],
   "recentItems": [

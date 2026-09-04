@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "id": "UCwWhs_6x42TyRM4Wstoq8HA",
+  "title": "The Daily Show",
+  "thumb": "https://yt3.ggpht.com/clBZ7D-wYk_ysfU_X0U2GAN3lAxkP5drwADfpuqvSrbPzkcemCXx9XQV8XEXqjSK3uMYiReJPQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 2.45,
+  "sources": [
+    {
+      "id": "wiki:List of The Daily Show episodes (2020)",
+      "type": "wikipedia",
+      "label": "List of The Daily Show episodes (2020)",
+      "url": "https://en.wikipedia.org/wiki/List_of_The_Daily_Show_episodes_(2020)",
+      "firstSeenAt": "2026-08-29T12:40:10.330Z"
+    },
+    {
+      "id": "channel:UCUsN5ZwHx2kILm84-jPDeXw",
+      "type": "channel",
+      "label": "Comedy Central",
+      "url": "https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw",
+      "firstSeenAt": "2026-09-04T11:15:22.280Z"
+    }
+  ],
+  "recentItems": []
+}

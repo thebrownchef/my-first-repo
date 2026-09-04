@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "id": "UCD0vxQF1g6vwMDLtDqTz1SA",
+  "title": "TFC The Filipino Channel",
+  "thumb": "https://yt3.ggpht.com/wW4r_tYinqPCDJs-MVMWIQJn6-pC8wW09jWKcDYn9sPKmhvtLXxs9KtPqNRoDSH3hGmB45BS2w=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.02,
+  "sources": [
+    {
+      "id": "channel:UCx_ndcDtbOdhbxrilfzZjIA",
+      "type": "channel",
+      "label": "TAYO News",
+      "url": "https://www.youtube.com/channel/UCx_ndcDtbOdhbxrilfzZjIA",
+      "firstSeenAt": "2026-09-02T11:15:17.297Z"
+    },
+    {
+      "id": "channel:UCI6-9p3BivJqQmQumpwmTZw",
+      "type": "channel",
+      "label": "ABS-CBN Teleseryes on TFC",
+      "url": "https://www.youtube.com/channel/UCI6-9p3BivJqQmQumpwmTZw",
+      "firstSeenAt": "2026-09-04T11:15:35.948Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "id": "UC2x_qNZXKDxNP1j4jvHATRQ",
+  "title": "Face the Nation",
+  "thumb": "https://yt3.ggpht.com/JZyo1WZheiYXPpeIEvtVU3ORcwndwpawICHfzJuUXEiMGZSAZP1oyZoZsPe8Dqa-ZR4KIPQA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 2.88,
+  "sources": [
+    {
+      "id": "channel:UCAeWdyKJXGWmVAXFpgLNNTg",
+      "type": "channel",
+      "label": "CBS Evening News",
+      "url": "https://www.youtube.com/channel/UCAeWdyKJXGWmVAXFpgLNNTg",
+      "firstSeenAt": "2026-08-31T13:44:53.588Z"
+    },
+    {
+      "id": "channel:UC-SJ6nODDmufqBzPBwCvYvQ",
+      "type": "channel",
+      "label": "CBS Mornings",
+      "url": "https://www.youtube.com/channel/UC-SJ6nODDmufqBzPBwCvYvQ",
+      "firstSeenAt": "2026-09-04T11:15:27.111Z"
+    }
+  ],
+  "recentItems": []
+}

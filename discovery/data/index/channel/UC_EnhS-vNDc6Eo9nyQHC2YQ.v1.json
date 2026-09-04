@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "id": "UC_EnhS-vNDc6Eo9nyQHC2YQ",
+  "title": "ZDF",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_n38866l6lj89BQ-bT0uIPMSymQslQtLmD6-qy_ySl6jg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.42,
+  "sources": [
+    {
+      "id": "wiki:ZDF",
+      "type": "wikipedia",
+      "label": "ZDF",
+      "url": "https://en.wikipedia.org/wiki/ZDF",
+      "firstSeenAt": "2026-08-30T11:52:26.536Z"
+    },
+    {
+      "id": "channel:UC_EnhS-vNDc6Eo9nyQHC2YQ",
+      "type": "channel",
+      "label": "ZDF",
+      "url": "https://www.youtube.com/channel/UC_EnhS-vNDc6Eo9nyQHC2YQ",
+      "firstSeenAt": "2026-09-04T11:15:25.340Z"
+    }
+  ],
+  "recentItems": []
+}

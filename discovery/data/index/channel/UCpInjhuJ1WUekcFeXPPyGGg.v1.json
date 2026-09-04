@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "id": "UCpInjhuJ1WUekcFeXPPyGGg",
+  "title": "Netflix Family",
+  "thumb": "https://yt3.ggpht.com/AFSxgQDpf3A1gmJLvVK91YDzOPDF8q7BE1hFwgw3Pv2zB0c1QV0kbY3Q8-UTA-1W_NxxGBvpPfs=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.12,
+  "sources": [
+    {
+      "id": "wiki:List of comedy films of the 2020s",
+      "type": "wikipedia",
+      "label": "List of comedy films of the 2020s",
+      "url": "https://en.wikipedia.org/wiki/List_of_comedy_films_of_the_2020s",
+      "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    },
+    {
+      "id": "wiki:The Spooky Tale of Captain Underpants: Hack-a-Ween",
+      "type": "wikipedia",
+      "label": "The Spooky Tale of Captain Underpants: Hack-a-Ween",
+      "url": "https://en.wikipedia.org/wiki/The_Spooky_Tale_of_Captain_Underpants%3A_Hack-a-Ween",
+      "firstSeenAt": "2026-09-04T11:15:20.459Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "id": "UC-JblcinswY50lrUdSaRNEg",
+  "title": "Rolling Stone",
+  "thumb": "https://yt3.ggpht.com/oY-Tiz6w7wRHgCrIh8tNV6KmxpWbhV3gci6aJ-bUVPboMph8_jeXK8GO9JmMJ0Rp9lNmYg1yuw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.58,
+  "sources": [
+    {
+      "id": "wiki:Def Leppard",
+      "type": "wikipedia",
+      "label": "Def Leppard",
+      "url": "https://en.wikipedia.org/wiki/Def_Leppard",
+      "firstSeenAt": "2026-08-29T12:40:10.330Z"
+    },
+    {
+      "id": "wiki:Joe Elliott",
+      "type": "wikipedia",
+      "label": "Joe Elliott",
+      "url": "https://en.wikipedia.org/wiki/Joe_Elliott",
+      "firstSeenAt": "2026-09-04T11:15:18.823Z"
+    }
+  ],
+  "recentItems": []
+}
