@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "id": "UCEY1ejsweY4DgMwOVJeEaBA",
+  "title": "The X Factor UK",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lT-h0rLAAQsDx5PLwhd98_v69lvoZ_FZT7DasSxATTvv4=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.83,
+  "sources": [
+    {
+      "id": "channel:UChXQL4MqC4ihSVg3SFiszDg",
+      "type": "channel",
+      "label": "ThamesTv",
+      "url": "https://www.youtube.com/channel/UChXQL4MqC4ihSVg3SFiszDg",
+      "firstSeenAt": "2026-08-30T11:52:46.554Z"
+    },
+    {
+      "id": "wiki:William Rush (actor)",
+      "type": "wikipedia",
+      "label": "William Rush (actor)",
+      "url": "https://en.wikipedia.org/wiki/William_Rush_(actor)",
+      "firstSeenAt": "2026-09-05T10:32:35.840Z"
+    }
+  ],
+  "recentItems": []
+}

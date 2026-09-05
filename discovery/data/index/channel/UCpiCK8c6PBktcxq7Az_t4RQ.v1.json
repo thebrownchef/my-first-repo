@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "id": "UCpiCK8c6PBktcxq7Az_t4RQ",
+  "title": "Netflix K-Content",
+  "thumb": "https://yt3.ggpht.com/gc4xAB9RK0opz6k0VTqOp-8aODHaORm8rIY-xxqf7jjre1zSl3F7novR7cIUWLy9bSpphhEabg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.75,
+  "sources": [
+    {
+      "id": "channel:UCiEEF51uRAeZeCo8CJFhGWw",
+      "type": "channel",
+      "label": "Netflix Korea 넷플릭스 코리아",
+      "url": "https://www.youtube.com/channel/UCiEEF51uRAeZeCo8CJFhGWw",
+      "firstSeenAt": "2026-09-05T10:32:40.334Z"
+    },
+    {
+      "id": "channel:UCWOA1ZGywLbqmigxE4Qlvuw",
+      "type": "channel",
+      "label": "Netflix",
+      "url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
+      "firstSeenAt": "2026-09-05T10:32:50.653Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "generatedAt": "2026-09-05T10:33:50.528Z",
   "id": "UCj6spMO3ybZPobE0T5perHA",
   "title": "NewsWatch Plus PH",
   "thumb": "https://yt3.ggpht.com/vRd2mmCKaAberD5KsSgQY7MDyMmR2hF2R8kk9QV2_Vyj6piEvJ2JTx6EpwcZX_6gyTTGvyiz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 6.37,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Charlie Dizon",
       "url": "https://en.wikipedia.org/wiki/Charlie_Dizon",
       "firstSeenAt": "2026-09-04T11:15:20.459Z"
+    },
+    {
+      "id": "wiki:Roja (Philippine TV series)",
+      "type": "wikipedia",
+      "label": "Roja (Philippine TV series)",
+      "url": "https://en.wikipedia.org/wiki/Roja_(Philippine_TV_series)",
+      "firstSeenAt": "2026-09-05T10:32:37.783Z"
+    },
+    {
+      "id": "wiki:Star Cinema",
+      "type": "wikipedia",
+      "label": "Star Cinema",
+      "url": "https://en.wikipedia.org/wiki/Star_Cinema",
+      "firstSeenAt": "2026-09-05T10:32:37.783Z"
+    },
+    {
+      "id": "wiki:What Lies Beneath (TV series)",
+      "type": "wikipedia",
+      "label": "What Lies Beneath (TV series)",
+      "url": "https://en.wikipedia.org/wiki/What_Lies_Beneath_(TV_series)",
+      "firstSeenAt": "2026-09-05T10:32:37.784Z"
     }
   ],
   "recentItems": [

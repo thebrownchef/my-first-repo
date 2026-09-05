@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "generatedAt": "2026-09-05T10:33:50.528Z",
   "id": "UC_mceLIVkQun_Xcu1KBmfdw",
   "title": "GMMTV RECORDS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lRGoSK2mgC0dPhF_SEC_8vYghQbtpf0rY2gB_615EPqps=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "GMMTV OFFICIAL​​",
       "url": "https://www.youtube.com/channel/UC8BzJM6_VbZTdiNLD4R1jxQ",
       "firstSeenAt": "2026-09-02T11:15:32.294Z"
+    },
+    {
+      "id": "wiki:Gawin Caskey",
+      "type": "wikipedia",
+      "label": "Gawin Caskey",
+      "url": "https://en.wikipedia.org/wiki/Gawin_Caskey",
+      "firstSeenAt": "2026-09-05T10:32:37.783Z"
+    },
+    {
+      "id": "wiki:Pongsapak Udompoch",
+      "type": "wikipedia",
+      "label": "Pongsapak Udompoch",
+      "url": "https://en.wikipedia.org/wiki/Pongsapak_Udompoch",
+      "firstSeenAt": "2026-09-05T10:32:37.784Z"
     }
   ],
   "recentItems": [

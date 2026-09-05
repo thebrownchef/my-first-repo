@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "id": "UCi2KNss4Yx73NG0JARSFe0A",
+  "title": "Foo Fighters",
+  "thumb": "https://yt3.ggpht.com/-ZGdTaoCW873bXQLFOyixfJeIxncJFDeF-zm6mpQfKx7LrcoincR-34lK6i5mUAYNcPxV-Im-A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.04,
+  "sources": [
+    {
+      "id": "channel:UCphyqKNSQIbR5ZMUN1J8Gxg",
+      "type": "channel",
+      "label": "Absolute Radio",
+      "url": "https://www.youtube.com/channel/UCphyqKNSQIbR5ZMUN1J8Gxg",
+      "firstSeenAt": "2026-09-04T11:15:34.189Z"
+    },
+    {
+      "id": "wiki:Medicine at Midnight",
+      "type": "wikipedia",
+      "label": "Medicine at Midnight",
+      "url": "https://en.wikipedia.org/wiki/Medicine_at_Midnight",
+      "firstSeenAt": "2026-09-05T10:32:37.784Z"
+    }
+  ],
+  "recentItems": []
+}

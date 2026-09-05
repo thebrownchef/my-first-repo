@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "id": "UCGie8GMlUo3kBKIopdvumVQ",
+  "title": "Still Watching Netflix",
+  "thumb": "https://yt3.ggpht.com/C3hW5T59-WdUKw7PndDPbJqNYijwsKAq3SSR1RjnnaPQsis3xpsP5dTpFXF15USpjlECYtLZ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 2.67,
+  "sources": [
+    {
+      "id": "wiki:I Like to Watch",
+      "type": "wikipedia",
+      "label": "I Like to Watch",
+      "url": "https://en.wikipedia.org/wiki/I_Like_to_Watch",
+      "firstSeenAt": "2026-08-29T12:40:14.963Z"
+    },
+    {
+      "id": "channel:UCWOA1ZGywLbqmigxE4Qlvuw",
+      "type": "channel",
+      "label": "Netflix",
+      "url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
+      "firstSeenAt": "2026-09-05T10:32:50.653Z"
+    }
+  ],
+  "recentItems": []
+}

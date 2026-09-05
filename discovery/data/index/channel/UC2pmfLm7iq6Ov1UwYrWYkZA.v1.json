@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "generatedAt": "2026-09-05T10:33:50.528Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 45,
-  "distinctSourceCount": 45,
+  "score": 46,
+  "distinctSourceCount": 46,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -323,6 +323,13 @@
       "label": "NeYoVEVO",
       "url": "https://www.youtube.com/channel/UCa5R55NSXiWAZWi9997XYvg",
       "firstSeenAt": "2026-09-04T11:15:44.720Z"
+    },
+    {
+      "id": "channel:UCF_fDSgPpBQuh1MsUTgIARQ",
+      "type": "channel",
+      "label": "TheWeekndVEVO",
+      "url": "https://www.youtube.com/channel/UCF_fDSgPpBQuh1MsUTgIARQ",
+      "firstSeenAt": "2026-09-05T10:32:51.902Z"
     }
   ],
   "recentItems": []

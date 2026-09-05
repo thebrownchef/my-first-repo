@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "id": "UCkR0GY0ue02aMyM-oxwgg9g",
+  "title": "Rotten Tomatoes Coming Soon",
+  "thumb": "https://yt3.ggpht.com/FEpStjMGgxz4SGbwWQ7ITqPvvZV-Tkxby2I6uyOnA-XaDL0moHb2j1VMdt9G9-hk3NfikDzY0Q=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 4.51,
+  "sources": [
+    {
+      "id": "channel:UCi8e0iOVk1fEOogdfu4YgfA",
+      "type": "channel",
+      "label": "Rotten Tomatoes Trailers",
+      "url": "https://www.youtube.com/channel/UCi8e0iOVk1fEOogdfu4YgfA",
+      "firstSeenAt": "2026-08-27T07:14:28.115Z"
+    },
+    {
+      "id": "wiki:Jeremy Jordan (actor, born 1984)",
+      "type": "wikipedia",
+      "label": "Jeremy Jordan (actor, born 1984)",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Jordan_(actor%2C_born_1984)",
+      "firstSeenAt": "2026-09-05T10:32:37.784Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "id": "UCg-xMwrK4qE0uwZL0aoYBXw",
+  "title": "芒果TV大芒 MangoTV Short Play",
+  "thumb": "https://yt3.ggpht.com/KhgF89P5M2iEn08NYjGI4mDsdwt4zNdybNLdBghszgoEhjRoWmKWJTB-BV8Vj6bMGHMeCO0RsA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 2.87,
+  "sources": [
+    {
+      "id": "channel:UCwnDGKPgpRsJUjuSGhATAmg",
+      "type": "channel",
+      "label": "芒果TV音乐 MangoTV Music",
+      "url": "https://www.youtube.com/channel/UCwnDGKPgpRsJUjuSGhATAmg",
+      "firstSeenAt": "2026-08-30T11:52:40.511Z"
+    },
+    {
+      "id": "wiki:Ryan Cheng (actor)",
+      "type": "wikipedia",
+      "label": "Ryan Cheng (actor)",
+      "url": "https://en.wikipedia.org/wiki/Ryan_Cheng_(actor)",
+      "firstSeenAt": "2026-09-05T10:32:35.840Z"
+    }
+  ],
+  "recentItems": []
+}

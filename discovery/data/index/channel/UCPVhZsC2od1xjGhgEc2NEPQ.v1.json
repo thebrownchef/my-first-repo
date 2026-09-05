@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "generatedAt": "2026-09-05T10:33:50.528Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "BillieEilishVEVO",
       "url": "https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg",
       "firstSeenAt": "2026-08-30T11:52:46.149Z"
+    },
+    {
+      "id": "channel:UCF_fDSgPpBQuh1MsUTgIARQ",
+      "type": "channel",
+      "label": "TheWeekndVEVO",
+      "url": "https://www.youtube.com/channel/UCF_fDSgPpBQuh1MsUTgIARQ",
+      "firstSeenAt": "2026-09-05T10:32:51.902Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "generatedAt": "2026-09-05T10:33:50.528Z",
   "id": "UC4eKbLZk7RMJfkPnynnMlYw",
   "title": "Bayt Al-Maqdes",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nW8sk0Bk0tqTdDr6QuauAJz_GxVxqqci5i7mjVa56JeA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Aknaf Bait al-Maqdis",
       "url": "https://en.wikipedia.org/wiki/Aknaf_Bait_al-Maqdis",
       "firstSeenAt": "2026-08-28T18:39:19.394Z"
+    },
+    {
+      "id": "wiki:List of wars and battles involving the Islamic State",
+      "type": "wikipedia",
+      "label": "List of wars and battles involving the Islamic State",
+      "url": "https://en.wikipedia.org/wiki/List_of_wars_and_battles_involving_the_Islamic_State",
+      "firstSeenAt": "2026-09-05T10:32:37.097Z"
     }
   ],
   "recentItems": [

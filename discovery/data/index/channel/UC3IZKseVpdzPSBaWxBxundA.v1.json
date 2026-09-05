@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "generatedAt": "2026-09-05T10:33:50.528Z",
   "id": "UC3IZKseVpdzPSBaWxBxundA",
   "title": "HYBE LABELS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l8g0yRFG8xoe_qeqk8Ki9UFy36cB2IjZEWZWz0h7gl-t0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.53,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Jeonghan X Wonwoo",
       "url": "https://en.wikipedia.org/wiki/Jeonghan_X_Wonwoo",
       "firstSeenAt": "2026-09-02T11:15:12.106Z"
+    },
+    {
+      "id": "wiki:DK X Seungkwan",
+      "type": "wikipedia",
+      "label": "DK X Seungkwan",
+      "url": "https://en.wikipedia.org/wiki/DK_X_Seungkwan",
+      "firstSeenAt": "2026-09-05T10:32:37.097Z"
     }
   ],
   "recentItems": [

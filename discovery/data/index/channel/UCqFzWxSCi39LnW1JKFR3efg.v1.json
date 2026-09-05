@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:16:58.719Z",
+  "generatedAt": "2026-09-05T10:33:50.528Z",
   "id": "UCqFzWxSCi39LnW1JKFR3efg",
   "title": "Saturday Night Live",
   "thumb": "https://yt3.ggpht.com/0UstnnBY3C69WcOIv8W_8blHZKMpoxluehKazofyMTt93kO2wGbJ1-ZIiHaFSNYBVGAgu3AEUEo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.15,
   "sources": [
@@ -22,7 +22,96 @@
       "label": "Lyle and Erik Menendez",
       "url": "https://en.wikipedia.org/wiki/Lyle_and_Erik_Menendez",
       "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    },
+    {
+      "id": "channel:UC8-Th83bH_thdKZDJCrn88g",
+      "type": "channel",
+      "label": "The Tonight Show Starring Jimmy Fallon",
+      "url": "https://www.youtube.com/channel/UC8-Th83bH_thdKZDJCrn88g",
+      "firstSeenAt": "2026-09-05T10:32:44.208Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "3-o9Eg8dAn0",
+      "title": "the world wasn’t ready",
+      "publishedAt": "2026-09-03T19:50:53Z",
+      "durationSec": 175,
+      "thumb": "https://i.ytimg.com/vi/3-o9Eg8dAn0/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "h-mEpef8rHw",
+      "title": "Evolution of a Sketch | Love Is Blind Reunion | 🏆 FYC 🏆",
+      "publishedAt": "2026-08-26T18:59:05Z",
+      "durationSec": 64,
+      "thumb": "https://i.ytimg.com/vi/h-mEpef8rHw/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "x5ED1LHe3fI",
+      "title": "Evolution of a Sketch | Rasta Driver | 🏆 FYC 🏆",
+      "publishedAt": "2026-08-24T20:27:17Z",
+      "durationSec": 89,
+      "thumb": "https://i.ytimg.com/vi/x5ED1LHe3fI/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "EEQvX2a6ChQ",
+      "title": "Evolution of a Sketch | Edge of Destiny | 🏆 FYC 🏆",
+      "publishedAt": "2026-08-22T20:04:12Z",
+      "durationSec": 104,
+      "thumb": "https://i.ytimg.com/vi/EEQvX2a6ChQ/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "BbUNwltCnFw",
+      "title": "Evolution of a Sketch | Bob Army | 🏆 FYC 🏆",
+      "publishedAt": "2026-08-20T20:04:13Z",
+      "durationSec": 71,
+      "thumb": "https://i.ytimg.com/vi/BbUNwltCnFw/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "2t4zYWChuok",
+      "title": "Evolution of a Sketch | Leg Lengthening | 🏆 FYC 🏆",
+      "publishedAt": "2026-08-19T20:18:33Z",
+      "durationSec": 61,
+      "thumb": "https://i.ytimg.com/vi/2t4zYWChuok/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "iLZjBCRELEM",
+      "title": "Home Alone🏆 FYC 🏆",
+      "publishedAt": "2026-08-18T20:21:34Z",
+      "durationSec": 179,
+      "thumb": "https://i.ytimg.com/vi/iLZjBCRELEM/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "jzu23EMEqsI",
+      "title": "MAHAspital (The New Pitt) 🏆 FYC 🏆",
+      "publishedAt": "2026-08-17T20:19:29Z",
+      "durationSec": 178,
+      "thumb": "https://i.ytimg.com/vi/jzu23EMEqsI/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "DkFjHSF-c8c",
+      "title": "medication that works",
+      "publishedAt": "2026-08-13T21:27:14Z",
+      "durationSec": 144,
+      "thumb": "https://i.ytimg.com/vi/DkFjHSF-c8c/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    }
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "id": "UCunMgh6zlbhjYLOoU5zKTAA",
+  "title": "TheArchiveMovies",
+  "thumb": "https://yt3.ggpht.com/Jw7ntYQVlKOfvhTsmBV8wesnIMG24yMBL4JbHUD-NtUtQywziu4QIpuFXKrESUYCBic4_ZGGM3k=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.08,
+  "sources": [
+    {
+      "id": "wiki:For Their Own Good",
+      "type": "wikipedia",
+      "label": "For Their Own Good",
+      "url": "https://en.wikipedia.org/wiki/For_Their_Own_Good",
+      "firstSeenAt": "2026-09-03T11:10:55.703Z"
+    },
+    {
+      "id": "channel:UCY_UWuzZvNZNsqEuM1FQ5zg",
+      "type": "channel",
+      "label": "FamBrand",
+      "url": "https://www.youtube.com/channel/UCY_UWuzZvNZNsqEuM1FQ5zg",
+      "firstSeenAt": "2026-09-05T10:32:43.034Z"
+    }
+  ],
+  "recentItems": []
+}
