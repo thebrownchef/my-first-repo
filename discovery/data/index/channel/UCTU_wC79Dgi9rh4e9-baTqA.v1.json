@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UCTU_wC79Dgi9rh4e9-baTqA",
+  "title": "Sky Sports",
+  "thumb": "https://yt3.ggpht.com/pNdTb249ls8s1f41xPqWZ-m0d85mmasR3JypJ_vVDBiwjjZOzebP7jECCuwi11bb5zbVjodK4w=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.18,
+  "sources": [
+    {
+      "id": "channel:UCNAf1k0yIjyGu3k9BwAg3lg",
+      "type": "channel",
+      "label": "Sky Sports Premier League",
+      "url": "https://www.youtube.com/channel/UCNAf1k0yIjyGu3k9BwAg3lg",
+      "firstSeenAt": "2026-08-29T12:40:31.484Z"
+    },
+    {
+      "id": "channel:UCN5Bw2dVHHok-OxHfIj0jZA",
+      "type": "channel",
+      "label": "British Stuff TV",
+      "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
+      "firstSeenAt": "2026-09-06T10:53:26.528Z"
+    }
+  ],
+  "recentItems": []
+}

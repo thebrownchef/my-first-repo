@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UC2N-kZRatRnJxYqVrRHG6DA",
   "title": "AJonAir",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k6aPj3JKpDUFoWcJWhNPutD0oj8nCLH9aBGHpjHBw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 3.34,
   "sources": [
@@ -29,7 +29,45 @@
       "label": "WCLI-FM",
       "url": "https://en.wikipedia.org/wiki/WCLI-FM",
       "firstSeenAt": "2026-09-03T11:10:56.627Z"
+    },
+    {
+      "id": "wiki:WMXG",
+      "type": "wikipedia",
+      "label": "WMXG",
+      "url": "https://en.wikipedia.org/wiki/WMXG",
+      "firstSeenAt": "2026-09-06T10:53:20.279Z"
+    },
+    {
+      "id": "wiki:WYFQ-FM",
+      "type": "wikipedia",
+      "label": "WYFQ-FM",
+      "url": "https://en.wikipedia.org/wiki/WYFQ-FM",
+      "firstSeenAt": "2026-09-06T10:53:20.279Z"
+    },
+    {
+      "id": "wiki:KIKK-FM",
+      "type": "wikipedia",
+      "label": "KIKK-FM",
+      "url": "https://en.wikipedia.org/wiki/KIKK-FM",
+      "firstSeenAt": "2026-09-06T10:53:22.169Z"
+    },
+    {
+      "id": "wiki:KHYZ",
+      "type": "wikipedia",
+      "label": "KHYZ",
+      "url": "https://en.wikipedia.org/wiki/KHYZ",
+      "firstSeenAt": "2026-09-06T10:53:22.169Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "SwtS5083dAc",
+      "title": "Aircheck: KIMN/Denver, Colorado New Morning Show Announcement - September 4, 2026",
+      "publishedAt": "2026-09-06T04:36:25Z",
+      "durationSec": 409,
+      "thumb": "https://i.ytimg.com/vi/SwtS5083dAc/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    }
+  ]
 }

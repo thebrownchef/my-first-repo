@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UCAMPco9PqjBbI_MLsDOO4Jw",
+  "title": "American Idol",
+  "thumb": "https://yt3.ggpht.com/tLRN5QJe_iPB-V1tDlY7pMstys4V8mCy-jw-6Cs86v8_whO2VjEJewowbzJTRh6kxOwQfBHD=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.41,
+  "sources": [
+    {
+      "id": "wiki:Songs in A Minor",
+      "type": "wikipedia",
+      "label": "Songs in A Minor",
+      "url": "https://en.wikipedia.org/wiki/Songs_in_A_Minor",
+      "firstSeenAt": "2026-09-06T10:53:20.279Z"
+    },
+    {
+      "id": "channel:UCl4h_3qTOIUnUX8KCICRM3A",
+      "type": "channel",
+      "label": "On Air With Ryan Seacrest",
+      "url": "https://www.youtube.com/channel/UCl4h_3qTOIUnUX8KCICRM3A",
+      "firstSeenAt": "2026-09-06T10:53:27.141Z"
+    }
+  ],
+  "recentItems": []
+}

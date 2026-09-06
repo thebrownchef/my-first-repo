@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UCwNqHDsnBCKT-olwJwIFyfg",
   "title": "FOX Sports",
   "thumb": "https://yt3.ggpht.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 3.28,
   "sources": [
@@ -22,7 +22,24 @@
       "label": "NASCAR on FOX",
       "url": "https://www.youtube.com/channel/UCWw4HqQcexuZfeFd4XLrNNg",
       "firstSeenAt": "2026-08-31T13:45:06.610Z"
+    },
+    {
+      "id": "channel:UC2FYk45tydEEiKs-btM0oxQ",
+      "type": "channel",
+      "label": "NewDuracellKid",
+      "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
+      "firstSeenAt": "2026-09-06T10:53:38.760Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "69j-WX-J7NA",
+      "title": "Tony Vitello was ejected after arguing Turner Hill was hit by a pitch 😳⚾️ #MLB",
+      "publishedAt": "2026-09-05T22:07:12Z",
+      "durationSec": 112,
+      "thumb": "https://i.ytimg.com/vi/69j-WX-J7NA/mqdefault.jpg",
+      "description": "#FOXSports #MLB #TurnerHill \n\nAbout FOX Sports:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Sports' YouTube channel provides the sports content that fans are hungry for. FOX Sports coverage includes: College Basketball, College Football, MLB, NASCAR, NFL, Soccer, and the FIFA World Cup.\n\nwww.youtube.com/@foxsports",
+      "chapters": []
+    }
+  ]
 }

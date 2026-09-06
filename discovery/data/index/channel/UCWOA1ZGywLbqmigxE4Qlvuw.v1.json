@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UCWOA1ZGywLbqmigxE4Qlvuw",
   "title": "Netflix",
   "thumb": "https://yt3.ggpht.com/3b73AYEMMfa3SX5KJMeygio9smTPvrPrpicuQZbfQ_2DN7dV_ApiRM4CdYjSprEy1YYvt_9b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 1.8,
   "sources": [
@@ -64,6 +64,20 @@
       "label": "Kim Kardashian",
       "url": "https://en.wikipedia.org/wiki/Kim_Kardashian",
       "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    },
+    {
+      "id": "wiki:The Last Days of American Crime",
+      "type": "wikipedia",
+      "label": "The Last Days of American Crime",
+      "url": "https://en.wikipedia.org/wiki/The_Last_Days_of_American_Crime",
+      "firstSeenAt": "2026-09-06T10:53:22.169Z"
+    },
+    {
+      "id": "channel:UCN5Bw2dVHHok-OxHfIj0jZA",
+      "type": "channel",
+      "label": "British Stuff TV",
+      "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
+      "firstSeenAt": "2026-09-06T10:53:26.528Z"
     }
   ],
   "recentItems": [

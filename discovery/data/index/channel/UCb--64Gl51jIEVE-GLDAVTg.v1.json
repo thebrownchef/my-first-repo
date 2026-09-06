@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UCb--64Gl51jIEVE-GLDAVTg",
+  "title": "C-SPAN",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 2.13,
+  "sources": [
+    {
+      "id": "wiki:White House Correspondents' Dinner",
+      "type": "wikipedia",
+      "label": "White House Correspondents' Dinner",
+      "url": "https://en.wikipedia.org/wiki/White_House_Correspondents'_Dinner",
+      "firstSeenAt": "2026-09-06T10:53:20.278Z"
+    },
+    {
+      "id": "wiki:United States Oval Office Address",
+      "type": "wikipedia",
+      "label": "United States Oval Office Address",
+      "url": "https://en.wikipedia.org/wiki/United_States_Oval_Office_Address",
+      "firstSeenAt": "2026-09-06T10:53:22.168Z"
+    }
+  ],
+  "recentItems": []
+}

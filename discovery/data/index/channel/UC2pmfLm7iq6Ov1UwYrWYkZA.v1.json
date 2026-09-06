@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 46,
-  "distinctSourceCount": 46,
+  "score": 47,
+  "distinctSourceCount": 47,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -330,6 +330,13 @@
       "label": "TheWeekndVEVO",
       "url": "https://www.youtube.com/channel/UCF_fDSgPpBQuh1MsUTgIARQ",
       "firstSeenAt": "2026-09-05T10:32:51.902Z"
+    },
+    {
+      "id": "channel:UC8uNb2bCJCqdxW3N_7LeWyg",
+      "type": "channel",
+      "label": "kaminiVEVO",
+      "url": "https://www.youtube.com/channel/UC8uNb2bCJCqdxW3N_7LeWyg",
+      "firstSeenAt": "2026-09-06T10:53:23.206Z"
     }
   ],
   "recentItems": []

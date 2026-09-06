@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UCa6vGFO9ty8v5KZJXQxdhaw",
   "title": "Jimmy Kimmel Live",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhbMFP_RRAtTgX-58mKKhuVG_P-qESOBnMDiPE0vhJgEMm=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.11,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Martha Plimpton",
       "url": "https://en.wikipedia.org/wiki/Martha_Plimpton",
       "firstSeenAt": "2026-09-03T11:10:56.626Z"
+    },
+    {
+      "id": "channel:UC2FYk45tydEEiKs-btM0oxQ",
+      "type": "channel",
+      "label": "NewDuracellKid",
+      "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
+      "firstSeenAt": "2026-09-06T10:53:38.744Z"
     }
   ],
   "recentItems": [

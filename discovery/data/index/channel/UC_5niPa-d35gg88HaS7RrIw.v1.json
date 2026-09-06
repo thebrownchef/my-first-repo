@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UC_5niPa-d35gg88HaS7RrIw",
+  "title": "Disney",
+  "thumb": "https://yt3.ggpht.com/uvVynu6npnzegTAbRrC8sJeX9ojPkuJe6gr2UZ6bR857tVU0kUqfK0LDsfZttcM3FwRv63u99g=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.36,
+  "sources": [
+    {
+      "id": "wiki:List of comedy films of the 2020s",
+      "type": "wikipedia",
+      "label": "List of comedy films of the 2020s",
+      "url": "https://en.wikipedia.org/wiki/List_of_comedy_films_of_the_2020s",
+      "firstSeenAt": "2026-09-01T11:37:15.727Z"
+    },
+    {
+      "id": "channel:UC2FYk45tydEEiKs-btM0oxQ",
+      "type": "channel",
+      "label": "NewDuracellKid",
+      "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
+      "firstSeenAt": "2026-09-06T10:53:38.748Z"
+    }
+  ],
+  "recentItems": []
+}

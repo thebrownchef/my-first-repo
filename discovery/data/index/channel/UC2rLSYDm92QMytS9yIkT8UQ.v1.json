@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UC2rLSYDm92QMytS9yIkT8UQ",
+  "title": "FOX 4 Now",
+  "thumb": "https://yt3.ggpht.com/k2jntWvgiqMyS3blQe7ai_0-x8eJhuVqqkRukh_vWZXfDOdhiGUBL1BVd1O_RcM0cngyQsCDtw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 13.5,
+  "sources": [
+    {
+      "id": "wiki:David Graham (actor)",
+      "type": "wikipedia",
+      "label": "David Graham (actor)",
+      "url": "https://en.wikipedia.org/wiki/David_Graham_(actor)",
+      "firstSeenAt": "2026-09-06T10:53:22.168Z"
+    },
+    {
+      "id": "channel:UC2FYk45tydEEiKs-btM0oxQ",
+      "type": "channel",
+      "label": "NewDuracellKid",
+      "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
+      "firstSeenAt": "2026-09-06T10:53:38.760Z"
+    }
+  ],
+  "recentItems": []
+}

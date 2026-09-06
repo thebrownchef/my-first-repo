@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UCBv7HEHuVlNAELGi5XJd85Q",
   "title": "Apple Music",
   "thumb": "https://yt3.ggpht.com/7i03iZXg95RW7FUl6e2IsKAYW38PYeCLnot68lh1iRWgiPedFUNiPGd-0w00HZOcHXs9tOH3ig=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Noisey",
       "url": "https://www.youtube.com/channel/UC0iwHRFpv2_fpojZgQhElEQ",
       "firstSeenAt": "2026-09-05T10:32:40.047Z"
+    },
+    {
+      "id": "wiki:Rauw Alejandro",
+      "type": "wikipedia",
+      "label": "Rauw Alejandro",
+      "url": "https://en.wikipedia.org/wiki/Rauw_Alejandro",
+      "firstSeenAt": "2026-09-06T10:53:22.168Z"
     }
   ],
   "recentItems": [

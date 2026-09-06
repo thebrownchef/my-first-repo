@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UCjmJDM5pRKbUlVIzDYYWb6g",
   "title": "Warner Bros.",
   "thumb": "https://yt3.ggpht.com/yVXKYrUI8hckCQdyUuOWf5ZJk2keT8WO3TV2b8RYk3RKgjz5Rh8v1UsH7Yz2j_hbDQRk32rZ_rM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.53,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "The Matrix Resurrections",
       "url": "https://en.wikipedia.org/wiki/The_Matrix_Resurrections",
       "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "channel:UCsQQo8qb62ikp9kc954V7eQ",
+      "type": "channel",
+      "label": "Warner Bros. Rewind",
+      "url": "https://www.youtube.com/channel/UCsQQo8qb62ikp9kc954V7eQ",
+      "firstSeenAt": "2026-09-06T10:53:37.953Z"
+    },
+    {
+      "id": "channel:UC2FYk45tydEEiKs-btM0oxQ",
+      "type": "channel",
+      "label": "NewDuracellKid",
+      "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
+      "firstSeenAt": "2026-09-06T10:53:38.744Z"
     }
   ],
   "recentItems": []

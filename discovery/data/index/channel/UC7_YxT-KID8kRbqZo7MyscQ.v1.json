@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UC7_YxT-KID8kRbqZo7MyscQ",
+  "title": "Markiplier",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.14,
+  "sources": [
+    {
+      "id": "wiki:MatPat",
+      "type": "wikipedia",
+      "label": "MatPat",
+      "url": "https://en.wikipedia.org/wiki/MatPat",
+      "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    },
+    {
+      "id": "channel:UC2FYk45tydEEiKs-btM0oxQ",
+      "type": "channel",
+      "label": "NewDuracellKid",
+      "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
+      "firstSeenAt": "2026-09-06T10:53:38.746Z"
+    }
+  ],
+  "recentItems": []
+}

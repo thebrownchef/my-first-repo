@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UCXCMVUU40HXdcBUgWlz5Y3Q",
   "title": "Marcus Ho",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwKsiUyR9daZXd4-USM_5ySk6a47F7arn7sML0q7ujgw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Second United Front",
       "url": "https://en.wikipedia.org/wiki/Second_United_Front",
       "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    },
+    {
+      "id": "wiki:Chiang Kai-shek",
+      "type": "wikipedia",
+      "label": "Chiang Kai-shek",
+      "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
+      "firstSeenAt": "2026-09-06T10:53:22.168Z"
     }
   ],
   "recentItems": [

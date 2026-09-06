@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UCq18eeL7D9Vd8DhjMcLh9QQ",
+  "title": "Good Morning Britain",
+  "thumb": "https://yt3.ggpht.com/Qo27wL0b3ZoI9g2_ZXn9wzxTTaHwtr_O89QG0pmXA6NPE29GagcjZJpLR-ynmdi7csXpGpag=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 3.52,
+  "sources": [
+    {
+      "id": "channel:UChFsYLqPUyLiZnfRog6wiZA",
+      "type": "channel",
+      "label": "This Morning",
+      "url": "https://www.youtube.com/channel/UChFsYLqPUyLiZnfRog6wiZA",
+      "firstSeenAt": "2026-09-02T11:15:27.806Z"
+    },
+    {
+      "id": "wiki:David Graham (actor)",
+      "type": "wikipedia",
+      "label": "David Graham (actor)",
+      "url": "https://en.wikipedia.org/wiki/David_Graham_(actor)",
+      "firstSeenAt": "2026-09-06T10:53:22.168Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UCWljxewHlJE3M7U_6_zFNyA",
   "title": "Awesomeness",
   "thumb": "https://yt3.ggpht.com/SIvXLv_KN6F4ZZAgzFfWqWXHO7UQtTaRxNn7F36ygocphIC13iN4PJQL687kgGJawX9MG30Ufw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 1.24,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "fanlalatv",
       "url": "https://www.youtube.com/channel/UCXyevnhmf6JiKYx48zjPjdQ",
       "firstSeenAt": "2026-09-05T10:32:52.455Z"
+    },
+    {
+      "id": "channel:UC2FYk45tydEEiKs-btM0oxQ",
+      "type": "channel",
+      "label": "NewDuracellKid",
+      "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
+      "firstSeenAt": "2026-09-06T10:53:38.746Z"
     }
   ],
   "recentItems": [

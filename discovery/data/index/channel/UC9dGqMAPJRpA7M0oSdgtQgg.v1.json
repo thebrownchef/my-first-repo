@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UC9dGqMAPJRpA7M0oSdgtQgg",
+  "title": "BFI",
+  "thumb": "https://yt3.ggpht.com/sR4iA5E1w0QjB_N9WIeynH7hGTStl2mgPxkTEVJhGANXr96ZEex02658pMagMRKV6kFG0LLq=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.87,
+  "sources": [
+    {
+      "id": "wiki:Trog",
+      "type": "wikipedia",
+      "label": "Trog",
+      "url": "https://en.wikipedia.org/wiki/Trog",
+      "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    },
+    {
+      "id": "wiki:Joe Cornelius",
+      "type": "wikipedia",
+      "label": "Joe Cornelius",
+      "url": "https://en.wikipedia.org/wiki/Joe_Cornelius",
+      "firstSeenAt": "2026-09-06T10:53:20.278Z"
+    }
+  ],
+  "recentItems": []
+}

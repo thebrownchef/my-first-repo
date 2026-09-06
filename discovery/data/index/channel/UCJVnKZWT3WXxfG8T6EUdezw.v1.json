@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "id": "UCJVnKZWT3WXxfG8T6EUdezw",
+  "title": "Disney Channel Music",
+  "thumb": "https://yt3.ggpht.com/0m1xxfd0rAziBkYmlOC_QEs1FhwKhOm2jtZiu6jEniDyECiKkeJks7bhErBxS34ZtlekMizH=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.44,
+  "sources": [
+    {
+      "id": "channel:UCw7SNYrYei7F5ttQO3o-rpA",
+      "type": "channel",
+      "label": "Disney Channel Animation",
+      "url": "https://www.youtube.com/channel/UCw7SNYrYei7F5ttQO3o-rpA",
+      "firstSeenAt": "2026-09-03T11:11:00.618Z"
+    },
+    {
+      "id": "channel:UC2FYk45tydEEiKs-btM0oxQ",
+      "type": "channel",
+      "label": "NewDuracellKid",
+      "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
+      "firstSeenAt": "2026-09-06T10:53:38.749Z"
+    }
+  ],
+  "recentItems": []
+}

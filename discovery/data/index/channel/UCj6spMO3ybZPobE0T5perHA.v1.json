@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T10:33:50.528Z",
+  "generatedAt": "2026-09-06T10:54:44.445Z",
   "id": "UCj6spMO3ybZPobE0T5perHA",
   "title": "NewsWatch Plus PH",
   "thumb": "https://yt3.ggpht.com/vRd2mmCKaAberD5KsSgQY7MDyMmR2hF2R8kk9QV2_Vyj6piEvJ2JTx6EpwcZX_6gyTTGvyiz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 6.37,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "What Lies Beneath (TV series)",
       "url": "https://en.wikipedia.org/wiki/What_Lies_Beneath_(TV_series)",
       "firstSeenAt": "2026-09-05T10:32:37.784Z"
+    },
+    {
+      "id": "wiki:Jake Cuenca",
+      "type": "wikipedia",
+      "label": "Jake Cuenca",
+      "url": "https://en.wikipedia.org/wiki/Jake_Cuenca",
+      "firstSeenAt": "2026-09-06T10:53:19.006Z"
     }
   ],
   "recentItems": [
