@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-07T12:30:01.559Z",
+  "id": "UCNBmxc6FvKyxtCpUygcdINA",
+  "title": "WKYC Channel 3",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kgEPAVsdYHeqQUBFMHto7W6Y5idAaHaNKcH1sBfE0Gpe0=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 14.24,
+  "sources": [
+    {
+      "id": "wiki:Jim Brown",
+      "type": "wikipedia",
+      "label": "Jim Brown",
+      "url": "https://en.wikipedia.org/wiki/Jim_Brown",
+      "firstSeenAt": "2026-09-02T11:15:15.308Z"
+    },
+    {
+      "id": "channel:UCMYlXK0jyerVnc3dmz-vjCA",
+      "type": "channel",
+      "label": "10 Tampa Bay News",
+      "url": "https://www.youtube.com/channel/UCMYlXK0jyerVnc3dmz-vjCA",
+      "firstSeenAt": "2026-09-07T12:28:18.067Z"
+    }
+  ],
+  "recentItems": []
+}

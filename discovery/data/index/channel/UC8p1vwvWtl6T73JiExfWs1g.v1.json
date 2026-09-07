@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "generatedAt": "2026-09-07T12:30:01.559Z",
   "id": "UC8p1vwvWtl6T73JiExfWs1g",
   "title": "CBS News",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niBFv49gSx4rr1afMZU_Pv7SeuPKO2SMHvv0Ar7OKxM4o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 21.24,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.752Z"
+    },
+    {
+      "id": "channel:UCMYlXK0jyerVnc3dmz-vjCA",
+      "type": "channel",
+      "label": "10 Tampa Bay News",
+      "url": "https://www.youtube.com/channel/UCMYlXK0jyerVnc3dmz-vjCA",
+      "firstSeenAt": "2026-09-07T12:28:18.064Z"
     }
   ],
   "recentItems": [

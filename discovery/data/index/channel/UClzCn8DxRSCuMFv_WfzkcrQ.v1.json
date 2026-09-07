@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T10:54:44.445Z",
+  "generatedAt": "2026-09-07T12:30:01.559Z",
   "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
   "title": "CBS",
   "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 2.85,
   "sources": [
@@ -22,7 +22,33 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.744Z"
+    },
+    {
+      "id": "channel:UCMYlXK0jyerVnc3dmz-vjCA",
+      "type": "channel",
+      "label": "10 Tampa Bay News",
+      "url": "https://www.youtube.com/channel/UCMYlXK0jyerVnc3dmz-vjCA",
+      "firstSeenAt": "2026-09-07T12:28:18.064Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "6PuDK69dTP8",
+      "title": "Sheriff Country Season 2: Official Trailer | CBS",
+      "publishedAt": "2026-09-03T18:08:18Z",
+      "durationSec": 61,
+      "thumb": "https://i.ytimg.com/vi/6PuDK69dTP8/mqdefault.jpg",
+      "description": "Sheriff Mickey Fox must navigate complicated family dynamics while protecting the town she calls home. Watch the official trailer for Season 2 of #SheriffCountry, premiering Friday, October 9 on CBS and streaming on Paramount+.\n\nWatch on CBS | Stream on Paramount+ #SheriffCountry\nFollow Sheriff Country on Instagram HERE: https://www.instagram.com/firesheriffcbs\nFollow Sheriff Country on TikTok HERE: https://www.tiktok.com/@firesheriffcbs\nLike Sheriff Country on Facebook HERE: https://www.facebook.com/FireCountryCBS\nWatch more Sheriff Country HERE: https://www.paramountplus.com/shows/sheriff-country\n\nMorena Baccarin stars as straight-shooting sheriff Mickey Fox, the stepsister of Cal Fire’s division chief Sharon Leone (Diane Farr of Fire Country). She investigates criminal activity while she patrols the streets of small-town Edgewater, contending with her ex-con father, Wes (W. Earl Brown), who is an off-the-grid marijuana grower, and a mysterious incident involving her wayward daughter. Sheriff Country is an expansion of the universe of the hit drama series Fire Country.",
+      "chapters": []
+    },
+    {
+      "id": "mtk4ZZutvLc",
+      "title": "Marshals Season 2: Official Trailer | CBS",
+      "publishedAt": "2026-09-02T17:22:39Z",
+      "durationSec": 131,
+      "thumb": "https://i.ytimg.com/vi/mtk4ZZutvLc/mqdefault.jpg",
+      "description": "Kayce Dutton is back. Marshals returns for Season 2, kicking off CBS Premiere Week, Sunday, October 4 on CBS and streaming on Paramount+. \n\nWatch on CBS | Stream on Paramount+ #MarshalsCBS \nFollow Marshals on Instagram HERE:  https://www.instagram.com/marshalscbs\nFollow Marshals on TikTok HERE:   https://www.tiktok.com/@marshalscbs\nLike Marshals on Facebook HERE:   https://www.facebook.com/marshalscbs\nWatch more Marshals HERE: https://www.paramountplus.com/shows/marshals/\n\nMarshals stars Luke Grimes as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region’s war on violence.",
+      "chapters": []
+    }
+  ]
 }
