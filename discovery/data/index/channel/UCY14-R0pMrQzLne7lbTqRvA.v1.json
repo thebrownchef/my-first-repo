@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T12:30:01.559Z",
+  "generatedAt": "2026-09-08T11:17:16.352Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "slowthaiVEVO",
       "url": "https://www.youtube.com/channel/UC4ppnreDffHj9ccKnKHZwXA",
       "firstSeenAt": "2026-09-02T11:15:37.918Z"
+    },
+    {
+      "id": "channel:UCSFBNlkwFf7ZQO6sTk9Q-lw",
+      "type": "channel",
+      "label": "JorjaSmithVEVO",
+      "url": "https://www.youtube.com/channel/UCSFBNlkwFf7ZQO6sTk9Q-lw",
+      "firstSeenAt": "2026-09-08T11:15:53.138Z"
     }
   ],
   "recentItems": [

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-08T11:17:16.352Z",
+  "id": "UC5gmF9xAJrGl2MIwgUdwRPg",
+  "title": "SupIds Radio Archive",
+  "thumb": "https://yt3.ggpht.com/-W-ZC2PFW0tUteT9NSm0owpz3L53tCq2faIz3HihWASzWfx-3XE6Q8TvDotPt-StJe4qdHCYHw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.55,
+  "sources": [
+    {
+      "id": "channel:UCQpTfbeb4lfGAuZac1pOhTg",
+      "type": "channel",
+      "label": "FN32 DXer",
+      "url": "https://www.youtube.com/channel/UCQpTfbeb4lfGAuZac1pOhTg",
+      "firstSeenAt": "2026-09-07T12:28:36.926Z"
+    },
+    {
+      "id": "channel:UCuGdYTMLZUhnEsStVlI_ueA",
+      "type": "channel",
+      "label": "Susquehanna's Radio Archive",
+      "url": "https://www.youtube.com/channel/UCuGdYTMLZUhnEsStVlI_ueA",
+      "firstSeenAt": "2026-09-08T11:15:51.998Z"
+    }
+  ],
+  "recentItems": []
+}

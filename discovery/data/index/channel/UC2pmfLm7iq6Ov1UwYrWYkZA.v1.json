@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T12:30:01.559Z",
+  "generatedAt": "2026-09-08T11:17:16.352Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 53,
-  "distinctSourceCount": 53,
+  "score": 56,
+  "distinctSourceCount": 56,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -379,6 +379,27 @@
       "label": "PaulSimonVEVO",
       "url": "https://www.youtube.com/channel/UCNNZzEPxwQJhcOBULe1jNCA",
       "firstSeenAt": "2026-09-07T12:28:35.134Z"
+    },
+    {
+      "id": "channel:UCkGwEqJKw45sz0q4iJjk_vQ",
+      "type": "channel",
+      "label": "PhantomsVEVO",
+      "url": "https://www.youtube.com/channel/UCkGwEqJKw45sz0q4iJjk_vQ",
+      "firstSeenAt": "2026-09-08T11:15:56.753Z"
+    },
+    {
+      "id": "channel:UCpTaAz_BxtkUB1qc8JTU_7g",
+      "type": "channel",
+      "label": "dojacatVEVO",
+      "url": "https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g",
+      "firstSeenAt": "2026-09-08T11:16:01.414Z"
+    },
+    {
+      "id": "channel:UCht3V0ABii3AupFbEWWGpxw",
+      "type": "channel",
+      "label": "AugustAlsinaVEVO",
+      "url": "https://www.youtube.com/channel/UCht3V0ABii3AupFbEWWGpxw",
+      "firstSeenAt": "2026-09-08T11:16:05.064Z"
     }
   ],
   "recentItems": []
