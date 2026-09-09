@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:17:16.352Z",
+  "generatedAt": "2026-09-09T11:21:11.940Z",
   "id": "UC16niRr50-MSBwiO3YDb3RA",
   "title": "BBC News",
   "thumb": "https://yt3.ggpht.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 4.39,
   "sources": [
@@ -50,274 +50,120 @@
       "label": "British Stuff TV",
       "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
       "firstSeenAt": "2026-09-06T10:53:26.527Z"
+    },
+    {
+      "id": "channel:UC46q-QSvoJz-1iSxPeuOqWA",
+      "type": "channel",
+      "label": "BBC News Indonesia",
+      "url": "https://www.youtube.com/channel/UC46q-QSvoJz-1iSxPeuOqWA",
+      "firstSeenAt": "2026-09-09T11:19:55.277Z"
     }
   ],
   "recentItems": [
     {
-      "id": "rDpUl8RE-uM",
-      "title": "Is Gen Z getting less intelligent? | BBC News",
-      "publishedAt": "2026-09-08T11:00:37Z",
-      "durationSec": 433,
-      "thumb": "https://i.ytimg.com/vi/rDpUl8RE-uM/mqdefault.jpg",
-      "description": "Reading, maths and science scores in PISA, the world’s biggest international test of 15-year-olds, are falling. The downward trend started around 2012 and seems to be accelerating, particularly in reading. Here we explore some of the theories about what’s causing the decline.\n\n00:00 Why are Gen Z’s test scores falling?\n00:31 What the PISA test results measure\n01:08 Is Covid to blame?\n02:00 Did technology change learning?\n02:37 The sharp decline in reading skills\n03:24 How are screens in classrooms linked to test scores?\n04:17 School tech use in Singapore is high, and so are PISA scores\n04:28 Schools around the world use tech in different ways\n04:55 The unanswered questions about Gen Z and tech\n05:33 Do screens affect our attention spans?\n06:02 Is this just a Gen Z issue?\n06:23 The world is changing and there many factors involved\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "chapters": [
-        {
-          "seconds": 0,
-          "label": "Why are Gen Z’s test scores falling?"
-        },
-        {
-          "seconds": 31,
-          "label": "What the PISA test results measure"
-        },
-        {
-          "seconds": 68,
-          "label": "Is Covid to blame?"
-        },
-        {
-          "seconds": 120,
-          "label": "Did technology change learning?"
-        },
-        {
-          "seconds": 157,
-          "label": "The sharp decline in reading skills"
-        },
-        {
-          "seconds": 204,
-          "label": "How are screens in classrooms linked to test scores?"
-        },
-        {
-          "seconds": 257,
-          "label": "School tech use in Singapore is high, and so are PISA scores"
-        },
-        {
-          "seconds": 268,
-          "label": "Schools around the world use tech in different ways"
-        },
-        {
-          "seconds": 295,
-          "label": "The unanswered questions about Gen Z and tech"
-        },
-        {
-          "seconds": 333,
-          "label": "Do screens affect our attention spans?"
-        },
-        {
-          "seconds": 362,
-          "label": "Is this just a Gen Z issue?"
-        },
-        {
-          "seconds": 383,
-          "label": "The world is changing and there many factors involved"
-        }
-      ]
-    },
-    {
-      "id": "jX0rBui4Yro",
-      "title": "UK expected to announce sanctions on Israeli settlements in occupied West Bank | BBC News",
-      "publishedAt": "2026-09-08T06:55:54Z",
-      "durationSec": 386,
-      "thumb": "https://i.ytimg.com/vi/jX0rBui4Yro/mqdefault.jpg",
-      "description": "The UK is expected to announce sanctions on goods and services from Israeli settlements in the illegally occupied West Bank.\n \nForeign Secretary Ed Miliband is due to announce the move in the House of Commons on Tuesday afternoon, having previously said the UK-Israel relationship will be “reset”.\n \nThe settlements are illegal under international law and the UK's move comes as Israel opens tenders for 1,200 new homes in the occupied territory.\n \nUS ambassador to Israel, Mike Huckabee said the US opposes the UK imposing sanctions, and he told the BBC that US states could retaliate against the UK. \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "chapters": []
-    },
-    {
-      "id": "Q_QEtgYTbfc",
-      "title": "Iran warns of 'heavier response' after trading strikes with US in Strait of Hormuz | BBC News",
-      "publishedAt": "2026-09-07T22:30:27Z",
-      "durationSec": 626,
-      "thumb": "https://i.ytimg.com/vi/Q_QEtgYTbfc/mqdefault.jpg",
-      "description": "Iran's top negotiator warns of \"a faster, heavier, and more painful response\" to US attacks, after the sides traded strikes in the Strait of Hormuz. \n \nIt comes as Iran's security chief says Tehran will announce a prohibited zone outside the Strait of Hormuz in the coming days, saying any ship entering the area will be added to a sanctions list.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #US #BBCNews",
-      "chapters": []
-    },
-    {
-      "id": "CJFoKLdE1uk",
-      "title": "Australians will be able to switch off social media algorithms under planned legislation. #BBCNews",
-      "publishedAt": "2026-09-07T21:30:21Z",
-      "durationSec": 62,
-      "thumb": "https://i.ytimg.com/vi/CJFoKLdE1uk/mqdefault.jpg",
+      "id": "rqWUGPbNBG8",
+      "title": "Flight to Italy for couple’s wedding among nearly 2,000 cancelled flights. #BBCNews",
+      "publishedAt": "2026-09-09T10:00:01Z",
+      "durationSec": 76,
+      "thumb": "https://i.ytimg.com/vi/rqWUGPbNBG8/mqdefault.jpg",
       "description": "",
       "chapters": []
     },
     {
-      "id": "u7O_2c2e1L4",
-      "title": "Can The Chancellor John Healey's Positive Vibes Limit UK Tax Rises? | BBC Newscast",
-      "publishedAt": "2026-09-07T21:30:08Z",
-      "durationSec": 2394,
-      "thumb": "https://i.ytimg.com/vi/u7O_2c2e1L4/mqdefault.jpg",
-      "description": "Today, John Healey delivered his first major speech as chancellor, aiming to boost confidence in the economy with a positive message.\n\nThe chancellor set out his intentions for growth, investment and more jobs. But midway through, Jaguar Land Rover announced they would be making thousands of job cuts after struggling with competition from China and falling behind in the electric vehicle race.\n\nEconomics editor Faisal Islam and business editor Simon Jack explain what it means for the country, and they chat through Healey’s new ‘Make Great Britain Growth Britain Again”\n\nAnd we've had a weekend of anti-migration protests. One involved men in balaclavas in Dover and one with a crowd trying to block the migrant coaches in Portsmouth. UK correspondent Daniel Sandford explains.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews #UKPolitics #Economy\n\n00:00 Can the chancellor, John Healey Make Great Britain Growth Britain Again?\n02:00 Faisal analyses John Healey's speech\n05:36 Will the government raise taxes at the budget?\n08:25 What do UK businesses want?\n14:45 How does the government want to devolve fiscal powers?\n23:36 What's happening with protests in Dover and Portsmouth?",
-      "chapters": [
-        {
-          "seconds": 0,
-          "label": "Can the chancellor, John Healey Make Great Britain Growth Britain Again?"
-        },
-        {
-          "seconds": 120,
-          "label": "Faisal analyses John Healey's speech"
-        },
-        {
-          "seconds": 336,
-          "label": "Will the government raise taxes at the budget?"
-        },
-        {
-          "seconds": 505,
-          "label": "What do UK businesses want?"
-        },
-        {
-          "seconds": 885,
-          "label": "How does the government want to devolve fiscal powers?"
-        },
-        {
-          "seconds": 1416,
-          "label": "What's happening with protests in Dover and Portsmouth?"
-        }
-      ]
+      "id": "gXudd9X7c_Y",
+      "title": "UK had to \"call out\" Israeli settlements in West Bank, Ed Miliband says. #BBCNews",
+      "publishedAt": "2026-09-09T09:00:18Z",
+      "durationSec": 61,
+      "thumb": "https://i.ytimg.com/vi/gXudd9X7c_Y/mqdefault.jpg",
+      "description": "Subscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "chapters": []
     },
     {
-      "id": "GyBNnfZWGbg",
-      "title": "Pig kidney works in man's body for 271 days. #BBCNews",
-      "publishedAt": "2026-09-07T20:30:30Z",
-      "durationSec": 62,
-      "thumb": "https://i.ytimg.com/vi/GyBNnfZWGbg/mqdefault.jpg",
+      "id": "VzEotE9-2Ss",
+      "title": "Love Island's Aidan Murphy on Priya, All Stars and more. #BBCNews",
+      "publishedAt": "2026-09-09T08:00:22Z",
+      "durationSec": 73,
+      "thumb": "https://i.ytimg.com/vi/VzEotE9-2Ss/mqdefault.jpg",
       "description": "",
       "chapters": []
     },
     {
-      "id": "9URzvpfm7dg",
-      "title": "Was Saudi Arabia involved in 9/11? | The Global Story",
-      "publishedAt": "2026-09-07T20:30:29Z",
-      "durationSec": 1468,
-      "thumb": "https://i.ytimg.com/vi/9URzvpfm7dg/mqdefault.jpg",
-      "description": "Twenty-five years on from the deadliest terror attack in history, thousands of grieving families are still fighting for answers.\n\nIn early 2000, two young Saudis arrived in San Diego. They had never been to America, spoke almost no English, and had no idea how to open a bank account or rent a flat. Within weeks they had done all of it. Twenty months later they hijacked a plane and crashed it into the Pentagon.\n\nThe BBC’s Jane McMullen has been investigating a man who helped two of the hijackers – and has revealed a story that the US and Saudi governments have fought to keep secret.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews #september11 #usa \n\n00:00 Introduction\n01:07 The landlady and the hijackers\n03:30 Omar al-Bayoumi, the man who helped the future hijackers\n05:45 The FBI investigation into the hijackers\n07:00 Bayoumi's arrest and police interview\n10:00 Comparing his story to the landlady's\n11:15 Bayoumi's links to the Saudi government and to extremists\n16:10 What happens after Baymoumi's arrest?\n17:35 Investigations by the 9/11 Commission\n22:00 Families suing the Kingdom of Saudi Arabia\n23:30 Saudi government's response",
+      "id": "xoAvzJpmAvM",
+      "title": "Jasmine and Kavan on moving in together and life outside the Love Island villa. #BBCNews",
+      "publishedAt": "2026-09-09T07:00:39Z",
+      "durationSec": 64,
+      "thumb": "https://i.ytimg.com/vi/xoAvzJpmAvM/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
+    {
+      "id": "lX_kUIu745Y",
+      "title": "How your 9/11 memories could be wrong | BBC News",
+      "publishedAt": "2026-09-08T23:01:20Z",
+      "durationSec": 579,
+      "thumb": "https://i.ytimg.com/vi/lX_kUIu745Y/mqdefault.jpg",
+      "description": "Most of us can remember exactly where we were when we heard about the September 11 terror attacks. This type of vivid recollection has been documented for other major world events too. They’re known as flashbulb memories and feel remarkably accurate, yet research suggests they can be just as unreliable as any other memory. \n\nSo why do we trust these memories so strongly and could misremembering actually benefit us?\n\n00:00 What is a flashbulb memory? \n00:50 Why vivid memories can be wrong \n01:40 How memory is stored and reshaped \n02:30 The science behind emotional memories \n03:20 What 9/11 studies reveal about vivid memories\n04:15 Why we trust flashbulb memories so much \n05:05 President George W. Bush made a memory mistake about 9/11, researchers say\n05:55 Identity, shared experiences and the future of flashbulb memories\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#science #memories #BBCNews",
       "chapters": [
         {
           "seconds": 0,
-          "label": "Introduction"
+          "label": "What is a flashbulb memory?"
         },
         {
-          "seconds": 67,
-          "label": "The landlady and the hijackers"
+          "seconds": 50,
+          "label": "Why vivid memories can be wrong"
         },
         {
-          "seconds": 210,
-          "label": "Omar al-Bayoumi, the man who helped the future hijackers"
+          "seconds": 100,
+          "label": "How memory is stored and reshaped"
         },
         {
-          "seconds": 345,
-          "label": "The FBI investigation into the hijackers"
+          "seconds": 150,
+          "label": "The science behind emotional memories"
         },
         {
-          "seconds": 420,
-          "label": "Bayoumi's arrest and police interview"
+          "seconds": 200,
+          "label": "What 9/11 studies reveal about vivid memories"
         },
         {
-          "seconds": 600,
-          "label": "Comparing his story to the landlady's"
+          "seconds": 255,
+          "label": "Why we trust flashbulb memories so much"
         },
         {
-          "seconds": 675,
-          "label": "Bayoumi's links to the Saudi government and to extremists"
+          "seconds": 305,
+          "label": "President George W. Bush made a memory mistake about 9/11, researchers say"
         },
         {
-          "seconds": 970,
-          "label": "What happens after Baymoumi's arrest?"
-        },
-        {
-          "seconds": 1055,
-          "label": "Investigations by the 9/11 Commission"
-        },
-        {
-          "seconds": 1320,
-          "label": "Families suing the Kingdom of Saudi Arabia"
-        },
-        {
-          "seconds": 1410,
-          "label": "Saudi government's response"
+          "seconds": 355,
+          "label": "Identity, shared experiences and the future of flashbulb memories"
         }
       ]
     },
     {
-      "id": "OpbNoMVyxl8",
-      "title": "What is the AfD and what could their victory mean for Germany and Europe? | BBC News",
-      "publishedAt": "2026-09-07T19:30:16Z",
-      "durationSec": 616,
-      "thumb": "https://i.ytimg.com/vi/OpbNoMVyxl8/mqdefault.jpg",
-      "description": "\"Seismic\", \"a socio-political earthquake\", \"a watershed moment for Germany\".\n \nThis was how political analysts and many media outlets described the stunning victory of the anti-immigration Alternative for Germany (AfD) party in local elections in Germany on Sunday. Is that an exaggeration?\n \nSaxony-Anhalt is one of the smallest of massive Germany's 16 regions. It boasts a mere 1.7 million out of 59 million eligible voters nationwide.\n \nHow significant can its political sentiments be, especially since the AfD narrowly failed to win an outright majority?\n \nThe answer: Very significant.\n \nIn this video: \n \n0:00 - 0:48 - Historic victory for the AfD\n0:48 - 1:31 - Reaction from the AfD party\n1:31 - 2:09 - How surprising is the far-right victory?\n2:09 - 2:46 - The AfD and some of their policies\n2:46 - 3:40 - People are searching \"are AfD Nazis?\"\n3:40 - 4:31 - Historically the main parties have blocked the far-right, it's called a \"firewall\"\n4:31 - 5:34 - Will the AfD be able to govern?\n5:34 - 6:23 - Reaction from European politicians\n6:23 - 7:39 - What does this election result mean for Europe? \n7:39 - 8:42 - Reaction to the far-right result from US and Russia\n8:42 - 9:16 - What could this result mean for Ukraine?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Germany #Europe #BBCNews",
-      "chapters": [
-        {
-          "seconds": 0,
-          "label": "0:48 - Historic victory for the AfD"
-        },
-        {
-          "seconds": 48,
-          "label": "1:31 - Reaction from the AfD party"
-        },
-        {
-          "seconds": 91,
-          "label": "2:09 - How surprising is the far-right victory?"
-        },
-        {
-          "seconds": 129,
-          "label": "2:46 - The AfD and some of their policies"
-        },
-        {
-          "seconds": 166,
-          "label": "3:40 - People are searching \"are AfD Nazis?\""
-        },
-        {
-          "seconds": 220,
-          "label": "4:31 - Historically the main parties have blocked the far-right, it's called a \"firewall\""
-        },
-        {
-          "seconds": 271,
-          "label": "5:34 - Will the AfD be able to govern?"
-        },
-        {
-          "seconds": 334,
-          "label": "6:23 - Reaction from European politicians"
-        },
-        {
-          "seconds": 383,
-          "label": "7:39 - What does this election result mean for Europe?"
-        },
-        {
-          "seconds": 459,
-          "label": "8:42 - Reaction to the far-right result from US and Russia"
-        },
-        {
-          "seconds": 522,
-          "label": "9:16 - What could this result mean for Ukraine?"
-        }
-      ]
+      "id": "3Dod0q5a870",
+      "title": "New Yorkers were “lied” to about toxic air quality after 9/11 attacks, says Zohran Mamdani. #BBCNews",
+      "publishedAt": "2026-09-08T22:45:03Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/3Dod0q5a870/mqdefault.jpg",
+      "description": "",
+      "chapters": []
     },
     {
-      "id": "K2xhULNy46E",
-      "title": "German Chancellor Merz ‘shocked’ by far-right AfD win and other news stories | Global News Podcast",
-      "publishedAt": "2026-09-07T18:30:24Z",
-      "durationSec": 1231,
-      "thumb": "https://i.ytimg.com/vi/K2xhULNy46E/mqdefault.jpg",
-      "description": "Chancellor Friedrich Merz says Germany is facing a tectonic shift in party politics, following the far-right Alternative für Deutschland (AfD)'s victory in the eastern state of Saxony-Anhalt. Mr Merz said the result had shaken his conservative CDU to its core, signalling the need for a major reckoning. The anti-immigration AfD has proposed banning LGBTQ rainbow flags in schools and teaching the children of refugees in segregated classes. \n\nAlso in the Global News Podcast:\n\n05:28 The funeral of convicted Serbian war criminal General Ratko Mladić is attended by thousands in Belgrade \n07:31 President Volodymyr Zelensky says Ukraine and the US must keep diplomacy going, as Russia strikes Kyiv around the clock \n11:39  Lebanon says at least nine people were killed in fresh Israeli attacks \n14:45 We meet 13-year-old composer Carey Tan, whose written a symphony about AI\n16:55 An unsung hero of D-Day, meteorologist James Stagg, is portrayed by Andrew Scott in the new film “Pressure”\n\nThe Global News Podcast brings you the best of the BBC’s news coverage and analysis from around the world. You can watch us on YouTube every weekday – and find the audio version wherever you get your podcasts.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "chapters": [
-        {
-          "seconds": 328,
-          "label": "The funeral of convicted Serbian war criminal General Ratko Mladić is attended by thousands in Belgrade"
-        },
-        {
-          "seconds": 451,
-          "label": "President Volodymyr Zelensky says Ukraine and the US must keep diplomacy going, as Russia strikes Kyiv around the clock"
-        },
-        {
-          "seconds": 699,
-          "label": "Lebanon says at least nine people were killed in fresh Israeli attacks"
-        },
-        {
-          "seconds": 885,
-          "label": "We meet 13-year-old composer Carey Tan, whose written a symphony about AI"
-        },
-        {
-          "seconds": 1015,
-          "label": "An unsung hero of D-Day, meteorologist James Stagg, is portrayed by Andrew Scott in the new film “Pressure”"
-        }
-      ]
+      "id": "jN6oML_RKQY",
+      "title": "UK accuses Israel of backing ethnic cleansing by “terrorist” settlers in West Bank | BBC News",
+      "publishedAt": "2026-09-08T22:44:03Z",
+      "durationSec": 755,
+      "thumb": "https://i.ytimg.com/vi/jN6oML_RKQY/mqdefault.jpg",
+      "description": "The UK government has launched a scathing attack on Israel’s actions in the West Bank and Gaza.  The Foreign Secretary Ed Miliband said ‘terrorists’ were carrying out ethnic cleansing in the West Bank, which is illegally occupied by Israel, and said they were doing so with the backing of Benjamin Netanyahu’s government. \n\nMr Miliband announced sanctions on trade with settlements and declared that UK policy was now officially that Israel’s occupation of the West Bank was unlawful.  The UK announcements are the most direct condemnation of Israeli policy since it was founded as a state, and follows a summer of violence by Israeli settlers against Palestinian communities in the occupied territories. \n\nThe UK joins 12 other countries that have announced sanctions against goods from the settlements, including France and Canada.  It comes as Israel is implementing another major expansion of settlements, with the construction of E1, a new development of 1,200 homes that will cut off Palestinians in the West Bank from East Jerusalem, which they claim as the future capital of a Palestinian state. \n\nThe Israeli government reacted furiously to the British announcement, condemning the new Labour administration of Andy Burnham, and announcing the closure of the UK consulate in Jerusalem.  The Israeli foreign minister Gideon Saar said the UK government was “systematically working against the state of Israel” and accused Mr Miliband of telling “outrageous lies”.\n\nReeta Chakrabarti presents BBC News at Ten reporting by Chris Mason, Lucy Williamson and Jeremy Bowen.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "chapters": []
+    },
+    {
+      "id": "RY508kuMez4",
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow | BBC News",
+      "publishedAt": "2026-09-08T21:30:07Z",
+      "durationSec": 177,
+      "thumb": "https://i.ytimg.com/vi/RY508kuMez4/mqdefault.jpg",
+      "description": "Six people, including three pupils at a boys school, have been killed in al-Mughayyir this year, in a surge of settler-related violence against Palestinians in the occupied West Bank.\n \nOne of them, 14-year-old Aws al-Naasan, was shot dead by a settler outside the school gates in April. Since that day, the casualties have grown alongside parents' fears.\n \nThe Israeli military said in a statement at the time that stones had been hurled at a car carrying \"civilians including a reservist soldier\", and that the reservist had got out of the vehicle and fired at suspects. Israeli media reported the reservist was later suspended from duty and an investigation launched.\n \nIsraeli media reported the reservist was later suspended from duty and an investigation launched.\n \nAll Israeli settlements in the occupied West Bank are illegal under international law. Many of the small ad-hoc settler outposts that have mushroomed around al-Mughayyir are illegal under Israeli law too. \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "chapters": []
     }
   ]
 }

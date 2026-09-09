@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:17:16.352Z",
+  "generatedAt": "2026-09-09T11:21:11.940Z",
   "id": "UCuGdYTMLZUhnEsStVlI_ueA",
   "title": "Susquehanna's Radio Archive",
   "thumb": "https://yt3.ggpht.com/QnLKwECYZ3TNcXW0vO_8rDGt5X-vO7H7meQtQ7v9unrclIe97AzI2aBnW-5ET0Tj1s0IUl4DbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "FN32 DXer",
       "url": "https://www.youtube.com/channel/UCQpTfbeb4lfGAuZac1pOhTg",
       "firstSeenAt": "2026-09-07T12:28:36.926Z"
+    },
+    {
+      "id": "channel:UC-rlKsywe_9iaFR371dyjJw",
+      "type": "channel",
+      "label": "Forward Broadcast Archive",
+      "url": "https://www.youtube.com/channel/UC-rlKsywe_9iaFR371dyjJw",
+      "firstSeenAt": "2026-09-09T11:19:56.079Z"
     }
   ],
   "recentItems": [

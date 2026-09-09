@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:17:16.352Z",
+  "generatedAt": "2026-09-09T11:21:11.940Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -85,6 +85,20 @@
       "label": "JorjaSmithVEVO",
       "url": "https://www.youtube.com/channel/UCSFBNlkwFf7ZQO6sTk9Q-lw",
       "firstSeenAt": "2026-09-08T11:15:53.138Z"
+    },
+    {
+      "id": "channel:UC46TVKqBkiTT85ddkJDdK3w",
+      "type": "channel",
+      "label": "FARRUKOVEVO",
+      "url": "https://www.youtube.com/channel/UC46TVKqBkiTT85ddkJDdK3w",
+      "firstSeenAt": "2026-09-09T11:19:55.605Z"
+    },
+    {
+      "id": "channel:UCz9yS18zJGQObwUL_K-ICnw",
+      "type": "channel",
+      "label": "KarolGVEVO",
+      "url": "https://www.youtube.com/channel/UCz9yS18zJGQObwUL_K-ICnw",
+      "firstSeenAt": "2026-09-09T11:19:57.128Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:17:16.352Z",
+  "generatedAt": "2026-09-09T11:21:11.940Z",
   "id": "UCcXis60239pmxyg-YOZkqeg",
   "title": "SRS Media Vision Entertainment",
   "thumb": "https://yt3.ggpht.com/jaf2Wnys4CJuBtSLYtic9lzjVt8hecScaxmj1XU-axczJdm3aNW_7tDYxEcS0aUnConjgFk0FQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Anand Audio",
       "url": "https://www.youtube.com/channel/UCLtCejNl8eAg4PO_9lf2TIg",
       "firstSeenAt": "2026-09-08T11:15:55.406Z"
+    },
+    {
+      "id": "channel:UCcXis60239pmxyg-YOZkqeg",
+      "type": "channel",
+      "label": "SRS Media Vision Entertainment",
+      "url": "https://www.youtube.com/channel/UCcXis60239pmxyg-YOZkqeg",
+      "firstSeenAt": "2026-09-09T11:19:51.620Z"
     }
   ],
   "recentItems": [

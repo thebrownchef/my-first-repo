@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T11:17:16.352Z",
+  "generatedAt": "2026-09-09T11:21:11.940Z",
   "id": "UCxim_K8dnwUJr-4EhT08agg",
   "title": " SRS Media Vision | Kannada Movie Clips",
   "thumb": "https://yt3.ggpht.com/qYy9MlCpQsuKMT0_PSlEw_vksu4O66bP5BRMBkdtdc6rcPrxwtGS0SGDeA6xDM-0E0CrjaoBmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 2.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Anand Audio",
       "url": "https://www.youtube.com/channel/UCLtCejNl8eAg4PO_9lf2TIg",
       "firstSeenAt": "2026-09-08T11:15:55.406Z"
+    },
+    {
+      "id": "channel:UCcXis60239pmxyg-YOZkqeg",
+      "type": "channel",
+      "label": "SRS Media Vision Entertainment",
+      "url": "https://www.youtube.com/channel/UCcXis60239pmxyg-YOZkqeg",
+      "firstSeenAt": "2026-09-09T11:19:51.620Z"
     }
   ],
   "recentItems": [
