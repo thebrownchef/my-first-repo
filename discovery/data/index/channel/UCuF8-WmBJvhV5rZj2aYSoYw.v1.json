@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T11:21:11.940Z",
+  "generatedAt": "2026-09-10T11:17:31.291Z",
   "id": "UCuF8-WmBJvhV5rZj2aYSoYw",
   "title": "IndiaGlitz Tamil",
   "thumb": "https://yt3.ggpht.com/77kv3_Mc063tdh5efwjwnX0MsPhtpurBVSj0Au8ktSG1QWOZw4L0grvICmuQGvaj-MaC_mYHPg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 10.17,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Bhantham",
       "url": "https://en.wikipedia.org/wiki/Bhantham",
       "firstSeenAt": "2026-09-01T11:37:09.151Z"
+    },
+    {
+      "id": "channel:UCZDSXp-lgYoGGuQ7B3KAD2A",
+      "type": "channel",
+      "label": "IndiaGlitz Movies",
+      "url": "https://www.youtube.com/channel/UCZDSXp-lgYoGGuQ7B3KAD2A",
+      "firstSeenAt": "2026-09-10T11:16:14.140Z"
     }
   ],
   "recentItems": []

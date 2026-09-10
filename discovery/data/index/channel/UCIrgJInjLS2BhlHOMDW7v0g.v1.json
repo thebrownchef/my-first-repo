@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T11:21:11.940Z",
+  "generatedAt": "2026-09-10T11:17:31.291Z",
   "id": "UCIrgJInjLS2BhlHOMDW7v0g",
   "title": "Disney Plus",
   "thumb": "https://yt3.ggpht.com/UPhpnK8upp-dSOTsTLHh-oi4vybASrC5eppw1ud4NgMAvGEjFXaN46bcj-mu2IahKeW5nb2Ywg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.748Z"
+    },
+    {
+      "id": "channel:UC_5niPa-d35gg88HaS7RrIw",
+      "type": "channel",
+      "label": "Disney",
+      "url": "https://www.youtube.com/channel/UC_5niPa-d35gg88HaS7RrIw",
+      "firstSeenAt": "2026-09-10T11:16:13.586Z"
     }
   ],
   "recentItems": [

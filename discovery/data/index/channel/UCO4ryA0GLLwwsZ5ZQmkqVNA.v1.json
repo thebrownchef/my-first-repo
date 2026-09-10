@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-10T11:17:31.291Z",
+  "id": "UCO4ryA0GLLwwsZ5ZQmkqVNA",
+  "title": "ABS-CBN It's Showtime",
+  "thumb": "https://yt3.ggpht.com/Xq-OnRwAXvDr9qsQ7vlskzYfjsIGt5c2mN_sh77LyAzSlHHRZApvFxukTiQ5DajfLmYCm9WqZA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 4.41,
+  "sources": [
+    {
+      "id": "channel:UCxHXoEgH2zp608JyO_-xEtA",
+      "type": "channel",
+      "label": "ABS-CBN Talk",
+      "url": "https://www.youtube.com/channel/UCxHXoEgH2zp608JyO_-xEtA",
+      "firstSeenAt": "2026-09-08T11:16:00.842Z"
+    },
+    {
+      "id": "channel:UCgSDahpkQlcCtvJD4gZXQKg",
+      "type": "channel",
+      "label": "Push",
+      "url": "https://www.youtube.com/channel/UCgSDahpkQlcCtvJD4gZXQKg",
+      "firstSeenAt": "2026-09-10T11:16:18.796Z"
+    }
+  ],
+  "recentItems": []
+}
