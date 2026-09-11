@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T11:17:31.291Z",
+  "generatedAt": "2026-09-11T11:19:19.536Z",
   "id": "UCqFzWxSCi39LnW1JKFR3efg",
   "title": "Saturday Night Live",
   "thumb": "https://yt3.ggpht.com/0UstnnBY3C69WcOIv8W_8blHZKMpoxluehKazofyMTt93kO2wGbJ1-ZIiHaFSNYBVGAgu3AEUEo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 2.15,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.744Z"
+    },
+    {
+      "id": "channel:UCpdK1NLHxEUGXc1gq2NxkTw",
+      "type": "channel",
+      "label": "The Voice",
+      "url": "https://www.youtube.com/channel/UCpdK1NLHxEUGXc1gq2NxkTw",
+      "firstSeenAt": "2026-09-11T11:18:05.991Z"
     }
   ],
   "recentItems": [

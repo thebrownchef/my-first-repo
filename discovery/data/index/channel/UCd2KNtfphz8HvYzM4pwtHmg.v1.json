@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-11T11:19:19.536Z",
+  "id": "UCd2KNtfphz8HvYzM4pwtHmg",
+  "title": "triple j",
+  "thumb": "https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.65,
+  "sources": [
+    {
+      "id": "channel:UCVgO39Bk5sMo66-6o6Spn6Q",
+      "type": "channel",
+      "label": "ABC News (Australia)",
+      "url": "https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q",
+      "firstSeenAt": "2026-09-06T10:53:34.042Z"
+    },
+    {
+      "id": "channel:UC10DG3enEhKiOEmyu_eEzuA",
+      "type": "channel",
+      "label": "Radio X",
+      "url": "https://www.youtube.com/channel/UC10DG3enEhKiOEmyu_eEzuA",
+      "firstSeenAt": "2026-09-11T11:17:46.803Z"
+    }
+  ],
+  "recentItems": []
+}

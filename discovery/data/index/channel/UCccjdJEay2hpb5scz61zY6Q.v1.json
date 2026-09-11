@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-11T11:19:19.536Z",
+  "id": "UCccjdJEay2hpb5scz61zY6Q",
+  "title": "NBC",
+  "thumb": "https://yt3.ggpht.com/Lh3IR3_DCVkvF5xsFkGk6KhQcYmp0gplmeQR145r0rcu2VdrAPhIMef3yvgqZ4QIaldVSou53o4=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.47,
+  "sources": [
+    {
+      "id": "channel:UC8-Th83bH_thdKZDJCrn88g",
+      "type": "channel",
+      "label": "The Tonight Show Starring Jimmy Fallon",
+      "url": "https://www.youtube.com/channel/UC8-Th83bH_thdKZDJCrn88g",
+      "firstSeenAt": "2026-09-05T10:32:44.208Z"
+    },
+    {
+      "id": "channel:UCpdK1NLHxEUGXc1gq2NxkTw",
+      "type": "channel",
+      "label": "The Voice",
+      "url": "https://www.youtube.com/channel/UCpdK1NLHxEUGXc1gq2NxkTw",
+      "firstSeenAt": "2026-09-11T11:18:05.990Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T11:17:31.291Z",
+  "generatedAt": "2026-09-11T11:19:19.536Z",
   "id": "UCw7SNYrYei7F5ttQO3o-rpA",
   "title": "Disney Channel Animation",
   "thumb": "https://yt3.ggpht.com/_WcHGpEZpyOHL0SmNWyFyLe28xbIZ5W0-aOUKwcOTjJDsVThLsFQU2vMRIvZNpqWHganABXR=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.750Z"
+    },
+    {
+      "id": "channel:UCktaw9L-f65LzUUdjmCFkbQ",
+      "type": "channel",
+      "label": "Disney Channel",
+      "url": "https://www.youtube.com/channel/UCktaw9L-f65LzUUdjmCFkbQ",
+      "firstSeenAt": "2026-09-11T11:17:57.673Z"
+    },
+    {
+      "id": "channel:UCNcdbMyA59zE-Vk668bKWOg",
+      "type": "channel",
+      "label": "Disney Jr. ",
+      "url": "https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg",
+      "firstSeenAt": "2026-09-11T11:18:01.902Z"
     }
   ],
   "recentItems": [
@@ -46,15 +60,6 @@
       "durationSec": 83,
       "thumb": "https://i.ytimg.com/vi/YMv9PhCRsSY/mqdefault.jpg",
       "description": "Watch The Proud Family videos here: https://youtube.com/playlist?list=PLiv1IUQDVSNIuBZMdpuNP3-NsQPrJPDZp&si=BDJrGKu3bapmGc_1",
-      "chapters": []
-    },
-    {
-      "id": "6Ix2Ifx2cZU",
-      "title": "Cricket & Tilly's Metal Detector Treasure Hunt! 🪎 | Big City Greens | Disney Channel",
-      "publishedAt": "2026-09-06T12:45:08Z",
-      "durationSec": 187,
-      "thumb": "https://i.ytimg.com/vi/6Ix2Ifx2cZU/mqdefault.jpg",
-      "description": "Watch this clip from the Big City Greens season 5 episode, \"Metal Heads\". Bill buys the kids a metal detector!\n\nWatch the next Big City Greens video here: https://youtu.be/Vxy16HzUWtk\n\nBig City Greens available on Disney Channel and Disney+ \nhttps://ondisneyplus.disney.com/show/big-city-greens\n\nWatch Big City Greens on Disney Channel! And check out more Big City Greens videos here: https://www.youtube.com/playlist?list=PLiv1IUQDVSNLNIp9BCi2lCed64Apdj_yB\n\nFollow the offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice. Cricket’s natural curiosity and enthusiasm lead him and his family on epic journeys and into the hearts of his new neighbors.",
       "chapters": []
     }
   ]
