@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T11:19:19.536Z",
+  "generatedAt": "2026-09-12T10:44:25.206Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 69,
-  "distinctSourceCount": 69,
+  "score": 72,
+  "distinctSourceCount": 72,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -491,6 +491,27 @@
       "label": "norahjonesVEVO",
       "url": "https://www.youtube.com/channel/UCM11Z1jQPm07ImX4lqYmwqA",
       "firstSeenAt": "2026-09-11T11:17:59.056Z"
+    },
+    {
+      "id": "channel:UCaRAJGIa_nAbifSXzT70DMA",
+      "type": "channel",
+      "label": "REDVEVO",
+      "url": "https://www.youtube.com/channel/UCaRAJGIa_nAbifSXzT70DMA",
+      "firstSeenAt": "2026-09-12T10:42:58.059Z"
+    },
+    {
+      "id": "channel:UCypRipZQkVU_TZYa6WgSMvg",
+      "type": "channel",
+      "label": "CiaraVEVO",
+      "url": "https://www.youtube.com/channel/UCypRipZQkVU_TZYa6WgSMvg",
+      "firstSeenAt": "2026-09-12T10:43:01.078Z"
+    },
+    {
+      "id": "channel:UCI_b24RN0XviTJSjezOyoSQ",
+      "type": "channel",
+      "label": "BeaMillerVEVO",
+      "url": "https://www.youtube.com/channel/UCI_b24RN0XviTJSjezOyoSQ",
+      "firstSeenAt": "2026-09-12T10:43:06.334Z"
     }
   ],
   "recentItems": []

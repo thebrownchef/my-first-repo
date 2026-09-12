@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T11:19:19.536Z",
+  "generatedAt": "2026-09-12T10:44:25.206Z",
   "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
   "title": "CBS",
   "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 2.85,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "10 Tampa Bay News",
       "url": "https://www.youtube.com/channel/UCMYlXK0jyerVnc3dmz-vjCA",
       "firstSeenAt": "2026-09-07T12:28:18.064Z"
+    },
+    {
+      "id": "channel:UCry2gCVdntv6r661sKUiKXw",
+      "type": "channel",
+      "label": "WCCO - CBS Minnesota",
+      "url": "https://www.youtube.com/channel/UCry2gCVdntv6r661sKUiKXw",
+      "firstSeenAt": "2026-09-12T10:43:01.386Z"
     }
   ],
   "recentItems": [

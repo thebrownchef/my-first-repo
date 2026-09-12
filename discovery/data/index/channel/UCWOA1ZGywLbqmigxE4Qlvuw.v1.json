@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T11:19:19.536Z",
+  "generatedAt": "2026-09-12T10:44:25.206Z",
   "id": "UCWOA1ZGywLbqmigxE4Qlvuw",
   "title": "Netflix",
   "thumb": "https://yt3.ggpht.com/3b73AYEMMfa3SX5KJMeygio9smTPvrPrpicuQZbfQ_2DN7dV_ApiRM4CdYjSprEy1YYvt_9b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 1.8,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "British Stuff TV",
       "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
       "firstSeenAt": "2026-09-06T10:53:26.528Z"
+    },
+    {
+      "id": "channel:UCpInjhuJ1WUekcFeXPPyGGg",
+      "type": "channel",
+      "label": "Netflix Family",
+      "url": "https://www.youtube.com/channel/UCpInjhuJ1WUekcFeXPPyGGg",
+      "firstSeenAt": "2026-09-12T10:42:58.749Z"
     }
   ],
   "recentItems": [

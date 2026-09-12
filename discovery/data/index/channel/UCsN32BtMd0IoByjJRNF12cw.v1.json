@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T11:19:19.536Z",
+  "generatedAt": "2026-09-12T10:44:25.206Z",
   "id": "UCsN32BtMd0IoByjJRNF12cw",
   "title": "60 Minutes",
   "thumb": "https://yt3.ggpht.com/TqABNUxcOZskunKayOizy6ge4RekSFL7cCNxGO9Ct-J8sYOthNd5Lc6m4hrfzeHQikTFCFi3pQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.71,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "CBS Sunday Morning",
       "url": "https://www.youtube.com/channel/UCVT1tPkR-fUVlO652EcO3ow",
       "firstSeenAt": "2026-09-05T10:32:51.153Z"
+    },
+    {
+      "id": "channel:UCry2gCVdntv6r661sKUiKXw",
+      "type": "channel",
+      "label": "WCCO - CBS Minnesota",
+      "url": "https://www.youtube.com/channel/UCry2gCVdntv6r661sKUiKXw",
+      "firstSeenAt": "2026-09-12T10:43:01.386Z"
     }
   ],
   "recentItems": [

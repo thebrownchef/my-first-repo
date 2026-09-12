@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-12T10:44:25.206Z",
+  "id": "UC0vn8ISa4LKMunLbzaXLnOQ",
+  "title": "GBNews",
+  "thumb": "https://yt3.ggpht.com/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 44.85,
+  "sources": [
+    {
+      "id": "channel:UCN5Bw2dVHHok-OxHfIj0jZA",
+      "type": "channel",
+      "label": "British Stuff TV",
+      "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
+      "firstSeenAt": "2026-09-06T10:53:26.527Z"
+    },
+    {
+      "id": "channel:UCBNLxgS02jhM0Et7cM3oB-w",
+      "type": "channel",
+      "label": "Jacob Rees-Mogg",
+      "url": "https://www.youtube.com/channel/UCBNLxgS02jhM0Et7cM3oB-w",
+      "firstSeenAt": "2026-09-12T10:43:11.094Z"
+    }
+  ],
+  "recentItems": []
+}
