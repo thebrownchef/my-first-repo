@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T10:44:25.206Z",
+  "generatedAt": "2026-09-13T11:50:07.340Z",
   "id": "UCuGdYTMLZUhnEsStVlI_ueA",
   "title": "Susquehanna's Radio Archive",
   "thumb": "https://yt3.ggpht.com/QnLKwECYZ3TNcXW0vO_8rDGt5X-vO7H7meQtQ7v9unrclIe97AzI2aBnW-5ET0Tj1s0IUl4DbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Forward Broadcast Archive",
       "url": "https://www.youtube.com/channel/UC-rlKsywe_9iaFR371dyjJw",
       "firstSeenAt": "2026-09-09T11:19:56.079Z"
+    },
+    {
+      "id": "channel:UCjxi1zYR_m-vWiSh842oloA",
+      "type": "channel",
+      "label": "Emarsee",
+      "url": "https://www.youtube.com/channel/UCjxi1zYR_m-vWiSh842oloA",
+      "firstSeenAt": "2026-09-13T11:48:31.197Z"
     }
   ],
   "recentItems": [

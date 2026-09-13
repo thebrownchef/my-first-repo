@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-13T11:50:07.340Z",
+  "id": "UC-rlKsywe_9iaFR371dyjJw",
+  "title": "Forward Broadcast Archive",
+  "thumb": "https://yt3.ggpht.com/2xHIQHsvbAHY7Xpx4Qg0SE3Zy_JRD0ZmEmy30RYjdRsEZtrKjLMvBtvE2tupszrt4_766-lYGQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.12,
+  "sources": [
+    {
+      "id": "wiki:KSMG",
+      "type": "wikipedia",
+      "label": "KSMG",
+      "url": "https://en.wikipedia.org/wiki/KSMG",
+      "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "channel:UCjxi1zYR_m-vWiSh842oloA",
+      "type": "channel",
+      "label": "Emarsee",
+      "url": "https://www.youtube.com/channel/UCjxi1zYR_m-vWiSh842oloA",
+      "firstSeenAt": "2026-09-13T11:48:31.200Z"
+    }
+  ],
+  "recentItems": []
+}

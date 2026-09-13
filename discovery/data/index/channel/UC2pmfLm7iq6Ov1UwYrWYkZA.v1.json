@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T10:44:25.206Z",
+  "generatedAt": "2026-09-13T11:50:07.340Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 72,
-  "distinctSourceCount": 72,
+  "score": 75,
+  "distinctSourceCount": 75,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -512,6 +512,27 @@
       "label": "BeaMillerVEVO",
       "url": "https://www.youtube.com/channel/UCI_b24RN0XviTJSjezOyoSQ",
       "firstSeenAt": "2026-09-12T10:43:06.334Z"
+    },
+    {
+      "id": "channel:UCOhtMAg7xh8wv_wUHMgFc-Q",
+      "type": "channel",
+      "label": "PostMaloneVEVO",
+      "url": "https://www.youtube.com/channel/UCOhtMAg7xh8wv_wUHMgFc-Q",
+      "firstSeenAt": "2026-09-13T11:48:30.131Z"
+    },
+    {
+      "id": "channel:UCiQtJ9wVv8R-x7GKHzgZu8A",
+      "type": "channel",
+      "label": "MorganWallenVEVO",
+      "url": "https://www.youtube.com/channel/UCiQtJ9wVv8R-x7GKHzgZu8A",
+      "firstSeenAt": "2026-09-13T11:48:31.410Z"
+    },
+    {
+      "id": "channel:UCrswvM95PKiwXlhzofmj32A",
+      "type": "channel",
+      "label": "ReverendMakersVEVO",
+      "url": "https://www.youtube.com/channel/UCrswvM95PKiwXlhzofmj32A",
+      "firstSeenAt": "2026-09-13T11:48:38.999Z"
     }
   ],
   "recentItems": []

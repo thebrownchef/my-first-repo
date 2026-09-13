@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T10:44:25.206Z",
+  "generatedAt": "2026-09-13T11:50:07.340Z",
   "id": "UC6wuBTZV-S_IrKX-3GGo6Vw",
   "title": "TopicalTVArchives",
   "thumb": "https://yt3.ggpht.com/JlYt41djygISIQ2wE5nSp4yn1YqPR_fbLx5FB6dVeRs1iDsAUhC-d2LhRQiPQD0nUKYREqhIBe0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.47,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Forward Broadcast Archive",
       "url": "https://www.youtube.com/channel/UC-rlKsywe_9iaFR371dyjJw",
       "firstSeenAt": "2026-09-09T11:19:56.078Z"
+    },
+    {
+      "id": "channel:UCjxi1zYR_m-vWiSh842oloA",
+      "type": "channel",
+      "label": "Emarsee",
+      "url": "https://www.youtube.com/channel/UCjxi1zYR_m-vWiSh842oloA",
+      "firstSeenAt": "2026-09-13T11:48:31.196Z"
     }
   ],
   "recentItems": []

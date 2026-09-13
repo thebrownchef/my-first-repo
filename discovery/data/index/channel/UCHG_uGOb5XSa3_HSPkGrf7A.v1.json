@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T10:44:25.206Z",
+  "generatedAt": "2026-09-13T11:50:07.340Z",
   "id": "UCHG_uGOb5XSa3_HSPkGrf7A",
   "title": "Universal Parks News Today",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l9Nh3cEU7m1USOmYSKAYUFcq8FsIUIXl66YwsgjJNjmw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.6,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.758Z"
+    },
+    {
+      "id": "channel:UCRIVd5Ci1bTQqJB_T4q_Jgg",
+      "type": "channel",
+      "label": "WDW News Today",
+      "url": "https://www.youtube.com/channel/UCRIVd5Ci1bTQqJB_T4q_Jgg",
+      "firstSeenAt": "2026-09-13T11:48:39.201Z"
     }
   ],
   "recentItems": [

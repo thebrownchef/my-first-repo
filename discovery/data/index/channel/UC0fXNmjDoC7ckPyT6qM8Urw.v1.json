@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-13T11:50:07.340Z",
+  "id": "UC0fXNmjDoC7ckPyT6qM8Urw",
+  "title": "CBeebies",
+  "thumb": "https://yt3.ggpht.com/98R0DKiASF3R0kDUmj4UWIZ8ftQ6YzSk4KE0DXfTwPLCr8ixzd9GYJvkE7j-xE2jHMm0OCAjtMM=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.86,
+  "sources": [
+    {
+      "id": "channel:UCCj956IF62FbT7Gouszaj9w",
+      "type": "channel",
+      "label": "BBC",
+      "url": "https://www.youtube.com/channel/UCCj956IF62FbT7Gouszaj9w",
+      "firstSeenAt": "2026-09-02T11:15:24.115Z"
+    },
+    {
+      "id": "channel:UCF59R3Q5iPLX0F1S7BL09rw",
+      "type": "channel",
+      "label": "CBBC",
+      "url": "https://www.youtube.com/channel/UCF59R3Q5iPLX0F1S7BL09rw",
+      "firstSeenAt": "2026-09-13T11:48:29.931Z"
+    }
+  ],
+  "recentItems": []
+}
