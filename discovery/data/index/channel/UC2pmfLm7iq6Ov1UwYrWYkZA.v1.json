@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T11:50:07.340Z",
+  "generatedAt": "2026-09-14T12:43:51.063Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 75,
-  "distinctSourceCount": 75,
+  "score": 76,
+  "distinctSourceCount": 76,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -533,6 +533,13 @@
       "label": "ReverendMakersVEVO",
       "url": "https://www.youtube.com/channel/UCrswvM95PKiwXlhzofmj32A",
       "firstSeenAt": "2026-09-13T11:48:38.999Z"
+    },
+    {
+      "id": "channel:UCbSZmyCsCMsMwCr3kHnTl6w",
+      "type": "channel",
+      "label": "MIKAVEVO",
+      "url": "https://www.youtube.com/channel/UCbSZmyCsCMsMwCr3kHnTl6w",
+      "firstSeenAt": "2026-09-14T12:42:28.556Z"
     }
   ],
   "recentItems": []
