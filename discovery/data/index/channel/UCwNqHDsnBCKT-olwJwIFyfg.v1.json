@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:43:51.063Z",
+  "generatedAt": "2026-09-15T11:42:58.829Z",
   "id": "UCwNqHDsnBCKT-olwJwIFyfg",
   "title": "FOX Sports",
   "thumb": "https://yt3.ggpht.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 3.28,
   "sources": [
@@ -29,9 +29,25 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.760Z"
+    },
+    {
+      "id": "channel:UCHfF8wFnipMeDpJf8OmMxDg",
+      "type": "channel",
+      "label": "FOX 11 Los Angeles",
+      "url": "https://www.youtube.com/channel/UCHfF8wFnipMeDpJf8OmMxDg",
+      "firstSeenAt": "2026-09-15T11:41:57.625Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "TJKHhEV63hk",
+      "title": "FOX Sports CEO Eric Shanks challenges Matt Leinart & Alex Palou to the ALS Ice Bucket Challenge",
+      "publishedAt": "2026-09-15T00:43:20Z",
+      "durationSec": 87,
+      "thumb": "https://i.ytimg.com/vi/TJKHhEV63hk/mqdefault.jpg",
+      "description": "FOX Sports CEO & Executive Producer Eric Shanks challenges 2004 Heisman Trophy Winner and BIG NOON KICKOFF's own Matt Leinart as well as 2021, 2023, 2024, 2025 and 2026 INDYCAR champion Alex Palou to the ALS Ice Bucket Challenge.\n\n#FOXSports #CFB #INDYCAR #ALSIceBucketChallenge\n\nAbout FOX Sports:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Sports' YouTube channel provides the sports content that fans are hungry for. FOX Sports coverage includes: College Basketball, College Football, MLB, NASCAR, NFL, Soccer, and the FIFA World Cup.\n\nwww.youtube.com/@foxsports",
+      "chapters": []
+    },
     {
       "id": "aMMwrHflL4Q",
       "title": "President George W. Bush threw first pitch at Yankee Stadium 25 years ago on 9/11 #MLB #Yankees #911",
@@ -39,15 +55,6 @@
       "durationSec": 86,
       "thumb": "https://i.ytimg.com/vi/aMMwrHflL4Q/mqdefault.jpg",
       "description": "#FOXSports #MLB #Yankees\n\nAbout FOX Sports:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Sports' YouTube channel provides the sports content that fans are hungry for. FOX Sports coverage includes: College Basketball, College Football, MLB, NASCAR, NFL, Soccer, and the FIFA World Cup.\n\nwww.youtube.com/@foxsports",
-      "chapters": []
-    },
-    {
-      "id": "Ox8E_P2WWzo",
-      "title": "21-year-old Luis Lara wins it for the Brewers! #MLB #BREWERS",
-      "publishedAt": "2026-09-09T17:33:49Z",
-      "durationSec": 66,
-      "thumb": "https://i.ytimg.com/vi/Ox8E_P2WWzo/mqdefault.jpg",
-      "description": "#FOXSports #MLB #Brewers \n\nAbout FOX Sports:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Sports' YouTube channel provides the sports content that fans are hungry for. FOX Sports coverage includes: College Basketball, College Football, MLB, NASCAR, NFL, Soccer, and the FIFA World Cup.\n\nwww.youtube.com/@foxsports",
       "chapters": []
     }
   ]

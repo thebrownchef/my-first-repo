@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-15T11:42:58.829Z",
+  "id": "UC_IpSl6O_-IRAA6fiNs05Gg",
+  "title": "ABC",
+  "thumb": "https://yt3.ggpht.com/NJ-cv_7kH_nSYWMGbyU1bkuvgaAh_l8tLoxFtsLWUm6wbEap0VFzc58Qv6EbAaAJ_sQ_b0GuGA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 2.37,
+  "sources": [
+    {
+      "id": "channel:UCYUbNjkuE4lsr2v1Id2O1oA",
+      "type": "channel",
+      "label": "ABC7 News Bay Area",
+      "url": "https://www.youtube.com/channel/UCYUbNjkuE4lsr2v1Id2O1oA",
+      "firstSeenAt": "2026-09-14T12:42:20.697Z"
+    },
+    {
+      "id": "channel:UCAMPco9PqjBbI_MLsDOO4Jw",
+      "type": "channel",
+      "label": "American Idol",
+      "url": "https://www.youtube.com/channel/UCAMPco9PqjBbI_MLsDOO4Jw",
+      "firstSeenAt": "2026-09-15T11:41:51.256Z"
+    }
+  ],
+  "recentItems": []
+}

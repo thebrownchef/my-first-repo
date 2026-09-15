@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:43:51.063Z",
+  "generatedAt": "2026-09-15T11:42:58.829Z",
   "id": "UCa6vGFO9ty8v5KZJXQxdhaw",
   "title": "Jimmy Kimmel Live",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhbMFP_RRAtTgX-58mKKhuVG_P-qESOBnMDiPE0vhJgEMm=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.11,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "ABC7 News Bay Area",
       "url": "https://www.youtube.com/channel/UCYUbNjkuE4lsr2v1Id2O1oA",
       "firstSeenAt": "2026-09-14T12:42:20.697Z"
+    },
+    {
+      "id": "channel:UCAMPco9PqjBbI_MLsDOO4Jw",
+      "type": "channel",
+      "label": "American Idol",
+      "url": "https://www.youtube.com/channel/UCAMPco9PqjBbI_MLsDOO4Jw",
+      "firstSeenAt": "2026-09-15T11:41:51.256Z"
     }
   ],
   "recentItems": [

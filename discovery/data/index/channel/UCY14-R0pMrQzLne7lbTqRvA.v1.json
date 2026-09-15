@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:43:51.063Z",
+  "generatedAt": "2026-09-15T11:42:58.829Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "JorjaSmithVEVO",
       "url": "https://www.youtube.com/channel/UCSFBNlkwFf7ZQO6sTk9Q-lw",
       "firstSeenAt": "2026-09-08T11:15:53.138Z"
+    },
+    {
+      "id": "channel:UCX-3R99NH4nKAubjlSiNhcw",
+      "type": "channel",
+      "label": "PaulMcCartneyVEVO",
+      "url": "https://www.youtube.com/channel/UCX-3R99NH4nKAubjlSiNhcw",
+      "firstSeenAt": "2026-09-15T11:41:48.649Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:43:51.063Z",
+  "generatedAt": "2026-09-15T11:42:58.829Z",
   "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
   "title": "Veritasium",
   "thumb": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Physics Girl",
       "url": "https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA",
       "firstSeenAt": "2026-09-12T10:42:55.472Z"
+    },
+    {
+      "id": "channel:UCYeF244yNGuFefuFKqxIAXw",
+      "type": "channel",
+      "label": "The Royal Institution",
+      "url": "https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw",
+      "firstSeenAt": "2026-09-15T11:41:47.173Z"
     }
   ],
   "recentItems": []

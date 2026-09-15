@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:43:51.063Z",
+  "generatedAt": "2026-09-15T11:42:58.829Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "PostMaloneVEVO",
       "url": "https://www.youtube.com/channel/UCOhtMAg7xh8wv_wUHMgFc-Q",
       "firstSeenAt": "2026-09-13T11:48:30.131Z"
+    },
+    {
+      "id": "channel:UCGnjeahCJW1AF34HBmQTJ-Q",
+      "type": "channel",
+      "label": "shakiraVEVO",
+      "url": "https://www.youtube.com/channel/UCGnjeahCJW1AF34HBmQTJ-Q",
+      "firstSeenAt": "2026-09-15T11:41:55.157Z"
     }
   ],
   "recentItems": []

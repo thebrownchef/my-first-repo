@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:43:51.063Z",
+  "generatedAt": "2026-09-15T11:42:58.829Z",
   "id": "UCEY1ejsweY4DgMwOVJeEaBA",
   "title": "The X Factor UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lT-h0rLAAQsDx5PLwhd98_v69lvoZ_FZT7DasSxATTvv4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.83,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "William Rush (actor)",
       "url": "https://en.wikipedia.org/wiki/William_Rush_(actor)",
       "firstSeenAt": "2026-09-05T10:32:35.840Z"
+    },
+    {
+      "id": "channel:UCAMPco9PqjBbI_MLsDOO4Jw",
+      "type": "channel",
+      "label": "American Idol",
+      "url": "https://www.youtube.com/channel/UCAMPco9PqjBbI_MLsDOO4Jw",
+      "firstSeenAt": "2026-09-15T11:41:51.257Z"
     }
   ],
   "recentItems": []
