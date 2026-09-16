@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "id": "UCx554p1Bu_Mp1q0H_bEtZ1Q",
+  "title": "Rotten Tomatoes Family",
+  "thumb": "https://yt3.ggpht.com/5Ht2nCrCZiqE23cgyA8szs12VWnB4sAbgegKL_T0MQhzewDQ-oknClFYxCySyz91fTZA1SdGFuw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.47,
+  "sources": [
+    {
+      "id": "channel:UCi8e0iOVk1fEOogdfu4YgfA",
+      "type": "channel",
+      "label": "Rotten Tomatoes Trailers",
+      "url": "https://www.youtube.com/channel/UCi8e0iOVk1fEOogdfu4YgfA",
+      "firstSeenAt": "2026-08-27T07:14:28.115Z"
+    },
+    {
+      "id": "channel:UCMawOL0n6QekxpuVanT_KRA",
+      "type": "channel",
+      "label": "Fandango",
+      "url": "https://www.youtube.com/channel/UCMawOL0n6QekxpuVanT_KRA",
+      "firstSeenAt": "2026-09-16T11:29:09.142Z"
+    },
+    {
+      "id": "channel:UC3gNmTGu-TTbFPpfSs5kNkg",
+      "type": "channel",
+      "label": "Movieclips",
+      "url": "https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg",
+      "firstSeenAt": "2026-09-16T11:29:09.216Z"
+    }
+  ],
+  "recentItems": []
+}

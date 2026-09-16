@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T11:42:58.829Z",
+  "generatedAt": "2026-09-16T11:30:24.422Z",
   "id": "UCE2606prvXQc_noEqKxVJXA",
   "title": "ABS-CBN News",
   "thumb": "https://yt3.ggpht.com/LtCFX_IgcqOXKsqhTYjkMwMTFo42j6WJCehxqSFNq3fWyr6io-3cdQhh5KC3evcxltETifDkuQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 48.24,
   "sources": [
@@ -64,61 +64,100 @@
       "label": "Push",
       "url": "https://www.youtube.com/channel/UCgSDahpkQlcCtvJD4gZXQKg",
       "firstSeenAt": "2026-09-10T11:16:18.796Z"
+    },
+    {
+      "id": "channel:UCVXwGrb9hiA8Dr6NHa5ekQQ",
+      "type": "channel",
+      "label": "CineBro",
+      "url": "https://www.youtube.com/channel/UCVXwGrb9hiA8Dr6NHa5ekQQ",
+      "firstSeenAt": "2026-09-16T11:29:05.541Z"
+    },
+    {
+      "id": "channel:UCOWmwRo_5E7d4qfpW5tQtpw",
+      "type": "channel",
+      "label": "ABS-CBN Lifestyle",
+      "url": "https://www.youtube.com/channel/UCOWmwRo_5E7d4qfpW5tQtpw",
+      "firstSeenAt": "2026-09-16T11:29:05.676Z"
+    },
+    {
+      "id": "channel:UCzrdtk6p4SaakMz2ZmOkCQQ",
+      "type": "channel",
+      "label": "ABS-CBN Sports",
+      "url": "https://www.youtube.com/channel/UCzrdtk6p4SaakMz2ZmOkCQQ",
+      "firstSeenAt": "2026-09-16T11:29:05.899Z"
     }
   ],
   "recentItems": [
     {
-      "id": "FocqR7D64GI",
-      "title": "LIVE: Senate holds hearing on 2027 budget of TESDA | September 15, 2026",
-      "publishedAt": "2026-09-15T11:31:53Z",
-      "durationSec": 10701,
-      "thumb": "https://i.ytimg.com/vi/FocqR7D64GI/mqdefault.jpg",
+      "id": "b0669_cohS0",
+      "title": "FULL: Unang pagharap ni Rodrigo Duterte sa ICC status conference | ABS-CBN News",
+      "publishedAt": "2026-09-16T11:11:07Z",
+      "durationSec": 1270,
+      "thumb": "https://i.ytimg.com/vi/b0669_cohS0/mqdefault.jpg",
+      "description": "The ICC held on Wednesday, September 16 the third status conference for the crimes against humanity case of ex-president Rodrigo Duterte. This was also the first time Duterte physically appeared in court since he was detained in The Hague. \n\n #ABSCBNNews #LatestNews",
+      "chapters": []
+    },
+    {
+      "id": "2wf9N_rFvfs",
+      "title": "Reaksyon ng pamilya ng EJK victims nang ipakita si Duterte sa ICC livestream",
+      "publishedAt": "2026-09-16T10:53:24Z",
+      "durationSec": 112,
+      "thumb": "https://i.ytimg.com/vi/2wf9N_rFvfs/mqdefault.jpg",
+      "description": "Napasigaw ang mga pamilya ng mga biktima ng drug war nang makitang dumalo sa status conference ng International Criminal Court si dating Pangulong Rodrigo Duterte ngayong Miyerkules, Setyembre 16 para sa kinahaharap na kasong crimes against humanity. — Ulat ni Jessie Cruzat, ABS-CBN News\n\nFor more ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgy6PGn5--qRRixkhltg5hE\n\nFor more Breaking News & Live Coverage videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgG2ln-vtKXb-oLlGEZc3sR\n\nFor more latest news and analysis from ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmjA30dKUQCDlG7vy38QQk-Y\n\nFor more News Digital News Raw Cuts, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmiOw9mcoSbzoyp25AAZAAdn\n\nSubscribe to the ABS-CBN News channel! - http://bit.ly/TheABSCBNNews\n\nWatch full episodes on iWant for FREE here:\nhttps://iwanttfc.com\n\nVisit our website at https://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews \n\n #ABSCBNNews #LatestNews",
+      "chapters": []
+    },
+    {
+      "id": "fxebYWh0jGI",
+      "title": "'A mess!' Defense team ni PRRD sa ICC inireklamo ang umano'y 62,500 dokumento ng prosekusyon",
+      "publishedAt": "2026-09-16T10:52:06Z",
+      "durationSec": 1270,
+      "thumb": "https://i.ytimg.com/vi/fxebYWh0jGI/mqdefault.jpg",
+      "description": "Inireklamo ng defense team ni ex-president Rodrigo Duterte sa third status conference ng kaniyang kaso sa ICC nitong Miyerkoles (Setyembre 16) ang umano'y 62,500 na dokumentong nais isumite ng prosekusyon para magamit sa paglilitis.\n\nAyon kay lead defense counsel ni Duterte na si Peter Haynes, nasa humigit-kumulang 324,000 na pahina ang naturang mga disclosure. Aniya, \"unworkable\" at \"impossible\" ang dami nito. \n\n #ABSCBNNews #LatestNews",
+      "chapters": []
+    },
+    {
+      "id": "zYBhuaL_yqc",
+      "title": "2 arestado sa Makati dahil sa pag-alok ng pekeng notaryo",
+      "publishedAt": "2026-09-16T10:39:22Z",
+      "durationSec": 272,
+      "thumb": "https://i.ytimg.com/vi/zYBhuaL_yqc/mqdefault.jpg",
+      "description": "Inaresto ng National Bureau of Investigation Organized and Transnational Crime Division (NBI-OTCD) ang dalawang indibidwal na nagpapanggap na abogado sa Makati City.\n\nHuli sa akto ang mga suspek habang ilegal na ginagamit ang dry seal at notarial commission ng isang lisensyadong abogado. \n\nNaabutan pa sa lugar ang ilang estudyante at empleyado na walang kamalay-malay na nabiktima na pala ng pekeng serbisyong notaryo.\n\nAyon sa abogadong nabiktima, inalerto siya ng task force ng korte matapos madiskubreng ginagamit nang walang pahintulot ang kanyang notarial commission. \n\nAgad siyang nagpatulong sa NBI para maaresto ang mga suspek.\n\nDagdag pa ng abogado, maaari itong magdulot sa kanya ng mga problemang legal at administratibo kung may mga dokumentong manonotaryohan gamit ang kanyang pagkakakilanlan nang hindi niya nalalaman o pinahihintulutan.\n\nPinayuhan din niya ang publiko na tiyaking lehitimo ang abogado kapag magpapanotaryo.\n\nFor more ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgy6PGn5--qRRixkhltg5hE\n\nFor more Breaking News & Live Coverage videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgG2ln-vtKXb-oLlGEZc3sR\n\nFor more latest news and analysis from ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmjA30dKUQCDlG7vy38QQk-Y\n\nFor more News Digital News Raw Cuts, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmiOw9mcoSbzoyp25AAZAAdn\n\nSubscribe to the ABS-CBN News channel! - http://bit.ly/TheABSCBNNews\n\nWatch full episodes on iWant for FREE here:\nhttps://iwanttfc.com\n\nVisit our website at https://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews \n\n #ABSCBNNews #LatestNews",
+      "chapters": []
+    },
+    {
+      "id": "EDz90Yyi7_A",
+      "title": "Parents of Divine Adili arrive to watch Ateneo's game vs. UE | ABS-CBN News",
+      "publishedAt": "2026-09-16T10:22:55Z",
+      "durationSec": 94,
+      "thumb": "https://i.ytimg.com/vi/EDz90Yyi7_A/mqdefault.jpg",
+      "description": "The parents of Divine Adili, Ifeoma and Elias, are in attendance at the first game of the Ateneo Blue Eagles in the UAAP Season 89 men's basketball tournament on Wednesday, September 16, 2026.\n\nThey sat behind the Blue Eagles’ bench, beside Ateneo de Manila University President Fr. Bobby Yap SJ.\n\nREAD: https://www.abs-cbn.com/sports/basketball/2026/9/16/uaap-ateneo-dismantles-ue-to-honor-bobet-divine-100-days-after-aurora-tragedy-1722 \n\n #ABSCBNNews #LatestNews",
+      "chapters": []
+    },
+    {
+      "id": "Nbfhq285uCI",
+      "title": "LIVE: Ex-Pres. Duterte attends ICC 3rd Status Conference | ABS-CBN News (Sept 16)",
+      "publishedAt": "2026-09-16T10:21:06Z",
+      "durationSec": 9755,
+      "thumb": "https://i.ytimg.com/vi/Nbfhq285uCI/mqdefault.jpg",
+      "description": "Tutukan ang live coverage ng ABS-CBN News sa Third Status Conference ng International Criminal Court (ICC) sa The Hague, Netherlands kaugnay ng kaso ni Former President Rodrigo Duterte ngayong Miyerkules, Setyembre 16, 2026.\n\nSubscribe to the ABS-CBN News channel! - https://www.youtube.com/@abscbnnews\n\nWatch full episodes on iWant for FREE here:\nhttp://iwanttfc.com\n\nVisit our website at http://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTikTok: https://www.tiktok.com/@abscbnnews\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews\n\n#ABS-CBNNews\n#NewsDigital\n#LatestNews\n#PhilippineNews \n#DuterteSaICC\n#ICCTrial\n#RodrigoDuterte\n#BreakingNewsPH",
+      "chapters": []
+    },
+    {
+      "id": "ZpxMFU51tcc",
+      "title": "LIVE: Senate of the Philippines holds plenary session | ABS-CBN News (September 16, 2026)",
+      "publishedAt": "2026-09-16T10:13:55Z",
+      "durationSec": 3541,
+      "thumb": "https://i.ytimg.com/vi/ZpxMFU51tcc/mqdefault.jpg",
       "description": "Subscribe to the ABS-CBN News channel! - https://www.youtube.com/@abscbnnews\n\nWatch full episodes on iWant for FREE here:\nhttp://iwanttfc.com\n\nVisit our website at http://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTikTok: https://www.tiktok.com/@abscbnnews\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews\n\n#ABS-CBNNews\n#NewsDigital\n#LatestNews\n#PhilippineNews",
       "chapters": []
     },
     {
-      "id": "4mP7gr7xjc8",
-      "title": "Thunderstorms, ITCZ magpapaulan sa PH",
-      "publishedAt": "2026-09-15T11:26:52Z",
-      "durationSec": 207,
-      "thumb": "https://i.ytimg.com/vi/4mP7gr7xjc8/mqdefault.jpg",
-      "description": "Bagaman nasa monsoon break ang Pilipinas dahil hindi umaabot sa bansa ang habagat, may pag-ulan sa Luzon at Metro Manila dahil sa thunderstorms, at intertropical convergence zone (ITCZ) naman ang magpapaulan sa Visayas at Mindanao.\n \nPosibleng hatakin ng potensiyal na low pressure area sa West Philippine Sea ang habagat na magpapaulan sa southern Luzon, Visayas, at Mindanao. #WeatherPatrol\n\nFor more ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgy6PGn5--qRRixkhltg5hE\n\nFor more Breaking News & Live Coverage videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgG2ln-vtKXb-oLlGEZc3sR\n\nFor more latest news and analysis from ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmjA30dKUQCDlG7vy38QQk-Y\n\nFor more News Digital News Raw Cuts, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmiOw9mcoSbzoyp25AAZAAdn\n\nSubscribe to the ABS-CBN News channel! - http://bit.ly/TheABSCBNNews\n\nWatch full episodes on iWant for FREE here:\nhttps://iwanttfc.com\n\nVisit our website at https://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews \n\n #ABSCBNNews #LatestNews",
-      "chapters": []
-    },
-    {
-      "id": "mzuTWeio_UI",
-      "title": "TV PATROL: Enzo Pastor slay case binalikan sa 'Philippines’ Most Shocking Stories'",
-      "publishedAt": "2026-09-15T11:26:06Z",
-      "durationSec": 131,
-      "thumb": "https://i.ytimg.com/vi/mzuTWeio_UI/mqdefault.jpg",
-      "description": "Yumanig sa mundo ng karera at buong motorsports community ang pagpaslang sa race car driver na si Enzo Pastor noong 2014. Nangyari ang pagpatay sa gitna ng trapiko at anggulong love triangle ang sinsilip na motibo! Yan ang babalikang kwento sa Philippines’ Most Shocking Stories. TV Patrol, Martes, 15 September 2026.\n\nFor more ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgy6PGn5--qRRixkhltg5hE\n\nFor more Breaking News & Live Coverage videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgG2ln-vtKXb-oLlGEZc3sR\n\nFor more latest news and analysis from ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmjA30dKUQCDlG7vy38QQk-Y\n\nFor more News Digital News Raw Cuts, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmiOw9mcoSbzoyp25AAZAAdn\n\nSubscribe to the ABS-CBN News channel! - http://bit.ly/TheABSCBNNews\n\nWatch full episodes on iWant for FREE here:\nhttps://iwanttfc.com\n\nVisit our website at https://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews \n\n #ABSCBNNews #LatestNews",
-      "chapters": []
-    },
-    {
-      "id": "bc87R-Ue0Nw",
-      "title": "5 of 9 Lanao del Sur parliamentary seats proclaimed",
-      "publishedAt": "2026-09-15T10:29:09Z",
-      "durationSec": 103,
-      "thumb": "https://i.ytimg.com/vi/bc87R-Ue0Nw/mqdefault.jpg",
-      "description": "The first Bangsamoro parliamentary election is now moving into the counting and proclamation phase, with vote transmission already nearly complete.\n\nFor more ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgy6PGn5--qRRixkhltg5hE\n\nFor more Breaking News & Live Coverage videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgG2ln-vtKXb-oLlGEZc3sR\n\nFor more latest news and analysis from ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmjA30dKUQCDlG7vy38QQk-Y\n\nFor more News Digital News Raw Cuts, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmiOw9mcoSbzoyp25AAZAAdn\n\nSubscribe to the ABS-CBN News channel! - http://bit.ly/TheABSCBNNews\n\nWatch full episodes on iWant for FREE here:\nhttps://iwanttfc.com\n\nVisit our website at https://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews \n\n #ABSCBNNews #LatestNews",
-      "chapters": []
-    },
-    {
-      "id": "G-BBU1Q7ebg",
-      "title": "What to expect in third status conference of Duterte's case in ICC | ANC",
-      "publishedAt": "2026-09-15T10:15:27Z",
-      "durationSec": 504,
-      "thumb": "https://i.ytimg.com/vi/G-BBU1Q7ebg/mqdefault.jpg",
-      "description": "The ICC trial chamber will hold on Wednesday, September 16, the third status conference on the crimes against humanity case against ex-president Rodrigo Duterte.",
-      "chapters": []
-    },
-    {
-      "id": "sfhhPLEmPhA",
-      "title": "House reps urge VP Sara, husband to testify in impeachment trial",
-      "publishedAt": "2026-09-15T10:13:50Z",
-      "durationSec": 99,
-      "thumb": "https://i.ytimg.com/vi/sfhhPLEmPhA/mqdefault.jpg",
-      "description": "Several House lawmakers urged Vice President Sara Duterte and her husband Manases Carpio to personally appear before the impeachment court.\n\nFor more ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgy6PGn5--qRRixkhltg5hE\n\nFor more Breaking News & Live Coverage videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgG2ln-vtKXb-oLlGEZc3sR\n\nFor more latest news and analysis from ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmjA30dKUQCDlG7vy38QQk-Y\n\nFor more News Digital News Raw Cuts, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmiOw9mcoSbzoyp25AAZAAdn\n\nSubscribe to the ABS-CBN News channel! - http://bit.ly/TheABSCBNNews\n\nWatch full episodes on iWant for FREE here:\nhttps://iwanttfc.com\n\nVisit our website at https://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews \n\n #ABSCBNNews #LatestNews",
+      "id": "1PSTGW2idq4",
+      "title": "Rodrigo Duterte personally faces ICC proceedings for the first time",
+      "publishedAt": "2026-09-16T10:05:56Z",
+      "durationSec": 725,
+      "thumb": "https://i.ytimg.com/vi/1PSTGW2idq4/mqdefault.jpg",
+      "description": "Ex-Philippine president Rodrigo Duterte appeared in the third status conference of his crimes against humanity case in the International Criminal Court on Wednesday, marking his first personal attendance of proceedings of the Hague-based tribunal.\n\nFor more ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgy6PGn5--qRRixkhltg5hE\n\nFor more Breaking News & Live Coverage videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmgG2ln-vtKXb-oLlGEZc3sR\n\nFor more latest news and analysis from ABS-CBN News videos, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmjA30dKUQCDlG7vy38QQk-Y\n\nFor more News Digital News Raw Cuts, click the link below:\nhttps://www.youtube.com/playlist?list=PLgyY1WylJUmiOw9mcoSbzoyp25AAZAAdn\n\nSubscribe to the ABS-CBN News channel! - http://bit.ly/TheABSCBNNews\n\nWatch full episodes on iWant for FREE here:\nhttps://iwanttfc.com\n\nVisit our website at https://news.abs-cbn.com\nFacebook: https://www.facebook.com/abscbnNEWS\nTwitter: https://twitter.com/abscbnnews\nInstagram: https://www.instagram.com/abscbnnews \n\n #ABSCBNNews #LatestNews",
       "chapters": []
     }
   ]

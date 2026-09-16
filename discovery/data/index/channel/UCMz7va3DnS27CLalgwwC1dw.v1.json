@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "id": "UCMz7va3DnS27CLalgwwC1dw",
+  "title": "FYE Channel (For Your Entertainment)",
+  "thumb": "https://yt3.ggpht.com/fYsSYX6EDL850cITukVngBqobZp51sRcg_ufmZ3DoRlTFuxMY0olEgqojjO5B0M4WrMKWhn_qmY=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.26,
+  "sources": [
+    {
+      "id": "channel:UCgSDahpkQlcCtvJD4gZXQKg",
+      "type": "channel",
+      "label": "Push",
+      "url": "https://www.youtube.com/channel/UCgSDahpkQlcCtvJD4gZXQKg",
+      "firstSeenAt": "2026-09-10T11:16:18.797Z"
+    },
+    {
+      "id": "channel:UCOWmwRo_5E7d4qfpW5tQtpw",
+      "type": "channel",
+      "label": "ABS-CBN Lifestyle",
+      "url": "https://www.youtube.com/channel/UCOWmwRo_5E7d4qfpW5tQtpw",
+      "firstSeenAt": "2026-09-16T11:29:05.677Z"
+    }
+  ],
+  "recentItems": []
+}

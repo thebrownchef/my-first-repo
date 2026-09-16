@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "id": "UC11mR29KBs1ftnbNhyx4O3w",
+  "title": "The Newsreel Archive",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kJ80QV6pJG9AT8A1R9ILVj0sy6m0BzlAjBmLy7rWU87g=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "channel:UCk8pVOnlzByean1RmUJOeCw",
+      "type": "channel",
+      "label": "travelfilmarchive",
+      "url": "https://www.youtube.com/channel/UCk8pVOnlzByean1RmUJOeCw",
+      "firstSeenAt": "2026-08-27T07:14:12.656Z"
+    },
+    {
+      "id": "channel:UCFlZXArsrISgZxcupV1uQxg",
+      "type": "channel",
+      "label": "industryfilmarchive",
+      "url": "https://www.youtube.com/channel/UCFlZXArsrISgZxcupV1uQxg",
+      "firstSeenAt": "2026-09-16T11:29:08.356Z"
+    },
+    {
+      "id": "channel:UC-1kpTOC-23yYf2cCsfRTyg",
+      "type": "channel",
+      "label": "foodfilmarchive",
+      "url": "https://www.youtube.com/channel/UC-1kpTOC-23yYf2cCsfRTyg",
+      "firstSeenAt": "2026-09-16T11:29:08.485Z"
+    }
+  ],
+  "recentItems": []
+}

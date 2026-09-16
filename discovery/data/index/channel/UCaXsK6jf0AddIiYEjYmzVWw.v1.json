@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T11:42:58.829Z",
+  "generatedAt": "2026-09-16T11:30:24.422Z",
   "id": "UCaXsK6jf0AddIiYEjYmzVWw",
   "title": "Rocky Mountain PBS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nc5keZssCQY26AyapPPh2He_7D0wh_iV6sGRYYW9uZjjs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.51,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.754Z"
+    },
+    {
+      "id": "channel:UC_IW14Q7yOLnmAKwRVGzEiA",
+      "type": "channel",
+      "label": "KUVO JAZZ",
+      "url": "https://www.youtube.com/channel/UC_IW14Q7yOLnmAKwRVGzEiA",
+      "firstSeenAt": "2026-09-16T11:29:07.350Z"
     }
   ],
   "recentItems": []

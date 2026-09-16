@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T11:42:58.829Z",
+  "generatedAt": "2026-09-16T11:30:24.422Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "PaulMcCartneyVEVO",
       "url": "https://www.youtube.com/channel/UCX-3R99NH4nKAubjlSiNhcw",
       "firstSeenAt": "2026-09-15T11:41:48.649Z"
+    },
+    {
+      "id": "channel:UCdOcBpu5O2V0JhFFs9k-Ouw",
+      "type": "channel",
+      "label": "HozierVEVO",
+      "url": "https://www.youtube.com/channel/UCdOcBpu5O2V0JhFFs9k-Ouw",
+      "firstSeenAt": "2026-09-16T11:29:17.832Z"
     }
   ],
   "recentItems": [

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "id": "UC7nrQB0dRxdQpH8-y8glEDw",
+  "title": "World Cafe",
+  "thumb": "https://yt3.ggpht.com/0iQCbEyvH415cNmod_rJp4vvhDQmuzhuL7xOc-NaoCRDVSP6VAjqqeLJWULaT5yViVri8pm5BlA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.31,
+  "sources": [
+    {
+      "id": "channel:UC4eYXhJI4-7wSWc8UNRwD4A",
+      "type": "channel",
+      "label": "NPR Music",
+      "url": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
+      "firstSeenAt": "2026-08-27T07:14:12.191Z"
+    },
+    {
+      "id": "channel:UCSDv-xyaQVzvepzYAD3yH3A",
+      "type": "channel",
+      "label": "WXPN",
+      "url": "https://www.youtube.com/channel/UCSDv-xyaQVzvepzYAD3yH3A",
+      "firstSeenAt": "2026-09-16T11:29:06.813Z"
+    },
+    {
+      "id": "channel:UCJbLZEAM8CX36TJTP-6SrPQ",
+      "type": "channel",
+      "label": "90.9 The Bridge",
+      "url": "https://www.youtube.com/channel/UCJbLZEAM8CX36TJTP-6SrPQ",
+      "firstSeenAt": "2026-09-16T11:29:07.965Z"
+    }
+  ],
+  "recentItems": []
+}

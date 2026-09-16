@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T11:42:58.829Z",
+  "generatedAt": "2026-09-16T11:30:24.422Z",
   "id": "UCqFzWxSCi39LnW1JKFR3efg",
   "title": "Saturday Night Live",
   "thumb": "https://yt3.ggpht.com/0UstnnBY3C69WcOIv8W_8blHZKMpoxluehKazofyMTt93kO2wGbJ1-ZIiHaFSNYBVGAgu3AEUEo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 2.15,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "The Voice",
       "url": "https://www.youtube.com/channel/UCpdK1NLHxEUGXc1gq2NxkTw",
       "firstSeenAt": "2026-09-11T11:18:05.991Z"
+    },
+    {
+      "id": "channel:UCPgMAS8woHJ_o_OZdTR7kcQ",
+      "type": "channel",
+      "label": "Peacock",
+      "url": "https://www.youtube.com/channel/UCPgMAS8woHJ_o_OZdTR7kcQ",
+      "firstSeenAt": "2026-09-16T11:29:08.595Z"
     }
   ],
   "recentItems": [

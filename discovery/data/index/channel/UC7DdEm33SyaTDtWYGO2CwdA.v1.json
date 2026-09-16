@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T11:42:58.829Z",
+  "generatedAt": "2026-09-16T11:30:24.422Z",
   "id": "UC7DdEm33SyaTDtWYGO2CwdA",
   "title": "Physics Girl",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mHLaE8gTxfKJQk8IzA0W-eRAhkogyb1B_aU2yzafp3ots=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Royal Institution",
       "url": "https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw",
       "firstSeenAt": "2026-09-15T11:41:47.174Z"
+    },
+    {
+      "id": "channel:UCZYTClx2T1of7BRZ86-8fow",
+      "type": "channel",
+      "label": "SciShow",
+      "url": "https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow",
+      "firstSeenAt": "2026-09-16T11:29:13.436Z"
     }
   ],
   "recentItems": []
