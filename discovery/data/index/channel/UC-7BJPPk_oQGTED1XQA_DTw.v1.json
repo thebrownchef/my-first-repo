@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UC-7BJPPk_oQGTED1XQA_DTw",
   "title": "VevoDSCVR",
   "thumb": "https://yt3.ggpht.com/QptM65ixZFKTd-FtDVK-4MTnOcoOGNxDWGlw33kK9WOxy-adaJk1WFDCVX8ibNd1bf_QcI3D-I4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.3,
   "sources": [
@@ -29,7 +29,33 @@
       "label": "HozierVEVO",
       "url": "https://www.youtube.com/channel/UCdOcBpu5O2V0JhFFs9k-Ouw",
       "firstSeenAt": "2026-09-16T11:29:17.832Z"
+    },
+    {
+      "id": "channel:UCY14-R0pMrQzLne7lbTqRvA",
+      "type": "channel",
+      "label": "Vevo UK",
+      "url": "https://www.youtube.com/channel/UCY14-R0pMrQzLne7lbTqRvA",
+      "firstSeenAt": "2026-09-17T11:38:56.055Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "HzVDc8rDqeg",
+      "title": "Tiffany Day - Introducing Tiffany Day | Vevo DSCVR",
+      "publishedAt": "2026-08-24T20:00:06Z",
+      "durationSec": 137,
+      "thumb": "https://i.ytimg.com/vi/HzVDc8rDqeg/mqdefault.jpg",
+      "description": "Music video by Tiffany Day performing Introducing Tiffany Day | Vevo DSCVR.",
+      "chapters": []
+    },
+    {
+      "id": "0A1oo03ZOJA",
+      "title": "Jenevieve - Introducing Jenevieve | Vevo DSCVR",
+      "publishedAt": "2026-08-06T18:26:09Z",
+      "durationSec": 132,
+      "thumb": "https://i.ytimg.com/vi/0A1oo03ZOJA/mqdefault.jpg",
+      "description": "Introducing Jenevieve | Vevo DSCVR\n\nWatch Jenevieve music videos: https://www.youtube.com/@jenevieve\n\nFollow Jenevieve\n Instagram: https://www.instagram.com/msjenevieve\n TikTok: https://www.tiktok.com/@ms.jenevieve\n\nVevo\n Facebook: https://www.facebook.com/Vevo\n Instagram: https://www.instagram.com/vevo\n TikTok: https://www.tiktok.com/@vevo\n\n#Jenevieve #Crysalis #VevoDSCVR\n\nMusic video by Jenevieve performing Introducing Jenevieve (Vevo DSCVR).© 2026 Interscope Records",
+      "chapters": []
+    }
+  ]
 }

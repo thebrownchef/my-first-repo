@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UCKtfozhWfwvXUTnR7PV3t5g",
   "title": "Universal Jr.",
   "thumb": "https://yt3.ggpht.com/4PXBcKXQgZhdphqkgtXhgLGWg1N4zaW4WxdtuW-QtNbHc3QaL253jJk-_xa7Y47ewyNK-y5E8-A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Universal Kids",
       "url": "https://www.youtube.com/channel/UCY26xU0-avwTJ6F6TzUZVEw",
       "firstSeenAt": "2026-09-16T11:29:09.348Z"
+    },
+    {
+      "id": "channel:UCx554p1Bu_Mp1q0H_bEtZ1Q",
+      "type": "channel",
+      "label": "Rotten Tomatoes Family",
+      "url": "https://www.youtube.com/channel/UCx554p1Bu_Mp1q0H_bEtZ1Q",
+      "firstSeenAt": "2026-09-17T11:38:53.168Z"
     }
   ],
   "recentItems": []

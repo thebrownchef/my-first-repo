@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UCiH828EtgQjTyNIMH6YiOSw",
   "title": "Channel Awesome",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nU8lUI_IqfmVam2Aoh6jC_1nWvm3EKqp4m3i2IYsWXT4Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 1.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.748Z"
+    },
+    {
+      "id": "wiki:List of people with ME/CFS",
+      "type": "wikipedia",
+      "label": "List of people with ME/CFS",
+      "url": "https://en.wikipedia.org/wiki/List_of_people_with_ME%2FCFS",
+      "firstSeenAt": "2026-09-17T11:38:41.399Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UCE0Wkd9Jcn2-TNo5G8bLQrA",
   "title": "Rotten Tomatoes",
   "thumb": "https://yt3.ggpht.com/dRKE8Tpa5zQ8xft1gtz1xmFWXHGNkgyEewljuAu0gNB6IW7EJMyQyqC8WYAYxJYIGcwiBea9-A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -29,7 +29,98 @@
       "label": "Movieclips",
       "url": "https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg",
       "firstSeenAt": "2026-09-16T11:29:09.216Z"
+    },
+    {
+      "id": "channel:UCx554p1Bu_Mp1q0H_bEtZ1Q",
+      "type": "channel",
+      "label": "Rotten Tomatoes Family",
+      "url": "https://www.youtube.com/channel/UCx554p1Bu_Mp1q0H_bEtZ1Q",
+      "firstSeenAt": "2026-09-17T11:38:53.168Z"
+    },
+    {
+      "id": "channel:UCkR0GY0ue02aMyM-oxwgg9g",
+      "type": "channel",
+      "label": "Rotten Tomatoes Coming Soon",
+      "url": "https://www.youtube.com/channel/UCkR0GY0ue02aMyM-oxwgg9g",
+      "firstSeenAt": "2026-09-17T11:38:53.238Z"
+    },
+    {
+      "id": "channel:UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "type": "channel",
+      "label": "Rotten Tomatoes Classic Trailers",
+      "url": "https://www.youtube.com/channel/UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "firstSeenAt": "2026-09-17T11:38:53.422Z"
+    },
+    {
+      "id": "channel:UCLyYEq4ODlw3OD9qhGqwimw",
+      "type": "channel",
+      "label": "Rotten Tomatoes Indie",
+      "url": "https://www.youtube.com/channel/UCLyYEq4ODlw3OD9qhGqwimw",
+      "firstSeenAt": "2026-09-17T11:38:53.447Z"
+    },
+    {
+      "id": "channel:UC4OfKwXKN1flzBXiqnQ4hyw",
+      "type": "channel",
+      "label": "Rotten Tomatoes Horror",
+      "url": "https://www.youtube.com/channel/UC4OfKwXKN1flzBXiqnQ4hyw",
+      "firstSeenAt": "2026-09-17T11:38:53.477Z"
+    },
+    {
+      "id": "channel:UCnExqEQyG6WemMK9hpQcoeQ",
+      "type": "channel",
+      "label": "Jurassic Park Fansite",
+      "url": "https://www.youtube.com/channel/UCnExqEQyG6WemMK9hpQcoeQ",
+      "firstSeenAt": "2026-09-17T11:38:53.588Z"
+    },
+    {
+      "id": "channel:UC5kbrYM6LZHkcXm5jaRNgnA",
+      "type": "channel",
+      "label": "THG Fansite",
+      "url": "https://www.youtube.com/channel/UC5kbrYM6LZHkcXm5jaRNgnA",
+      "firstSeenAt": "2026-09-17T11:38:53.645Z"
+    },
+    {
+      "id": "channel:UCz1GPotHecuLngiLuY739QQ",
+      "type": "channel",
+      "label": "Rotten Tomatoes TV",
+      "url": "https://www.youtube.com/channel/UCz1GPotHecuLngiLuY739QQ",
+      "firstSeenAt": "2026-09-17T11:38:53.677Z"
+    },
+    {
+      "id": "channel:UC4l6ZhkOzxIxvCSzDr4HKqg",
+      "type": "channel",
+      "label": "Fandango (Stream)",
+      "url": "https://www.youtube.com/channel/UC4l6ZhkOzxIxvCSzDr4HKqg",
+      "firstSeenAt": "2026-09-17T11:38:53.704Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "wPrESD5chqM",
+      "title": "The Outsiders Inspired Star Wars?!",
+      "publishedAt": "2026-08-28T22:00:26Z",
+      "durationSec": 80,
+      "thumb": "https://i.ytimg.com/vi/wPrESD5chqM/mqdefault.jpg",
+      "description": "In his first ever interview about #StarWarsStarfighter, director Shawn Levy reveals how #TheOutsiders helped inspire the film. #shorts",
+      "chapters": []
+    },
+    {
+      "id": "wqNH_iwcXSE",
+      "title": "What to Build with the Lanterns Rings...",
+      "publishedAt": "2026-08-27T22:00:34Z",
+      "durationSec": 74,
+      "thumb": "https://i.ytimg.com/vi/wqNH_iwcXSE/mqdefault.jpg",
+      "description": "Aaron Pierre, Kyle Chandler, and Nathan Fillion share what items their characters would construct with the #Lanterns ring. #shorts",
+      "chapters": []
+    },
+    {
+      "id": "cbu7FPQubGs",
+      "title": "Aaron Pierre on Playing a Superhero in 'Lanterns'",
+      "publishedAt": "2026-08-26T14:30:27Z",
+      "durationSec": 74,
+      "thumb": "https://i.ytimg.com/vi/cbu7FPQubGs/mqdefault.jpg",
+      "description": "\"I'm ready to do this until the wheels fall off.\" Aaron Pierre shares his excitement for portraying and exploring the character of John Stewart in #Lanterns. #shorts",
+      "chapters": []
+    }
+  ]
 }

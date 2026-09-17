@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-17T11:39:48.236Z",
+  "id": "UCjUvzzaBlK82-Kpvy3uG9yA",
+  "title": "Listening Now",
+  "thumb": "https://yt3.ggpht.com/PaAdylq6fjLpRI6qPOfGc9HmRMwTEG-cK_YCXZEpFQ6EEUFqtwlchRwE-khcmGQHmGGonEjdZg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "channel:UCf52XN2UWpZu_mo5vyZ6RuA",
+      "type": "channel",
+      "label": "VIVA",
+      "url": "https://www.youtube.com/channel/UCf52XN2UWpZu_mo5vyZ6RuA",
+      "firstSeenAt": "2026-08-27T07:14:24.111Z"
+    },
+    {
+      "id": "channel:UChAlpEbfW1y9auiBC08ZwGQ",
+      "type": "channel",
+      "label": "BeingIndian",
+      "url": "https://www.youtube.com/channel/UChAlpEbfW1y9auiBC08ZwGQ",
+      "firstSeenAt": "2026-09-17T11:38:48.881Z"
+    },
+    {
+      "id": "channel:UCzeeLm_6BDOX-mGOU-LoUTA",
+      "type": "channel",
+      "label": "Awesome Sauce India",
+      "url": "https://www.youtube.com/channel/UCzeeLm_6BDOX-mGOU-LoUTA",
+      "firstSeenAt": "2026-09-17T11:38:49.722Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UCyd8nl1opqfEVwJer32vURA",
   "title": "Kylie Minogue",
   "thumb": "https://yt3.ggpht.com/lzhOaieFxpduBtl1rKZr-kd9E0LS1Sx49m3HqJFlU_NE5ZwpLgLTjZM7MvPLvviPkDzGLgG7Pt4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Kylie Minogue videography",
       "url": "https://en.wikipedia.org/wiki/Kylie_Minogue_videography",
       "firstSeenAt": "2026-09-04T11:15:20.459Z"
+    },
+    {
+      "id": "channel:UCW6IPif6TmmKXG1VdetbQYA",
+      "type": "channel",
+      "label": "emi",
+      "url": "https://www.youtube.com/channel/UCW6IPif6TmmKXG1VdetbQYA",
+      "firstSeenAt": "2026-09-17T11:38:52.408Z"
     }
   ],
   "recentItems": []

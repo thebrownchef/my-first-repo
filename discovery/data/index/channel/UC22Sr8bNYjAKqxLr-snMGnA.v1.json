@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-17T11:39:48.236Z",
+  "id": "UC22Sr8bNYjAKqxLr-snMGnA",
+  "title": "SG Sports TV",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lqOGfqaGJ2xtYN2ptPjsc46RQsH18qlWnnax0kLgJoTNs=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.82,
+  "sources": [
+    {
+      "id": "wiki:Kyaw Zin Lwin",
+      "type": "wikipedia",
+      "label": "Kyaw Zin Lwin",
+      "url": "https://en.wikipedia.org/wiki/Kyaw_Zin_Lwin",
+      "firstSeenAt": "2026-08-27T07:14:04.990Z"
+    },
+    {
+      "id": "channel:UCuxLiBJZxsbBx9tpV0KTt7A",
+      "type": "channel",
+      "label": "ActiveSG Circle",
+      "url": "https://www.youtube.com/channel/UCuxLiBJZxsbBx9tpV0KTt7A",
+      "firstSeenAt": "2026-09-17T11:38:48.700Z"
+    }
+  ],
+  "recentItems": []
+}

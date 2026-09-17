@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UCQGqX5Ndpm4snE0NTjyOJnA",
   "title": "Минобороны России",
   "thumb": "https://yt3.ggpht.com/VX46V7bogX2bZV5vO876Wt3z7bfgJsMG3oAHB4ivTB1R3FP8tCdHXxNMxFK1kc4ec65Ih0CR=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.97,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Victory Day parades",
       "url": "https://en.wikipedia.org/wiki/Victory_Day_parades",
       "firstSeenAt": "2026-08-29T12:40:10.330Z"
+    },
+    {
+      "id": "channel:UCaqFrzM3_67QMN5DLNUfubg",
+      "type": "channel",
+      "label": "Симфонический оркестр МО РФ / Red Army Symphony",
+      "url": "https://www.youtube.com/channel/UCaqFrzM3_67QMN5DLNUfubg",
+      "firstSeenAt": "2026-09-17T11:38:56.173Z"
     }
   ],
   "recentItems": []

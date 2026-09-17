@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
   "title": "Computer History Museum",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
@@ -46,6 +46,15 @@
     }
   ],
   "recentItems": [
+    {
+      "id": "Yw6Cet2JR-E",
+      "title": "Oral History of Rich Seifert",
+      "publishedAt": "2026-09-16T23:56:59Z",
+      "durationSec": 9297,
+      "thumb": "https://i.ytimg.com/vi/Yw6Cet2JR-E/mqdefault.jpg",
+      "description": "This oral history details American engineer Rich Seifert's pivotal role in developing and standardizing commercial Ethernet. Drawing on his early background in ham radio and electromagnetic compatibility, Seifert joined Digital Equipment Corporation (DEC), where he became the company's engineering representative in the DEC-Intel-Xerox (DIX) consortium. Within this group, he architected Ethernet's physical layer. \n\nHis contributions included specifying and co-designing the 10 Mbps Ethernet transceiver, the mechanical \"vampire tap\" connector, and the heavily shielded, iconic yellow (and also orange) 50-ohm coaxial cable built to withstand severe industrial interference. The interview also explores the transition from the DIX [DEC, Intel, Xerox] specification to the open IEEE 802.3 standard. Seifert highlights the consortium's strategic decision to license Ethernet patents for a nominal fee via vendor codes, a move that cemented its ubiquitous industry dominance. Finally, he outlines his later career founding networking startups and consulting for major technology firms.\n\nInterviewed by Dag Spicer on 2023-07-28 \n© Computer History Museum\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/300000335\n\nCatalog number: 300000336\nAcquisition number: 2026.0178",
+      "chapters": []
+    },
     {
       "id": "sgOfw1Ul8Os",
       "title": "Oral History of Don Mattson",
@@ -98,15 +107,6 @@
       "durationSec": 4434,
       "thumb": "https://i.ytimg.com/vi/P0vZKVOeAPY/mqdefault.jpg",
       "description": "[Recorded August 27, 2026]\nAre AI chips the new frontier of computing? What happens when the world’s biggest cloud companies stop buying chips and start designing their own?\n\nIn this program, we’ll unpack how companies once defined by software are now building custom silicon to run faster, cheaper, and at an unprecedented scale. The resulting competition is influencing global datacenter design and supply chains, marking a major new chapter in the evolution of AI.\n\nWhat You’ll Experience:\n-Demystify AI accelerators: what they are and why they’re so well-suited to modern machine learning workloads.\n-Understand how custom silicon changes cloud economics, energy demands, data-center design, and business models.\n-Hear directly from builders and insiders who are shaping the future of AI hardware, including Nvidia Chief Scientist and Senior Vice President of Research Bill Dally, Google VP and Technical Fellow Norm Jouppi, and CHM Fellow and UC Berkeley Pardee Professor of Computer Science Emeritus Dave Patterson.\n\nRead our blog post: https://computerhistory.org/blog/the-silicon-gold-rush-how-ai-is-driving-development-of-new-chips/\n\nCatalog Number: 300000403\nAcquisition Number: 2026.0219",
-      "chapters": []
-    },
-    {
-      "id": "t8meBjkS_ss",
-      "title": "Oral History of James Pappas",
-      "publishedAt": "2026-08-20T21:42:59Z",
-      "durationSec": 6157,
-      "thumb": "https://i.ytimg.com/vi/t8meBjkS_ss/mqdefault.jpg",
-      "description": "Jim Pappas grew up in Western Massachusetts and attended local public high schools. Inspired initially by relatives in medicine, he originally pursued biology and accounting before joining the United States Air Force in 1975. Serving four years in precision calibration labs, he gained foundational technical experience—including early work on atomic clocks used for GPS testing—which sparked his passion for technology. Upon leaving the service, Pappas earned an electrical engineering degree with an emphasis in computer architecture in three years at the University of Massachusetts Amherst. \n\nThrough a recommendation by professor Harold Stone, Pappas interned and subsequently took a full-time position at Digital Equipment Corporation (DEC). Mentored by Ned Forrester, he built hardware emulators for video and graphics chips. Pappas went on to lead hardware engineering for the VT 200 series terminals alongside HT Cho, and developed 3D graphics chips for VAX and Alpha workstations. During a four-year stint building single-chip VAX CPUs, Pappas realized he had lost touch with the broader industry, prompting him to pivot toward industrywide interconnect standards. Collaborating with Intel, he helped rebrand and launch the Peripheral Component Interconnect (PCI) standard.\n\nJoining Intel in 1994, Pappas spearheaded the development and deployment of Universal Serial Bus (USB) 1.0 to resolve PC cable complexity. By maintaining tight focus with a small consortium of key partners and tailoring features to anchor products (such as the Microsoft Mouse), USB achieved global ubiquity.\n\nFollowing the success of USB, Pat Gelsinger recruited Pappas to oversee top technology initiatives across Intel’s desktop and data center divisions. Over his career, Pappas led or contributed to 77 major industry initiatives. Key efforts included:\n\nUSB 2.0: Driven by strict focus on digital imaging, storage, and communication.\nNVMe & PCIe Interoperability: Partnering with leaders like Amber Huffman to bring PlugFests, ecosystem standards, and solid-state drive (SSD) adoption to mainstream platforms.\nCompute Express Link (CXL): Serving as chair to unify competing memory architectures (CAPI, Gen-Z, CCIX) under a single open standard.\nUniversal Chiplet Interconnect Express (UCIe) & UALink: Establishing foundational open interconnect standards critical to modern AI architectures, chiplet integration, and pooled memory fabrics.\n\nThroughout the interview, Pappas emphasizes leadership strategies for driving successful standards: keeping working groups small and focused, avoiding feature bloat, and embracing \"creative insubordination\". He attributes his career success to operating without fear of failure or termination, enabling decisive engineering and strategic risk-taking. Fully retired in Tumwater, Washington, Pappas reflects on his contribution to the memory and interconnect foundations powering today’s computing and AI landscapes.\n\nInterviewed by Tom Coughlin on 2025-10-27 \n© Computer History Museum\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/300000223\n\nCatalog number: 300000224\nAcquisition number: 2025.0183",
       "chapters": []
     }
   ]

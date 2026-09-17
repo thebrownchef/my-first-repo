@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-17T11:39:48.236Z",
+  "id": "UCy9b8cNJQmxX8Y2bdE6mQNw",
+  "title": "TED Podcasts",
+  "thumb": "https://yt3.ggpht.com/y_q6Y3SZAy250ep5IhCmm4f4pg81VTlGm-oO-e4qWY93WXlSfxpyWq5dQLASTjeunhdLwRcs4A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.55,
+  "sources": [
+    {
+      "id": "channel:UCAuUUnT6oDeKwE6v1NGQxug",
+      "type": "channel",
+      "label": "TED",
+      "url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug",
+      "firstSeenAt": "2026-09-17T11:38:46.725Z"
+    },
+    {
+      "id": "channel:UCDAdYdnCDt9zx3p3e_78lEQ",
+      "type": "channel",
+      "label": "TED Ideas Studio",
+      "url": "https://www.youtube.com/channel/UCDAdYdnCDt9zx3p3e_78lEQ",
+      "firstSeenAt": "2026-09-17T11:38:47.075Z"
+    }
+  ],
+  "recentItems": []
+}

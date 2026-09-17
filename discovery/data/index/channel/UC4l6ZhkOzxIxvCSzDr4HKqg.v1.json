@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UC4l6ZhkOzxIxvCSzDr4HKqg",
   "title": "Fandango (Stream)",
   "thumb": "https://yt3.ggpht.com/USw2Q-fRQ8OKGFWNPjsVgOJkdcJxvY6R83JiNQzKt40TBu-ctkfWlIdmRziVPxrn-DabJV9ue3I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -29,6 +29,69 @@
       "label": "Movieclips",
       "url": "https://www.youtube.com/channel/UC3gNmTGu-TTbFPpfSs5kNkg",
       "firstSeenAt": "2026-09-16T11:29:09.216Z"
+    },
+    {
+      "id": "channel:UCx554p1Bu_Mp1q0H_bEtZ1Q",
+      "type": "channel",
+      "label": "Rotten Tomatoes Family",
+      "url": "https://www.youtube.com/channel/UCx554p1Bu_Mp1q0H_bEtZ1Q",
+      "firstSeenAt": "2026-09-17T11:38:53.169Z"
+    },
+    {
+      "id": "channel:UCkR0GY0ue02aMyM-oxwgg9g",
+      "type": "channel",
+      "label": "Rotten Tomatoes Coming Soon",
+      "url": "https://www.youtube.com/channel/UCkR0GY0ue02aMyM-oxwgg9g",
+      "firstSeenAt": "2026-09-17T11:38:53.239Z"
+    },
+    {
+      "id": "channel:UCE0Wkd9Jcn2-TNo5G8bLQrA",
+      "type": "channel",
+      "label": "Rotten Tomatoes",
+      "url": "https://www.youtube.com/channel/UCE0Wkd9Jcn2-TNo5G8bLQrA",
+      "firstSeenAt": "2026-09-17T11:38:53.391Z"
+    },
+    {
+      "id": "channel:UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "type": "channel",
+      "label": "Rotten Tomatoes Classic Trailers",
+      "url": "https://www.youtube.com/channel/UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "firstSeenAt": "2026-09-17T11:38:53.423Z"
+    },
+    {
+      "id": "channel:UCLyYEq4ODlw3OD9qhGqwimw",
+      "type": "channel",
+      "label": "Rotten Tomatoes Indie",
+      "url": "https://www.youtube.com/channel/UCLyYEq4ODlw3OD9qhGqwimw",
+      "firstSeenAt": "2026-09-17T11:38:53.448Z"
+    },
+    {
+      "id": "channel:UC4OfKwXKN1flzBXiqnQ4hyw",
+      "type": "channel",
+      "label": "Rotten Tomatoes Horror",
+      "url": "https://www.youtube.com/channel/UC4OfKwXKN1flzBXiqnQ4hyw",
+      "firstSeenAt": "2026-09-17T11:38:53.478Z"
+    },
+    {
+      "id": "channel:UCnExqEQyG6WemMK9hpQcoeQ",
+      "type": "channel",
+      "label": "Jurassic Park Fansite",
+      "url": "https://www.youtube.com/channel/UCnExqEQyG6WemMK9hpQcoeQ",
+      "firstSeenAt": "2026-09-17T11:38:53.589Z"
+    },
+    {
+      "id": "channel:UC5kbrYM6LZHkcXm5jaRNgnA",
+      "type": "channel",
+      "label": "THG Fansite",
+      "url": "https://www.youtube.com/channel/UC5kbrYM6LZHkcXm5jaRNgnA",
+      "firstSeenAt": "2026-09-17T11:38:53.646Z"
+    },
+    {
+      "id": "channel:UCz1GPotHecuLngiLuY739QQ",
+      "type": "channel",
+      "label": "Rotten Tomatoes TV",
+      "url": "https://www.youtube.com/channel/UCz1GPotHecuLngiLuY739QQ",
+      "firstSeenAt": "2026-09-17T11:38:53.678Z"
     }
   ],
   "recentItems": [

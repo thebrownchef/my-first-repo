@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UC20vb-R_px4CguHzzBPhoyQ",
   "title": "EminemVEVO",
   "thumb": "https://yt3.ggpht.com/fYB3KuH8P5jyoReOqbDRyHQJjfKsPj-BYDcJb1XANiEpo6bhCf6LXpsNxE9_fvefub9S1hCkldU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Temporary (song)",
       "url": "https://en.wikipedia.org/wiki/Temporary_(song)",
       "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    },
+    {
+      "id": "wiki:You Don't Know (Eminem song)",
+      "type": "wikipedia",
+      "label": "You Don't Know (Eminem song)",
+      "url": "https://en.wikipedia.org/wiki/You_Don't_Know_(Eminem_song)",
+      "firstSeenAt": "2026-09-17T11:38:41.399Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T11:30:24.422Z",
+  "generatedAt": "2026-09-17T11:39:48.236Z",
   "id": "UC55os7K-eMLTJy_aXzm5sHw",
   "title": "Film Companion Studios",
   "thumb": "https://yt3.ggpht.com/IqN0BAJtjCeY8lfUHRrU3OavODKaDY2a_zktzwiT6DUmv58mw9j5NfvuM2tOjwI4HE88BRDsKQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.84,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Sucharita Tyagi",
       "url": "https://en.wikipedia.org/wiki/Sucharita_Tyagi",
       "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "channel:UCE0Wkd9Jcn2-TNo5G8bLQrA",
+      "type": "channel",
+      "label": "Rotten Tomatoes",
+      "url": "https://www.youtube.com/channel/UCE0Wkd9Jcn2-TNo5G8bLQrA",
+      "firstSeenAt": "2026-09-17T11:38:53.389Z"
     }
   ],
   "recentItems": [
