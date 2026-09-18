@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "id": "UCuwpe69VxVzy4maI6ymmm6A",
+  "title": "HouseResourceOrg",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lG7HqpTwQOrlG4F3_83gwz2sLEWInBiA1z9pBp6wL3Qg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.44,
+  "sources": [
+    {
+      "id": "channel:UCO9Q5_D6tItyoilmDogexng",
+      "type": "channel",
+      "label": "PublicResourceOrg",
+      "url": "https://www.youtube.com/channel/UCO9Q5_D6tItyoilmDogexng",
+      "firstSeenAt": "2026-08-28T18:39:34.789Z"
+    },
+    {
+      "id": "channel:UCpwEgdZqcwmD2vYgZbK89iQ",
+      "type": "channel",
+      "label": "LawResourceOrg",
+      "url": "https://www.youtube.com/channel/UCpwEgdZqcwmD2vYgZbK89iQ",
+      "firstSeenAt": "2026-09-18T11:11:15.508Z"
+    }
+  ],
+  "recentItems": []
+}

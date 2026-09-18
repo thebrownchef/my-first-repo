@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "id": "UC_kqgIRwOD3XCZXXr4B6bPQ",
+  "title": "DW Classical Music",
+  "thumb": "https://yt3.ggpht.com/44X3mAeQaaV8xZeFaIA2qJk2tVVQ8SYz1ntyxz9Pv8HRt_90vtmipkPQIeTNjgHW0Lp88q3j=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.3,
+  "sources": [
+    {
+      "id": "channel:UCd-swDW3HCs4LTZhq8Cf7Fg",
+      "type": "channel",
+      "label": "DW Euromaxx",
+      "url": "https://www.youtube.com/channel/UCd-swDW3HCs4LTZhq8Cf7Fg",
+      "firstSeenAt": "2026-09-18T11:11:04.284Z"
+    },
+    {
+      "id": "channel:UCAjA4SbeRNqig8NdNszDBsA",
+      "type": "channel",
+      "label": "DW Travel",
+      "url": "https://www.youtube.com/channel/UCAjA4SbeRNqig8NdNszDBsA",
+      "firstSeenAt": "2026-09-18T11:11:04.828Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T11:39:48.236Z",
+  "generatedAt": "2026-09-18T11:12:21.083Z",
   "id": "UCOmfcmDrWs7iJrXx7V5Cnwg",
   "title": "UATV English",
   "thumb": "https://yt3.ggpht.com/kMQXPipP39fw_6yDAcrYIPYZvvsNggP_y8Ll0qxO5n1DBBDOtSVsF1JtSt8joc644yJYwnoQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 7.08,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Ivan Bohun Military High School",
       "url": "https://en.wikipedia.org/wiki/Ivan_Bohun_Military_High_School",
       "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "channel:UCt3igz3aIXfS108KV_jZsMA",
+      "type": "channel",
+      "label": "FREEДOM",
+      "url": "https://www.youtube.com/channel/UCt3igz3aIXfS108KV_jZsMA",
+      "firstSeenAt": "2026-09-18T11:11:18.917Z"
     }
   ],
   "recentItems": []

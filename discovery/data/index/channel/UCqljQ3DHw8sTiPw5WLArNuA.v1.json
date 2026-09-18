@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T11:39:48.236Z",
+  "generatedAt": "2026-09-18T11:12:21.083Z",
   "id": "UCqljQ3DHw8sTiPw5WLArNuA",
   "title": "westlifeVEVO",
   "thumb": "https://yt3.ggpht.com/whsh6fH7B9ClIZWPSyrYk9vuJ6CGzLxn0nQfH2vL3IOXPXpDgVqGdhy1LX6pfSZp_j8zmw6o7w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "When You're Looking Like That",
       "url": "https://en.wikipedia.org/wiki/When_You're_Looking_Like_That",
       "firstSeenAt": "2026-08-28T18:39:16.664Z"
+    },
+    {
+      "id": "channel:UCtd_b-dF7lHzDJeDm4fJjHQ",
+      "type": "channel",
+      "label": "Westlife",
+      "url": "https://www.youtube.com/channel/UCtd_b-dF7lHzDJeDm4fJjHQ",
+      "firstSeenAt": "2026-09-18T11:11:09.604Z"
     }
   ],
   "recentItems": []

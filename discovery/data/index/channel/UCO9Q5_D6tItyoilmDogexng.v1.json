@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "id": "UCO9Q5_D6tItyoilmDogexng",
+  "title": "PublicResourceOrg",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN8msoL_nLAxHUy2pwTKFRXZjHhPiX76565DKcqbvUhw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.88,
+  "sources": [
+    {
+      "id": "wiki:Charles Middleton (actor)",
+      "type": "wikipedia",
+      "label": "Charles Middleton (actor)",
+      "url": "https://en.wikipedia.org/wiki/Charles_Middleton_(actor)",
+      "firstSeenAt": "2026-08-27T07:14:07.209Z"
+    },
+    {
+      "id": "channel:UCpwEgdZqcwmD2vYgZbK89iQ",
+      "type": "channel",
+      "label": "LawResourceOrg",
+      "url": "https://www.youtube.com/channel/UCpwEgdZqcwmD2vYgZbK89iQ",
+      "firstSeenAt": "2026-09-18T11:11:15.507Z"
+    },
+    {
+      "id": "channel:UCuwpe69VxVzy4maI6ymmm6A",
+      "type": "channel",
+      "label": "HouseResourceOrg",
+      "url": "https://www.youtube.com/channel/UCuwpe69VxVzy4maI6ymmm6A",
+      "firstSeenAt": "2026-09-18T11:11:15.572Z"
+    }
+  ],
+  "recentItems": []
+}

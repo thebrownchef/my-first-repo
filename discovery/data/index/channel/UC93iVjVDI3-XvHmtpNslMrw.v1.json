@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "id": "UC93iVjVDI3-XvHmtpNslMrw",
+  "title": "DW Food",
+  "thumb": "https://yt3.ggpht.com/Mn-u275FuK0eOmKd0kFwqbjwPrmtLCBjUteo7XsKkVHUTQB-EJhCx0IUAYbiQP4QcoHeKDnNYg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.23,
+  "sources": [
+    {
+      "id": "channel:UCd-swDW3HCs4LTZhq8Cf7Fg",
+      "type": "channel",
+      "label": "DW Euromaxx",
+      "url": "https://www.youtube.com/channel/UCd-swDW3HCs4LTZhq8Cf7Fg",
+      "firstSeenAt": "2026-09-18T11:11:04.283Z"
+    },
+    {
+      "id": "channel:UCAjA4SbeRNqig8NdNszDBsA",
+      "type": "channel",
+      "label": "DW Travel",
+      "url": "https://www.youtube.com/channel/UCAjA4SbeRNqig8NdNszDBsA",
+      "firstSeenAt": "2026-09-18T11:11:04.827Z"
+    },
+    {
+      "id": "channel:UCb72Gn5LXaLEcsOuPKGfQOg",
+      "type": "channel",
+      "label": "DW Planet A",
+      "url": "https://www.youtube.com/channel/UCb72Gn5LXaLEcsOuPKGfQOg",
+      "firstSeenAt": "2026-09-18T11:11:04.905Z"
+    }
+  ],
+  "recentItems": []
+}

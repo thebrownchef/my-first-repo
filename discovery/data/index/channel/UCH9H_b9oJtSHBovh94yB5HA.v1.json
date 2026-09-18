@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "id": "UCH9H_b9oJtSHBovh94yB5HA",
+  "title": "Телеканал Прямий",
+  "thumb": "https://yt3.ggpht.com/PcwzGXyZgSE8CI03PRBOtmq1c_DKDPnr0BnFTZ8q671T9dZEPuiVWnKb3nHwnZKOG58ZJ_BKUA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 35.83,
+  "sources": [
+    {
+      "id": "channel:UCkyrSWEcjZKpIwMxiPfOcgg",
+      "type": "channel",
+      "label": "5 канал",
+      "url": "https://www.youtube.com/channel/UCkyrSWEcjZKpIwMxiPfOcgg",
+      "firstSeenAt": "2026-08-28T18:39:27.340Z"
+    },
+    {
+      "id": "channel:UCOA1y6Wu0kug8rbOpvHFZEQ",
+      "type": "channel",
+      "label": "OmTV UA",
+      "url": "https://www.youtube.com/channel/UCOA1y6Wu0kug8rbOpvHFZEQ",
+      "firstSeenAt": "2026-09-18T11:11:05.848Z"
+    }
+  ],
+  "recentItems": []
+}

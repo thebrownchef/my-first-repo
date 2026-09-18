@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "id": "UCuyr84DzzrK_Qn43uakap-g",
+  "title": "Channel 4 Pets",
+  "thumb": "https://yt3.ggpht.com/2PB8y59rGKijcDn4eN016pmnZ4PucrR3VUhilBqr3pe9C68xkhZXAM4ZNeRwOo0i0QNk0r1R=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.08,
+  "sources": [
+    {
+      "id": "channel:UCiZ47iCEOmqsyZU_6XP9ekg",
+      "type": "channel",
+      "label": "Channel 4",
+      "url": "https://www.youtube.com/channel/UCiZ47iCEOmqsyZU_6XP9ekg",
+      "firstSeenAt": "2026-09-18T11:11:09.980Z"
+    },
+    {
+      "id": "channel:UCP0CN417pisSq5Q4tdPcWrQ",
+      "type": "channel",
+      "label": "Channel 4 Food",
+      "url": "https://www.youtube.com/channel/UCP0CN417pisSq5Q4tdPcWrQ",
+      "firstSeenAt": "2026-09-18T11:11:10.705Z"
+    },
+    {
+      "id": "channel:UCI64UNunsXfaDZgVhsAI2tQ",
+      "type": "channel",
+      "label": "Channel 4 Homes",
+      "url": "https://www.youtube.com/channel/UCI64UNunsXfaDZgVhsAI2tQ",
+      "firstSeenAt": "2026-09-18T11:11:11.124Z"
+    }
+  ],
+  "recentItems": []
+}
