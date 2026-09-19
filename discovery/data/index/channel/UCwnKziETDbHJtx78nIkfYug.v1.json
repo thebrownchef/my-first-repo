@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UCwnKziETDbHJtx78nIkfYug",
   "title": "CaspianReport",
   "thumb": "https://yt3.ggpht.com/zTPr0Jg_Xg3qQ0PtpMLspaKm54x4trKqyyKbaob8IjTjx9O5GZGZCRzMpR9dOOeJB4u2ps_F=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "List of countries with overseas military bases",
       "url": "https://en.wikipedia.org/wiki/List_of_countries_with_overseas_military_bases",
       "firstSeenAt": "2026-08-30T11:52:30.517Z"
+    },
+    {
+      "id": "channel:UC7UHwtngsIi-bmb1BpPBBRQ",
+      "type": "channel",
+      "label": "0ligarch",
+      "url": "https://www.youtube.com/channel/UC7UHwtngsIi-bmb1BpPBBRQ",
+      "firstSeenAt": "2026-09-19T10:55:37.440Z"
     }
   ],
   "recentItems": [

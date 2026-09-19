@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UCeLFPGSFgq43IhZOOCAJZFw",
   "title": "212 Brdska Brigada Srebrenik",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niO0HALZWMktxvN424DE4iMc7ohy5NKDgBzY4AbQ8WVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Siege of Sarajevo",
       "url": "https://en.wikipedia.org/wiki/Siege_of_Sarajevo",
       "firstSeenAt": "2026-08-31T13:44:53.294Z"
+    },
+    {
+      "id": "channel:UCHGU8v_zXRC4VUvSltvLm-Q",
+      "type": "channel",
+      "label": "SREBRENIKOBR211",
+      "url": "https://www.youtube.com/channel/UCHGU8v_zXRC4VUvSltvLm-Q",
+      "firstSeenAt": "2026-09-19T10:55:36.671Z"
     }
   ],
   "recentItems": []

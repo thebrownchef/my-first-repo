@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UCkrFeDQAnf-BTvRCrxQp-cw",
   "title": "Elvis Duran Show",
   "thumb": "https://yt3.ggpht.com/acPR4YyLB3SNJcT1FT7AZKe-ZLFr4MiJou1OA3F88DuXZhTEfKG9odXks09ddC2cwKF9WOTKrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.35,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Alone (Kim Petras and Nicki Minaj song)",
       "url": "https://en.wikipedia.org/wiki/Alone_(Kim_Petras_and_Nicki_Minaj_song)",
       "firstSeenAt": "2026-08-31T13:44:53.295Z"
+    },
+    {
+      "id": "channel:UCQ4aoNA8wWzkyKRIZs8WQHQ",
+      "type": "channel",
+      "label": "The Angie Martinez Show",
+      "url": "https://www.youtube.com/channel/UCQ4aoNA8wWzkyKRIZs8WQHQ",
+      "firstSeenAt": "2026-09-19T10:55:43.246Z"
     }
   ],
   "recentItems": [

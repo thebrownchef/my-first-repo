@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
   "title": "CBS",
   "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 2.85,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "CBS Comedy",
       "url": "https://www.youtube.com/channel/UC4e0hMc3DMMdQ47dkoP0zVQ",
       "firstSeenAt": "2026-09-13T11:48:45.156Z"
+    },
+    {
+      "id": "channel:UCrRttZIypNTA1Mrfwo745Sg",
+      "type": "channel",
+      "label": "Paramount Plus",
+      "url": "https://www.youtube.com/channel/UCrRttZIypNTA1Mrfwo745Sg",
+      "firstSeenAt": "2026-09-19T10:55:42.414Z"
+    },
+    {
+      "id": "channel:UCja8sZ2T4ylIqjggA1Zuukg",
+      "type": "channel",
+      "label": "CBS Sports",
+      "url": "https://www.youtube.com/channel/UCja8sZ2T4ylIqjggA1Zuukg",
+      "firstSeenAt": "2026-09-19T10:55:44.640Z"
     }
   ],
   "recentItems": [

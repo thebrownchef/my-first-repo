@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UC_yl-sQID1NrBwAcS1LRHmg",
   "title": "Mandatory",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lx3d1ZtUZg5UulFTSHkPbp4iq7cXckXxfmrnv1BezLtcM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.22,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Burt Reynolds",
       "url": "https://en.wikipedia.org/wiki/Burt_Reynolds",
       "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    },
+    {
+      "id": "channel:UCM8XuuJGlClNV74hPOYxvhA",
+      "type": "channel",
+      "label": "Shock Till You Drop",
+      "url": "https://www.youtube.com/channel/UCM8XuuJGlClNV74hPOYxvhA",
+      "firstSeenAt": "2026-09-19T10:55:42.786Z"
     }
   ],
   "recentItems": []

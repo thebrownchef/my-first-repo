@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UC-uRFSsRPWC-erT9CV8lj2w",
   "title": "SeaSnakeX",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mXLMwiGV4z26XQBkSrxEYVKY5sxpPS4zgii1-lyt2MZA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Khan Araz",
       "url": "https://www.youtube.com/channel/UCGXnLUx14KH2cMggDlGwE2A",
       "firstSeenAt": "2026-08-28T18:39:43.289Z"
+    },
+    {
+      "id": "channel:UC7UHwtngsIi-bmb1BpPBBRQ",
+      "type": "channel",
+      "label": "0ligarch",
+      "url": "https://www.youtube.com/channel/UC7UHwtngsIi-bmb1BpPBBRQ",
+      "firstSeenAt": "2026-09-19T10:55:37.440Z"
+    },
+    {
+      "id": "channel:UC3qMGVlSCWEYdmzRCA5xH7Q",
+      "type": "channel",
+      "label": "QafqazWolf",
+      "url": "https://www.youtube.com/channel/UC3qMGVlSCWEYdmzRCA5xH7Q",
+      "firstSeenAt": "2026-09-19T10:55:37.819Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UCGXnLUx14KH2cMggDlGwE2A",
   "title": "Khan Araz",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m87fJIP8Ush36ycq7F6bAbHS4a5je8_WQ6GmfsHogwxw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Military parades in Azerbaijan",
       "url": "https://en.wikipedia.org/wiki/Military_parades_in_Azerbaijan",
       "firstSeenAt": "2026-08-28T18:39:19.394Z"
+    },
+    {
+      "id": "channel:UC7UHwtngsIi-bmb1BpPBBRQ",
+      "type": "channel",
+      "label": "0ligarch",
+      "url": "https://www.youtube.com/channel/UC7UHwtngsIi-bmb1BpPBBRQ",
+      "firstSeenAt": "2026-09-19T10:55:37.440Z"
     }
   ],
   "recentItems": []

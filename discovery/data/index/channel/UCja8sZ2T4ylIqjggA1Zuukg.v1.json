@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UCja8sZ2T4ylIqjggA1Zuukg",
   "title": "CBS Sports",
   "thumb": "https://yt3.ggpht.com/jnGO8vkeg1R9IAaIHIej_SS9tzYXtyk54KwbHovEq2No3HfvV6mw2CYVIoFg2ThbFTnkUiSIBw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 5.73,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.753Z"
+    },
+    {
+      "id": "channel:UCrRttZIypNTA1Mrfwo745Sg",
+      "type": "channel",
+      "label": "Paramount Plus",
+      "url": "https://www.youtube.com/channel/UCrRttZIypNTA1Mrfwo745Sg",
+      "firstSeenAt": "2026-09-19T10:55:42.417Z"
     }
   ],
   "recentItems": []

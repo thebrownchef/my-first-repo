@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UCKuSaHewQKWjR2wFuqfkMEA",
   "title": "U.S. Navy",
   "thumb": "https://yt3.ggpht.com/iwYWxo0BnQuAh57okQk1RN1xULYmQpap0K49BwXGyd2He9N3f-4Fe5ViFxek0lOTOZcUmGj3lQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.23,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "AFN Naples",
       "url": "https://www.youtube.com/channel/UCHde4sJT0YnRRASIH4J4oAQ",
       "firstSeenAt": "2026-08-31T13:44:53.757Z"
+    },
+    {
+      "id": "channel:UCjdWZTMt_7O6Jue7gFbxj7w",
+      "type": "channel",
+      "label": "America's Navy",
+      "url": "https://www.youtube.com/channel/UCjdWZTMt_7O6Jue7gFbxj7w",
+      "firstSeenAt": "2026-09-19T10:55:46.527Z"
     }
   ],
   "recentItems": []

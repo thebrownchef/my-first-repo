@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UCsgEkEWaXKQwrhlLHFbcQFw",
   "title": "Sub Pop",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kaD6FuxSeY4TJ53io3868YCaM8Efk3tldqO5U1dp5ZXQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sub Pop",
       "url": "https://www.youtube.com/channel/UCsgEkEWaXKQwrhlLHFbcQFw",
       "firstSeenAt": "2026-08-29T12:40:20.819Z"
+    },
+    {
+      "id": "channel:UCOgbvluBkZgPFqo-gQA31lQ",
+      "type": "channel",
+      "label": "Hardly Art Records",
+      "url": "https://www.youtube.com/channel/UCOgbvluBkZgPFqo-gQA31lQ",
+      "firstSeenAt": "2026-09-19T10:55:45.747Z"
     }
   ],
   "recentItems": []

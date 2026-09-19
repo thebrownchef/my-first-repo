@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "id": "UC6yW44UGJJBvYTlfC7CRg2Q",
+  "title": "Manchester United",
+  "thumb": "https://yt3.ggpht.com/OmFbKBxsMpaIN_20mhBGJwPP6mZEh6TXXbsTwG4633kXrGQMgV5WuvCfod8dGqBRBZzyfJzXeSc=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 2.05,
+  "sources": [
+    {
+      "id": "channel:UCnQpt1UxLq00NFULxTDHMww",
+      "type": "channel",
+      "label": "Barclays Women's Super League",
+      "url": "https://www.youtube.com/channel/UCnQpt1UxLq00NFULxTDHMww",
+      "firstSeenAt": "2026-08-28T18:39:40.414Z"
+    },
+    {
+      "id": "channel:UC6yW44UGJJBvYTlfC7CRg2Q",
+      "type": "channel",
+      "label": "Manchester United",
+      "url": "https://www.youtube.com/channel/UC6yW44UGJJBvYTlfC7CRg2Q",
+      "firstSeenAt": "2026-09-19T10:55:35.743Z"
+    }
+  ],
+  "recentItems": []
+}

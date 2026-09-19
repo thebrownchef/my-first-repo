@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "id": "UCFVl5vcCeZMeeq1Nis_5kcw",
+  "title": "Твій серіал",
+  "thumb": "https://yt3.ggpht.com/vn9Z9DjiXMDOVgwAhNZgio3icPSWC9r9TevFMMswbg1iWkh3YbVBBJ1D7dVHtZkdKV4FSVJXTnw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.33,
+  "sources": [
+    {
+      "id": "channel:UC1RFIiqw8xaYyVXq3zc6hPw",
+      "type": "channel",
+      "label": "Телеканал ДІМ",
+      "url": "https://www.youtube.com/channel/UC1RFIiqw8xaYyVXq3zc6hPw",
+      "firstSeenAt": "2026-09-19T10:55:33.885Z"
+    },
+    {
+      "id": "channel:UCfg8n5TmzsyZL4AsjvS5aWw",
+      "type": "channel",
+      "label": "Ранок Вдома",
+      "url": "https://www.youtube.com/channel/UCfg8n5TmzsyZL4AsjvS5aWw",
+      "firstSeenAt": "2026-09-19T10:55:34.124Z"
+    }
+  ],
+  "recentItems": []
+}

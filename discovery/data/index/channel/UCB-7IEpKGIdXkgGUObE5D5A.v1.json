@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T11:12:21.083Z",
+  "generatedAt": "2026-09-19T10:56:40.602Z",
   "id": "UCB-7IEpKGIdXkgGUObE5D5A",
   "title": "STMPD RCRDS",
   "thumb": "https://yt3.ggpht.com/qBrn2UgeYjd0Cte1PqI2qc78f0EGNnzerzh2GKoez0ES1Q3w-heI88XokpJchyZ2cBI0wqOv=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Martin Garrix",
       "url": "https://www.youtube.com/channel/UC5H_KXkPbEsGs0tFt8R35mA",
       "firstSeenAt": "2026-08-29T12:40:17.350Z"
+    },
+    {
+      "id": "channel:UCmd8Hi7qSoQvAwW3B3tUsig",
+      "type": "channel",
+      "label": "AREA21",
+      "url": "https://www.youtube.com/channel/UCmd8Hi7qSoQvAwW3B3tUsig",
+      "firstSeenAt": "2026-09-19T10:55:44.444Z"
+    },
+    {
+      "id": "channel:UCZyL_PmshsD4VQtFvhtUSXA",
+      "type": "channel",
+      "label": "Ytram",
+      "url": "https://www.youtube.com/channel/UCZyL_PmshsD4VQtFvhtUSXA",
+      "firstSeenAt": "2026-09-19T10:55:44.481Z"
     }
   ],
   "recentItems": []
