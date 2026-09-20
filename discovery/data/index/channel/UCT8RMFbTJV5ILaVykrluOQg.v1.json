@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCT8RMFbTJV5ILaVykrluOQg",
   "title": "Hi China",
   "thumb": "https://yt3.ggpht.com/dlpazVCxaly1lZSWgPzMKANwST6T_2p8nGBwnzFC1eExltn18rBTkJMZ-rJRRpIXcah23Cy6sKM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 5.83,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "REVOLUTIONARY FORCE",
       "url": "https://www.youtube.com/channel/UChOXlk2u1DNwVUnli9EnNrw",
       "firstSeenAt": "2026-09-01T11:37:23.121Z"
+    },
+    {
+      "id": "channel:UCfkV7TVyjL8CIJhBafkhMdA",
+      "type": "channel",
+      "label": "Bonjour la Chine",
+      "url": "https://www.youtube.com/channel/UCfkV7TVyjL8CIJhBafkhMdA",
+      "firstSeenAt": "2026-09-20T11:20:12.623Z"
+    },
+    {
+      "id": "channel:UCd3X8YZ6SwCqSS-B35DrmXg",
+      "type": "channel",
+      "label": "Hi 차이나",
+      "url": "https://www.youtube.com/channel/UCd3X8YZ6SwCqSS-B35DrmXg",
+      "firstSeenAt": "2026-09-20T11:20:12.826Z"
     }
   ],
   "recentItems": []

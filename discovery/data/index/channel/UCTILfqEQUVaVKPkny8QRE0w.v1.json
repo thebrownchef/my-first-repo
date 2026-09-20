@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCTILfqEQUVaVKPkny8QRE0w",
+  "title": "SBS The Feed",
+  "thumb": "https://yt3.ggpht.com/dQZdyVDK9I-fUBYOVvfdFs0MQ3ogjHArMTseL_dxMroV-kHtzOEXS7pmi0ObaRCgUZ6PdJXEX6c=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.62,
+  "sources": [
+    {
+      "id": "channel:UCY_Bq1AF0xvPUjaAqV7kweA",
+      "type": "channel",
+      "label": "SBS Dateline",
+      "url": "https://www.youtube.com/channel/UCY_Bq1AF0xvPUjaAqV7kweA",
+      "firstSeenAt": "2026-08-30T11:52:36.969Z"
+    },
+    {
+      "id": "channel:UCE9Ou-1a1nNn784pHPhKghQ",
+      "type": "channel",
+      "label": "NITV",
+      "url": "https://www.youtube.com/channel/UCE9Ou-1a1nNn784pHPhKghQ",
+      "firstSeenAt": "2026-09-20T11:20:22.281Z"
+    },
+    {
+      "id": "channel:UCupDOc54HJbIPtgLjhABOZw",
+      "type": "channel",
+      "label": "SBS On Demand",
+      "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw",
+      "firstSeenAt": "2026-09-20T11:20:22.467Z"
+    }
+  ],
+  "recentItems": []
+}

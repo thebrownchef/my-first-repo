@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UClPzMXh4d5baHqR_tSeiagw",
   "title": "The Loud House",
   "thumb": "https://yt3.ggpht.com/B6rtehfbq2jWiGkIwY9NZDYCvunQUpvGYVvjIOrkAJZJWzV1vxFy5R_ZC4LhXb2kneML8o12Vw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.61,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "Nicktoons",
       "url": "https://www.youtube.com/channel/UC74bcC7aGRNz4KoRpJsJNEw",
       "firstSeenAt": "2026-08-30T11:52:35.970Z"
+    },
+    {
+      "id": "channel:UCx27Pkk8plpiosF14qXq-VA",
+      "type": "channel",
+      "label": "SpongeBob SquarePants Official",
+      "url": "https://www.youtube.com/channel/UCx27Pkk8plpiosF14qXq-VA",
+      "firstSeenAt": "2026-09-20T11:20:09.629Z"
+    },
+    {
+      "id": "channel:UCN_u5w69V9wUZYG8WeJWuNg",
+      "type": "channel",
+      "label": "Avatar Legends",
+      "url": "https://www.youtube.com/channel/UCN_u5w69V9wUZYG8WeJWuNg",
+      "firstSeenAt": "2026-09-20T11:20:10.190Z"
+    },
+    {
+      "id": "channel:UCTsgmnXbWotzbR36vU0YPrA",
+      "type": "channel",
+      "label": "Teenage Mutant Ninja Turtles",
+      "url": "https://www.youtube.com/channel/UCTsgmnXbWotzbR36vU0YPrA",
+      "firstSeenAt": "2026-09-20T11:20:10.732Z"
     }
   ],
   "recentItems": []

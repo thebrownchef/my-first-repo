@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCw3SYO_euO0TSPC_m_0Pzgw",
+  "title": "Los Angeles Times",
+  "thumb": "https://yt3.ggpht.com/2hoRUHM9kVY7PjjpnbxLuv6VXawi0Plj-tG4R5HlXtOFPWwMIv20_RMZfEy3ogg2abrtBler=s88-c-k-c0x00ffffff-no-rj",
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 0,
+  "uploadsPerDay": 2.57,
+  "sources": [
+    {
+      "id": "wiki:Jean Sagbo",
+      "type": "wikipedia",
+      "label": "Jean Sagbo",
+      "url": "https://en.wikipedia.org/wiki/Jean_Sagbo",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "channel:UCA4xoD47J_5dgXCXwIkfqig",
+      "type": "channel",
+      "label": "Los Angeles Times Events",
+      "url": "https://www.youtube.com/channel/UCA4xoD47J_5dgXCXwIkfqig",
+      "firstSeenAt": "2026-09-20T11:20:21.013Z"
+    },
+    {
+      "id": "channel:UCvGsQpaMZQOuQjYjQuszizQ",
+      "type": "channel",
+      "label": "Los Angeles Times En Español",
+      "url": "https://www.youtube.com/channel/UCvGsQpaMZQOuQjYjQuszizQ",
+      "firstSeenAt": "2026-09-20T11:20:21.210Z"
+    },
+    {
+      "id": "channel:UCnDaAs5_3WXEY_GF3MJ6lyA",
+      "type": "channel",
+      "label": "Los Angeles Times Food",
+      "url": "https://www.youtube.com/channel/UCnDaAs5_3WXEY_GF3MJ6lyA",
+      "firstSeenAt": "2026-09-20T11:20:21.277Z"
+    }
+  ],
+  "recentItems": []
+}

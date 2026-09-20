@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCHiceVclOIFCgAcveITRLLw",
   "title": "Nickelodeon UK",
   "thumb": "https://yt3.ggpht.com/4Py45fgfOX0D4RCVy37U_MuMiKWgU288rCnbVdOZAsL8suX9pkj7QTQSaRW_MAZCLnx81SUV=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.91,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.750Z"
+    },
+    {
+      "id": "channel:UCUe6ZpY6TJ0no8jI4l2iLxw",
+      "type": "channel",
+      "label": "Nick Jr.",
+      "url": "https://www.youtube.com/channel/UCUe6ZpY6TJ0no8jI4l2iLxw",
+      "firstSeenAt": "2026-09-20T11:20:09.862Z"
     }
   ],
   "recentItems": []

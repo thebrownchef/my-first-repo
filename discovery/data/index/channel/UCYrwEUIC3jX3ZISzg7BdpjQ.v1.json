@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCYrwEUIC3jX3ZISzg7BdpjQ",
+  "title": "Soccer AM Music",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2qxhbAiDeaTeWJzavJGV7YzLq50iriBK-cNltWDOdF3E=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "channel:UC3kxJQ9RfaS5CKeYbbFMi4Q",
+      "type": "channel",
+      "label": "Sky Sports F1",
+      "url": "https://www.youtube.com/channel/UC3kxJQ9RfaS5CKeYbbFMi4Q",
+      "firstSeenAt": "2026-09-20T11:20:11.849Z"
+    },
+    {
+      "id": "channel:UCTU_wC79Dgi9rh4e9-baTqA",
+      "type": "channel",
+      "label": "Sky Sports",
+      "url": "https://www.youtube.com/channel/UCTU_wC79Dgi9rh4e9-baTqA",
+      "firstSeenAt": "2026-09-20T11:20:11.902Z"
+    },
+    {
+      "id": "channel:UCE97AW7eR8VVbVPBy4cCLKg",
+      "type": "channel",
+      "label": "Soccer AM",
+      "url": "https://www.youtube.com/channel/UCE97AW7eR8VVbVPBy4cCLKg",
+      "firstSeenAt": "2026-09-20T11:20:11.967Z"
+    }
+  ],
+  "recentItems": []
+}

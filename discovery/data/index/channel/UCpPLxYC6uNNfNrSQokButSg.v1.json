@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCpPLxYC6uNNfNrSQokButSg",
+  "title": "CBC News NL - Newfoundland and Labrador",
+  "thumb": "https://yt3.ggpht.com/vczfvI_aedfZoCkw1Dt7E1OqAdPZ1NYndjyXQ2P_316dzEaXbGyw6KEdugPJd2eW1toiKnjA-g=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 1.72,
+  "sources": [
+    {
+      "id": "channel:UCKjU3KzdbJE1EFcHVqXC3_g",
+      "type": "channel",
+      "label": "CBC News: The National",
+      "url": "https://www.youtube.com/channel/UCKjU3KzdbJE1EFcHVqXC3_g",
+      "firstSeenAt": "2026-08-29T12:40:33.272Z"
+    },
+    {
+      "id": "channel:UCvdbpUpDg1cA4f_Jfg_-_TQ",
+      "type": "channel",
+      "label": "CBC News Saskatchewan",
+      "url": "https://www.youtube.com/channel/UCvdbpUpDg1cA4f_Jfg_-_TQ",
+      "firstSeenAt": "2026-09-20T11:20:13.106Z"
+    },
+    {
+      "id": "channel:UCxQXcwZ1Ls0spDyHCpwUs4Q",
+      "type": "channel",
+      "label": "CBC News Nova Scotia",
+      "url": "https://www.youtube.com/channel/UCxQXcwZ1Ls0spDyHCpwUs4Q",
+      "firstSeenAt": "2026-09-20T11:20:13.638Z"
+    }
+  ],
+  "recentItems": []
+}

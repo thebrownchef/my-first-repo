@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCOGxnF5dWQtoEz6E-msabZA",
+  "title": "CBC Sports",
+  "thumb": "https://yt3.ggpht.com/oOq2N3dG6OM_z5YjlGPzJe8fJ2Mb1ih1mGtQHwEFET-DVsz5Y-KRXTE4OAZR1J3lzPIHuhqOsg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 4.34,
+  "sources": [
+    {
+      "id": "channel:UCvdbpUpDg1cA4f_Jfg_-_TQ",
+      "type": "channel",
+      "label": "CBC News Saskatchewan",
+      "url": "https://www.youtube.com/channel/UCvdbpUpDg1cA4f_Jfg_-_TQ",
+      "firstSeenAt": "2026-09-20T11:20:13.102Z"
+    },
+    {
+      "id": "channel:UCRsN95JWuHHZpG4GAA97BJg",
+      "type": "channel",
+      "label": "CBC News Manitoba",
+      "url": "https://www.youtube.com/channel/UCRsN95JWuHHZpG4GAA97BJg",
+      "firstSeenAt": "2026-09-20T11:20:13.256Z"
+    }
+  ],
+  "recentItems": []
+}

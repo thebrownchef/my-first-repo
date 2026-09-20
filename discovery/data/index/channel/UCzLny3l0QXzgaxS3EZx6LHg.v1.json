@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCzLny3l0QXzgaxS3EZx6LHg",
+  "title": "Los Angeles Times Podcasts",
+  "thumb": "https://yt3.ggpht.com/pbrDUqObtaeRK8-HZ8w2f941BiFxRGFGCpQWiYdRqVOwxsT3CYtfy-FPUL9wIUGBHcCMwWKmrg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.15,
+  "sources": [
+    {
+      "id": "channel:UCA4xoD47J_5dgXCXwIkfqig",
+      "type": "channel",
+      "label": "Los Angeles Times Events",
+      "url": "https://www.youtube.com/channel/UCA4xoD47J_5dgXCXwIkfqig",
+      "firstSeenAt": "2026-09-20T11:20:21.013Z"
+    },
+    {
+      "id": "channel:UCnDaAs5_3WXEY_GF3MJ6lyA",
+      "type": "channel",
+      "label": "Los Angeles Times Food",
+      "url": "https://www.youtube.com/channel/UCnDaAs5_3WXEY_GF3MJ6lyA",
+      "firstSeenAt": "2026-09-20T11:20:21.277Z"
+    }
+  ],
+  "recentItems": []
+}

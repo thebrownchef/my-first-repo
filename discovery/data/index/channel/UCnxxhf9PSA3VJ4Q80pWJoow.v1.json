@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCnxxhf9PSA3VJ4Q80pWJoow",
+  "title": "Jeopardy!",
+  "thumb": "https://yt3.ggpht.com/4_bJCiJ2ChzbmNSpW9Wf5mVO9CXm_04nxH6xy43lctGkyXczbVRGGE5O1gPd5rXy6eBp5IYn0hs=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.69,
+  "sources": [
+    {
+      "id": "wiki:List of Jeopardy! contestants",
+      "type": "wikipedia",
+      "label": "List of Jeopardy! contestants",
+      "url": "https://en.wikipedia.org/wiki/List_of_Jeopardy!_contestants",
+      "firstSeenAt": "2026-08-28T18:39:19.394Z"
+    },
+    {
+      "id": "channel:UCz97F7dMxBNOfGYu3rx8aCw",
+      "type": "channel",
+      "label": "Sony Pictures Entertainment",
+      "url": "https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw",
+      "firstSeenAt": "2026-09-20T11:20:21.912Z"
+    }
+  ],
+  "recentItems": []
+}

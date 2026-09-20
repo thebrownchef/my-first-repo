@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCvGsQpaMZQOuQjYjQuszizQ",
+  "title": "Los Angeles Times En Español",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mmOAuSXf3HR_HWeb0LTZZvpVK4RHi7PFPWYFW7CpA4Q1k=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.67,
+  "sources": [
+    {
+      "id": "channel:UCw3SYO_euO0TSPC_m_0Pzgw",
+      "type": "channel",
+      "label": "Los Angeles Times",
+      "url": "https://www.youtube.com/channel/UCw3SYO_euO0TSPC_m_0Pzgw",
+      "firstSeenAt": "2026-08-30T11:52:35.083Z"
+    },
+    {
+      "id": "channel:UCA4xoD47J_5dgXCXwIkfqig",
+      "type": "channel",
+      "label": "Los Angeles Times Events",
+      "url": "https://www.youtube.com/channel/UCA4xoD47J_5dgXCXwIkfqig",
+      "firstSeenAt": "2026-09-20T11:20:21.014Z"
+    },
+    {
+      "id": "channel:UCnDaAs5_3WXEY_GF3MJ6lyA",
+      "type": "channel",
+      "label": "Los Angeles Times Food",
+      "url": "https://www.youtube.com/channel/UCnDaAs5_3WXEY_GF3MJ6lyA",
+      "firstSeenAt": "2026-09-20T11:20:21.277Z"
+    }
+  ],
+  "recentItems": []
+}

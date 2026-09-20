@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCZWlScCmjiezyIRAybUgXYQ",
   "title": "Film Independent",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mnC3gPGES4zb4UEMwi6i8q8XpMOnxxNePEBwTsTiZcRZY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "House Party (1990 film)",
       "url": "https://en.wikipedia.org/wiki/House_Party_(1990_film)",
       "firstSeenAt": "2026-09-02T11:15:16.624Z"
+    },
+    {
+      "id": "channel:UCKh2uxneD3Bpr5kSWx_NpHQ",
+      "type": "channel",
+      "label": "Brave New Hollywood",
+      "url": "https://www.youtube.com/channel/UCKh2uxneD3Bpr5kSWx_NpHQ",
+      "firstSeenAt": "2026-09-20T11:20:21.754Z"
     }
   ],
   "recentItems": []

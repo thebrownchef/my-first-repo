@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCJ0uqCI0Vqr2Rrt1HseGirg",
+  "title": "The Late Late Show with James Corden",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m9vIaaeucAbNzjVv31EWyUB0eO1EvwU9lhpXNcTxkb3kw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "channel:UCMtFAi84ehTSYSE9XoHefig",
+      "type": "channel",
+      "label": "The Late Show with Stephen Colbert",
+      "url": "https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig",
+      "firstSeenAt": "2026-09-05T10:32:38.276Z"
+    },
+    {
+      "id": "wiki:March for Our Lives",
+      "type": "wikipedia",
+      "label": "March for Our Lives",
+      "url": "https://en.wikipedia.org/wiki/March_for_Our_Lives",
+      "firstSeenAt": "2026-09-20T11:20:04.466Z"
+    }
+  ],
+  "recentItems": []
+}

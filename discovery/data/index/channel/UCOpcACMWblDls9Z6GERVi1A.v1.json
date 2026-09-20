@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCOpcACMWblDls9Z6GERVi1A",
   "title": "Screen Junkies",
   "thumb": "https://yt3.ggpht.com/ipqt0YXs_vHVOy6f8B_2fnwuWj8ZdOPse_IEbPrjrpkAk-NYUkX9re9D4ybfdUo5_6G3xKAd=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Rotten Tomatoes",
       "url": "https://www.youtube.com/channel/UCE0Wkd9Jcn2-TNo5G8bLQrA",
       "firstSeenAt": "2026-09-17T11:38:53.390Z"
+    },
+    {
+      "id": "channel:UCKh2uxneD3Bpr5kSWx_NpHQ",
+      "type": "channel",
+      "label": "Brave New Hollywood",
+      "url": "https://www.youtube.com/channel/UCKh2uxneD3Bpr5kSWx_NpHQ",
+      "firstSeenAt": "2026-09-20T11:20:21.754Z"
     }
   ],
   "recentItems": []

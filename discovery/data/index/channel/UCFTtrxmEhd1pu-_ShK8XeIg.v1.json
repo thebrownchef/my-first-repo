@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCFTtrxmEhd1pu-_ShK8XeIg",
+  "title": "Premium Digiplex Movies",
+  "thumb": "https://yt3.ggpht.com/b6uzSAJcGAUi8oQK6YLfWkCCxPo-GKQKlV2YPRSch5t_XsmxDZSduEKAXyJWMnxYJo1gpTk7=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.17,
+  "sources": [
+    {
+      "id": "channel:UCt7_pnSRPKU3bu2GqmgH8gQ",
+      "type": "channel",
+      "label": "Wamindia Movies",
+      "url": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ",
+      "firstSeenAt": "2026-08-29T12:40:35.361Z"
+    },
+    {
+      "id": "channel:UChOXJw1nDQMmaGZg1DOv8bQ",
+      "type": "channel",
+      "label": "Wam India Movie Talkies",
+      "url": "https://www.youtube.com/channel/UChOXJw1nDQMmaGZg1DOv8bQ",
+      "firstSeenAt": "2026-09-20T11:20:14.248Z"
+    },
+    {
+      "id": "channel:UC_sXBvPWlKbvKfrzHiqxYhg",
+      "type": "channel",
+      "label": "WamIndia Select Movies",
+      "url": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg",
+      "firstSeenAt": "2026-09-20T11:20:14.357Z"
+    }
+  ],
+  "recentItems": []
+}

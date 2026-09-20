@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCs1eMvIJbUfcknGziUrB3Cg",
+  "title": "Paramount+ Global",
+  "thumb": "https://yt3.ggpht.com/8jFfwZdOmbqdeymSDycDy0mKXCBJq_cZFQb3ZCgmT9v9CzTquEpX1_6l5Fmk3_xbXqRrOMty=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 75.63,
+  "sources": [
+    {
+      "id": "channel:UCN5Bw2dVHHok-OxHfIj0jZA",
+      "type": "channel",
+      "label": "British Stuff TV",
+      "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
+      "firstSeenAt": "2026-09-06T10:53:26.527Z"
+    },
+    {
+      "id": "channel:UCHiceVclOIFCgAcveITRLLw",
+      "type": "channel",
+      "label": "Nickelodeon UK",
+      "url": "https://www.youtube.com/channel/UCHiceVclOIFCgAcveITRLLw",
+      "firstSeenAt": "2026-09-20T11:20:10.439Z"
+    }
+  ],
+  "recentItems": []
+}

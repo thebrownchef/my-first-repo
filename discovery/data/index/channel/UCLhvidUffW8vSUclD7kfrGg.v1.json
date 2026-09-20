@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCLhvidUffW8vSUclD7kfrGg",
+  "title": "SBS Insight",
+  "thumb": "https://yt3.ggpht.com/ODdO7XcNdhDGcmBF74X-d-2fs3XW_tL-A6smXkmf9OUq9H75EfjXK4msISB8SP-NAtRsJRIhYg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.14,
+  "sources": [
+    {
+      "id": "channel:UCY_Bq1AF0xvPUjaAqV7kweA",
+      "type": "channel",
+      "label": "SBS Dateline",
+      "url": "https://www.youtube.com/channel/UCY_Bq1AF0xvPUjaAqV7kweA",
+      "firstSeenAt": "2026-08-30T11:52:36.969Z"
+    },
+    {
+      "id": "channel:UCE9Ou-1a1nNn784pHPhKghQ",
+      "type": "channel",
+      "label": "NITV",
+      "url": "https://www.youtube.com/channel/UCE9Ou-1a1nNn784pHPhKghQ",
+      "firstSeenAt": "2026-09-20T11:20:22.280Z"
+    },
+    {
+      "id": "channel:UCupDOc54HJbIPtgLjhABOZw",
+      "type": "channel",
+      "label": "SBS On Demand",
+      "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw",
+      "firstSeenAt": "2026-09-20T11:20:22.466Z"
+    }
+  ],
+  "recentItems": []
+}

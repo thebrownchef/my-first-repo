@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCKCbC7uTe7dRtKPou10JKtQ",
+  "title": "The San Diego Union-Tribune",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_l28xFuC7P3vS1o8KY3y__xhr_H6Q_z6yCKQ51NuTK6lEQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.74,
+  "sources": [
+    {
+      "id": "channel:UCA4xoD47J_5dgXCXwIkfqig",
+      "type": "channel",
+      "label": "Los Angeles Times Events",
+      "url": "https://www.youtube.com/channel/UCA4xoD47J_5dgXCXwIkfqig",
+      "firstSeenAt": "2026-09-20T11:20:21.014Z"
+    },
+    {
+      "id": "channel:UCvGsQpaMZQOuQjYjQuszizQ",
+      "type": "channel",
+      "label": "Los Angeles Times En Español",
+      "url": "https://www.youtube.com/channel/UCvGsQpaMZQOuQjYjQuszizQ",
+      "firstSeenAt": "2026-09-20T11:20:21.211Z"
+    },
+    {
+      "id": "channel:UCnDaAs5_3WXEY_GF3MJ6lyA",
+      "type": "channel",
+      "label": "Los Angeles Times Food",
+      "url": "https://www.youtube.com/channel/UCnDaAs5_3WXEY_GF3MJ6lyA",
+      "firstSeenAt": "2026-09-20T11:20:21.277Z"
+    }
+  ],
+  "recentItems": []
+}

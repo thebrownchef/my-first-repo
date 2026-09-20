@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCLsSLka8jODBozvi5VTQeaQ",
   "title": "Zee Music South",
   "thumb": "https://yt3.ggpht.com/jdmK6sZkAvq4rEXZZQXf-ojNShhwffx_R19Qhg5-AWeMTkllVoIyYu1AN-YmLEW5LplWeTPb-k0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 1.11,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Toxic (soundtrack)",
       "url": "https://en.wikipedia.org/wiki/Toxic_(soundtrack)",
       "firstSeenAt": "2026-09-06T10:53:22.169Z"
+    },
+    {
+      "id": "channel:UC3mMTXPmOZS89QtTbg7ckog",
+      "type": "channel",
+      "label": "Zee Music Bhojpuri",
+      "url": "https://www.youtube.com/channel/UC3mMTXPmOZS89QtTbg7ckog",
+      "firstSeenAt": "2026-09-20T11:20:18.380Z"
+    },
+    {
+      "id": "channel:UC6wE1QldDPmYWwGyuudy3Tg",
+      "type": "channel",
+      "label": "Zee Music Gujarati",
+      "url": "https://www.youtube.com/channel/UC6wE1QldDPmYWwGyuudy3Tg",
+      "firstSeenAt": "2026-09-20T11:20:18.460Z"
     }
   ],
   "recentItems": []

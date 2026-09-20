@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCY_Bq1AF0xvPUjaAqV7kweA",
+  "title": "SBS Dateline",
+  "thumb": "https://yt3.ggpht.com/cJFm-76MoVSLW4-PELtOaonkWQmt0Zh0-kkcxH6VyQGvYlAcAoB49vAMDFsuXVZS06lyRBHjxQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.19,
+  "sources": [
+    {
+      "id": "wiki:Menispermaceae",
+      "type": "wikipedia",
+      "label": "Menispermaceae",
+      "url": "https://en.wikipedia.org/wiki/Menispermaceae",
+      "firstSeenAt": "2026-08-28T18:39:19.393Z"
+    },
+    {
+      "id": "channel:UCE9Ou-1a1nNn784pHPhKghQ",
+      "type": "channel",
+      "label": "NITV",
+      "url": "https://www.youtube.com/channel/UCE9Ou-1a1nNn784pHPhKghQ",
+      "firstSeenAt": "2026-09-20T11:20:22.280Z"
+    },
+    {
+      "id": "channel:UCupDOc54HJbIPtgLjhABOZw",
+      "type": "channel",
+      "label": "SBS On Demand",
+      "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw",
+      "firstSeenAt": "2026-09-20T11:20:22.466Z"
+    }
+  ],
+  "recentItems": []
+}

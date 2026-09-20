@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCmWM41PbvACeikFBjm7RJcw",
+  "title": "Noggin",
+  "thumb": "https://yt3.ggpht.com/GdQhsQJdXMnaTHNSTIyt17WFw8U-FFIQBFfvQGRbJAV7-xw6DOtXEYhcmLzjbDHIatZ-FaqxYg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "channel:UCjZo1E1P6wDDyw6ImVgKM-A",
+      "type": "channel",
+      "label": "Blue's Clues & You!",
+      "url": "https://www.youtube.com/channel/UCjZo1E1P6wDDyw6ImVgKM-A",
+      "firstSeenAt": "2026-09-20T11:20:09.494Z"
+    },
+    {
+      "id": "channel:UCUe6ZpY6TJ0no8jI4l2iLxw",
+      "type": "channel",
+      "label": "Nick Jr.",
+      "url": "https://www.youtube.com/channel/UCUe6ZpY6TJ0no8jI4l2iLxw",
+      "firstSeenAt": "2026-09-20T11:20:09.861Z"
+    },
+    {
+      "id": "channel:UCmWZB57dUwFfj847-4y63JA",
+      "type": "channel",
+      "label": "Blaze and the Monster Machines",
+      "url": "https://www.youtube.com/channel/UCmWZB57dUwFfj847-4y63JA",
+      "firstSeenAt": "2026-09-20T11:20:09.982Z"
+    }
+  ],
+  "recentItems": []
+}

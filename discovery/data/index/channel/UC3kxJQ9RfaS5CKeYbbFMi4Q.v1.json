@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UC3kxJQ9RfaS5CKeYbbFMi4Q",
+  "title": "Sky Sports F1",
+  "thumb": "https://yt3.ggpht.com/Xt_Cq5mjf9kPYOfJ9zfX-aAwKbK4rx4rSnKAhG6eF8pu6vo1Jw0ty7k8DbdQEOmt10uuufG6Bw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 1.92,
+  "sources": [
+    {
+      "id": "channel:UCNAf1k0yIjyGu3k9BwAg3lg",
+      "type": "channel",
+      "label": "Sky Sports Premier League",
+      "url": "https://www.youtube.com/channel/UCNAf1k0yIjyGu3k9BwAg3lg",
+      "firstSeenAt": "2026-08-29T12:40:31.484Z"
+    },
+    {
+      "id": "channel:UCTU_wC79Dgi9rh4e9-baTqA",
+      "type": "channel",
+      "label": "Sky Sports",
+      "url": "https://www.youtube.com/channel/UCTU_wC79Dgi9rh4e9-baTqA",
+      "firstSeenAt": "2026-09-20T11:20:11.902Z"
+    },
+    {
+      "id": "channel:UCE97AW7eR8VVbVPBy4cCLKg",
+      "type": "channel",
+      "label": "Soccer AM",
+      "url": "https://www.youtube.com/channel/UCE97AW7eR8VVbVPBy4cCLKg",
+      "firstSeenAt": "2026-09-20T11:20:11.966Z"
+    }
+  ],
+  "recentItems": []
+}

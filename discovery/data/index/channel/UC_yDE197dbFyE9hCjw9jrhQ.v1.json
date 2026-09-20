@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UC_yDE197dbFyE9hCjw9jrhQ",
   "title": "FANFARA BERSAGLIERI \"A.CARETTO\" di BEDIZZOLE",
   "thumb": "https://yt3.ggpht.com/GWBS07s8dE0KF4-fURnS7N84cqiR9KDJlIg6a1C0KyGd_C6zTnvibRi1jyrmI-aFSOi_eYm2Vg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "La Musique du Royal 22e Régiment",
       "url": "https://en.wikipedia.org/wiki/La_Musique_du_Royal_22e_R%C3%A9giment",
       "firstSeenAt": "2026-08-29T12:40:10.330Z"
+    },
+    {
+      "id": "channel:UC5vy0Zfh9dZ2THB8pK1ehgg",
+      "type": "channel",
+      "label": "F.C.P. VIDEO UNIVERSE",
+      "url": "https://www.youtube.com/channel/UC5vy0Zfh9dZ2THB8pK1ehgg",
+      "firstSeenAt": "2026-09-20T11:20:15.081Z"
     }
   ],
   "recentItems": []

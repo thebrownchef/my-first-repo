@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCcLK3j-XWdGBnt5bR9NJHaQ",
   "title": "CCTV中国中央电视台",
   "thumb": "https://yt3.ggpht.com/UldwlGABN4ST-DVLUDoaKlA4bcE3TvYpLoJvcQslZeJdo2qJrDMR1ZHmFVIhBSxdDUUNgDEAFw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 9.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hola China",
       "url": "https://www.youtube.com/channel/UCn-Oa4YPeL73DPnyO5HIurw",
       "firstSeenAt": "2026-08-29T12:40:33.020Z"
+    },
+    {
+      "id": "channel:UCfkV7TVyjL8CIJhBafkhMdA",
+      "type": "channel",
+      "label": "Bonjour la Chine",
+      "url": "https://www.youtube.com/channel/UCfkV7TVyjL8CIJhBafkhMdA",
+      "firstSeenAt": "2026-09-20T11:20:12.624Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCVi2lI40LetxLBKn-rtWC3A",
   "title": "Crunchyroll Dubs",
   "thumb": "https://yt3.ggpht.com/HG8IRx4_jB9BeL3SfpT5LixAJHfl7qlewuQSH34NxoFW4VNZlJQd8u2wQE_RRsNqdP7Qzcrn=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.06,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Crunchyroll Extras",
       "url": "https://www.youtube.com/channel/UCkmQtnPJqb3qyWLna6ct4qw",
       "firstSeenAt": "2026-09-18T11:11:08.179Z"
+    },
+    {
+      "id": "channel:UCz97F7dMxBNOfGYu3rx8aCw",
+      "type": "channel",
+      "label": "Sony Pictures Entertainment",
+      "url": "https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw",
+      "firstSeenAt": "2026-09-20T11:20:21.911Z"
     }
   ],
   "recentItems": []

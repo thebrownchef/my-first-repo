@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 86,
-  "distinctSourceCount": 86,
+  "score": 89,
+  "distinctSourceCount": 89,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -610,6 +610,27 @@
       "label": "SetItOffVEVO",
       "url": "https://www.youtube.com/channel/UCFgpliUW3FInEG5aU1AvUeA",
       "firstSeenAt": "2026-09-17T11:38:51.443Z"
+    },
+    {
+      "id": "channel:UCUGzhBmck61sa3eGxp9xI8A",
+      "type": "channel",
+      "label": "VampireWeekendVEVO",
+      "url": "https://www.youtube.com/channel/UCUGzhBmck61sa3eGxp9xI8A",
+      "firstSeenAt": "2026-09-20T11:20:12.205Z"
+    },
+    {
+      "id": "channel:UC0V8CJCY54qB9QooAqxyluQ",
+      "type": "channel",
+      "label": "TheMaccabeesVEVO",
+      "url": "https://www.youtube.com/channel/UC0V8CJCY54qB9QooAqxyluQ",
+      "firstSeenAt": "2026-09-20T11:20:12.376Z"
+    },
+    {
+      "id": "channel:UCaLYXxQhRhh6pm636YSGSVw",
+      "type": "channel",
+      "label": "TheDreamVEVO",
+      "url": "https://www.youtube.com/channel/UCaLYXxQhRhh6pm636YSGSVw",
+      "firstSeenAt": "2026-09-20T11:20:21.586Z"
     }
   ],
   "recentItems": []

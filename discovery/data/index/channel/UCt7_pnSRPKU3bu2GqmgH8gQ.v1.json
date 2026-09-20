@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+  "title": "Wamindia Movies",
+  "thumb": "https://yt3.ggpht.com/wZFrOAc5nY70tfCUIb-VDI4Ha8WKABLMwLrIWTwrVmuI9uL_il2d-5KBzfTRhLMKjLHpmTv0=s88-c-k-c0x00ffffff-no-rj",
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 0,
+  "uploadsPerDay": 0.15,
+  "sources": [
+    {
+      "id": "wiki:Election (2013 film)",
+      "type": "wikipedia",
+      "label": "Election (2013 film)",
+      "url": "https://en.wikipedia.org/wiki/Election_(2013_film)",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "channel:UChOXJw1nDQMmaGZg1DOv8bQ",
+      "type": "channel",
+      "label": "Wam India Movie Talkies",
+      "url": "https://www.youtube.com/channel/UChOXJw1nDQMmaGZg1DOv8bQ",
+      "firstSeenAt": "2026-09-20T11:20:14.248Z"
+    },
+    {
+      "id": "channel:UCFTtrxmEhd1pu-_ShK8XeIg",
+      "type": "channel",
+      "label": "Premium Digiplex Movies",
+      "url": "https://www.youtube.com/channel/UCFTtrxmEhd1pu-_ShK8XeIg",
+      "firstSeenAt": "2026-09-20T11:20:14.327Z"
+    },
+    {
+      "id": "channel:UC_sXBvPWlKbvKfrzHiqxYhg",
+      "type": "channel",
+      "label": "WamIndia Select Movies",
+      "url": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg",
+      "firstSeenAt": "2026-09-20T11:20:14.357Z"
+    }
+  ],
+  "recentItems": []
+}

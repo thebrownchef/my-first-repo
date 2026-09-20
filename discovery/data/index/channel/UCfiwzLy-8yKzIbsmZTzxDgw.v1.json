@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCfiwzLy-8yKzIbsmZTzxDgw",
   "title": "AlJazeera Arabic  قناة الجزيرة",
   "thumb": "https://yt3.ggpht.com/oN_i26ADOuQ4PdypHo8yjVXh6QSXZ1kMeYzaRH3hNOlQE1uEUUQ-gkCh0o1rUQ2PM7Qx6QvY2g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 45.5,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Al Jazeera Balkans",
       "url": "https://www.youtube.com/channel/UC_yXEx3-Gk5drg9qhPzSQSg",
       "firstSeenAt": "2026-09-01T11:37:32.850Z"
+    },
+    {
+      "id": "channel:UC1M1X344ssYjSvjAXM0Rn2Q",
+      "type": "channel",
+      "label": "الجزيرة برامج",
+      "url": "https://www.youtube.com/channel/UC1M1X344ssYjSvjAXM0Rn2Q",
+      "firstSeenAt": "2026-09-20T11:20:20.824Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "HozierVEVO",
       "url": "https://www.youtube.com/channel/UCdOcBpu5O2V0JhFFs9k-Ouw",
       "firstSeenAt": "2026-09-16T11:29:17.832Z"
+    },
+    {
+      "id": "channel:UC0V8CJCY54qB9QooAqxyluQ",
+      "type": "channel",
+      "label": "TheMaccabeesVEVO",
+      "url": "https://www.youtube.com/channel/UC0V8CJCY54qB9QooAqxyluQ",
+      "firstSeenAt": "2026-09-20T11:20:12.376Z"
     }
   ],
   "recentItems": [

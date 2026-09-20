@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "id": "UCy46a7I9CXYP1QYukKBTmtQ",
+  "title": "New Bollywood TV",
+  "thumb": "https://yt3.ggpht.com/3yMY0wNiDHb7_RdfTVaw04-V1Kp04cm32az5l55m-h465WVzg3ro5j_lko6yLRJhoDB-AdnKnQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.06,
+  "sources": [
+    {
+      "id": "channel:UCt7_pnSRPKU3bu2GqmgH8gQ",
+      "type": "channel",
+      "label": "Wamindia Movies",
+      "url": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ",
+      "firstSeenAt": "2026-08-29T12:40:35.362Z"
+    },
+    {
+      "id": "channel:UCFTtrxmEhd1pu-_ShK8XeIg",
+      "type": "channel",
+      "label": "Premium Digiplex Movies",
+      "url": "https://www.youtube.com/channel/UCFTtrxmEhd1pu-_ShK8XeIg",
+      "firstSeenAt": "2026-09-20T11:20:14.328Z"
+    }
+  ],
+  "recentItems": []
+}

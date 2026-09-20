@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UCRi9IXkjK1xlK6YU4tI2c3Q",
   "title": "ВоенТВ Беларуси",
   "thumb": "https://yt3.ggpht.com/NFH7yQKvnXuVlEwg8N_a8iEcYv-UF5dWYFsxmi20k3ZdoC4oJrtYDCfwdo_qtVSF7BziJBUOug=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.87,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Министерство обороны Беларуси",
       "url": "https://www.youtube.com/channel/UCDdsHddcgGoBSgv_nTDqNdg",
       "firstSeenAt": "2026-08-29T12:40:39.702Z"
+    },
+    {
+      "id": "channel:UCbfMSHN4Uw9nJ-3Z4tZpbJw",
+      "type": "channel",
+      "label": "Военное телевидение",
+      "url": "https://www.youtube.com/channel/UCbfMSHN4Uw9nJ-3Z4tZpbJw",
+      "firstSeenAt": "2026-09-20T11:20:15.397Z"
     }
   ],
   "recentItems": []

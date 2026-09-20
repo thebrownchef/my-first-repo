@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:40.602Z",
+  "generatedAt": "2026-09-20T11:21:12.658Z",
   "id": "UC_5niPa-d35gg88HaS7RrIw",
   "title": "Disney",
   "thumb": "https://yt3.ggpht.com/uvVynu6npnzegTAbRrC8sJeX9ojPkuJe6gr2UZ6bR857tVU0kUqfK0LDsfZttcM3FwRv63u99g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.748Z"
+    },
+    {
+      "id": "channel:UC_IRYSp4auq7hKLvziWVH6w",
+      "type": "channel",
+      "label": "Pixar",
+      "url": "https://www.youtube.com/channel/UC_IRYSp4auq7hKLvziWVH6w",
+      "firstSeenAt": "2026-09-20T11:20:22.007Z"
     }
   ],
   "recentItems": []
