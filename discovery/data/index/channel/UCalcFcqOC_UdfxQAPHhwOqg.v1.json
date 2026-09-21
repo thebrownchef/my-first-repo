@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCalcFcqOC_UdfxQAPHhwOqg",
   "title": "Jersey Shore",
   "thumb": "https://yt3.ggpht.com/aMqMofuB6jOKTxscdArisQVF_q9UgI6k8qMhHpQPCXl5iEi755WMiARjbUDHlvaM4J9vfOnpCYk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "MTV",
       "url": "https://www.youtube.com/channel/UCxAICW_LdkfFYwTqTHHE0vg",
       "firstSeenAt": "2026-09-19T10:55:42.569Z"
+    },
+    {
+      "id": "channel:UCPsLq0LqvMOk9Zc1rQvtMkw",
+      "type": "channel",
+      "label": "MTV Access",
+      "url": "https://www.youtube.com/channel/UCPsLq0LqvMOk9Zc1rQvtMkw",
+      "firstSeenAt": "2026-09-21T12:44:49.157Z"
+    },
+    {
+      "id": "channel:UCaj53l_4tT1m5DfsxLtcxpQ",
+      "type": "channel",
+      "label": "Love & Hip Hop",
+      "url": "https://www.youtube.com/channel/UCaj53l_4tT1m5DfsxLtcxpQ",
+      "firstSeenAt": "2026-09-21T12:44:49.249Z"
     }
   ],
   "recentItems": [

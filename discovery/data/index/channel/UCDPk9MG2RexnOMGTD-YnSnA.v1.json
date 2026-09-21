@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCDPk9MG2RexnOMGTD-YnSnA",
   "title": "Nat Geo Animals",
   "thumb": "https://yt3.ggpht.com/5mg7UqgDqCz6lKvMtVMRkAsv5krHFZvp9AM2_xN_07PtLPPuWgvff5x6tYXxL_wWQdtusf26Ag=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Triplofusus giganteus",
       "url": "https://en.wikipedia.org/wiki/Triplofusus_giganteus",
       "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "channel:UCKVtMu6QLSEA528Li51ndPQ",
+      "type": "channel",
+      "label": "Nat Geo en Español",
+      "url": "https://www.youtube.com/channel/UCKVtMu6QLSEA528Li51ndPQ",
+      "firstSeenAt": "2026-09-21T12:44:50.212Z"
     }
   ],
   "recentItems": []

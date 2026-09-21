@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
   "title": "National Geographic",
   "thumb": "https://yt3.ggpht.com/-FOFg8o1y4dAHDB2MvhORHnLMOaaOKnaNUNsrU-U57Eac6gjB5VO8sYJQC1KkULGQvKP2XpArA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.55,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "Khonski",
       "url": "https://www.youtube.com/channel/UC-1JJ0QipgLp7ZofivV-XGQ",
       "firstSeenAt": "2026-08-31T13:44:58.136Z"
+    },
+    {
+      "id": "channel:UCIrgJInjLS2BhlHOMDW7v0g",
+      "type": "channel",
+      "label": "Disney Plus",
+      "url": "https://www.youtube.com/channel/UCIrgJInjLS2BhlHOMDW7v0g",
+      "firstSeenAt": "2026-09-21T12:44:49.756Z"
+    },
+    {
+      "id": "channel:UCDPk9MG2RexnOMGTD-YnSnA",
+      "type": "channel",
+      "label": "Nat Geo Animals",
+      "url": "https://www.youtube.com/channel/UCDPk9MG2RexnOMGTD-YnSnA",
+      "firstSeenAt": "2026-09-21T12:44:50.115Z"
+    },
+    {
+      "id": "channel:UCKVtMu6QLSEA528Li51ndPQ",
+      "type": "channel",
+      "label": "Nat Geo en Español",
+      "url": "https://www.youtube.com/channel/UCKVtMu6QLSEA528Li51ndPQ",
+      "firstSeenAt": "2026-09-21T12:44:50.212Z"
     }
   ],
   "recentItems": []

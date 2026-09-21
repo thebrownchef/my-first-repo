@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCZGYJFUizSax-yElQaFDp5Q",
   "title": "Star Wars",
   "thumb": "https://yt3.ggpht.com/6h_TKBeaT6QOIqIkjFO96tEpEcbqmW9SiUtit0L0_J-fM5uwwqYGuEa78-Zpol3jnZFugoY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Pixar",
       "url": "https://www.youtube.com/channel/UC_IRYSp4auq7hKLvziWVH6w",
       "firstSeenAt": "2026-09-20T11:20:22.007Z"
+    },
+    {
+      "id": "channel:UCIrgJInjLS2BhlHOMDW7v0g",
+      "type": "channel",
+      "label": "Disney Plus",
+      "url": "https://www.youtube.com/channel/UCIrgJInjLS2BhlHOMDW7v0g",
+      "firstSeenAt": "2026-09-21T12:44:49.756Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCsN32BtMd0IoByjJRNF12cw",
   "title": "60 Minutes",
   "thumb": "https://yt3.ggpht.com/TqABNUxcOZskunKayOizy6ge4RekSFL7cCNxGO9Ct-J8sYOthNd5Lc6m4hrfzeHQikTFCFi3pQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.71,
   "sources": [
@@ -36,7 +36,74 @@
       "label": "WCCO - CBS Minnesota",
       "url": "https://www.youtube.com/channel/UCry2gCVdntv6r661sKUiKXw",
       "firstSeenAt": "2026-09-12T10:43:01.386Z"
+    },
+    {
+      "id": "channel:UC2x_qNZXKDxNP1j4jvHATRQ",
+      "type": "channel",
+      "label": "Face the Nation",
+      "url": "https://www.youtube.com/channel/UC2x_qNZXKDxNP1j4jvHATRQ",
+      "firstSeenAt": "2026-09-21T12:45:08.656Z"
+    },
+    {
+      "id": "channel:UC7htuVs06oduI3xSfTdcxPA",
+      "type": "channel",
+      "label": "48 Hours",
+      "url": "https://www.youtube.com/channel/UC7htuVs06oduI3xSfTdcxPA",
+      "firstSeenAt": "2026-09-21T12:45:08.794Z"
+    },
+    {
+      "id": "channel:UC8p1vwvWtl6T73JiExfWs1g",
+      "type": "channel",
+      "label": "CBS News",
+      "url": "https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g",
+      "firstSeenAt": "2026-09-21T12:45:08.973Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "V9E2snHZOuU",
+      "title": "Is this where Shergar was buried? #shorts",
+      "publishedAt": "2026-09-21T03:22:04Z",
+      "durationSec": 86,
+      "thumb": "https://i.ytimg.com/vi/V9E2snHZOuU/mqdefault.jpg",
+      "description": "#shergar #horses #mystery",
+      "chapters": []
+    },
+    {
+      "id": "z3dHovnA1rk",
+      "title": "A call from Shergar’s kidnappers #shorts",
+      "publishedAt": "2026-09-21T03:17:49Z",
+      "durationSec": 111,
+      "thumb": "https://i.ytimg.com/vi/z3dHovnA1rk/mqdefault.jpg",
+      "description": "#shergar #60minutes #kidnapping #ireland",
+      "chapters": []
+    },
+    {
+      "id": "g-l8k5rXSp4",
+      "title": "The night that masked gunmen kidnapped champion racehorse Shergar #shorts",
+      "publishedAt": "2026-09-21T03:15:55Z",
+      "durationSec": 106,
+      "thumb": "https://i.ytimg.com/vi/g-l8k5rXSp4/mqdefault.jpg",
+      "description": "#ireland #shergar #kidnapping",
+      "chapters": []
+    },
+    {
+      "id": "s4dQXJo_T0U",
+      "title": "Why Shergar was considered one of horse racing’s greats #shorts",
+      "publishedAt": "2026-09-21T03:15:03Z",
+      "durationSec": 101,
+      "thumb": "https://i.ytimg.com/vi/s4dQXJo_T0U/mqdefault.jpg",
+      "description": "#ireland #shergar #horseracing",
+      "chapters": []
+    },
+    {
+      "id": "i1f7cGpO4kU",
+      "title": "Patrick Clancy on forgiving Lindsay #shorts",
+      "publishedAt": "2026-09-21T03:10:35Z",
+      "durationSec": 68,
+      "thumb": "https://i.ytimg.com/vi/i1f7cGpO4kU/mqdefault.jpg",
+      "description": "#patrickclancy #news #mentalhealth",
+      "chapters": []
+    }
+  ]
 }

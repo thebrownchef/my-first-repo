@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCvn-HVrAGYEKsVx6gW3MeNQ",
   "title": "VH1",
   "thumb": "https://yt3.ggpht.com/y6UqFQ10EgQS6L7q6awRz2kmsaOFvDQtc1egb3GOBdIsuisDuRCfDiTbgXWbI8cJsAYyPURk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Paramount Plus",
       "url": "https://www.youtube.com/channel/UCrRttZIypNTA1Mrfwo745Sg",
       "firstSeenAt": "2026-09-19T10:55:42.416Z"
+    },
+    {
+      "id": "channel:UCaj53l_4tT1m5DfsxLtcxpQ",
+      "type": "channel",
+      "label": "Love & Hip Hop",
+      "url": "https://www.youtube.com/channel/UCaj53l_4tT1m5DfsxLtcxpQ",
+      "firstSeenAt": "2026-09-21T12:44:49.248Z"
+    },
+    {
+      "id": "channel:UCuiK2XdDcyAd7TS9ioMqx6A",
+      "type": "channel",
+      "label": "Logo",
+      "url": "https://www.youtube.com/channel/UCuiK2XdDcyAd7TS9ioMqx6A",
+      "firstSeenAt": "2026-09-21T12:44:49.536Z"
     }
   ],
   "recentItems": []

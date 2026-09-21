@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCn6UMS98Ox-B3jkSWlweJ2w",
   "title": "SBS Sport ",
   "thumb": "https://yt3.ggpht.com/HvUbYK8HIwQCRcKCmNpWFPUyDPy5hAHvSk0NtLCqGvcP3Q-nKNpWx6jB7aotn3p7HH8JKDXeiA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.73,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "SBS On Demand",
       "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw",
       "firstSeenAt": "2026-09-20T11:20:22.465Z"
+    },
+    {
+      "id": "channel:UCuuTCooIMbBFHNbPcSS70uw",
+      "type": "channel",
+      "label": "SBS News",
+      "url": "https://www.youtube.com/channel/UCuuTCooIMbBFHNbPcSS70uw",
+      "firstSeenAt": "2026-09-21T12:44:45.319Z"
     }
   ],
   "recentItems": []

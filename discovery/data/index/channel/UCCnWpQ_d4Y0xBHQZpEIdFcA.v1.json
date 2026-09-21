@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCCnWpQ_d4Y0xBHQZpEIdFcA",
   "title": "MTV Catfish",
   "thumb": "https://yt3.ggpht.com/9BF2fWaKPn23K89Zn1vyFh4E_mPPC090TLqJ1nYFZcybfAtb-FtJ5G_ePrYNcsQlYYZXdd5a4A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "MTV Reality",
       "url": "https://www.youtube.com/channel/UC-PLqRoj7_eSUIg_qkj5HfA",
       "firstSeenAt": "2026-09-19T10:55:42.601Z"
+    },
+    {
+      "id": "channel:UCPsLq0LqvMOk9Zc1rQvtMkw",
+      "type": "channel",
+      "label": "MTV Access",
+      "url": "https://www.youtube.com/channel/UCPsLq0LqvMOk9Zc1rQvtMkw",
+      "firstSeenAt": "2026-09-21T12:44:49.157Z"
     }
   ],
   "recentItems": [

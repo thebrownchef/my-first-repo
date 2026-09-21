@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCTILfqEQUVaVKPkny8QRE0w",
   "title": "SBS The Feed",
   "thumb": "https://yt3.ggpht.com/dQZdyVDK9I-fUBYOVvfdFs0MQ3ogjHArMTseL_dxMroV-kHtzOEXS7pmi0ObaRCgUZ6PdJXEX6c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.62,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "SBS On Demand",
       "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw",
       "firstSeenAt": "2026-09-20T11:20:22.467Z"
+    },
+    {
+      "id": "channel:UCLhvidUffW8vSUclD7kfrGg",
+      "type": "channel",
+      "label": "SBS Insight",
+      "url": "https://www.youtube.com/channel/UCLhvidUffW8vSUclD7kfrGg",
+      "firstSeenAt": "2026-09-21T12:44:45.220Z"
+    },
+    {
+      "id": "channel:UCuuTCooIMbBFHNbPcSS70uw",
+      "type": "channel",
+      "label": "SBS News",
+      "url": "https://www.youtube.com/channel/UCuuTCooIMbBFHNbPcSS70uw",
+      "firstSeenAt": "2026-09-21T12:44:45.319Z"
     }
   ],
   "recentItems": []

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
   "title": "Computer History Museum",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
@@ -45,69 +45,5 @@
       "firstSeenAt": "2026-08-28T18:39:22.580Z"
     }
   ],
-  "recentItems": [
-    {
-      "id": "Yw6Cet2JR-E",
-      "title": "Oral History of Rich Seifert",
-      "publishedAt": "2026-09-16T23:56:59Z",
-      "durationSec": 9297,
-      "thumb": "https://i.ytimg.com/vi/Yw6Cet2JR-E/mqdefault.jpg",
-      "description": "This oral history details American engineer Rich Seifert's pivotal role in developing and standardizing commercial Ethernet. Drawing on his early background in ham radio and electromagnetic compatibility, Seifert joined Digital Equipment Corporation (DEC), where he became the company's engineering representative in the DEC-Intel-Xerox (DIX) consortium. Within this group, he architected Ethernet's physical layer. \n\nHis contributions included specifying and co-designing the 10 Mbps Ethernet transceiver, the mechanical \"vampire tap\" connector, and the heavily shielded, iconic yellow (and also orange) 50-ohm coaxial cable built to withstand severe industrial interference. The interview also explores the transition from the DIX [DEC, Intel, Xerox] specification to the open IEEE 802.3 standard. Seifert highlights the consortium's strategic decision to license Ethernet patents for a nominal fee via vendor codes, a move that cemented its ubiquitous industry dominance. Finally, he outlines his later career founding networking startups and consulting for major technology firms.\n\nInterviewed by Dag Spicer on 2023-07-28 \n© Computer History Museum\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/300000335\n\nCatalog number: 300000336\nAcquisition number: 2026.0178",
-      "chapters": []
-    },
-    {
-      "id": "sgOfw1Ul8Os",
-      "title": "Oral History of Don Mattson",
-      "publishedAt": "2026-09-09T22:21:43Z",
-      "durationSec": 6260,
-      "thumb": "https://i.ytimg.com/vi/sgOfw1Ul8Os/mqdefault.jpg",
-      "description": "This oral history was conducted for the museum's Computer Storage program to capture Don Mattson's experiences in manufacturing and producing magnetic computer tape, but he turned out to be a serial entrepreneur with a particularly interesting experience in CT scanning that arose from the 9/11 tragedy.\n\nDon Mattson entered the magnetic tape field almost by accident: after chemistry studies at Berkeley, an Army stint in Italy, and an MBA, he joined vacuum-tube maker Eitel-McCullough, where he learned ceramics, metalizing, and improvised early clean-room techniques. In 1969 he moved to Memorex, first briefly in disk pack production and then as production manager of the tape plant, where he describes in detail the full 1961-vintage tape process he inherited — coating dispersion in vibratory \"ball\" mills, reverse-roll coating, particle alignment, drying, calendaring, and slitting — and the environmental, safety, and process-control challenges of running it. In 1972, as head of Memorex's Disk Pack division, he led it through the transition from disk packs to Winchester data modules - \"Data Mark\" in Memorex terms, building an organization he recalls as unusually generative of future Silicon Valley executives.\n\nHe went on to run manufacturing at Verbatim (floppy disks, including a new plant in Limerick, Ireland), then founded his own thin-film disk company, later sold to Storage Technology; led production at an optical-disk startup; consulted through PRTM, including standing up Quantum's DLT tape-drive line in a former Cray Computer facility.\n\nHe served as COO of InVision Technologies, whose explosives-detection CT scanners went from low-volume R&D to round-the-clock production in the aftermath of September 11, culminating in the company's sale to General Electric.\n\nThough recruited for his tape manufacturing expertise, Mattson's account traces a much broader arc — vacuum tubes, tape, disk, floppy media, optical storage, tape drives, and aviation security — that reflects a recurring Silicon Valley pattern of engineers and managers moving between companies, founding new ventures, and repeatedly rebuilding production organizations from scratch.\n\nInterviewed by Tom Gardner on 2023-06-23 \n© Computer History Museum\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/300000413\n\nCatalog number: 300000414\nAcquisition number: 2026.0232",
-      "chapters": []
-    },
-    {
-      "id": "iYQtHe0m01U",
-      "title": "UNBOXED: Apple’s 40-year-old vision of the future, finally realized.",
-      "publishedAt": "2026-09-09T20:11:01Z",
-      "durationSec": 110,
-      "thumb": "https://i.ytimg.com/vi/iYQtHe0m01U/mqdefault.jpg",
-      "description": "Forty years ago, Apple imagined the Knowledge Navigator, a foldable device with screens, a camera, and an AI assistant. It was never built, but its vision of the future proved remarkably prescient.\n\nIn this video, we celebrate the donation of a rare replica of the Knowledge Navigator to the Computer History Museum by Italian collector and Fondazione 101 founder Damiano Airoldi. Years in the making, this gift preserves an important chapter in the history of computing: a future imagined long before it became possible.\n\nAs Apple enters the foldable era with its newly announced iPhone Duo, the Knowledge Navigator serves as a reminder that some of the company's boldest ideas began as pure imagination.",
-      "chapters": []
-    },
-    {
-      "id": "A3NaJWmRcOA",
-      "title": "IBM Stretch: The House-Sized Computer",
-      "publishedAt": "2026-09-05T08:00:02Z",
-      "durationSec": 77,
-      "thumb": "https://i.ytimg.com/vi/A3NaJWmRcOA/mqdefault.jpg",
-      "description": "IBM’s Stretch fell short of its ambitious goal to be 100 times faster than the IBM 704, and was branded a failure. Yet when completed in 1961, it was the world’s fastest computer and introduced dozens of innovations that helped shape the computers that followed.\n\nOn September 5, 1980, the last IBM Stretch still in use was shut down.",
-      "chapters": []
-    },
-    {
-      "id": "D38AZHNSYBY",
-      "title": "Oral History of Mark Goldstein",
-      "publishedAt": "2026-09-04T23:43:40Z",
-      "durationSec": 8172,
-      "thumb": "https://i.ytimg.com/vi/D38AZHNSYBY/mqdefault.jpg",
-      "description": "Mark Goldstein's multifaceted career lies at the intersection of music, computer science, and artificial intelligence.  This  interview describes His early life in New York, his foundational studies in percussion and computer science at Johns Hopkins University, and his graduate work at Stanford's CCRMA focusing on automatic music transcription. \n\nGoldstein details his diverse professional background, including roles in early AI development at Syntelligence and IntelliCorp, and pioneering digital audio workstation engineering at Integrated Media Systems. A central focus of the interview is his extensive collaboration with electronic instrument designer Don Buchla. Together, they refined and performed with the spatial Lightning wands and conceptualized the Marimba Lumina, an innovative electronic percussion controller. \n\nThe interview concludes with Goldstein reflecting on his silent film accompaniment work with Dennis James and his internal musical advocacy while employed at Google.\n\nInterviewed by Chris Garcia on 2018-10-19 \n© Computer History Museum\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/102740443\n\nCatalog number: 102740444\nAcquisition number: X8814.2019",
-      "chapters": []
-    },
-    {
-      "id": "yhtPR7RoG9k",
-      "title": "Oral History of Andy Hertzfeld Part 1 of 2",
-      "publishedAt": "2026-08-31T20:39:27Z",
-      "durationSec": 10776,
-      "thumb": "https://i.ytimg.com/vi/yhtPR7RoG9k/mqdefault.jpg",
-      "description": "Interviewed by Hansen Hsu on 2025-09-24 \n© Computer History Museum\n\nAndy Hertzfeld was born in 1953 in Philadelphia, studied applied math and CS at Brown, and pursued a PhD in CS at Berkeley. After seeing the Apple II debut in 1977, he started writing, publishing and selling Apple II software. Hired by Apple in 1979 initially in the Apple II team, Hertzfeld befriended and aided Burrell Smith in the Macintosh team and eventually joined him there, becoming its second software engineer. Hertzfeld completed the port of QuickDraw from Lisa to Macintosh and wrote much of the Toolbox code and many desk accessories. Conflict with manager Bob Belleville contributed to Hertzfeld leaving Apple after the Macintosh launch. Afterwards, Hertzfeld developed Switcher, which allowed multitasking on the Macintosh for the first time, and helped organize the 1984 Hacker’s Conference.\n\nNote:  Transcripts represent what was said in the interview. However, to enhance meaning or add clarification, interviewees have the opportunity to modify this text afterward. This may result in discrepancies between the transcript and the video. Please refer to the transcript for further information - http://www.computerhistory.org/collections/catalog/300000189\n\nCatalog number: 300000189\nAcquisition number: 2025.0173",
-      "chapters": []
-    },
-    {
-      "id": "P0vZKVOeAPY",
-      "title": "CHM Live | The Silicon Gold Rush: How AI is Driving the Development of New Chips",
-      "publishedAt": "2026-08-28T23:06:45Z",
-      "durationSec": 4434,
-      "thumb": "https://i.ytimg.com/vi/P0vZKVOeAPY/mqdefault.jpg",
-      "description": "[Recorded August 27, 2026]\nAre AI chips the new frontier of computing? What happens when the world’s biggest cloud companies stop buying chips and start designing their own?\n\nIn this program, we’ll unpack how companies once defined by software are now building custom silicon to run faster, cheaper, and at an unprecedented scale. The resulting competition is influencing global datacenter design and supply chains, marking a major new chapter in the evolution of AI.\n\nWhat You’ll Experience:\n-Demystify AI accelerators: what they are and why they’re so well-suited to modern machine learning workloads.\n-Understand how custom silicon changes cloud economics, energy demands, data-center design, and business models.\n-Hear directly from builders and insiders who are shaping the future of AI hardware, including Nvidia Chief Scientist and Senior Vice President of Research Bill Dally, Google VP and Technical Fellow Norm Jouppi, and CHM Fellow and UC Berkeley Pardee Professor of Computer Science Emeritus Dave Patterson.\n\nRead our blog post: https://computerhistory.org/blog/the-silicon-gold-rush-how-ai-is-driving-development-of-new-chips/\n\nCatalog Number: 300000403\nAcquisition Number: 2026.0219",
-      "chapters": []
-    }
-  ]
+  "recentItems": []
 }

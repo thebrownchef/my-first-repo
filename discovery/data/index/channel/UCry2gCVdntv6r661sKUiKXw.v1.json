@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCry2gCVdntv6r661sKUiKXw",
   "title": "WCCO - CBS Minnesota",
   "thumb": "https://yt3.ggpht.com/8qH07dZ5ckXmO6u3cUZWWj6mEs4o-tE5XSS1T0uHFrmyo2rJ7xWf6NLyPGOSCi6XJaGbVpJM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 14.77,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.753Z"
+    },
+    {
+      "id": "channel:UC8p1vwvWtl6T73JiExfWs1g",
+      "type": "channel",
+      "label": "CBS News",
+      "url": "https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g",
+      "firstSeenAt": "2026-09-21T12:45:08.974Z"
     }
   ],
   "recentItems": []

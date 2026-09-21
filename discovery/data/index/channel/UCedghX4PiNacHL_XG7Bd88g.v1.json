@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "id": "UCedghX4PiNacHL_XG7Bd88g",
+  "title": "MangoTV Indonesia",
+  "thumb": "https://yt3.ggpht.com/0gIAqS-MIygqG4PXGNXfe552g5vk-VmlMetSd-nRzZ-447ZDgt_8NV2IqeCE6vsqu7IC78w5-Sc=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 2.03,
+  "sources": [
+    {
+      "id": "channel:UCTulSfEm1c14WWRbSN-CNAQ",
+      "type": "channel",
+      "label": "芒果TV青春剧场 MangoTV Drama",
+      "url": "https://www.youtube.com/channel/UCTulSfEm1c14WWRbSN-CNAQ",
+      "firstSeenAt": "2026-09-21T12:44:54.516Z"
+    },
+    {
+      "id": "channel:UC1pHFqCMAIHP8gr4lYGtNLA",
+      "type": "channel",
+      "label": "湖南卫视芒果TV官方频道  China HunanTV Official Channel",
+      "url": "https://www.youtube.com/channel/UC1pHFqCMAIHP8gr4lYGtNLA",
+      "firstSeenAt": "2026-09-21T12:44:55.455Z"
+    },
+    {
+      "id": "channel:UCRz2q_Q5hEko-kmCE2KKM3w",
+      "type": "channel",
+      "label": "芒果TV季风频道 MangoTV Monsoon",
+      "url": "https://www.youtube.com/channel/UCRz2q_Q5hEko-kmCE2KKM3w",
+      "firstSeenAt": "2026-09-21T12:44:55.554Z"
+    }
+  ],
+  "recentItems": []
+}

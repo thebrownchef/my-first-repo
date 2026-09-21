@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "id": "UCi4fcBVyo4CAnmdgXeO-NvA",
+  "title": "CBS Boston",
+  "thumb": "https://yt3.ggpht.com/bLcpvtZutm87ViHDCNhnIGtqIQtQfsBQ77kfcvkQcJdHcsJ294HZtwlsHSolvFICgEZV9hELEQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 19.52,
+  "sources": [
+    {
+      "id": "channel:UCry2gCVdntv6r661sKUiKXw",
+      "type": "channel",
+      "label": "WCCO - CBS Minnesota",
+      "url": "https://www.youtube.com/channel/UCry2gCVdntv6r661sKUiKXw",
+      "firstSeenAt": "2026-09-12T10:43:01.387Z"
+    },
+    {
+      "id": "channel:UC8p1vwvWtl6T73JiExfWs1g",
+      "type": "channel",
+      "label": "CBS News",
+      "url": "https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g",
+      "firstSeenAt": "2026-09-21T12:45:08.975Z"
+    }
+  ],
+  "recentItems": []
+}

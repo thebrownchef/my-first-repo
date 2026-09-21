@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCuuTCooIMbBFHNbPcSS70uw",
   "title": "SBS News",
   "thumb": "https://yt3.ggpht.com/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 1.76,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "SBS On Demand",
       "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw",
       "firstSeenAt": "2026-09-20T11:20:22.466Z"
+    },
+    {
+      "id": "channel:UCLhvidUffW8vSUclD7kfrGg",
+      "type": "channel",
+      "label": "SBS Insight",
+      "url": "https://www.youtube.com/channel/UCLhvidUffW8vSUclD7kfrGg",
+      "firstSeenAt": "2026-09-21T12:44:45.219Z"
     }
   ],
   "recentItems": []

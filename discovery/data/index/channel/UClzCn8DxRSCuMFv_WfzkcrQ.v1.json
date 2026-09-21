@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
   "title": "CBS",
   "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 2.85,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "CBS Sports",
       "url": "https://www.youtube.com/channel/UCja8sZ2T4ylIqjggA1Zuukg",
       "firstSeenAt": "2026-09-19T10:55:44.640Z"
+    },
+    {
+      "id": "channel:UC8p1vwvWtl6T73JiExfWs1g",
+      "type": "channel",
+      "label": "CBS News",
+      "url": "https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g",
+      "firstSeenAt": "2026-09-21T12:45:08.976Z"
     }
   ],
   "recentItems": [

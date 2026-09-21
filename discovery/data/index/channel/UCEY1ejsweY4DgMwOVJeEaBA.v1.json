@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCEY1ejsweY4DgMwOVJeEaBA",
   "title": "The X Factor UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lT-h0rLAAQsDx5PLwhd98_v69lvoZ_FZT7DasSxATTvv4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.83,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "American Idol",
       "url": "https://www.youtube.com/channel/UCAMPco9PqjBbI_MLsDOO4Jw",
       "firstSeenAt": "2026-09-15T11:41:51.257Z"
+    },
+    {
+      "id": "channel:UCI1lS83un5pcK-qjRacMFTA",
+      "type": "channel",
+      "label": "999TheBill",
+      "url": "https://www.youtube.com/channel/UCI1lS83un5pcK-qjRacMFTA",
+      "firstSeenAt": "2026-09-21T12:45:08.596Z"
     }
   ],
   "recentItems": []

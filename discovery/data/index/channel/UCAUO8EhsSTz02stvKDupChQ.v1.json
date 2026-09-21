@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCAUO8EhsSTz02stvKDupChQ",
   "title": "MTV News",
   "thumb": "https://yt3.ggpht.com/H6dIWhRN79FUCKo3OERemIgnq701aaw7zS2ane-Cxt1pKTUmRBxDVFvAEyZWu0ZrOu-WA5qLnQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -85,6 +85,20 @@
       "label": "MTV Impact",
       "url": "https://www.youtube.com/channel/UCmuccm2PUMlyIyvD6EOh_qA",
       "firstSeenAt": "2026-09-19T10:55:42.640Z"
+    },
+    {
+      "id": "channel:UCPsLq0LqvMOk9Zc1rQvtMkw",
+      "type": "channel",
+      "label": "MTV Access",
+      "url": "https://www.youtube.com/channel/UCPsLq0LqvMOk9Zc1rQvtMkw",
+      "firstSeenAt": "2026-09-21T12:44:49.158Z"
+    },
+    {
+      "id": "channel:UCuiK2XdDcyAd7TS9ioMqx6A",
+      "type": "channel",
+      "label": "Logo",
+      "url": "https://www.youtube.com/channel/UCuiK2XdDcyAd7TS9ioMqx6A",
+      "firstSeenAt": "2026-09-21T12:44:49.535Z"
     }
   ],
   "recentItems": [

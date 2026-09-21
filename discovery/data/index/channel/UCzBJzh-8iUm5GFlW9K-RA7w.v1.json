@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCzBJzh-8iUm5GFlW9K-RA7w",
   "title": "British Army Music",
   "thumb": "https://yt3.ggpht.com/NAp0RX8LnXRYZjZt0oaGY52oU_JUJ4__AOWKjC5kwLtzMQ4d8xx84uQyAmRNlpHUzoa3FAT3=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Military Bands Everywhere",
       "url": "https://www.youtube.com/channel/UCqMwv09QL8jQP2j8ITpn-qg",
       "firstSeenAt": "2026-08-30T11:52:45.578Z"
+    },
+    {
+      "id": "channel:UCtDqMgKSthWzM8u6Hr8HVvw",
+      "type": "channel",
+      "label": "troopingadmin",
+      "url": "https://www.youtube.com/channel/UCtDqMgKSthWzM8u6Hr8HVvw",
+      "firstSeenAt": "2026-09-21T12:45:05.333Z"
     }
   ],
   "recentItems": []

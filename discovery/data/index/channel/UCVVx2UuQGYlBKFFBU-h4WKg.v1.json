@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "id": "UCVVx2UuQGYlBKFFBU-h4WKg",
+  "title": "芒果TV欢乐 MangoTV Entertainment",
+  "thumb": "https://yt3.ggpht.com/Tv90FLS4QuMaJyAPlAECnuVzk-RmpF4Va9OiP8TgWhscZmyxWKRWSeXA5gRLkPkK3_8FkTin=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.91,
+  "sources": [
+    {
+      "id": "channel:UCKm7iuaBY41nzqIk6J8eX0g",
+      "type": "channel",
+      "label": "芒果TV推理宇宙 MangoTV Mystery Official Channel",
+      "url": "https://www.youtube.com/channel/UCKm7iuaBY41nzqIk6J8eX0g",
+      "firstSeenAt": "2026-09-21T12:44:53.971Z"
+    },
+    {
+      "id": "channel:UCXfbH7w4tgF4xlhJTBg7iXQ",
+      "type": "channel",
+      "label": "MangoTV 王牌綜藝",
+      "url": "https://www.youtube.com/channel/UCXfbH7w4tgF4xlhJTBg7iXQ",
+      "firstSeenAt": "2026-09-21T12:44:55.111Z"
+    }
+  ],
+  "recentItems": []
+}

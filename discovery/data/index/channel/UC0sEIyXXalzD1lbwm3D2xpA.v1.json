@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UC0sEIyXXalzD1lbwm3D2xpA",
   "title": "RuPaul's Drag Race",
   "thumb": "https://yt3.ggpht.com/xwcjSRbKscd19ZSTnO7yI8RmD-LXOYhSg6cdpPeitoJSBy4qMJf6TyjWDBfqAakr1lUJPpBRug=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.72,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "Jaida Essence Hall",
       "url": "https://en.wikipedia.org/wiki/Jaida_Essence_Hall",
       "firstSeenAt": "2026-09-03T11:10:55.703Z"
+    },
+    {
+      "id": "channel:UCvn-HVrAGYEKsVx6gW3MeNQ",
+      "type": "channel",
+      "label": "VH1",
+      "url": "https://www.youtube.com/channel/UCvn-HVrAGYEKsVx6gW3MeNQ",
+      "firstSeenAt": "2026-09-21T12:44:49.365Z"
+    },
+    {
+      "id": "channel:UCuiK2XdDcyAd7TS9ioMqx6A",
+      "type": "channel",
+      "label": "Logo",
+      "url": "https://www.youtube.com/channel/UCuiK2XdDcyAd7TS9ioMqx6A",
+      "firstSeenAt": "2026-09-21T12:44:49.535Z"
     }
   ],
   "recentItems": [

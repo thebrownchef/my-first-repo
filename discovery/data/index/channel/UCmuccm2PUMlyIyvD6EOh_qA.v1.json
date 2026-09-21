@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCmuccm2PUMlyIyvD6EOh_qA",
   "title": "MTV Impact",
   "thumb": "https://yt3.ggpht.com/23i2Xm3JzEdNbzkgGpqjRBZXth6WjKVf0j1GOTDQfI0abdIpnKXPcdQtJbCzxYyXRChrXnTq1Dk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "RuPaul's Drag Race",
       "url": "https://www.youtube.com/channel/UC0sEIyXXalzD1lbwm3D2xpA",
       "firstSeenAt": "2026-08-30T11:52:39.804Z"
+    },
+    {
+      "id": "channel:UCuiK2XdDcyAd7TS9ioMqx6A",
+      "type": "channel",
+      "label": "Logo",
+      "url": "https://www.youtube.com/channel/UCuiK2XdDcyAd7TS9ioMqx6A",
+      "firstSeenAt": "2026-09-21T12:44:49.535Z"
     }
   ],
   "recentItems": []

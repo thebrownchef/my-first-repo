@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCUsN5ZwHx2kILm84-jPDeXw",
   "title": "Comedy Central",
   "thumb": "https://yt3.ggpht.com/kENjxM3Q5B0rgBE2kTPlzRYpbT8xc7gMYuhQRz7NVz6B-O9pTndDZt8UhOneZAOBjFInk-XbAw4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.9,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Paramount Plus",
       "url": "https://www.youtube.com/channel/UCrRttZIypNTA1Mrfwo745Sg",
       "firstSeenAt": "2026-09-19T10:55:42.415Z"
+    },
+    {
+      "id": "channel:UCvn-HVrAGYEKsVx6gW3MeNQ",
+      "type": "channel",
+      "label": "VH1",
+      "url": "https://www.youtube.com/channel/UCvn-HVrAGYEKsVx6gW3MeNQ",
+      "firstSeenAt": "2026-09-21T12:44:49.366Z"
     }
   ],
   "recentItems": []

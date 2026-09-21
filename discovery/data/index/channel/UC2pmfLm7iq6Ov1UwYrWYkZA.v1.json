@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 89,
-  "distinctSourceCount": 89,
+  "score": 92,
+  "distinctSourceCount": 92,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -631,6 +631,27 @@
       "label": "TheDreamVEVO",
       "url": "https://www.youtube.com/channel/UCaLYXxQhRhh6pm636YSGSVw",
       "firstSeenAt": "2026-09-20T11:20:21.586Z"
+    },
+    {
+      "id": "channel:UCYkW00cPFkp1UzYON7XZB2A",
+      "type": "channel",
+      "label": "EurythmicsVEVO",
+      "url": "https://www.youtube.com/channel/UCYkW00cPFkp1UzYON7XZB2A",
+      "firstSeenAt": "2026-09-21T12:45:00.846Z"
+    },
+    {
+      "id": "channel:UCsJE1tXUtM6VN7dOP0F3SVA",
+      "type": "channel",
+      "label": "AdamAntVEVO",
+      "url": "https://www.youtube.com/channel/UCsJE1tXUtM6VN7dOP0F3SVA",
+      "firstSeenAt": "2026-09-21T12:45:01.006Z"
+    },
+    {
+      "id": "channel:UCTNtRdBAiZtHP9w7JinzfUg",
+      "type": "channel",
+      "label": "SonyMusicSouthVEVO",
+      "url": "https://www.youtube.com/channel/UCTNtRdBAiZtHP9w7JinzfUg",
+      "firstSeenAt": "2026-09-21T12:45:07.261Z"
     }
   ],
   "recentItems": []

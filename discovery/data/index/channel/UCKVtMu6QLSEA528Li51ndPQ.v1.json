@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "id": "UCKVtMu6QLSEA528Li51ndPQ",
+  "title": "Nat Geo en Español",
+  "thumb": "https://yt3.ggpht.com/KN4pLsXQGXi6I45Y1DEUGEiiU17Mb-LS0RE5-zjYFqcW6z4g1ANpdBtN_rpWOus7YXJDkTMeOQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.41,
+  "sources": [
+    {
+      "id": "channel:UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "type": "channel",
+      "label": "National Geographic",
+      "url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "firstSeenAt": "2026-08-30T11:52:39.880Z"
+    },
+    {
+      "id": "channel:UCDPk9MG2RexnOMGTD-YnSnA",
+      "type": "channel",
+      "label": "Nat Geo Animals",
+      "url": "https://www.youtube.com/channel/UCDPk9MG2RexnOMGTD-YnSnA",
+      "firstSeenAt": "2026-09-21T12:44:50.115Z"
+    }
+  ],
+  "recentItems": []
+}

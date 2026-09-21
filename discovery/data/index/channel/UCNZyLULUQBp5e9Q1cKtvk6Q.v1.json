@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCNZyLULUQBp5e9Q1cKtvk6Q",
   "title": "CBS New York",
   "thumb": "https://yt3.ggpht.com/wJ9l7nQaNmAhePadn9ysJkpjF-204mSiySoD73pyyqBEBE_1W-9QH7Grh3RHXBrqFd9VY6nXcbE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 37.48,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "WCCO - CBS Minnesota",
       "url": "https://www.youtube.com/channel/UCry2gCVdntv6r661sKUiKXw",
       "firstSeenAt": "2026-09-12T10:43:01.386Z"
+    },
+    {
+      "id": "channel:UC8p1vwvWtl6T73JiExfWs1g",
+      "type": "channel",
+      "label": "CBS News",
+      "url": "https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g",
+      "firstSeenAt": "2026-09-21T12:45:08.974Z"
     }
   ],
   "recentItems": []

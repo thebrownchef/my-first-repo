@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCE9Ou-1a1nNn784pHPhKghQ",
   "title": "NITV",
   "thumb": "https://yt3.ggpht.com/s4_MLyFNyYqPgC_53UJDohGC7S0s2aFWyk7TZkoZAGtjYvz85K-ME_FgsBqySXhvAxCDaazsEVE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.86,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "SBS On Demand",
       "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw",
       "firstSeenAt": "2026-09-20T11:20:22.467Z"
+    },
+    {
+      "id": "channel:UCLhvidUffW8vSUclD7kfrGg",
+      "type": "channel",
+      "label": "SBS Insight",
+      "url": "https://www.youtube.com/channel/UCLhvidUffW8vSUclD7kfrGg",
+      "firstSeenAt": "2026-09-21T12:44:45.221Z"
+    },
+    {
+      "id": "channel:UCuuTCooIMbBFHNbPcSS70uw",
+      "type": "channel",
+      "label": "SBS News",
+      "url": "https://www.youtube.com/channel/UCuuTCooIMbBFHNbPcSS70uw",
+      "firstSeenAt": "2026-09-21T12:44:45.319Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCGCPAOQDZa_TTTXDr5byjww",
   "title": "Joey Graceffa",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kyuavJZpUev6kcYB1a9L9GJrBoPOUYKm-hSYnQcbWeP3Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Gigi Gorgeous",
       "url": "https://www.youtube.com/channel/UCzco9CewPf0F-SP1p6LhWrw",
       "firstSeenAt": "2026-09-09T11:20:01.376Z"
+    },
+    {
+      "id": "channel:UC5zSySQab9SA6Wz569WDgqw",
+      "type": "channel",
+      "label": "Ingrid Nilsen",
+      "url": "https://www.youtube.com/channel/UC5zSySQab9SA6Wz569WDgqw",
+      "firstSeenAt": "2026-09-21T12:44:48.606Z"
     }
   ],
   "recentItems": []

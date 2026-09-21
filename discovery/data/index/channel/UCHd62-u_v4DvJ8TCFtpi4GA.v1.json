@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "id": "UCHd62-u_v4DvJ8TCFtpi4GA",
+  "title": "Washington Post",
+  "thumb": "https://yt3.ggpht.com/fUsltMCzmTj4JM5EzgbYe9s5YUEVtAk7vd0CUe9_cpl2FRnp_SmAA1YM7AtMIFr9xXgipXlB=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 3.38,
+  "sources": [
+    {
+      "id": "wiki:Abby Phillip",
+      "type": "wikipedia",
+      "label": "Abby Phillip",
+      "url": "https://en.wikipedia.org/wiki/Abby_Phillip",
+      "firstSeenAt": "2026-08-28T18:39:19.393Z"
+    },
+    {
+      "id": "channel:UCYBARVyitZWkFKovnC2jf2g",
+      "type": "channel",
+      "label": "Washington Post Universe",
+      "url": "https://www.youtube.com/channel/UCYBARVyitZWkFKovnC2jf2g",
+      "firstSeenAt": "2026-09-21T12:44:46.302Z"
+    }
+  ],
+  "recentItems": []
+}

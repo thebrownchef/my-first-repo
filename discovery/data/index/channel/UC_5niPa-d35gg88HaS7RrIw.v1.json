@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UC_5niPa-d35gg88HaS7RrIw",
   "title": "Disney",
   "thumb": "https://yt3.ggpht.com/uvVynu6npnzegTAbRrC8sJeX9ojPkuJe6gr2UZ6bR857tVU0kUqfK0LDsfZttcM3FwRv63u99g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Pixar",
       "url": "https://www.youtube.com/channel/UC_IRYSp4auq7hKLvziWVH6w",
       "firstSeenAt": "2026-09-20T11:20:22.007Z"
+    },
+    {
+      "id": "channel:UCIrgJInjLS2BhlHOMDW7v0g",
+      "type": "channel",
+      "label": "Disney Plus",
+      "url": "https://www.youtube.com/channel/UCIrgJInjLS2BhlHOMDW7v0g",
+      "firstSeenAt": "2026-09-21T12:44:49.755Z"
     }
   ],
   "recentItems": []

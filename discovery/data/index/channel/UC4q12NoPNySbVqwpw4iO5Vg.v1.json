@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UC4q12NoPNySbVqwpw4iO5Vg",
   "title": "Hillsong Worship",
   "thumb": "https://yt3.ggpht.com/JFhTejgV-dp6BTWpCoPb_YOsp1wdf9LSc-dAowgvqm16GiHJycqtJXkxMsNr_n7twXCD2IAz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "There Is More",
       "url": "https://en.wikipedia.org/wiki/There_Is_More",
       "firstSeenAt": "2026-08-28T18:39:19.393Z"
+    },
+    {
+      "id": "channel:UChr03KUFKfoJJh0kp_8_Kdw",
+      "type": "channel",
+      "label": "Hillsong Instrumentals",
+      "url": "https://www.youtube.com/channel/UChr03KUFKfoJJh0kp_8_Kdw",
+      "firstSeenAt": "2026-09-21T12:44:45.834Z"
     }
   ],
   "recentItems": []

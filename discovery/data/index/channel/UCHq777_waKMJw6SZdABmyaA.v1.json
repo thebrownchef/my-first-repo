@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCHq777_waKMJw6SZdABmyaA",
   "title": "British Movietone",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niuR7N4BLMMzZ1rA1tQZL_GU7gaxDG2DWnnjcAC29JVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 12.38,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Duke of Gloucester",
       "url": "https://en.wikipedia.org/wiki/Duke_of_Gloucester",
       "firstSeenAt": "2026-09-06T10:53:19.006Z"
+    },
+    {
+      "id": "channel:UC1W5U5jJFkqYTlRmA-sK-zw",
+      "type": "channel",
+      "label": "British Movietone Royals",
+      "url": "https://www.youtube.com/channel/UC1W5U5jJFkqYTlRmA-sK-zw",
+      "firstSeenAt": "2026-09-21T12:44:57.969Z"
     }
   ],
   "recentItems": [

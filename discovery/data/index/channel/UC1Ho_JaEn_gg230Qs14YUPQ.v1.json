@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UC1Ho_JaEn_gg230Qs14YUPQ",
   "title": "MTV's The Challenge",
   "thumb": "https://yt3.ggpht.com/OV2uqasZfbQDxL1zE_wLggWzkAvscBg4fArDQN5aBtmNwiYbSJIAhqEPdHDKXEM-zeuZ8GwD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.38,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "MTV Reality",
       "url": "https://www.youtube.com/channel/UC-PLqRoj7_eSUIg_qkj5HfA",
       "firstSeenAt": "2026-09-19T10:55:42.601Z"
+    },
+    {
+      "id": "channel:UCPsLq0LqvMOk9Zc1rQvtMkw",
+      "type": "channel",
+      "label": "MTV Access",
+      "url": "https://www.youtube.com/channel/UCPsLq0LqvMOk9Zc1rQvtMkw",
+      "firstSeenAt": "2026-09-21T12:44:49.157Z"
     }
   ],
   "recentItems": [

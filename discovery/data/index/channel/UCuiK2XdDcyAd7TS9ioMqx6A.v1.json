@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:21:12.658Z",
+  "generatedAt": "2026-09-21T12:46:23.311Z",
   "id": "UCuiK2XdDcyAd7TS9ioMqx6A",
   "title": "Logo",
   "thumb": "https://yt3.ggpht.com/BNK_M4U919j2roJI2RlR_UEsDNOY2XV9-7H41e56YUQEG0kou7NWCSkcUk_d5Wt6TYi-6O-3LQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Comedy Central",
       "url": "https://www.youtube.com/channel/UCUsN5ZwHx2kILm84-jPDeXw",
       "firstSeenAt": "2026-09-04T11:15:22.281Z"
+    },
+    {
+      "id": "channel:UCvn-HVrAGYEKsVx6gW3MeNQ",
+      "type": "channel",
+      "label": "VH1",
+      "url": "https://www.youtube.com/channel/UCvn-HVrAGYEKsVx6gW3MeNQ",
+      "firstSeenAt": "2026-09-21T12:44:49.365Z"
     }
   ],
   "recentItems": []
