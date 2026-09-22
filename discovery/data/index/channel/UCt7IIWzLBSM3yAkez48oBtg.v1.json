@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "generatedAt": "2026-09-22T11:36:38.028Z",
   "id": "UCt7IIWzLBSM3yAkez48oBtg",
   "title": "골든 트로트",
   "thumb": "https://yt3.ggpht.com/n7ZC9Zb13at7RE2Gze9Tz39NH2AGj87MBfsayaTAvODaPV_FDZGlGidmd3w6N9SacBADFibqtGY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "1theK Originals - 원더케이 오리지널",
       "url": "https://www.youtube.com/channel/UCqq-ovGE01ErlXakPihhKDA",
       "firstSeenAt": "2026-09-06T10:53:29.200Z"
+    },
+    {
+      "id": "channel:UCkt5auxw8j76wvEuH4u-JJg",
+      "type": "channel",
+      "label": "1theK Live - 원더케이 라이브",
+      "url": "https://www.youtube.com/channel/UCkt5auxw8j76wvEuH4u-JJg",
+      "firstSeenAt": "2026-09-22T11:35:16.467Z"
     }
   ],
   "recentItems": []

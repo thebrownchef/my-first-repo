@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "generatedAt": "2026-09-22T11:36:38.028Z",
   "id": "UCotI-SqRXnkAZX4bMqlRNjw",
   "title": "zoom",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lZEnCMQZz6FfEgDysuhVObO6O972OlqzBOaGwninMVpWk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 17.43,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Jennie (singer)",
       "url": "https://en.wikipedia.org/wiki/Jennie_(singer)",
       "firstSeenAt": "2026-09-01T11:37:09.153Z"
+    },
+    {
+      "id": "channel:UCWCEYVwSqr7Epo6sSCfUgiw",
+      "type": "channel",
+      "label": "MIRROR NOW",
+      "url": "https://www.youtube.com/channel/UCWCEYVwSqr7Epo6sSCfUgiw",
+      "firstSeenAt": "2026-09-22T11:35:07.624Z"
     }
   ],
   "recentItems": []

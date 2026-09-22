@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "generatedAt": "2026-09-22T11:36:38.028Z",
   "id": "UC2a9zmrdjvLsrRgi4G4blWw",
   "title": "MGKVEVO",
   "thumb": "https://yt3.ggpht.com/ZRx4DM8SPOjKFH5Q5sWNVohh9FpHGYFCwhEG7rzunrrwIGEVy6g2eA6yCnikYLF9kE0JliM6mQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Naomi Wild",
       "url": "https://en.wikipedia.org/wiki/Naomi_Wild",
       "firstSeenAt": "2026-08-30T11:52:26.129Z"
+    },
+    {
+      "id": "channel:UC8g5kYW2ZLJPta700XDCt-g",
+      "type": "channel",
+      "label": "YelawolfVEVO",
+      "url": "https://www.youtube.com/channel/UC8g5kYW2ZLJPta700XDCt-g",
+      "firstSeenAt": "2026-09-22T11:35:13.768Z"
+    },
+    {
+      "id": "channel:UCjjC1Jk_1o1VWpLalgo21XQ",
+      "type": "channel",
+      "label": "GEazyMusicVEVO",
+      "url": "https://www.youtube.com/channel/UCjjC1Jk_1o1VWpLalgo21XQ",
+      "firstSeenAt": "2026-09-22T11:35:13.927Z"
     }
   ],
   "recentItems": []

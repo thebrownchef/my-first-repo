@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-22T11:36:38.028Z",
+  "id": "UCS2iGSouOopNHXFBcWtBQiA",
+  "title": "Resident Evil",
+  "thumb": "https://yt3.ggpht.com/Xgog1K9_yYUNusR1oDSAMFWpUG_P71WdkVYXrXMldAEQmI7pFOFwQwQXvoTUX_U1JrXndJugEw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "channel:UCVg9nCmmfIyP4QcGOnZZ9Qg",
+      "type": "channel",
+      "label": "Street Fighter",
+      "url": "https://www.youtube.com/channel/UCVg9nCmmfIyP4QcGOnZZ9Qg",
+      "firstSeenAt": "2026-08-31T13:45:00.012Z"
+    },
+    {
+      "id": "channel:UC3z983eBiOXHeS7ydgbbL_Q",
+      "type": "channel",
+      "label": "Darkstalkers",
+      "url": "https://www.youtube.com/channel/UC3z983eBiOXHeS7ydgbbL_Q",
+      "firstSeenAt": "2026-09-22T11:35:15.378Z"
+    },
+    {
+      "id": "channel:UCrs6LpW1gNpjrswp2UltnxQ",
+      "type": "channel",
+      "label": "Dead Rising",
+      "url": "https://www.youtube.com/channel/UCrs6LpW1gNpjrswp2UltnxQ",
+      "firstSeenAt": "2026-09-22T11:35:16.067Z"
+    }
+  ],
+  "recentItems": []
+}

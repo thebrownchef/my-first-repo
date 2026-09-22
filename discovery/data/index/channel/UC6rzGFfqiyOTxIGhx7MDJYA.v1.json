@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "generatedAt": "2026-09-22T11:36:38.028Z",
   "id": "UC6rzGFfqiyOTxIGhx7MDJYA",
   "title": "T-Series Himachali",
   "thumb": "https://yt3.ggpht.com/ZuuLo9CM42IfTOh5dZKAil4P2h7LwhixUUFA7Sw2y0mTKuLrV-G3VCRTH7jqJnj-NksNYJILjNQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 26,
+  "distinctSourceCount": 26,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -50,7 +50,256 @@
       "label": "T-Series Telugu",
       "url": "https://www.youtube.com/channel/UCnJjcn5FrgrOEp5_N45ZLEQ",
       "firstSeenAt": "2026-09-21T12:45:09.793Z"
+    },
+    {
+      "id": "channel:UCUoj77TIUy9DhLNe5EVmF-A",
+      "type": "channel",
+      "label": "T-Series Malayalam",
+      "url": "https://www.youtube.com/channel/UCUoj77TIUy9DhLNe5EVmF-A",
+      "firstSeenAt": "2026-09-22T11:35:00.592Z"
+    },
+    {
+      "id": "channel:UCz2pmzVJkW78zzUNIN0GeTQ",
+      "type": "channel",
+      "label": "T-Series Kids Hut - Portuguese Fairy Tales",
+      "url": "https://www.youtube.com/channel/UCz2pmzVJkW78zzUNIN0GeTQ",
+      "firstSeenAt": "2026-09-22T11:35:00.710Z"
+    },
+    {
+      "id": "channel:UCBlslL5pqbe8EwI1Edx__Fw",
+      "type": "channel",
+      "label": "T-Series Kids Hut - Cuentos en Español",
+      "url": "https://www.youtube.com/channel/UCBlslL5pqbe8EwI1Edx__Fw",
+      "firstSeenAt": "2026-09-22T11:35:00.831Z"
+    },
+    {
+      "id": "channel:UCg5bqGqi_ROdCPV4eHF575g",
+      "type": "channel",
+      "label": "T-Series Bhakti Sagar Tamil",
+      "url": "https://www.youtube.com/channel/UCg5bqGqi_ROdCPV4eHF575g",
+      "firstSeenAt": "2026-09-22T11:35:00.944Z"
+    },
+    {
+      "id": "channel:UCJKd5H8WR_w0wN-Or1-MJyQ",
+      "type": "channel",
+      "label": "T-Series Bhavageethegalu & Folk",
+      "url": "https://www.youtube.com/channel/UCJKd5H8WR_w0wN-Or1-MJyQ",
+      "firstSeenAt": "2026-09-22T11:35:01.053Z"
+    },
+    {
+      "id": "channel:UCCo_LMj-m3iGSSuytYq9n6Q",
+      "type": "channel",
+      "label": "T-Series Marathi",
+      "url": "https://www.youtube.com/channel/UCCo_LMj-m3iGSSuytYq9n6Q",
+      "firstSeenAt": "2026-09-22T11:35:01.269Z"
+    },
+    {
+      "id": "channel:UCjA7qIB2IetzeolMd_Hwa0w",
+      "type": "channel",
+      "label": "T-Series Bhakti Sagar Telugu",
+      "url": "https://www.youtube.com/channel/UCjA7qIB2IetzeolMd_Hwa0w",
+      "firstSeenAt": "2026-09-22T11:35:01.383Z"
+    },
+    {
+      "id": "channel:UCoi3aLlLa6xs0A1QwR_7oxA",
+      "type": "channel",
+      "label": "T-Series Kids Hut Tamil",
+      "url": "https://www.youtube.com/channel/UCoi3aLlLa6xs0A1QwR_7oxA",
+      "firstSeenAt": "2026-09-22T11:35:01.502Z"
+    },
+    {
+      "id": "channel:UC884UDwNldmpdEiS1mgtijA",
+      "type": "channel",
+      "label": "Shabad Gurbani",
+      "url": "https://www.youtube.com/channel/UC884UDwNldmpdEiS1mgtijA",
+      "firstSeenAt": "2026-09-22T11:35:01.624Z"
+    },
+    {
+      "id": "channel:UCR4_gSSeup7YpBfsOWN_oRA",
+      "type": "channel",
+      "label": "T-Series Bhakti Marathi",
+      "url": "https://www.youtube.com/channel/UCR4_gSSeup7YpBfsOWN_oRA",
+      "firstSeenAt": "2026-09-22T11:35:01.743Z"
+    },
+    {
+      "id": "channel:UCQX4SV8Fg0cD98K1VRBVPEw",
+      "type": "channel",
+      "label": "T-Series Bhakti Sagar Kannada",
+      "url": "https://www.youtube.com/channel/UCQX4SV8Fg0cD98K1VRBVPEw",
+      "firstSeenAt": "2026-09-22T11:35:01.845Z"
+    },
+    {
+      "id": "channel:UCkPipkv-8UZ2saO2TjE8AWA",
+      "type": "channel",
+      "label": "T-Series Rajasthani",
+      "url": "https://www.youtube.com/channel/UCkPipkv-8UZ2saO2TjE8AWA",
+      "firstSeenAt": "2026-09-22T11:35:01.955Z"
+    },
+    {
+      "id": "channel:UCAEv0ANkT221wXsTnxFnBsQ",
+      "type": "channel",
+      "label": "T-Series Tamil",
+      "url": "https://www.youtube.com/channel/UCAEv0ANkT221wXsTnxFnBsQ",
+      "firstSeenAt": "2026-09-22T11:35:02.110Z"
+    },
+    {
+      "id": "channel:UCRm96I5kmb_iGFofE5N691w",
+      "type": "channel",
+      "label": "T-Series Bollywood Classics",
+      "url": "https://www.youtube.com/channel/UCRm96I5kmb_iGFofE5N691w",
+      "firstSeenAt": "2026-09-22T11:35:02.216Z"
+    },
+    {
+      "id": "channel:UCy2fvV-mH_4AcIgqnLg9uDw",
+      "type": "channel",
+      "label": "T-Series Regional",
+      "url": "https://www.youtube.com/channel/UCy2fvV-mH_4AcIgqnLg9uDw",
+      "firstSeenAt": "2026-09-22T11:35:02.419Z"
+    },
+    {
+      "id": "channel:UCev6abkwjdHj_dB3rquFfbQ",
+      "type": "channel",
+      "label": "T-Series Gujarati",
+      "url": "https://www.youtube.com/channel/UCev6abkwjdHj_dB3rquFfbQ",
+      "firstSeenAt": "2026-09-22T11:35:02.520Z"
+    },
+    {
+      "id": "channel:UCvX5_TDQ3kJq48FF9xCvJ6Q",
+      "type": "channel",
+      "label": "T-Series Kids Hut - Telugu Kathalu",
+      "url": "https://www.youtube.com/channel/UCvX5_TDQ3kJq48FF9xCvJ6Q",
+      "firstSeenAt": "2026-09-22T11:35:02.733Z"
+    },
+    {
+      "id": "channel:UCovxnbWKPCA5iJDxa9zbBew",
+      "type": "channel",
+      "label": "T-Series Kannada",
+      "url": "https://www.youtube.com/channel/UCovxnbWKPCA5iJDxa9zbBew",
+      "firstSeenAt": "2026-09-22T11:35:02.825Z"
+    },
+    {
+      "id": "channel:UCpN-WGQgGsOrXm7nHXDdTDA",
+      "type": "channel",
+      "label": "T-Series Hamaar Bhojpuri",
+      "url": "https://www.youtube.com/channel/UCpN-WGQgGsOrXm7nHXDdTDA",
+      "firstSeenAt": "2026-09-22T11:35:03.034Z"
+    },
+    {
+      "id": "channel:UCH_dFsLe_I0ftAFP8XzJkTQ",
+      "type": "channel",
+      "label": "T-Series Classical",
+      "url": "https://www.youtube.com/channel/UCH_dFsLe_I0ftAFP8XzJkTQ",
+      "firstSeenAt": "2026-09-22T11:35:03.167Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "AdIV2oODhBA",
+      "title": "BANI MERI SHAMLI (Music Video)- Anusha Joshi |  New Himachali Song",
+      "publishedAt": "2026-08-10T05:30:18Z",
+      "durationSec": 487,
+      "thumb": "https://i.ytimg.com/vi/AdIV2oODhBA/mqdefault.jpg",
+      "description": "Presenting new Himachali video song 2026 \"bani Meri Shamli\" sung by Anusha Joshi. Enjoy and stay connected with us !!\n\n#banimerishamli #himachalisong #AnushaJoshi\n\nSong: BANI MERI SHAMLI – Himachali Song\nSinger - Anusha Joshi\nMusic - Jiya Lal Thakur\nLyrics - Traditional\nArtist - Anu Thakur & Amit Thakur\nDirector & Project by Polaram Dhangwala\nDop - Dua Films\nVideo - Dhangwala Beats\nGroup - Sargam Kala Munch\nExecutive Producer - Deepak Dhangwala\nProduction - Dhangwala Production House\nMusic On: T-Series\n________________________________\nFOR LATEST UPDATES:\n________________________________\nSUBSCRIBE US Here: https://bit.ly/TSeriesHimachali-YT\nLIKE on FB: https://bit.ly/TSeriesHimachali",
+      "chapters": []
+    },
+    {
+      "id": "xDjnF8odDvI",
+      "title": "Charo Dham - Himachali Munda, Feat. Nansei Kashyap, Arun | New Himachali Song | T-Series Himachali",
+      "publishedAt": "2026-07-27T05:30:31Z",
+      "durationSec": 414,
+      "thumb": "https://i.ytimg.com/vi/xDjnF8odDvI/mqdefault.jpg",
+      "description": "Presenting new Himachali video song 2026 \"Charo Dham\" sung by Himachali Munda, Feat. Nansei Kashyap, Arun. Enjoy and stay connected with us !!\n\nSong: CHARO DHAM – Himachali Song\nSinger: Himachali Munda\nMusic: Harjessh Bittu \nLyric: Traditional\nArtist: Nansei Kashyap & Arun\nDirector & Project By: Polaram Dhangwala\nDop: Dua Films \nVideo: Dhangwala Beats \nGroup: Neel Kanth Group \nExecutive Producer: Deepak Dhangwala \nProduction: Dhangwala Production House\nMusic On: T-Series\n________________________________\nFOR LATEST UPDATES:\n________________________________\nSUBSCRIBE US Here: https://bit.ly/TSeriesHimachali-YT\nLIKE on FB: https://bit.ly/TSeriesHimachali",
+      "chapters": []
+    },
+    {
+      "id": "JI7g76qsvEY",
+      "title": "Dunge Naluye 3.0 - Vicky Rajta | Rajiv Negi | New Himachali Song 2026 | T-Series Himachali",
+      "publishedAt": "2026-07-20T05:30:11Z",
+      "durationSec": 231,
+      "thumb": "https://i.ytimg.com/vi/JI7g76qsvEY/mqdefault.jpg",
+      "description": "Presenting new Himachali video song 2026 \"Dunge Naluye 3.0\" sung by Vicky Rajta. Enjoy and stay connected with us !!\n\nSong - Dunge Naluye 3.0\nSinger - Vicky Rajta \nArtist - Aashu Chauhan\nMusic - Rajiv Negi  \nLyrics - Ashu Bhai\nExecutive Producer - Shashi dhangwala\nDop - Rajan Badlvi \nDirector - Polaram Dhangwala  \nSpecia Thanks-Avtar\nProject by Polaram Dhangwala \nProduction - Dhangwala Entertainment\nMusic On: T-Series\n________________________________\nFOR LATEST UPDATES:\n________________________________\nSUBSCRIBE US Here: https://bit.ly/TSeriesHimachali-YT\nLIKE on FB: https://bit.ly/TSeriesHimachali",
+      "chapters": []
+    },
+    {
+      "id": "vvoctiODEfI",
+      "title": "Do Kabuttar (Lyrical) - Himachali Geet | Bhawna Jaryal | Shubham Sharma | Himachali Song",
+      "publishedAt": "2026-07-08T07:40:23Z",
+      "durationSec": 303,
+      "thumb": "https://i.ytimg.com/vi/vvoctiODEfI/mqdefault.jpg",
+      "description": "Presenting latest Himachali Lyrical video \"Do Kabuttar - Himachali Geet\" sung by Bhawna Jaryal. Enjoy and stay connected with us !!\n\n#himachalilovesong #himachalisong #DoKabuttar\n\nSong: Do Kabuttar - Himachali Geet\nSinger: Bhawna Jaryal\nLyrics: Sonu Phari\nMusic: Shubham Sharma\nProject By: Polaram Dhangwala \nDirector: Suraj Bhardwaj\nProject Co-Ordinator: Nitesh Shrigadi\nExecutive Producer: Shashi Dhangwala\nD.O.P: Tinku Gupta\nDesign By: Aman Rai Design\nProduction: Dhangwala Production House \nSpecial Thanks: Ricky Group & Avatar\nMusic On: T-Series\n\n________________________________\nFOR LATEST UPDATES:\n________________________________\nSUBSCRIBE US Here: https://bit.ly/TSeriesHimachali-YT\nLIKE on FB: https://bit.ly/TSeriesHimachali",
+      "chapters": []
+    },
+    {
+      "id": "4BECy1IYBwU",
+      "title": "Mere Ranjuaa (Lyrical Himachali Geet) Pammi Thakur | Dimple Thakur | Latest Himachali  Song",
+      "publishedAt": "2026-07-06T05:58:04Z",
+      "durationSec": 344,
+      "thumb": "https://i.ytimg.com/vi/4BECy1IYBwU/mqdefault.jpg",
+      "description": "Presenting Lyrical Himachali video Song\"Mere Ranjuaa - Himachali Geet\" sung by Pammi Thakur, Dimple Thakur. Enjoy and stay connected with us !!\n\nSong: Mere Ranjuaa (Himachali Geet) \nSingers: Pammi Thakur, Dimple Thakur\nArtist: Kavita Sarmaan \nLyrics: Pammi Thakur\nMusic: Shubham Sharma\nProject By: Polaram Dhangwala\nVideo By: Suraj Bhardwaj\nD.O.P.: Tinku Gupta\nExecutive Producer: Sashi Dhangwala\nProduction: Dhangwala Production House\nThanks: Rishi Sharma\nMusic On: T-Series\n\n________________________________\nFOR LATEST UPDATES:\n________________________________\nSUBSCRIBE US Here: https://bit.ly/TSeriesHimachali-YT\nLIKE on FB: https://bit.ly/TSeriesHimachali",
+      "chapters": []
+    },
+    {
+      "id": "CnoK6uRA62w",
+      "title": "Renuye (Himachali Nati)(Lyrical) Nati King Kuldeep Sharma | Mahi Janyogal | Himachali  Song",
+      "publishedAt": "2026-07-01T06:10:53Z",
+      "durationSec": 318,
+      "thumb": "https://i.ytimg.com/vi/CnoK6uRA62w/mqdefault.jpg",
+      "description": "Presenting latest Himachali Lyrical Video Song \"Renuye (Himachali Nati)\" sung by Nati King Kuldeep Sharma. Enjoy and stay connected with us !!\n\nSong: Renuye (Himachali Nati) \nSinger: Nati King Kuldeep Sharma\nArtist: Mahi Janyogal\nLyrics: Deepak Chouhan\nMusic: Rohit Modka\nRecording: Arpna Studio Vikasnagar \nProject By: Polaram Dhangwala \nVideo By: Suraj Bhardwaj\nD.O.P.: Tinku Gupta\nExecutive Producer: Sashi Dhangwala\nProduction: Dhangwala Production House \nThanks: Shirar Resort Manali & Rajnu Ji\nMusic On: T-Series\n\n________________________________\nFOR LATEST UPDATES:\n________________________________\nSUBSCRIBE US Here: https://bit.ly/TSeriesHimachali-YT\nLIKE on FB: https://bit.ly/TSeriesHimachali",
+      "chapters": []
+    },
+    {
+      "id": "vFxfbJjJBDA",
+      "title": "Naina Wale Teer (Song): Anusha Joshi | New Himachali Song 2026",
+      "publishedAt": "2026-06-22T06:21:11Z",
+      "durationSec": 378,
+      "thumb": "https://i.ytimg.com/vi/vFxfbJjJBDA/mqdefault.jpg",
+      "description": "Presenting the beautiful Himachali song \"NAINA WALE TEER\" sung by Anusha Joshi.\n\nCredits:\nSinger - Anusha Joshi\nMusic - Jiya Lal Thakur\nLyrics - Traditional\nArtist - Anu Thakur & Amit Thakur \nDirector & Project By Polaram Dhangwala\nDop - Dua Films \nVideo - Dhangwala Beats \nGroup - Sargam Kala Munch\nExecutive Producer - Deepak Dhangwala \nProduction - Dhangwala Production House\r\n---------------------------\r\n\r\nEnjoy & stay connected with us!!\r\n\n\n#NainaWaleTeer #AnushaJoshi #JiyaLalThakur #HimachaliSong #PahadiSong #HimachaliLoveSong",
+      "chapters": []
+    },
+    {
+      "id": "BPqAbziX0AU",
+      "title": "Rabba Viah Karvai De (Song): Himachali Munda | New Himachali Song 2026",
+      "publishedAt": "2026-06-15T05:57:46Z",
+      "durationSec": 214,
+      "thumb": "https://i.ytimg.com/vi/BPqAbziX0AU/mqdefault.jpg",
+      "description": "Presenting the lastest Himachali song \"Rabba Via Karvai De\" by Himachali Munda.\r\n\r\n--------------------------\n\r\nCredits:\r\nSong: RABBA VIAH KARVAI DE– Himachali Song\n\nSinger: Himachali Munda\nMusic: Harjesh Bittu\nLyrics: Bunty Indoria\nArtist: Nansei Kashyap & Sushma-Bhumi Dev\nDirector & Project By: Polaram Dhangwala\nDop: Dua Films \nVideo: Dhangwala Beats \nGroup: Neel Kanth Group \nExecutive Producer: Deepak Dhangwala \nProduction: Dhangwala Production House\r\nMusic Label : T-Series\r\n---------------------------\r\n\r\nEnjoy & stay connected with us!!\r\n\r\nLike Us on Facebook\r\nhttp://www.facebook.com/Tserieskannada\r\nhttp://www.facebook.com/Tseriestelugu\r\nhttps://www.facebook.com/TseriesTamil\r\nhttps://www.facebook.com/TseriesMalayalam",
+      "chapters": []
+    },
+    {
+      "id": "lAt2_egah3g",
+      "title": "Nirgon Ki Pallavi (Garhwali Lyrical Song) -Sahab Singh Ramola, Akanksha Ramola, Feat.Amit B, Ruchi",
+      "publishedAt": "2026-06-06T10:44:52Z",
+      "durationSec": 400,
+      "thumb": "https://i.ytimg.com/vi/lAt2_egah3g/mqdefault.jpg",
+      "description": "Presenting latest Garhwali Lyrical video song  \"Nirgon Ki Pallavi\" sung by Sahab Singh Ramola, Akanksha Ramola, Feat. Amit Bhatt, Ruchi Rawat. Enjoy and stay connected with us !!\n\nSong: Nirgon Ki Pallavi (Garhwali Song)\nSingers: Sahab Singh Ramola, Akanksha Ramola\nStarring: Amit Bhatt, Ruchi Rawat\nLyrics: Sahab Singh Ramola\nMusic: Rakesh Bhatt\nRhythm: Subhash Pandey\nRecording & Mix Master: Sonu Gusain \nDirector: Arvind Negi\nConcept & Project By. Purab Singh Panwar\nDop & Edit: Devendra Negi\nMakeup: Mitali Rawat\nProduction: Sawan Singh Panwar, Atul Ghildiyal\nMusic On: T-Series\n\n________________________________\nFOR LATEST UPDATES:\n________________________________\nSUBSCRIBE US Here: https://bit.ly/TSeriesHimachali-YT\nLIKE on FB: https://bit.ly/TSeriesHimachali",
+      "chapters": []
+    },
+    {
+      "id": "6EJ__W3toG8",
+      "title": "Madhu Bala (Song): Pankaj Thakur | New Himachali Song 2026",
+      "publishedAt": "2026-06-02T12:37:03Z",
+      "durationSec": 161,
+      "thumb": "https://i.ytimg.com/vi/6EJ__W3toG8/mqdefault.jpg",
+      "description": "T-Series Himachali Presents new Himachali song \"Madhu Bala\" by Pankaj Thakur.\n\n\nSong Credits:\nSong: Madhu Bala Himachali Song\nSinger: Pankaj Thakur\nLyrics: Pankaj Thakur\nMusic: Pankaj Thakur\nMusic Label: T-Series",
+      "chapters": []
+    },
+    {
+      "id": "auWbYtn935s",
+      "title": "Ek Bangla (Song): Pankaj Thakur | New Himachali Song 2026",
+      "publishedAt": "2026-05-22T05:30:00Z",
+      "durationSec": 156,
+      "thumb": "https://i.ytimg.com/vi/auWbYtn935s/mqdefault.jpg",
+      "description": "T-Series Himachali Presents new Himachali song \"Ek Bangla\" by Pankaj Thakur.\n\n\nSong Credits:\nSong: Ek Bangla– Himachali Song\nSinger: Pankaj Thakur\nLyrics: Pankaj Thakur\nMusic: Pankaj Thakur\nMusic Label: T-Series",
+      "chapters": []
+    },
+    {
+      "id": "6RVyF0_NWSU",
+      "title": "Hay Babiye Lyrical Himachali Geet | Sunny Dayal | Ajay Solanki | Natasha Saha | New Himachali Song",
+      "publishedAt": "2026-05-21T09:24:20Z",
+      "durationSec": 242,
+      "thumb": "https://i.ytimg.com/vi/6RVyF0_NWSU/mqdefault.jpg",
+      "description": "Presenting latest Lyrical Himachali video song \"Hay Babiye\" sung by Sunny Dayal. Enjoy and stay connected with us !!\n\nSong - Hay Babiye – Himachali\nSinger - Sunny Dayal \nLyrics & Composer - Narayan Singh Chauhan \nMusic - Abhi Chaudhary\nStarring - Ajay Solanki, Rahul Kumar & Natasha Saha \nConcept & Project By - Purab Singh Panwar \nProject Co-Ordination (T-Series) - Nitesh Shrigadi\nDop & Edit - Devendra Negi\nDirector - Ajay Bharti\nProduction - Sawan Singh Panwar & Atul Ghildiyal\nMusic On: T-Series\n\n________________________________\nFOR LATEST UPDATES:\n________________________________\nSUBSCRIBE US Here: https://bit.ly/TSeriesHimachali-YT\nLIKE on FB: https://bit.ly/TSeriesHimachali",
+      "chapters": []
+    }
+  ]
 }

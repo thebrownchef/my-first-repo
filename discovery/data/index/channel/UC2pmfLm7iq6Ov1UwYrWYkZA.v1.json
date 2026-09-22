@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "generatedAt": "2026-09-22T11:36:38.028Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 92,
-  "distinctSourceCount": 92,
+  "score": 97,
+  "distinctSourceCount": 97,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -652,6 +652,41 @@
       "label": "SonyMusicSouthVEVO",
       "url": "https://www.youtube.com/channel/UCTNtRdBAiZtHP9w7JinzfUg",
       "firstSeenAt": "2026-09-21T12:45:07.261Z"
+    },
+    {
+      "id": "channel:UCahVGI5idD85mQlBD2InzzA",
+      "type": "channel",
+      "label": "reikVEVO",
+      "url": "https://www.youtube.com/channel/UCahVGI5idD85mQlBD2InzzA",
+      "firstSeenAt": "2026-09-22T11:35:05.572Z"
+    },
+    {
+      "id": "channel:UCO9__61RwQLxY8PFvFWnJ4Q",
+      "type": "channel",
+      "label": "SinbanderaVEVO",
+      "url": "https://www.youtube.com/channel/UCO9__61RwQLxY8PFvFWnJ4Q",
+      "firstSeenAt": "2026-09-22T11:35:05.722Z"
+    },
+    {
+      "id": "channel:UCYrzHHBDwo8n9K56L1YMSxQ",
+      "type": "channel",
+      "label": "VevoMexico",
+      "url": "https://www.youtube.com/channel/UCYrzHHBDwo8n9K56L1YMSxQ",
+      "firstSeenAt": "2026-09-22T11:35:05.885Z"
+    },
+    {
+      "id": "channel:UC8g5kYW2ZLJPta700XDCt-g",
+      "type": "channel",
+      "label": "YelawolfVEVO",
+      "url": "https://www.youtube.com/channel/UC8g5kYW2ZLJPta700XDCt-g",
+      "firstSeenAt": "2026-09-22T11:35:13.768Z"
+    },
+    {
+      "id": "channel:UCjjC1Jk_1o1VWpLalgo21XQ",
+      "type": "channel",
+      "label": "GEazyMusicVEVO",
+      "url": "https://www.youtube.com/channel/UCjjC1Jk_1o1VWpLalgo21XQ",
+      "firstSeenAt": "2026-09-22T11:35:13.926Z"
     }
   ],
   "recentItems": []

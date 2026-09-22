@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "generatedAt": "2026-09-22T11:36:38.028Z",
   "id": "UC22nIfOTM7KLIQuFGMKzQbg",
   "title": "Wave Music",
   "thumb": "https://yt3.ggpht.com/-m-efGozwxkvoZiijhjJcLSuUxZQpXvJu9tObrAbfhrtr67AAf1V674HBB8eHixOLHrj3WBlgxI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 4.98,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Khiladi (2016 film)",
       "url": "https://en.wikipedia.org/wiki/Khiladi_(2016_film)",
       "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "channel:UCYLlkv4hivYJlOk6Lo-RHNQ",
+      "type": "channel",
+      "label": "Wave Music Bhojpuri",
+      "url": "https://www.youtube.com/channel/UCYLlkv4hivYJlOk6Lo-RHNQ",
+      "firstSeenAt": "2026-09-22T11:35:19.439Z"
+    },
+    {
+      "id": "channel:UCgAILHt5LR1LlzLSkBQ6dqg",
+      "type": "channel",
+      "label": "Wave Music - Magahi",
+      "url": "https://www.youtube.com/channel/UCgAILHt5LR1LlzLSkBQ6dqg",
+      "firstSeenAt": "2026-09-22T11:35:20.340Z"
     }
   ],
   "recentItems": []

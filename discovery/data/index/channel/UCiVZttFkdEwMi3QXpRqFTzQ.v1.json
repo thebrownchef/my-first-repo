@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:46:23.311Z",
+  "generatedAt": "2026-09-22T11:36:38.028Z",
   "id": "UCiVZttFkdEwMi3QXpRqFTzQ",
   "title": "Советское телевидение. ГОСТЕЛЕРАДИОФОНД",
   "thumb": "https://yt3.ggpht.com/u6ihQdt33WqPzrdmch0YnmN_p1KiEW5OWPZ7MndWT4MsPg7KWFjHP-ZuaO_NAV09x3k9NcXJ9Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 7.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Police Band Service of the Ministry of Internal Affairs of Russia",
       "url": "https://en.wikipedia.org/wiki/Police_Band_Service_of_the_Ministry_of_Internal_Affairs_of_Russia",
       "firstSeenAt": "2026-08-30T11:52:26.129Z"
+    },
+    {
+      "id": "channel:UCM6oyrdQzBf-egEmlkJyQNg",
+      "type": "channel",
+      "label": "Советское радио. ГОСТЕЛЕРАДИОФОНД",
+      "url": "https://www.youtube.com/channel/UCM6oyrdQzBf-egEmlkJyQNg",
+      "firstSeenAt": "2026-09-22T11:35:14.282Z"
     }
   ],
   "recentItems": []
