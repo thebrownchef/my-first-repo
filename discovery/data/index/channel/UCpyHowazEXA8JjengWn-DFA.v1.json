@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-23T11:33:38.901Z",
+  "id": "UCpyHowazEXA8JjengWn-DFA",
+  "title": "Телеканал НТС",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m6VbofKLbQmmVqr95zMweizNxhIwDlm9u-cr1l73UjzQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 1.92,
+  "sources": [
+    {
+      "id": "channel:UCKGsRDnfPV-7a0wS24mQzHQ",
+      "type": "channel",
+      "label": "Санжыра Радио",
+      "url": "https://www.youtube.com/channel/UCKGsRDnfPV-7a0wS24mQzHQ",
+      "firstSeenAt": "2026-09-01T11:37:16.543Z"
+    },
+    {
+      "id": "channel:UCZY_mIsKHaQiG9fF6LwwCBg",
+      "type": "channel",
+      "label": "ТВ КАЙГУУЛ / TV Kaiguul",
+      "url": "https://www.youtube.com/channel/UCZY_mIsKHaQiG9fF6LwwCBg",
+      "firstSeenAt": "2026-09-23T11:32:25.034Z"
+    },
+    {
+      "id": "channel:UCNBNB2L1lUCR3l74nazUY6g",
+      "type": "channel",
+      "label": "НТС",
+      "url": "https://www.youtube.com/channel/UCNBNB2L1lUCR3l74nazUY6g",
+      "firstSeenAt": "2026-09-23T11:32:25.354Z"
+    }
+  ],
+  "recentItems": []
+}

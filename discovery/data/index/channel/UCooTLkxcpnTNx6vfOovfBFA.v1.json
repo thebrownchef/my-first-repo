@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:36:38.028Z",
+  "generatedAt": "2026-09-23T11:33:38.901Z",
   "id": "UCooTLkxcpnTNx6vfOovfBFA",
   "title": "FOX Soccer",
   "thumb": "https://yt3.ggpht.com/VwPMk6A-x0J_iNr6JACy1wuv0OUfGqLn4KBDzyOrMaP8J0K-9ygPUl0YsWKY_xxVQWqcTE9JvA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 1.95,
   "sources": [
@@ -29,6 +29,34 @@
       "label": "FOX Sports",
       "url": "https://www.youtube.com/channel/UCwNqHDsnBCKT-olwJwIFyfg",
       "firstSeenAt": "2026-09-19T10:55:45.067Z"
+    },
+    {
+      "id": "channel:UCOTPo2y-NHJjg1EuENrxypA",
+      "type": "channel",
+      "label": "First Things First",
+      "url": "https://www.youtube.com/channel/UCOTPo2y-NHJjg1EuENrxypA",
+      "firstSeenAt": "2026-09-23T11:32:22.785Z"
+    },
+    {
+      "id": "channel:UCxK3DFiD_LrvYTYQaTnDiYw",
+      "type": "channel",
+      "label": "Bear Bets: A FOX Sports Gambling Show",
+      "url": "https://www.youtube.com/channel/UCxK3DFiD_LrvYTYQaTnDiYw",
+      "firstSeenAt": "2026-09-23T11:32:22.849Z"
+    },
+    {
+      "id": "channel:UCrqcO8Vh-nM2fWFZnT1ss7A",
+      "type": "channel",
+      "label": "INDYCAR On FOX",
+      "url": "https://www.youtube.com/channel/UCrqcO8Vh-nM2fWFZnT1ss7A",
+      "firstSeenAt": "2026-09-23T11:32:22.901Z"
+    },
+    {
+      "id": "channel:UCpwix-O6ceqMgdxhqIynzFA",
+      "type": "channel",
+      "label": "CFB ON FOX",
+      "url": "https://www.youtube.com/channel/UCpwix-O6ceqMgdxhqIynzFA",
+      "firstSeenAt": "2026-09-23T11:32:23.046Z"
     }
   ],
   "recentItems": []

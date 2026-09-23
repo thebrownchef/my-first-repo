@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:36:38.028Z",
+  "generatedAt": "2026-09-23T11:33:38.901Z",
   "id": "UC_k8KFBzEf0uQ8LRFSAgSUA",
   "title": "Avril Lavigne",
   "thumb": "https://yt3.ggpht.com/o4u-Su2zOrLmPhxLJgbv0U210sPb1DjBbvoKRU6ilU1hieKyaVBMmnRY7MVBiNhsgu6gggIlc5E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Zane Carney",
       "url": "https://en.wikipedia.org/wiki/Zane_Carney",
       "firstSeenAt": "2026-09-06T10:53:22.169Z"
+    },
+    {
+      "id": "channel:UCC6XuDtfec7DxZdUa7ClFBQ",
+      "type": "channel",
+      "label": "AvrilLavigneVEVO",
+      "url": "https://www.youtube.com/channel/UCC6XuDtfec7DxZdUa7ClFBQ",
+      "firstSeenAt": "2026-09-23T11:32:25.461Z"
     }
   ],
   "recentItems": []

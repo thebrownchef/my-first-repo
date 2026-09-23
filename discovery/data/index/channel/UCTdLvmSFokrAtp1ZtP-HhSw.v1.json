@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:36:38.028Z",
+  "generatedAt": "2026-09-23T11:33:38.901Z",
   "id": "UCTdLvmSFokrAtp1ZtP-HhSw",
   "title": "US Auto Industry",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lFeUn2DUfi-AT_QA3aIBiqi4oxKbyOnnThKs3Nz1XBUQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "AIRBOYD",
       "url": "https://www.youtube.com/channel/UClyDDqcDsXp3KQ7J5gyIMuQ",
       "firstSeenAt": "2026-09-19T10:55:41.591Z"
+    },
+    {
+      "id": "channel:UCpVbfYivkdIeorwTAPMaTmg",
+      "type": "channel",
+      "label": "TheEarthquakeChannel",
+      "url": "https://www.youtube.com/channel/UCpVbfYivkdIeorwTAPMaTmg",
+      "firstSeenAt": "2026-09-23T11:32:29.752Z"
+    },
+    {
+      "id": "channel:UCUj8lkSnX-BnTXBYj8kwvsQ",
+      "type": "channel",
+      "label": "Old TV Time",
+      "url": "https://www.youtube.com/channel/UCUj8lkSnX-BnTXBYj8kwvsQ",
+      "firstSeenAt": "2026-09-23T11:32:29.817Z"
+    },
+    {
+      "id": "channel:UCid-Zy9WqiuNBn4WUHz-I4g",
+      "type": "channel",
+      "label": "rawtsunami",
+      "url": "https://www.youtube.com/channel/UCid-Zy9WqiuNBn4WUHz-I4g",
+      "firstSeenAt": "2026-09-23T11:32:30.034Z"
     }
   ],
   "recentItems": []

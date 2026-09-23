@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-23T11:33:38.901Z",
+  "id": "UC0gKepT7udZM5HF03Wv6o6Q",
+  "title": "Shaw TV North Island",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lcSMmdiX-k1mdgYiV7sOpUtWq3nYQ-nvs_QD3gRPucK5w=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.36,
+  "sources": [
+    {
+      "id": "channel:UCBqQrRgC1QLqBRRBhvoZPdw",
+      "type": "channel",
+      "label": "ShawTVSouthVI",
+      "url": "https://www.youtube.com/channel/UCBqQrRgC1QLqBRRBhvoZPdw",
+      "firstSeenAt": "2026-08-31T13:45:04.644Z"
+    },
+    {
+      "id": "channel:UCfjP3g6KlE5urBZCGamFKQg",
+      "type": "channel",
+      "label": "Shaw TV Nanaimo",
+      "url": "https://www.youtube.com/channel/UCfjP3g6KlE5urBZCGamFKQg",
+      "firstSeenAt": "2026-09-23T11:32:20.589Z"
+    }
+  ],
+  "recentItems": []
+}

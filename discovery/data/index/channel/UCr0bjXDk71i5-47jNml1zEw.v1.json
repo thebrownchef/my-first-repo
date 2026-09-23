@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:36:38.028Z",
+  "generatedAt": "2026-09-23T11:33:38.901Z",
   "id": "UCr0bjXDk71i5-47jNml1zEw",
   "title": "TVR Craiova",
   "thumb": "https://yt3.ggpht.com/MCRzCUTU_58snJ1kEniqkUB42SHb-L_uWSqPja5TySOe823V8QoxfbLKIVMl15rAsv-bC410lg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 9.23,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "arhiva TVR",
       "url": "https://www.youtube.com/channel/UCnCYIhudgWq6biY4CjLuavQ",
       "firstSeenAt": "2026-08-31T13:45:04.810Z"
+    },
+    {
+      "id": "channel:UCZuEe0HskcCgzaJKXQCA3oQ",
+      "type": "channel",
+      "label": "TVRCluj",
+      "url": "https://www.youtube.com/channel/UCZuEe0HskcCgzaJKXQCA3oQ",
+      "firstSeenAt": "2026-09-23T11:32:20.020Z"
     }
   ],
   "recentItems": []

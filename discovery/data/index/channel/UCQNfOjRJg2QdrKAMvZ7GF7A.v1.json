@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:36:38.028Z",
+  "generatedAt": "2026-09-23T11:33:38.901Z",
   "id": "UCQNfOjRJg2QdrKAMvZ7GF7A",
   "title": "VarzishTV",
   "thumb": "https://yt3.ggpht.com/G4pG1oRFXUdR0NdezXnW1-2rXOH6XgYCaJTvYrolAENNkNoVriEErTf91rph51oJZNV4sk21=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tajikistan Independence Day Military Parade",
       "url": "https://en.wikipedia.org/wiki/Tajikistan_Independence_Day_Military_Parade",
       "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "channel:UCIzE7kkH3W28hPSgDAmvhcg",
+      "type": "channel",
+      "label": "Football TV | Tajikistan",
+      "url": "https://www.youtube.com/channel/UCIzE7kkH3W28hPSgDAmvhcg",
+      "firstSeenAt": "2026-09-23T11:32:23.463Z"
     }
   ],
   "recentItems": []

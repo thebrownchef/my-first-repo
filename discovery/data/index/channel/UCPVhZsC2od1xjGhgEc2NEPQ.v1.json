@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:36:38.028Z",
+  "generatedAt": "2026-09-23T11:33:38.901Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "reikVEVO",
       "url": "https://www.youtube.com/channel/UCahVGI5idD85mQlBD2InzzA",
       "firstSeenAt": "2026-09-22T11:35:05.572Z"
+    },
+    {
+      "id": "channel:UCC6XuDtfec7DxZdUa7ClFBQ",
+      "type": "channel",
+      "label": "AvrilLavigneVEVO",
+      "url": "https://www.youtube.com/channel/UCC6XuDtfec7DxZdUa7ClFBQ",
+      "firstSeenAt": "2026-09-23T11:32:25.461Z"
     }
   ],
   "recentItems": []

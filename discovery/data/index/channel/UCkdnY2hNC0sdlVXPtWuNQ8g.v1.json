@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-23T11:33:38.901Z",
+  "id": "UCkdnY2hNC0sdlVXPtWuNQ8g",
+  "title": "New York Times Podcasts",
+  "thumb": "https://yt3.ggpht.com/wMkqoA8N0hK0GF_eUWwGeVVBgENlkRqP1pw3hPnCmglfNDahrKnODtxL3H6ChsACDJ8QeWtxcr4=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 2.43,
+  "sources": [
+    {
+      "id": "channel:UCqnbDFdCpuN8CMEg0VuEBqA",
+      "type": "channel",
+      "label": "The New York Times",
+      "url": "https://www.youtube.com/channel/UCqnbDFdCpuN8CMEg0VuEBqA",
+      "firstSeenAt": "2026-09-01T11:37:22.929Z"
+    },
+    {
+      "id": "channel:UCZcR2SVWaGWNlMqPxvQS3vw",
+      "type": "channel",
+      "label": "Hard Fork",
+      "url": "https://www.youtube.com/channel/UCZcR2SVWaGWNlMqPxvQS3vw",
+      "firstSeenAt": "2026-09-23T11:32:30.071Z"
+    }
+  ],
+  "recentItems": []
+}
