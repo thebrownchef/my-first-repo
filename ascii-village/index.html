@@ -1,0 +1,661 @@
+<title>Ashford Hollow</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Uncial+Antiqua&display=swap">
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0d0f14;
+    --ink: #eadfc4;
+    --dim: #8c8272;
+    --amber: #ffb347;
+    --straw: #d6a84a;
+    --panel: rgba(18, 16, 14, 0.8);
+    --line: rgba(214, 168, 74, 0.35);
+  }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    overflow: hidden;
+    touch-action: none;
+    user-select: none;
+  }
+  #screen { position: fixed; inset: 0; width: 100%; height: 100%; display: block; }
+  .hud {
+    position: fixed;
+    left: 16px;
+    right: 16px;
+    top: calc(12px + env(safe-area-inset-top, 0px));
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+    pointer-events: none;
+  }
+  .brand {
+    font-family: "Uncial Antiqua", Georgia, "Times New Roman", serif;
+    font-size: 22px;
+    color: var(--amber);
+    text-shadow: 0 0 10px rgba(255, 179, 71, 0.5);
+  }
+  .readout {
+    font-size: 12px;
+    color: var(--dim);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.04em;
+  }
+  .readout b { color: var(--straw); font-weight: 700; }
+  #modeBtn {
+    pointer-events: auto;
+    font: inherit;
+    font-size: 13px;
+    color: var(--straw);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 8px 12px;
+    cursor: pointer;
+    letter-spacing: 0.06em;
+  }
+  #modeBtn:hover { border-color: var(--amber); }
+  #modeBtn:focus-visible, .pad button:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+  .help {
+    position: fixed;
+    left: 16px;
+    bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+    font-size: 12px;
+    color: var(--dim);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 8px 10px;
+    line-height: 1.6;
+    max-width: calc(100% - 32px);
+    pointer-events: none;
+  }
+  .help kbd { color: var(--ink); font-family: inherit; }
+  .pad {
+    position: fixed;
+    right: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+    display: grid;
+    grid-template-columns: repeat(3, 52px);
+    grid-template-rows: repeat(2, 52px);
+    gap: 6px;
+  }
+  .pad button {
+    font: inherit;
+    font-size: 18px;
+    color: var(--ink);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    touch-action: none;
+  }
+  .pad button:active { border-color: var(--amber); color: var(--amber); }
+  .pad .up { grid-column: 2; grid-row: 1; }
+  .pad .left { grid-column: 1; grid-row: 2; }
+  .pad .down { grid-column: 2; grid-row: 2; }
+  .pad .right { grid-column: 3; grid-row: 2; }
+  @media (hover: hover) and (pointer: fine) { .pad { display: none; } }
+  @media (hover: none) { .help { display: none; } }
+</style>
+
+<canvas id="screen" aria-label="ASCII village view"></canvas>
+
+<div class="hud">
+  <div class="brand">Ashford Hollow</div>
+  <div class="readout" id="readout">mode <b>3D</b></div>
+  <button id="modeBtn" type="button">Switch to map view [M]</button>
+</div>
+
+<div class="help">
+  <kbd>W</kbd>/<kbd>S</kbd> walk &nbsp; <kbd>A</kbd>/<kbd>D</kbd> turn &nbsp; <kbd>Q</kbd>/<kbd>E</kbd> strafe &nbsp; <kbd>Shift</kbd> run &nbsp; <kbd>M</kbd> or <kbd>Tab</kbd> switch view
+</div>
+
+<div class="pad" aria-label="Touch controls">
+  <button class="up" id="padUp" type="button" aria-label="Walk forward">▲</button>
+  <button class="left" id="padLeft" type="button" aria-label="Turn left">◀</button>
+  <button class="down" id="padDown" type="button" aria-label="Walk back">▼</button>
+  <button class="right" id="padRight" type="button" aria-label="Turn right">▶</button>
+</div>
+
+<script>
+(() => {
+  const canvas = document.getElementById("screen");
+  const ctx = canvas.getContext("2d");
+  const readout = document.getElementById("readout");
+  const modeBtn = document.getElementById("modeBtn");
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // ---------- Random helpers ----------
+  let seed = 2024;
+  const rand = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296);
+  const hash = (a, b, c) => {
+    let h = (a * 374761393 + b * 668265263 + c * 2147483647) >>> 0;
+    h = ((h ^ (h >>> 13)) * 1274126177) >>> 0;
+    return ((h ^ (h >>> 16)) >>> 0) / 4294967296;
+  };
+
+  // ---------- Village generation ----------
+  const N = 64, C = N / 2;
+  // Wall types: 0 open, 1 plaster cottage, 2 ochre cottage, 3 stone church, 4 church tower, 5 palisade
+  const map = new Uint8Array(N * N);
+  const wallH = new Float32Array(N * N);
+  const houseOf = new Int16Array(N * N).fill(-1);
+  // Ground types: 0 grass, 1 dirt road, 2 cobbles, 3 field
+  const ground = new Uint8Array(N * N);
+  const houses = [];
+  const signs = new Map();
+
+  const WALL_COL = [
+    null,
+    [232, 217, 176],  // plaster
+    [214, 170, 110],  // ochre plaster
+    [160, 160, 172],  // stone
+    [150, 150, 165],  // tower stone
+    [150, 104, 60],   // palisade logs
+  ];
+  const TIMBER = [120, 76, 40];
+  const THATCH = [214, 168, 74];
+  const SLATE = [110, 120, 140];
+  const WARM = [255, 190, 90];
+
+  const PAL = 3;                 // palisade ring distance from edge
+  const WALL_R = C - PAL;
+  const inRing = (x, y) => Math.max(Math.abs(x + 0.5 - C), Math.abs(y + 0.5 - C)) < WALL_R;
+
+  // Roads: a cross from the square to four gates, plus a ring lane
+  for (let y = 0; y < N; y++) {
+    for (let x = 0; x < N; x++) {
+      const i = y * N + x;
+      const dx = x + 0.5 - C, dy = y + 0.5 - C;
+      const cheb = Math.max(Math.abs(dx), Math.abs(dy));
+      if (Math.abs(dx) < 1.5 || Math.abs(dy) < 1.5) ground[i] = 1;
+      if (Math.abs(cheb - 14) < 0.6) ground[i] = 1;
+      if (Math.hypot(dx, dy) < 5.5) ground[i] = 2;
+      if (!inRing(x, y)) ground[i] = (ground[i] === 1 ? 1 : 3);
+      // palisade with gates on the cross roads
+      if (Math.abs(cheb - (WALL_R - 0.5)) < 0.1 && Math.abs(dx) >= 1.5 && Math.abs(dy) >= 1.5) { map[i] = 5; wallH[i] = 1.3; }
+      if (x === 0 || y === 0 || x === N - 1 || y === N - 1) { map[i] = 5; wallH[i] = 1.3; }
+    }
+  }
+
+  // Church and tower north-east of the square
+  const place = (x0, y0, w, h, type, height, id) => {
+    for (let y = y0; y < y0 + h; y++) for (let x = x0; x < x0 + w; x++) {
+      const i = y * N + x; map[i] = type; wallH[i] = height; houseOf[i] = id;
+    }
+  };
+  const church = { x: C + 4, y: C - 10, w: 3, h: 5, roof: SLATE, type: 3 };
+  houses.push(church);
+  place(church.x, church.y, church.w, church.h, 3, 1.9, 0);
+  const tower = { x: C + 4, y: C - 11, w: 3, h: 1, roof: SLATE, type: 4 };
+  houses.push(tower);
+  place(C + 5, C - 11, 1, 1, 4, 3.6, 1);
+
+  const free = (x0, y0, w, h) => {
+    for (let y = y0 - 1; y <= y0 + h; y++) for (let x = x0 - 1; x <= x0 + w; x++) {
+      if (x < 1 || y < 1 || x >= N - 1 || y >= N - 1) return false;
+      const i = y * N + x;
+      if (map[i] || !inRing(x, y) || Math.max(Math.abs(x + 0.5 - C), Math.abs(y + 0.5 - C)) > WALL_R - 2) return false;
+      if (x >= x0 && x < x0 + w && y >= y0 && y < y0 + h && ground[i] !== 0) return false;
+    }
+    return true;
+  };
+  const SIGN_WORDS = ["INN", "SMITHY", "BAKER", "TANNER", "ALE", "MILLER", "COOPER", "HERBS", "WEAVER", "CHANDLER"];
+  for (let tries = 0; tries < 3000 && houses.length < 48; tries++) {
+    const w = 2 + Math.floor(rand() * 3), h = 2 + Math.floor(rand() * 2);
+    const x = 2 + Math.floor(rand() * (N - 4 - w)), y = 2 + Math.floor(rand() * (N - 4 - h));
+    if (!free(x, y, w, h)) continue;
+    // prefer spots near a road
+    let nearRoad = false;
+    for (let yy = y - 2; yy < y + h + 2 && !nearRoad; yy++) for (let xx = x - 2; xx < x + w + 2; xx++) {
+      if (ground[yy * N + xx] === 1 || ground[yy * N + xx] === 2) { nearRoad = true; break; }
+    }
+    if (!nearRoad && rand() < 0.7) continue;
+    const type = rand() < 0.6 ? 1 : 2;
+    const id = houses.length;
+    houses.push({ x, y, w, h, roof: THATCH, type });
+    place(x, y, w, h, type, 1.0 + rand() * 0.35, id);
+    if (rand() < 0.35) {
+      const edge = y * N + x + Math.floor(w / 2);
+      signs.set(edge, { word: SIGN_WORDS[Math.floor(rand() * SIGN_WORDS.length)], phase: rand() * 6 });
+    }
+  }
+
+  const isWall = (x, y) => {
+    if (x < 0 || y < 0 || x >= N || y >= N) return true;
+    return map[(y | 0) * N + (x | 0)] !== 0;
+  };
+
+  // ---------- Sprites: trees, well, villagers, chickens ----------
+  const sprites = [];
+  const blockers = [];
+  sprites.push({ kind: "well", x: C, y: C, w: 1.0, h: 0.8 });
+  blockers.push({ x: C, y: C, r: 0.55 });
+  for (let k = 0; k < 400 && sprites.length < 170; k++) {
+    const x = 1.5 + rand() * (N - 3), y = 1.5 + rand() * (N - 3);
+    const i = (y | 0) * N + (x | 0);
+    if (map[i] || ground[i] === 1 || ground[i] === 2) continue;
+    const outside = !inRing(x | 0, y | 0);
+    if (!outside && rand() < 0.55) continue;
+    if (outside && ground[i] === 3 && rand() < 0.75) continue;
+    if (isWall(x + 0.6, y) || isWall(x - 0.6, y) || isWall(x, y + 0.6) || isWall(x, y - 0.6)) continue;
+    const s = 0.8 + rand() * 0.6;
+    sprites.push({ kind: "tree", x, y, w: 1.3 * s, h: 2.1 * s, seed: k });
+    blockers.push({ x, y, r: 0.3 });
+  }
+  const blocked = (x, y) => {
+    if (isWall(x, y)) return true;
+    for (const b of blockers) if (Math.abs(b.x - x) < b.r && Math.abs(b.y - y) < b.r && Math.hypot(b.x - x, b.y - y) < b.r) return true;
+    return false;
+  };
+
+  const TUNICS = [[170, 60, 50], [70, 110, 160], [90, 130, 70], [150, 120, 80], [130, 80, 140]];
+  const movers = [];
+  const spawn = (kind, count, speed) => {
+    for (let k = 0; k < count; k++) {
+      let x, y, guard = 0;
+      do { x = C - 18 + rand() * 36; y = C - 18 + rand() * 36; } while (blocked(x, y) && guard++ < 100);
+      const m = { kind, x, y, a: rand() * Math.PI * 2, speed: speed * (0.7 + rand() * 0.6), t: rand() * 4, color: TUNICS[k % TUNICS.length],
+        w: kind === "villager" ? 0.4 : 0.3, h: kind === "villager" ? 0.9 : 0.28 };
+      movers.push(m); sprites.push(m);
+    }
+  };
+  spawn("villager", 40, 0.7);
+  spawn("chicken", 18, 0.9);
+
+  // ---------- Player and input ----------
+  const player = { x: C + 0.5, y: C + 6.5, a: -Math.PI / 2 };
+  const keys = new Set();
+  let mode = "3d";
+  try { if (localStorage.getItem("ashford-mode") === "map") mode = "map"; } catch (e) {}
+  const setMode = (m) => {
+    mode = m;
+    modeBtn.textContent = mode === "3d" ? "Switch to map view [M]" : "Switch to 3D view [M]";
+    try { localStorage.setItem("ashford-mode", mode); } catch (e) {}
+  };
+  setMode(mode);
+  modeBtn.addEventListener("click", () => { setMode(mode === "3d" ? "map" : "3d"); modeBtn.blur(); });
+  window.addEventListener("keydown", (e) => {
+    const k = e.key.toLowerCase();
+    if (k === "m" || k === "tab") { e.preventDefault(); if (!e.repeat) setMode(mode === "3d" ? "map" : "3d"); return; }
+    if (["arrowup", "arrowdown", "arrowleft", "arrowright", " "].includes(k)) e.preventDefault();
+    keys.add(k);
+    if (e.shiftKey) keys.add("shift");
+  });
+  window.addEventListener("keyup", (e) => {
+    keys.delete(e.key.toLowerCase());
+    if (!e.shiftKey) keys.delete("shift");
+  });
+  window.addEventListener("blur", () => keys.clear());
+  const bindPad = (id, key) => {
+    const el = document.getElementById(id);
+    el.addEventListener("pointerdown", (e) => { e.preventDefault(); keys.add(key); el.setPointerCapture(e.pointerId); });
+    const up = () => keys.delete(key);
+    el.addEventListener("pointerup", up);
+    el.addEventListener("pointercancel", up);
+  };
+  bindPad("padUp", "w"); bindPad("padDown", "s"); bindPad("padLeft", "a"); bindPad("padRight", "d");
+
+  // ---------- Canvas / character grid ----------
+  let W = 0, H = 0, cw = 8, ch = 16, cols = 80, rows = 40, fontSize = 14;
+  const resize = () => {
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    W = window.innerWidth; H = window.innerHeight;
+    canvas.width = Math.floor(W * dpr); canvas.height = Math.floor(H * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    fontSize = W < 600 ? 11 : 14;
+    ctx.font = `700 ${fontSize}px "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace`;
+    cw = Math.ceil(ctx.measureText("M").width);
+    ch = Math.ceil(fontSize * 1.15);
+    cols = Math.ceil(W / cw);
+    rows = Math.ceil(H / ch);
+  };
+  window.addEventListener("resize", resize);
+  if (document.fonts && document.fonts.load) document.fonts.load('700 14px "JetBrains Mono"').then(resize, () => {});
+  resize();
+
+  const BG = [13, 15, 20];
+  const rgb = (c, k) => {
+    k = Math.max(0, Math.min(1, k));
+    return `rgb(${(BG[0] + (c[0] - BG[0]) * k) | 0},${(BG[1] + (c[1] - BG[1]) * k) | 0},${(BG[2] + (c[2] - BG[2]) * k) | 0})`;
+  };
+  const put = (col, row, chr, color) => { ctx.fillStyle = color; ctx.fillText(chr, col * cw, row * ch); };
+
+  // Fireflies drifting in screen space
+  const flies = [];
+  for (let i = 0; i < 60; i++) flies.push({ x: Math.random(), y: 0.55 + Math.random() * 0.45, p: Math.random() * 10, v: 0.02 + Math.random() * 0.04 });
+
+  // ---------- Movement ----------
+  const tryMove = (o, dx, dy, r) => {
+    if (!blocked(o.x + dx + Math.sign(dx) * r, o.y)) o.x += dx;
+    if (!blocked(o.x, o.y + dy + Math.sign(dy) * r)) o.y += dy;
+  };
+  const update = (dt, time) => {
+    const run = keys.has("shift") ? 2.1 : 1;
+    const speed = 3.0 * run * dt, turn = 2.4 * dt;
+    if (keys.has("a") || keys.has("arrowleft")) player.a -= turn;
+    if (keys.has("d") || keys.has("arrowright")) player.a += turn;
+    const fx = Math.cos(player.a), fy = Math.sin(player.a);
+    let mx = 0, my = 0;
+    if (keys.has("w") || keys.has("arrowup")) { mx += fx; my += fy; }
+    if (keys.has("s") || keys.has("arrowdown")) { mx -= fx; my -= fy; }
+    if (keys.has("q")) { mx += fy; my -= fx; }
+    if (keys.has("e")) { mx -= fy; my += fx; }
+    const len = Math.hypot(mx, my);
+    if (len > 0) tryMove(player, mx / len * speed, my / len * speed, 0.2);
+
+    for (const m of movers) {
+      m.t -= dt;
+      const step = m.kind === "chicken" && Math.sin(time * 3 + m.x) < 0 ? 0 : m.speed * dt;
+      const nx = m.x + Math.cos(m.a) * step, ny = m.y + Math.sin(m.a) * step;
+      if (blocked(nx + Math.cos(m.a) * 0.3, ny + Math.sin(m.a) * 0.3) || m.t < 0) {
+        m.a = Math.random() * Math.PI * 2;
+        m.t = 1.5 + Math.random() * 5;
+      } else { m.x = nx; m.y = ny; }
+    }
+    if (!reduceMotion) for (const f of flies) {
+      f.x += Math.sin(time * 0.7 + f.p) * f.v * dt;
+      f.y += Math.cos(time * 0.9 + f.p * 2) * f.v * dt * 0.6;
+      if (f.x < 0) f.x += 1; if (f.x > 1) f.x -= 1;
+      f.y = Math.min(0.98, Math.max(0.5, f.y));
+    }
+  };
+
+  // ---------- Sprite glyphs: return [char, colour] or null ----------
+  const glyph = (s, fx, fy) => {
+    const dx = fx - 0.5;
+    switch (s.kind) {
+      case "tree": {
+        const cy = 0.35, ry = 0.36, rx = 0.5;
+        const inside = (dx * dx) / (rx * rx) + ((fy - cy) * (fy - cy)) / (ry * ry) < 1;
+        if (inside) {
+          const n = hash(Math.floor(fx * 9) + s.seed * 31, Math.floor(fy * 9), 3);
+          const shade = 0.55 + (0.5 - fy) * 0.5 + n * 0.25;
+          return [n < 0.33 ? "&" : n < 0.66 ? "%" : "*", [80 + n * 40 | 0, 150 + n * 40 | 0, 70], shade];
+        }
+        if (fy > 0.6 && Math.abs(dx) < 0.07) return ["|", TIMBER, 0.8];
+        return null;
+      }
+      case "well": {
+        if (fy < 0.14 && Math.abs(dx) < 0.48) return ["^", TIMBER, 0.9];
+        if (fy < 0.55 && Math.abs(Math.abs(dx) - 0.4) < 0.06) return ["|", TIMBER, 0.8];
+        if (fy >= 0.28 && fy < 0.4 && Math.abs(dx) < 0.05) return ["o", [180, 180, 190], 0.7];
+        if (fy >= 0.55) return [Math.floor(fx * 6 + (fy > 0.78 ? 0.5 : 0)) % 2 ? "=" : "#", WALL_COL[3], 0.75];
+        return null;
+      }
+      case "villager": {
+        if (fy < 0.2 && Math.abs(dx) < 0.25) return ["o", [236, 200, 160], 0.95];
+        if (fy < 0.65 && Math.abs(dx) < 0.45) return [Math.abs(dx) < 0.15 ? "H" : "#", s.color, 0.9];
+        if (fy >= 0.65 && Math.abs(Math.abs(dx) - 0.2) < 0.14) return ["|", [90, 70, 50], 0.8];
+        return null;
+      }
+      case "chicken": {
+        if (fy < 0.35 && dx > 0.05 && dx < 0.35) return ["o", [240, 235, 220], 0.9];
+        if (fy >= 0.3 && fy < 0.8 && Math.abs(dx) < 0.4) return ["@", [240, 235, 220], 0.85];
+        if (fy >= 0.8 && Math.abs(dx) < 0.2) return ["'", [230, 160, 60], 0.9];
+        return null;
+      }
+    }
+    return null;
+  };
+
+  // ---------- 3D view ----------
+  const zbuf = new Float32Array(2048);
+  const SUN_ANGLE = Math.PI * 0.85;   // the sun sets in the west
+  const render3D = (time) => {
+    const horizon = Math.floor(rows * 0.55);
+    const dirX = Math.cos(player.a), dirY = Math.sin(player.a);
+    const fov = 0.66 * Math.min(1.6, Math.max(0.7, (W / H) / 1.4));
+    const planeX = -dirY * fov, planeY = dirX * fov;
+    const unitRows = (cols * cw) / (2 * fov) / ch;
+    const colsPerRad = cols / (2 * Math.atan(fov));
+
+    // Dusk sky: glow bands, drifting clouds, the setting sun
+    let sunRel = SUN_ANGLE - player.a;
+    sunRel = Math.atan2(Math.sin(sunRel), Math.cos(sunRel));
+    const sunC = cols / 2 + sunRel * colsPerRad, sunR = horizon - 3;
+    for (let r = 0; r < horizon; r++) {
+      const t = r / horizon;
+      for (let c = 0; c < cols; c++) {
+        const skyX = c - player.a * colsPerRad;
+        const dSun = Math.hypot((c - sunC) * cw / ch, r - sunR);
+        if (Math.abs(sunRel) < 1.4 && dSun < 2.6) { put(c, r, dSun < 1.6 ? "@" : "o", rgb([255, 170, 80], 1 - dSun * 0.15)); continue; }
+        const cloud = Math.sin(skyX * 0.09 + time * 0.04) + Math.sin(skyX * 0.031 - r * 0.6) + Math.sin(r * 1.3 + skyX * 0.02);
+        if (t < 0.7 && cloud > 1.6) { put(c, r, cloud > 2.2 ? "≈" : "~", rgb([240, 170, 150], 0.25 + t * 0.35)); continue; }
+        if (t > 0.6 && hash(c, r, 5) < (t - 0.6) * 0.5) { put(c, r, "-", rgb([255, 150, 80], (t - 0.6) * 1.2)); continue; }
+        if (t < 0.4 && hash(((Math.floor(skyX) % 5000) + 5000) % 5000, r, 1) < 0.01) put(c, r, ".", rgb([220, 220, 255], 0.45 - t));
+      }
+    }
+    // distant hills on the horizon
+    for (let c = 0; c < cols; c++) {
+      const skyX = c - player.a * colsPerRad * 0.8;
+      const hill = Math.floor(2 + Math.sin(skyX * 0.05) * 1.5 + Math.sin(skyX * 0.013) * 1.5);
+      for (let r = horizon - hill; r <= horizon; r++) put(c, r, r === horizon - hill ? "^" : "\"", rgb([70, 90, 80], 0.6));
+    }
+
+    // Ground
+    for (let r = horizon + 1; r < rows; r++) {
+      const dist = unitRows * 0.5 / (r - horizon);
+      const k = Math.min(1, 1.4 / (1 + dist * 0.3));
+      for (let c = 0; c < cols; c++) {
+        const cameraX = 2 * c / cols - 1;
+        const wx = player.x + (dirX + planeX * cameraX) * dist;
+        const wy = player.y + (dirY + planeY * cameraX) * dist;
+        const tx = Math.floor(wx), ty = Math.floor(wy);
+        if (tx < 0 || ty < 0 || tx >= N || ty >= N) continue;
+        const g = ground[ty * N + tx];
+        const n = hash(Math.floor(wx * 4), Math.floor(wy * 4), 4);
+        if (g === 0) { if (n < 0.45) put(c, r, n < 0.15 ? "\"" : n < 0.3 ? "," : "'", rgb([100, 160, 70], k * (0.4 + n))); }
+        else if (g === 1) { if (n < 0.5) put(c, r, n < 0.1 ? "o" : ".", rgb([170, 130, 90], k * 0.6)); }
+        else if (g === 2) {
+          const ox = Math.floor(wx * 3 + (Math.floor(wy * 3) % 2) * 0.5);
+          put(c, r, (wx * 3 + (Math.floor(wy * 3) % 2) * 0.5) - ox < 0.2 ? ":" : "o", rgb([150, 150, 160], k * 0.5));
+        } else {
+          const row = (wx * 2.5) % 1;
+          if (row < 0.45) put(c, r, n < 0.5 ? "≡" : "\"", rgb([200, 175, 90], k * 0.55));
+        }
+      }
+    }
+
+    // Walls with timber framing, windows, doors, gable roofs
+    for (let c = 0; c < cols; c++) {
+      const cameraX = 2 * c / cols - 1;
+      const rdx = dirX + planeX * cameraX, rdy = dirY + planeY * cameraX;
+      let mx = Math.floor(player.x), my = Math.floor(player.y);
+      const ddx = Math.abs(1 / rdx), ddy = Math.abs(1 / rdy);
+      let stepX, stepY, sdx, sdy;
+      if (rdx < 0) { stepX = -1; sdx = (player.x - mx) * ddx; } else { stepX = 1; sdx = (mx + 1 - player.x) * ddx; }
+      if (rdy < 0) { stepY = -1; sdy = (player.y - my) * ddy; } else { stepY = 1; sdy = (my + 1 - player.y) * ddy; }
+      let side = 0, hit = 0, guard = 0;
+      while (!hit && guard++ < 200) {
+        if (sdx < sdy) { sdx += ddx; mx += stepX; side = 0; } else { sdy += ddy; my += stepY; side = 1; }
+        if (mx < 0 || my < 0 || mx >= N || my >= N) break;
+        hit = map[my * N + mx];
+      }
+      if (!hit) { zbuf[c] = 1e9; continue; }
+      const dist = side === 0 ? sdx - ddx : sdy - ddy;
+      zbuf[c] = dist;
+      const along = side === 0 ? player.y + dist * rdy : player.x + dist * rdx;
+      const u = along - Math.floor(along);
+      const idx = my * N + mx;
+      const hTiles = wallH[idx];
+      const unit = unitRows / Math.max(dist, 0.05);
+      const bottom = horizon + unit * 0.5;
+      const top = bottom - unit * hTiles;
+      const fog = Math.min(1, 1.7 / (1 + dist * 0.16)) * (side ? 0.75 : 1);
+      const base = WALL_COL[hit];
+
+      // gable roof across the whole face of a building
+      const house = houseOf[idx] >= 0 ? houses[houseOf[idx]] : null;
+      let roofTop = top, t = 0.5;
+      if (house) {
+        const start = side === 0 ? house.y : house.x;
+        const len = side === 0 ? house.h : house.w;
+        t = Math.min(1, Math.max(0, (along - start) / len));
+        const peak = hit === 4 ? 1.6 : Math.min(1.1, 0.4 * len);
+        roofTop = top - unit * peak * (1 - Math.abs(2 * t - 1));
+      }
+      const rTop = Math.max(0, Math.floor(roofTop));
+      const r1 = Math.min(rows - 1, Math.floor(bottom));
+      const sign = signs.get(idx);
+      for (let r = rTop; r <= r1; r++) {
+        if (r < top) {
+          if (!house) continue;
+          const roofCol = house.roof;
+          const edge = r === rTop;
+          put(c, r, edge ? (t < 0.5 ? "/" : "\\") : (hit === 3 || hit === 4 ? "=" : (r % 2 ? "\"" : "'")), rgb(roofCol, fog * (edge ? 1 : 0.75)));
+          continue;
+        }
+        const v = (bottom - r) / unit;            // height above ground in tiles
+        if (hit === 5) {                          // palisade logs
+          const log = (u * 5) % 1;
+          put(c, r, r === Math.max(0, Math.floor(top)) ? "^" : log < 0.18 ? " " : "|", rgb(base, fog * 0.75));
+          continue;
+        }
+        if (sign && v > 0.72 && v < 0.9) {
+          const letter = sign.word[Math.min(sign.word.length - 1, Math.floor(u * sign.word.length))];
+          put(c, r, letter, rgb([240, 200, 120], fog));
+          continue;
+        }
+        const winU = (u * 2) % 1;
+        const doorHere = house && hit !== 4 && Math.abs(t - 0.5) < 0.12 && v < 0.62 && ((side === 0) ? (mx === house.x || mx === house.x + house.w - 1) : (my === house.y + house.h - 1));
+        if (doorHere) { put(c, r, Math.abs(t - 0.5) < 0.1 ? "#" : "|", rgb(TIMBER, fog * 0.9)); continue; }
+        const inWin = winU > 0.3 && winU < 0.7 && v > 0.35 && v < 0.62 + (hit === 4 ? 2 : 0) && (hit !== 4 || (v % 0.9) > 0.35);
+        if (inWin && !(hit === 3 && Math.floor(u * 2) % 2)) {
+          const lit = hash(idx, Math.floor(u * 2), side) > 0.35;
+          const flicker = reduceMotion ? 1 : 0.85 + 0.15 * Math.sin(time * 7 + idx);
+          put(c, r, hit === 3 || hit === 4 ? "†" : lit ? "▪" : "#", lit ? rgb(WARM, fog * flicker) : rgb(TIMBER, fog * 0.6));
+          continue;
+        }
+        if (hit === 1 || hit === 2) {            // timber framing
+          const beamV = u < 0.06 || u > 0.94 || Math.abs(v - hTiles * 0.5) < 0.05 || v > hTiles - 0.06;
+          const brace = Math.abs(((u + v) % 1) - 0.5) < 0.04 && v < hTiles * 0.5;
+          if (beamV || brace) { put(c, r, beamV ? (u < 0.06 || u > 0.94 ? "|" : "=") : "/", rgb(TIMBER, fog)); continue; }
+          if (hash(Math.floor(u * 8), r, idx) < 0.35) put(c, r, ".", rgb(base, fog * 0.45));
+          else put(c, r, ":", rgb(base, fog * 0.25));
+          continue;
+        }
+        // stone courses
+        const course = Math.floor(v * 6);
+        const mortar = ((u * 3 + (course % 2) * 0.5) % 1) < 0.1;
+        put(c, r, mortar ? "|" : "=", rgb(base, fog * (mortar ? 0.35 : 0.5)));
+      }
+    }
+
+    // Sprites, far to near
+    const invDet = 1 / (planeX * dirY - dirX * planeY);
+    const vis = [];
+    for (const s of sprites) {
+      const sx = s.x - player.x, sy = s.y - player.y;
+      const tx = invDet * (dirY * sx - dirX * sy);
+      const ty = invDet * (-planeY * sx + planeX * sy);
+      if (ty > 0.25 && ty < 30) vis.push({ s, tx, ty });
+    }
+    vis.sort((a, b) => b.ty - a.ty);
+    for (const { s, tx, ty } of vis) {
+      const screenC = (cols / 2) * (1 + tx / ty);
+      const unit = unitRows / ty;
+      const bottom = horizon + unit * 0.5;
+      const top = bottom - unit * s.h;
+      const halfW = s.w * unit * ch / cw * 0.5;
+      const fog = Math.min(1, 1.7 / (1 + ty * 0.16));
+      const c0 = Math.max(0, Math.floor(screenC - halfW)), c1 = Math.min(cols - 1, Math.ceil(screenC + halfW));
+      const r0 = Math.max(0, Math.floor(top)), r1 = Math.min(rows - 1, Math.floor(bottom));
+      for (let c = c0; c <= c1; c++) {
+        if (zbuf[c] < ty) continue;
+        const fx = (c + 0.5 - (screenC - halfW)) / (halfW * 2);
+        if (fx < 0 || fx > 1) continue;
+        for (let r = r0; r <= r1; r++) {
+          const g = glyph(s, fx, (r + 0.5 - top) / (bottom - top));
+          if (g) put(c, r, g[0], rgb(g[1], fog * g[2]));
+        }
+      }
+    }
+  };
+
+  // ---------- Map view ----------
+  const renderMap = (time) => {
+    const tileW = 2;
+    const viewW = Math.ceil(cols / tileW);
+    const ox = player.x - viewW / 2, oy = player.y - rows / 2;
+    for (let r = 0; r < rows; r++) {
+      const wy = Math.floor(oy + r);
+      for (let tc = 0; tc < viewW; tc++) {
+        const wx = Math.floor(ox + tc);
+        if (wx < 0 || wy < 0 || wx >= N || wy >= N) continue;
+        const i = wy * N + wx, t = map[i], c0 = tc * tileW;
+        if (t) {
+          const sign = signs.get(i);
+          if (sign) { put(c0, r, sign.word[0], rgb([240, 200, 120], 1)); put(c0 + 1, r, sign.word[1], rgb([240, 200, 120], 1)); continue; }
+          if (t === 5) { put(c0, r, "|", rgb(WALL_COL[5], 0.8)); put(c0 + 1, r, "|", rgb(WALL_COL[5], 0.8)); continue; }
+          if (t === 4) { put(c0, r, "†", rgb([230, 230, 240], 1)); put(c0 + 1, r, "^", rgb(SLATE, 1)); continue; }
+          const roof = t === 3 ? SLATE : THATCH;
+          const chr = t === 3 ? "=" : "^";
+          const lit = hash(i, 0, Math.floor(time * 0.2)) > 0.9;
+          put(c0, r, lit ? "▪" : chr, lit ? rgb(WARM, 0.9) : rgb(roof, 0.8));
+          put(c0 + 1, r, chr, rgb(roof, 0.65));
+        } else {
+          const g = ground[i];
+          const n = hash(wx, wy, 4);
+          if (g === 0) { if (n < 0.45) put(c0 + (n < 0.22 ? 0 : 1), r, n < 0.15 ? "\"" : ",", rgb([100, 160, 70], 0.55)); }
+          else if (g === 1) { put(c0, r, ".", rgb([170, 130, 90], 0.6)); if (n < 0.5) put(c0 + 1, r, ".", rgb([170, 130, 90], 0.45)); }
+          else if (g === 2) { put(c0, r, "o", rgb([150, 150, 160], 0.45)); put(c0 + 1, r, ":", rgb([150, 150, 160], 0.35)); }
+          else { put(c0, r, "≡", rgb([200, 175, 90], 0.45)); put(c0 + 1, r, "≡", rgb([200, 175, 90], 0.35)); }
+        }
+      }
+    }
+    for (const s of sprites) {
+      const c = Math.floor((s.x - ox) * tileW), r = Math.floor(s.y - oy);
+      if (c < 0 || c >= cols || r < 0 || r >= rows) continue;
+      if (s.kind === "tree") { put(c, r, "♣", rgb([90, 170, 80], 0.9)); }
+      else if (s.kind === "well") { put(c, r, "O", rgb([200, 200, 210], 1)); }
+      else if (s.kind === "villager") { put(c, r, "@", rgb(s.color, 1)); }
+      else if (s.kind === "chicken") { put(c, r, "v", rgb([240, 235, 220], 0.9)); }
+    }
+    const pc = Math.floor((player.x - ox) * tileW), pr = Math.floor(player.y - oy);
+    for (let d = 1; d <= 3; d++) {
+      for (const off of [-0.35, 0, 0.35]) {
+        const wx = player.x + Math.cos(player.a + off) * d, wy = player.y + Math.sin(player.a + off) * d;
+        if (!isWall(wx, wy)) put(Math.floor((wx - ox) * tileW), Math.floor(wy - oy), "·", rgb([255, 179, 71], 0.65 - d * 0.13));
+      }
+    }
+    const arrows = [">", "v", "<", "^"];
+    const ai = ((Math.round(player.a / (Math.PI / 2)) % 4) + 4) % 4;
+    ctx.save();
+    ctx.shadowColor = "rgba(255,179,71,0.9)"; ctx.shadowBlur = 10;
+    put(pc, pr, arrows[ai], "#ffb347");
+    ctx.restore();
+  };
+
+  const renderFlies = (time) => {
+    for (const f of flies) {
+      const glow = 0.5 + 0.5 * Math.sin(time * 3 + f.p * 5);
+      if (glow < 0.35) continue;
+      put(Math.floor(f.x * cols), Math.floor(f.y * rows), "·", rgb([230, 255, 120], glow));
+    }
+  };
+
+  // ---------- Main loop ----------
+  let last = performance.now();
+  const frame = (now) => {
+    const dt = Math.min(0.05, (now - last) / 1000);
+    last = now;
+    const time = now / 1000;
+    update(dt, time);
+    ctx.fillStyle = "#0d0f14";
+    ctx.fillRect(0, 0, W, H);
+    ctx.font = `700 ${fontSize}px "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace`;
+    ctx.textBaseline = "top";
+    if (mode === "3d") render3D(time); else renderMap(time);
+    renderFlies(time);
+    const heading = ((player.a * 180 / Math.PI) % 360 + 360) % 360;
+    const compass = ["E", "SE", "S", "SW", "W", "NW", "N", "NE"][Math.round(heading / 45) % 8];
+    readout.innerHTML = `mode <b>${mode === "3d" ? "3D" : "MAP"}</b> &nbsp; x <b>${player.x.toFixed(1)}</b> y <b>${player.y.toFixed(1)}</b> &nbsp; facing <b>${compass}</b>`;
+    requestAnimationFrame(frame);
+  };
+  requestAnimationFrame(frame);
+})();
+</script>
