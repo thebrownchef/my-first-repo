@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "id": "UC4xVJh3eKtRaT2cy00GN0FQ",
+  "title": "amazonfashion",
+  "thumb": "https://yt3.ggpht.com/1fX5EeaRxJ6bRR9PphTpYEZ5yfaJK23-X2WG8mPGIHvyh24dB4QdCJ1cVK4ExxiN3knf09k8=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.13,
+  "sources": [
+    {
+      "id": "channel:UCQJWtTnAHhEG5w4uN0udnUQ",
+      "type": "channel",
+      "label": "Prime Video",
+      "url": "https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ",
+      "firstSeenAt": "2026-09-01T11:37:35.765Z"
+    },
+    {
+      "id": "channel:UC_eBg8MbJNcVRe37sKIWKYQ",
+      "type": "channel",
+      "label": "Prime Video Kids",
+      "url": "https://www.youtube.com/channel/UC_eBg8MbJNcVRe37sKIWKYQ",
+      "firstSeenAt": "2026-09-24T11:42:48.715Z"
+    },
+    {
+      "id": "channel:UCkLXELm63_pH7L-r-548kig",
+      "type": "channel",
+      "label": "amazon",
+      "url": "https://www.youtube.com/channel/UCkLXELm63_pH7L-r-548kig",
+      "firstSeenAt": "2026-09-24T11:42:49.180Z"
+    }
+  ],
+  "recentItems": []
+}

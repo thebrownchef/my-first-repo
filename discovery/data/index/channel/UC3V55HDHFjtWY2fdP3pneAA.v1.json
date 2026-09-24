@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "id": "UC3V55HDHFjtWY2fdP3pneAA",
+  "title": "Sardonicast",
+  "thumb": "https://yt3.ggpht.com/6cthIqSyhMmsSm7mO9l-NqJMIBqD2T6P31ILZtsUq7ddPhPpPtc_7JVVGVCJXZCbLOQWfX8dug=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.08,
+  "sources": [
+    {
+      "id": "channel:UCSc16oMxxlcJSb9SXkjwMjA",
+      "type": "channel",
+      "label": "YMS",
+      "url": "https://www.youtube.com/channel/UCSc16oMxxlcJSb9SXkjwMjA",
+      "firstSeenAt": "2026-09-24T11:42:45.365Z"
+    },
+    {
+      "id": "channel:UCRbOPaGDB_xOQkVM8Rnn62Q",
+      "type": "channel",
+      "label": "I Hate Everything",
+      "url": "https://www.youtube.com/channel/UCRbOPaGDB_xOQkVM8Rnn62Q",
+      "firstSeenAt": "2026-09-24T11:42:45.978Z"
+    }
+  ],
+  "recentItems": []
+}

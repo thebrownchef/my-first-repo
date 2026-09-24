@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:33:38.901Z",
+  "generatedAt": "2026-09-24T11:44:08.283Z",
   "id": "UCb-vZWBeWA5Q2818JmmJiqQ",
   "title": "Oscars",
   "thumb": "https://yt3.ggpht.com/NpO5ACfL4GyjGF4jE6OZwHNatbPnVXIzwzl9gp3bU-avVqygYJXiLzjrLz_hLmbOr2AHV4qyO3o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "The California Reich",
       "url": "https://en.wikipedia.org/wiki/The_California_Reich",
       "firstSeenAt": "2026-09-01T11:37:09.151Z"
+    },
+    {
+      "id": "channel:UCzuwS1ll2HuQ1wV-tqf43KQ",
+      "type": "channel",
+      "label": "The Academy",
+      "url": "https://www.youtube.com/channel/UCzuwS1ll2HuQ1wV-tqf43KQ",
+      "firstSeenAt": "2026-09-24T11:42:42.068Z"
     }
   ],
   "recentItems": [

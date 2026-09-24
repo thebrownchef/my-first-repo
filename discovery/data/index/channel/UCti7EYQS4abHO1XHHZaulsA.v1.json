@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "id": "UCti7EYQS4abHO1XHHZaulsA",
+  "title": "Musée océanographique de Monaco",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mcXdXLO7lVnjsG1kzeinV06p0i8T49qn1_qzm2ecK9EpI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.1,
+  "sources": [
+    {
+      "id": "channel:UColajFIpwJg171Jh49_XYxg",
+      "type": "channel",
+      "label": "GouvMonaco",
+      "url": "https://www.youtube.com/channel/UColajFIpwJg171Jh49_XYxg",
+      "firstSeenAt": "2026-09-01T11:37:38.871Z"
+    },
+    {
+      "id": "channel:UCe14KNyzBAYaYxnz-TD9pyg",
+      "type": "channel",
+      "label": "MonacoInfo",
+      "url": "https://www.youtube.com/channel/UCe14KNyzBAYaYxnz-TD9pyg",
+      "firstSeenAt": "2026-09-24T11:42:58.050Z"
+    }
+  ],
+  "recentItems": []
+}

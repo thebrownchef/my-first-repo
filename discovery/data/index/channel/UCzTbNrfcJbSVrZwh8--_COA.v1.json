@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:33:38.901Z",
+  "generatedAt": "2026-09-24T11:44:08.283Z",
   "id": "UCzTbNrfcJbSVrZwh8--_COA",
   "title": "Canadian Armed Forces",
   "thumb": "https://yt3.ggpht.com/2jgWz5wb9mYx3rUHW1vTS-GQQpFoGUmtcgMv1x0hCScQW0HnIPDzShN8l2lCf7cv4iiapU9V2gw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Forces armées canadiennes",
       "url": "https://www.youtube.com/channel/UC7fhTsRXYC-Y8dhDc1vz44g",
       "firstSeenAt": "2026-09-23T11:32:34.613Z"
+    },
+    {
+      "id": "channel:UCcbhgzWvn-2o-DHBA498Zqg",
+      "type": "channel",
+      "label": "Marine royale canadienne - MRC",
+      "url": "https://www.youtube.com/channel/UCcbhgzWvn-2o-DHBA498Zqg",
+      "firstSeenAt": "2026-09-24T11:42:47.904Z"
+    },
+    {
+      "id": "channel:UCEG3kBnLFgJUGM22eJQKKzQ",
+      "type": "channel",
+      "label": "Junior Canadian Rangers / Rangers junior canadiens",
+      "url": "https://www.youtube.com/channel/UCEG3kBnLFgJUGM22eJQKKzQ",
+      "firstSeenAt": "2026-09-24T11:42:47.947Z"
     }
   ],
   "recentItems": []

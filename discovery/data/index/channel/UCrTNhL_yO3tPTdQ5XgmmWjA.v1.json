@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:33:38.901Z",
+  "generatedAt": "2026-09-24T11:44:08.283Z",
   "id": "UCrTNhL_yO3tPTdQ5XgmmWjA",
   "title": "RedLetterMedia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n98yLJDWtiZyJmgHBIRSYsA7qgDMJJdAHs4Zs-tgMI8iQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Devil Story",
       "url": "https://en.wikipedia.org/wiki/Devil_Story",
       "firstSeenAt": "2026-09-03T11:10:55.703Z"
+    },
+    {
+      "id": "channel:UCir4goG7LBQCh5rc3frkHuA",
+      "type": "channel",
+      "label": "Harry Partridge",
+      "url": "https://www.youtube.com/channel/UCir4goG7LBQCh5rc3frkHuA",
+      "firstSeenAt": "2026-09-24T11:42:58.682Z"
     }
   ],
   "recentItems": []

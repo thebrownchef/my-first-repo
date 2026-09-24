@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:33:38.901Z",
+  "generatedAt": "2026-09-24T11:44:08.283Z",
   "id": "UCn8zNIfYAQNdrFRrr8oibKw",
   "title": "VICE",
   "thumb": "https://yt3.ggpht.com/9AgWUnohXk3gFYvmvAZemlr1q6yd7NxHozeEqrPpJhYf9Crjrvqml0ulZ4PL4v38I4XDoLEhaw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "VICE News",
       "url": "https://www.youtube.com/channel/UCZaT_X_mc0BI-djXOlfhqWQ",
       "firstSeenAt": "2026-09-09T11:19:52.741Z"
+    },
+    {
+      "id": "channel:UCsgv2QHkT2ljEixyulzOnUQ",
+      "type": "channel",
+      "label": "AngryJoeShow",
+      "url": "https://www.youtube.com/channel/UCsgv2QHkT2ljEixyulzOnUQ",
+      "firstSeenAt": "2026-09-24T11:42:45.512Z"
     }
   ],
   "recentItems": []

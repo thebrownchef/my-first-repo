@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:33:38.901Z",
+  "generatedAt": "2026-09-24T11:44:08.283Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 98,
-  "distinctSourceCount": 98,
+  "score": 99,
+  "distinctSourceCount": 99,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -694,6 +694,13 @@
       "label": "AvrilLavigneVEVO",
       "url": "https://www.youtube.com/channel/UCC6XuDtfec7DxZdUa7ClFBQ",
       "firstSeenAt": "2026-09-23T11:32:25.461Z"
+    },
+    {
+      "id": "channel:UCYNOJx1S_E9U0MpyTK6vPrg",
+      "type": "channel",
+      "label": "GloriaTreviVEVO",
+      "url": "https://www.youtube.com/channel/UCYNOJx1S_E9U0MpyTK6vPrg",
+      "firstSeenAt": "2026-09-24T11:42:43.439Z"
     }
   ],
   "recentItems": []
