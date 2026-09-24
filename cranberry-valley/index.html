@@ -1,0 +1,1207 @@
+<title>Cranberry Valley</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Uncial+Antiqua&family=Alegreya:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0e0c12;
+    --ink: #efe3cf;
+    --dim: #97897a;
+    --berry: #d8434f;
+    --berry-soft: #f08a8f;
+    --straw: #d6a84a;
+    --panel: rgba(20, 15, 18, 0.86);
+    --line: rgba(216, 67, 79, 0.4);
+  }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    overflow: hidden;
+    touch-action: none;
+    user-select: none;
+  }
+  #screen { position: fixed; inset: 0; width: 100%; height: 100%; display: block; }
+  .hud {
+    position: fixed;
+    left: 16px;
+    right: 16px;
+    top: calc(12px + env(safe-area-inset-top, 0px));
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+    pointer-events: none;
+  }
+  .brand {
+    font-family: "Uncial Antiqua", Georgia, "Times New Roman", serif;
+    font-size: 22px;
+    color: var(--berry-soft);
+    text-shadow: 0 0 10px rgba(216, 67, 79, 0.55);
+  }
+  .readout {
+    font-size: 12px;
+    color: var(--dim);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.04em;
+  }
+  .readout b { color: var(--straw); font-weight: 700; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; pointer-events: auto; }
+  .controls button, .controls select {
+    font: inherit;
+    font-size: 13px;
+    color: var(--straw);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 8px 10px;
+    cursor: pointer;
+    letter-spacing: 0.04em;
+    max-width: 100%;
+  }
+  .controls button:hover, .controls select:hover { border-color: var(--berry-soft); }
+  .controls button:focus-visible, .controls select:focus-visible, .pad button:focus-visible { outline: 2px solid var(--berry-soft); outline-offset: 2px; }
+  .help {
+    position: fixed;
+    left: 16px;
+    bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+    font-size: 12px;
+    color: var(--dim);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 8px 10px;
+    line-height: 1.6;
+    max-width: calc(100% - 32px);
+    pointer-events: none;
+  }
+  .help kbd { color: var(--ink); font-family: inherit; }
+  .info {
+    position: fixed;
+    right: 16px;
+    top: calc(64px + env(safe-area-inset-top, 0px));
+    width: min(360px, calc(100% - 32px));
+    max-height: calc(100% - 180px);
+    overflow-y: auto;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 14px 16px;
+    font-family: "Alegreya", Georgia, "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 1.45;
+  }
+  .info h2 {
+    margin: 0 0 6px;
+    font-family: "Uncial Antiqua", Georgia, serif;
+    font-weight: 400;
+    font-size: 19px;
+    color: var(--berry-soft);
+    text-wrap: balance;
+  }
+  .info .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 10px;
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11px;
+  }
+  .chip {
+    border: 1px solid rgba(239, 227, 207, 0.25);
+    padding: 2px 6px;
+    color: var(--ink);
+    letter-spacing: 0.04em;
+  }
+  .chip.status { font-weight: 700; text-transform: uppercase; }
+  .info p { margin: 0 0 8px; }
+  .info p:last-child { margin-bottom: 0; }
+  .info .kicker { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 11px; color: var(--dim); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 4px; }
+  .pad {
+    position: fixed;
+    right: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+    display: grid;
+    grid-template-columns: repeat(3, 52px);
+    grid-template-rows: repeat(2, 52px);
+    gap: 6px;
+  }
+  .pad button {
+    font: inherit;
+    font-size: 18px;
+    color: var(--ink);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    touch-action: none;
+  }
+  .pad button:active { border-color: var(--berry-soft); color: var(--berry-soft); }
+  .pad .up { grid-column: 2; grid-row: 1; }
+  .pad .left { grid-column: 1; grid-row: 2; }
+  .pad .down { grid-column: 2; grid-row: 2; }
+  .pad .right { grid-column: 3; grid-row: 2; }
+  @media (hover: hover) and (pointer: fine) { .pad { display: none; } }
+  @media (hover: none) {
+    .help { display: none; }
+    .info { top: auto; bottom: calc(140px + env(safe-area-inset-bottom, 0px)); max-height: 34%; font-size: 14px; }
+  }
+</style>
+
+<canvas id="screen" aria-label="ASCII view of Cranberry Valley"></canvas>
+
+<div class="hud">
+  <div class="brand">Cranberry Valley</div>
+  <div class="readout" id="readout">W12</div>
+  <div class="controls">
+    <label for="travel" hidden>Travel to a site</label>
+    <select id="travel"><option value="">Travel to a site</option></select>
+    <button id="modeBtn" type="button">Switch to map view [M]</button>
+  </div>
+</div>
+
+<div class="info" id="info" hidden></div>
+
+<div class="help">
+  <kbd>W</kbd>/<kbd>S</kbd> walk &nbsp; <kbd>A</kbd>/<kbd>D</kbd> turn &nbsp; <kbd>Q</kbd>/<kbd>E</kbd> strafe &nbsp; <kbd>Shift</kbd> run &nbsp; <kbd>M</kbd> or <kbd>Tab</kbd> switch view &nbsp; <kbd>Z</kbd> map zoom
+</div>
+
+<div class="pad" aria-label="Touch controls">
+  <button class="up" id="padUp" type="button" aria-label="Walk forward">▲</button>
+  <button class="left" id="padLeft" type="button" aria-label="Turn left">◀</button>
+  <button class="down" id="padDown" type="button" aria-label="Walk back">▼</button>
+  <button class="right" id="padRight" type="button" aria-label="Turn right">▶</button>
+</div>
+
+<script>
+(() => {
+  const canvas = document.getElementById("screen");
+  const ctx = canvas.getContext("2d");
+  const readout = document.getElementById("readout");
+  const modeBtn = document.getElementById("modeBtn");
+  const travel = document.getElementById("travel");
+  const infoEl = document.getElementById("info");
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // ---------- Helpers ----------
+  let seed = 7;
+  const rand = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296);
+  const hash = (a, b, c) => {
+    let h = (a * 374761393 + b * 668265263 + c * 2147483647) >>> 0;
+    h = ((h ^ (h >>> 13)) * 1274126177) >>> 0;
+    return ((h ^ (h >>> 16)) >>> 0) / 4294967296;
+  };
+  const vnoise = (x, y, s, k) => {
+    x /= s; y /= s;
+    const xi = Math.floor(x), yi = Math.floor(y), xf = x - xi, yf = y - yi;
+    const a = hash(xi, yi, k), b = hash(xi + 1, yi, k), c = hash(xi, yi + 1, k), d = hash(xi + 1, yi + 1, k);
+    const u = xf * xf * (3 - 2 * xf), v = yf * yf * (3 - 2 * yf);
+    return a + (b - a) * u + (c - a) * v + (a - b - c + d) * u * v;
+  };
+  const esc = (s) => String(s).replace(/[&<>"]/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
+
+  // ---------- The grid ----------
+  const GRID_COLS = ["U", "V", "W", "X", "Y"];
+  const ROW_MIN = 6, ROW_MAX = 14;
+  const S = 20;                                   // tiles per grid square
+  const NX = GRID_COLS.length * S, NY = (ROW_MAX - ROW_MIN + 1) * S;
+  const cellOrigin = (col, row) => [GRID_COLS.indexOf(col) * S, (row - ROW_MIN) * S];
+  const L = (col, row, lx, ly) => { const [ox, oy] = cellOrigin(col, row); return [ox + lx, oy + ly]; };
+  const cellAt = (x, y) => {
+    const ci = Math.floor(x / S), ri = Math.floor(y / S);
+    if (ci < 0 || ri < 0 || ci >= GRID_COLS.length || ri > ROW_MAX - ROW_MIN) return null;
+    return { col: GRID_COLS[ci], row: ROW_MIN + ri, lx: x - ci * S, ly: y - ri * S };
+  };
+
+  // Terrain code per grid square, from the site table. Squares without a site are open country.
+  const TERRAIN = { "W12": "V", "W11": "C", "X12": "C", "V13": "C", "W13": "R", "Y11": "C", "V10": "C", "U12": "F", "U6": "C", "V14": "M", "Y14": "M", "W8": "W", "X14": "W", "X10": "E" };
+  const TERRAIN_NAME = { V: "Village", C: "Countryside", R: "River and wetland", F: "Forest", M: "Hills", W: "Waterfall", E: "Gorge", "": "Open country" };
+
+  // Walls: 0 open, 1 plaster cottage, 2 ochre cottage, 3 stone, 4 tower, 5 logs, 6 barn boards, 7 ruin, 8 rock, 9 waterfall, 10 ash
+  const map = new Uint8Array(NX * NY);
+  const wallH = new Float32Array(NX * NY);
+  const houseOf = new Int16Array(NX * NY).fill(-1);
+  // Ground: 0 grass, 1 road, 2 cobbles, 3 field, 4 water, 5 bog, 6 chasm, 7 forest floor, 8 scree, 9 flowers, 10 ash
+  const ground = new Uint8Array(NX * NY);
+  const keepClear = new Uint8Array(NX * NY);
+  const houses = [];
+  const signs = new Map();
+
+  const WALL_COL = [null, [232, 217, 176], [214, 170, 110], [165, 160, 170], [150, 150, 165], [150, 104, 60], [170, 112, 66], [105, 92, 110], [140, 128, 112], [140, 195, 255], [80, 74, 72]];
+  const TIMBER = [120, 76, 40];
+  const THATCH = [214, 168, 74];
+  const SLATE = [110, 120, 140];
+  const SHINGLE = [140, 90, 60];
+  const WARM = [255, 190, 90];
+  const STATUS_COL = { active: [120, 205, 110], contested: [255, 160, 60], hostile: [235, 80, 70], sealed: [160, 160, 180], abandoned: [150, 130, 110], unexplored: [180, 140, 240], destroyed: [200, 120, 90], "": [200, 190, 170] };
+
+  const I = (x, y) => y * NX + x;
+  const inWorld = (x, y) => x >= 0 && y >= 0 && x < NX && y < NY;
+
+  // Base terrain for every tile
+  for (let y = 0; y < NY; y++) {
+    for (let x = 0; x < NX; x++) {
+      const cell = cellAt(x, y);
+      const code = TERRAIN[cell.col + cell.row] || "";
+      const i = I(x, y);
+      const n = vnoise(x, y, 5, 1);
+      if (code === "C") {
+        const strip = Math.floor((cell.lx + (cell.ly > 10 ? 3 : 0)) / 5);
+        ground[i] = (cell.lx % 5 === 0 || cell.ly === 10) ? 0 : (hash(strip, cell.row * 7 + (cell.ly > 10 ? 1 : 0), GRID_COLS.indexOf(cell.col)) < 0.75 ? 3 : 0);
+      } else if (code === "R") {
+        const bogSide = cell.ly > 11;
+        ground[i] = n > (bogSide ? 0.72 : 0.45) ? 4 : 5;
+      } else if (code === "F") {
+        ground[i] = 7;
+      } else if (code === "M") {
+        ground[i] = 8;
+        if (vnoise(x, y, 3, 2) > 0.66) { map[i] = 8; wallH[i] = 0.8 + vnoise(x, y, 2, 3) * 2.2; }
+      } else {
+        ground[i] = 0;
+      }
+    }
+  }
+
+  const setWall = (x, y, type, h, id) => {
+    if (!inWorld(x, y)) return;
+    const i = I(x, y); map[i] = type; wallH[i] = h; if (id !== undefined) houseOf[i] = id;
+  };
+  const clearAround = (x0, y0, w, h, m) => {
+    for (let y = y0 - m; y < y0 + h + m; y++) for (let x = x0 - m; x < x0 + w + m; x++) {
+      if (!inWorld(x, y)) continue;
+      const i = I(x, y); keepClear[i] = 1;
+      if (map[i] === 8) map[i] = 0;
+      if (ground[i] === 4 || ground[i] === 6 || ground[i] === 8 || ground[i] === 7) ground[i] = 0;
+    }
+  };
+  const building = (x0, y0, w, h, type, height, roof, sign) => {
+    clearAround(x0, y0, w, h, 1);
+    const id = houses.length;
+    houses.push({ x: x0, y: y0, w, h, roof, type });
+    for (let y = y0; y < y0 + h; y++) for (let x = x0; x < x0 + w; x++) setWall(x, y, type, height, id);
+    if (sign) signs.set(I(x0 + Math.floor(w / 2), y0 + h - 1), sign);
+    return id;
+  };
+  const Bw = (col, row, lx, ly, w, h, type, height, roof, sign) => { const [x, y] = L(col, row, lx, ly); return building(x, y, w, h, type, height, roof, sign); };
+  const fillGround = (col, row, lx, ly, w, h, g) => {
+    for (let y = ly; y < ly + h; y++) for (let x = lx; x < lx + w; x++) { const [wx, wy] = L(col, row, x, y); if (inWorld(wx, wy)) { ground[I(wx, wy)] = g; keepClear[I(wx, wy)] = 1; } }
+  };
+
+  // ---- Waterfall squares: cliff across the north, a falls, a pool and a stream
+  const waterfall = (col, row) => {
+    for (let lx = 0; lx < S; lx++) for (let ly = 2; ly <= 3; ly++) {
+      const [x, y] = L(col, row, lx, ly);
+      const falls = lx >= 8 && lx <= 11;
+      setWall(x, y, falls ? 9 : 8, 2.6 + (falls ? 0 : hash(x, y, 4) * 1.2));
+    }
+    for (let ly = 0; ly < S; ly++) for (let lx = 0; lx < S; lx++) {
+      const [x, y] = L(col, row, lx, ly);
+      const pool = ((lx - 9.5) ** 2) / 25 + ((ly - 6.5) ** 2) / 7 < 1;
+      const stream = ly > 8 && Math.abs(lx - (12 + (ly - 9) * 0.35)) < 1.1;
+      if (ly >= 4 && (pool || stream)) ground[I(x, y)] = 4;
+    }
+  };
+  waterfall("W", 8);
+  waterfall("X", 14);
+
+  // ---- The Screaming Gorge
+  for (let ly = 0; ly < S; ly++) for (let lx = 4; lx < S; lx++) {
+    const [x, y] = L("X", 10, lx, ly);
+    const cy = 10 + Math.sin(lx * 0.45) * 2.5;
+    const hw = 1.6 + vnoise(x, y, 3, 8) * 1.6;
+    if (Math.abs(ly - cy) < hw) ground[I(x, y)] = 6;
+    else if (Math.abs(ly - cy) < hw + 1.2 && hash(x, y, 9) < 0.35) setWall(x, y, 8, 0.6 + hash(x, y, 2) * 0.8);
+  }
+
+  // ---- Cranberry Village (W12): Duckett Estate west, Midtown centre, Uptown east
+  fillGround("W", 12, 0, 9, 20, 2, 2);          // main street
+  fillGround("W", 12, 0, 11, 5, 4, 9);          // estate gardens
+  fillGround("W", 12, 16, 8, 3, 1, 2);          // stone path to the temple doors
+  fillGround("W", 12, 15, 8, 1, 1, 9);
+  fillGround("W", 12, 19, 8, 1, 1, 9);
+  for (let ly = 15; ly < S; ly++) for (let lx = 0; lx < 6; lx++) { const [x, y] = L("W", 12, lx, ly); ground[I(x, y)] = 7; }
+  const manor = Bw("W", 12, 1, 3, 4, 5, 3, 2.2, SLATE, "DUCKETT");
+  Bw("W", 12, 1, 12, 3, 2, 1, 1.1, THATCH);                       // servants' quarters
+  Bw("W", 12, 6, 5, 3, 3, 2, 1.5, THATCH, "DUNN INN");
+  Bw("W", 12, 9, 6, 2, 2, 1, 1.2, THATCH, "STORES");
+  for (let ly = 5; ly <= 7; ly++) for (let lx = 11; lx <= 12; lx++) {   // burnt stables
+    const [x, y] = L("W", 12, lx, ly); setWall(x, y, 10, 0.25 + hash(x, y, 1) * 0.45); ground[I(x, y)] = 10;
+  }
+  fillGround("W", 12, 10, 4, 4, 1, 10);
+  Bw("W", 12, 6, 12, 2, 2, 3, 1.2, SLATE, "SMITH");
+  Bw("W", 12, 8, 12, 2, 2, 1, 1.2, THATCH, "TAILOR");
+  Bw("W", 12, 11, 12, 2, 2, 2, 1.1, THATCH, "BAKERY");
+  Bw("W", 12, 6, 15, 2, 2, 1, 1.1, THATCH);                        // Anna Pavlova
+  Bw("W", 12, 9, 15, 2, 2, 2, 1.0, THATCH);                        // Giles
+  Bw("W", 12, 11, 16, 2, 2, 1, 1.0, THATCH);                       // Lampie
+  Bw("W", 12, 16, 4, 3, 4, 6, 1.6, SHINGLE, "CHAUNTEA");           // temple, barn shaped
+  Bw("W", 12, 17, 13, 1, 1, 4, 3.8, SLATE);                        // watchtower
+  for (let ly = 0; ly < S; ly++) if (ly < 9 || ly > 10) { const [x, y] = L("W", 12, 19, ly); if (!map[I(x, y)]) setWall(x, y, 5, 0.9); }
+  clearAround(...L("W", 12, 0, 8), 20, 4, 0);
+
+  // ---- Other squares
+  Bw("W", 11, 12, 8, 4, 3, 2, 1.4, THATCH, "FRANK+STEIN");
+  // Church of Bane ruins on the west edge of Sharn's land
+  {
+    const [x0, y0] = L("X", 12, 1, 2);
+    clearAround(x0, y0, 5, 6, 1);
+    for (let y = y0; y < y0 + 6; y++) for (let x = x0; x < x0 + 5; x++) {
+      const edge = x === x0 || x === x0 + 4 || y === y0 || y === y0 + 5;
+      if (edge && hash(x, y, 13) > 0.3) setWall(x, y, 7, 0.5 + hash(x, y, 14) * 1.6);
+      ground[I(x, y)] = 10;
+    }
+  }
+  Bw("X", 12, 12, 13, 3, 2, 1, 1.1, THATCH, "SHARN");
+  Bw("X", 12, 16, 13, 3, 3, 6, 1.4, SHINGLE);
+  Bw("Y", 11, 8, 6, 5, 4, 3, 1.8, SLATE, "BREWERY");
+  Bw("V", 10, 9, 8, 3, 2, 1, 1.1, THATCH, "GREENE");
+  { const [x, y] = L("U", 12, 8, 7); clearAround(x, y, 5, 5, 1); }
+  Bw("U", 12, 9, 8, 2, 2, 3, 1.3, SLATE);                           // Heroic Tomb
+  // Colonel Ketchup's ground: a fenced yard with a gap to the south
+  for (let l = 5; l <= 15; l++) {
+    for (const [lx, ly] of [[l, 5], [l, 15], [5, l], [15, l]]) {
+      if (ly === 15 && lx >= 9 && lx <= 11) continue;
+      const [x, y] = L("U", 6, lx, ly); setWall(x, y, 5, 0.7);
+    }
+  }
+  clearAround(...L("U", 6, 6, 6), 9, 9, 0);
+  // The Dread Deeps: a rock outcrop with a sealed door
+  { const [x, y] = L("V", 13, 14, 14); clearAround(x - 1, y - 2, 5, 5, 0); for (let dx = 0; dx < 3; dx++) for (let dy = 0; dy < 2; dy++) setWall(x + dx, y + dy, 8, 1.6 + dy * 0.5); }
+  // Smugglers' Tunnel: rock face with a cave mouth
+  { const [x, y] = L("V", 14, 8, 11); clearAround(x, y - 3, 5, 3, 0); for (let dx = 0; dx < 5; dx++) for (let dy = 0; dy < 2; dy++) setWall(x + dx, y + dy, 8, 2.2); }
+  // Bog clearings for the Drowned Stair and the turf cuttings
+  fillGround("W", 13, 11, 12, 3, 3, 5);
+  fillGround("W", 13, 4, 14, 5, 4, 5);
+
+  // ---- Roads
+  const stampRoad = (pts) => {
+    for (let k = 0; k < pts.length - 1; k++) {
+      const [ax, ay] = pts[k], [bx, by] = pts[k + 1];
+      const len = Math.hypot(bx - ax, by - ay);
+      for (let t = 0; t <= len; t += 0.25) {
+        const px = ax + (bx - ax) * t / len, py = ay + (by - ay) * t / len;
+        for (let y = Math.floor(py - 1.2); y <= py + 1.2; y++) for (let x = Math.floor(px - 1.2); x <= px + 1.2; x++) {
+          if (!inWorld(x, y) || Math.hypot(x + 0.5 - px, y + 0.5 - py) > 1.1) continue;
+          const i = I(x, y);
+          if (ground[i] === 6) continue;
+          if (map[i] === 8 && houseOf[i] < 0) map[i] = 0;
+          if (map[i]) continue;
+          keepClear[i] = 1;
+          if (ground[i] !== 2) ground[i] = 1;
+        }
+      }
+    }
+  };
+  stampRoad([[13, 130], [40, 130], [60, 130], [70, 130], [90, 130], [90, 113]]);                 // west to east, then to the Brewery
+  stampRoad([[50, 50], [50, 112], [54.5, 118], [54.5, 142], [50, 150], [50, 170], [70, 170], [90, 170], [90, 180]]); // north to south, on to Styrith
+  stampRoad([[30, 92.5], [50, 92.5]]);            // Greene House
+  stampRoad([[10, 10], [10, 19], [30, 30], [50, 50]]);   // Colonel Ketchup's ground
+  stampRoad([[30, 130], [30, 150], [30, 170]]);    // graveyard and the hills
+  stampRoad([[50, 90], [63, 90]]);                 // toward the gorge
+
+  const isWall = (x, y) => {
+    if (x < 0 || y < 0 || x >= NX || y >= NY) return true;
+    return map[(y | 0) * NX + (x | 0)] !== 0;
+  };
+
+  // ---------- Sprites ----------
+  const sprites = [];
+  const blockGrid = new Map();
+  const addBlocker = (x, y, r) => {
+    const k = I(x | 0, y | 0);
+    if (!blockGrid.has(k)) blockGrid.set(k, []);
+    blockGrid.get(k).push({ x, y, r });
+  };
+  const addSprite = (s, r) => { sprites.push(s); if (r) addBlocker(s.x, s.y, r); return s; };
+  const blocked = (x, y) => {
+    if (isWall(x, y)) return true;
+    const g = ground[(y | 0) * NX + (x | 0)];
+    if (g === 4 || g === 6) return true;
+    const tx = x | 0, ty = y | 0;
+    for (let dy = -1; dy <= 1; dy++) for (let dx = -1; dx <= 1; dx++) {
+      const list = blockGrid.get(I(tx + dx, ty + dy));
+      if (list) for (const b of list) if (Math.hypot(b.x - x, b.y - y) < b.r) return true;
+    }
+    return false;
+  };
+  const P = (col, row, lx, ly) => L(col, row, lx, ly);
+
+  // Landmark props
+  const put2 = (kind, col, row, lx, ly, extra, r) => { const [x, y] = P(col, row, lx, ly); return addSprite(Object.assign({ kind, x, y, w: 0.6, h: 0.8 }, extra || {}), r); };
+  put2("post", "W", 12, 8.3, 8.4, { w: 0.5, h: 1.2, text: "NOTICES" }, 0.2);
+  put2("cave", "W", 12, 1.5, 18.3, { w: 1.6, h: 1.4 }, 0.6);
+  put2("hatch", "W", 12, 4.5, 14.5, { w: 0.8, h: 0.35 }, 0.3);
+  for (let k = 0; k < 6; k++) put2("headstone", "W", 12, 16.3 + (k % 3), 1.4 + Math.floor(k / 3) * 1.3, { w: 0.4, h: 0.55 }, 0.2);
+  for (let k = 0; k < 4; k++) put2("crate", "W", 12, 15.5 + (k % 2) * 0.8, 14.3 + Math.floor(k / 2) * 0.8, { w: 0.6, h: 0.5 }, 0.3);
+  put2("barrow", "W", 12, 13.2, 11.6, { w: 0.6, h: 0.5 }, 0.2);
+  put2("hatch", "X", 12, 3.5, 4.5, { w: 0.8, h: 0.35 }, 0.3);
+  for (let gx = 0; gx < 5; gx++) for (let gy = 0; gy < 4; gy++) {
+    const lx = 4.5 + gx * 2.2, ly = 4.5 + gy * 2.2;
+    const [x] = P("V", 13, lx, ly);
+    if (Math.abs(x - 30) < 2) continue;
+    put2("headstone", "V", 13, lx + hash(gx, gy, 1) * 0.5, ly, { w: 0.4, h: 0.55 }, 0.2);
+  }
+  put2("slab", "V", 13, 15.5, 13.6, { w: 1.2, h: 1.2 }, 0.4);
+  put2("stairs", "W", 13, 12.5, 13.5, { w: 1.2, h: 0.8 }, 0.4);
+  for (let k = 0; k < 5; k++) put2("stack", "W", 13, 5 + (k % 3) * 1.2, 15 + Math.floor(k / 3) * 1.3, { w: 0.6, h: 0.5 }, 0.3);
+  for (let k = 0; k < 5; k++) put2("barrel", "Y", 11, 8.5 + k * 0.9, 11.2, { w: 0.5, h: 0.6 }, 0.25);
+  for (let k = 0; k < 4; k++) put2("tent", "U", 6, 7.5 + (k % 2) * 4, 7.5 + Math.floor(k / 2) * 4, { w: 1.4, h: 1.0 }, 0.5);
+  put2("flag", "U", 6, 10, 10, { w: 0.6, h: 2.0 }, 0.2);
+  put2("cave", "V", 14, 10.5, 10.4, { w: 1.6, h: 1.4 }, 0.6);
+  put2("post", "Y", 14, 11.8, 17, { w: 0.5, h: 1.2, text: "STYRITH" }, 0.2);
+
+  // Trees, reeds, chickens
+  for (let y = 0; y < NY; y++) for (let x = 0; x < NX; x++) {
+    const i = I(x, y);
+    if (map[i] || keepClear[i]) continue;
+    const g = ground[i];
+    const cell = cellAt(x, y);
+    const code = TERRAIN[cell.col + cell.row] || "";
+    const h = hash(x, y, 21);
+    const jx = x + 0.2 + hash(x, y, 22) * 0.6, jy = y + 0.2 + hash(x, y, 23) * 0.6;
+    if (g === 7 && h < 0.3) {
+      const s = 0.8 + hash(x, y, 24) * 0.7;
+      addSprite(h < 0.15 ? { kind: "pine", x: jx, y: jy, w: 1.0 * s, h: 2.4 * s } : { kind: "tree", x: jx, y: jy, w: 1.3 * s, h: 2.1 * s, seed: i }, 0.3);
+    } else if (g === 5 && h < 0.12) {
+      addSprite({ kind: "reed", x: jx, y: jy, w: 0.5, h: 0.7 });
+    } else if (g === 8 && h < 0.03) {
+      addSprite({ kind: "pine", x: jx, y: jy, w: 0.9, h: 2.0 }, 0.3);
+    } else if (g === 0 && h < (code === "" ? 0.03 : 0.012)) {
+      const s = 0.8 + hash(x, y, 24) * 0.6;
+      addSprite({ kind: "tree", x: jx, y: jy, w: 1.3 * s, h: 2.1 * s, seed: i }, 0.3);
+    }
+  }
+
+  // ---------- Places and people ----------
+  const SITES = [
+    { name: "Cranberry Village", grid: "W12", terrain: "V", tier: "Suburb", authority: "Elder Whyte Duckett", status: "contested", at: [10, 10], r: 3,
+      notes: ["The village is divided into the Duckett Estate at the west end, Midtown in the middle and Uptown at the east end.", "Barricades are being raised and supplies stockpiled. The stables have burnt down."] },
+    { name: "Duckett Estate", grid: "W12", terrain: "V", tier: "Neighbourhood", authority: "Steward Daniel", status: "active", at: [3, 8.6], r: 3,
+      notes: ["Sprawling grounds and a grand manor house, built on top of an ancient temple. Households include the Servants' Quarters.", "During the occupation it became a hub for rebel activity. Backwasche commandeered the study for his strategy sessions, and Vexx left documents there which Lucky Day later burned."] },
+    { name: "Fiona's Den", grid: "W12", terrain: "V", tier: "", authority: "Fiona Duckett", status: "active", at: [1.5, 17.2], r: 2.5,
+      notes: ["A cave sanctum deep at the back of the estate grounds, past the gardens, where the land runs into overgrown woodland. The entrance is concealed by ivy.", "The inner chamber holds a spring fed pool. The spring connects to the underdark and to Gurt's Hideout."] },
+    { name: "Underground Hideout", grid: "W12", terrain: "V", tier: "", authority: "none", status: "abandoned", at: [4.5, 14.5], r: 1.8,
+      notes: ["An abandoned hideout beneath the estate, reached by a narrow, shored up tunnel.", "The main chamber is a rough hewn cavern with a dust covered floor and a cold, dead fire pit. Overturned crates, broken tools and seating suggest a rapid departure. A small creek flows along the surface."] },
+    { name: "Servants' Quarters", grid: "W12", terrain: "V", tier: "Household", authority: "", status: "active", at: [2.5, 11.2], r: 1.6, district: "Duckett Estate",
+      notes: ["A household of the Duckett Estate."] },
+    { name: "The Dunn Inn", grid: "W12", terrain: "V", tier: "Household", authority: "Ian Dunn", status: "active", at: [7.5, 8.3], r: 1.7, district: "Midtown",
+      notes: ["Also recorded as the Dunn Drinkery and the Dun Drinkery. A venerable landmark and a hub for locals and travellers, run by Ian and Esereth Dunn.", "Stew 3 coppers. Ale 2 coppers. A dry room with a bed 4 coppers. A tallow candle with a striker 2 coppers.", "Ian keeps a notched tally stick under the bar for lodgers on credit. Past a point he wants coin, takes surety, and threatens to nail a defaulter's name to the notice post."] },
+    { name: "The Notice Post", grid: "W12", terrain: "V", tier: "", authority: "", status: "active", at: [8.3, 8.4], r: 0.9, district: "Midtown",
+      notes: ["Labour wanted on the east drainage and barricade line. Two coppers the block, meals found. Report to the watchtower. No arms to be carried on the works.", "Added by hand: Briggs asks after the southern bog cuttings, and will pay for a straight account. The cut counted, the load named, and a mark on the timber."] },
+    { name: "The Commissariat Store", grid: "W12", terrain: "V", tier: "Household", authority: "Briggs", status: "active", at: [10, 8.3], r: 1.4, district: "Midtown",
+      notes: ["Dry goods, salted pork, hardtack, canvas, lamp oil, bedrolls and waterskins. Rations 10 coppers a week per man; bedrolls 5 coppers each.", "Briggs keeps a meticulous written ledger under the counter."] },
+    { name: "Cranberry Stables", grid: "W12", terrain: "V", tier: "", authority: "", status: "destroyed", at: [11.8, 8.3], r: 1.5, district: "Midtown",
+      notes: ["Burnt down when Lillith's fire magic surged out of control while she was trying to intimidate the stable boy and the escaping prisoners. The village saved the surrounding buildings.", "Rebuilding costs 500 GP and takes 30 days. Stimble Berry, the stable boy, is travelling with Lillith to save for it."] },
+    { name: "The Blacksmith", grid: "W12", terrain: "V", tier: "Household", authority: "Krankron the Smith", status: "active", at: [6.8, 11.4], r: 1.4, district: "Midtown",
+      notes: ["Mostly builds and fixes farming equipment, but since the war came to the valley Krankron has been learning to make and maintain weapons and armour."] },
+    { name: "The Tailor Shop", grid: "W12", terrain: "V", tier: "Household", authority: "Imar", status: "active", at: [8.8, 11.4], r: 1.4, district: "Midtown",
+      notes: ["Held by Imar, a willowy halfling and member of Duckett's council."] },
+    { name: "The Bakery", grid: "W12", terrain: "V", tier: "", authority: "Dusty Sinnamon", status: "active", at: [11.8, 11.4], r: 1.4, district: "Midtown",
+      notes: ["Dusty Sinnamon's bakery."] },
+    { name: "Anna Pavlova", grid: "W12", terrain: "V", tier: "Household", authority: "Anna Pavlova", status: "active", at: [6.8, 14.5], r: 1.3, district: "Midtown",
+      notes: ["A Midtown household. Anna Pavlova sits on Duckett's council and is now Representative of Midtown, since Ian Dunn cannot hold both the Dunn Drinkery and the neighbourhood."] },
+    { name: "Giles", grid: "W12", terrain: "V", tier: "Household", authority: "Giles", status: "active", at: [9.8, 14.5], r: 1.3, district: "Midtown",
+      notes: ["A grumpy halfling with a giant boar named Betsy. They work the valley's farms when someone needs a giant boar."] },
+    { name: "Lampie", grid: "W12", terrain: "V", tier: "Household", authority: "", status: "active", at: [11.8, 15.5], r: 1.3, district: "Midtown",
+      notes: ["A Midtown household. No further detail exists."] },
+    { name: "The Temple to Chauntea", grid: "W12", terrain: "V", tier: "Household", authority: "Father Fred", status: "active", at: [17.5, 8.4], r: 1.8, district: "Uptown",
+      notes: ["The community's centre, built like a substantial barn of timber and fieldstone out of reverence for productive structures. It smells of woodsmoke, fermenting yeast and baked cranberry pastries.", "The altar is a massive stone basin fitted with a heavy, ruby stained wooden screw press. Prior Phillip's name is cut into the far wall; he is interred beneath the floor.", "It also serves as a preservation cellar and drying house for the berry crop and a traveller's refuge. Salt crocks are held here for trade with the Green Elk wardens."] },
+    { name: "Burial Plot", grid: "W12", terrain: "V", tier: "", authority: "Sully", status: "active", at: [17.3, 2.2], r: 1.8, district: "Uptown",
+      notes: ["Behind the temple, tended by Sully the gardener."] },
+    { name: "The Watchtower", grid: "W12", terrain: "V", tier: "", authority: "Sir Robert Borne", status: "active", at: [17.5, 12], r: 1.8, district: "Uptown",
+      notes: ["Built under Backwasche. Sir Robert Borne has the east drainage and the barricade line under construction, worked by village militia and hired labour.", "Men who owe money at the inn have been known to end up digging drainage under it."] },
+    { name: "The Barricade Line", grid: "W12", terrain: "V", tier: "", authority: "Sir Robert Borne", status: "active", at: [19, 6], r: 1.5, district: "Uptown",
+      notes: ["Barricades being raised along the east end of the village. Supplies are stockpiled by the watchtower."] },
+    { name: "The Frank and Stein", grid: "W11", terrain: "C", tier: "Household", authority: "Commander Stefan", status: "active", at: [14, 12], r: 2.5,
+      notes: ["Gifted to the RATS by Whyte Duckett."] },
+    { name: "Farmer Sharn's Farm", grid: "X12", terrain: "C", tier: "Household", authority: "Farmer Sharn", status: "active", at: [15, 15.5], r: 3.5,
+      notes: ["Farmland east of the village. The Church of Bane ruins sit on its tangled western edge."] },
+    { name: "Church of Bane Ruins", grid: "X12", terrain: "C", tier: "", authority: "none", status: "hostile", at: [3.5, 5], r: 3,
+      notes: ["On the tangled edge of Sharn's land, adjacent to the village.", "A hidden bunker holds the largest known Banesblood cache, guarded by Eliza."] },
+    { name: "Graveyard", grid: "V13", terrain: "C", tier: "", authority: "Paul Bearer", status: "active", at: [9, 8], r: 5,
+      notes: ["Rows of headstones kept by Paul Bearer."] },
+    { name: "The Dread Deeps", grid: "V13", terrain: "C", tier: "", authority: "none", status: "sealed", at: [15.5, 13.2], r: 2.2,
+      notes: ["A sealed door in the rock beside the graveyard."] },
+    { name: "The Riparian Wetlands", grid: "W13", terrain: "R", tier: "", authority: "", status: "active", at: [10, 5], r: 6,
+      notes: ["Reeds and open water along the river, crossed by the causeway road."] },
+    { name: "The Southern Bogs", grid: "W13", terrain: "R", tier: "", authority: "Briggs by lease", status: "active", at: [6, 15.5], r: 4,
+      notes: ["Briggs holds the cutting rights: a six year lease paid to the Duckett Estate, covering turf, fuel and everything else that comes out of the ground. It was signed before the rebel occupation, ignored by Backwasche, and not yet confirmed since Whyte Duckett's restoration.", "Something is coming out of these bogs that is not going through Briggs's ledger."] },
+    { name: "The Drowned Stair", grid: "W13", terrain: "R", tier: "", authority: "none", status: "unexplored", at: [12.5, 13.5], r: 2,
+      notes: ["Stone steps descending into the black water of the bog."] },
+    { name: "The Brewery", grid: "Y11", terrain: "C", tier: "Village", authority: "Moz", status: "active", at: [10.5, 11.8], r: 3,
+      notes: ["Secretly run by dwarves, which is why it sits under Delegate Stonebottom in the dwarven hierarchy rather than under Cranberry Valley.", "Yenni and DA liberated it from demons."] },
+    { name: "Greene House", grid: "V10", terrain: "C", tier: "Household", authority: "Farmer Greene", status: "active", at: [10.5, 11], r: 2.5,
+      notes: ["One of the three known ways into Gurt's Hideout in the underdark beneath the settled district."] },
+    { name: "Heroic Tomb", grid: "U12", terrain: "F", tier: "", authority: "none", status: "unexplored", at: [10, 11], r: 2.5,
+      notes: ["A stone tomb in a forest clearing. One of the three known ways into Gurt's Hideout, which lies in the underdark beneath the settled district."] },
+    { name: "Colonel Ketchup's Ground", grid: "U6", terrain: "C", tier: "", authority: "Colonel Ketchup", status: "active", at: [10, 12], r: 5,
+      notes: ["A fenced yard of tents under the colonel's flag."] },
+    { name: "Smugglers' Tunnel", grid: "V14", terrain: "M", tier: "", authority: "none", status: "active", at: [10.5, 9.6], r: 2.5,
+      notes: ["A cave mouth in the hillside rock."] },
+    { name: "Road to Styrith", grid: "Y14", terrain: "M", tier: "", authority: "", status: "active", at: [10, 17], r: 3,
+      notes: ["The road out of the valley to Styrith."] },
+    { name: "Cotton Falls", grid: "W8", terrain: "W", tier: "", authority: "Geraldine", status: "active", at: [10, 11], r: 5,
+      notes: ["Geraldine the Avenger keeps watch here, one square from Korporis at Indicium Lodge."] },
+    { name: "Waterfalls", grid: "X14", terrain: "W", tier: "", authority: "", status: "active", at: [10, 11], r: 5,
+      notes: ["A waterfall dropping from the cliff into a pool."] },
+    { name: "The Screaming Gorge", grid: "X10", terrain: "E", tier: "", authority: "none", status: "hostile", at: [4, 10], r: 5,
+      notes: ["A deep chasm cuts across the square. The road from the valley ends at its lip."] },
+  ];
+  for (const s of SITES) {
+    const col = s.grid[0], row = +s.grid.slice(1);
+    [s.x, s.y] = L(col, row, s.at[0], s.at[1]);
+  }
+
+  const PEOPLE = [
+    { name: "Sir Robert Borne", role: "Knight and military engineer", grid: "W12", at: [16.2, 11.8], col: [190, 70, 50],
+      notes: ["A formidable human knight with a narrow, intense face, matted red hair and keen brown eyes. A man of few words, equally ready to command a siege engine or draw a sword."] },
+    { name: "Father Fred", role: "Priest of Chauntea", grid: "W12", at: [17.5, 9.4], col: [120, 150, 80],
+      notes: ["Father Frederick Claude Crilley. Gentle and practical, with unshakeable faith in Chauntea's providence. He blesses the flooded bogs and the wooden harvest tools.", "He took over the church in Month 1, Week 2, and does not know about Prod's noble birth. He can purge fiendish corruption from a wound, though the cleansing burns fiercely."] },
+    { name: "Sully", role: "Temple gardener", grid: "W12", at: [15.4, 7.6], col: [150, 120, 70],
+      notes: ["A bearded man in a wide brimmed hat who tends the flowers along the temple path. Dry, unbothered, and inclined to greet the badly wounded with a remark about his flowerbeds."] },
+    { name: "Ian Dunn", role: "Innkeeper", grid: "W12", at: [6.6, 8.5], col: [160, 90, 60],
+      notes: ["Runs the front of house with a welcoming presence and a knowledge of local history. He has heard every promised windfall in the valley and believes none of them."] },
+    { name: "Esereth Dunn", role: "Cook at the Dunn Inn", grid: "W12", at: [5.8, 8.2], col: [200, 150, 90],
+      notes: ["The quiet genius in the kitchen, known for her stews and fresh bread. Guests short of coin may trade her labour for a meal."] },
+    { name: "Lydia", role: "Barmaid", grid: "W12", at: [9, 8.2], col: [200, 80, 110],
+      notes: ["Recommends the local cranberry fizz: sweet, tart and refreshing."] },
+    { name: "Yenni", role: "Half-elf monk", grid: "W12", at: [7.2, 10.6], col: [170, 140, 100],
+      notes: ["Apparently drunk, in stained and rumpled robes. His staggering gait is a cultivated facade of the drunken master discipline, masking precise and powerful movement. He helped liberate the Brewery from demons alongside DA."] },
+    { name: "Rancis", role: "Lumberjack", grid: "W12", at: [4.5, 9.6], col: [90, 130, 70],
+      notes: ["A meticulous wood elf who fells trees with surgical accuracy. He is preparing to marry Tira, a weaver and herbalist from Styrith."] },
+    { name: "Munder", role: "Lumberjack", grid: "W12", at: [5, 10.4], col: [170, 60, 50],
+      notes: ["The jovial human powerhouse of the pair, who handles negotiations. He was present at the founding of New Fungiton."] },
+    { name: "Briggs", role: "Commissariat storekeeper", grid: "W12", at: [10.4, 8.6], col: [220, 220, 220],
+      notes: ["An older man with a thick white beard. Wary of strangers, blunt about coin, and hard to lie to. He pays for honest information and will fund a man up front with rations and a waterskin."] },
+    { name: "Krankron the Smith", role: "Blacksmith", grid: "W12", at: [6.5, 11.2], col: [120, 110, 110],
+      notes: ["Enjoying learning to make and maintain weapons and armour since the war came to the valley."] },
+    { name: "Imar", role: "Tailor", grid: "W12", at: [9.3, 11.2], col: [150, 90, 170],
+      notes: ["A willowy halfling with chestnut hair and amber eyes, in tailored clothing. He observed that Backwasche appeared to recognise the dead Nightblade assassin."] },
+    { name: "Dusty Sinnamon", role: "Baker", grid: "W12", at: [12.2, 11.2], col: [230, 200, 150],
+      notes: ["Keeps the bakery."] },
+    { name: "Anna Pavlova", role: "Representative of Midtown", grid: "W12", at: [7.5, 14.4], col: [120, 120, 200],
+      notes: ["Member of Duckett's council."] },
+    { name: "Giles", role: "Halfling with a giant boar", grid: "W12", at: [10.5, 14.5], col: [140, 110, 70],
+      notes: ["Grumpy. Betsy the giant boar is never far away."] },
+    { name: "Whyte Duckett", role: "Elder, owner of the valley", grid: "W12", at: [3, 8.4], col: [230, 230, 240],
+      notes: ["Granted the land in 30 BC for service to the Crown in agricultural development. Restored to authority by the RATS after Backwasche's defeat, and the only link in the civil chain above household level who is not a Banite."] },
+    { name: "Red Duckett", role: "Council member", grid: "W12", at: [2, 8.8], col: [200, 60, 60],
+      notes: ["Member of the council."] },
+    { name: "Steward Daniel", role: "Steward of the estate", grid: "W12", at: [4, 8.3], col: [90, 90, 120],
+      notes: ["Runs the Duckett Estate."] },
+    { name: "Bart", role: "Knows the manor", grid: "W12", at: [0.8, 9.4], col: [140, 140, 100],
+      notes: ["Knows the layout of the manor and can lead visitors straight to the study. Uncertain about traps."] },
+    { name: "Fiona Duckett", role: "Secret daughter of Whyte Duckett", grid: "W12", at: [2.6, 17.6], col: [150, 150, 170],
+      notes: ["Whyte Duckett's werewolf daughter, kept in permanent seclusion."] },
+    { name: "Paul Bearer", role: "Keeper of the graveyard", grid: "V13", at: [8, 11.5], col: [90, 90, 90], notes: [] },
+    { name: "Eliza", role: "Guard of the Banesblood cache", grid: "X12", at: [3.6, 5.8], col: [220, 60, 60], hostile: true,
+      notes: ["Guards the hidden bunker beneath the Church of Bane ruins."] },
+    { name: "Farmer Sharn", role: "Farmer", grid: "X12", at: [13.5, 16], col: [120, 150, 70], notes: [] },
+    { name: "Moz", role: "Brewer", grid: "Y11", at: [10.5, 12.4], col: [180, 130, 60], notes: ["Holds the Brewery."] },
+    { name: "Farmer Greene", role: "Farmer", grid: "V10", at: [10.5, 11.2], col: [90, 160, 80], notes: [] },
+    { name: "Commander Stefan", role: "Holds the Frank and Stein", grid: "W11", at: [14, 12.2], col: [70, 110, 160], notes: [] },
+    { name: "Colonel Ketchup", role: "Holds his own ground", grid: "U6", at: [10, 12.5], col: [220, 50, 40], notes: [] },
+    { name: "Geraldine the Avenger", role: "Warpriest of Beshaba", grid: "W8", at: [8.5, 11.5], col: [200, 200, 230],
+      notes: ["Sister of Oraclia. Stationed at Cotton Falls, one square from Korporis at Indicium Lodge."] },
+  ];
+  const movers = [];
+  for (const p of PEOPLE) {
+    const [x, y] = L(p.grid[0], +p.grid.slice(1), p.at[0], p.at[1]);
+    Object.assign(p, { kind: "person", x, y, hx: x, hy: y, w: 0.4, h: 0.9, a: rand() * 6.28, speed: 0.35, t: rand() * 4, color: p.col });
+    sprites.push(p); movers.push(p);
+  }
+  // Betsy follows Giles
+  const giles = PEOPLE.find((p) => p.name === "Giles");
+  const betsy = { kind: "boar", name: "Betsy", x: giles.x + 0.8, y: giles.y, w: 0.8, h: 0.6, follow: giles };
+  sprites.push(betsy);
+  // Chickens on the farms
+  const chickens = [];
+  for (const [col, row, lx, ly] of [["X", 12, 14, 11.5], ["V", 10, 10, 12.5], ["W", 12, 8, 17.8]]) {
+    for (let k = 0; k < 4; k++) {
+      const [x, y] = L(col, row, lx + k * 0.5, ly);
+      const c = { kind: "chicken", x, y, hx: x, hy: y, w: 0.3, h: 0.28, a: rand() * 6.28, speed: 0.8, t: rand() * 3 };
+      sprites.push(c); chickens.push(c);
+    }
+  }
+
+  // ---------- Player and input ----------
+  const [sx0, sy0] = L("W", 12, 9.5, 9.6);
+  const player = { x: sx0, y: sy0, a: 0 };
+  const keys = new Set();
+  let mode = "3d", zoom = 0;
+  try { if (localStorage.getItem("cranberry-mode") === "map") mode = "map"; } catch (e) {}
+  const setMode = (m) => {
+    mode = m;
+    modeBtn.textContent = mode === "3d" ? "Switch to map view [M]" : "Switch to 3D view [M]";
+    try { localStorage.setItem("cranberry-mode", mode); } catch (e) {}
+  };
+  setMode(mode);
+  modeBtn.addEventListener("click", () => { setMode(mode === "3d" ? "map" : "3d"); modeBtn.blur(); });
+
+  // Travel list
+  for (const s of SITES) {
+    const o = document.createElement("option");
+    o.value = s.name; o.textContent = `${s.grid}  ${s.name}`;
+    travel.appendChild(o);
+  }
+  const findOpen = (x, y) => {
+    for (let r = 2.2; r < 8; r += 0.4) for (let k = 0; k < 16; k++) {
+      const a = k / 16 * Math.PI * 2 + Math.PI / 2;
+      const px = x + Math.cos(a) * r, py = y + Math.sin(a) * r;
+      if (!blocked(px, py) && !blocked(px + 0.2, py) && !blocked(px - 0.2, py) && !blocked(px, py + 0.2) && !blocked(px, py - 0.2)) return [px, py];
+    }
+    return [x, y];
+  };
+  travel.addEventListener("change", () => {
+    const s = SITES.find((q) => q.name === travel.value);
+    if (s) {
+      const [px, py] = findOpen(s.x, s.y);
+      player.x = px; player.y = py;
+      player.a = Math.atan2(s.y - py, s.x - px);
+    }
+    travel.value = "";
+    travel.blur();
+  });
+
+  window.addEventListener("keydown", (e) => {
+    if (e.target === travel) return;
+    const k = e.key.toLowerCase();
+    if (k === "m" || k === "tab") { e.preventDefault(); if (!e.repeat) setMode(mode === "3d" ? "map" : "3d"); return; }
+    if (k === "z") { if (!e.repeat) zoom = (zoom + 1) % 3; return; }
+    if (["arrowup", "arrowdown", "arrowleft", "arrowright", " "].includes(k)) e.preventDefault();
+    keys.add(k);
+    if (e.shiftKey) keys.add("shift");
+  });
+  window.addEventListener("keyup", (e) => {
+    keys.delete(e.key.toLowerCase());
+    if (!e.shiftKey) keys.delete("shift");
+  });
+  window.addEventListener("blur", () => keys.clear());
+  const bindPad = (id, key) => {
+    const el = document.getElementById(id);
+    el.addEventListener("pointerdown", (e) => { e.preventDefault(); keys.add(key); el.setPointerCapture(e.pointerId); });
+    const up = () => keys.delete(key);
+    el.addEventListener("pointerup", up);
+    el.addEventListener("pointercancel", up);
+  };
+  bindPad("padUp", "w"); bindPad("padDown", "s"); bindPad("padLeft", "a"); bindPad("padRight", "d");
+
+  // ---------- Canvas / character grid ----------
+  let W = 0, H = 0, cw = 8, ch = 16, cols = 80, rows = 40, fontSize = 14;
+  const resize = () => {
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    W = window.innerWidth; H = window.innerHeight;
+    canvas.width = Math.floor(W * dpr); canvas.height = Math.floor(H * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    fontSize = W < 600 ? 11 : 14;
+    ctx.font = `700 ${fontSize}px "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace`;
+    cw = Math.ceil(ctx.measureText("M").width);
+    ch = Math.ceil(fontSize * 1.15);
+    cols = Math.ceil(W / cw);
+    rows = Math.ceil(H / ch);
+  };
+  window.addEventListener("resize", resize);
+  if (document.fonts && document.fonts.load) document.fonts.load('700 14px "JetBrains Mono"').then(resize, () => {});
+  resize();
+
+  const BG = [14, 12, 18];
+  const rgb = (c, k) => {
+    k = Math.max(0, Math.min(1, k));
+    return `rgb(${(BG[0] + (c[0] - BG[0]) * k) | 0},${(BG[1] + (c[1] - BG[1]) * k) | 0},${(BG[2] + (c[2] - BG[2]) * k) | 0})`;
+  };
+  const put = (col, row, chr, color) => { ctx.fillStyle = color; ctx.fillText(chr, col * cw, row * ch); };
+
+  const flies = [];
+  for (let i = 0; i < 50; i++) flies.push({ x: Math.random(), y: 0.55 + Math.random() * 0.45, p: Math.random() * 10, v: 0.02 + Math.random() * 0.04 });
+
+  // ---------- Movement ----------
+  const tryMove = (o, dx, dy, r) => {
+    if (!blocked(o.x + dx + Math.sign(dx) * r, o.y)) o.x += dx;
+    if (!blocked(o.x, o.y + dy + Math.sign(dy) * r)) o.y += dy;
+  };
+  const wander = (m, dt, radius) => {
+    m.t -= dt;
+    const nx = m.x + Math.cos(m.a) * m.speed * dt, ny = m.y + Math.sin(m.a) * m.speed * dt;
+    const far = Math.hypot(nx - m.hx, ny - m.hy) > radius;
+    if (m.t < 0 || far || blocked(nx + Math.cos(m.a) * 0.25, ny + Math.sin(m.a) * 0.25)) {
+      m.a = far ? Math.atan2(m.hy - m.y, m.hx - m.x) + (Math.random() - 0.5) : Math.random() * Math.PI * 2;
+      m.t = 1.5 + Math.random() * 4;
+      m.pause = Math.random() < 0.5 ? 1 + Math.random() * 3 : 0;
+    } else if (m.pause > 0) {
+      m.pause -= dt;
+    } else { m.x = nx; m.y = ny; }
+  };
+  const update = (dt, time) => {
+    const run = keys.has("shift") ? 2.3 : 1;
+    const speed = 3.2 * run * dt, turn = 2.4 * dt;
+    if (keys.has("a") || keys.has("arrowleft")) player.a -= turn;
+    if (keys.has("d") || keys.has("arrowright")) player.a += turn;
+    const fx = Math.cos(player.a), fy = Math.sin(player.a);
+    let mx = 0, my = 0;
+    if (keys.has("w") || keys.has("arrowup")) { mx += fx; my += fy; }
+    if (keys.has("s") || keys.has("arrowdown")) { mx -= fx; my -= fy; }
+    if (keys.has("q")) { mx += fy; my -= fx; }
+    if (keys.has("e")) { mx -= fy; my += fx; }
+    const len = Math.hypot(mx, my);
+    if (len > 0) {
+      const slow = ground[I(player.x | 0, player.y | 0)] === 5 ? 0.6 : 1;
+      tryMove(player, mx / len * speed * slow, my / len * speed * slow, 0.2);
+    }
+    for (const m of movers) wander(m, dt, 1.2);
+    for (const c of chickens) wander(c, dt, 2.5);
+    const dx = betsy.follow.x + 0.7 - betsy.x, dy = betsy.follow.y + 0.3 - betsy.y;
+    betsy.x += dx * Math.min(1, dt * 1.5); betsy.y += dy * Math.min(1, dt * 1.5);
+    if (!reduceMotion) for (const f of flies) {
+      f.x += Math.sin(time * 0.7 + f.p) * f.v * dt;
+      f.y += Math.cos(time * 0.9 + f.p * 2) * f.v * dt * 0.6;
+      if (f.x < 0) f.x += 1; if (f.x > 1) f.x -= 1;
+      f.y = Math.min(0.98, Math.max(0.5, f.y));
+    }
+  };
+
+  // ---------- Sprite glyphs ----------
+  const glyph = (s, fx, fy, time) => {
+    const dx = fx - 0.5;
+    switch (s.kind) {
+      case "tree": {
+        const cy = 0.35, ry = 0.36, rx = 0.5;
+        if ((dx * dx) / (rx * rx) + ((fy - cy) * (fy - cy)) / (ry * ry) < 1) {
+          const n = hash(Math.floor(fx * 9) + s.seed * 31, Math.floor(fy * 9), 3);
+          return [n < 0.33 ? "&" : n < 0.66 ? "%" : "*", [80 + n * 40 | 0, 150 + n * 40 | 0, 70], 0.55 + (0.5 - fy) * 0.5 + n * 0.25];
+        }
+        if (fy > 0.6 && Math.abs(dx) < 0.07) return ["|", TIMBER, 0.8];
+        return null;
+      }
+      case "pine": {
+        if (fy < 0.8 && Math.abs(dx) < fy * 0.55) return [Math.abs(dx) > fy * 0.45 ? (dx < 0 ? "/" : "\\") : "^", [60, 120, 80], 0.6 + (0.8 - fy) * 0.4];
+        if (fy >= 0.8 && Math.abs(dx) < 0.07) return ["|", TIMBER, 0.8];
+        return null;
+      }
+      case "reed": return (Math.floor(fx * 5) % 2 === 0 && fy > 0.1) ? [fy < 0.25 ? "," : "|", [150, 150, 70], 0.7] : null;
+      case "person": {
+        if (fy < 0.2 && Math.abs(dx) < 0.25) return ["o", [236, 200, 160], 0.95];
+        if (fy < 0.65 && Math.abs(dx) < 0.45) return [Math.abs(dx) < 0.15 ? "H" : "#", s.color, 0.95];
+        if (fy >= 0.65 && Math.abs(Math.abs(dx) - 0.2) < 0.14) return ["|", [90, 70, 50], 0.8];
+        return null;
+      }
+      case "boar": {
+        if (fy > 0.25 && fy < 0.75 && Math.abs(dx) < 0.45) return [dx > 0.3 ? ">" : "#", [120, 90, 70], 0.9];
+        if (fy >= 0.75 && Math.abs(Math.abs(dx) - 0.25) < 0.1) return ["|", [90, 70, 50], 0.8];
+        if (fy <= 0.25 && fy > 0.1 && dx > 0.3) return ["'", [240, 230, 210], 0.9];
+        return null;
+      }
+      case "chicken": {
+        if (fy < 0.35 && dx > 0.05 && dx < 0.35) return ["o", [240, 235, 220], 0.9];
+        if (fy >= 0.3 && fy < 0.8 && Math.abs(dx) < 0.4) return ["@", [240, 235, 220], 0.85];
+        if (fy >= 0.8 && Math.abs(dx) < 0.2) return ["'", [230, 160, 60], 0.9];
+        return null;
+      }
+      case "post": {
+        if (fy < 0.4 && Math.abs(dx) < 0.48) {
+          const letter = s.text[Math.min(s.text.length - 1, Math.floor(fx * s.text.length))];
+          return [fy < 0.2 ? letter : "=", [240, 210, 150], 0.9];
+        }
+        if (Math.abs(dx) < 0.08) return ["|", TIMBER, 0.85];
+        return null;
+      }
+      case "cave": {
+        const inArch = (dx * dx) / 0.12 + ((fy - 1) ** 2) / 0.5 < 1;
+        if (inArch) return [" ", [0, 0, 0], 0];
+        const mound = (dx * dx) / 0.25 + ((fy - 1) ** 2) / 1.0 < 1;
+        if (mound) return hash(Math.floor(fx * 8), Math.floor(fy * 8), 5) < 0.4 ? ["%", [70, 130, 60], 0.8] : ["#", [120, 110, 100], 0.7];
+        return null;
+      }
+      case "hatch": return Math.abs(dx) < 0.45 ? [fy < 0.3 ? "_" : Math.abs(dx) > 0.35 ? "|" : "=", TIMBER, 0.9] : null;
+      case "headstone": {
+        if (fy < 0.25 && Math.abs(dx) < 0.3) return ["n", [170, 170, 180], 0.8];
+        if (Math.abs(dx) < 0.4) return [fy < 0.5 && Math.abs(dx) < 0.1 ? "+" : "#", [150, 150, 160], 0.7];
+        return null;
+      }
+      case "slab": {
+        if (Math.abs(dx) > 0.45) return null;
+        if (Math.abs(dx) < 0.12 && Math.abs(fy - 0.45) < 0.12) return ["*", [220, 90, 90], 0.8 + 0.2 * Math.sin(time * 3)];
+        return [fy < 0.1 ? "_" : "#", [110, 110, 130], 0.8];
+      }
+      case "stairs": {
+        const step = Math.floor(fy * 4);
+        if (Math.abs(dx) < 0.2 + step * 0.08) return [step >= 3 ? "~" : "=", step >= 3 ? [80, 110, 120] : [140, 140, 150], 0.75];
+        return null;
+      }
+      case "stack": return Math.abs(dx) < 0.45 ? ["=", [100, 70, 50], 0.8] : null;
+      case "crate": return Math.abs(dx) < 0.45 ? [Math.abs(dx) > 0.35 || fy < 0.12 ? "#" : "x", [170, 130, 80], 0.8] : null;
+      case "barrel": return Math.abs(dx) < 0.4 ? [Math.abs(fy - 0.5) < 0.1 ? "=" : "(", [150, 100, 60], 0.85] : null;
+      case "barrow": return fy > 0.3 && Math.abs(dx) < 0.45 ? [fy > 0.8 ? "o" : "\\", TIMBER, 0.8] : null;
+      case "tent": return Math.abs(dx) < fy * 0.5 ? [Math.abs(dx) > fy * 0.4 ? (dx < 0 ? "/" : "\\") : (Math.abs(dx) < 0.08 && fy > 0.5 ? " " : ":"), [200, 190, 150], 0.8] : null;
+      case "flag": {
+        if (fy < 0.3 && dx > 0 && dx < 0.5) return ["~", [220, 50, 40], 0.9];
+        if (Math.abs(dx) < 0.06) return ["|", [150, 150, 150], 0.8];
+        return null;
+      }
+    }
+    return null;
+  };
+
+  // ---------- 3D view ----------
+  const zbuf = new Float32Array(2048);
+  const SUN_ANGLE = Math.PI * 0.85;
+  const render3D = (time) => {
+    const horizon = Math.floor(rows * 0.55);
+    const dirX = Math.cos(player.a), dirY = Math.sin(player.a);
+    const fov = 0.66 * Math.min(1.6, Math.max(0.7, (W / H) / 1.4));
+    const planeX = -dirY * fov, planeY = dirX * fov;
+    const unitRows = (cols * cw) / (2 * fov) / ch;
+    const colsPerRad = cols / (2 * Math.atan(fov));
+
+    // Dusk sky
+    let sunRel = SUN_ANGLE - player.a;
+    sunRel = Math.atan2(Math.sin(sunRel), Math.cos(sunRel));
+    const sunC = cols / 2 + sunRel * colsPerRad, sunR = horizon - 3;
+    for (let r = 0; r < horizon; r++) {
+      const t = r / horizon;
+      for (let c = 0; c < cols; c++) {
+        const skyX = c - player.a * colsPerRad;
+        const dSun = Math.hypot((c - sunC) * cw / ch, r - sunR);
+        if (Math.abs(sunRel) < 1.4 && dSun < 2.6) { put(c, r, dSun < 1.6 ? "@" : "o", rgb([255, 150, 90], 1 - dSun * 0.15)); continue; }
+        const cloud = Math.sin(skyX * 0.09 + time * 0.04) + Math.sin(skyX * 0.031 - r * 0.6) + Math.sin(r * 1.3 + skyX * 0.02);
+        if (t < 0.7 && cloud > 1.6) { put(c, r, cloud > 2.2 ? "≈" : "~", rgb([240, 150, 160], 0.25 + t * 0.35)); continue; }
+        if (t > 0.6 && hash(c, r, 5) < (t - 0.6) * 0.5) { put(c, r, "-", rgb([255, 120, 100], (t - 0.6) * 1.2)); continue; }
+        if (t < 0.4 && hash(((Math.floor(skyX) % 5000) + 5000) % 5000, r, 1) < 0.01) put(c, r, ".", rgb([220, 220, 255], 0.45 - t));
+      }
+    }
+    for (let c = 0; c < cols; c++) {
+      const skyX = c - player.a * colsPerRad * 0.8;
+      const hill = Math.floor(2 + Math.sin(skyX * 0.05) * 1.5 + Math.sin(skyX * 0.013) * 1.5);
+      for (let r = horizon - hill; r <= horizon; r++) put(c, r, r === horizon - hill ? "^" : "\"", rgb([70, 85, 80], 0.6));
+    }
+
+    // Ground
+    for (let r = horizon + 1; r < rows; r++) {
+      const dist = unitRows * 0.5 / (r - horizon);
+      const k = Math.min(1, 1.4 / (1 + dist * 0.3));
+      for (let c = 0; c < cols; c++) {
+        const cameraX = 2 * c / cols - 1;
+        const wx = player.x + (dirX + planeX * cameraX) * dist;
+        const wy = player.y + (dirY + planeY * cameraX) * dist;
+        const tx = Math.floor(wx), ty = Math.floor(wy);
+        if (!inWorld(tx, ty)) continue;
+        const g = ground[I(tx, ty)];
+        const n = hash(Math.floor(wx * 4), Math.floor(wy * 4), 4);
+        switch (g) {
+          case 0: if (n < 0.45) put(c, r, n < 0.15 ? "\"" : n < 0.3 ? "," : "'", rgb([100, 160, 70], k * (0.4 + n))); break;
+          case 1: if (n < 0.5) put(c, r, n < 0.1 ? "o" : ".", rgb([170, 130, 90], k * 0.6)); break;
+          case 2: {
+            const o = wx * 3 + (Math.floor(wy * 3) % 2) * 0.5;
+            put(c, r, o - Math.floor(o) < 0.2 ? ":" : "o", rgb([150, 150, 160], k * 0.5)); break;
+          }
+          case 3: if ((wx * 2.5) % 1 < 0.45) put(c, r, n < 0.5 ? "≡" : "\"", rgb([200, 60, 80], k * 0.5)); break;   // cranberry beds
+          case 4: {
+            const wave = Math.sin(wx * 3 + wy * 2 + time * 2) > 0.3;
+            put(c, r, wave ? "≈" : "~", rgb([90, 140, 210], k * (wave ? 0.7 : 0.45))); break;
+          }
+          case 5: if (n < 0.6) put(c, r, n < 0.2 ? "~" : n < 0.4 ? "," : ".", rgb([110, 110, 60], k * 0.5)); break;
+          case 6: if (n < 0.04) put(c, r, ".", rgb([90, 60, 120], 0.4)); break;
+          case 7: if (n < 0.4) put(c, r, n < 0.15 ? "," : ".", rgb([60, 110, 60], k * 0.5)); break;
+          case 8: if (n < 0.45) put(c, r, n < 0.15 ? "o" : ":", rgb([140, 130, 120], k * 0.5)); break;
+          case 9: if (n < 0.55) put(c, r, n < 0.2 ? "*" : "\"", n < 0.1 ? rgb([240, 120, 170], k * 0.8) : n < 0.2 ? rgb([250, 220, 100], k * 0.8) : rgb([100, 160, 70], k * 0.6)); break;
+          case 10: if (n < 0.45) put(c, r, n < 0.2 ? "%" : ".", rgb([90, 85, 85], k * 0.6)); break;
+        }
+      }
+    }
+
+    // Walls
+    for (let c = 0; c < cols; c++) {
+      const cameraX = 2 * c / cols - 1;
+      const rdx = dirX + planeX * cameraX, rdy = dirY + planeY * cameraX;
+      let mx = Math.floor(player.x), my = Math.floor(player.y);
+      const ddx = Math.abs(1 / rdx), ddy = Math.abs(1 / rdy);
+      let stepX, stepY, sdx, sdy;
+      if (rdx < 0) { stepX = -1; sdx = (player.x - mx) * ddx; } else { stepX = 1; sdx = (mx + 1 - player.x) * ddx; }
+      if (rdy < 0) { stepY = -1; sdy = (player.y - my) * ddy; } else { stepY = 1; sdy = (my + 1 - player.y) * ddy; }
+      let side = 0, hit = 0, guard = 0;
+      while (!hit && guard++ < 90) {
+        if (sdx < sdy) { sdx += ddx; mx += stepX; side = 0; } else { sdy += ddy; my += stepY; side = 1; }
+        if (mx < 0 || my < 0 || mx >= NX || my >= NY) break;
+        hit = map[I(mx, my)];
+      }
+      if (!hit) { zbuf[c] = 1e9; continue; }
+      const dist = side === 0 ? sdx - ddx : sdy - ddy;
+      zbuf[c] = dist;
+      const along = side === 0 ? player.y + dist * rdy : player.x + dist * rdx;
+      const u = along - Math.floor(along);
+      const idx = I(mx, my);
+      const hTiles = wallH[idx];
+      const unit = unitRows / Math.max(dist, 0.05);
+      const bottom = horizon + unit * 0.5;
+      const top = bottom - unit * hTiles;
+      const fog = Math.min(1, 1.7 / (1 + dist * 0.16)) * (side ? 0.75 : 1);
+      const base = WALL_COL[hit];
+
+      const house = houseOf[idx] >= 0 ? houses[houseOf[idx]] : null;
+      let roofTop = top, t = 0.5;
+      if (house) {
+        const start = side === 0 ? house.y : house.x;
+        const len = side === 0 ? house.h : house.w;
+        t = Math.min(1, Math.max(0, (along - start) / len));
+        const peak = hit === 4 ? 1.6 : Math.min(1.2, 0.4 * len);
+        roofTop = top - unit * peak * (1 - Math.abs(2 * t - 1));
+      }
+      const rTop = Math.max(0, Math.floor(roofTop));
+      const r1 = Math.min(rows - 1, Math.floor(bottom));
+      const sign = signs.get(idx);
+      for (let r = rTop; r <= r1; r++) {
+        if (r < top) {
+          if (!house) continue;
+          const edge = r === rTop;
+          put(c, r, edge ? (t < 0.5 ? "/" : "\\") : (house.roof === THATCH ? (r % 2 ? "\"" : "'") : "="), rgb(house.roof, fog * (edge ? 1 : 0.75)));
+          continue;
+        }
+        const v = (bottom - r) / unit;
+        if (hit === 5) { put(c, r, r === Math.max(0, Math.floor(top)) ? "^" : ((u * 5) % 1) < 0.18 ? " " : "|", rgb(base, fog * 0.75)); continue; }
+        if (hit === 7) {
+          if (v > hTiles - hash(Math.floor(u * 6), idx, 3) * 0.6) continue;
+          const course = Math.floor(v * 5);
+          put(c, r, ((u * 3 + (course % 2) * 0.5) % 1) < 0.12 ? "|" : hash(Math.floor(u * 6), course, idx) < 0.2 ? "%" : "=", rgb(base, fog * 0.55));
+          continue;
+        }
+        if (hit === 8) { const n = hash(Math.floor(u * 6), Math.floor(v * 6), idx); put(c, r, n < 0.3 ? "%" : n < 0.6 ? "#" : ":", rgb(base, fog * (0.35 + n * 0.3))); continue; }
+        if (hit === 9) {
+          const flow = (v * 5 + (reduceMotion ? 0 : time * 3) + hash(Math.floor(u * 8), 0, 1)) % 1;
+          put(c, r, v < 0.15 ? "*" : flow < 0.3 ? "¦" : "|", v < 0.15 ? rgb([240, 250, 255], fog) : rgb(base, fog * (0.5 + flow * 0.5)));
+          continue;
+        }
+        if (hit === 10) { put(c, r, hash(Math.floor(u * 6), r, idx) < 0.5 ? "%" : ",", rgb(base, fog * 0.8)); continue; }
+        if (sign && v > 0.72 && v < 0.9) {
+          const letter = sign[Math.min(sign.length - 1, Math.floor(u * sign.length))];
+          put(c, r, letter, rgb([240, 200, 120], fog));
+          continue;
+        }
+        const doorHere = house && hit !== 4 && Math.abs(t - 0.5) < 0.12 && v < 0.62 && (side === 1 && my === house.y + house.h - 1);
+        if (doorHere) { put(c, r, Math.abs(t - 0.5) < 0.1 ? "#" : "|", rgb(TIMBER, fog * 0.9)); continue; }
+        const winU = (u * 2) % 1;
+        const inWin = winU > 0.3 && winU < 0.7 && v > 0.35 && v < 0.62 + (hit === 4 ? 2 : 0) && (hit !== 4 || (v % 0.9) > 0.35);
+        if (inWin && hit !== 6) {
+          const lit = hash(idx, Math.floor(u * 2), side) > 0.35;
+          const flicker = reduceMotion ? 1 : 0.85 + 0.15 * Math.sin(time * 7 + idx);
+          put(c, r, lit ? "▪" : "#", lit ? rgb(WARM, fog * flicker) : rgb(TIMBER, fog * 0.6));
+          continue;
+        }
+        if (hit === 1 || hit === 2) {
+          const beamV = u < 0.06 || u > 0.94 || Math.abs(v - hTiles * 0.5) < 0.05 || v > hTiles - 0.06;
+          const brace = Math.abs(((u + v) % 1) - 0.5) < 0.04 && v < hTiles * 0.5;
+          if (beamV || brace) { put(c, r, beamV ? (u < 0.06 || u > 0.94 ? "|" : "=") : "/", rgb(TIMBER, fog)); continue; }
+          put(c, r, hash(Math.floor(u * 8), r, idx) < 0.35 ? "." : ":", rgb(base, fog * (0.3 + 0.15 * (hash(Math.floor(u * 8), r, idx) < 0.35))));
+          continue;
+        }
+        if (hit === 6) {
+          if (v < 0.4) { put(c, r, ((u * 4) % 1) < 0.15 ? "|" : "=", rgb(WALL_COL[3], fog * 0.55)); continue; }   // fieldstone base
+          put(c, r, ((u * 5) % 1) < 0.18 ? "|" : ":", rgb(base, fog * 0.6));
+          continue;
+        }
+        const course = Math.floor(v * 6);
+        const mortar = ((u * 3 + (course % 2) * 0.5) % 1) < 0.1;
+        put(c, r, mortar ? "|" : "=", rgb(base, fog * (mortar ? 0.35 : 0.5)));
+      }
+    }
+
+    // Sprites
+    const invDet = 1 / (planeX * dirY - dirX * planeY);
+    const vis = [];
+    for (const s of sprites) {
+      const sx = s.x - player.x, sy = s.y - player.y;
+      if (Math.abs(sx) > 32 || Math.abs(sy) > 32) continue;
+      const tx = invDet * (dirY * sx - dirX * sy);
+      const ty = invDet * (-planeY * sx + planeX * sy);
+      if (ty > 0.25 && ty < 30) vis.push({ s, tx, ty });
+    }
+    vis.sort((a, b) => b.ty - a.ty);
+    for (const { s, tx, ty } of vis) {
+      const screenC = (cols / 2) * (1 + tx / ty);
+      const unit = unitRows / ty;
+      const bottom = horizon + unit * 0.5;
+      const top = bottom - unit * s.h;
+      const halfW = s.w * unit * ch / cw * 0.5;
+      const fog = Math.min(1, 1.7 / (1 + ty * 0.16));
+      const c0 = Math.max(0, Math.floor(screenC - halfW)), c1 = Math.min(cols - 1, Math.ceil(screenC + halfW));
+      const r0 = Math.max(0, Math.floor(top)), r1 = Math.min(rows - 1, Math.floor(bottom));
+      for (let c = c0; c <= c1; c++) {
+        if (zbuf[c] < ty) continue;
+        const fx = (c + 0.5 - (screenC - halfW)) / (halfW * 2);
+        if (fx < 0 || fx > 1) continue;
+        for (let r = r0; r <= r1; r++) {
+          const g = glyph(s, fx, (r + 0.5 - top) / (bottom - top), time);
+          if (!g) continue;
+          if (g[0] === " ") { ctx.fillStyle = "#0e0c12"; ctx.fillRect(c * cw, r * ch, cw, ch); continue; }
+          put(c, r, g[0], rgb(g[1], fog * g[2]));
+        }
+      }
+      // name tag over nearby people
+      if (s.kind === "person" && ty < 6 && screenC > 0 && screenC < cols && zbuf[Math.floor(screenC)] >= ty) {
+        const label = s.name;
+        const lr = Math.max(0, Math.floor(top) - 1);
+        const lc = Math.floor(screenC - label.length / 2);
+        for (let k = 0; k < label.length; k++) put(lc + k, lr, label[k], rgb(s.hostile ? STATUS_COL.hostile : [240, 225, 200], Math.min(1, 1.6 - ty * 0.2)));
+      }
+    }
+  };
+
+  // ---------- Map view ----------
+  const WALL_GLYPH = { 1: "^", 2: "^", 3: "=", 4: "†", 5: "|", 6: "^", 7: "%", 8: "▲", 9: "║", 10: "," };
+  const renderMap = (time) => {
+    const tpc = [0.5, 1, 2][zoom];     // tiles per character column
+    const tpr = tpc * 2;               // characters are about twice as tall as wide
+    const ox = player.x - cols * tpc / 2, oy = player.y - rows * tpr / 2;
+    for (let r = 0; r < rows; r++) {
+      const wy = oy + (r + 0.5) * tpr;
+      for (let c = 0; c < cols; c++) {
+        const wx = ox + (c + 0.5) * tpc;
+        const tx = Math.floor(wx), ty = Math.floor(wy);
+        if (!inWorld(tx, ty)) continue;
+        const i = I(tx, ty), t = map[i];
+        if (t) {
+          const house = houseOf[i] >= 0 ? houses[houseOf[i]] : null;
+          const col = house ? house.roof : WALL_COL[t];
+          put(c, r, WALL_GLYPH[t], rgb(col, t === 8 ? 0.6 : 0.85));
+          continue;
+        }
+        const g = ground[i];
+        const n = hash(tx * 2 + (c & 1), ty, 4);
+        switch (g) {
+          case 0: if (n < 0.4) put(c, r, n < 0.15 ? "\"" : ",", rgb([100, 160, 70], 0.5)); break;
+          case 1: put(c, r, ".", rgb([170, 130, 90], 0.6)); break;
+          case 2: put(c, r, c % 2 ? ":" : "o", rgb([150, 150, 160], 0.45)); break;
+          case 3: put(c, r, "≡", rgb([200, 60, 80], 0.45)); break;
+          case 4: put(c, r, Math.sin(tx + ty + time * 2) > 0 ? "≈" : "~", rgb([90, 140, 210], 0.6)); break;
+          case 5: if (n < 0.6) put(c, r, n < 0.3 ? "~" : ",", rgb([110, 110, 60], 0.55)); break;
+          case 6: if (n < 0.05) put(c, r, ".", rgb([90, 60, 120], 0.4)); break;
+          case 7: if (n < 0.3) put(c, r, ".", rgb([60, 110, 60], 0.5)); break;
+          case 8: if (n < 0.4) put(c, r, ":", rgb([140, 130, 120], 0.45)); break;
+          case 9: put(c, r, n < 0.3 ? "*" : "\"", n < 0.3 ? rgb([240, 120, 170], 0.8) : rgb([100, 160, 70], 0.5)); break;
+          case 10: put(c, r, "%", rgb([90, 85, 85], 0.6)); break;
+        }
+      }
+    }
+    // grid square borders and labels
+    if (zoom > 0) {
+      for (let gx = 0; gx <= NX; gx += S) {
+        const c = Math.floor((gx - ox) / tpc);
+        if (c >= 0 && c < cols) for (let r = 0; r < rows; r++) if (r % 2 === 0) put(c, r, "┊", "rgba(216,67,79,0.35)");
+      }
+      for (let gy = 0; gy <= NY; gy += S) {
+        const r = Math.floor((gy - oy) / tpr);
+        if (r >= 0 && r < rows) for (let c = 0; c < cols; c += 2) put(c, r, "┄", "rgba(216,67,79,0.35)");
+      }
+    }
+    for (let ci = 0; ci < GRID_COLS.length; ci++) for (let ri = 0; ri <= ROW_MAX - ROW_MIN; ri++) {
+      const c = Math.floor((ci * S - ox) / tpc) + 1, r = Math.floor((ri * S - oy) / tpr) + 1;
+      const label = GRID_COLS[ci] + (ROW_MIN + ri);
+      if (r >= 0 && r < rows) for (let k = 0; k < label.length; k++) if (c + k >= 0 && c + k < cols) put(c + k, r, label[k], "rgba(240,138,143,0.75)");
+    }
+    const toScreen = (x, y) => [Math.floor((x - ox) / tpc), Math.floor((y - oy) / tpr)];
+    const SPRITE_GLYPH = { tree: ["♣", [90, 170, 80]], pine: ["▲", [70, 140, 90]], reed: ["|", [150, 150, 70]], post: ["¶", [240, 210, 150]], cave: ["Ω", [180, 170, 160]], hatch: ["▣", [170, 120, 70]], headstone: ["∩", [170, 170, 180]], slab: ["■", [200, 90, 90]], stairs: ["≣", [150, 150, 160]], stack: ["=", [120, 80, 60]], crate: ["x", [170, 130, 80]], barrel: ["o", [150, 100, 60]], barrow: ["\\", [150, 100, 60]], tent: ["Δ", [200, 190, 150]], flag: ["⚑", [220, 50, 40]], boar: ["b", [150, 110, 80]], chicken: ["v", [240, 235, 220]] };
+    for (const s of sprites) {
+      const [c, r] = toScreen(s.x, s.y);
+      if (c < 0 || c >= cols || r < 0 || r >= rows) continue;
+      if (s.kind === "person") put(c, r, "@", rgb(s.color, 1));
+      else if (SPRITE_GLYPH[s.kind] && (zoom < 2 || s.kind !== "reed")) put(c, r, SPRITE_GLYPH[s.kind][0], rgb(SPRITE_GLYPH[s.kind][1], 0.9));
+    }
+    // site labels
+    for (const s of SITES) {
+      if (s.district && (zoom > 0 || Math.hypot(s.x - player.x, s.y - player.y) > 9)) continue;
+      if (zoom > 0 && s.name === "Cranberry Village") continue;
+      const [c, r] = toScreen(s.x, s.y);
+      if (r < 0 || r >= rows) continue;
+      const label = s.name;
+      const col = STATUS_COL[s.status] || STATUS_COL[""];
+      const lc = c - Math.floor(label.length / 2);
+      ctx.fillStyle = "rgba(14,12,18,0.7)";
+      ctx.fillRect(lc * cw - 2, (r - 1) * ch, label.length * cw + 4, ch);
+      for (let k = 0; k < label.length; k++) if (lc + k >= 0 && lc + k < cols) put(lc + k, r - 1, label[k], rgb(col, 1));
+    }
+    const [pc, pr] = toScreen(player.x, player.y);
+    const arrows = [">", "v", "<", "^"];
+    const ai = ((Math.round(player.a / (Math.PI / 2)) % 4) + 4) % 4;
+    ctx.save();
+    ctx.shadowColor = "rgba(240,138,143,0.9)"; ctx.shadowBlur = 10;
+    put(pc, pr, arrows[ai], "#f08a8f");
+    ctx.restore();
+  };
+
+  const renderFlies = (time) => {
+    for (const f of flies) {
+      const glow = 0.5 + 0.5 * Math.sin(time * 3 + f.p * 5);
+      if (glow < 0.35) continue;
+      put(Math.floor(f.x * cols), Math.floor(f.y * rows), "·", rgb([230, 255, 120], glow));
+    }
+  };
+
+  // ---------- Info panel ----------
+  let shown = null;
+  const statusChip = (st) => {
+    if (!st) return "";
+    const c = STATUS_COL[st] || STATUS_COL[""];
+    return `<span class="chip status" style="color: rgb(${c.join(",")}); border-color: rgba(${c.join(",")},0.5)">${esc(st)}</span>`;
+  };
+  const showInfo = (item) => {
+    if (item === shown) return;
+    shown = item;
+    if (!item) { infoEl.hidden = true; return; }
+    let html;
+    if (item.kind === "person") {
+      html = `<div class="kicker">${esc(item.grid)} &nbsp; person</div><h2>${esc(item.name)}</h2><div class="meta"><span class="chip">${esc(item.role)}</span>${item.hostile ? statusChip("hostile") : ""}</div>`;
+      html += (item.notes.length ? item.notes : ["No further detail recorded."]).map((n) => `<p>${esc(n)}</p>`).join("");
+    } else {
+      const chips = [];
+      chips.push(`<span class="chip">${esc(item.grid)}</span>`);
+      chips.push(`<span class="chip">${esc(TERRAIN_NAME[item.terrain] || item.terrain)}</span>`);
+      if (item.district) chips.push(`<span class="chip">${esc(item.district)}</span>`);
+      if (item.tier) chips.push(`<span class="chip">${esc(item.tier)}</span>`);
+      chips.push(statusChip(item.status));
+      html = `<div class="kicker">${item.district ? "in the village" : "site"}</div><h2>${esc(item.name)}</h2><div class="meta">${chips.join("")}</div>`;
+      if (item.authority) html += `<p><em>Authority:</em> ${esc(item.authority)}</p>`;
+      html += item.notes.map((n) => `<p>${esc(n)}</p>`).join("");
+    }
+    infoEl.innerHTML = html;
+    infoEl.hidden = false;
+  };
+  const nearest = () => {
+    let best = null, bd = 1e9;
+    for (const p of PEOPLE) {
+      const d = Math.hypot(p.x - player.x, p.y - player.y);
+      if (d < 1.6 && d < bd) { best = p; bd = d; }
+    }
+    if (best) return best;
+    for (const s of SITES) {
+      const d = Math.hypot(s.x - player.x, s.y - player.y) / s.r;
+      if (d < 1 && d < bd) { best = s; bd = d; }
+    }
+    return best;
+  };
+
+  // ---------- Main loop ----------
+  let last = performance.now(), infoTimer = 0;
+  const frame = (now) => {
+    const dt = Math.min(0.05, (now - last) / 1000);
+    last = now;
+    const time = now / 1000;
+    update(dt, time);
+    ctx.fillStyle = "#0e0c12";
+    ctx.fillRect(0, 0, W, H);
+    ctx.font = `700 ${fontSize}px "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace`;
+    ctx.textBaseline = "top";
+    if (mode === "3d") render3D(time); else renderMap(time);
+    renderFlies(time);
+    infoTimer -= dt;
+    if (infoTimer <= 0) {
+      infoTimer = 0.15;
+      showInfo(nearest());
+      const cell = cellAt(player.x, player.y);
+      const ref = cell ? cell.col + cell.row : "";
+      let where = TERRAIN_NAME[TERRAIN[ref] || ""];
+      if (ref === "W12") where = cell.lx < 6 ? "Duckett Estate" : cell.lx < 14 ? "Midtown" : "Uptown";
+      const heading = ((player.a * 180 / Math.PI) % 360 + 360) % 360;
+      const compass = ["E", "SE", "S", "SW", "W", "NW", "N", "NE"][Math.round(heading / 45) % 8];
+      readout.innerHTML = `square <b>${esc(ref)}</b> &nbsp; ${esc(where)} &nbsp; facing <b>${compass}</b>${mode === "map" ? ` &nbsp; zoom <b>${zoom + 1}</b>` : ""}`;
+    }
+    requestAnimationFrame(frame);
+  };
+  requestAnimationFrame(frame);
+})();
+</script>
