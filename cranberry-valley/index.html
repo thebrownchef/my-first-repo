@@ -945,7 +945,9 @@
       const dist = side === 0 ? sdx - ddx : sdy - ddy;
       zbuf[c] = dist;
       const along = side === 0 ? player.y + dist * rdy : player.x + dist * rdx;
-      const u = along - Math.floor(along);
+      let u = along - Math.floor(along);
+      // keep textures reading left to right whichever side a face is seen from
+      if ((side === 0 && rdx < 0) || (side === 1 && rdy > 0)) u = 1 - u;
       const idx = I(mx, my);
       const hTiles = wallH[idx];
       const unit = unitRows / Math.max(dist, 0.05);
@@ -960,8 +962,14 @@
         const start = side === 0 ? house.y : house.x;
         const len = side === 0 ? house.h : house.w;
         t = Math.min(1, Math.max(0, (along - start) / len));
-        const peak = hit === 4 ? 1.6 : Math.min(1.2, 0.4 * len);
-        roofTop = top - unit * peak * (1 - Math.abs(2 * t - 1));
+        // the ridge runs along the longer side: those faces show a sloping roof of even height,
+        // the short ends show the triangular gable
+        const ridgeAlongX = house.w >= house.h;
+        const gableEnd = hit === 4 || (ridgeAlongX ? side === 0 : side === 1);
+        const peak = hit === 4 ? 1.6 : Math.min(1.2, 0.45 * Math.min(house.w, house.h));
+        roofTop = top - unit * peak * (gableEnd ? (1 - Math.abs(2 * t - 1)) : 1);
+        house.gableEnd = gableEnd;
+        house.leftHalf = ((side === 0 && rdx < 0) || (side === 1 && rdy > 0)) ? t > 0.5 : t < 0.5;
       }
       const rTop = Math.max(0, Math.floor(roofTop));
       const r1 = Math.min(rows - 1, Math.floor(bottom));
@@ -973,7 +981,8 @@
         tint(c, r, r < top ? rgb(house.roof, fog * 0.25) : hit === 9 ? rgb(base, fog * 0.4) : rgb(base, fog * 0.2));
         if (r < top) {
           const edge = r === rTop;
-          put(c, r, edge ? (t < 0.5 ? "/" : "\\") : (house.roof === THATCH ? (r % 2 ? "\"" : "'") : "="), rgb(house.roof, fog * (edge ? 1 : 0.75)));
+          const edgeChar = house.gableEnd ? (house.leftHalf ? "/" : "\\") : "_";
+          put(c, r, edge ? edgeChar : (house.roof === THATCH ? (r % 2 ? "\"" : "'") : "="), rgb(house.roof, fog * (edge ? 1 : 0.75)));
           continue;
         }
         const v = (bottom - r) / unit;
