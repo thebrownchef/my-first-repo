@@ -233,6 +233,7 @@
   const WARM = [255, 190, 90];
   const STATUS_COL = { active: [120, 205, 110], contested: [255, 160, 60], hostile: [235, 80, 70], sealed: [160, 160, 180], abandoned: [150, 130, 110], unexplored: [180, 140, 240], destroyed: [200, 120, 90], "": [200, 190, 170] };
 
+  const GROUND_BG = [[60, 110, 50], [120, 90, 60], [100, 100, 115], [120, 40, 55], [40, 85, 150], [75, 75, 40], [4, 2, 8], [30, 75, 38], [95, 88, 80], [70, 115, 60], [55, 52, 52]];
   const I = (x, y) => y * NX + x;
   const inWorld = (x, y) => x >= 0 && y >= 0 && x < NX && y < NY;
 
@@ -708,6 +709,7 @@
     return `rgb(${(BG[0] + (c[0] - BG[0]) * k) | 0},${(BG[1] + (c[1] - BG[1]) * k) | 0},${(BG[2] + (c[2] - BG[2]) * k) | 0})`;
   };
   const put = (col, row, chr, color) => { ctx.fillStyle = color; ctx.fillText(chr, col * cw, row * ch); };
+  const tint = (col, row, color) => { ctx.fillStyle = color; ctx.fillRect(col * cw, row * ch, cw, ch); };
 
   const flies = [];
   for (let i = 0; i < 50; i++) flies.push({ x: Math.random(), y: 0.55 + Math.random() * 0.45, p: Math.random() * 10, v: 0.02 + Math.random() * 0.04 });
@@ -854,6 +856,20 @@
     let sunRel = SUN_ANGLE - player.a;
     sunRel = Math.atan2(Math.sin(sunRel), Math.cos(sunRel));
     const sunC = cols / 2 + sunRel * colsPerRad, sunR = horizon - 3;
+    const sky = ctx.createLinearGradient(0, 0, 0, (horizon + 1) * ch);
+    sky.addColorStop(0, "#15122e");
+    sky.addColorStop(0.55, "#3a2350");
+    sky.addColorStop(0.85, "#7a3a55");
+    sky.addColorStop(1, "#b8604f");
+    ctx.fillStyle = sky;
+    ctx.fillRect(0, 0, W, (horizon + 1) * ch);
+    if (Math.abs(sunRel) < 1.4) {
+      const glow = ctx.createRadialGradient((sunC + 0.5) * cw, (sunR + 0.5) * ch, 0, (sunC + 0.5) * cw, (sunR + 0.5) * ch, ch * 9);
+      glow.addColorStop(0, "rgba(255,170,90,0.45)");
+      glow.addColorStop(1, "rgba(255,170,90,0)");
+      ctx.fillStyle = glow;
+      ctx.fillRect(0, 0, W, (horizon + 1) * ch);
+    }
     for (let r = 0; r < horizon; r++) {
       const t = r / horizon;
       for (let c = 0; c < cols; c++) {
@@ -869,7 +885,10 @@
     for (let c = 0; c < cols; c++) {
       const skyX = c - player.a * colsPerRad * 0.8;
       const hill = Math.floor(2 + Math.sin(skyX * 0.05) * 1.5 + Math.sin(skyX * 0.013) * 1.5);
-      for (let r = horizon - hill; r <= horizon; r++) put(c, r, r === horizon - hill ? "^" : "\"", rgb([70, 85, 80], 0.6));
+      for (let r = horizon - hill; r <= horizon; r++) {
+        tint(c, r, rgb([45, 60, 60], r === horizon - hill ? 0.5 : 0.8));
+        put(c, r, r === horizon - hill ? "^" : "\"", rgb([70, 85, 80], 0.6));
+      }
     }
 
     // Ground
@@ -884,6 +903,7 @@
         if (!inWorld(tx, ty)) continue;
         const g = ground[I(tx, ty)];
         const n = hash(Math.floor(wx * 4), Math.floor(wy * 4), 4);
+        tint(c, r, g === 6 ? "#040208" : rgb(GROUND_BG[g], 0.12 + k * 0.28));
         switch (g) {
           case 0: if (n < 0.45) put(c, r, n < 0.15 ? "\"" : n < 0.3 ? "," : "'", rgb([100, 160, 70], k * (0.4 + n))); break;
           case 1: if (n < 0.5) put(c, r, n < 0.1 ? "o" : ".", rgb([170, 130, 90], k * 0.6)); break;
@@ -947,8 +967,11 @@
       const r1 = Math.min(rows - 1, Math.floor(bottom));
       const sign = signs.get(idx);
       for (let r = rTop; r <= r1; r++) {
+        if (r < top && !house) continue;
+        const vv = (bottom - r) / unit;
+        if (hit === 7 && r >= top && vv > hTiles - hash(Math.floor(u * 6), idx, 3) * 0.6) continue;
+        tint(c, r, r < top ? rgb(house.roof, fog * 0.25) : hit === 9 ? rgb(base, fog * 0.4) : rgb(base, fog * 0.2));
         if (r < top) {
-          if (!house) continue;
           const edge = r === rTop;
           put(c, r, edge ? (t < 0.5 ? "/" : "\\") : (house.roof === THATCH ? (r % 2 ? "\"" : "'") : "="), rgb(house.roof, fog * (edge ? 1 : 0.75)));
           continue;
@@ -1058,11 +1081,13 @@
         if (t) {
           const house = houseOf[i] >= 0 ? houses[houseOf[i]] : null;
           const col = house ? house.roof : WALL_COL[t];
+          tint(c, r, rgb(col, 0.28));
           put(c, r, WALL_GLYPH[t], rgb(col, t === 8 ? 0.6 : 0.85));
           continue;
         }
         const g = ground[i];
         const n = hash(tx * 2 + (c & 1), ty, 4);
+        tint(c, r, g === 6 ? "#040208" : rgb(GROUND_BG[g], 0.3));
         switch (g) {
           case 0: if (n < 0.4) put(c, r, n < 0.15 ? "\"" : ",", rgb([100, 160, 70], 0.5)); break;
           case 1: put(c, r, ".", rgb([170, 130, 90], 0.6)); break;
