@@ -1,0 +1,518 @@
+<title>Neon Grid City</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Major+Mono+Display&display=swap">
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #07060d;
+    --ink: #d9d4f2;
+    --dim: #6f6891;
+    --pink: #ff3fa4;
+    --cyan: #3ff0ff;
+    --panel: rgba(12, 10, 24, 0.78);
+    --line: rgba(157, 107, 255, 0.35);
+  }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+    overflow: hidden;
+    touch-action: none;
+    user-select: none;
+  }
+  #screen { position: fixed; inset: 0; width: 100%; height: 100%; display: block; }
+  .hud {
+    position: fixed;
+    left: 16px;
+    right: 16px;
+    top: calc(12px + env(safe-area-inset-top, 0px));
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+    pointer-events: none;
+  }
+  .brand {
+    font-family: "Major Mono Display", "JetBrains Mono", ui-monospace, monospace;
+    font-size: 20px;
+    letter-spacing: 0.08em;
+    color: var(--pink);
+    text-shadow: 0 0 8px rgba(255, 63, 164, 0.7);
+  }
+  .readout {
+    font-size: 12px;
+    color: var(--dim);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.04em;
+  }
+  .readout b { color: var(--cyan); font-weight: 700; }
+  #modeBtn {
+    pointer-events: auto;
+    font: inherit;
+    font-size: 13px;
+    color: var(--cyan);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 8px 12px;
+    cursor: pointer;
+    letter-spacing: 0.06em;
+  }
+  #modeBtn:hover { border-color: var(--cyan); }
+  #modeBtn:focus-visible, .pad button:focus-visible { outline: 2px solid var(--pink); outline-offset: 2px; }
+  .help {
+    position: fixed;
+    left: 16px;
+    bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+    font-size: 12px;
+    color: var(--dim);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 8px 10px;
+    line-height: 1.6;
+    max-width: calc(100% - 32px);
+    pointer-events: none;
+  }
+  .help kbd { color: var(--ink); font-family: inherit; }
+  .pad {
+    position: fixed;
+    right: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+    display: grid;
+    grid-template-columns: repeat(3, 52px);
+    grid-template-rows: repeat(2, 52px);
+    gap: 6px;
+  }
+  .pad button {
+    font: inherit;
+    font-size: 18px;
+    color: var(--ink);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    touch-action: none;
+  }
+  .pad button:active { border-color: var(--pink); color: var(--pink); }
+  .pad .up { grid-column: 2; grid-row: 1; }
+  .pad .left { grid-column: 1; grid-row: 2; }
+  .pad .down { grid-column: 2; grid-row: 2; }
+  .pad .right { grid-column: 3; grid-row: 2; }
+  @media (hover: hover) and (pointer: fine) { .pad { display: none; } }
+  @media (hover: none) { .help { display: none; } }
+</style>
+
+<canvas id="screen" aria-label="ASCII city view"></canvas>
+
+<div class="hud">
+  <div class="brand">neon//grid</div>
+  <div class="readout" id="readout">mode <b>3D</b></div>
+  <button id="modeBtn" type="button">Switch to map view [M]</button>
+</div>
+
+<div class="help">
+  <kbd>W</kbd>/<kbd>S</kbd> walk &nbsp; <kbd>A</kbd>/<kbd>D</kbd> turn &nbsp; <kbd>Q</kbd>/<kbd>E</kbd> strafe &nbsp; <kbd>Shift</kbd> run &nbsp; <kbd>M</kbd> or <kbd>Tab</kbd> switch view
+</div>
+
+<div class="pad" aria-label="Touch controls">
+  <button class="up" id="padUp" type="button" aria-label="Walk forward">▲</button>
+  <button class="left" id="padLeft" type="button" aria-label="Turn left">◀</button>
+  <button class="down" id="padDown" type="button" aria-label="Walk back">▼</button>
+  <button class="right" id="padRight" type="button" aria-label="Turn right">▶</button>
+</div>
+
+<script>
+(() => {
+  const canvas = document.getElementById("screen");
+  const ctx = canvas.getContext("2d");
+  const readout = document.getElementById("readout");
+  const modeBtn = document.getElementById("modeBtn");
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // ---------- City generation ----------
+  const N = 72;                 // map is N x N tiles
+  const BLOCK = 9;              // street grid spacing
+  const map = new Uint8Array(N * N);   // 0 = street, 1..5 = building palette
+  const height = new Float32Array(N * N);
+  const signs = new Map();      // tile index -> sign
+  let seed = 1337;
+  const rand = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296);
+  const hash = (a, b, c) => {
+    let h = (a * 374761393 + b * 668265263 + c * 2147483647) >>> 0;
+    h = ((h ^ (h >>> 13)) * 1274126177) >>> 0;
+    return ((h ^ (h >>> 16)) >>> 0) / 4294967296;
+  };
+
+  const PALETTE = [
+    null,
+    [255, 63, 164],   // magenta
+    [63, 240, 255],   // cyan
+    [157, 107, 255],  // violet
+    [255, 179, 71],   // amber
+    [80, 255, 170],   // mint
+  ];
+  const SIGN_WORDS = ["RAMEN", "HOTEL", "CYBER", "NOODLE", "BAR", "OPEN 24H", "KARAOKE", "PACHINKO", "CLINIC", "ARCADE", "SUSHI", "DATA", "NEON", "TAXI", "PHARMA", "CAFE"];
+
+  const isStreetLine = (v) => {
+    const m = v % BLOCK;
+    return m === 0 || m === 1;
+  };
+  for (let y = 0; y < N; y++) {
+    for (let x = 0; x < N; x++) {
+      const i = y * N + x;
+      if (x === 0 || y === 0 || x === N - 1 || y === N - 1) {
+        map[i] = 3; height[i] = 5; continue;
+      }
+      if (isStreetLine(x) || isStreetLine(y)) { map[i] = 0; continue; }
+      // alleys and plazas
+      const bx = Math.floor(x / BLOCK), by = Math.floor(y / BLOCK);
+      const plaza = hash(bx, by, 7) < 0.1;
+      const alley = (hash(bx, by, 3) < 0.5) ? (x % BLOCK === 5) : (y % BLOCK === 5);
+      if (plaza || (alley && hash(bx, by, 11) < 0.6)) { map[i] = 0; continue; }
+      const t = 1 + Math.floor(hash(bx * 3 + (x > bx * BLOCK + 4 ? 1 : 0), by * 3 + (y > by * BLOCK + 4 ? 1 : 0), 5) * 5);
+      map[i] = t;
+      height[i] = 1.4 + hash(x >> 1, y >> 1, 9) * 3.2;
+    }
+  }
+  const isWall = (x, y) => {
+    if (x < 0 || y < 0 || x >= N || y >= N) return true;
+    return map[(y | 0) * N + (x | 0)] !== 0;
+  };
+  // Signs on building tiles that face a street
+  for (let y = 1; y < N - 1; y++) {
+    for (let x = 1; x < N - 1; x++) {
+      const i = y * N + x;
+      if (!map[i]) continue;
+      const facesStreet = !map[i - 1] || !map[i + 1] || !map[i - N] || !map[i + N];
+      if (facesStreet && rand() < 0.14) {
+        const color = PALETTE[1 + Math.floor(rand() * 5)];
+        signs.set(i, { word: SIGN_WORDS[Math.floor(rand() * SIGN_WORDS.length)], color, phase: rand() * 10, level: 0.6 + rand() * 0.8 });
+      }
+    }
+  }
+
+  // ---------- Player and pedestrians ----------
+  const player = { x: 1.5 + BLOCK * 2, y: 1.0 + BLOCK * 2, a: 0.35 };
+  const peds = [];
+  const PED_COLORS = [[255, 220, 240], [200, 255, 255], [255, 230, 180], [220, 200, 255]];
+  for (let k = 0; k < 90; k++) {
+    let x, y;
+    do { x = 1 + rand() * (N - 2); y = 1 + rand() * (N - 2); } while (isWall(x, y));
+    peds.push({ x, y, a: Math.floor(rand() * 4) * Math.PI / 2, speed: 0.6 + rand() * 0.8, color: PED_COLORS[k % 4], t: rand() * 5 });
+  }
+
+  // ---------- Input ----------
+  const keys = new Set();
+  let mode = "3d";
+  try { if (localStorage.getItem("neongrid-mode") === "map") mode = "map"; } catch (e) {}
+  const setMode = (m) => {
+    mode = m;
+    modeBtn.textContent = mode === "3d" ? "Switch to map view [M]" : "Switch to 3D view [M]";
+    try { localStorage.setItem("neongrid-mode", mode); } catch (e) {}
+  };
+  setMode(mode);
+  modeBtn.addEventListener("click", () => { setMode(mode === "3d" ? "map" : "3d"); modeBtn.blur(); });
+  window.addEventListener("keydown", (e) => {
+    const k = e.key.toLowerCase();
+    if (k === "m" || k === "tab") { e.preventDefault(); if (!e.repeat) setMode(mode === "3d" ? "map" : "3d"); return; }
+    if (["arrowup", "arrowdown", "arrowleft", "arrowright", " "].includes(k)) e.preventDefault();
+    keys.add(k);
+    if (e.shiftKey) keys.add("shift");
+  });
+  window.addEventListener("keyup", (e) => {
+    keys.delete(e.key.toLowerCase());
+    if (!e.shiftKey) keys.delete("shift");
+  });
+  window.addEventListener("blur", () => keys.clear());
+  const bindPad = (id, key) => {
+    const el = document.getElementById(id);
+    el.addEventListener("pointerdown", (e) => { e.preventDefault(); keys.add(key); el.setPointerCapture(e.pointerId); });
+    const up = () => keys.delete(key);
+    el.addEventListener("pointerup", up);
+    el.addEventListener("pointercancel", up);
+  };
+  bindPad("padUp", "w"); bindPad("padDown", "s"); bindPad("padLeft", "a"); bindPad("padRight", "d");
+
+  // ---------- Canvas / character grid ----------
+  let W = 0, H = 0, cw = 8, ch = 16, cols = 80, rows = 40, fontSize = 14;
+  const resize = () => {
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    W = window.innerWidth; H = window.innerHeight;
+    canvas.width = Math.floor(W * dpr); canvas.height = Math.floor(H * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    fontSize = W < 600 ? 11 : 14;
+    ctx.font = `700 ${fontSize}px "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace`;
+    cw = Math.ceil(ctx.measureText("M").width);
+    ch = Math.ceil(fontSize * 1.15);
+    cols = Math.ceil(W / cw);
+    rows = Math.ceil(H / ch);
+  };
+  window.addEventListener("resize", resize);
+  if (document.fonts && document.fonts.load) {
+    document.fonts.load('700 14px "JetBrains Mono"').then(resize, () => {});
+  }
+  resize();
+
+  const BG = [7, 6, 13];
+  const rgb = (c, k) => `rgb(${(BG[0] + (c[0] - BG[0]) * k) | 0},${(BG[1] + (c[1] - BG[1]) * k) | 0},${(BG[2] + (c[2] - BG[2]) * k) | 0})`;
+  const put = (col, row, chr, color) => {
+    ctx.fillStyle = color;
+    ctx.fillText(chr, col * cw, row * ch);
+  };
+  const RAMP = "#%=+-::...";
+
+  // Rain particles in screen space (fraction coordinates)
+  const rain = [];
+  for (let i = 0; i < 260; i++) rain.push({ x: Math.random(), y: Math.random(), v: 0.6 + Math.random() * 0.8 });
+
+  // ---------- Movement ----------
+  const tryMove = (o, dx, dy, r) => {
+    if (!isWall(o.x + dx + Math.sign(dx) * r, o.y)) o.x += dx;
+    if (!isWall(o.x, o.y + dy + Math.sign(dy) * r)) o.y += dy;
+  };
+  const update = (dt) => {
+    const run = keys.has("shift") ? 2.1 : 1;
+    const speed = 3.2 * run * dt, turn = 2.4 * dt;
+    if (keys.has("a") || keys.has("arrowleft")) player.a -= turn;
+    if (keys.has("d") || keys.has("arrowright")) player.a += turn;
+    const fx = Math.cos(player.a), fy = Math.sin(player.a);
+    let mx = 0, my = 0;
+    if (keys.has("w") || keys.has("arrowup")) { mx += fx; my += fy; }
+    if (keys.has("s") || keys.has("arrowdown")) { mx -= fx; my -= fy; }
+    if (keys.has("q")) { mx += fy; my -= fx; }
+    if (keys.has("e")) { mx -= fy; my += fx; }
+    const len = Math.hypot(mx, my);
+    if (len > 0) tryMove(player, mx / len * speed, my / len * speed, 0.22);
+
+    for (const p of peds) {
+      p.t -= dt;
+      const nx = p.x + Math.cos(p.a) * p.speed * dt, ny = p.y + Math.sin(p.a) * p.speed * dt;
+      if (isWall(nx + Math.cos(p.a) * 0.3, ny + Math.sin(p.a) * 0.3) || p.t < 0) {
+        p.a = Math.floor(Math.random() * 4) * Math.PI / 2;
+        p.t = 2 + Math.random() * 6;
+      } else { p.x = nx; p.y = ny; }
+    }
+    if (!reduceMotion) {
+      for (const d of rain) {
+        d.y += d.v * dt * 1.4; d.x -= d.v * dt * 0.15;
+        if (d.y > 1) { d.y = 0; d.x = Math.random() * 1.2; }
+        if (d.x < 0) d.x += 1.2;
+      }
+    }
+  };
+
+  // ---------- 3D view: raycast at character resolution ----------
+  const zbuf = new Float32Array(1024);
+  const render3D = (time) => {
+    const horizon = Math.floor(rows * 0.5);
+    const dirX = Math.cos(player.a), dirY = Math.sin(player.a);
+    const fov = 0.66 * Math.min(1.6, Math.max(0.7, (W / H) / 1.4));
+    const planeX = -dirY * fov, planeY = dirX * fov;
+    // Characters are roughly twice as tall as wide, so a wall one tile high spans this many rows at distance 1.
+    const unitRows = (cols * cw) / (2 * fov) / ch;
+
+    // Sky: stars and a faint glow near the horizon
+    for (let r = 0; r < horizon; r++) {
+      const glow = Math.max(0, (r - horizon * 0.45) / (horizon * 0.55));
+      for (let c = 0; c < cols; c++) {
+        const skyCol = Math.floor(c + player.a * cols / (2 * fov) * 0.5 * 2);
+        const s = hash(((skyCol % 4096) + 4096) % 4096, r, 1);
+        if (s < 0.012) put(c, r, s < 0.004 ? "*" : ".", rgb([200, 190, 255], 0.5 + 0.5 * Math.sin(time * 2 + s * 900)));
+        else if (glow > 0 && hash(c, r, time | 0) < glow * 0.08) put(c, r, "-", rgb([157, 107, 255], glow * 0.35));
+      }
+    }
+
+    // Street surface
+    for (let r = horizon + 1; r < rows; r++) {
+      const dist = unitRows * 0.5 / (r - horizon);
+      const k = Math.min(1, 1.3 / (1 + dist * 0.35));
+      for (let c = 0; c < cols; c++) {
+        const cameraX = 2 * c / cols - 1;
+        const wx = player.x + (dirX + planeX * cameraX) * dist;
+        const wy = player.y + (dirY + planeY * cameraX) * dist;
+        const tx = Math.floor(wx), ty = Math.floor(wy);
+        const fxw = wx - tx, fyw = wy - ty;
+        let chr = ".", col = [90, 80, 130];
+        // lane markings along street centre lines
+        const onLaneX = tx % BLOCK === 0 && fxw > 0.9 && (Math.floor(wy * 2) % 2 === 0);
+        const onLaneY = ty % BLOCK === 0 && fyw > 0.9 && (Math.floor(wx * 2) % 2 === 0);
+        if (onLaneX || onLaneY) { chr = "="; col = [255, 179, 71]; }
+        else if (hash(Math.floor(wx * 3), Math.floor(wy * 3), 2) < 0.08) { chr = "~"; col = [63, 240, 255]; } // puddles
+        else if (hash(Math.floor(wx * 4), Math.floor(wy * 4), 4) > 0.55) continue;
+        put(c, r, chr, rgb(col, k * 0.55));
+      }
+    }
+
+    // Walls
+    for (let c = 0; c < cols; c++) {
+      const cameraX = 2 * c / cols - 1;
+      const rdx = dirX + planeX * cameraX, rdy = dirY + planeY * cameraX;
+      let mx = Math.floor(player.x), my = Math.floor(player.y);
+      const ddx = Math.abs(1 / rdx), ddy = Math.abs(1 / rdy);
+      let stepX, stepY, sdx, sdy;
+      if (rdx < 0) { stepX = -1; sdx = (player.x - mx) * ddx; } else { stepX = 1; sdx = (mx + 1 - player.x) * ddx; }
+      if (rdy < 0) { stepY = -1; sdy = (player.y - my) * ddy; } else { stepY = 1; sdy = (my + 1 - player.y) * ddy; }
+      let side = 0, hit = 0, guard = 0;
+      while (!hit && guard++ < 200) {
+        if (sdx < sdy) { sdx += ddx; mx += stepX; side = 0; } else { sdy += ddy; my += stepY; side = 1; }
+        if (mx < 0 || my < 0 || mx >= N || my >= N) break;
+        hit = map[my * N + mx];
+      }
+      if (!hit) { zbuf[c] = 1e9; continue; }
+      const dist = side === 0 ? sdx - ddx : sdy - ddy;
+      zbuf[c] = dist;
+      let u = side === 0 ? player.y + dist * rdy : player.x + dist * rdx;
+      u -= Math.floor(u);
+      const idx = my * N + mx;
+      const hTiles = height[idx];
+      const unit = unitRows / Math.max(dist, 0.05);
+      const bottom = horizon + unit * 0.5;
+      const top = bottom - unit * hTiles;
+      const r0 = Math.max(0, Math.floor(top)), r1 = Math.min(rows - 1, Math.floor(bottom));
+      const base = PALETTE[hit];
+      const fog = Math.min(1, 1.6 / (1 + dist * 0.18)) * (side ? 0.72 : 1);
+      const sign = signs.get(idx);
+      const floors = hTiles * 3;
+      for (let r = r0; r <= r1; r++) {
+        const v = (bottom - r) / unit;            // height above street in tiles
+        const fv = v * 3;                          // floor units
+        const winU = u * 3;
+        const inWin = (winU % 1) > 0.25 && (winU % 1) < 0.75 && (fv % 1) > 0.3 && (fv % 1) < 0.8 && fv > 0.8 && fv < floors - 0.2;
+        if (sign && v > sign.level * 0.5 && v < sign.level * 0.5 + 0.28) {
+          const flick = reduceMotion ? 1 : (Math.sin(time * 9 + sign.phase) > -0.85 ? 1 : 0.25);
+          const letter = sign.word[Math.min(sign.word.length - 1, Math.floor(u * sign.word.length))];
+          put(c, r, letter === " " ? "·" : letter, rgb(sign.color, Math.min(1, fog * 1.4) * flick));
+          continue;
+        }
+        if (inWin) {
+          const lit = hash(idx, Math.floor(fv), Math.floor(winU) + side * 7);
+          if (lit > 0.55) { put(c, r, "▪", rgb(lit > 0.85 ? [255, 230, 160] : base, fog)); continue; }
+          put(c, r, ":", rgb(base, fog * 0.25));
+          continue;
+        }
+        const edge = u < 0.04 || u > 0.96 || r === r0 && top >= 0;
+        const shade = Math.min(RAMP.length - 1, Math.floor((1 - fog) * RAMP.length));
+        put(c, r, edge ? "|" : RAMP[shade], rgb(base, fog * (edge ? 0.6 : 0.22)));
+      }
+      // wet-street reflection of the base of the wall
+      if (!reduceMotion && r1 + 1 < rows && dist < 12) {
+        const rr = r1 + 1 + ((time * 6 + c) % 2 | 0);
+        if (rr < rows) put(c, rr, "~", rgb(sign ? sign.color : base, fog * 0.25));
+      }
+    }
+
+    // Pedestrians as billboards
+    const invDet = 1 / (planeX * dirY - dirX * planeY);
+    const visible = [];
+    for (const p of peds) {
+      const sx = p.x - player.x, sy = p.y - player.y;
+      const tx = invDet * (dirY * sx - dirX * sy);
+      const ty = invDet * (-planeY * sx + planeX * sy);
+      if (ty > 0.3 && ty < 22) visible.push({ p, tx, ty });
+    }
+    visible.sort((a, b) => b.ty - a.ty);
+    for (const { p, tx, ty } of visible) {
+      const screenC = Math.floor((cols / 2) * (1 + tx / ty));
+      const unit = unitRows / ty;
+      const bottom = horizon + unit * 0.5;
+      const hgt = unit * 0.9;
+      const wid = Math.max(1, Math.round(hgt * ch / cw * 0.12));
+      const fog = Math.min(1, 1.6 / (1 + ty * 0.2));
+      const top = bottom - hgt;
+      for (let c = screenC - (wid >> 1); c <= screenC + (wid >> 1); c++) {
+        if (c < 0 || c >= cols || zbuf[c] < ty) continue;
+        for (let r = Math.max(0, Math.floor(top)); r <= Math.min(rows - 1, Math.floor(bottom)); r++) {
+          const f = (r - top) / hgt;
+          const chr = f < 0.18 ? "o" : f < 0.6 ? (c === screenC ? "H" : "#") : (c === screenC ? " " : "|");
+          if (chr !== " ") put(c, r, chr, rgb(p.color, fog));
+        }
+      }
+    }
+  };
+
+  // ---------- Map view: top-down ----------
+  const renderMap = (time) => {
+    const tileW = 2;  // two characters per tile keeps tiles roughly square
+    const viewW = Math.ceil(cols / tileW), viewH = rows;
+    const ox = player.x - viewW / 2, oy = player.y - viewH / 2;
+    for (let r = 0; r < viewH; r++) {
+      const wy = Math.floor(oy + r);
+      for (let tc = 0; tc < viewW; tc++) {
+        const wx = Math.floor(ox + tc);
+        if (wx < 0 || wy < 0 || wx >= N || wy >= N) continue;
+        const i = wy * N + wx;
+        const t = map[i];
+        const c0 = tc * tileW;
+        if (t) {
+          const sign = signs.get(i);
+          if (sign) {
+            const flick = reduceMotion ? 1 : (Math.sin(time * 9 + sign.phase) > -0.85 ? 1 : 0.3);
+            put(c0, r, sign.word[0], rgb(sign.color, flick));
+            put(c0 + 1, r, sign.word[1] || "·", rgb(sign.color, flick));
+            continue;
+          }
+          const h = height[i];
+          const k = 0.3 + h / 4.6 * 0.55;
+          for (let s = 0; s < tileW; s++) {
+            const lit = hash(i, s, Math.floor(time * 0.3 + hash(i, s, 1) * 8)) > 0.8;
+            put(c0 + s, r, lit ? "▪" : (h > 3.4 ? "#" : h > 2.2 ? "%" : "+"), rgb(lit ? [255, 230, 160] : PALETTE[t], lit ? 0.8 : k));
+          }
+        } else {
+          const laneV = wx % BLOCK === 0 && wy % 2 === 0 && !isStreetLine(wy);
+          const laneH = wy % BLOCK === 0 && !isStreetLine(wx);
+          if (laneH) { put(c0, r, "-", rgb([255, 179, 71], 0.35)); put(c0 + 1, r, " ", "#000"); }
+          else if (laneV) put(c0 + 1, r, "¦", rgb([255, 179, 71], 0.35));
+          else if (hash(wx, wy, 2) < 0.08) put(c0, r, "~", rgb([63, 240, 255], 0.3));
+          else if (hash(wx, wy, 4) < 0.3) put(c0 + (hash(wx, wy, 5) < 0.5 ? 0 : 1), r, ".", rgb([90, 80, 130], 0.5));
+        }
+      }
+    }
+    for (const p of peds) {
+      const tc = Math.floor((p.x - ox) * tileW), r = Math.floor(p.y - oy);
+      if (tc >= 0 && tc < cols && r >= 0 && r < rows) put(tc, r, "@", rgb(p.color, 0.9));
+    }
+    // player with a short view cone
+    const pc = Math.floor((player.x - ox) * tileW), pr = Math.floor(player.y - oy);
+    for (let d = 1; d <= 3; d++) {
+      for (const off of [-0.35, 0, 0.35]) {
+        const cx = Math.floor((player.x + Math.cos(player.a + off) * d - ox) * tileW);
+        const cy = Math.floor(player.y + Math.sin(player.a + off) * d - oy);
+        if (!isWall(player.x + Math.cos(player.a + off) * d, player.y + Math.sin(player.a + off) * d)) put(cx, cy, "·", rgb([255, 63, 164], 0.6 - d * 0.12));
+      }
+    }
+    const arrows = [">", "v", "<", "^"];
+    const ai = ((Math.round(player.a / (Math.PI / 2)) % 4) + 4) % 4;
+    ctx.save();
+    ctx.shadowColor = "rgba(255,63,164,0.9)"; ctx.shadowBlur = 10;
+    put(pc, pr, arrows[ai], "#ff3fa4");
+    ctx.restore();
+  };
+
+  const renderRain = () => {
+    for (const d of rain) {
+      const c = Math.floor(d.x * cols), r = Math.floor(d.y * rows);
+      put(c, r, mode === "3d" ? "|" : "/", "rgba(120,140,220,0.35)");
+    }
+  };
+
+  // ---------- Main loop ----------
+  let last = performance.now();
+  const frame = (now) => {
+    const dt = Math.min(0.05, (now - last) / 1000);
+    last = now;
+    const time = now / 1000;
+    update(dt);
+    ctx.fillStyle = "#07060d";
+    ctx.fillRect(0, 0, W, H);
+    ctx.font = `700 ${fontSize}px "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace`;
+    ctx.textBaseline = "top";
+    if (mode === "3d") render3D(time); else renderMap(time);
+    renderRain();
+    const heading = ((player.a * 180 / Math.PI) % 360 + 360) % 360;
+    const compass = ["E", "SE", "S", "SW", "W", "NW", "N", "NE"][Math.round(heading / 45) % 8];
+    readout.innerHTML = `mode <b>${mode === "3d" ? "3D" : "MAP"}</b> &nbsp; x <b>${player.x.toFixed(1)}</b> y <b>${player.y.toFixed(1)}</b> &nbsp; facing <b>${compass}</b>`;
+    requestAnimationFrame(frame);
+  };
+  requestAnimationFrame(frame);
+})();
+</script>
