@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCXwDLMDV86ldKoFVc_g8P0g",
   "title": "BFMTV",
   "thumb": "https://yt3.ggpht.com/l5yh1ebjlfahsfKc48zmOeqU-QGi3EMRN2hQPcK5wfTJ7MheP1fB3hId08940ANl_AK1RtHt=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 11.39,
   "sources": [
@@ -29,6 +29,34 @@
       "label": "List of fires in high-rise buildings",
       "url": "https://en.wikipedia.org/wiki/List_of_fires_in_high-rise_buildings",
       "firstSeenAt": "2026-09-04T11:15:20.459Z"
+    },
+    {
+      "id": "channel:UCUsBMOIUl_ad6JUOC16DpmQ",
+      "type": "channel",
+      "label": "BFM Business",
+      "url": "https://www.youtube.com/channel/UCUsBMOIUl_ad6JUOC16DpmQ",
+      "firstSeenAt": "2026-09-25T11:48:20.805Z"
+    },
+    {
+      "id": "channel:UCUaHJ0fTA-1theR8A8Polmw",
+      "type": "channel",
+      "label": "BFM Tech",
+      "url": "https://www.youtube.com/channel/UCUaHJ0fTA-1theR8A8Polmw",
+      "firstSeenAt": "2026-09-25T11:48:21.144Z"
+    },
+    {
+      "id": "channel:UCgGb7tN3tIH5_Kk05D1J_bA",
+      "type": "channel",
+      "label": "RMC",
+      "url": "https://www.youtube.com/channel/UCgGb7tN3tIH5_Kk05D1J_bA",
+      "firstSeenAt": "2026-09-25T11:48:21.307Z"
+    },
+    {
+      "id": "channel:UC4SBMSEO6V6ukPU4JhJ2D_g",
+      "type": "channel",
+      "label": "La Sélec'",
+      "url": "https://www.youtube.com/channel/UC4SBMSEO6V6ukPU4JhJ2D_g",
+      "firstSeenAt": "2026-09-25T11:48:21.474Z"
     }
   ],
   "recentItems": []

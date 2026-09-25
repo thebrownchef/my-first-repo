@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCKhm-5-fODiwGQ94qVvRNyw",
   "title": "Axwell Λ Ingrosso",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n8eTSs5MkAp9HeQIjK3OJE0rlE3t56CIKykB3whrHrG-g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Axwell",
       "url": "https://www.youtube.com/channel/UC50qYwbzqNkvmpfhsosluZw",
       "firstSeenAt": "2026-09-02T11:15:20.908Z"
+    },
+    {
+      "id": "channel:UCJ_zXW1_UEg9HVTPaAKwYbQ",
+      "type": "channel",
+      "label": "Sebastian Ingrosso",
+      "url": "https://www.youtube.com/channel/UCJ_zXW1_UEg9HVTPaAKwYbQ",
+      "firstSeenAt": "2026-09-25T11:48:17.284Z"
     }
   ],
   "recentItems": []

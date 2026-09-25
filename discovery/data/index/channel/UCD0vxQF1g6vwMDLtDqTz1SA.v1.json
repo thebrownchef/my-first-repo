@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCD0vxQF1g6vwMDLtDqTz1SA",
   "title": "TFC The Filipino Channel",
   "thumb": "https://yt3.ggpht.com/wW4r_tYinqPCDJs-MVMWIQJn6-pC8wW09jWKcDYn9sPKmhvtLXxs9KtPqNRoDSH3hGmB45BS2w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 1.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "CineBro",
       "url": "https://www.youtube.com/channel/UCVXwGrb9hiA8Dr6NHa5ekQQ",
       "firstSeenAt": "2026-09-16T11:29:05.541Z"
+    },
+    {
+      "id": "channel:UCSkB4nUB0vtXcLdcnUVAN5Q",
+      "type": "channel",
+      "label": "ABS-CBN Balitang America",
+      "url": "https://www.youtube.com/channel/UCSkB4nUB0vtXcLdcnUVAN5Q",
+      "firstSeenAt": "2026-09-25T11:48:11.724Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UCRgEcyONlt8asRidnFfVjTw",
+  "title": "BBC Women's Football",
+  "thumb": "https://yt3.ggpht.com/mduMD0PuzDHnzs3DcIUgWgrYaBIRcNQsvaH00wiPBZ8kzw0fQAxO5-5-zV60WcpY__-XwcQ4qQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.95,
+  "sources": [
+    {
+      "id": "channel:UCW6-BQWFA70Dyyc7ZpZ9Xlg",
+      "type": "channel",
+      "label": "BBC Sport",
+      "url": "https://www.youtube.com/channel/UCW6-BQWFA70Dyyc7ZpZ9Xlg",
+      "firstSeenAt": "2026-09-02T11:15:26.010Z"
+    },
+    {
+      "id": "channel:UCli0KmmXMDjcgqvsheHfv-Q",
+      "type": "channel",
+      "label": "BBC Football",
+      "url": "https://www.youtube.com/channel/UCli0KmmXMDjcgqvsheHfv-Q",
+      "firstSeenAt": "2026-09-25T11:48:19.593Z"
+    }
+  ],
+  "recentItems": []
+}

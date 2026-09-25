@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UC-PbLusIBd3ECYtvz-f0EcQ",
   "title": "audiomack",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mUSALe-J3_dqdxr3QKYPAEQWOUD82xH_B90dBVf_w_Zw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ballin' (Mustard and Roddy Ricch song)",
       "url": "https://en.wikipedia.org/wiki/Ballin'_(Mustard_and_Roddy_Ricch_song)",
       "firstSeenAt": "2026-08-31T13:44:53.295Z"
+    },
+    {
+      "id": "channel:UC63w54h3TlzltdJROec_tUA",
+      "type": "channel",
+      "label": "audiomack Latin",
+      "url": "https://www.youtube.com/channel/UC63w54h3TlzltdJROec_tUA",
+      "firstSeenAt": "2026-09-25T11:48:20.108Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UCTpvpupT8b3FQJAm6XapQsA",
+  "title": "Sleuth Entertainment",
+  "thumb": "https://yt3.ggpht.com/l0vxb4k_kEJOAbEjdzPH1DIKg9-pDqAjvAvpPueTtqMalUd4gbAnJbxoEPDE2Ou1udG1iNQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "wiki:Tsuchiura",
+      "type": "wikipedia",
+      "label": "Tsuchiura",
+      "url": "https://en.wikipedia.org/wiki/Tsuchiura",
+      "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "channel:UCHE_Tpyc1JxXf0Q0cHw1UBQ",
+      "type": "channel",
+      "label": "Sleuth Films",
+      "url": "https://www.youtube.com/channel/UCHE_Tpyc1JxXf0Q0cHw1UBQ",
+      "firstSeenAt": "2026-09-25T11:48:18.718Z"
+    }
+  ],
+  "recentItems": []
+}

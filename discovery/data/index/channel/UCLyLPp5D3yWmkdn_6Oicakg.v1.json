@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UCLyLPp5D3yWmkdn_6Oicakg",
+  "title": "BBC Scottish Football",
+  "thumb": "https://yt3.ggpht.com/pJcdvYVNa9JB9iSv53WofkD306RMHWydPuJ9KEhQrPGjKNBp8HI-RhmtfQJQLrYI8GBDzk2kog=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 1.55,
+  "sources": [
+    {
+      "id": "channel:UCW6-BQWFA70Dyyc7ZpZ9Xlg",
+      "type": "channel",
+      "label": "BBC Sport",
+      "url": "https://www.youtube.com/channel/UCW6-BQWFA70Dyyc7ZpZ9Xlg",
+      "firstSeenAt": "2026-09-02T11:15:26.010Z"
+    },
+    {
+      "id": "channel:UCli0KmmXMDjcgqvsheHfv-Q",
+      "type": "channel",
+      "label": "BBC Football",
+      "url": "https://www.youtube.com/channel/UCli0KmmXMDjcgqvsheHfv-Q",
+      "firstSeenAt": "2026-09-25T11:48:19.594Z"
+    },
+    {
+      "id": "channel:UCRgEcyONlt8asRidnFfVjTw",
+      "type": "channel",
+      "label": "BBC Women's Football",
+      "url": "https://www.youtube.com/channel/UCRgEcyONlt8asRidnFfVjTw",
+      "firstSeenAt": "2026-09-25T11:48:19.716Z"
+    }
+  ],
+  "recentItems": []
+}

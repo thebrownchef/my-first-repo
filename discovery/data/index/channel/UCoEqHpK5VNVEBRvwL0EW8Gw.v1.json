@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCoEqHpK5VNVEBRvwL0EW8Gw",
   "title": "ITV",
   "thumb": "https://yt3.ggpht.com/Po0AejKZ0dGPAggCR4C0zoXXaCzAfpbbCAgZTOwxMPjavxeLVCja74yYZ_tVlbYalqQ5g9cFHqU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.56,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "The X Factor UK",
       "url": "https://www.youtube.com/channel/UCEY1ejsweY4DgMwOVJeEaBA",
       "firstSeenAt": "2026-09-21T12:45:08.315Z"
+    },
+    {
+      "id": "channel:UCZ_eBL_Lsi5LbFYCv3Exrhg",
+      "type": "channel",
+      "label": "Walk The Line UK",
+      "url": "https://www.youtube.com/channel/UCZ_eBL_Lsi5LbFYCv3Exrhg",
+      "firstSeenAt": "2026-09-25T11:48:11.158Z"
+    },
+    {
+      "id": "channel:UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "type": "channel",
+      "label": "ITV",
+      "url": "https://www.youtube.com/channel/UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "firstSeenAt": "2026-09-25T11:48:11.314Z"
+    },
+    {
+      "id": "channel:UCHnq2JnRWVJ5OT6b021P92Q",
+      "type": "channel",
+      "label": "ITV Reality",
+      "url": "https://www.youtube.com/channel/UCHnq2JnRWVJ5OT6b021P92Q",
+      "firstSeenAt": "2026-09-25T11:48:11.463Z"
     }
   ],
   "recentItems": []

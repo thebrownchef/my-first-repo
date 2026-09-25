@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UC-FQUIVQ-bZiefzBiQAa8Fw",
   "title": "BBC Radio 1",
   "thumb": "https://yt3.ggpht.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "BBC Radio 6 Music",
       "url": "https://www.youtube.com/channel/UCqV-eYI6gwAYxQowEWosBkA",
       "firstSeenAt": "2026-09-13T11:48:32.534Z"
+    },
+    {
+      "id": "channel:UCYw-R4_yue3aGJu1xDO6cog",
+      "type": "channel",
+      "label": "BBC Radio 2",
+      "url": "https://www.youtube.com/channel/UCYw-R4_yue3aGJu1xDO6cog",
+      "firstSeenAt": "2026-09-25T11:48:19.012Z"
     }
   ],
   "recentItems": []

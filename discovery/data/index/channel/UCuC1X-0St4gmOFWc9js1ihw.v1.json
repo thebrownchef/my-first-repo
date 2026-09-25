@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UCuC1X-0St4gmOFWc9js1ihw",
+  "title": "Blue Peter",
+  "thumb": "https://yt3.ggpht.com/fDbP-RlcrdurKZnTEQ7UBuC8tqgpGyGpRo328X7Dr_0TSMTmPF0Bsbhf_rybi0fLvPEWR5PRBg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.29,
+  "sources": [
+    {
+      "id": "channel:UCF59R3Q5iPLX0F1S7BL09rw",
+      "type": "channel",
+      "label": "CBBC",
+      "url": "https://www.youtube.com/channel/UCF59R3Q5iPLX0F1S7BL09rw",
+      "firstSeenAt": "2026-09-13T11:48:29.929Z"
+    },
+    {
+      "id": "channel:UC0fXNmjDoC7ckPyT6qM8Urw",
+      "type": "channel",
+      "label": "CBeebies",
+      "url": "https://www.youtube.com/channel/UC0fXNmjDoC7ckPyT6qM8Urw",
+      "firstSeenAt": "2026-09-25T11:48:19.154Z"
+    },
+    {
+      "id": "channel:UCWtt1fBUi8VOOx7C3-156nw",
+      "type": "channel",
+      "label": "CBBC Non-Stop Cartoons",
+      "url": "https://www.youtube.com/channel/UCWtt1fBUi8VOOx7C3-156nw",
+      "firstSeenAt": "2026-09-25T11:48:19.271Z"
+    }
+  ],
+  "recentItems": []
+}

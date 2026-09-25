@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UChFsYLqPUyLiZnfRog6wiZA",
   "title": "This Morning",
   "thumb": "https://yt3.ggpht.com/hmcnNFRQit-KyN9A5G7ryMwuMcLtxsjQCzLzyJLz4XLdvxinKp9ph-ikmiaw0-UCPvJc5A6C2g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 2.4,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "This Morning",
       "url": "https://www.youtube.com/channel/UChFsYLqPUyLiZnfRog6wiZA",
       "firstSeenAt": "2026-09-02T11:15:27.806Z"
+    },
+    {
+      "id": "channel:UCZ_eBL_Lsi5LbFYCv3Exrhg",
+      "type": "channel",
+      "label": "Walk The Line UK",
+      "url": "https://www.youtube.com/channel/UCZ_eBL_Lsi5LbFYCv3Exrhg",
+      "firstSeenAt": "2026-09-25T11:48:11.160Z"
+    },
+    {
+      "id": "channel:UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "type": "channel",
+      "label": "ITV",
+      "url": "https://www.youtube.com/channel/UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "firstSeenAt": "2026-09-25T11:48:11.316Z"
+    },
+    {
+      "id": "channel:UChJfh0Y4ycfMbf2SHQzRasg",
+      "type": "channel",
+      "label": "Loose Women",
+      "url": "https://www.youtube.com/channel/UChJfh0Y4ycfMbf2SHQzRasg",
+      "firstSeenAt": "2026-09-25T11:48:20.299Z"
+    },
+    {
+      "id": "channel:UCq18eeL7D9Vd8DhjMcLh9QQ",
+      "type": "channel",
+      "label": "Good Morning Britain",
+      "url": "https://www.youtube.com/channel/UCq18eeL7D9Vd8DhjMcLh9QQ",
+      "firstSeenAt": "2026-09-25T11:48:20.347Z"
+    },
+    {
+      "id": "channel:UCM0cwESe107DHyGpEUx1n4Q",
+      "type": "channel",
+      "label": "Lorraine",
+      "url": "https://www.youtube.com/channel/UCM0cwESe107DHyGpEUx1n4Q",
+      "firstSeenAt": "2026-09-25T11:48:20.383Z"
     }
   ],
   "recentItems": []

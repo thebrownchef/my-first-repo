@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UC0RrHgDzFBjZkloRtjYKhrQ",
+  "title": "ITV Retro",
+  "thumb": "https://yt3.ggpht.com/lUPo_AbXI7qNZs2X-AxUaxqrGqudRQ1ecszr8U_pB6LX5Vqz36LxmrIXoCsbTPWR5-p045JblNA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.63,
+  "sources": [
+    {
+      "id": "channel:UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "type": "channel",
+      "label": "ITV",
+      "url": "https://www.youtube.com/channel/UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "firstSeenAt": "2026-09-25T11:48:11.315Z"
+    },
+    {
+      "id": "channel:UCHnq2JnRWVJ5OT6b021P92Q",
+      "type": "channel",
+      "label": "ITV Reality",
+      "url": "https://www.youtube.com/channel/UCHnq2JnRWVJ5OT6b021P92Q",
+      "firstSeenAt": "2026-09-25T11:48:11.464Z"
+    }
+  ],
+  "recentItems": []
+}

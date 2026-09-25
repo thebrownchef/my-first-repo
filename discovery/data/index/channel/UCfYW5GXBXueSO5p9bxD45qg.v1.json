@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UCfYW5GXBXueSO5p9bxD45qg",
+  "title": "BBC Global",
+  "thumb": "https://yt3.ggpht.com/KvlsT98KrDfSOA0hKDxzzRBY5xIMya-24TY_Bi640zwRctmljAuAkYOa3s1T4ZMmq9O7fBs66A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.25,
+  "sources": [
+    {
+      "id": "channel:UCwmZiChSryoWQCZMIQezgTg",
+      "type": "channel",
+      "label": "BBC Earth",
+      "url": "https://www.youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg",
+      "firstSeenAt": "2026-09-17T11:38:44.890Z"
+    },
+    {
+      "id": "channel:UCDYT9mM3L_ByrPYMyl0MGGg",
+      "type": "channel",
+      "label": "BBC Ideas",
+      "url": "https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg",
+      "firstSeenAt": "2026-09-25T11:48:19.373Z"
+    }
+  ],
+  "recentItems": []
+}

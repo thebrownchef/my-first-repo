@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCHnq2JnRWVJ5OT6b021P92Q",
   "title": "ITV Reality",
   "thumb": "https://yt3.ggpht.com/M1H1icNn9NzrUPeCIjKMbxVycnvFsvfTtHuc76C4S4kddp2HnQPb-rRn02FmaSbE7lA7wWxXXQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "British Stuff TV",
       "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
       "firstSeenAt": "2026-09-06T10:53:26.527Z"
+    },
+    {
+      "id": "channel:UCZ_eBL_Lsi5LbFYCv3Exrhg",
+      "type": "channel",
+      "label": "Walk The Line UK",
+      "url": "https://www.youtube.com/channel/UCZ_eBL_Lsi5LbFYCv3Exrhg",
+      "firstSeenAt": "2026-09-25T11:48:11.159Z"
+    },
+    {
+      "id": "channel:UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "type": "channel",
+      "label": "ITV",
+      "url": "https://www.youtube.com/channel/UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "firstSeenAt": "2026-09-25T11:48:11.314Z"
     }
   ],
   "recentItems": []

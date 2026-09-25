@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UCqV-eYI6gwAYxQowEWosBkA",
+  "title": "BBC Radio 6 Music",
+  "thumb": "https://yt3.ggpht.com/sNoKRbrdd9n835RDv57bPU2fk_Og3F4ZuedO_6OJtN83n2uVdsYqzDUmHhUUFkb9lpE4wp4a=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.13,
+  "sources": [
+    {
+      "id": "wiki:Breakout (Foo Fighters song)",
+      "type": "wikipedia",
+      "label": "Breakout (Foo Fighters song)",
+      "url": "https://en.wikipedia.org/wiki/Breakout_(Foo_Fighters_song)",
+      "firstSeenAt": "2026-09-03T11:10:54.337Z"
+    },
+    {
+      "id": "channel:UCYw-R4_yue3aGJu1xDO6cog",
+      "type": "channel",
+      "label": "BBC Radio 2",
+      "url": "https://www.youtube.com/channel/UCYw-R4_yue3aGJu1xDO6cog",
+      "firstSeenAt": "2026-09-25T11:48:19.013Z"
+    }
+  ],
+  "recentItems": []
+}

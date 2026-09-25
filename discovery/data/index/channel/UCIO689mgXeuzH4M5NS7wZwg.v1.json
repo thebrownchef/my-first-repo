@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCIO689mgXeuzH4M5NS7wZwg",
   "title": "Stoned Gremlin Productions",
   "thumb": "https://yt3.ggpht.com/95ytgJ8hEnhIAnqPyTYBiyBqaDM0w2xR3cR3kE2N_m9I-KfXRexfiWCbAUNv_-CbNNblkPevaNc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.75,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Poochinski",
       "url": "https://en.wikipedia.org/wiki/Poochinski",
       "firstSeenAt": "2026-08-31T13:44:50.067Z"
+    },
+    {
+      "id": "channel:UCiH828EtgQjTyNIMH6YiOSw",
+      "type": "channel",
+      "label": "Channel Awesome",
+      "url": "https://www.youtube.com/channel/UCiH828EtgQjTyNIMH6YiOSw",
+      "firstSeenAt": "2026-09-25T11:48:10.639Z"
     }
   ],
   "recentItems": []

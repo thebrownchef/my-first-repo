@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UC4KN50fal7f45fx2DqG7ttg",
+  "title": "BBC Bitesize for Teachers",
+  "thumb": "https://yt3.ggpht.com/89zHXj6OkYVO5RLTRYzgIHDX7BppdYHtYLXvwnlG0NIwVFZE6VBaCa73pbQDmiB_o6cEUoVo=s88-c-k-c0x00ffffff-no-rj",
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 1,
+  "uploadsPerDay": 0.63,
+  "sources": [
+    {
+      "id": "channel:UCF59R3Q5iPLX0F1S7BL09rw",
+      "type": "channel",
+      "label": "CBBC",
+      "url": "https://www.youtube.com/channel/UCF59R3Q5iPLX0F1S7BL09rw",
+      "firstSeenAt": "2026-09-13T11:48:29.931Z"
+    },
+    {
+      "id": "channel:UC0fXNmjDoC7ckPyT6qM8Urw",
+      "type": "channel",
+      "label": "CBeebies",
+      "url": "https://www.youtube.com/channel/UC0fXNmjDoC7ckPyT6qM8Urw",
+      "firstSeenAt": "2026-09-25T11:48:19.153Z"
+    },
+    {
+      "id": "channel:UCWtt1fBUi8VOOx7C3-156nw",
+      "type": "channel",
+      "label": "CBBC Non-Stop Cartoons",
+      "url": "https://www.youtube.com/channel/UCWtt1fBUi8VOOx7C3-156nw",
+      "firstSeenAt": "2026-09-25T11:48:19.271Z"
+    },
+    {
+      "id": "channel:UCDYT9mM3L_ByrPYMyl0MGGg",
+      "type": "channel",
+      "label": "BBC Ideas",
+      "url": "https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg",
+      "firstSeenAt": "2026-09-25T11:48:19.374Z"
+    }
+  ],
+  "recentItems": []
+}

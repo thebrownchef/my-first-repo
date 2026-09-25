@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCeOvhU6RbmEj8GKFiIMWxKQ",
   "title": "FloGrappling",
   "thumb": "https://yt3.ggpht.com/H8Lmzt1j1ELTnATTNSQeMfkORKTki9Hm_99mvgmxF_7vLVzY84UUtlVNF-6ONYuMyRWiIyEt=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 1.49,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Tommy Langaker",
       "url": "https://en.wikipedia.org/wiki/Tommy_Langaker",
       "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "channel:UC3Mj0nm-7grOYZuqgo-LhmQ",
+      "type": "channel",
+      "label": "FloRugby",
+      "url": "https://www.youtube.com/channel/UC3Mj0nm-7grOYZuqgo-LhmQ",
+      "firstSeenAt": "2026-09-25T11:48:17.963Z"
+    },
+    {
+      "id": "channel:UC0OFPvrlWV-FiAVIYjBHkQg",
+      "type": "channel",
+      "label": "FloWrestling",
+      "url": "https://www.youtube.com/channel/UC0OFPvrlWV-FiAVIYjBHkQg",
+      "firstSeenAt": "2026-09-25T11:48:18.176Z"
+    },
+    {
+      "id": "channel:UCGX_r3XOkjuvaw_86teUmCQ",
+      "type": "channel",
+      "label": "FloCombat",
+      "url": "https://www.youtube.com/channel/UCGX_r3XOkjuvaw_86teUmCQ",
+      "firstSeenAt": "2026-09-25T11:48:18.238Z"
+    },
+    {
+      "id": "channel:UCfjGrUg4Y7T3Zf6fy38mAuw",
+      "type": "channel",
+      "label": "FloSports",
+      "url": "https://www.youtube.com/channel/UCfjGrUg4Y7T3Zf6fy38mAuw",
+      "firstSeenAt": "2026-09-25T11:48:18.352Z"
     }
   ],
   "recentItems": []

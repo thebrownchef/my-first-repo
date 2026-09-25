@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCx_wVpf59cvUvaXqWVngTWw",
   "title": "BBC Sounds",
   "thumb": "https://yt3.ggpht.com/3pHxTs1tBASwZUBgUnkqlbBBbHTT_huG-zPBT2f17A7sm39Gi1SdTJIs1DHW-g6qsP6iVKhS=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.64,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "BBC Radio 6 Music",
       "url": "https://www.youtube.com/channel/UCqV-eYI6gwAYxQowEWosBkA",
       "firstSeenAt": "2026-09-13T11:48:32.535Z"
+    },
+    {
+      "id": "channel:UCYw-R4_yue3aGJu1xDO6cog",
+      "type": "channel",
+      "label": "BBC Radio 2",
+      "url": "https://www.youtube.com/channel/UCYw-R4_yue3aGJu1xDO6cog",
+      "firstSeenAt": "2026-09-25T11:48:19.013Z"
     }
   ],
   "recentItems": []

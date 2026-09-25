@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UC0M0rxSz3IF0CsSour1iWmw",
   "title": "Cinemassacre",
   "thumb": "https://yt3.ggpht.com/lIr2kKhJ_fZP9LeEMQwCjrhk82k2-ZzM8sae55nbOC-UotJKdA1Hr-De3ZQzieGp72dW6Qh-GA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "AngryJoeShow",
       "url": "https://www.youtube.com/channel/UCsgv2QHkT2ljEixyulzOnUQ",
       "firstSeenAt": "2026-09-24T11:42:45.510Z"
+    },
+    {
+      "id": "channel:UCiH828EtgQjTyNIMH6YiOSw",
+      "type": "channel",
+      "label": "Channel Awesome",
+      "url": "https://www.youtube.com/channel/UCiH828EtgQjTyNIMH6YiOSw",
+      "firstSeenAt": "2026-09-25T11:48:10.641Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UCQXHTFnQYFTqN0MqmNh9EIA",
+  "title": "BBC World Service",
+  "thumb": "https://yt3.ggpht.com/Afb4PbWI_vJV8XegqKWd6a98foRDeuUXkJDKXOAD3xELpEjtcCg9uNI9Wety63B5cUaF4GfCAxA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.21,
+  "sources": [
+    {
+      "id": "channel:UCCj956IF62FbT7Gouszaj9w",
+      "type": "channel",
+      "label": "BBC",
+      "url": "https://www.youtube.com/channel/UCCj956IF62FbT7Gouszaj9w",
+      "firstSeenAt": "2026-09-02T11:15:24.115Z"
+    },
+    {
+      "id": "channel:UCDYT9mM3L_ByrPYMyl0MGGg",
+      "type": "channel",
+      "label": "BBC Ideas",
+      "url": "https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg",
+      "firstSeenAt": "2026-09-25T11:48:19.369Z"
+    }
+  ],
+  "recentItems": []
+}

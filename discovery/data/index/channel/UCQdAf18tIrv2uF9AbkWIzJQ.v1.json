@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCQdAf18tIrv2uF9AbkWIzJQ",
   "title": "Guru Larry Gaming",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m5qWJ4s-S0-AC0MZMZaFL7Yk0GY2PR-GbHqHj3ZkkzLA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Video Game Reviewer Archive",
       "url": "https://www.youtube.com/channel/UC-BaCwG4XVoRAnp9xeQTUnA",
       "firstSeenAt": "2026-09-24T11:42:58.938Z"
+    },
+    {
+      "id": "channel:UCzxOKnbF9572zdxBPGGQxXA",
+      "type": "channel",
+      "label": "Hello You! Its MORE Guru Larry!!!",
+      "url": "https://www.youtube.com/channel/UCzxOKnbF9572zdxBPGGQxXA",
+      "firstSeenAt": "2026-09-25T11:48:10.688Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 99,
-  "distinctSourceCount": 99,
+  "score": 100,
+  "distinctSourceCount": 100,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -701,6 +701,13 @@
       "label": "GloriaTreviVEVO",
       "url": "https://www.youtube.com/channel/UCYNOJx1S_E9U0MpyTK6vPrg",
       "firstSeenAt": "2026-09-24T11:42:43.439Z"
+    },
+    {
+      "id": "channel:UC-Ge9Je8OgZS6smIAakkXug",
+      "type": "channel",
+      "label": "SteveAngelloVEVO",
+      "url": "https://www.youtube.com/channel/UC-Ge9Je8OgZS6smIAakkXug",
+      "firstSeenAt": "2026-09-25T11:48:17.819Z"
     }
   ],
   "recentItems": []

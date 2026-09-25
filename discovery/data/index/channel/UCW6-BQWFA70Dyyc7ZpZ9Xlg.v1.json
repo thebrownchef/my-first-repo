@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:44:08.283Z",
+  "generatedAt": "2026-09-25T11:49:28.102Z",
   "id": "UCW6-BQWFA70Dyyc7ZpZ9Xlg",
   "title": "BBC Sport",
   "thumb": "https://yt3.ggpht.com/7MVBSLQu23KEmav1jgqQkNSE-JsxRTqyfdKX_DVCl0oSAxALtPKwLhERmLOGgILKTjxdvcjD56k=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.16,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "BBC",
       "url": "https://www.youtube.com/channel/UCCj956IF62FbT7Gouszaj9w",
       "firstSeenAt": "2026-09-02T11:15:24.115Z"
+    },
+    {
+      "id": "channel:UCli0KmmXMDjcgqvsheHfv-Q",
+      "type": "channel",
+      "label": "BBC Football",
+      "url": "https://www.youtube.com/channel/UCli0KmmXMDjcgqvsheHfv-Q",
+      "firstSeenAt": "2026-09-25T11:48:19.593Z"
+    },
+    {
+      "id": "channel:UCRgEcyONlt8asRidnFfVjTw",
+      "type": "channel",
+      "label": "BBC Women's Football",
+      "url": "https://www.youtube.com/channel/UCRgEcyONlt8asRidnFfVjTw",
+      "firstSeenAt": "2026-09-25T11:48:19.715Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "id": "UCOlLivh3_AfkjDFy5X7EL5Q",
+  "title": "The Voice UK",
+  "thumb": "https://yt3.ggpht.com/7jn1IqOdCNvck00sy3OscIXockGiby1ePePn6ivypXRRziQoRXbxAKBWH36SbMVRlQwELlR3=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.43,
+  "sources": [
+    {
+      "id": "channel:UCkSO8PoK2AwbvjppT2CkDNg",
+      "type": "channel",
+      "label": "The Masked Singer UK",
+      "url": "https://www.youtube.com/channel/UCkSO8PoK2AwbvjppT2CkDNg",
+      "firstSeenAt": "2026-09-01T11:37:39.633Z"
+    },
+    {
+      "id": "channel:UCZ_eBL_Lsi5LbFYCv3Exrhg",
+      "type": "channel",
+      "label": "Walk The Line UK",
+      "url": "https://www.youtube.com/channel/UCZ_eBL_Lsi5LbFYCv3Exrhg",
+      "firstSeenAt": "2026-09-25T11:48:11.159Z"
+    },
+    {
+      "id": "channel:UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "type": "channel",
+      "label": "ITV",
+      "url": "https://www.youtube.com/channel/UCoEqHpK5VNVEBRvwL0EW8Gw",
+      "firstSeenAt": "2026-09-25T11:48:11.317Z"
+    }
+  ],
+  "recentItems": []
+}
