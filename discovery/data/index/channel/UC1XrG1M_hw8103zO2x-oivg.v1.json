@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "generatedAt": "2026-09-26T11:22:53.939Z",
   "id": "UC1XrG1M_hw8103zO2x-oivg",
   "title": "Galileo",
   "thumb": "https://yt3.ggpht.com/jOOP8uUA5oWawWRaPnxVuNikKpZ9xzGBZh6opFnlTWe5ty78fcqi8kHUfW6pQP8CFn6JB-48nBs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.57,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "Hans-Jürgen Kuhl",
       "url": "https://en.wikipedia.org/wiki/Hans-J%C3%BCrgen_Kuhl",
       "firstSeenAt": "2026-08-30T11:52:26.129Z"
+    },
+    {
+      "id": "channel:UCZX_5XCRE_dZ_4tNXOEYtog",
+      "type": "channel",
+      "label": "taff",
+      "url": "https://www.youtube.com/channel/UCZX_5XCRE_dZ_4tNXOEYtog",
+      "firstSeenAt": "2026-09-26T11:21:44.794Z"
+    },
+    {
+      "id": "channel:UCBlOtMAWn6nQpChhRo14CYA",
+      "type": "channel",
+      "label": "Experte für Alles",
+      "url": "https://www.youtube.com/channel/UCBlOtMAWn6nQpChhRo14CYA",
+      "firstSeenAt": "2026-09-26T11:21:44.996Z"
+    },
+    {
+      "id": "channel:UC7n_Hml4hw5H4G-HP8QPeKw",
+      "type": "channel",
+      "label": ":newstime",
+      "url": "https://www.youtube.com/channel/UC7n_Hml4hw5H4G-HP8QPeKw",
+      "firstSeenAt": "2026-09-26T11:21:45.239Z"
     }
   ],
   "recentItems": []

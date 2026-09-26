@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "generatedAt": "2026-09-26T11:22:53.939Z",
   "id": "UCLbdVvreihwZRL6kwuEUYsA",
   "title": "Think Music India",
   "thumb": "https://yt3.ggpht.com/p4TyMutaPSAFZNzFWSGHM0rbT59hPYuAhvMFfpi6uyNJyRLeUG5og5x91rtE6vnb5Vq1TcWT=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.15,
   "sources": [
@@ -36,6 +36,27 @@
       "label": "Lavanya Tripathi",
       "url": "https://en.wikipedia.org/wiki/Lavanya_Tripathi",
       "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    },
+    {
+      "id": "channel:UCOq0PoxzxZTYf3l65dkvmmA",
+      "type": "channel",
+      "label": "Think Indie Collective",
+      "url": "https://www.youtube.com/channel/UCOq0PoxzxZTYf3l65dkvmmA",
+      "firstSeenAt": "2026-09-26T11:21:49.132Z"
+    },
+    {
+      "id": "channel:UCWO7fKdX8VDcVjacgMUfI0g",
+      "type": "channel",
+      "label": "Think Music Telugu",
+      "url": "https://www.youtube.com/channel/UCWO7fKdX8VDcVjacgMUfI0g",
+      "firstSeenAt": "2026-09-26T11:21:49.187Z"
+    },
+    {
+      "id": "channel:UCBsyaEpqowt2GhrRucjWIOA",
+      "type": "channel",
+      "label": "Think Divine",
+      "url": "https://www.youtube.com/channel/UCBsyaEpqowt2GhrRucjWIOA",
+      "firstSeenAt": "2026-09-26T11:21:49.274Z"
     }
   ],
   "recentItems": []

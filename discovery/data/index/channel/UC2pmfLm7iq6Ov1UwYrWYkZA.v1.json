@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "generatedAt": "2026-09-26T11:22:53.939Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 100,
-  "distinctSourceCount": 100,
+  "score": 101,
+  "distinctSourceCount": 101,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -708,6 +708,13 @@
       "label": "SteveAngelloVEVO",
       "url": "https://www.youtube.com/channel/UC-Ge9Je8OgZS6smIAakkXug",
       "firstSeenAt": "2026-09-25T11:48:17.819Z"
+    },
+    {
+      "id": "channel:UCR5VZ6lm1x_SEtrgxychYHQ",
+      "type": "channel",
+      "label": "EaglesDeathMetalVEVO",
+      "url": "https://www.youtube.com/channel/UCR5VZ6lm1x_SEtrgxychYHQ",
+      "firstSeenAt": "2026-09-26T11:21:47.348Z"
     }
   ],
   "recentItems": []

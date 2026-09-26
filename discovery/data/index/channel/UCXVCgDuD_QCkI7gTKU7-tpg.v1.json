@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "generatedAt": "2026-09-26T11:22:53.939Z",
   "id": "UCXVCgDuD_QCkI7gTKU7-tpg",
   "title": "Nat Geo Kids",
   "thumb": "https://yt3.ggpht.com/GsBWcfJJbCKMQ-ndyaeLPqIwfqvU2dughQEl0eGRP8MfvML-HIl5HK_vamdjOWzbvMSLdLINGA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Nat Geo en Español",
       "url": "https://www.youtube.com/channel/UCKVtMu6QLSEA528Li51ndPQ",
       "firstSeenAt": "2026-09-21T12:44:50.212Z"
+    },
+    {
+      "id": "channel:UCDe7m0POuwkL1gwnQ-FVhMw",
+      "type": "channel",
+      "label": "Star Wars Kids",
+      "url": "https://www.youtube.com/channel/UCDe7m0POuwkL1gwnQ-FVhMw",
+      "firstSeenAt": "2026-09-26T11:21:51.798Z"
     }
   ],
   "recentItems": []

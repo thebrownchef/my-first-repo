@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "generatedAt": "2026-09-26T11:22:53.939Z",
   "id": "UCxwitsUVNzwS5XBSC5UQV8Q",
   "title": "Marvel HQ",
   "thumb": "https://yt3.ggpht.com/xAjIDPMqSE6Mzx5298eJHzpDnbaojpUj0kbBz5xQ6-VO468CAzlJtnuONZ-KCVR4BJw2MXf8pg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.72,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Disney Jr. ",
       "url": "https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg",
       "firstSeenAt": "2026-09-11T11:18:01.902Z"
+    },
+    {
+      "id": "channel:UCDe7m0POuwkL1gwnQ-FVhMw",
+      "type": "channel",
+      "label": "Star Wars Kids",
+      "url": "https://www.youtube.com/channel/UCDe7m0POuwkL1gwnQ-FVhMw",
+      "firstSeenAt": "2026-09-26T11:21:51.796Z"
+    },
+    {
+      "id": "channel:UCJVnKZWT3WXxfG8T6EUdezw",
+      "type": "channel",
+      "label": "Disney Channel Music",
+      "url": "https://www.youtube.com/channel/UCJVnKZWT3WXxfG8T6EUdezw",
+      "firstSeenAt": "2026-09-26T11:21:51.837Z"
     }
   ],
   "recentItems": []

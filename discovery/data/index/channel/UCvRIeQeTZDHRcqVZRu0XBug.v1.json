@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-26T11:22:53.939Z",
+  "id": "UCvRIeQeTZDHRcqVZRu0XBug",
+  "title": "SBS 옛날 예능 - 빽능",
+  "thumb": "https://yt3.ggpht.com/Kaq0NtwTAlVRykUt0UEYRErTrTalRM86AjKob4uHJGj4JyHuSXhbOEgnZgK1ra5T2W4aSFqj7yI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 2.5,
+  "sources": [
+    {
+      "id": "channel:UCmjNKt6kITwaZTqvWuaSPLg",
+      "type": "channel",
+      "label": "SBS Entertainment",
+      "url": "https://www.youtube.com/channel/UCmjNKt6kITwaZTqvWuaSPLg",
+      "firstSeenAt": "2026-09-03T11:11:12.104Z"
+    },
+    {
+      "id": "channel:UC6erIDuvbOaAO-OT5rB2Xew",
+      "type": "channel",
+      "label": "SBS 스브스 Drama",
+      "url": "https://www.youtube.com/channel/UC6erIDuvbOaAO-OT5rB2Xew",
+      "firstSeenAt": "2026-09-26T11:21:52.912Z"
+    },
+    {
+      "id": "channel:UCYZv9v_bwfMGc64gLRe34OA",
+      "type": "channel",
+      "label": "SBS STORY",
+      "url": "https://www.youtube.com/channel/UCYZv9v_bwfMGc64gLRe34OA",
+      "firstSeenAt": "2026-09-26T11:21:53.108Z"
+    }
+  ],
+  "recentItems": []
+}

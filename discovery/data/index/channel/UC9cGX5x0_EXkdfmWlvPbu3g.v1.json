@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "generatedAt": "2026-09-26T11:22:53.939Z",
   "id": "UC9cGX5x0_EXkdfmWlvPbu3g",
   "title": "Discovery UK",
   "thumb": "https://yt3.ggpht.com/fUU0ZIkqRoDbsSYiSFomiywGa2SOjbh1HxoACHa3nthh0XyCtyNNg_OAlxaD6k1QXr7Y1A-F=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.6,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "InventingWorlds",
       "url": "https://www.youtube.com/channel/UCio_MwPW_GVd7a7XCyUoaYQ",
       "firstSeenAt": "2026-09-02T11:15:36.031Z"
+    },
+    {
+      "id": "channel:UCun-sOY2LAX-0st1QQ9z0Hg",
+      "type": "channel",
+      "label": "ink",
+      "url": "https://www.youtube.com/channel/UCun-sOY2LAX-0st1QQ9z0Hg",
+      "firstSeenAt": "2026-09-26T11:21:43.491Z"
+    },
+    {
+      "id": "channel:UCtwDouE-8TTbciZ1fcXws9w",
+      "type": "channel",
+      "label": "Storm",
+      "url": "https://www.youtube.com/channel/UCtwDouE-8TTbciZ1fcXws9w",
+      "firstSeenAt": "2026-09-26T11:21:43.609Z"
     }
   ],
   "recentItems": []

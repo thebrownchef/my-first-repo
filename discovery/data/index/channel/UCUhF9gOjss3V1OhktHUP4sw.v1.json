@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T11:49:28.102Z",
+  "generatedAt": "2026-09-26T11:22:53.939Z",
   "id": "UCUhF9gOjss3V1OhktHUP4sw",
   "title": "Project Alpha",
   "thumb": "https://yt3.ggpht.com/fztF0IOjOpcNeVXFa93cDGfQgxBAN_340KVvOblXYxOzGxVKj3ZSpS54fs6TG8ljBEG_bYTgkkU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "GMMTV RECORDS",
       "url": "https://www.youtube.com/channel/UC_mceLIVkQun_Xcu1KBmfdw",
       "firstSeenAt": "2026-09-04T11:15:28.393Z"
+    },
+    {
+      "id": "channel:UCLfoFsXscN571fAv10-A2JA",
+      "type": "channel",
+      "label": "Made in Thailand",
+      "url": "https://www.youtube.com/channel/UCLfoFsXscN571fAv10-A2JA",
+      "firstSeenAt": "2026-09-26T11:21:39.971Z"
+    },
+    {
+      "id": "channel:UC-vShcsYE730gWSbvsy44QQ",
+      "type": "channel",
+      "label": "RISER MUSIC",
+      "url": "https://www.youtube.com/channel/UC-vShcsYE730gWSbvsy44QQ",
+      "firstSeenAt": "2026-09-26T11:21:40.164Z"
+    },
+    {
+      "id": "channel:UC3L2K9ix25ghqZRasK8HKsw",
+      "type": "channel",
+      "label": "เทยเที่ยวไทย & friends ",
+      "url": "https://www.youtube.com/channel/UC3L2K9ix25ghqZRasK8HKsw",
+      "firstSeenAt": "2026-09-26T11:21:40.546Z"
     }
   ],
   "recentItems": []
