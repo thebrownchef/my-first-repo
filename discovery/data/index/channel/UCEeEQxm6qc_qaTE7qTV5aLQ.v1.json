@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T11:22:53.939Z",
+  "generatedAt": "2026-09-27T12:01:16.477Z",
   "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
   "title": "HUM TV",
   "thumb": "https://yt3.ggpht.com/zA-EJBUBG8nI8atakCCYgxw6c42fzoxDgIK_3bao7CRZaOR3aBc02VciNymKFMJxYPmQKnnL=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 40.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Aangan (2018 TV series)",
       "url": "https://en.wikipedia.org/wiki/Aangan_(2018_TV_series)",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "channel:UCzYAvaVRDTAxeiMybWLm3uQ",
+      "type": "channel",
+      "label": "HUM Telefilms",
+      "url": "https://www.youtube.com/channel/UCzYAvaVRDTAxeiMybWLm3uQ",
+      "firstSeenAt": "2026-09-27T11:59:34.095Z"
+    },
+    {
+      "id": "channel:UCmKRBE2gGGA_rMV8GjSMjwA",
+      "type": "channel",
+      "label": "HUM Classics",
+      "url": "https://www.youtube.com/channel/UCmKRBE2gGGA_rMV8GjSMjwA",
+      "firstSeenAt": "2026-09-27T11:59:34.262Z"
     }
   ],
   "recentItems": []

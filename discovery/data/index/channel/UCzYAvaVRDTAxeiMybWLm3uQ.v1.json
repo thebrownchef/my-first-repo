@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "id": "UCzYAvaVRDTAxeiMybWLm3uQ",
+  "title": "HUM Telefilms",
+  "thumb": "https://yt3.ggpht.com/T0ySJfWZTjsxvPUZcRKYBtlzv-dSPH_Pg_RugwOXjEsBtsdAFZWTsraIyV0IMqmGSc0SbveV=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.36,
+  "sources": [
+    {
+      "id": "channel:UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "type": "channel",
+      "label": "HUM TV",
+      "url": "https://www.youtube.com/channel/UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "firstSeenAt": "2026-09-03T11:11:21.171Z"
+    },
+    {
+      "id": "channel:UCmKRBE2gGGA_rMV8GjSMjwA",
+      "type": "channel",
+      "label": "HUM Classics",
+      "url": "https://www.youtube.com/channel/UCmKRBE2gGGA_rMV8GjSMjwA",
+      "firstSeenAt": "2026-09-27T11:59:34.264Z"
+    }
+  ],
+  "recentItems": []
+}

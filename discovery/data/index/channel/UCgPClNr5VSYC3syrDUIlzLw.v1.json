@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "id": "UCgPClNr5VSYC3syrDUIlzLw",
+  "title": "Adult Swim",
+  "thumb": "https://yt3.ggpht.com/oGhBcOj4r0zwibT0YBO70um0bKh5g-DW7cuamIha3zmdJ7wxcinJUMybzVwhXCn6PXnFf8zP=s88-c-k-c0x00ffffff-no-rj",
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 0,
+  "uploadsPerDay": 1.19,
+  "sources": [
+    {
+      "id": "wiki:Danny Brown",
+      "type": "wikipedia",
+      "label": "Danny Brown",
+      "url": "https://en.wikipedia.org/wiki/Danny_Brown",
+      "firstSeenAt": "2026-08-30T11:52:26.130Z"
+    },
+    {
+      "id": "channel:UCSylRwtbzLh6J5-xtkJPXag",
+      "type": "channel",
+      "label": "Metalocalypse",
+      "url": "https://www.youtube.com/channel/UCSylRwtbzLh6J5-xtkJPXag",
+      "firstSeenAt": "2026-09-27T11:59:28.931Z"
+    },
+    {
+      "id": "channel:UCvWH6OVEgA6CnNFNSfBUxbg",
+      "type": "channel",
+      "label": "Aqua Teen Hunger Force",
+      "url": "https://www.youtube.com/channel/UCvWH6OVEgA6CnNFNSfBUxbg",
+      "firstSeenAt": "2026-09-27T11:59:29.146Z"
+    },
+    {
+      "id": "channel:UC1MEMnZEDKqLPu-B-AHIsyw",
+      "type": "channel",
+      "label": "Rick and Morty",
+      "url": "https://www.youtube.com/channel/UC1MEMnZEDKqLPu-B-AHIsyw",
+      "firstSeenAt": "2026-09-27T11:59:29.313Z"
+    }
+  ],
+  "recentItems": []
+}

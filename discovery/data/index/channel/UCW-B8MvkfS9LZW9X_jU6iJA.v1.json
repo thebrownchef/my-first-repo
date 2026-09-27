@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "id": "UCW-B8MvkfS9LZW9X_jU6iJA",
+  "title": "Ora TV",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m7fCeElYnLMyNrcz1tKaqzCdTvgsqKe2DbIrbB5WpXI8TU=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.33,
+  "sources": [
+    {
+      "id": "channel:UCxzcBfvmeLmUNjlyM7FMgFg",
+      "type": "channel",
+      "label": "Larry King",
+      "url": "https://www.youtube.com/channel/UCxzcBfvmeLmUNjlyM7FMgFg",
+      "firstSeenAt": "2026-09-03T11:11:10.292Z"
+    },
+    {
+      "id": "channel:UCT0L5aBPSY7u2InKePoX7bg",
+      "type": "channel",
+      "label": "DweebCast",
+      "url": "https://www.youtube.com/channel/UCT0L5aBPSY7u2InKePoX7bg",
+      "firstSeenAt": "2026-09-27T11:59:18.134Z"
+    },
+    {
+      "id": "channel:UCCauu8QfE8Z4uvkTS2l9vNw",
+      "type": "channel",
+      "label": "Behind The Vine",
+      "url": "https://www.youtube.com/channel/UCCauu8QfE8Z4uvkTS2l9vNw",
+      "firstSeenAt": "2026-09-27T11:59:18.411Z"
+    }
+  ],
+  "recentItems": []
+}

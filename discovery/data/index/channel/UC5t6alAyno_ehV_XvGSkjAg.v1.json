@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T11:22:53.939Z",
+  "generatedAt": "2026-09-27T12:01:16.477Z",
   "id": "UC5t6alAyno_ehV_XvGSkjAg",
   "title": "Miss Peppermint",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kSEyLJ8cU4HmJeQZNPUhc3RhHfHqCtoRUWGJ_mI-uC6A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Producer Entertainment Group/PEG",
       "url": "https://www.youtube.com/channel/UCqR0pJ71CP5va0EXri7eTEg",
       "firstSeenAt": "2026-09-08T11:15:54.203Z"
+    },
+    {
+      "id": "channel:UCINSUxQus1c_jTanlte2HkA",
+      "type": "channel",
+      "label": "David Serrano",
+      "url": "https://www.youtube.com/channel/UCINSUxQus1c_jTanlte2HkA",
+      "firstSeenAt": "2026-09-27T11:59:33.948Z"
     }
   ],
   "recentItems": []

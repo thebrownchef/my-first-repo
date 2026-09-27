@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "id": "UC1M2e_KYHylhBCrCk_LNAYw",
+  "title": "Rick and Morty Brasil",
+  "thumb": "https://yt3.ggpht.com/PkTplxujjeCUx4ssxrKsBKodxrk9NehxNh_WSt7H2JzENHc_KaP3qLH28T0IT-ktJ2gG2QWlu_E=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.25,
+  "sources": [
+    {
+      "id": "channel:UCgPClNr5VSYC3syrDUIlzLw",
+      "type": "channel",
+      "label": "Adult Swim",
+      "url": "https://www.youtube.com/channel/UCgPClNr5VSYC3syrDUIlzLw",
+      "firstSeenAt": "2026-09-03T11:11:15.507Z"
+    },
+    {
+      "id": "channel:UC1MEMnZEDKqLPu-B-AHIsyw",
+      "type": "channel",
+      "label": "Rick and Morty",
+      "url": "https://www.youtube.com/channel/UC1MEMnZEDKqLPu-B-AHIsyw",
+      "firstSeenAt": "2026-09-27T11:59:29.315Z"
+    }
+  ],
+  "recentItems": []
+}

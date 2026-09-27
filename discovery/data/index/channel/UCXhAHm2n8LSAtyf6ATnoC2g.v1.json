@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "id": "UCXhAHm2n8LSAtyf6ATnoC2g",
+  "title": "CBN - The Christian Broadcasting Network",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_l2Z6z-0VCT7ocl4CgpeLUc_RXGNy2VCi3X-jd1o0oPF1U=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 3.17,
+  "sources": [
+    {
+      "id": "channel:UCYI_ychRnL7sJrG6PUSBpQA",
+      "type": "channel",
+      "label": "CBN News",
+      "url": "https://www.youtube.com/channel/UCYI_ychRnL7sJrG6PUSBpQA",
+      "firstSeenAt": "2026-09-03T11:11:14.496Z"
+    },
+    {
+      "id": "channel:UC2qWNZt3JnXlwJe6elnWQQw",
+      "type": "channel",
+      "label": "700 Club Interactive",
+      "url": "https://www.youtube.com/channel/UC2qWNZt3JnXlwJe6elnWQQw",
+      "firstSeenAt": "2026-09-27T11:59:26.525Z"
+    },
+    {
+      "id": "channel:UCj-Mjn68ap6Hgj6sxp2rpRA",
+      "type": "channel",
+      "label": "The 700 Club",
+      "url": "https://www.youtube.com/channel/UCj-Mjn68ap6Hgj6sxp2rpRA",
+      "firstSeenAt": "2026-09-27T11:59:26.920Z"
+    }
+  ],
+  "recentItems": []
+}

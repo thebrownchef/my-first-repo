@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "id": "UCW9CKYMhpJM-B1B0PGBB9Ew",
+  "title": "HUM Music",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbbobe_Y3SqzT1UNbXkCJucxqaLPGrOl_lCVWsK5pXekk=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "channel:UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "type": "channel",
+      "label": "HUM TV",
+      "url": "https://www.youtube.com/channel/UCEeEQxm6qc_qaTE7qTV5aLQ",
+      "firstSeenAt": "2026-09-03T11:11:21.171Z"
+    },
+    {
+      "id": "channel:UCzYAvaVRDTAxeiMybWLm3uQ",
+      "type": "channel",
+      "label": "HUM Telefilms",
+      "url": "https://www.youtube.com/channel/UCzYAvaVRDTAxeiMybWLm3uQ",
+      "firstSeenAt": "2026-09-27T11:59:34.096Z"
+    },
+    {
+      "id": "channel:UCmKRBE2gGGA_rMV8GjSMjwA",
+      "type": "channel",
+      "label": "HUM Classics",
+      "url": "https://www.youtube.com/channel/UCmKRBE2gGGA_rMV8GjSMjwA",
+      "firstSeenAt": "2026-09-27T11:59:34.264Z"
+    }
+  ],
+  "recentItems": []
+}

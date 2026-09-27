@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T11:22:53.939Z",
+  "generatedAt": "2026-09-27T12:01:16.477Z",
   "id": "UCUt7rLn9Dx375NALkrzeMEg",
   "title": "wxTV",
   "thumb": "https://yt3.ggpht.com/P5CYub0iwbWALl-pT5ZSgg7L2qbIHpg-EkdBRe7-sjnSe_h-PdEuQkwIeDjaG_AxBIoq7XO3ig=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Intelliguy",
       "url": "https://www.youtube.com/channel/UC82WZr2wmMGO5_fe2S5cwJg",
       "firstSeenAt": "2026-09-18T11:11:07.457Z"
+    },
+    {
+      "id": "channel:UCSQAe0hQ6XT333tx8o8z_jg",
+      "type": "channel",
+      "label": "The AVTB Archives",
+      "url": "https://www.youtube.com/channel/UCSQAe0hQ6XT333tx8o8z_jg",
+      "firstSeenAt": "2026-09-27T11:59:32.331Z"
     }
   ],
   "recentItems": []

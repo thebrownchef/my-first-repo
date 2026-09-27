@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "id": "UC1MEMnZEDKqLPu-B-AHIsyw",
+  "title": "Rick and Morty",
+  "thumb": "https://yt3.ggpht.com/LAAGWat-DXkClqAwQpy1AjEafhFiy-Xl41m6uljlPSNt7J4D0_p7wYdNQqso1lA9sg5fXGTgEA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.45,
+  "sources": [
+    {
+      "id": "channel:UCgPClNr5VSYC3syrDUIlzLw",
+      "type": "channel",
+      "label": "Adult Swim",
+      "url": "https://www.youtube.com/channel/UCgPClNr5VSYC3syrDUIlzLw",
+      "firstSeenAt": "2026-09-03T11:11:15.506Z"
+    },
+    {
+      "id": "channel:UCSylRwtbzLh6J5-xtkJPXag",
+      "type": "channel",
+      "label": "Metalocalypse",
+      "url": "https://www.youtube.com/channel/UCSylRwtbzLh6J5-xtkJPXag",
+      "firstSeenAt": "2026-09-27T11:59:28.931Z"
+    },
+    {
+      "id": "channel:UCvWH6OVEgA6CnNFNSfBUxbg",
+      "type": "channel",
+      "label": "Aqua Teen Hunger Force",
+      "url": "https://www.youtube.com/channel/UCvWH6OVEgA6CnNFNSfBUxbg",
+      "firstSeenAt": "2026-09-27T11:59:29.146Z"
+    }
+  ],
+  "recentItems": []
+}
