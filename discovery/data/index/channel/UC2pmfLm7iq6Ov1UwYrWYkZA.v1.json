@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "generatedAt": "2026-09-28T13:51:47.162Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 102,
-  "distinctSourceCount": 102,
+  "score": 103,
+  "distinctSourceCount": 103,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -722,6 +722,13 @@
       "label": "MileyCyrusVEVO",
       "url": "https://www.youtube.com/channel/UCdI8evszfZvyAl2UVCypkTA",
       "firstSeenAt": "2026-09-27T11:59:14.379Z"
+    },
+    {
+      "id": "channel:UCQbxjZwjeQrsnNa5Tf28ZdA",
+      "type": "channel",
+      "label": "BandAidVEVO",
+      "url": "https://www.youtube.com/channel/UCQbxjZwjeQrsnNa5Tf28ZdA",
+      "firstSeenAt": "2026-09-28T13:50:15.787Z"
     }
   ],
   "recentItems": []

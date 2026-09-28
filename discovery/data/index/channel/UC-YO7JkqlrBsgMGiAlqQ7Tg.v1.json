@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "id": "UC-YO7JkqlrBsgMGiAlqQ7Tg",
+  "title": "wordsoftheworld",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m9bOT-wzlYLLLnaIFUHh6rSPlKWp847dbC5NLmSk_0vg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "channel:UCnQtJro3IurKlxp7XSPqpaA",
+      "type": "channel",
+      "label": "bibledex",
+      "url": "https://www.youtube.com/channel/UCnQtJro3IurKlxp7XSPqpaA",
+      "firstSeenAt": "2026-09-28T13:50:16.062Z"
+    },
+    {
+      "id": "channel:UCCAgrIbwcJ67zIow1pNF30A",
+      "type": "channel",
+      "label": "nottinghamscience",
+      "url": "https://www.youtube.com/channel/UCCAgrIbwcJ67zIow1pNF30A",
+      "firstSeenAt": "2026-09-28T13:50:16.416Z"
+    },
+    {
+      "id": "channel:UCo-3ThNQmPmQSQL_L6Lx1_w",
+      "type": "channel",
+      "label": "DeepSkyVideos",
+      "url": "https://www.youtube.com/channel/UCo-3ThNQmPmQSQL_L6Lx1_w",
+      "firstSeenAt": "2026-09-28T13:50:16.940Z"
+    }
+  ],
+  "recentItems": []
+}

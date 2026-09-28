@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "generatedAt": "2026-09-28T13:51:47.162Z",
   "id": "UCF9imwPMSGz4Vq1NiTWCC7g",
   "title": "Paramount Pictures",
   "thumb": "https://yt3.ggpht.com/lzxV-tKDlJkMGh5ymRwXMQKIvqeYyNvvFJGcdy_CluMZKzyLuSvmp-N32O6cQq0YilLZEPn8EQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Paramount Plus",
       "url": "https://www.youtube.com/channel/UCrRttZIypNTA1Mrfwo745Sg",
       "firstSeenAt": "2026-09-19T10:55:42.417Z"
+    },
+    {
+      "id": "channel:UCcVqCJ_9owb1zM43vqswMNQ",
+      "type": "channel",
+      "label": "BETNetworks",
+      "url": "https://www.youtube.com/channel/UCcVqCJ_9owb1zM43vqswMNQ",
+      "firstSeenAt": "2026-09-28T13:49:58.847Z"
     }
   ],
   "recentItems": []

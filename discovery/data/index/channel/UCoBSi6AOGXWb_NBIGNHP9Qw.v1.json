@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "generatedAt": "2026-09-28T13:51:47.162Z",
   "id": "UCoBSi6AOGXWb_NBIGNHP9Qw",
   "title": "Yellowstone Universe",
   "thumb": "https://yt3.ggpht.com/DllFeK6vky1oETO2MtXh-cLcjsb7llRmc2i90z5ob7-vm4Vpz-Gyg7GNAizCxIKYSZ0mrUMi9w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "VH1",
       "url": "https://www.youtube.com/channel/UCvn-HVrAGYEKsVx6gW3MeNQ",
       "firstSeenAt": "2026-09-21T12:44:49.365Z"
+    },
+    {
+      "id": "channel:UCcVqCJ_9owb1zM43vqswMNQ",
+      "type": "channel",
+      "label": "BETNetworks",
+      "url": "https://www.youtube.com/channel/UCcVqCJ_9owb1zM43vqswMNQ",
+      "firstSeenAt": "2026-09-28T13:49:58.846Z"
+    },
+    {
+      "id": "channel:UCAut9txFApsaY_uFiphefwQ",
+      "type": "channel",
+      "label": "TV Land",
+      "url": "https://www.youtube.com/channel/UCAut9txFApsaY_uFiphefwQ",
+      "firstSeenAt": "2026-09-28T13:49:59.610Z"
+    },
+    {
+      "id": "channel:UCdN4aXTrHAtfgbVG9HjBmxQ",
+      "type": "channel",
+      "label": "Key & Peele",
+      "url": "https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ",
+      "firstSeenAt": "2026-09-28T13:49:59.917Z"
+    },
+    {
+      "id": "channel:UC0QXWw0OiMnagIhdBn_fVPg",
+      "type": "channel",
+      "label": "Smithsonian Channel Aviation Nation",
+      "url": "https://www.youtube.com/channel/UC0QXWw0OiMnagIhdBn_fVPg",
+      "firstSeenAt": "2026-09-28T13:50:06.754Z"
     }
   ],
   "recentItems": []

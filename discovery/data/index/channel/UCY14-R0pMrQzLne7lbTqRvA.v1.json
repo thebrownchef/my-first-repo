@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "generatedAt": "2026-09-28T13:51:47.162Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "GEazyMusicVEVO",
       "url": "https://www.youtube.com/channel/UCjjC1Jk_1o1VWpLalgo21XQ",
       "firstSeenAt": "2026-09-22T11:35:13.926Z"
+    },
+    {
+      "id": "channel:UCQbxjZwjeQrsnNa5Tf28ZdA",
+      "type": "channel",
+      "label": "BandAidVEVO",
+      "url": "https://www.youtube.com/channel/UCQbxjZwjeQrsnNa5Tf28ZdA",
+      "firstSeenAt": "2026-09-28T13:50:15.787Z"
     }
   ],
   "recentItems": []

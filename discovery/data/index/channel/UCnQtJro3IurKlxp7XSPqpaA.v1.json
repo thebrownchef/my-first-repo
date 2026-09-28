@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "id": "UCnQtJro3IurKlxp7XSPqpaA",
+  "title": "bibledex",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nXVO2DVE_cGJQkuj_ccg1pf80tFFs_NJQmCp2ka1zCCQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "channel:UCoxcjq-8xIDTYp3uz647V5A",
+      "type": "channel",
+      "label": "Numberphile",
+      "url": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A",
+      "firstSeenAt": "2026-09-04T11:15:28.901Z"
+    },
+    {
+      "id": "channel:UCCAgrIbwcJ67zIow1pNF30A",
+      "type": "channel",
+      "label": "nottinghamscience",
+      "url": "https://www.youtube.com/channel/UCCAgrIbwcJ67zIow1pNF30A",
+      "firstSeenAt": "2026-09-28T13:50:16.415Z"
+    },
+    {
+      "id": "channel:UCo-3ThNQmPmQSQL_L6Lx1_w",
+      "type": "channel",
+      "label": "DeepSkyVideos",
+      "url": "https://www.youtube.com/channel/UCo-3ThNQmPmQSQL_L6Lx1_w",
+      "firstSeenAt": "2026-09-28T13:50:16.940Z"
+    }
+  ],
+  "recentItems": []
+}

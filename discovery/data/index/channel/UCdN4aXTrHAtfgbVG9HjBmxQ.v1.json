@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "generatedAt": "2026-09-28T13:51:47.162Z",
   "id": "UCdN4aXTrHAtfgbVG9HjBmxQ",
   "title": "Key & Peele",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kWanecPuRopibAAKfMfmgB757dK65WD7lXvYHrGnToag=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Comedy Central Stand-Up",
       "url": "https://www.youtube.com/channel/UCtw7q4SyOeoCwM1i_3x8lDg",
       "firstSeenAt": "2026-09-27T11:59:35.754Z"
+    },
+    {
+      "id": "channel:UCqp9YsX6sR7i93CY4yGsAow",
+      "type": "channel",
+      "label": "Animated",
+      "url": "https://www.youtube.com/channel/UCqp9YsX6sR7i93CY4yGsAow",
+      "firstSeenAt": "2026-09-28T13:49:58.966Z"
+    },
+    {
+      "id": "channel:UCu4dvhw8Ggc45CycMfTQZxw",
+      "type": "channel",
+      "label": "Tosh.0",
+      "url": "https://www.youtube.com/channel/UCu4dvhw8Ggc45CycMfTQZxw",
+      "firstSeenAt": "2026-09-28T13:49:59.084Z"
+    },
+    {
+      "id": "channel:UCNVBYBxWj9dMHqKEl_V8HBQ",
+      "type": "channel",
+      "label": "Comedy Central Originals",
+      "url": "https://www.youtube.com/channel/UCNVBYBxWj9dMHqKEl_V8HBQ",
+      "firstSeenAt": "2026-09-28T13:49:59.184Z"
+    },
+    {
+      "id": "channel:UCEVBir9A-WQIOZq4JmAifUg",
+      "type": "channel",
+      "label": "You Up with Nikki Glaser",
+      "url": "https://www.youtube.com/channel/UCEVBir9A-WQIOZq4JmAifUg",
+      "firstSeenAt": "2026-09-28T13:49:59.397Z"
     }
   ],
   "recentItems": []

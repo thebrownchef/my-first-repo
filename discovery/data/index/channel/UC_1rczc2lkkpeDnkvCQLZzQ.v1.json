@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "generatedAt": "2026-09-28T13:51:47.162Z",
   "id": "UC_1rczc2lkkpeDnkvCQLZzQ",
   "title": "FUCHSIA Magazine",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n1mAuMso5PYJefSSMLU8gC1iQAqwniPNwXuP9DBMn-XA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.47,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Neem (TV series)",
       "url": "https://en.wikipedia.org/wiki/Neem_(TV_series)",
       "firstSeenAt": "2026-08-31T13:44:53.295Z"
+    },
+    {
+      "id": "channel:UCoGD-arD3EyPZAbcF-m1V6A",
+      "type": "channel",
+      "label": "Rabia Mughni",
+      "url": "https://www.youtube.com/channel/UCoGD-arD3EyPZAbcF-m1V6A",
+      "firstSeenAt": "2026-09-28T13:50:18.271Z"
+    },
+    {
+      "id": "channel:UCAKXvMgvOwbJWtwsIFaq4vA",
+      "type": "channel",
+      "label": "FUCHSIA Shorts",
+      "url": "https://www.youtube.com/channel/UCAKXvMgvOwbJWtwsIFaq4vA",
+      "firstSeenAt": "2026-09-28T13:50:18.353Z"
     }
   ],
   "recentItems": []

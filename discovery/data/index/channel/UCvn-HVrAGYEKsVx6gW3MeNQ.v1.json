@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T12:01:16.477Z",
+  "generatedAt": "2026-09-28T13:51:47.162Z",
   "id": "UCvn-HVrAGYEKsVx6gW3MeNQ",
   "title": "VH1",
   "thumb": "https://yt3.ggpht.com/y6UqFQ10EgQS6L7q6awRz2kmsaOFvDQtc1egb3GOBdIsuisDuRCfDiTbgXWbI8cJsAYyPURk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Logo",
       "url": "https://www.youtube.com/channel/UCuiK2XdDcyAd7TS9ioMqx6A",
       "firstSeenAt": "2026-09-21T12:44:49.536Z"
+    },
+    {
+      "id": "channel:UCAut9txFApsaY_uFiphefwQ",
+      "type": "channel",
+      "label": "TV Land",
+      "url": "https://www.youtube.com/channel/UCAut9txFApsaY_uFiphefwQ",
+      "firstSeenAt": "2026-09-28T13:49:59.611Z"
+    },
+    {
+      "id": "channel:UCdN4aXTrHAtfgbVG9HjBmxQ",
+      "type": "channel",
+      "label": "Key & Peele",
+      "url": "https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ",
+      "firstSeenAt": "2026-09-28T13:49:59.918Z"
     }
   ],
   "recentItems": []
