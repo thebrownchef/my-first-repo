@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UChBOn5B899MJqegVDoQGdIA",
   "title": "RestlessRick",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nvfBaAFEKI8-_9zmiTSO9kXawq_qBY71u4jpQGUrE4ow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Survivor (Destiny's Child album)",
       "url": "https://en.wikipedia.org/wiki/Survivor_(Destiny's_Child_album)",
       "firstSeenAt": "2026-08-31T13:44:53.294Z"
+    },
+    {
+      "id": "channel:UCU8FlU4Gq2jbttiwww1TsYg",
+      "type": "channel",
+      "label": "AneresEleVen",
+      "url": "https://www.youtube.com/channel/UCU8FlU4Gq2jbttiwww1TsYg",
+      "firstSeenAt": "2026-09-29T12:49:35.340Z"
     }
   ],
   "recentItems": []

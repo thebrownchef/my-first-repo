@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UCrMePiHCWG4Vwqv3t7W9EFg",
   "title": "SciShow Space",
   "thumb": "https://yt3.ggpht.com/eNkl_l8VyZhw9UN6cW5MGg5KW8BzPdT0V7_FvNLITk9MmuJ0Dsz3YrL0trASWHexOoZ5mDuS=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "CrashCourse",
       "url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
       "firstSeenAt": "2026-09-16T11:29:13.644Z"
+    },
+    {
+      "id": "channel:UCf5Y9u0ylaOGojIEUlBJnvg",
+      "type": "channel",
+      "label": "Raumzeit - Vlog der Zukunft",
+      "url": "https://www.youtube.com/channel/UCf5Y9u0ylaOGojIEUlBJnvg",
+      "firstSeenAt": "2026-09-29T12:49:27.157Z"
     }
   ],
   "recentItems": []

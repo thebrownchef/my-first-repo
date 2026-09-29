@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 103,
-  "distinctSourceCount": 103,
+  "score": 104,
+  "distinctSourceCount": 104,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -729,6 +729,13 @@
       "label": "BandAidVEVO",
       "url": "https://www.youtube.com/channel/UCQbxjZwjeQrsnNa5Tf28ZdA",
       "firstSeenAt": "2026-09-28T13:50:15.787Z"
+    },
+    {
+      "id": "channel:UC-nFnXfFtnNVna150WrJGPg",
+      "type": "channel",
+      "label": "BrandonFlowersVEVO",
+      "url": "https://www.youtube.com/channel/UC-nFnXfFtnNVna150WrJGPg",
+      "firstSeenAt": "2026-09-29T12:49:20.579Z"
     }
   ],
   "recentItems": []

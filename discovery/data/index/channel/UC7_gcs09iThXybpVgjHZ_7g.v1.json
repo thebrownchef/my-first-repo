@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UC7_gcs09iThXybpVgjHZ_7g",
   "title": "PBS Space Time",
   "thumb": "https://yt3.ggpht.com/A7npG37dOJQffCnkUAyHI8wxnYhWA2q9SQY58AJ_bZUgKv30RtKD9sz5FQs4fs9-xWCg9S0P5jw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.754Z"
+    },
+    {
+      "id": "channel:UCf5Y9u0ylaOGojIEUlBJnvg",
+      "type": "channel",
+      "label": "Raumzeit - Vlog der Zukunft",
+      "url": "https://www.youtube.com/channel/UCf5Y9u0ylaOGojIEUlBJnvg",
+      "firstSeenAt": "2026-09-29T12:49:27.157Z"
     }
   ],
   "recentItems": []

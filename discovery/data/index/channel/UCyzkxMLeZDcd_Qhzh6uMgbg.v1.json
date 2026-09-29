@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "id": "UCyzkxMLeZDcd_Qhzh6uMgbg",
+  "title": "PoliticsJOE",
+  "thumb": "https://yt3.ggpht.com/lS4umLd520vBAi3JVxRRzeAyLTOyohiOJwM6s3jqw9xn4UaH-0z1PYEMaHiTXT5rKv9ai_OpMA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 1.69,
+  "sources": [
+    {
+      "id": "wiki:Laura Smith (British politician)",
+      "type": "wikipedia",
+      "label": "Laura Smith (British politician)",
+      "url": "https://en.wikipedia.org/wiki/Laura_Smith_(British_politician)",
+      "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "channel:UCrBcKqvim45BHRfbPlfO-Bg",
+      "type": "channel",
+      "label": "SportsJOE",
+      "url": "https://www.youtube.com/channel/UCrBcKqvim45BHRfbPlfO-Bg",
+      "firstSeenAt": "2026-09-29T12:49:34.681Z"
+    },
+    {
+      "id": "channel:UCOYXMJcUXo58HmJN1vuzKUA",
+      "type": "channel",
+      "label": "JOE",
+      "url": "https://www.youtube.com/channel/UCOYXMJcUXo58HmJN1vuzKUA",
+      "firstSeenAt": "2026-09-29T12:49:34.753Z"
+    }
+  ],
+  "recentItems": []
+}

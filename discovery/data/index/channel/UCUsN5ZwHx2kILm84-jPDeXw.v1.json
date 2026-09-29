@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UCUsN5ZwHx2kILm84-jPDeXw",
   "title": "Comedy Central",
   "thumb": "https://yt3.ggpht.com/kENjxM3Q5B0rgBE2kTPlzRYpbT8xc7gMYuhQRz7NVz6B-O9pTndDZt8UhOneZAOBjFInk-XbAw4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.9,
   "sources": [
@@ -106,9 +106,25 @@
       "label": "Key & Peele",
       "url": "https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ",
       "firstSeenAt": "2026-09-28T13:49:59.914Z"
+    },
+    {
+      "id": "channel:UClzCn8DxRSCuMFv_WfzkcrQ",
+      "type": "channel",
+      "label": "CBS",
+      "url": "https://www.youtube.com/channel/UClzCn8DxRSCuMFv_WfzkcrQ",
+      "firstSeenAt": "2026-09-29T12:49:35.717Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "l5P7s4sTaac",
+      "title": "We need to make some serious decisions about your mother's health. #KeyandPeele",
+      "publishedAt": "2026-09-28T20:00:43Z",
+      "durationSec": 166,
+      "thumb": "https://i.ytimg.com/vi/l5P7s4sTaac/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    },
     {
       "id": "6uJVcgTTDYQ",
       "title": "Picture this. #Detroiters",
@@ -179,15 +195,6 @@
       "durationSec": 487,
       "thumb": "https://i.ytimg.com/vi/cMMZxU9yYD8/mqdefault.jpg",
       "description": "It was the first ever MTV Video Music Awards and Madonna was on the cusp of superstardom. As told by Marisha Ray.\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf",
-      "chapters": []
-    },
-    {
-      "id": "TSYmLujUcAA",
-      "title": "Sexual tension in the stu. #Detroiters",
-      "publishedAt": "2026-09-14T16:00:48Z",
-      "durationSec": 78,
-      "thumb": "https://i.ytimg.com/vi/TSYmLujUcAA/mqdefault.jpg",
-      "description": "",
       "chapters": []
     }
   ]

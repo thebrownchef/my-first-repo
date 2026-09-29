@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
   "title": "Veritasium",
   "thumb": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The Royal Institution",
       "url": "https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw",
       "firstSeenAt": "2026-09-15T11:41:47.173Z"
+    },
+    {
+      "id": "channel:UCf5Y9u0ylaOGojIEUlBJnvg",
+      "type": "channel",
+      "label": "Raumzeit - Vlog der Zukunft",
+      "url": "https://www.youtube.com/channel/UCf5Y9u0ylaOGojIEUlBJnvg",
+      "firstSeenAt": "2026-09-29T12:49:27.158Z"
     }
   ],
   "recentItems": []

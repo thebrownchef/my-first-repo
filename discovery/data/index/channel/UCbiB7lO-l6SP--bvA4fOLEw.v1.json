@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "id": "UCbiB7lO-l6SP--bvA4fOLEw",
+  "title": "CBS Game Shows",
+  "thumb": "https://yt3.ggpht.com/GE7svO_XGoYmtZ2OBGII8hxTvvmOn8Bti8_8TjXc6ByuJnX0FFuLu8LjZc-G6jNE2PIxRoUv=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.09,
+  "sources": [
+    {
+      "id": "channel:UC4e0hMc3DMMdQ47dkoP0zVQ",
+      "type": "channel",
+      "label": "CBS Comedy",
+      "url": "https://www.youtube.com/channel/UC4e0hMc3DMMdQ47dkoP0zVQ",
+      "firstSeenAt": "2026-09-13T11:48:45.157Z"
+    },
+    {
+      "id": "channel:UCJ0uqCI0Vqr2Rrt1HseGirg",
+      "type": "channel",
+      "label": "The Late Late Show with James Corden",
+      "url": "https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg",
+      "firstSeenAt": "2026-09-29T12:49:35.649Z"
+    },
+    {
+      "id": "channel:UClzCn8DxRSCuMFv_WfzkcrQ",
+      "type": "channel",
+      "label": "CBS",
+      "url": "https://www.youtube.com/channel/UClzCn8DxRSCuMFv_WfzkcrQ",
+      "firstSeenAt": "2026-09-29T12:49:35.714Z"
+    }
+  ],
+  "recentItems": []
+}

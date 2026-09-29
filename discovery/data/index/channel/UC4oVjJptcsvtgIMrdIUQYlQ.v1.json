@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UC4oVjJptcsvtgIMrdIUQYlQ",
   "title": "LADbible Stories",
   "thumb": "https://yt3.ggpht.com/I2doxdXQ_dtfdZ5UmhVovnE-vy74qwGOBaYkYICCVnuwuWU-n-kbTSOdSpwKZZ2est7Rls5WKg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.34,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "LADbible Stories",
       "url": "https://www.youtube.com/channel/UC4oVjJptcsvtgIMrdIUQYlQ",
       "firstSeenAt": "2026-09-04T11:15:39.196Z"
+    },
+    {
+      "id": "channel:UCYRE3PMYatMVXmqmulF0sgA",
+      "type": "channel",
+      "label": "LADbible Entertainment",
+      "url": "https://www.youtube.com/channel/UCYRE3PMYatMVXmqmulF0sgA",
+      "firstSeenAt": "2026-09-29T12:49:28.392Z"
+    },
+    {
+      "id": "channel:UChfrWzVNU6qN0690-7yLoiw",
+      "type": "channel",
+      "label": "SPORTbible",
+      "url": "https://www.youtube.com/channel/UChfrWzVNU6qN0690-7yLoiw",
+      "firstSeenAt": "2026-09-29T12:49:28.513Z"
     }
   ],
   "recentItems": []

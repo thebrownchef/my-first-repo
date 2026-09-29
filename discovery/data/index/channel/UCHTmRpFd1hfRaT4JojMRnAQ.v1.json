@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "id": "UCHTmRpFd1hfRaT4JojMRnAQ",
+  "title": "CBS Soaps",
+  "thumb": "https://yt3.ggpht.com/E60mlBkwLlIg1zk12sWta0-UC9uXv2GHguRCLfEgzxG7axr7Yd2tm4ia1erA5vweJSoIZTtEGQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.36,
+  "sources": [
+    {
+      "id": "channel:UC4e0hMc3DMMdQ47dkoP0zVQ",
+      "type": "channel",
+      "label": "CBS Comedy",
+      "url": "https://www.youtube.com/channel/UC4e0hMc3DMMdQ47dkoP0zVQ",
+      "firstSeenAt": "2026-09-13T11:48:45.157Z"
+    },
+    {
+      "id": "channel:UCJ0uqCI0Vqr2Rrt1HseGirg",
+      "type": "channel",
+      "label": "The Late Late Show with James Corden",
+      "url": "https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg",
+      "firstSeenAt": "2026-09-29T12:49:35.650Z"
+    },
+    {
+      "id": "channel:UClzCn8DxRSCuMFv_WfzkcrQ",
+      "type": "channel",
+      "label": "CBS",
+      "url": "https://www.youtube.com/channel/UClzCn8DxRSCuMFv_WfzkcrQ",
+      "firstSeenAt": "2026-09-29T12:49:35.714Z"
+    }
+  ],
+  "recentItems": []
+}

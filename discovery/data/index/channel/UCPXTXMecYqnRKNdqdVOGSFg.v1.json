@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "id": "UCPXTXMecYqnRKNdqdVOGSFg",
+  "title": "TV9 Telugu Live",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kINV9J3l1Tq1kyefK7yNS0-IkKG3AONgiu6HmUc19JjMs=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 98.28,
+  "sources": [
+    {
+      "id": "wiki:Dhanush",
+      "type": "wikipedia",
+      "label": "Dhanush",
+      "url": "https://en.wikipedia.org/wiki/Dhanush",
+      "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "channel:UC7qRyUvlsuXGnfGuOrLRG0g",
+      "type": "channel",
+      "label": "TV9 USA",
+      "url": "https://www.youtube.com/channel/UC7qRyUvlsuXGnfGuOrLRG0g",
+      "firstSeenAt": "2026-09-29T12:49:26.797Z"
+    },
+    {
+      "id": "channel:UCfaww9Q8C_-EaM0sXI8o-fA",
+      "type": "channel",
+      "label": "TV9 Entertainment",
+      "url": "https://www.youtube.com/channel/UCfaww9Q8C_-EaM0sXI8o-fA",
+      "firstSeenAt": "2026-09-29T12:49:26.946Z"
+    }
+  ],
+  "recentItems": []
+}

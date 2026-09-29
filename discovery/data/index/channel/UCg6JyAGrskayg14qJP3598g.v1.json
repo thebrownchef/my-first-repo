@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "id": "UCg6JyAGrskayg14qJP3598g",
+  "title": "TV9 Telugu Digital",
+  "thumb": "https://yt3.ggpht.com/2BrjkPowtPFwTR6HpCaPyGkMlih_YoCpPmpKsoEu4GoADmMsl7yeUXlcdcGk_MjzxD4ZMglH=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 28,
+  "sources": [
+    {
+      "id": "channel:UCPXTXMecYqnRKNdqdVOGSFg",
+      "type": "channel",
+      "label": "TV9 Telugu Live",
+      "url": "https://www.youtube.com/channel/UCPXTXMecYqnRKNdqdVOGSFg",
+      "firstSeenAt": "2026-09-04T11:15:38.818Z"
+    },
+    {
+      "id": "channel:UC7qRyUvlsuXGnfGuOrLRG0g",
+      "type": "channel",
+      "label": "TV9 USA",
+      "url": "https://www.youtube.com/channel/UC7qRyUvlsuXGnfGuOrLRG0g",
+      "firstSeenAt": "2026-09-29T12:49:26.798Z"
+    },
+    {
+      "id": "channel:UCfaww9Q8C_-EaM0sXI8o-fA",
+      "type": "channel",
+      "label": "TV9 Entertainment",
+      "url": "https://www.youtube.com/channel/UCfaww9Q8C_-EaM0sXI8o-fA",
+      "firstSeenAt": "2026-09-29T12:49:26.946Z"
+    }
+  ],
+  "recentItems": []
+}

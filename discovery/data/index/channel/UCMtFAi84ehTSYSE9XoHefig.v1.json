@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UCMtFAi84ehTSYSE9XoHefig",
   "title": "The Late Show with Stephen Colbert",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m65RzRXyEAIlIg5E84TdMr1Q-8uVzCoAjGOR4GjR9AnCQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 3.07,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Peter Dinklage",
       "url": "https://en.wikipedia.org/wiki/Peter_Dinklage",
       "firstSeenAt": "2026-08-31T13:44:53.295Z"
+    },
+    {
+      "id": "channel:UCG9DuXf3RCqOHgaLEEFhcCw",
+      "type": "channel",
+      "label": "After Midnight",
+      "url": "https://www.youtube.com/channel/UCG9DuXf3RCqOHgaLEEFhcCw",
+      "firstSeenAt": "2026-09-29T12:49:35.574Z"
+    },
+    {
+      "id": "channel:UCJ0uqCI0Vqr2Rrt1HseGirg",
+      "type": "channel",
+      "label": "The Late Late Show with James Corden",
+      "url": "https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg",
+      "firstSeenAt": "2026-09-29T12:49:35.652Z"
     }
   ],
   "recentItems": []

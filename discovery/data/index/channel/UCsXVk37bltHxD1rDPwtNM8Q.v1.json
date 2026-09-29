@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T13:51:47.162Z",
+  "generatedAt": "2026-09-29T12:50:52.630Z",
   "id": "UCsXVk37bltHxD1rDPwtNM8Q",
   "title": "Kurzgesagt – In a Nutshell",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Aluminum Oxide",
       "url": "https://www.youtube.com/channel/UCZhAEkzW75buNDLGrDIUMFw",
       "firstSeenAt": "2026-09-26T11:21:55.467Z"
+    },
+    {
+      "id": "channel:UCf5Y9u0ylaOGojIEUlBJnvg",
+      "type": "channel",
+      "label": "Raumzeit - Vlog der Zukunft",
+      "url": "https://www.youtube.com/channel/UCf5Y9u0ylaOGojIEUlBJnvg",
+      "firstSeenAt": "2026-09-29T12:49:27.158Z"
     }
   ],
   "recentItems": []
