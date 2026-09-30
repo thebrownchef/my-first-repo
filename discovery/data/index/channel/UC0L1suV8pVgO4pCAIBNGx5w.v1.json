@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UC0L1suV8pVgO4pCAIBNGx5w",
   "title": "60 Minutes Australia",
   "thumb": "https://yt3.ggpht.com/xV2Da9xw7o6xEisliczER_jtv5ycee-pa50dRX8UWyc898h3jIA3SN7jaVP87kLT7s8bfWuC=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.27,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "Kelvin Thomson",
       "url": "https://en.wikipedia.org/wiki/Kelvin_Thomson",
       "firstSeenAt": "2026-08-30T11:52:30.517Z"
+    },
+    {
+      "id": "channel:UC5G0-uMcGFhNts84d24BZqw",
+      "type": "channel",
+      "label": "TODAY",
+      "url": "https://www.youtube.com/channel/UC5G0-uMcGFhNts84d24BZqw",
+      "firstSeenAt": "2026-09-30T12:31:20.859Z"
+    },
+    {
+      "id": "channel:UCX15yQQOgUllNFd8wNRV1KQ",
+      "type": "channel",
+      "label": "A Current Affair",
+      "url": "https://www.youtube.com/channel/UCX15yQQOgUllNFd8wNRV1KQ",
+      "firstSeenAt": "2026-09-30T12:31:20.917Z"
+    },
+    {
+      "id": "channel:UC7HZ5uBTih75iwtesU0aDew",
+      "type": "channel",
+      "label": "Channel 9",
+      "url": "https://www.youtube.com/channel/UC7HZ5uBTih75iwtesU0aDew",
+      "firstSeenAt": "2026-09-30T12:31:21.042Z"
     }
   ],
   "recentItems": []

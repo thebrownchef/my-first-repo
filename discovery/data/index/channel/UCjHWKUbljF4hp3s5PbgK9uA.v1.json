@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "id": "UCjHWKUbljF4hp3s5PbgK9uA",
+  "title": "News One",
+  "thumb": "https://yt3.ggpht.com/J6B0FReg8w-8Q3L6vgmOXN2KIP2vAji7EnNu6ufz34qx9masdbANHXroTZGqYt63I-hn6uIEdw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 22.57,
+  "sources": [
+    {
+      "id": "channel:UCatkw-24OJitQmOVKPhQk1g",
+      "type": "channel",
+      "label": "Tv One",
+      "url": "https://www.youtube.com/channel/UCatkw-24OJitQmOVKPhQk1g",
+      "firstSeenAt": "2026-09-05T10:32:42.746Z"
+    },
+    {
+      "id": "channel:UCb3vKSPkWFWiFljsSGoeyoQ",
+      "type": "channel",
+      "label": "WasebTV",
+      "url": "https://www.youtube.com/channel/UCb3vKSPkWFWiFljsSGoeyoQ",
+      "firstSeenAt": "2026-09-30T12:31:24.615Z"
+    }
+  ],
+  "recentItems": []
+}

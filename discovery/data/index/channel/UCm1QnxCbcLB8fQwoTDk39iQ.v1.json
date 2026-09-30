@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCm1QnxCbcLB8fQwoTDk39iQ",
   "title": "WhamVEVO",
   "thumb": "https://yt3.ggpht.com/IM9L85D3z6gqNoZ7ceDyK-xCMaBb9YAUpv1NKVRS2YpweKmrs1ukYG5SpJUF14KK1rKIF7jl0g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Wham! discography",
       "url": "https://en.wikipedia.org/wiki/Wham!_discography",
       "firstSeenAt": "2026-09-01T11:37:09.151Z"
+    },
+    {
+      "id": "channel:UC7X_qC_rgc3s04Aw1t5DSHg",
+      "type": "channel",
+      "label": "georgemichaelVEVO",
+      "url": "https://www.youtube.com/channel/UC7X_qC_rgc3s04Aw1t5DSHg",
+      "firstSeenAt": "2026-09-30T12:31:06.877Z"
     }
   ],
   "recentItems": []

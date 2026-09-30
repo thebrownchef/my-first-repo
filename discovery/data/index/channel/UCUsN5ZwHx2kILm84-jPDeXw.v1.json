@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCUsN5ZwHx2kILm84-jPDeXw",
   "title": "Comedy Central",
   "thumb": "https://yt3.ggpht.com/kENjxM3Q5B0rgBE2kTPlzRYpbT8xc7gMYuhQRz7NVz6B-O9pTndDZt8UhOneZAOBjFInk-XbAw4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.9,
   "sources": [
@@ -113,9 +113,34 @@
       "label": "CBS",
       "url": "https://www.youtube.com/channel/UClzCn8DxRSCuMFv_WfzkcrQ",
       "firstSeenAt": "2026-09-29T12:49:35.717Z"
+    },
+    {
+      "id": "channel:UCyqTvR9RNkOPvyQKwtbP4xQ",
+      "type": "channel",
+      "label": "BEYONDcomedy",
+      "url": "https://www.youtube.com/channel/UCyqTvR9RNkOPvyQKwtbP4xQ",
+      "firstSeenAt": "2026-09-30T12:31:16.414Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "MUe2Gd5c-bU",
+      "title": "From minimum wage to the 40 hour work week, if you like labor laws you have Frances Perkins to thank",
+      "publishedAt": "2026-09-29T16:05:10Z",
+      "durationSec": 121,
+      "thumb": "https://i.ytimg.com/vi/MUe2Gd5c-bU/mqdefault.jpg",
+      "description": "Paramount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf",
+      "chapters": []
+    },
+    {
+      "id": "YAw6d9cECAw",
+      "title": "FDR’s Labor Secretary Frances Perkins (featuring Mae Whitman) - Drunk History",
+      "publishedAt": "2026-09-29T16:00:32Z",
+      "durationSec": 490,
+      "thumb": "https://i.ytimg.com/vi/YAw6d9cECAw/mqdefault.jpg",
+      "description": "From minimum wage to the 40 hour work week, if you like labor laws you have Frances Perkins to thank. Learn how FDR’s Labor Secretary shaped American life. Narrated by Lisa Gilroy.\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf",
+      "chapters": []
+    },
     {
       "id": "l5P7s4sTaac",
       "title": "We need to make some serious decisions about your mother's health. #KeyandPeele",
@@ -177,24 +202,6 @@
       "durationSec": 93,
       "thumb": "https://i.ytimg.com/vi/ug7NQLF2aSg/mqdefault.jpg",
       "description": "",
-      "chapters": []
-    },
-    {
-      "id": "-e7bwPcD8Tk",
-      "title": "\"This is a pop-up, bitch.\"",
-      "publishedAt": "2026-09-15T19:00:51Z",
-      "durationSec": 80,
-      "thumb": "https://i.ytimg.com/vi/-e7bwPcD8Tk/mqdefault.jpg",
-      "description": "Bravo to Bowen Yang, who makes his debut in \"Oh, Mary!\" on Broadway tonight! #BroadCity",
-      "chapters": []
-    },
-    {
-      "id": "cMMZxU9yYD8",
-      "title": "Madonna Breaks Out at the VMAs (feat. Meghan Trainor) - Drunk History",
-      "publishedAt": "2026-09-15T16:00:04Z",
-      "durationSec": 487,
-      "thumb": "https://i.ytimg.com/vi/cMMZxU9yYD8/mqdefault.jpg",
-      "description": "It was the first ever MTV Video Music Awards and Madonna was on the cusp of superstardom. As told by Marisha Ray.\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf",
       "chapters": []
     }
   ]

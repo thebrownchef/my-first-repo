@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCQJWtTnAHhEG5w4uN0udnUQ",
   "title": "Prime Video",
   "thumb": "https://yt3.ggpht.com/9rJFaLKur-UDrYil-QVJ5VVmg6fDl4wtW_aIiGjYpwzt0f6OWGXQM5WRIKZAq0mxjyREHYqnpto=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.65,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Audible",
       "url": "https://www.youtube.com/channel/UCRqjvP8KCzc5ayy0W2Gu8QA",
       "firstSeenAt": "2026-09-24T11:42:49.492Z"
+    },
+    {
+      "id": "channel:UCxtzhKGdXeMv3stgMbYcyDg",
+      "type": "channel",
+      "label": "BEYONDoriginals",
+      "url": "https://www.youtube.com/channel/UCxtzhKGdXeMv3stgMbYcyDg",
+      "firstSeenAt": "2026-09-30T12:31:15.362Z"
     }
   ],
   "recentItems": []

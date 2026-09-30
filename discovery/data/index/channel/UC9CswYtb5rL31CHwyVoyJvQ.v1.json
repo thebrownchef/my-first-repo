@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UC9CswYtb5rL31CHwyVoyJvQ",
   "title": "The Museum of Modern Art",
   "thumb": "https://yt3.ggpht.com/vLIZNyP88y8JwzB2-8Wwb47MzKO2sd7E67_Bjcz4uHYBeHsV0zZ_pwFbwz1ertaYXcREmiOpjw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Valse Triste (film)",
       "url": "https://en.wikipedia.org/wiki/Valse_Triste_(film)",
       "firstSeenAt": "2026-08-28T18:39:19.395Z"
+    },
+    {
+      "id": "channel:UCX8L2exHT9rqfpCC0TCx57A",
+      "type": "channel",
+      "label": "courtney love",
+      "url": "https://www.youtube.com/channel/UCX8L2exHT9rqfpCC0TCx57A",
+      "firstSeenAt": "2026-09-30T12:31:13.710Z"
     }
   ],
   "recentItems": []

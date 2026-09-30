@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UC5e0xSqwDGlRg3sdvGQh7lg",
   "title": "Andy Milonakis",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lrN62qCabdgoDm8FeEhWXRgg2EvlU68miuEMF9uafRpQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "Jay Mewes",
       "url": "https://www.youtube.com/channel/UCMUyXED1r2JjVHtcHJd_aUg",
       "firstSeenAt": "2026-09-27T11:59:35.348Z"
+    },
+    {
+      "id": "channel:UCmKDDaxY2SZA1roVCSLv_gw",
+      "type": "channel",
+      "label": "Simon Rex",
+      "url": "https://www.youtube.com/channel/UCmKDDaxY2SZA1roVCSLv_gw",
+      "firstSeenAt": "2026-09-30T12:31:07.333Z"
+    },
+    {
+      "id": "channel:UCaLfMkkHhSA_LaCta0BzyhQ",
+      "type": "channel",
+      "label": "Munchies",
+      "url": "https://www.youtube.com/channel/UCaLfMkkHhSA_LaCta0BzyhQ",
+      "firstSeenAt": "2026-09-30T12:31:07.981Z"
+    },
+    {
+      "id": "channel:UCX8L2exHT9rqfpCC0TCx57A",
+      "type": "channel",
+      "label": "courtney love",
+      "url": "https://www.youtube.com/channel/UCX8L2exHT9rqfpCC0TCx57A",
+      "firstSeenAt": "2026-09-30T12:31:13.714Z"
+    },
+    {
+      "id": "channel:UCAKaUMPv7RWiy3JfhbbSK2Q",
+      "type": "channel",
+      "label": "BEYONDreality",
+      "url": "https://www.youtube.com/channel/UCAKaUMPv7RWiy3JfhbbSK2Q",
+      "firstSeenAt": "2026-09-30T12:31:15.536Z"
+    },
+    {
+      "id": "channel:UCyqTvR9RNkOPvyQKwtbP4xQ",
+      "type": "channel",
+      "label": "BEYONDcomedy",
+      "url": "https://www.youtube.com/channel/UCyqTvR9RNkOPvyQKwtbP4xQ",
+      "firstSeenAt": "2026-09-30T12:31:16.418Z"
     }
   ],
   "recentItems": []

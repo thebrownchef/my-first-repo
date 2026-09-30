@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "id": "UCWhjUbJX_F1zWSJm4YhHvZg",
+  "title": "Mr Bean Korea",
+  "thumb": "https://yt3.ggpht.com/lG9iUP0fxbE514HVwyw1M0afi0QKT1g4ruo0bDysavJJ-WE6uxmvhdqMnDlInKVlZOhR-S8KHg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.17,
+  "sources": [
+    {
+      "id": "channel:UCEwIUtFBhaI2L2PuKv0KL2g",
+      "type": "channel",
+      "label": "Classic Mr Bean",
+      "url": "https://www.youtube.com/channel/UCEwIUtFBhaI2L2PuKv0KL2g",
+      "firstSeenAt": "2026-09-30T12:31:10.097Z"
+    },
+    {
+      "id": "channel:UCzoFjzSkbrDD1GHsz2YNLig",
+      "type": "channel",
+      "label": "Mr Bean World",
+      "url": "https://www.youtube.com/channel/UCzoFjzSkbrDD1GHsz2YNLig",
+      "firstSeenAt": "2026-09-30T12:31:12.323Z"
+    },
+    {
+      "id": "channel:UCgQzKu-jZSBeMDZAxdDYxXA",
+      "type": "channel",
+      "label": "Mr Bean Deutschland",
+      "url": "https://www.youtube.com/channel/UCgQzKu-jZSBeMDZAxdDYxXA",
+      "firstSeenAt": "2026-09-30T12:31:12.754Z"
+    }
+  ],
+  "recentItems": []
+}

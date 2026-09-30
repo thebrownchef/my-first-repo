@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCxzZ4cQdP1WLAlsBE9suFRA",
   "title": "Multicom Entertainment",
   "thumb": "https://yt3.ggpht.com/XAaXCYGUqJDGzpqflHTZSw1baYXAeUAhIoJB8vL2WSU8w54O1S5M0Mf1JIYLIHfn4u9HpOzE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "TheArchiveMovies",
       "url": "https://www.youtube.com/channel/UCunMgh6zlbhjYLOoU5zKTAA",
       "firstSeenAt": "2026-09-13T11:48:39.456Z"
+    },
+    {
+      "id": "channel:UCu5LF2JvTWU4Kk8YYHnDm8A",
+      "type": "channel",
+      "label": "Les Archives",
+      "url": "https://www.youtube.com/channel/UCu5LF2JvTWU4Kk8YYHnDm8A",
+      "firstSeenAt": "2026-09-30T12:31:24.958Z"
+    },
+    {
+      "id": "channel:UC06Pc7pC4hFgUFLWelYEBEQ",
+      "type": "channel",
+      "label": "ElArchivo",
+      "url": "https://www.youtube.com/channel/UC06Pc7pC4hFgUFLWelYEBEQ",
+      "firstSeenAt": "2026-09-30T12:31:26.263Z"
+    },
+    {
+      "id": "channel:UCXrHsEuACnSonJstU7tBJYA",
+      "type": "channel",
+      "label": "Crime Stories TV",
+      "url": "https://www.youtube.com/channel/UCXrHsEuACnSonJstU7tBJYA",
+      "firstSeenAt": "2026-09-30T12:31:26.317Z"
+    },
+    {
+      "id": "channel:UCm8H1IdVGKaEW3HDJJ8KcaA",
+      "type": "channel",
+      "label": "Grapevine Documentaries",
+      "url": "https://www.youtube.com/channel/UCm8H1IdVGKaEW3HDJJ8KcaA",
+      "firstSeenAt": "2026-09-30T12:31:26.366Z"
     }
   ],
   "recentItems": []

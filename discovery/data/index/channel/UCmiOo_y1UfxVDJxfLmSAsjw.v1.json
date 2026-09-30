@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "id": "UCmiOo_y1UfxVDJxfLmSAsjw",
+  "title": "TV9 Trending",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m4x5SWbjzmnpUwqK89guP09PCm7ovrasV4bEB7D9vFkQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "channel:UCbERSG_oGovGO_3JnLVcb_Q",
+      "type": "channel",
+      "label": "Tv9 Filmy News",
+      "url": "https://www.youtube.com/channel/UCbERSG_oGovGO_3JnLVcb_Q",
+      "firstSeenAt": "2026-09-30T12:31:09.401Z"
+    },
+    {
+      "id": "channel:UCU32Gzx4tvTNf006HuepyuQ",
+      "type": "channel",
+      "label": "Tv9 Spiritual",
+      "url": "https://www.youtube.com/channel/UCU32Gzx4tvTNf006HuepyuQ",
+      "firstSeenAt": "2026-09-30T12:31:09.462Z"
+    },
+    {
+      "id": "channel:UC1soS3R3rE_4wZKHroZCh9w",
+      "type": "channel",
+      "label": "Tv9 Nimma Doctor",
+      "url": "https://www.youtube.com/channel/UC1soS3R3rE_4wZKHroZCh9w",
+      "firstSeenAt": "2026-09-30T12:31:09.514Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCVTQuK2CaWaTgSsoNkn5AiQ",
   "title": "HBO",
   "thumb": "https://yt3.ggpht.com/xrXPx6zj9lXDumnGmxo1BMS3NhyOjHaO3io8FXK1yqbojj3eMJpbJ-b92ODieH2hsY8KYuXs_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.43,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Princess (2022 documentary film)",
       "url": "https://en.wikipedia.org/wiki/The_Princess_(2022_documentary_film)",
       "firstSeenAt": "2026-08-31T13:44:50.067Z"
+    },
+    {
+      "id": "channel:UCxtzhKGdXeMv3stgMbYcyDg",
+      "type": "channel",
+      "label": "BEYONDoriginals",
+      "url": "https://www.youtube.com/channel/UCxtzhKGdXeMv3stgMbYcyDg",
+      "firstSeenAt": "2026-09-30T12:31:15.362Z"
     }
   ],
   "recentItems": []

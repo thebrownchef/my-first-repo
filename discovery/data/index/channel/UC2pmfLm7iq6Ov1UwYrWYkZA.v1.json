@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 104,
-  "distinctSourceCount": 104,
+  "score": 105,
+  "distinctSourceCount": 105,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -736,6 +736,13 @@
       "label": "BrandonFlowersVEVO",
       "url": "https://www.youtube.com/channel/UC-nFnXfFtnNVna150WrJGPg",
       "firstSeenAt": "2026-09-29T12:49:20.579Z"
+    },
+    {
+      "id": "channel:UC7X_qC_rgc3s04Aw1t5DSHg",
+      "type": "channel",
+      "label": "georgemichaelVEVO",
+      "url": "https://www.youtube.com/channel/UC7X_qC_rgc3s04Aw1t5DSHg",
+      "firstSeenAt": "2026-09-30T12:31:06.876Z"
     }
   ],
   "recentItems": []

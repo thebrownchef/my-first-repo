@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UC5k3Kc0avyDJ2nG9Kxm9JmQ",
   "title": "Bright Sun Films",
   "thumb": "https://yt3.ggpht.com/w8J9p5JzMHa6pdazFE2W7hre52eMbhIaewh3yeZ5kGp1fPRRpGtX8to81w7wxMTJVXnVIoYvpg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Jake Williams",
       "url": "https://www.youtube.com/channel/UCn_1VWkdlS4W4hNgD2YgshA",
       "firstSeenAt": "2026-09-28T13:50:18.858Z"
+    },
+    {
+      "id": "wiki:Westminster Mall (California)",
+      "type": "wikipedia",
+      "label": "Westminster Mall (California)",
+      "url": "https://en.wikipedia.org/wiki/Westminster_Mall_(California)",
+      "firstSeenAt": "2026-09-30T12:31:04.442Z"
     }
   ],
   "recentItems": []

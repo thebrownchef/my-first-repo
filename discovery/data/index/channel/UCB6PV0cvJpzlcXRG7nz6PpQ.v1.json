@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCB6PV0cvJpzlcXRG7nz6PpQ",
   "title": "Motherboard",
   "thumb": "https://yt3.ggpht.com/rEWINZdIFQPwsbGYLaBbTTWDpnzE1LimQ8IV4YiHo4Sz9UBtuNObm9AlaI-AlHtL5ksPIfsyiw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "VICE News",
       "url": "https://www.youtube.com/channel/UCZaT_X_mc0BI-djXOlfhqWQ",
       "firstSeenAt": "2026-09-09T11:19:52.741Z"
+    },
+    {
+      "id": "channel:UCaLfMkkHhSA_LaCta0BzyhQ",
+      "type": "channel",
+      "label": "Munchies",
+      "url": "https://www.youtube.com/channel/UCaLfMkkHhSA_LaCta0BzyhQ",
+      "firstSeenAt": "2026-09-30T12:31:07.979Z"
+    },
+    {
+      "id": "channel:UCWF0PiUvUi3Jma2oFgaiX2w",
+      "type": "channel",
+      "label": "VICE TV",
+      "url": "https://www.youtube.com/channel/UCWF0PiUvUi3Jma2oFgaiX2w",
+      "firstSeenAt": "2026-09-30T12:31:08.035Z"
+    },
+    {
+      "id": "channel:UCWu9QuHF-dcakBmhullIH6w",
+      "type": "channel",
+      "label": "Waypoint",
+      "url": "https://www.youtube.com/channel/UCWu9QuHF-dcakBmhullIH6w",
+      "firstSeenAt": "2026-09-30T12:31:08.695Z"
+    },
+    {
+      "id": "channel:UCflb1gG-X1dy1Ru5JIk5sPw",
+      "type": "channel",
+      "label": "Amuse",
+      "url": "https://www.youtube.com/channel/UCflb1gG-X1dy1Ru5JIk5sPw",
+      "firstSeenAt": "2026-09-30T12:31:08.863Z"
+    },
+    {
+      "id": "channel:UCfQDD-pbllOCXHYwiXxjJxA",
+      "type": "channel",
+      "label": "VICE Life",
+      "url": "https://www.youtube.com/channel/UCfQDD-pbllOCXHYwiXxjJxA",
+      "firstSeenAt": "2026-09-30T12:31:08.937Z"
     }
   ],
   "recentItems": []

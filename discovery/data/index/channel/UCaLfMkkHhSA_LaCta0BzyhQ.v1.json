@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCaLfMkkHhSA_LaCta0BzyhQ",
   "title": "Munchies",
   "thumb": "https://yt3.ggpht.com/YI7KRAO1YT4SZGn319o908cHt2eY2-xOuzKRhEc2ybxpGjsJGA350QAZgOoCRWXcj_kuE7aw0Xw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -22,6 +22,48 @@
       "label": "VICE News",
       "url": "https://www.youtube.com/channel/UCZaT_X_mc0BI-djXOlfhqWQ",
       "firstSeenAt": "2026-09-09T11:19:52.741Z"
+    },
+    {
+      "id": "channel:UCWF0PiUvUi3Jma2oFgaiX2w",
+      "type": "channel",
+      "label": "VICE TV",
+      "url": "https://www.youtube.com/channel/UCWF0PiUvUi3Jma2oFgaiX2w",
+      "firstSeenAt": "2026-09-30T12:31:08.034Z"
+    },
+    {
+      "id": "channel:UCB6PV0cvJpzlcXRG7nz6PpQ",
+      "type": "channel",
+      "label": "Motherboard",
+      "url": "https://www.youtube.com/channel/UCB6PV0cvJpzlcXRG7nz6PpQ",
+      "firstSeenAt": "2026-09-30T12:31:08.362Z"
+    },
+    {
+      "id": "channel:UCBqaeM-yJMKcpAFdVMb-2Pw",
+      "type": "channel",
+      "label": "Noisey Italia",
+      "url": "https://www.youtube.com/channel/UCBqaeM-yJMKcpAFdVMb-2Pw",
+      "firstSeenAt": "2026-09-30T12:31:08.512Z"
+    },
+    {
+      "id": "channel:UCWu9QuHF-dcakBmhullIH6w",
+      "type": "channel",
+      "label": "Waypoint",
+      "url": "https://www.youtube.com/channel/UCWu9QuHF-dcakBmhullIH6w",
+      "firstSeenAt": "2026-09-30T12:31:08.696Z"
+    },
+    {
+      "id": "channel:UCflb1gG-X1dy1Ru5JIk5sPw",
+      "type": "channel",
+      "label": "Amuse",
+      "url": "https://www.youtube.com/channel/UCflb1gG-X1dy1Ru5JIk5sPw",
+      "firstSeenAt": "2026-09-30T12:31:08.863Z"
+    },
+    {
+      "id": "channel:UCfQDD-pbllOCXHYwiXxjJxA",
+      "type": "channel",
+      "label": "VICE Life",
+      "url": "https://www.youtube.com/channel/UCfQDD-pbllOCXHYwiXxjJxA",
+      "firstSeenAt": "2026-09-30T12:31:08.937Z"
     }
   ],
   "recentItems": []

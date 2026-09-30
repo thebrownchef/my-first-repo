@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UC5Va8SDMp-yviytKMh9YaNQ",
   "title": "Touring Talkies",
   "thumb": "https://yt3.ggpht.com/s1rS6KqDpbaeFLHkvmAbxAlWWpoydhkP2FMJ041GIRwScsAtyo8IQC3AQ_QbvrsUFy6pnQeb=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 7.84,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "R. Parthiban",
       "url": "https://en.wikipedia.org/wiki/R._Parthiban",
       "firstSeenAt": "2026-09-06T10:53:22.168Z"
+    },
+    {
+      "id": "channel:UCquQfNLe0j_z4fO8AVdMSNQ",
+      "type": "channel",
+      "label": "Aanmeega Talkies",
+      "url": "https://www.youtube.com/channel/UCquQfNLe0j_z4fO8AVdMSNQ",
+      "firstSeenAt": "2026-09-30T12:31:17.590Z"
+    },
+    {
+      "id": "channel:UCj8oVW97D5KldE9XhE0aMdw",
+      "type": "channel",
+      "label": "Touring Cinemas",
+      "url": "https://www.youtube.com/channel/UCj8oVW97D5KldE9XhE0aMdw",
+      "firstSeenAt": "2026-09-30T12:31:20.521Z"
     }
   ],
   "recentItems": []

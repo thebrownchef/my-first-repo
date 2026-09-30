@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCIYLOcEUX6TbBo7HQVF2PKA",
   "title": "9 News Australia",
   "thumb": "https://yt3.ggpht.com/JzqNSa2-xwC-09jtp9rtHO13iGSWOp1WlzVcXjOluJFUWpz2C_g8VyGZuFdzXWWnnj_ZhUZj=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 8.79,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "60 Minutes Australia",
       "url": "https://www.youtube.com/channel/UC0L1suV8pVgO4pCAIBNGx5w",
       "firstSeenAt": "2026-09-05T10:32:42.313Z"
+    },
+    {
+      "id": "channel:UCV5HXUHFR-yuSb7qDJ5_80g",
+      "type": "channel",
+      "label": "Wide World of Sports",
+      "url": "https://www.youtube.com/channel/UCV5HXUHFR-yuSb7qDJ5_80g",
+      "firstSeenAt": "2026-09-30T12:31:20.601Z"
+    },
+    {
+      "id": "channel:UC5G0-uMcGFhNts84d24BZqw",
+      "type": "channel",
+      "label": "TODAY",
+      "url": "https://www.youtube.com/channel/UC5G0-uMcGFhNts84d24BZqw",
+      "firstSeenAt": "2026-09-30T12:31:20.859Z"
+    },
+    {
+      "id": "channel:UCX15yQQOgUllNFd8wNRV1KQ",
+      "type": "channel",
+      "label": "A Current Affair",
+      "url": "https://www.youtube.com/channel/UCX15yQQOgUllNFd8wNRV1KQ",
+      "firstSeenAt": "2026-09-30T12:31:20.918Z"
+    },
+    {
+      "id": "channel:UC7HZ5uBTih75iwtesU0aDew",
+      "type": "channel",
+      "label": "Channel 9",
+      "url": "https://www.youtube.com/channel/UC7HZ5uBTih75iwtesU0aDew",
+      "firstSeenAt": "2026-09-30T12:31:21.042Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCDiPds0v60wueil5B8w3fPQ",
   "title": "FOX",
   "thumb": "https://yt3.ggpht.com/u9HpgSdwEawKbvs5CP6CCQO0RwmTNuOS2eG_JU1NYBW0n_g_022Pt7h2D0nF33Q4SBb-OVoFiQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.85,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "FOX 11 Los Angeles",
       "url": "https://www.youtube.com/channel/UCHfF8wFnipMeDpJf8OmMxDg",
       "firstSeenAt": "2026-09-15T11:41:57.625Z"
+    },
+    {
+      "id": "channel:UCJpVJ8t4ols4OxIb0fHOZ-Q",
+      "type": "channel",
+      "label": "Fear Factor",
+      "url": "https://www.youtube.com/channel/UCJpVJ8t4ols4OxIb0fHOZ-Q",
+      "firstSeenAt": "2026-09-30T12:31:15.027Z"
     }
   ],
   "recentItems": []

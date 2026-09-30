@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "id": "UCIsbLox_y9dCIMLd8tdC6qg",
+  "title": "Vanity Fair",
+  "thumb": "https://yt3.ggpht.com/wqiWf6fTuyJuI--L6oSzGEgRn3cib7bMsVYMtX7Kkr6ks_urbcsmEPaOfmKlgKlb_Iz5znGAdw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.5,
+  "sources": [
+    {
+      "id": "wiki:The Snob's Dictionary",
+      "type": "wikipedia",
+      "label": "The Snob's Dictionary",
+      "url": "https://en.wikipedia.org/wiki/The_Snob's_Dictionary",
+      "firstSeenAt": "2026-08-28T18:39:16.665Z"
+    },
+    {
+      "id": "channel:UCX8L2exHT9rqfpCC0TCx57A",
+      "type": "channel",
+      "label": "courtney love",
+      "url": "https://www.youtube.com/channel/UCX8L2exHT9rqfpCC0TCx57A",
+      "firstSeenAt": "2026-09-30T12:31:13.710Z"
+    }
+  ],
+  "recentItems": []
+}

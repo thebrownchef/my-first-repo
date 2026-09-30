@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCm8H1IdVGKaEW3HDJJ8KcaA",
   "title": "Grapevine Documentaries",
   "thumb": "https://yt3.ggpht.com/1y6NNRWxhTQRokEOsbJL5CwazhkI7bWT7zDTgjssOLuM-9NLo5yoBanqyA0XJkxqn5WiJHC5n_8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,48 @@
       "label": "TheArchiveMovies",
       "url": "https://www.youtube.com/channel/UCunMgh6zlbhjYLOoU5zKTAA",
       "firstSeenAt": "2026-09-13T11:48:39.455Z"
+    },
+    {
+      "id": "channel:UCu5LF2JvTWU4Kk8YYHnDm8A",
+      "type": "channel",
+      "label": "Les Archives",
+      "url": "https://www.youtube.com/channel/UCu5LF2JvTWU4Kk8YYHnDm8A",
+      "firstSeenAt": "2026-09-30T12:31:24.958Z"
+    },
+    {
+      "id": "channel:UCxzZ4cQdP1WLAlsBE9suFRA",
+      "type": "channel",
+      "label": "Multicom Entertainment",
+      "url": "https://www.youtube.com/channel/UCxzZ4cQdP1WLAlsBE9suFRA",
+      "firstSeenAt": "2026-09-30T12:31:25.952Z"
+    },
+    {
+      "id": "channel:UCWlQiGby-ociYgfkE_qty_Q",
+      "type": "channel",
+      "label": "ThrillGore",
+      "url": "https://www.youtube.com/channel/UCWlQiGby-ociYgfkE_qty_Q",
+      "firstSeenAt": "2026-09-30T12:31:26.005Z"
+    },
+    {
+      "id": "channel:UC06Pc7pC4hFgUFLWelYEBEQ",
+      "type": "channel",
+      "label": "ElArchivo",
+      "url": "https://www.youtube.com/channel/UC06Pc7pC4hFgUFLWelYEBEQ",
+      "firstSeenAt": "2026-09-30T12:31:26.262Z"
+    },
+    {
+      "id": "channel:UCXrHsEuACnSonJstU7tBJYA",
+      "type": "channel",
+      "label": "Crime Stories TV",
+      "url": "https://www.youtube.com/channel/UCXrHsEuACnSonJstU7tBJYA",
+      "firstSeenAt": "2026-09-30T12:31:26.315Z"
+    },
+    {
+      "id": "channel:UC8EI_ynES-TdNktp6wLRLPw",
+      "type": "channel",
+      "label": "TheArchiveSeries",
+      "url": "https://www.youtube.com/channel/UC8EI_ynES-TdNktp6wLRLPw",
+      "firstSeenAt": "2026-09-30T12:31:26.616Z"
     }
   ],
   "recentItems": []

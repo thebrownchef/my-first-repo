@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:50:52.630Z",
+  "generatedAt": "2026-09-30T12:32:50.334Z",
   "id": "UCXrHsEuACnSonJstU7tBJYA",
   "title": "Crime Stories TV",
   "thumb": "https://yt3.ggpht.com/jU5HPOPAQCoAB_0HN4pjhx3MVU2cKtvw2nx1pZSCdpVIBG2GMUxIwFzfhZ3Vg0r7ezg1P5CGZQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "TheArchiveMovies",
       "url": "https://www.youtube.com/channel/UCunMgh6zlbhjYLOoU5zKTAA",
       "firstSeenAt": "2026-09-13T11:48:39.456Z"
+    },
+    {
+      "id": "channel:UCWlQiGby-ociYgfkE_qty_Q",
+      "type": "channel",
+      "label": "ThrillGore",
+      "url": "https://www.youtube.com/channel/UCWlQiGby-ociYgfkE_qty_Q",
+      "firstSeenAt": "2026-09-30T12:31:26.006Z"
+    },
+    {
+      "id": "channel:UC06Pc7pC4hFgUFLWelYEBEQ",
+      "type": "channel",
+      "label": "ElArchivo",
+      "url": "https://www.youtube.com/channel/UC06Pc7pC4hFgUFLWelYEBEQ",
+      "firstSeenAt": "2026-09-30T12:31:26.263Z"
+    },
+    {
+      "id": "channel:UCm8H1IdVGKaEW3HDJJ8KcaA",
+      "type": "channel",
+      "label": "Grapevine Documentaries",
+      "url": "https://www.youtube.com/channel/UCm8H1IdVGKaEW3HDJJ8KcaA",
+      "firstSeenAt": "2026-09-30T12:31:26.365Z"
     }
   ],
   "recentItems": []
