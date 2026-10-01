@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "generatedAt": "2026-10-01T13:13:14.665Z",
   "id": "UCccjdJEay2hpb5scz61zY6Q",
   "title": "NBC",
   "thumb": "https://yt3.ggpht.com/Lh3IR3_DCVkvF5xsFkGk6KhQcYmp0gplmeQR145r0rcu2VdrAPhIMef3yvgqZ4QIaldVSou53o4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.47,
   "sources": [
@@ -43,6 +43,27 @@
       "label": "America's Got Talent",
       "url": "https://www.youtube.com/channel/UCT2X19JJaJGUN7mrYuImANQ",
       "firstSeenAt": "2026-09-21T12:45:08.452Z"
+    },
+    {
+      "id": "channel:UCc1oUaI2fYj9PdcH70KFLCA",
+      "type": "channel",
+      "label": "This Is Us",
+      "url": "https://www.youtube.com/channel/UCc1oUaI2fYj9PdcH70KFLCA",
+      "firstSeenAt": "2026-10-01T13:10:04.022Z"
+    },
+    {
+      "id": "channel:UC2gzy_aI-luPtEpL-GzQP6w",
+      "type": "channel",
+      "label": "A Little Late With Lilly Singh",
+      "url": "https://www.youtube.com/channel/UC2gzy_aI-luPtEpL-GzQP6w",
+      "firstSeenAt": "2026-10-01T13:10:04.237Z"
+    },
+    {
+      "id": "channel:UCVTyTA7-g9nopHeHbeuvpRA",
+      "type": "channel",
+      "label": "Late Night with Seth Meyers",
+      "url": "https://www.youtube.com/channel/UCVTyTA7-g9nopHeHbeuvpRA",
+      "firstSeenAt": "2026-10-01T13:10:04.410Z"
     }
   ],
   "recentItems": []

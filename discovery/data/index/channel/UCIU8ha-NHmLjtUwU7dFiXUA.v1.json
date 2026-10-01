@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "id": "UCIU8ha-NHmLjtUwU7dFiXUA",
+  "title": "三立新聞網SETN",
+  "thumb": "https://yt3.ggpht.com/rIgJU_kbOlmNIFsL_FMlfnM3MuKsfUHjIydWeRtmExsSjA_nf5HBVyH6QX1mQhGGerHpx7RgpA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 57.85,
+  "sources": [
+    {
+      "id": "channel:UC2TuODJhC03pLgd6MpWP0iw",
+      "type": "channel",
+      "label": "三立新聞LIVE",
+      "url": "https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw",
+      "firstSeenAt": "2026-09-05T10:32:48.110Z"
+    },
+    {
+      "id": "channel:UCoNYj9OFHZn3ACmmeRCPwbA",
+      "type": "channel",
+      "label": "三立財經iNEWS",
+      "url": "https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA",
+      "firstSeenAt": "2026-10-01T13:11:41.112Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "generatedAt": "2026-10-01T13:13:14.665Z",
   "id": "UCoxcjq-8xIDTYp3uz647V5A",
   "title": "Numberphile",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nmbQSAGKk1OZCBBf_sPJqLoFfYOVDWRDzALocBjGQtHeI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Objectivity",
       "url": "https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg",
       "firstSeenAt": "2026-09-28T13:50:17.020Z"
+    },
+    {
+      "id": "channel:UCUHW94eEFW7hkUMVaZz4eDg",
+      "type": "channel",
+      "label": "minutephysics",
+      "url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
+      "firstSeenAt": "2026-10-01T13:10:03.069Z"
     }
   ],
   "recentItems": []

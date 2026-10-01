@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "id": "UC06JnFeyjkGQWivm8I0slRw",
+  "title": "TYT Network",
+  "thumb": "https://yt3.ggpht.com/t66_r1koIbCJ-sbFIgZtDMDFPywQdUcJzn5C-r0TSTqzBBdcjy6RXCtDkq1a8mhgbmUZFPWLhA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.46,
+  "sources": [
+    {
+      "id": "channel:UC9bMcW0MFzOAgfQ-7et47zw",
+      "type": "channel",
+      "label": "Indisputable with Dr. Rashad Richey",
+      "url": "https://www.youtube.com/channel/UC9bMcW0MFzOAgfQ-7et47zw",
+      "firstSeenAt": "2026-10-01T13:11:46.154Z"
+    },
+    {
+      "id": "channel:UC1yBKRuGpC1tSM73A0ZjYjQ",
+      "type": "channel",
+      "label": "The Young Turks",
+      "url": "https://www.youtube.com/channel/UC1yBKRuGpC1tSM73A0ZjYjQ",
+      "firstSeenAt": "2026-10-01T13:11:46.522Z"
+    }
+  ],
+  "recentItems": []
+}

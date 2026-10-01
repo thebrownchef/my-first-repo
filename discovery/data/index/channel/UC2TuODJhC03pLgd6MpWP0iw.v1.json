@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "id": "UC2TuODJhC03pLgd6MpWP0iw",
+  "title": "三立新聞LIVE",
+  "thumb": "https://yt3.ggpht.com/SDjcZE8Xo2dsS5OF3_LA8hkZrzXqr1L37S4JlgbJ9B7Be77fViYJmDY7mr76hkpvw6PEdIEd9Q=s88-c-k-c0x00ffffff-no-rj",
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 0,
+  "uploadsPerDay": 63.91,
+  "sources": [
+    {
+      "id": "wiki:SET News",
+      "type": "wikipedia",
+      "label": "SET News",
+      "url": "https://en.wikipedia.org/wiki/SET_News",
+      "firstSeenAt": "2026-08-31T13:44:47.156Z"
+    },
+    {
+      "id": "channel:UC9tnW2dpPDNc_aEOnhsRs4g",
+      "type": "channel",
+      "label": "前進新台灣",
+      "url": "https://www.youtube.com/channel/UC9tnW2dpPDNc_aEOnhsRs4g",
+      "firstSeenAt": "2026-10-01T13:11:40.991Z"
+    },
+    {
+      "id": "channel:UCoNYj9OFHZn3ACmmeRCPwbA",
+      "type": "channel",
+      "label": "三立財經iNEWS",
+      "url": "https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA",
+      "firstSeenAt": "2026-10-01T13:11:41.112Z"
+    },
+    {
+      "id": "channel:UCMpuxj_U02VaHfaPD5Jjx_Q",
+      "type": "channel",
+      "label": "關我什麼事",
+      "url": "https://www.youtube.com/channel/UCMpuxj_U02VaHfaPD5Jjx_Q",
+      "firstSeenAt": "2026-10-01T13:11:41.927Z"
+    }
+  ],
+  "recentItems": []
+}

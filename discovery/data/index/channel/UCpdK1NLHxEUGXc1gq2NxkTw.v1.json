@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "generatedAt": "2026-10-01T13:13:14.665Z",
   "id": "UCpdK1NLHxEUGXc1gq2NxkTw",
   "title": "The Voice",
   "thumb": "https://yt3.ggpht.com/gXzjSqpS261i2wPryOtuAv2GSZnKcNPMbZL-NkgrRGMdOJ7c4A3aFhehYXDrzeLg620zXcfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.51,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "America's Got Talent",
       "url": "https://www.youtube.com/channel/UCT2X19JJaJGUN7mrYuImANQ",
       "firstSeenAt": "2026-09-21T12:45:08.452Z"
+    },
+    {
+      "id": "channel:UCccjdJEay2hpb5scz61zY6Q",
+      "type": "channel",
+      "label": "NBC",
+      "url": "https://www.youtube.com/channel/UCccjdJEay2hpb5scz61zY6Q",
+      "firstSeenAt": "2026-10-01T13:10:03.823Z"
+    },
+    {
+      "id": "channel:UCVTyTA7-g9nopHeHbeuvpRA",
+      "type": "channel",
+      "label": "Late Night with Seth Meyers",
+      "url": "https://www.youtube.com/channel/UCVTyTA7-g9nopHeHbeuvpRA",
+      "firstSeenAt": "2026-10-01T13:10:04.411Z"
     }
   ],
   "recentItems": []

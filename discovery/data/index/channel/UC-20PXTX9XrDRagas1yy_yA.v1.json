@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "id": "UC-20PXTX9XrDRagas1yy_yA",
+  "title": "Kannada Movies",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kFHfNmarLhRT6JP-HnNvoChLgrvLc6y3d141Ar5Cb7Ii0=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.25,
+  "sources": [
+    {
+      "id": "channel:UCA7e77QnJYE-y9cQYzrGXeQ",
+      "type": "channel",
+      "label": "Majamaadu Biscoot",
+      "url": "https://www.youtube.com/channel/UCA7e77QnJYE-y9cQYzrGXeQ",
+      "firstSeenAt": "2026-09-05T10:32:46.177Z"
+    },
+    {
+      "id": "channel:UCgMMhqf-NhmnwxhKUu2Rybw",
+      "type": "channel",
+      "label": "Superhit Kannada Movies HD",
+      "url": "https://www.youtube.com/channel/UCgMMhqf-NhmnwxhKUu2Rybw",
+      "firstSeenAt": "2026-10-01T13:11:06.001Z"
+    },
+    {
+      "id": "channel:UCfhcpfk-TXR0mkMuFILx-HQ",
+      "type": "channel",
+      "label": "Kannada Namma Biscoot",
+      "url": "https://www.youtube.com/channel/UCfhcpfk-TXR0mkMuFILx-HQ",
+      "firstSeenAt": "2026-10-01T13:11:06.195Z"
+    }
+  ],
+  "recentItems": []
+}

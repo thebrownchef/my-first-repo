@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "generatedAt": "2026-10-01T13:13:14.665Z",
   "id": "UC8-Th83bH_thdKZDJCrn88g",
   "title": "The Tonight Show Starring Jimmy Fallon",
   "thumb": "https://yt3.ggpht.com/dMLBgfSb5pbD24Euw893rUr6aB8fZQWFUBrMUNTwuc-JDGY43yh-whGj0r-Um0UcBo_e8LPAUg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 1.96,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Peacock",
       "url": "https://www.youtube.com/channel/UCPgMAS8woHJ_o_OZdTR7kcQ",
       "firstSeenAt": "2026-09-16T11:29:08.595Z"
+    },
+    {
+      "id": "channel:UC2gzy_aI-luPtEpL-GzQP6w",
+      "type": "channel",
+      "label": "A Little Late With Lilly Singh",
+      "url": "https://www.youtube.com/channel/UC2gzy_aI-luPtEpL-GzQP6w",
+      "firstSeenAt": "2026-10-01T13:10:04.235Z"
+    },
+    {
+      "id": "channel:UCVTyTA7-g9nopHeHbeuvpRA",
+      "type": "channel",
+      "label": "Late Night with Seth Meyers",
+      "url": "https://www.youtube.com/channel/UCVTyTA7-g9nopHeHbeuvpRA",
+      "firstSeenAt": "2026-10-01T13:10:04.410Z"
     }
   ],
   "recentItems": []

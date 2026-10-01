@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "generatedAt": "2026-10-01T13:13:14.665Z",
   "id": "UCSkOqbajcG6-jguycOHzhDg",
   "title": "ML Studios",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n44GX8WHrWWM2gYebo52PFCAJ7muHvCLnL9J56DktTJYM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 6.27,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Football Association Penang",
       "url": "https://en.wikipedia.org/wiki/Football_Association_Penang",
       "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    },
+    {
+      "id": "channel:UCfe5TS17Ci58X_jAFP4cGEw",
+      "type": "channel",
+      "label": "ML Community",
+      "url": "https://www.youtube.com/channel/UCfe5TS17Ci58X_jAFP4cGEw",
+      "firstSeenAt": "2026-10-01T13:11:03.262Z"
+    },
+    {
+      "id": "channel:UC3uA_CMK9Q_NDc0tAe7Jf9A",
+      "type": "channel",
+      "label": "ML Card Games",
+      "url": "https://www.youtube.com/channel/UC3uA_CMK9Q_NDc0tAe7Jf9A",
+      "firstSeenAt": "2026-10-01T13:11:03.337Z"
     }
   ],
   "recentItems": []

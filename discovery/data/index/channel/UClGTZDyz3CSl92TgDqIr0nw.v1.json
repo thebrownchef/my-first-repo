@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "generatedAt": "2026-10-01T13:13:14.665Z",
   "id": "UClGTZDyz3CSl92TgDqIr0nw",
   "title": "caltech",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nrc78JSxQwK6kpYzDdmqtFf4OJR-n-9PISGopDSTlH-ME=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.27,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "Carnot cycle",
       "url": "https://en.wikipedia.org/wiki/Carnot_cycle",
       "firstSeenAt": "2026-08-31T13:44:50.068Z"
+    },
+    {
+      "id": "channel:UCFIynK4bJe4PQ0hIXw7s9qA",
+      "type": "channel",
+      "label": "Caltech Alumni Association",
+      "url": "https://www.youtube.com/channel/UCFIynK4bJe4PQ0hIXw7s9qA",
+      "firstSeenAt": "2026-10-01T13:11:05.176Z"
+    },
+    {
+      "id": "channel:UCTuKkbnhdaX07Lp6LS3Ob6A",
+      "type": "channel",
+      "label": "KISSCaltech",
+      "url": "https://www.youtube.com/channel/UCTuKkbnhdaX07Lp6LS3Ob6A",
+      "firstSeenAt": "2026-10-01T13:11:05.527Z"
+    },
+    {
+      "id": "channel:UCeCHMMrQVIqgssGn81NI4aw",
+      "type": "channel",
+      "label": "Caltech Neuroscience",
+      "url": "https://www.youtube.com/channel/UCeCHMMrQVIqgssGn81NI4aw",
+      "firstSeenAt": "2026-10-01T13:11:05.627Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T12:32:50.334Z",
+  "generatedAt": "2026-10-01T13:13:14.665Z",
   "id": "UCX6b17PVsYBQ0ip5gyeme-Q",
   "title": "CrashCourse",
   "thumb": "https://yt3.ggpht.com/E454zI2spNFZsN_wgJPTHjMsqs1fFqb_qp4PYanWuyaXQJp98wKEV1kIQYlR57epaweO5P8v=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "The Art Assignment",
       "url": "https://www.youtube.com/channel/UCmQThz1OLYt8mb2PU540LOA",
       "firstSeenAt": "2026-09-16T11:29:14.082Z"
+    },
+    {
+      "id": "channel:UCUHW94eEFW7hkUMVaZz4eDg",
+      "type": "channel",
+      "label": "minutephysics",
+      "url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
+      "firstSeenAt": "2026-10-01T13:10:03.069Z"
     }
   ],
   "recentItems": []

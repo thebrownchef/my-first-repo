@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "id": "UCoNYj9OFHZn3ACmmeRCPwbA",
+  "title": "三立財經iNEWS",
+  "thumb": "https://yt3.ggpht.com/gUb2DwHKe4ejBHK1YQJ8ZUOcOUCSHYobbrpGtTTvlLhBL38CBV089YcYJCyjQvUJTMb2svrLe6Q=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 35.9,
+  "sources": [
+    {
+      "id": "channel:UC2TuODJhC03pLgd6MpWP0iw",
+      "type": "channel",
+      "label": "三立新聞LIVE",
+      "url": "https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw",
+      "firstSeenAt": "2026-09-05T10:32:48.110Z"
+    },
+    {
+      "id": "channel:UC9tnW2dpPDNc_aEOnhsRs4g",
+      "type": "channel",
+      "label": "前進新台灣",
+      "url": "https://www.youtube.com/channel/UC9tnW2dpPDNc_aEOnhsRs4g",
+      "firstSeenAt": "2026-10-01T13:11:40.993Z"
+    },
+    {
+      "id": "channel:UCMpuxj_U02VaHfaPD5Jjx_Q",
+      "type": "channel",
+      "label": "關我什麼事",
+      "url": "https://www.youtube.com/channel/UCMpuxj_U02VaHfaPD5Jjx_Q",
+      "firstSeenAt": "2026-10-01T13:11:41.926Z"
+    }
+  ],
+  "recentItems": []
+}
