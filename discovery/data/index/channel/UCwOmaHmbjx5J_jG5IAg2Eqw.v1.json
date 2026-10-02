@@ -1,0 +1,622 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCwOmaHmbjx5J_jG5IAg2Eqw",
+  "title": "Film&Clips en Français",
+  "thumb": "https://yt3.ggpht.com/COZZEtlURp19kxvZLu1mcPwSUw2MzdF5b0C9gHnuvOlISGrOWgFeZIWe39rCSGGbvFxEgBd-8fg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 40,
+  "distinctSourceCount": 40,
+  "hop": 1,
+  "uploadsPerDay": 0.27,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.028Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.235Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.642Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.883Z"
+    },
+    {
+      "id": "channel:UCUusCgxxEe1eR-S7VDVl0XQ",
+      "type": "channel",
+      "label": "Bizzarro MONSTERS",
+      "url": "https://www.youtube.com/channel/UCUusCgxxEe1eR-S7VDVl0XQ",
+      "firstSeenAt": "2026-10-02T12:30:38.942Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.060Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.182Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.234Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.341Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.548Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.681Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.734Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.790Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.034Z"
+    },
+    {
+      "id": "channel:UC5r5Nk_l94NG797uyJMXzaw",
+      "type": "channel",
+      "label": "Django 360",
+      "url": "https://www.youtube.com/channel/UC5r5Nk_l94NG797uyJMXzaw",
+      "firstSeenAt": "2026-10-02T12:30:40.283Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.337Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.402Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.455Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.589Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.740Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.858Z"
+    },
+    {
+      "id": "channel:UC6phmoJYS81YCkiUdKZ-p2w",
+      "type": "channel",
+      "label": "Cineindo Film Gratis",
+      "url": "https://www.youtube.com/channel/UC6phmoJYS81YCkiUdKZ-p2w",
+      "firstSeenAt": "2026-10-02T12:30:41.025Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.074Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.140Z"
+    },
+    {
+      "id": "channel:UCVqjyX0sPiNKXX-To8v_Mjg",
+      "type": "channel",
+      "label": "Western360",
+      "url": "https://www.youtube.com/channel/UCVqjyX0sPiNKXX-To8v_Mjg",
+      "firstSeenAt": "2026-10-02T12:30:41.190Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.320Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.379Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.431Z"
+    },
+    {
+      "id": "channel:UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "type": "channel",
+      "label": "Bizzarro Madhouse",
+      "url": "https://www.youtube.com/channel/UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "firstSeenAt": "2026-10-02T12:30:41.565Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.778Z"
+    },
+    {
+      "id": "channel:UCAfXQ_YeB7krOEl5vYycnkQ",
+      "type": "channel",
+      "label": "Film Western in Italiano",
+      "url": "https://www.youtube.com/channel/UCAfXQ_YeB7krOEl5vYycnkQ",
+      "firstSeenAt": "2026-10-02T12:30:41.961Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.059Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.107Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.256Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.375Z"
+    },
+    {
+      "id": "channel:UCtrXebUN5dubj6M-q3deEng",
+      "type": "channel",
+      "label": "Film&Clips Documentary",
+      "url": "https://www.youtube.com/channel/UCtrXebUN5dubj6M-q3deEng",
+      "firstSeenAt": "2026-10-02T12:30:42.428Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.474Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.682Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.733Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.780Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "ZaEqoHIDvlk",
+      "title": "Arrivano Django e Sartana e la fine #shorts",
+      "publishedAt": "2026-10-02T10:44:21Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/ZaEqoHIDvlk/mqdefault.jpg",
+      "description": "Film&Clips Film Complet est la chaîne de cinéma GRATUITE et LÉGALE de YouTube entièrement dédiée aux films en langue FRANÇAISE!\n#filmsfrançaiscomplets, #cinémafrançaisgratuit, #filmsfrançaisenligne, #regarderdesfilmsfrançais, #filmsfrançaisclassiques, #nouveauxfilmsfrançais, #filmsfrançaisindépendants, #filmsfrançaisd'auteur, #comédiefrançaise, #dramefrançais, #romancefrançaise, #filmhistoriquefrançais, #thrillerfrançais, #filmnoirfrançais, #filmdeguerrefrançais, #filmfrançaisdesannées60, #filmfrançaisdesannées70, #Truffaut, #Godard, #Renoir, #Chabrol, #Besson, #Belmondo, #Deneuve, #Depardieu, #Cannes, #Berlinale, #Venice, #Lumières, #César, #Adjani, #NouvelleVague, #Cinémafrançaisclassique, #CinémathèqueFrançaise, #Cinémaindépendant, #Paris, #Amour, #Vie, #Histoire, #Mystère, #Intrigue, #Comédie, #Drame, #Noir, #Cinépassion, #Cinéaddict, #FrenchCinemaLovers, #SoiréeCinéma, #DécouverteCiné, #CinémaPourTous.\ncinéma en streaming, films à regarder en famille, films d'animation pour enfants, documentaires historiques, thrillers psychologiques, drames romantiques, comédies françaises classiques, films avec sous-titres, œuvres cinématographiques, cinéma pour tous, films inspirants, biographies filmées, adaptations littéraires, chefs-d'œuvre du cinéma, films fantastiques, classiques du septième art, réalisateurs primés, acteurs emblématiques, cinéma d'époque, légendes du cinéma français, cinéma culte, films pour cinéphiles, rétrospectives de cinéma, films primés aux Oscars, cinéma européen, festivals de cinéma, grands succès internationaux, films des années 50, cinéma des années 60, films cultes des années 70, comédies des années 80, films des années 90, succès modernes, grands films indépendants, drames historiques, cinéma expérimental, films d'art et essai, grands classiques hollywoodiens, films français légendaires, séries originales en streaming, grands rôles du cinéma, comédies romantiques à la française, drames intenses, documentaires fascinants, histoires vraies adaptées, blockbusters français, grands récits cinématographiques, films de science-fiction modernes, épopées historiques, thrillers captivants, films à suspens, cinéma engagé, animations pour adultes, films humoristiques, meilleurs films à voir, œuvres incontournables, films étrangers primés, cinéma contemporain, cinéma des années 2000, séries limitées, courts-métrages primés, comédies musicales, cinéma accessible à tous, nouveautés en streaming, films à ne pas manquer, cinéastes célèbres, casting prestigieux, films nostalgiques, chefs-d'œuvre restaurés, nouvelles sorties, films internationaux en français, trésors cachés du cinéma, productions primées, films inspirés de faits réels, comédies familiales, thrillers d'espionnage, grandes sagas, épopées épiques, drames poignants, cinéma réaliste, films noirs, policiers français, films de gangsters, cinéma à suspense, drames politiques, fresques historiques, récits captivants, chefs-d'œuvre intemporels, films éducatifs, histoires humaines, récits poignants, comédies burlesques, documentaires sur la nature, aventures en mer, films de survie, séries documentaires, cinéma documentaire, films d'époque romantiques, fresques épiques, récits légendaires, grandes productions françaises, adaptations d'œuvres classiques, cinéma expérimental moderne, cinéma primé à Cannes, films populaires français, classiques indémodables, comédies sociales, récits d'amitié, drames familiaux, films autobiographiques, récits dystopiques, documentaires culturels, contes modernes, films d'époque captivants, fresques cinématographiques.\nfilms complets, films gratuits, films en ligne, cinéma français, films d'action, films comiques, films dramatiques, films d'horreur, films romantiques, films de science-fiction, films épiques, films d'aventure, films cultes, classiques du cinéma, cinéma mondial, films doublés, films sous-titrés, films en haute qualité, meilleurs films à regarder, films émouvants, films historiques, films de guerre, documentaires, films d",
+      "chapters": []
+    },
+    {
+      "id": "3vhOesR5w5I",
+      "title": "Film Complet 4K: Vamos a matar, compañeros | Sergio Corbucci & Musique d'Ennio Morricone",
+      "publishedAt": "2026-10-01T16:53:44Z",
+      "durationSec": 7091,
+      "thumb": "https://i.ytimg.com/vi/3vhOesR5w5I/mqdefault.jpg",
+      "description": "Film&Clips Film Complet est la chaîne de cinéma GRATUITE et LÉGALE de YouTube entièrement dédiée aux films en langue FRANÇAISE!\n\nDes armes, la révolution mexicaine, une bande-son mythique d'Ennio Morricone et un duo légendaire ! 🌵💣🇲🇽 Regardez le film complet culte « Compañeros » (Vamos a matar, compañeros, 1970) dans sa version restaurée en Haute Définition (HD 1080p) ! Réalisé par le maître du western spaghetti Sergio Corbucci. Avec Franco Nero, Tomas Milian, Jack Palance, Fernando Rey et Iris Berben. À regarder gratuitement et en version intégrale !\n\n[Synopsis]\nPendant la révolution mexicaine, El Vasco (Tomas Milian), un rebelle impulsif, prend le contrôle de sa ville natale. Mais pour ouvrir le coffre-fort de la banque locale contenant une véritable fortune, il a besoin de la combinaison, détenue uniquement par le professeur Xantos (Fernando Rey), un leader révolutionnaire pacifiste emprisonné aux États-Unis.\n\nEntre alors en scène Yodlaf Peterson (Franco Nero), un marchand d'armes suédois tiré à quatre épingles surnommé « Le Suédois », également intéressé par le trésor. Malgré une méfiance mutuelle explosive, El Vasco et Peterson forment une alliance improbable pour libérer le professeur. Traqués par John « L'Axe » (Jack Palance), un redoutable mercenaire américain, et poursuivis par l'armée mexicaine, les deux compères vont devoir traverser un chaos fait de fusillades, d'explosions et de trahisons.\n\nTitre Original Vamos a matar, compañeros\nTitre International Compañeros\nAnnée de Sortie 1970 (Version Restaurée)\nGenre Western Spaghetti / Action / Comédie / Aventure / Culte\nRéalisation Sergio Corbucci\nScénario Sergio Corbucci, Dino Maiuri, Massimo De Rita, Fritz Eiten\nMusique Originale Ennio Morricone\nStudio de Production Tritone Cinematografica / Filmis / Film and Clips Classics\nDistribution Franco Nero (Yodlaf Peterson), Tomas Milian (El Vasco), Fernando Rey (Prof. Xantos), Jack Palance (John), Iris Berben (Lola), José Bódalo\n\n00:00:00 - Début du film : La prise de contrôle de la ville par El Vasco\n\n00:15:30 - L'arrivée de Yodlaf Peterson « Le Suédois »\n\n00:32:10 - Alliance forcée et le plan pour libérer le Professeur Xantos\n\n00:48:45 - Attaque de la prison américaine et évasion\n\n01:05:20 - Traque impitoyable par Jack Palance\n\n01:22:10 - Embuscades, fusillades et batailles révolutionnaires\n\n01:40:15 - Climax : L'affrontement final pour le coffre-fort\n\n01:55:00 - Épilogue et générique de fin\n\n#Companeros #FrancoNero #TomasMilian #SergioCorbucci #EnnioMorricone #WesternSpaghetti #FilmComplet #FullHD #FilmGratis",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Début du film : La prise de contrôle de la ville par El Vasco"
+        },
+        {
+          "seconds": 930,
+          "label": "L'arrivée de Yodlaf Peterson « Le Suédois »"
+        },
+        {
+          "seconds": 1930,
+          "label": "Alliance forcée et le plan pour libérer le Professeur Xantos"
+        },
+        {
+          "seconds": 2925,
+          "label": "Attaque de la prison américaine et évasion"
+        },
+        {
+          "seconds": 3920,
+          "label": "Traque impitoyable par Jack Palance"
+        },
+        {
+          "seconds": 4930,
+          "label": "Embuscades, fusillades et batailles révolutionnaires"
+        },
+        {
+          "seconds": 6015,
+          "label": "Climax : L'affrontement final pour le coffre-fort"
+        },
+        {
+          "seconds": 6900,
+          "label": "Épilogue et générique de fin"
+        }
+      ]
+    },
+    {
+      "id": "FlWe1_ETrJg",
+      "title": "Film Complet HD : BIANCO APACHE | L'Histoire Épique d'un Blanc Élevé par les Apaches",
+      "publishedAt": "2026-09-16T16:00:11Z",
+      "durationSec": 5062,
+      "thumb": "https://i.ytimg.com/vi/FlWe1_ETrJg/mqdefault.jpg",
+      "description": "Un orphelin blanc élevé par les Apaches, rejeté par les siens et traqué par la civilisation ! 🤠🏹🔥 Regardez le film complet Bianco Apache (1986), un puissant western dramatique réalisé par Claudio Fragasso et Bruno Mattei. Avec Sebastian Harrison, la ravissante Lola Forner et Charles Borromel. À regarder gratuitement, en version intégrale et en Haute Définition (HD) !\n\n[Synopsis]\nDans le Far West, le sage chef d'une tribu amérindienne recueille un jeune orphelin blanc et décide de l'élever comme son propre fils. Rebaptisé Ciel Lumineux, le garçon grandit selon les nobles traditions des natifs américains et devient un guerrier accompli. Cependant, sa présence au sein de la tribu suscite des jalousies, des hostilités et des soupçons de plus en plus insupportables, qui aboutissent à son bannissement injuste du village.\n\nContraint de partir à la recherche de ses racines, Ciel Lumineux tente désespérément de s'intégrer dans la société des pionniers blancs. Mais là encore, son destin s'avère cruel : considéré comme un Apache, le jeune homme est confronté à une escalade de violence, de racisme et d'injustices brutales. Rejeté et traqué par les deux mondes auxquels il croyait appartenir, il devra lutter de toutes ses forces pour préserver sa dignité et sa vie.\n\nTitre Original / Français Bianco Apache (White Apache)\nAnnée de Sortie 1986\nGenre Western / Drame / Action\nRéalisation Claudio Fragasso, Bruno Mattei\nCasting Principal Sebastian Harrison (Ciel Lumineux), Lola Forner, Charles Borromel\n\n00:00:00 - Début du film : Le sauvetage de l'orphelin par le chef apache\n\n00:11:30 - L'éducation et la jeunesse de Ciel Lumineux\n\n00:23:45 - Jalousies au village et le bannissement du guerrier\n\n00:36:10 - Le départ vers le monde des pionniers blancs\n\n00:49:20 - Confrontation avec le racisme et la brutalité des pionniers\n\n01:02:15 - Traqué par deux mondes : La lutte pour la survie\n\n01:15:40 - Climax : L'affrontement final pour la liberté et la dignité\n\n01:25:00 - Épilogue et Crédits de fin\n\n#BiancoApache #BrunoMattei #ClaudioFragasso #SebastianHarrison #LolaForner #WesternSpaghetti #FilmComplet #FilmEnFrancais #FullHD #WesternGratuit",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Début du film : Le sauvetage de l'orphelin par le chef apache"
+        },
+        {
+          "seconds": 690,
+          "label": "L'éducation et la jeunesse de Ciel Lumineux"
+        },
+        {
+          "seconds": 1425,
+          "label": "Jalousies au village et le bannissement du guerrier"
+        },
+        {
+          "seconds": 2170,
+          "label": "Le départ vers le monde des pionniers blancs"
+        },
+        {
+          "seconds": 2960,
+          "label": "Confrontation avec le racisme et la brutalité des pionniers"
+        },
+        {
+          "seconds": 3735,
+          "label": "Traqué par deux mondes : La lutte pour la survie"
+        },
+        {
+          "seconds": 4540,
+          "label": "Climax : L'affrontement final pour la liberté et la dignité"
+        },
+        {
+          "seconds": 5100,
+          "label": "Épilogue et Crédits de fin"
+        }
+      ]
+    },
+    {
+      "id": "ZNN0cDbkbPs",
+      "title": "Western Culte : Shanghaï Joe  (1973) | Chen Lee, Klaus Kinski, Carla Romanelli | Full HD",
+      "publishedAt": "2026-09-09T14:53:35Z",
+      "durationSec": 5279,
+      "thumb": "https://i.ytimg.com/vi/ZNN0cDbkbPs/mqdefault.jpg",
+      "description": "Film&Clips Film Complet est la chaîne de cinéma GRATUITE et LÉGALE de YouTube entièrement dédiée aux films en langue FRANÇAISE!\nDù Kung-Fu au cœur du Far West, des combats spectaculaires et la présence légendaire de Klaus Kinski ! 🥋🤠🌵 Découvrez le classique culte Shanghai Joe (1973 — Il mio nome è Shanghai Joe), réalisé par Mario Caiano. Écrit par Mario Caiano, Fabrizio Trifone Trecca et Carlo Alberto Alfieri, ce film d'action unique réunit Chen Lee, l'iconique Klaus Kinski et la charmante Carla Romanelli. À regarder gratuitement, en version intégrale et en Haute Définition (HD) !\n\n[Synopsis]\nTout juste débarqué en Amérique avec l'espoir d'une vie meilleure, Chin Hao (Chen Lee), un immigrant chinois virtuose des arts martiaux, découvre la réalité brutale et sans foi ni loi de la frontière texane. Choqué par la cruauté d'un puissant propriétaire terrien qui réduit des travailleurs mexicains en esclavage, il décide d'employer la force pour les libérer.\n\nArmé de sa maîtrise phénoménale du Kung-Fu et de sa soif d'équité, il devient l'homme à abattre. Pour l'arrêter, le maître des lieux engage une série de tueurs à gages sanguinaires, dont le sadique Scalper (Klaus Kinski). S'ensuit une traque impitoyable où se mêlent coups de pied acrobatiques, duels au revolver et vengeance.\n\nTitre Original / Français Shanghai Joe (Il mio nome è Shanghai Joe)\nAnnée de Sortie 1973\nGenre Western Spaghetti / Arts Martiaux / Action\nRéalisation Mario Caiano\nScénario Mario Caiano, Fabrizio Trifone Trecca, Carlo Alberto Alfieri\nDistribution Chen Lee, Klaus Kinski, Carla Romanelli, Gordon Mitchell\nQualité Vidéo Full HD (1080p)\n\n00:00:00 - Début du film : L'arrivée de Shanghai Joe en Amérique\n\n00:11:30 - La découverte de l'exploitation des travailleurs mexicains\n\n00:23:45 - Première démonstration de Kung-Fu dans le Far West\n\n00:36:10 - Le propriétaire recrute des tueurs à gages\n\n00:49:20 - Affrontements successifs contre les mercenaires\n\n01:02:15 - Duel sanglant contre le redoutable Scalper\n\n01:15:40 - Climax : Le combat final pour la liberté\n\n01:25:00 - Épilogue et Générique de fin\n\n#ShanghaiJoe #WesternSpaghetti #KungFuWestern #KlausKinski #ChenLee #MarioCaiano #FilmComplet #FilmEnFrancais",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Début du film : L'arrivée de Shanghai Joe en Amérique"
+        },
+        {
+          "seconds": 690,
+          "label": "La découverte de l'exploitation des travailleurs mexicains"
+        },
+        {
+          "seconds": 1425,
+          "label": "Première démonstration de Kung-Fu dans le Far West"
+        },
+        {
+          "seconds": 2170,
+          "label": "Le propriétaire recrute des tueurs à gages"
+        },
+        {
+          "seconds": 2960,
+          "label": "Affrontements successifs contre les mercenaires"
+        },
+        {
+          "seconds": 3735,
+          "label": "Duel sanglant contre le redoutable Scalper"
+        },
+        {
+          "seconds": 4540,
+          "label": "Climax : Le combat final pour la liberté"
+        },
+        {
+          "seconds": 5100,
+          "label": "Épilogue et Générique de fin"
+        }
+      ]
+    },
+    {
+      "id": "eySkx_De6hQ",
+      "title": "TRINITÀ TIRE ET RESTES LÀ (1972) | Film Complet en Français HD | Gordon Mitchell & Stelvio Rosi",
+      "publishedAt": "2026-08-27T15:30:22Z",
+      "durationSec": 4882,
+      "thumb": "https://i.ytimg.com/vi/eySkx_De6hQ/mqdefault.jpg",
+      "description": "Film&Clips Film Complet est la chaîne de cinéma GRATUITE et LÉGALE de YouTube\n\n Escroqueries foireuses, révolution mexicaine et pactes fragiles gravés dans la poudre ! 🤠🌵💰 Regardez le film complet Trinità tire et reste là (1972 — Scansati... a Trinità preme il grilletto), réalisé par Diego Spataro et le légendaire Joe D'Amato. Porté par Stelvio Rosi, le colosse Gordon Mitchell et la ravissante Daniela Giordano, ce western spaghetti déjanté mélange comédie, fusillades spectaculaires et double-jeu. À découvrir gratuitement, en version intégrale et en Haute Définition (HD) !\n\n[Synopsis]\nAprès une série de tentatives de fraude infructueuses qui les laissent totalement sans le sou, l'escroc charismatique Jonathan Duke (Stelvio Rosi) et son fidèle partenaire Sebastian Carter décident de viser un coup beaucoup plus grand. Leur cible n'est autre que le redoutable général révolutionnaire mexicain, Eldorado (Gordon Mitchell), qui détient une immense fortune en or.\n\nPour réussir ce braquage audacieux, ils s'associent à Ringo et à sa bande de pilleurs sans foi ni loi. Cependant, dans le monde impitoyable du Western Spaghetti, les alliances sont particulièrement fragiles et les trahisons sont monnaie courante. Ce braquage tourne rapidement en une aventure chaotique remplie de comédie, de manipulations et d'affrontements armés.\n\nTitre Français Trinità tire et reste là\nTitre Original Scansati... a Trinità preme il grilletto\nAnnée de Sortie 1972\nGenre Western Spaghetti / Comédie / Action\nRéalisation Diego Spataro, Joe D'Amato (Aristide Massaccesi)\nDistribution Stelvio Rosi (Jonathan Duke), Gordon Mitchell (Général Eldorado), Daniela Giordano (Juanita)\nQualité Vidéo Full HD (1080p)\nLangue Audio Français\n\n00:00:00 - Début du film : Une série d'escroqueries manquées\n\n00:11:30 - Jonathan Duke et Sebastian préparent le grand coup\n\n00:23:45 - L'alliance tendue avec Ringo et ses pilleurs\n\n00:36:40 - L'arrivée sur le territoire du Général Eldorado\n\n00:49:15 - Infiltration, séduction et premier double-jeu\n\n01:02:20 - Le braquage du trésor révolutionnaire\n\n\n#TrinitaTireEtResteLa #WesternSpaghetti #GordonMitchell #StelvioRosi #JoeDAmato #FilmComplet #FilmEnFrancais #FullHD #WesternComedie #FilmGratuit",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Début du film : Une série d'escroqueries manquées"
+        },
+        {
+          "seconds": 690,
+          "label": "Jonathan Duke et Sebastian préparent le grand coup"
+        },
+        {
+          "seconds": 1425,
+          "label": "L'alliance tendue avec Ringo et ses pilleurs"
+        },
+        {
+          "seconds": 2200,
+          "label": "L'arrivée sur le territoire du Général Eldorado"
+        },
+        {
+          "seconds": 2955,
+          "label": "Infiltration, séduction et premier double-jeu"
+        },
+        {
+          "seconds": 3740,
+          "label": "Le braquage du trésor révolutionnaire"
+        }
+      ]
+    },
+    {
+      "id": "zgQPaudeGZA",
+      "title": "Dragon #shorts",
+      "publishedAt": "2026-08-24T14:05:26Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/zgQPaudeGZA/mqdefault.jpg",
+      "description": "Film&Clips Film Complet est la chaîne de cinéma GRATUITE et LÉGALE de YouTube entièrement dédiée aux films en langue FRANÇAISE!\n#filmsfrançaiscomplets, #cinémafrançaisgratuit, #filmsfrançaisenligne, #regarderdesfilmsfrançais, #filmsfrançaisclassiques, #nouveauxfilmsfrançais, #filmsfrançaisindépendants, #filmsfrançaisd'auteur, #comédiefrançaise, #dramefrançais, #romancefrançaise, #filmhistoriquefrançais, #thrillerfrançais, #filmnoirfrançais, #filmdeguerrefrançais, #filmfrançaisdesannées60, #filmfrançaisdesannées70, #Truffaut, #Godard, #Renoir, #Chabrol, #Besson, #Belmondo, #Deneuve, #Depardieu, #Cannes, #Berlinale, #Venice, #Lumières, #César, #Adjani, #NouvelleVague, #Cinémafrançaisclassique, #CinémathèqueFrançaise, #Cinémaindépendant, #Paris, #Amour, #Vie, #Histoire, #Mystère, #Intrigue, #Comédie, #Drame, #Noir, #Cinépassion, #Cinéaddict, #FrenchCinemaLovers, #SoiréeCinéma, #DécouverteCiné, #CinémaPourTous.\ncinéma en streaming, films à regarder en famille, films d'animation pour enfants, documentaires historiques, thrillers psychologiques, drames romantiques, comédies françaises classiques, films avec sous-titres, œuvres cinématographiques, cinéma pour tous, films inspirants, biographies filmées, adaptations littéraires, chefs-d'œuvre du cinéma, films fantastiques, classiques du septième art, réalisateurs primés, acteurs emblématiques, cinéma d'époque, légendes du cinéma français, cinéma culte, films pour cinéphiles, rétrospectives de cinéma, films primés aux Oscars, cinéma européen, festivals de cinéma, grands succès internationaux, films des années 50, cinéma des années 60, films cultes des années 70, comédies des années 80, films des années 90, succès modernes, grands films indépendants, drames historiques, cinéma expérimental, films d'art et essai, grands classiques hollywoodiens, films français légendaires, séries originales en streaming, grands rôles du cinéma, comédies romantiques à la française, drames intenses, documentaires fascinants, histoires vraies adaptées, blockbusters français, grands récits cinématographiques, films de science-fiction modernes, épopées historiques, thrillers captivants, films à suspens, cinéma engagé, animations pour adultes, films humoristiques, meilleurs films à voir, œuvres incontournables, films étrangers primés, cinéma contemporain, cinéma des années 2000, séries limitées, courts-métrages primés, comédies musicales, cinéma accessible à tous, nouveautés en streaming, films à ne pas manquer, cinéastes célèbres, casting prestigieux, films nostalgiques, chefs-d'œuvre restaurés, nouvelles sorties, films internationaux en français, trésors cachés du cinéma, productions primées, films inspirés de faits réels, comédies familiales, thrillers d'espionnage, grandes sagas, épopées épiques, drames poignants, cinéma réaliste, films noirs, policiers français, films de gangsters, cinéma à suspense, drames politiques, fresques historiques, récits captivants, chefs-d'œuvre intemporels, films éducatifs, histoires humaines, récits poignants, comédies burlesques, documentaires sur la nature, aventures en mer, films de survie, séries documentaires, cinéma documentaire, films d'époque romantiques, fresques épiques, récits légendaires, grandes productions françaises, adaptations d'œuvres classiques, cinéma expérimental moderne, cinéma primé à Cannes, films populaires français, classiques indémodables, comédies sociales, récits d'amitié, drames familiaux, films autobiographiques, récits dystopiques, documentaires culturels, contes modernes, films d'époque captivants, fresques cinématographiques.\nfilms complets, films gratuits, films en ligne, cinéma français, films d'action, films comiques, films dramatiques, films d'horreur, films romantiques, films de science-fiction, films épiques, films d'aventure, films cultes, classiques du cinéma, cinéma mondial, films doublés, films sous-titrés, films en haute qualité, meilleurs films à regarder, films émouvants, films historiques, films de guerre, documentaires, films d",
+      "chapters": []
+    },
+    {
+      "id": "ebWNIX9H2Wc",
+      "title": "Flight of Fear - Ne regarde pas dehors | HD | Action, Mystère | Film Complet en Français",
+      "publishedAt": "2026-08-20T16:15:35Z",
+      "durationSec": 5155,
+      "thumb": "https://i.ytimg.com/vi/ebWNIX9H2Wc/mqdefault.jpg",
+      "description": "🎬 Flight 666 | HD | Science-fiction, Action, Mystère | Film Complet en Français\n\nSynopsis : Après la chute inexpliquée d’un objet volant non identifié, un groupe de spécialistes est envoyé sur les lieux pour analyser la menace. Ce qu’ils trouvent bouleverse toutes leurs certitudes : une entité extraterrestre inconnue, des événements paranormaux et une course contre la montre pour empêcher une catastrophe mondiale. Entre visions cauchemardesques et révélations troublantes, la peur prend son envol.\n\nRéalisateur : Rob Pallatina\nScénario : Jacob Cooney, Brandon Stroud\nDurée : 83 minutes\nAnnée : 2018\nCast : Liz Fenning, Jose Rosete, Joseph Michael Harris\nLangue originale : Anglais\nGenre : Science-fiction, Action, Mystère\n\n#FlightOfFear 👽 #UFO #ScienceFiction #FilmComplet #RobPallatina #LizFenning #Extraterrestres #FilmIndépendant CD",
+      "chapters": []
+    },
+    {
+      "id": "-tobuzjzk3o",
+      "title": "Film Complet 4K: MALIBU SHARK ATTACK | Quand les requins préhistoriques attaquent !",
+      "publishedAt": "2026-08-13T03:30:10Z",
+      "durationSec": 5418,
+      "thumb": "https://i.ytimg.com/vi/-tobuzjzk3o/mqdefault.jpg",
+      "description": "Un tsunami dévastateur, des requins préhistoriques et une lutte acharnée pour la survie ! 🦈🌊🏖️ Découvrez le film d'horreur et de science-fiction Malibu Shark Attack (2009), réalisé par David Lister et produit par Insight Film Studios. Porté par Peta Wilson (La Femme Nikita), Warren Christie, Renee Bowen et Remi Broadway, ce creature feature déjanté vous plonge au cœur d'une attaque aquatique sans merci. Profitez-en gratuitement et en Haute Définition (HD 1080p) !\n\n[Synopsis]\nUn puissant séisme sous-marin déclenche un raz-de-marée dévastateur qui frappe de plein fouet les côtes de Malibu, engloutissant les plages et bloquant un groupe de sauveteurs et de baigneurs dans une station d'observation partiellement submergée.\n\nMais le tsunami n'est que le début du cauchemar : la secousse a libéré de la fosse océanique une meute de requins-lutins préhistoriques, des prédateurs redoutables aux mâchoires acérées. Coincés dans les eaux montantes, les survivants menés par la chef des sauveteurs Heather (Peta Wilson) doivent faire preuve d'ingéniosité pour échapper à ces monstres des profondeurs avant d'être dévorés.\n\n00:00:00 - Début du film : Une journée ensoleillée sur la plage de Malibu\n\n00:10:45 - Le séisme sous-marin et l'alerte au tsunami\n\n00:22:15 - Le raz-de-marée frappe la station de sauvetage\n\n00:35:30 - L'apparition des requins-lutins préhistoriques\n\n00:48:10 - Piégés dans les eaux montantes : La panique s'installe\n\n01:01:25 - Une lutte désespérée pour la survie\n\n01:14:40 - Climax : L'affrontement final contre la meute\n\n01:25:30 - Épilogue et Générique de fin",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Début du film : Une journée ensoleillée sur la plage de Malibu"
+        },
+        {
+          "seconds": 645,
+          "label": "Le séisme sous-marin et l'alerte au tsunami"
+        },
+        {
+          "seconds": 1335,
+          "label": "Le raz-de-marée frappe la station de sauvetage"
+        },
+        {
+          "seconds": 2130,
+          "label": "L'apparition des requins-lutins préhistoriques"
+        },
+        {
+          "seconds": 2890,
+          "label": "Piégés dans les eaux montantes : La panique s'installe"
+        },
+        {
+          "seconds": 3685,
+          "label": "Une lutte désespérée pour la survie"
+        },
+        {
+          "seconds": 4480,
+          "label": "Climax : L'affrontement final contre la meute"
+        },
+        {
+          "seconds": 5130,
+          "label": "Épilogue et Générique de fin"
+        }
+      ]
+    },
+    {
+      "id": "6Oiri9uK5CY",
+      "title": "Criminalia | Suspense et Enquête | Film Complet FRANÇAISE!",
+      "publishedAt": "2026-08-06T15:00:36Z",
+      "durationSec": 5750,
+      "thumb": "https://i.ytimg.com/vi/6Oiri9uK5CY/mqdefault.jpg",
+      "description": "Film&Clips Film Complet est la chaîne de cinéma GRATUITE et LÉGALE de YouTube entièrement dédiée aux films en langue FRANÇAISE!\n\nValerio Barigozzi (Johnny Dorelli) est un journaliste frustré et malchanceux qui travaille pour un journal à scandale, relégué à la rubrique du courrier des lecteurs. Sa vie banale et déprimante bascule lorsqu'il commence à recevoir des lettres anonymes d'un mystérieux tueur en série qui se fait appeler \"Le Monstre\". Dans ces lettres, le criminel annonce ses meurtres à l'avance. Quand les crimes se produisent réellement avec une précision glaçante, Valerio se retrouve au centre de l'attention médiatique et obtient l'exclusivité, devenant soudainement célèbre et respecté. Mais la gloire a un prix terrifiant. Alors que la police (menée par le cynique commissaire) piétine, Valerio décide de mener sa propre enquête pour démasquer le meurtrier. Une dangereuse course contre la montre commence, où le journaliste risque de devenir la prochaine victime d'un jeu de mort machiavélique.\n\nRéalisateur : Luigi Zampa\nDistribution : Johnny Dorelli, Sydne Rome, Renzo Palmer, Orazio Orlando, Angelica Ippolito\nGenre : Thriller / Policier / Giallo\nAnnée : 1977\n\n📰 Abonnez-vous à la chaîne et activez la cloche de notification pour ne manquer aucun de nos meilleurs thrillers, films policiers et grands classiques du cinéma en HD!\n\nHorodatage:\n00:00 - Générique de début et la vie de Valerio\n11:20 - La première lettre : Le Monstre se présente\n24:30 - Le crime annoncé devient une macabre réalité\n38:45 - L'exclusivité médiatique : La soudaine gloire du journaliste\n51:10 - Les soupçons de la police et la panique grandissante\n01:05:20 - L'ambition mortelle : Valerio mène sa propre enquête\n01:18:40 - Pièges, faux-semblants et retournements de situation\n01:29:15 - La confrontation finale avec le meurtrier\n01:34:00 - La vérité dévoilée et générique de fin\n\n#Criminalia #FilmComplet #Giallo #FilmPolicier #Thriller #JohnnyDorelli #CinémaItalien #FilmEnFrançais #ClassiqueHD #Suspense",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Générique de début et la vie de Valerio"
+        },
+        {
+          "seconds": 680,
+          "label": "La première lettre : Le Monstre se présente"
+        },
+        {
+          "seconds": 1470,
+          "label": "Le crime annoncé devient une macabre réalité"
+        },
+        {
+          "seconds": 2325,
+          "label": "L'exclusivité médiatique : La soudaine gloire du journaliste"
+        },
+        {
+          "seconds": 3070,
+          "label": "Les soupçons de la police et la panique grandissante"
+        },
+        {
+          "seconds": 3920,
+          "label": "L'ambition mortelle : Valerio mène sa propre enquête"
+        },
+        {
+          "seconds": 4720,
+          "label": "Pièges, faux-semblants et retournements de situation"
+        },
+        {
+          "seconds": 5355,
+          "label": "La confrontation finale avec le meurtrier"
+        },
+        {
+          "seconds": 5640,
+          "label": "La vérité dévoilée et générique de fin"
+        }
+      ]
+    },
+    {
+      "id": "E0PH22EaF1s",
+      "title": "Dragon #shorts",
+      "publishedAt": "2026-08-05T15:15:34Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/E0PH22EaF1s/mqdefault.jpg",
+      "description": "Film&Clips Film Complet est la chaîne de cinéma GRATUITE et LÉGALE de YouTube entièrement dédiée aux films en langue FRANÇAISE!\n#filmsfrançaiscomplets, #cinémafrançaisgratuit, #filmsfrançaisenligne, #regarderdesfilmsfrançais, #filmsfrançaisclassiques, #nouveauxfilmsfrançais, #filmsfrançaisindépendants, #filmsfrançaisd'auteur, #comédiefrançaise, #dramefrançais, #romancefrançaise, #filmhistoriquefrançais, #thrillerfrançais, #filmnoirfrançais, #filmdeguerrefrançais, #filmfrançaisdesannées60, #filmfrançaisdesannées70, #Truffaut, #Godard, #Renoir, #Chabrol, #Besson, #Belmondo, #Deneuve, #Depardieu, #Cannes, #Berlinale, #Venice, #Lumières, #César, #Adjani, #NouvelleVague, #Cinémafrançaisclassique, #CinémathèqueFrançaise, #Cinémaindépendant, #Paris, #Amour, #Vie, #Histoire, #Mystère, #Intrigue, #Comédie, #Drame, #Noir, #Cinépassion, #Cinéaddict, #FrenchCinemaLovers, #SoiréeCinéma, #DécouverteCiné, #CinémaPourTous.\ncinéma en streaming, films à regarder en famille, films d'animation pour enfants, documentaires historiques, thrillers psychologiques, drames romantiques, comédies françaises classiques, films avec sous-titres, œuvres cinématographiques, cinéma pour tous, films inspirants, biographies filmées, adaptations littéraires, chefs-d'œuvre du cinéma, films fantastiques, classiques du septième art, réalisateurs primés, acteurs emblématiques, cinéma d'époque, légendes du cinéma français, cinéma culte, films pour cinéphiles, rétrospectives de cinéma, films primés aux Oscars, cinéma européen, festivals de cinéma, grands succès internationaux, films des années 50, cinéma des années 60, films cultes des années 70, comédies des années 80, films des années 90, succès modernes, grands films indépendants, drames historiques, cinéma expérimental, films d'art et essai, grands classiques hollywoodiens, films français légendaires, séries originales en streaming, grands rôles du cinéma, comédies romantiques à la française, drames intenses, documentaires fascinants, histoires vraies adaptées, blockbusters français, grands récits cinématographiques, films de science-fiction modernes, épopées historiques, thrillers captivants, films à suspens, cinéma engagé, animations pour adultes, films humoristiques, meilleurs films à voir, œuvres incontournables, films étrangers primés, cinéma contemporain, cinéma des années 2000, séries limitées, courts-métrages primés, comédies musicales, cinéma accessible à tous, nouveautés en streaming, films à ne pas manquer, cinéastes célèbres, casting prestigieux, films nostalgiques, chefs-d'œuvre restaurés, nouvelles sorties, films internationaux en français, trésors cachés du cinéma, productions primées, films inspirés de faits réels, comédies familiales, thrillers d'espionnage, grandes sagas, épopées épiques, drames poignants, cinéma réaliste, films noirs, policiers français, films de gangsters, cinéma à suspense, drames politiques, fresques historiques, récits captivants, chefs-d'œuvre intemporels, films éducatifs, histoires humaines, récits poignants, comédies burlesques, documentaires sur la nature, aventures en mer, films de survie, séries documentaires, cinéma documentaire, films d'époque romantiques, fresques épiques, récits légendaires, grandes productions françaises, adaptations d'œuvres classiques, cinéma expérimental moderne, cinéma primé à Cannes, films populaires français, classiques indémodables, comédies sociales, récits d'amitié, drames familiaux, films autobiographiques, récits dystopiques, documentaires culturels, contes modernes, films d'époque captivants, fresques cinématographiques.\nfilms complets, films gratuits, films en ligne, cinéma français, films d'action, films comiques, films dramatiques, films d'horreur, films romantiques, films de science-fiction, films épiques, films d'aventure, films cultes, classiques du cinéma, cinéma mondial, films doublés, films sous-titrés, films en haute qualité, meilleurs films à regarder, films émouvants, films historiques, films de guerre, documentaires, films d",
+      "chapters": []
+    },
+    {
+      "id": "iXN1tQUpfhE",
+      "title": "PIÉGÉS DANS LA VILLA ! Deux mâles pour Alexa | Un thriller psychologique culte | FILM COMPLET 4K",
+      "publishedAt": "2026-07-29T16:00:02Z",
+      "durationSec": 4337,
+      "thumb": "https://i.ytimg.com/vi/iXN1tQUpfhE/mqdefault.jpg",
+      "description": "Une liaison interdite, un mari trahi au plan machiavélique et un huis clos étouffant sans aucune issue possible... 🏛️ Si vous êtes passionné de thrillers psychologiques rétro, de mystères captivants et de l'ambiance unique du cinéma des années 70, regardez dès MAINTENANT le film complet \"Deux mâles pour Alexa\" (1971) ! Une pépite du cinéma culte européen, entièrement gratuite et en version intégrale.\n\nLa Synopsis / L'Histoire :\nLorsqu'une jeune femme s'engage dans une liaison extra-conjugale passionnée, son mari plus âgé — qui se trouve être également le père de son amie d'université — décide d'échafauder une vengeance terrible et définitive. Après avoir orchestré sa propre disparition tragique, il piège sa femme et son amant à l'intérieur de sa luxueuse villa fortifiée, coupée du monde et totalement impossible à fuir.\n\nEnfermés dans cette cage dorée devenue un enfer, les deux amants vont devoir affronter les fantômes du passé, la culpabilité et une paranoïa grandissante. Un face-à-face psychologique destructeur commence, où chaque secret révélé rapproche un peu plus les prisonniers de leur propre perte.\n\n🎬 Un Chef-d'œuvre du Suspense Psychologique : Réalisé avec brio par Juan Logar, Deux mâles pour Alexa (Due maschi per Alexa / Im Rausch der Sinne) est un drame intense qui explore avec cynisme les recoins les plus sombres de la jalousie humaine. Porté par une distribution internationale prestigieuse, le film met en vedette le légendaire acteur allemand Curd Jürgens, la sublime icône du cinéma de genre italien Rosalba Neri et le charismatique Juan Luis Galiardo. Un film marquant par son atmosphère oppressante et sa mise en scène soignée.\n\n👍🥰 Si vous avez aimé ce thriller vintage, laissez un \"Pouce Bleu\" ! 👍🥰 Dites-nous dans les commentaires ce que vous avez pensé de ce piège machiavélique et Abonnez-vous à la chaîne en activant la cloche (🔔) pour ne manquer aucun de nos rendez-vous quotidiens avec le meilleur du cinéma classique, indépendant et culte, diffusé de manière 100% légale !\n\nChapitres du Film (Timestamps pour une forte rétention)\nDes repères temporels stratégiques pour intriguer le spectateur et prolonger le temps de visionnage :\n\n00:00:00 - Introduction : La passion secrète d'Alexa et la trahison\n\n00:15:40 - Les soupçons du mari et la préparation d'un plan machiavélique\n\n00:33:15 - Le piège se referme : Prisonniers dans la villa isolée\n\n00:50:20 - Tension psychologique : Face à l'impossible fuite\n\n01:08:10 - Secrets révélés, doutes et paranoïa grandissante traquée\n\n01:24:45 - Le dénouement final intense et Crédits de fin en HD",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduction : La passion secrète d'Alexa et la trahison"
+        },
+        {
+          "seconds": 940,
+          "label": "Les soupçons du mari et la préparation d'un plan machiavélique"
+        },
+        {
+          "seconds": 1995,
+          "label": "Le piège se referme : Prisonniers dans la villa isolée"
+        },
+        {
+          "seconds": 3020,
+          "label": "Tension psychologique : Face à l'impossible fuite"
+        },
+        {
+          "seconds": 4090,
+          "label": "Secrets révélés, doutes et paranoïa grandissante traquée"
+        },
+        {
+          "seconds": 5085,
+          "label": "Le dénouement final intense et Crédits de fin en HD"
+        }
+      ]
+    },
+    {
+      "id": "Y4ywI2lKxTY",
+      "title": "Dragon #shorts",
+      "publishedAt": "2026-07-28T13:02:58Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/Y4ywI2lKxTY/mqdefault.jpg",
+      "description": "Film&Clips Film Complet est la chaîne de cinéma GRATUITE et LÉGALE de YouTube entièrement dédiée aux films en langue FRANÇAISE!\n#filmsfrançaiscomplets, #cinémafrançaisgratuit, #filmsfrançaisenligne, #regarderdesfilmsfrançais, #filmsfrançaisclassiques, #nouveauxfilmsfrançais, #filmsfrançaisindépendants, #filmsfrançaisd'auteur, #comédiefrançaise, #dramefrançais, #romancefrançaise, #filmhistoriquefrançais, #thrillerfrançais, #filmnoirfrançais, #filmdeguerrefrançais, #filmfrançaisdesannées60, #filmfrançaisdesannées70, #Truffaut, #Godard, #Renoir, #Chabrol, #Besson, #Belmondo, #Deneuve, #Depardieu, #Cannes, #Berlinale, #Venice, #Lumières, #César, #Adjani, #NouvelleVague, #Cinémafrançaisclassique, #CinémathèqueFrançaise, #Cinémaindépendant, #Paris, #Amour, #Vie, #Histoire, #Mystère, #Intrigue, #Comédie, #Drame, #Noir, #Cinépassion, #Cinéaddict, #FrenchCinemaLovers, #SoiréeCinéma, #DécouverteCiné, #CinémaPourTous.\ncinéma en streaming, films à regarder en famille, films d'animation pour enfants, documentaires historiques, thrillers psychologiques, drames romantiques, comédies françaises classiques, films avec sous-titres, œuvres cinématographiques, cinéma pour tous, films inspirants, biographies filmées, adaptations littéraires, chefs-d'œuvre du cinéma, films fantastiques, classiques du septième art, réalisateurs primés, acteurs emblématiques, cinéma d'époque, légendes du cinéma français, cinéma culte, films pour cinéphiles, rétrospectives de cinéma, films primés aux Oscars, cinéma européen, festivals de cinéma, grands succès internationaux, films des années 50, cinéma des années 60, films cultes des années 70, comédies des années 80, films des années 90, succès modernes, grands films indépendants, drames historiques, cinéma expérimental, films d'art et essai, grands classiques hollywoodiens, films français légendaires, séries originales en streaming, grands rôles du cinéma, comédies romantiques à la française, drames intenses, documentaires fascinants, histoires vraies adaptées, blockbusters français, grands récits cinématographiques, films de science-fiction modernes, épopées historiques, thrillers captivants, films à suspens, cinéma engagé, animations pour adultes, films humoristiques, meilleurs films à voir, œuvres incontournables, films étrangers primés, cinéma contemporain, cinéma des années 2000, séries limitées, courts-métrages primés, comédies musicales, cinéma accessible à tous, nouveautés en streaming, films à ne pas manquer, cinéastes célèbres, casting prestigieux, films nostalgiques, chefs-d'œuvre restaurés, nouvelles sorties, films internationaux en français, trésors cachés du cinéma, productions primées, films inspirés de faits réels, comédies familiales, thrillers d'espionnage, grandes sagas, épopées épiques, drames poignants, cinéma réaliste, films noirs, policiers français, films de gangsters, cinéma à suspense, drames politiques, fresques historiques, récits captivants, chefs-d'œuvre intemporels, films éducatifs, histoires humaines, récits poignants, comédies burlesques, documentaires sur la nature, aventures en mer, films de survie, séries documentaires, cinéma documentaire, films d'époque romantiques, fresques épiques, récits légendaires, grandes productions françaises, adaptations d'œuvres classiques, cinéma expérimental moderne, cinéma primé à Cannes, films populaires français, classiques indémodables, comédies sociales, récits d'amitié, drames familiaux, films autobiographiques, récits dystopiques, documentaires culturels, contes modernes, films d'époque captivants, fresques cinématographiques.\nfilms complets, films gratuits, films en ligne, cinéma français, films d'action, films comiques, films dramatiques, films d'horreur, films romantiques, films de science-fiction, films épiques, films d'aventure, films cultes, classiques du cinéma, cinéma mondial, films doublés, films sous-titrés, films en haute qualité, meilleurs films à regarder, films émouvants, films historiques, films de guerre, documentaires, films d",
+      "chapters": []
+    }
+  ]
+}

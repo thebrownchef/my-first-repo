@@ -1,0 +1,605 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCr7wDINYhhSl2aLiUoREiVw",
+  "title": "Film&Clips Película del Gran Oeste",
+  "thumb": "https://yt3.ggpht.com/uzfcSG61nSYiGtVIF5JYIre1-pplGzZe4YsKwxeUgs1ZlpikedlXz35KKYro7naFbJcx17n20uI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 39,
+  "distinctSourceCount": 39,
+  "hop": 1,
+  "uploadsPerDay": 0.14,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.028Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.236Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.644Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.782Z"
+    },
+    {
+      "id": "channel:UCUusCgxxEe1eR-S7VDVl0XQ",
+      "type": "channel",
+      "label": "Bizzarro MONSTERS",
+      "url": "https://www.youtube.com/channel/UCUusCgxxEe1eR-S7VDVl0XQ",
+      "firstSeenAt": "2026-10-02T12:30:38.943Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.058Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.183Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.235Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.342Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.550Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.681Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.734Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.790Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.034Z"
+    },
+    {
+      "id": "channel:UC5r5Nk_l94NG797uyJMXzaw",
+      "type": "channel",
+      "label": "Django 360",
+      "url": "https://www.youtube.com/channel/UC5r5Nk_l94NG797uyJMXzaw",
+      "firstSeenAt": "2026-10-02T12:30:40.282Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.337Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.456Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.590Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.742Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.864Z"
+    },
+    {
+      "id": "channel:UC6phmoJYS81YCkiUdKZ-p2w",
+      "type": "channel",
+      "label": "Cineindo Film Gratis",
+      "url": "https://www.youtube.com/channel/UC6phmoJYS81YCkiUdKZ-p2w",
+      "firstSeenAt": "2026-10-02T12:30:41.026Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.077Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.140Z"
+    },
+    {
+      "id": "channel:UCVqjyX0sPiNKXX-To8v_Mjg",
+      "type": "channel",
+      "label": "Western360",
+      "url": "https://www.youtube.com/channel/UCVqjyX0sPiNKXX-To8v_Mjg",
+      "firstSeenAt": "2026-10-02T12:30:41.190Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.323Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.378Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.429Z"
+    },
+    {
+      "id": "channel:UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "type": "channel",
+      "label": "Bizzarro Madhouse",
+      "url": "https://www.youtube.com/channel/UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "firstSeenAt": "2026-10-02T12:30:41.566Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.779Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.061Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.107Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.258Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.376Z"
+    },
+    {
+      "id": "channel:UCtrXebUN5dubj6M-q3deEng",
+      "type": "channel",
+      "label": "Film&Clips Documentary",
+      "url": "https://www.youtube.com/channel/UCtrXebUN5dubj6M-q3deEng",
+      "firstSeenAt": "2026-10-02T12:30:42.429Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.474Z"
+    },
+    {
+      "id": "channel:UChdp4YlG64mqKGqpZ9LEpzA",
+      "type": "channel",
+      "label": "Film&Clips Kidz",
+      "url": "https://www.youtube.com/channel/UChdp4YlG64mqKGqpZ9LEpzA",
+      "firstSeenAt": "2026-10-02T12:30:42.618Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.682Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.733Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.782Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "fvnK-UdPq9s",
+      "title": "Trinity y sus dos compinches | Tres granujas, los indios y la caballería en 4K | PELÍCULA COMPLETA",
+      "publishedAt": "2026-09-28T23:15:01Z",
+      "durationSec": 6893,
+      "thumb": "https://i.ytimg.com/vi/fvnK-UdPq9s/mqdefault.jpg",
+      "description": "Disfruta de la película completa Trinity y sus dos compinches (1975) –también conocida como Un genio, dos compadres y un pollo– restaurada en el impresionante formato 4K Ultra HD 2160p para nuestra colección de archivos digitales de 2026. Dirigida por el aclamado cineasta Damiano Damiani y escrita por maestros del género como Ernesto Gastaldi, Fulvio Morsella y el propio Damiani, esta joya del Spaghetti Western combina hábilmente la comedia de enredos, la acción del Oeste y la crítica social. Suscríbete al canal para apoyar la digitalización y preservación del cine clásico internacional.\n\nEl astuto y carismático estafador Joe Gracias planea el robo del siglo: apoderarse de 300.000 dólares destinados al ejército. Para lograrlo, se alia con dos compinches de pocas luces pero entrañables, Bill y la bella Lucy, diseñando una elaborada trampa dirigida contra un despiadado mayor de caballería conocido por su profundo odio hacia los nativos americanos. A través de disfraces, falsas identidades y giros de guion impredecibles, el trío intentará defender a la tribu india y salir impune con el botín en una aventura llena de ingenio.\n\nCon las inolvidables actuaciones de Terence Hill en la cumbre de su popularidad, la encantadora actriz francesa Miou-Miou y el carismático músico y actor Robert Charlebois, la película es un clásico imperecedero del cine del Oeste. Deja tu Like para apoyar nuestro archivo digital, comparte tus momentos favoritos en los comentarios y suscríbete al canal para no perderte los próximos estrenos restaurados en máxima calidad 4K.\n\nMarcadores de tiempo de la película:\n00:00 Inicio de la película y el ingenioso plan de Joe\n25:15 La alianza de los tres estafadores y la causa india\n55:30 El engaño al mayor de caballería y la comedia de enredos\n01:21:40 El gran golpe final antes de los créditos\n\n#TrinityYSusDosCompinches #PeliculaCompleta #4KUltraHD #TerenceHill #MiouMiou #RobertCharlebois #DamianoDamiani #SpaghettiWestern #PeliculaDeOeste #PeliculaGratis #PeliculaEnEspañol #UltraHD gm",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inicio de la película y el ingenioso plan de Joe"
+        },
+        {
+          "seconds": 1515,
+          "label": "La alianza de los tres estafadores y la causa india"
+        },
+        {
+          "seconds": 3330,
+          "label": "El engaño al mayor de caballería y la comedia de enredos"
+        },
+        {
+          "seconds": 4900,
+          "label": "El gran golpe final antes de los créditos"
+        }
+      ]
+    },
+    {
+      "id": "xjuLPx8iRF8",
+      "title": "Venganza Sangrienta: Cassidy Red | Película Completa 4K | Ella busca justicia a balazos",
+      "publishedAt": "2026-09-22T00:00:13Z",
+      "durationSec": 5475,
+      "thumb": "https://i.ytimg.com/vi/xjuLPx8iRF8/mqdefault.jpg",
+      "description": "Film&Clips Películas del Gran Oeste es el canal GRATUITO y LEGAL más bonito de Youtube donde ver las películas del OESTE en ESPAÑOL!\nCassidy Red regresa a su ciudad natal impulsada por una sed de justicia que solo puede saciarse con sangre. Tras el asesinato de su verdadero amor a manos de su despreciable ex prometido, se ve envuelta en una espiral de violencia donde el pasado y el presente chocan sin piedad. Dividida entre el amor que perdió y el odio que la consume, Cassidy deberá enfrentarse a la lealtad de su propia gente y a la traición de quienes juraron protegerla en un pueblo donde la ley la dicta el más rápido con el gatillo.\n\nDirigida por Matt Knudsen, esta cinta es un Western moderno cargado de adrenalina que redefine la figura de la mujer en el género de acción. Con interpretaciones potentes de Abby Eiland, David Thomas Jenkins y Jason Grasl, Cassidy Red nos lleva por un camino de venganza fuera de control donde cada bala cuenta una historia. Prepárate para una narrativa cruda y emocionante donde la satisfacción tiene un precio muy alto y nadie está a salvo de las consecuencias de sus propios actos.\n\n#CassidyRed #PeliculaCompleta #AccionEnEspañol #WesternModerno #Venganza #CineDeAccion #PeliculasDeVenganza #MujerDeArmasToma",
+      "chapters": []
+    },
+    {
+      "id": "kzJAmldwDu8",
+      "title": "EL BLANCO, EL AMARILLO Y EL NEGRO (1975) | Película Completa en Español 4K | Sergio Corbucci",
+      "publishedAt": "2026-09-11T11:26:04Z",
+      "durationSec": 6138,
+      "thumb": "https://i.ytimg.com/vi/kzJAmldwDu8/mqdefault.jpg",
+      "description": "Film&Clips Películas del Gran Oeste es el canal GRATUITO y LEGAL más bonito de Youtube donde ver las películas del OESTE en ESPAÑOL!\n\n¡Un regalo imperial, un secuestro disparatado y el trío más caótico del Spaghetti Western! 🤠🐎⚔️ Disfruta de la película completa El blanco, el amarillo y el negro (1975 — Il bianco, il giallo, il nero), una divertidísima comedia de acción dirigida por el maestro del género Sergio Corbucci. Escrita por Antonio Troiso, Marcello Coscia y Sergio Spina, cuenta con un elenco estelar compuesto por Giuliano Gemma, Tomas Milian y Eli Wallach. ¡Mírala gratis, en versión completa y en Alta Definición (HD)!\n\n[Sinopsis]\nEn el siglo XIX, el emperador de Japón envía un valioso póney blanco como regalo de paz al presidente de los Estados Unidos. Sin embargo, durante su traslado por el Lejano Oeste, el animal es robado por una tribu de indios que exige un cuantioso rescate por su devolución.\n\nEs entonces cuando entra en acción el firme sheriff Gideon (Eli Wallach), quien decide hacerse cargo de la entrega del dinero del rescate. En su peligrosa y alocada travesía se le unen un peculiar sirviente japonés (Tomas Milian) y un hábil estafador (Giuliano Gemma). Juntos deberán enfrentarse a despiadados bandidos, constantes malentendidos y persecuciones para recuperar al preciado animal antes de que se desate un incidente diplomático internacional.\n\nTítulo Original / Español El blanco, el amarillo y el negro (Il bianco, il giallo, il nero)\nAño de Estreno 1975\nGénero Spaghetti Western / Comedia / Acción\nDirección Sergio Corbucci\nGuion Antonio Troiso, Marcello Coscia, Sergio Spina\nElenco Principal Giuliano Gemma, Tomas Milian, Eli Wallach\nCalidad de Video Full HD (1080p)\nIdioma Español (Audio / Subtitulado)\n\n00:00:00 - Inicio: El regalo del Emperador de Japón\n\n00:11:30 - El secuestro del póney imperial\n\n00:23:45 - El sheriff Gideon asume la misión de rescate\n\n00:36:10 - Encuentro con el sirviente japonés y el estafador\n\n00:49:20 - Emboscadas, persecuciones y enredos en el desierto\n\n01:02:15 - Infiltración en el campamento indio\n\n01:15:40 - Clímax: El rescate del póney y el enfrentamiento final\n\n01:25:00 - Desenlace y Créditos Finales\n\n#ElBlancoElAmarilloYElNegro #SergioCorbucci #TomasMilian #GiulianoGemma #EliWallach #SpaghettiWestern #PeliculaCompleta #CineEspanol #FullHD #PeliculasGratis MC",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inicio: El regalo del Emperador de Japón"
+        },
+        {
+          "seconds": 690,
+          "label": "El secuestro del póney imperial"
+        },
+        {
+          "seconds": 1425,
+          "label": "El sheriff Gideon asume la misión de rescate"
+        },
+        {
+          "seconds": 2170,
+          "label": "Encuentro con el sirviente japonés y el estafador"
+        },
+        {
+          "seconds": 2960,
+          "label": "Emboscadas, persecuciones y enredos en el desierto"
+        },
+        {
+          "seconds": 3735,
+          "label": "Infiltración en el campamento indio"
+        },
+        {
+          "seconds": 4540,
+          "label": "Clímax: El rescate del póney y el enfrentamiento final"
+        },
+        {
+          "seconds": 5100,
+          "label": "Desenlace y Créditos Finales"
+        }
+      ]
+    },
+    {
+      "id": "c8ZiiLuI9IA",
+      "title": "Los Profesionales de la Muerte | 4K | Western, Comedia, Acción | Película Completa en Español",
+      "publishedAt": "2026-08-26T00:00:09Z",
+      "durationSec": 5324,
+      "thumb": "https://i.ytimg.com/vi/c8ZiiLuI9IA/mqdefault.jpg",
+      "description": "Film&Clips Películas del Gran Oeste es el canal GRATUITO y LEGAL más bonito de Youtube donde ver las películas del OESTE en ESPAÑOL!\n\nEspaguetis del Oeste & Películas de Vaqueros: ¡todo el Salvaje Oeste está aquí! \n#Pistoleros #Vaqueros #Saloons #Gringos #Gambusinos #Western \n¡Disparos, explosiones y traiciones al sur de la frontera! 🤠🌵💣 Prepárate para disfrutar de esta trepidante película western llena de acción, peligro y una desesperada carrera contra el tiempo. Tres criminales expertos reciben una última oportunidad de redención en una misión suicida para recuperar un botín robado. ¡Mírala gratis, completa y en Alta Definición (HD)!\n\n[Sinopsis]\nCapturados in fraganti vendiendo armas robadas, tres soldados confederados son condenados a muerte por fusilamiento. Steel Downey, un experto en explosivos; Chattanooga Jim, un pistolero solitario; y Fidel Ramírez, un hábil ladrón de caballos, reciben un indulto de última hora. Sin embargo, su libertad tiene un precio: deben adentrarse en los traicioneros paisajes de México en una peligrosa misión para recuperar un cargamento de oro robado, la última esperanza de la Confederación para financiar sus esfuerzos bélicos. El oro fue tomado por el traidor Mayor Lloyd, quien ha desertado y huido al sur de la frontera.\n\nEl trío de condenados debe navegar por un territorio hostil, repleto de bandidos y soldados enemigos, todo ello mientras son supervisados por el estricto Teniente Logan, encargado de asegurar que cumplan su misión. A medida que se acercan a su objetivo, descubren que las alianzas son efímeras y la traición acecha en cada esquina. Deberán confiar en sus habilidades únicas y mortales para sobrevivir a emboscadas, superar a su astuto adversario y enfrentarse a sus propios pasados turbulentos en una desesperada carrera contra el tiempo para reclamar el oro y ganar su tan anhelada libertad.\n\nGénero Western / Acción / Aventuras / Cine de Oeste\nPersonajes Principales Steel Downey, Chattanooga Jim, Fidel Ramírez, Teniente Logan, Mayor Lloyd\nCalidad de Video HD (Alta Definición 1080p)\nIdioma Español / Múltiples Subtítulos Disponibles\n\n00:00:00 - Inicio: Capturados e indultados al borde del fusilamiento\n\n00:10:45 - La misión suicida: Recuperar el oro robado en México\n\n00:22:30 - Cruce de la frontera: Adentrándose en territorio hostil\n\n00:35:15 - Bajo la estricta vigilancia del Teniente Logan\n\n00:48:00 - Emboscada de bandidos y fuego cruzado\n\n01:01:10 - Siguiendo el rastro del traidor Mayor Lloyd\n\n01:14:25 - La gran trampa: Alianzas frágiles y engaños\n\n01:26:00 - Enfrentamiento final por el tesoro, libertad y Créditos",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inicio: Capturados e indultados al borde del fusilamiento"
+        },
+        {
+          "seconds": 645,
+          "label": "La misión suicida: Recuperar el oro robado en México"
+        },
+        {
+          "seconds": 1350,
+          "label": "Cruce de la frontera: Adentrándose en territorio hostil"
+        },
+        {
+          "seconds": 2115,
+          "label": "Bajo la estricta vigilancia del Teniente Logan"
+        },
+        {
+          "seconds": 2880,
+          "label": "Emboscada de bandidos y fuego cruzado"
+        },
+        {
+          "seconds": 3670,
+          "label": "Siguiendo el rastro del traidor Mayor Lloyd"
+        },
+        {
+          "seconds": 4465,
+          "label": "La gran trampa: Alianzas frágiles y engaños"
+        },
+        {
+          "seconds": 5160,
+          "label": "Enfrentamiento final por el tesoro, libertad y Créditos"
+        }
+      ]
+    },
+    {
+      "id": "Q9pqoZSqY4U",
+      "title": "Il prezzo del potere #shorts",
+      "publishedAt": "2026-08-24T09:32:16Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/Q9pqoZSqY4U/mqdefault.jpg",
+      "description": "Film&Clips Películas del Gran Oeste es el canal GRATUITO y LEGAL más bonito de Youtube donde ver las películas del OESTE en ESPAÑOL!\n\nEspaguetis del Oeste & Películas de Vaqueros: ¡todo el Salvaje Oeste está aquí! \n#Pistoleros #Vaqueros #Saloons #Gringos #Gambusinos #Western \n\n¿Estás preparado para volver a las arenas del Viejo Oeste? \nInscríbete aquí: https://bit.ly/SubscribetoPeliculasDelGranOeste\n\nFilm&Clips Películas del Oeste es ofrecido por @Film&Clips, the best FREE & LEGAL Youtube Channel: movies, clips, docs, short from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available! \nSubscribe to Film&Clips: http://bit.ly/Subscribetofilmandclips\nFacebook: https://www.facebook.com/FilmClips\nInstagram: https://www.instagram.com/film_and_clips/\n\nLas legendarias puertas giratorias del saloon están abiertas!\nDisfruta de Film&Clips Películas del Oeste. Disfruta del Viejo OESTE en ESPAÑOL!\n\n#Oeste #HD #Gratis #Free #Western #FilmAndClips #peliculacompleta #español #western #peliculasdeloeste #cinewestern #spaghettiwestern #oeste #vaqueros #pistoleros #indios #saloon #diligencia #sheriff #forajido #banda #duelo #revolver #sombrero #botas #caballo #desierto #pueblo #mina #oro #plata #leydelmasfuerte #justicia #venganza #aventura #acción #drama #historia #oesteamericano #oesteeuropeo #cineclasico #cinedeculto #doblajespañol#westernespañol #westernlatinoamericano #westernmexicano #westernitaliano #westernfrancés #westernalemán #westernbritánico #westernclásico #westernmoderno #westernindie #westernbajopresupuesto #westerncómico #westernparódico #westernpsicológico #westernfeminista #westernqueer #westernpostapocalíptico #westernespacial #westernsteampunk #westerngótico#cinefilo #amantedelwestern #cinefiloespañol #cinefilolatinoamericano #fandelcineclasico #fandelcinedeculto #coleccionistadvd #cinefiloaccion #cinefiloaventura #cinefilohistoria #cinefilodewesterns #cinefilodespaghettiwestern #westernespañol #peliculasdeloesteenespañol #vaquerosmexicanos #cineclasicodoblado\n#spaghettiwestern #SergioLeone #ClintEastwood #EnnioMorricone\n#westernindie #bajopresupuesto #directoresemergentes #cineindependiente\n#duelo #persecución #atraco #rebelión #guerra #venganza #justicia\n#frontera #desierto #pueblopequeño #granja #rancho #salónde baile\n#viejo oeste #sigloXIX #épocadorada #goldrush #pioneros\n#tormenta #sequía #incendio #montañas #ríoProfesiones: #vaquero #sheriff #bandido #prospector #gambler #cantante #prostituta\n#héroe #villano #antihéroe #amante #amigo #enemigo #mentor#valiente #fuerte #inteligente #astuto #solitario #rebelde#emocionante #intrigante #divertido #triste #sorprendente #inspirador#megusta #nomegusta #recomiendo #critica #debate #análisis#pregunta #respuesta #encuesta #desafío #compartir #etiquetar#cinematografía #fotografía #colorgrading #miseenscène #composición\n #bandasonora #música #efectosdesonido #diálogos\n#realismo #romanticismo #noir #gótico #experimentaldiomas: #english #spanish #french #german #italian #portuguese\n#usa #mexico #argentina #chile #españa #italia\n#suscríbete #like #compartir #comentar #notificaciones\nInteracción: #pregunta #respuesta #debate #discusión #poll\n #crossover #colaboración #gueststar películas de acción, películas llenas de adrenalina, cine de acción, filmes explosivos, thrillers de acción, películas de combate, películas de artes marciales, persecuciones espectaculares, películas con explosiones, aventuras emocionantes, películas de acción de los 80, clásicos de los 90, cine de adrenalina, películas de venganza, filmes de tiroteos, héroes de acción, antihéroes cinematográficos, duelos en el cine, películas de espías, historias de coraje, batallas épicas, películas de ninjas, artes marciales en el cine, combates cuerpo a cuerpo, películas futuristas de acción, carreras contra el tiempo, aventuras peligrosas, grandes explosiones, enfrentamientos épicos, luchas espectaculares, peleas por la supervivencia, tramas llenas de adrenalina, persecuciones en co",
+      "chapters": []
+    },
+    {
+      "id": "e6TIh5CVpD8",
+      "title": "Película Completa 4K: KILLER KID (Huracán sobre México) | Spaghetti Western",
+      "publishedAt": "2026-08-19T23:45:29Z",
+      "durationSec": 5730,
+      "thumb": "https://i.ytimg.com/vi/e6TIh5CVpD8/mqdefault.jpg",
+      "description": "Film&Clips Películas del Gran Oeste es el canal GRATUITO y LEGAL más bonito de Youtube donde ver las películas del OESTE en ESPAÑOL!\n\n¡Revolución, tiranía y la implacable búsqueda de la justicia en la frontera mexicana! 🤠🌵💥 Disfruta de la película completa Killer Kid (1967 — también conocida como Huracán sobre México), un vibrante Spaghetti Western dirigido por Leopoldo Savona y protagonizado por la leyenda del género Anthony Steffen. Adéntrate en una historia cruda de pólvora y rebelión donde el destino de todo un pueblo está en juego. ¡Mírala gratis, sin cortes y en Alta Definición (HD)![Sinopsis]El Capitán Ramírez es un oficial Federal sádico y cruel, encargado de sofocar la insurrección mexicana. Su método es el terror, ejecutando a revolucionarios en su búsqueda obsesiva por desmantelar el liderazgo de la rebelión.  El hombre que busca es \"El Santo\", el respetado y justo líder que guía al pueblo en su lucha. Este western épico narra la intensa persecución de Ramírez para capturar al héroe popular y relata las hazañas de la resistencia, encarnada en la magistral interpretación de Anthony Steffen, quien se convertirá en la peor pesadilla del ejército federal.\n\nTítulo Original Killer Kid (Huracán sobre México)\nAño de Estreno 1967\nGénero Spaghetti Western / Acción / Revolución\nDirección Leopoldo Savona\nGuion Sergio Garrone, Leopoldo Savona\nElenco Principal Anthony Steffen, Luisa Baratto, Fernando Sancho, Yorgo Voyagis\n\n00:00:00 - Inicio: La Insurrección Mexicana y los Créditos\n\n00:10:30 - El Terror del Capitán Ramírez y las Ejecuciones\n\n00:23:45 - La Leyenda de \"El Santo\" y la Resistencia\n\n00:36:10 - El Héroe Entra en Acción (Anthony Steffen)\n\n00:49:20 - Estrategias, Emboscadas y Traición\n\n01:02:15 - El Contrataque de los Rebeldes\n\n01:15:40 - Clímax: El Épico Duelo Final por la Libertad\n\n01:28:00 - Desenlace, Victoria y Créditos Finales",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inicio: La Insurrección Mexicana y los Créditos"
+        },
+        {
+          "seconds": 630,
+          "label": "El Terror del Capitán Ramírez y las Ejecuciones"
+        },
+        {
+          "seconds": 1425,
+          "label": "La Leyenda de \"El Santo\" y la Resistencia"
+        },
+        {
+          "seconds": 2170,
+          "label": "El Héroe Entra en Acción (Anthony Steffen)"
+        },
+        {
+          "seconds": 2960,
+          "label": "Estrategias, Emboscadas y Traición"
+        },
+        {
+          "seconds": 3735,
+          "label": "El Contrataque de los Rebeldes"
+        },
+        {
+          "seconds": 4540,
+          "label": "Clímax: El Épico Duelo Final por la Libertad"
+        },
+        {
+          "seconds": 5280,
+          "label": "Desenlace, Victoria y Créditos Finales"
+        }
+      ]
+    },
+    {
+      "id": "5A7i0f432W0",
+      "title": "Su nombre era Pot | Peter Martell y Gordon Mitchell | Película Completa en Español",
+      "publishedAt": "2026-08-14T00:00:39Z",
+      "durationSec": 4890,
+      "thumb": "https://i.ytimg.com/vi/5A7i0f432W0/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nViaja a los confines más salvajes del universo con The Beast in Space (La bestia del espacio), producida en (1980), ahora disponible en Alta Definición HD. Dirigida por el icónico Alfonso Brescia (bajo su habitual seudónimo de Al Bradley), esta joya oculta combina la odisea espacial de la era Star Wars con el cine de explotación europeo más atrevido.\n\n¡Suscríbete al canal para descubrir más clásicos de culto, cine de ciencia ficción retro y películas completas restauradas en HD!\n\nSINOPSIS:\nEn un futuro lejano, corporaciones de mercantiles y flotas militares rastrean incansablemente el universo en busca de un elemento de valor incalculable: el Antallium. El capitán Larry Madison (Vassili Karis) y la tripulación de su nave espacial son enviados en una misión crucial hacia el misterioso planeta Lorigon, un lugar extremadamente rico en este preciado mineral. Sin embargo, al aterrizar descubren una alarmante anomalía: Lorigon está completamente gobernado por una supercomputadora alienígena viviente que emite ondas capaces de alterar la psique humana, arrastrando a todos los visitantes hacia el hedonismo y el deseo carnal más extremo. ¿Podrá la tripulación resistir la tentación de la máquina o caerán víctimas de la bestia espacial?\n\nCRÉDITOS Y REPARTO:\nDirección: Alfonso Brescia (Al Bradley)\nGuion: Alfonso Brescia, Aldo Crudo\nProtagonistas: Sirpa Lane, Vassili Karis, Lucio Rosato, Venantino Venantini\nGénero: Ciencia Ficción / Erótico / Cine de Culto / Sci-Fi Exploitation\nAño de producción: (1980)\nCalidad de Vídeo: HD 1080p\n\nÍNDICE DE CAPÍTULOS:\n00:00 Introducción: La búsqueda espacial del Antallium\n15:20 La misión de Larry Madison hacia Lorigon\n31:10 Aterrizaje en el planeta del placer y el peligro\n46:45 La supercomputadora toma el control de la tripulación\n01:02:15 Sirpa Lane y el influjo de la bestia espacial\n01:18:30 Intentando apagar el sistema operativo alienígena\n01:30:00 Desenlace interestelar y créditos finales",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introducción: La búsqueda espacial del Antallium"
+        },
+        {
+          "seconds": 920,
+          "label": "La misión de Larry Madison hacia Lorigon"
+        },
+        {
+          "seconds": 1870,
+          "label": "Aterrizaje en el planeta del placer y el peligro"
+        },
+        {
+          "seconds": 2805,
+          "label": "La supercomputadora toma el control de la tripulación"
+        },
+        {
+          "seconds": 3735,
+          "label": "Sirpa Lane y el influjo de la bestia espacial"
+        },
+        {
+          "seconds": 4710,
+          "label": "Intentando apagar el sistema operativo alienígena"
+        },
+        {
+          "seconds": 5400,
+          "label": "Desenlace interestelar y créditos finales"
+        }
+      ]
+    },
+    {
+      "id": "0nvvIMRZ0oE",
+      "title": "SENTÍAN UNA EXTRAÑA Y EXCITANTE PESTE DE DÓLARES (1973) | Película Completa | Español 4K UHD",
+      "publishedAt": "2026-08-07T00:15:26Z",
+      "durationSec": 5235,
+      "thumb": "https://i.ytimg.com/vi/0nvvIMRZ0oE/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\n🎬 ¡Disfruta del raro y descarnado Spaghetti Western \"Sentían una extraña y excitante peste de dólares\" (1973), dirigido por Italo Alfaro, en versión íntegra y en espectacular resolución 4K Ultra HD!\n\nSinopsis:\nEn el salvaje y despiadado Oeste, el olor al dinero atrae a los peores buitres. El implacable pistolero Charity (Robert Malcolm) recibe un encargo de máxima confianza y riesgo: custodiar y entregar una inmensa fortuna destinada al pago de las nóminas de los trabajadores del ferrocarril. Sin embargo, el secreto no tarda en filtrarse. Al sentir esa \"extraña y excitante peste de dólares\", varios lugareños corruptos y una sanguinaria y bien armada banda de forajidos mexicanos trazan sus propios planes mortales para apoderarse del botín. Atrapado en una red de codicia, emboscadas y traiciones, Charity tendrá que usar toda su astucia y su revólver para sobrevivir a la cacería y proteger el oro.\n\n🤠 Género: Spaghetti Western / Acción / Drama\n🎬 Dirección: Italo Alfaro\n✍️ Guion: Piero Regnoli\n🌟 Reparto: Robert Malcolm, Piero Vida, Rosalba Neri, Luigi Antonio Guerra\n\n⏳ Capítulos de la película:\n00:00 Introducción: El olor del dinero en el Salvaje Oeste\n08:15 El encargo: Charity acepta custodiar la nómina del ferrocarril\n17:30 La filtración: El pueblo se entera del cargamento de dólares\n28:40 La banda mexicana prepara su sangriento plan\n39:10 Traiciones locales: Falsas alianzas y mentiras\n50:20 La primera emboscada en el cañón\n01:02:15 Superados en número: Charity lucha por mantener el botín\n01:14:30 Una mujer fatal: El papel de la misteriosa Maria (Rosalba Neri)\n01:21:40 El gran tiroteo final: Plomo y sangre por los dólares\n01:28:10 El destino del oro y los créditos finales\n\n#PesteDeDolares #PeliculaCompleta #4KUHD #SpaghettiWestern #RobertMalcolm #RosalbaNeri #PeliculasDelOeste #CineClasico #PeliculaGratis #AccionWestern #CineDeCulto GC",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introducción: El olor del dinero en el Salvaje Oeste"
+        },
+        {
+          "seconds": 495,
+          "label": "El encargo: Charity acepta custodiar la nómina del ferrocarril"
+        },
+        {
+          "seconds": 1050,
+          "label": "La filtración: El pueblo se entera del cargamento de dólares"
+        },
+        {
+          "seconds": 1720,
+          "label": "La banda mexicana prepara su sangriento plan"
+        },
+        {
+          "seconds": 2350,
+          "label": "Traiciones locales: Falsas alianzas y mentiras"
+        },
+        {
+          "seconds": 3020,
+          "label": "La primera emboscada en el cañón"
+        },
+        {
+          "seconds": 3735,
+          "label": "Superados en número: Charity lucha por mantener el botín"
+        },
+        {
+          "seconds": 4470,
+          "label": "Una mujer fatal: El papel de la misteriosa Maria (Rosalba Neri)"
+        },
+        {
+          "seconds": 4900,
+          "label": "El gran tiroteo final: Plomo y sangre por los dólares"
+        },
+        {
+          "seconds": 5290,
+          "label": "El destino del oro y los créditos finales"
+        }
+      ]
+    },
+    {
+      "id": "dmYKQ5SmBK0",
+      "title": "SARTANA, EL PISTOLERO INVENCIBLE (1969) | Película Completa Western | Español 4K UHD",
+      "publishedAt": "2026-08-01T23:45:09Z",
+      "durationSec": 5151,
+      "thumb": "https://i.ytimg.com/vi/dmYKQ5SmBK0/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\n🎬 ¡Disfruta del implacable Spaghetti Western \"Sartana, el pistolero invencible\" (1969), dirigido por el prolífico Demofilo Fidani, en versión íntegra y en espectacular resolución 4K Ultra HD!\n\nSinopsis:\nEl terror y la anarquía golpean Clayton City cuando siete despiadados bandidos enmascarados secuestran a la joven y hermosa Susy, la prima del influyente alcalde Frank Clonny. Los forajidos exigen un rescate de 15.000 dólares a cambio de su vida. Acorralado, Frank acepta pagar la enorme suma de dinero, pero en secreto idea un plan maestro: contratará a un grupo de hombres para recuperar el botín y acabar con la banda de secuestradores de una vez por todas. Sin embargo, en el despiadado Salvaje Oeste nada sale según lo planeado, y pronto entrará en escena una figura misteriosa e invencible, dispuesta a repartir justicia a punta de revólver.\n\n🤠 Género: Spaghetti Western / Acción / Drama\n🎬 Dirección: Demofilo Fidani\n✍️ Guion: Demofilo Fidani, Mila Vitelli Valenza\n🌟 Reparto: Jeff Cameron, Franco Ricci, Benito Pacifico (como Dennis Colt), Dino Strano\n\n⏳ Capítulos de la película:\n00:00 Introducción: El ataque a Clayton City\n08:15 El secuestro: Siete bandidos enmascarados se llevan a Susy\n18:30 La exigencia de los forajidos: Un rescate de 15.000 dólares\n28:40 El plan del alcalde: Frank Clonny prepara su trampa\n39:10 La entrega del dinero y la tensión en el desierto\n50:20 Entra en acción el pistolero invencible\n01:02:15 Traiciones y tiroteos: El plan comienza a desmoronarse\n01:14:30 El rescate de Susy: Plomo contra los enmascarados\n01:21:40 El gran duelo final por los dólares y la justicia\n01:26:10 El desenlace en Clayton City y los créditos finales\n\n#SartanaElPistoleroInvencible #PeliculaCompleta #4KUHD #SpaghettiWestern #JeffCameron #DemofiloFidani #PeliculasDelOeste #CineClasico #PeliculaGratis #Secuestro #AccionWestern GC",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introducción: El ataque a Clayton City"
+        },
+        {
+          "seconds": 495,
+          "label": "El secuestro: Siete bandidos enmascarados se llevan a Susy"
+        },
+        {
+          "seconds": 1110,
+          "label": "La exigencia de los forajidos: Un rescate de 15.000 dólares"
+        },
+        {
+          "seconds": 1720,
+          "label": "El plan del alcalde: Frank Clonny prepara su trampa"
+        },
+        {
+          "seconds": 2350,
+          "label": "La entrega del dinero y la tensión en el desierto"
+        },
+        {
+          "seconds": 3020,
+          "label": "Entra en acción el pistolero invencible"
+        },
+        {
+          "seconds": 3735,
+          "label": "Traiciones y tiroteos: El plan comienza a desmoronarse"
+        },
+        {
+          "seconds": 4470,
+          "label": "El rescate de Susy: Plomo contra los enmascarados"
+        },
+        {
+          "seconds": 4900,
+          "label": "El gran duelo final por los dólares y la justicia"
+        },
+        {
+          "seconds": 5170,
+          "label": "El desenlace en Clayton City y los créditos finales"
+        }
+      ]
+    },
+    {
+      "id": "INlh2rWonr8",
+      "title": "Il prezzo del potere #shorts",
+      "publishedAt": "2026-07-30T10:58:38Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/INlh2rWonr8/mqdefault.jpg",
+      "description": "Film&Clips Películas del Gran Oeste es el canal GRATUITO y LEGAL más bonito de Youtube donde ver las películas del OESTE en ESPAÑOL!\n\nEspaguetis del Oeste & Películas de Vaqueros: ¡todo el Salvaje Oeste está aquí! \n#Pistoleros #Vaqueros #Saloons #Gringos #Gambusinos #Western \n\n¿Estás preparado para volver a las arenas del Viejo Oeste? \nInscríbete aquí: https://bit.ly/SubscribetoPeliculasDelGranOeste\n\nFilm&Clips Películas del Oeste es ofrecido por @Film&Clips, the best FREE & LEGAL Youtube Channel: movies, clips, docs, short from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available! \nSubscribe to Film&Clips: http://bit.ly/Subscribetofilmandclips\nFacebook: https://www.facebook.com/FilmClips\nInstagram: https://www.instagram.com/film_and_clips/\n\nLas legendarias puertas giratorias del saloon están abiertas!\nDisfruta de Film&Clips Películas del Oeste. Disfruta del Viejo OESTE en ESPAÑOL!\n\n#Oeste #HD #Gratis #Free #Western #FilmAndClips #peliculacompleta #español #western #peliculasdeloeste #cinewestern #spaghettiwestern #oeste #vaqueros #pistoleros #indios #saloon #diligencia #sheriff #forajido #banda #duelo #revolver #sombrero #botas #caballo #desierto #pueblo #mina #oro #plata #leydelmasfuerte #justicia #venganza #aventura #acción #drama #historia #oesteamericano #oesteeuropeo #cineclasico #cinedeculto #doblajespañol#westernespañol #westernlatinoamericano #westernmexicano #westernitaliano #westernfrancés #westernalemán #westernbritánico #westernclásico #westernmoderno #westernindie #westernbajopresupuesto #westerncómico #westernparódico #westernpsicológico #westernfeminista #westernqueer #westernpostapocalíptico #westernespacial #westernsteampunk #westerngótico#cinefilo #amantedelwestern #cinefiloespañol #cinefilolatinoamericano #fandelcineclasico #fandelcinedeculto #coleccionistadvd #cinefiloaccion #cinefiloaventura #cinefilohistoria #cinefilodewesterns #cinefilodespaghettiwestern #westernespañol #peliculasdeloesteenespañol #vaquerosmexicanos #cineclasicodoblado\n#spaghettiwestern #SergioLeone #ClintEastwood #EnnioMorricone\n#westernindie #bajopresupuesto #directoresemergentes #cineindependiente\n#duelo #persecución #atraco #rebelión #guerra #venganza #justicia\n#frontera #desierto #pueblopequeño #granja #rancho #salónde baile\n#viejo oeste #sigloXIX #épocadorada #goldrush #pioneros\n#tormenta #sequía #incendio #montañas #ríoProfesiones: #vaquero #sheriff #bandido #prospector #gambler #cantante #prostituta\n#héroe #villano #antihéroe #amante #amigo #enemigo #mentor#valiente #fuerte #inteligente #astuto #solitario #rebelde#emocionante #intrigante #divertido #triste #sorprendente #inspirador#megusta #nomegusta #recomiendo #critica #debate #análisis#pregunta #respuesta #encuesta #desafío #compartir #etiquetar#cinematografía #fotografía #colorgrading #miseenscène #composición\n #bandasonora #música #efectosdesonido #diálogos\n#realismo #romanticismo #noir #gótico #experimentaldiomas: #english #spanish #french #german #italian #portuguese\n#usa #mexico #argentina #chile #españa #italia\n#suscríbete #like #compartir #comentar #notificaciones\nInteracción: #pregunta #respuesta #debate #discusión #poll\n #crossover #colaboración #gueststar películas de acción, películas llenas de adrenalina, cine de acción, filmes explosivos, thrillers de acción, películas de combate, películas de artes marciales, persecuciones espectaculares, películas con explosiones, aventuras emocionantes, películas de acción de los 80, clásicos de los 90, cine de adrenalina, películas de venganza, filmes de tiroteos, héroes de acción, antihéroes cinematográficos, duelos en el cine, películas de espías, historias de coraje, batallas épicas, películas de ninjas, artes marciales en el cine, combates cuerpo a cuerpo, películas futuristas de acción, carreras contra el tiempo, aventuras peligrosas, grandes explosiones, enfrentamientos épicos, luchas espectaculares, peleas por la supervivencia, tramas llenas de adrenalina, persecuciones en co",
+      "chapters": []
+    }
+  ]
+}

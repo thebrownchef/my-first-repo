@@ -1,0 +1,653 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCZl0iSBsqAiY59Ni_0vRVfw",
+  "title": "Film&Clips auf Deutsch",
+  "thumb": "https://yt3.ggpht.com/M2SOA8rXljbmRbEImXnOmaSoN_XxWeOH1qauLCTVFn80qy0W8nZHNFQzQpxJH6cipeL-VQEc=s88-c-k-c0x00ffffff-no-rj",
+  "score": 40,
+  "distinctSourceCount": 40,
+  "hop": 1,
+  "uploadsPerDay": 0.26,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.028Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.235Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.642Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.780Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.883Z"
+    },
+    {
+      "id": "channel:UCUusCgxxEe1eR-S7VDVl0XQ",
+      "type": "channel",
+      "label": "Bizzarro MONSTERS",
+      "url": "https://www.youtube.com/channel/UCUusCgxxEe1eR-S7VDVl0XQ",
+      "firstSeenAt": "2026-10-02T12:30:38.942Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.059Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.182Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.234Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.342Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.549Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.682Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.735Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.789Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.034Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.337Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.403Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.454Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.589Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.739Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.858Z"
+    },
+    {
+      "id": "channel:UC6phmoJYS81YCkiUdKZ-p2w",
+      "type": "channel",
+      "label": "Cineindo Film Gratis",
+      "url": "https://www.youtube.com/channel/UC6phmoJYS81YCkiUdKZ-p2w",
+      "firstSeenAt": "2026-10-02T12:30:41.025Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.074Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.141Z"
+    },
+    {
+      "id": "channel:UCVqjyX0sPiNKXX-To8v_Mjg",
+      "type": "channel",
+      "label": "Western360",
+      "url": "https://www.youtube.com/channel/UCVqjyX0sPiNKXX-To8v_Mjg",
+      "firstSeenAt": "2026-10-02T12:30:41.190Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.320Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.379Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.431Z"
+    },
+    {
+      "id": "channel:UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "type": "channel",
+      "label": "Bizzarro Madhouse",
+      "url": "https://www.youtube.com/channel/UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "firstSeenAt": "2026-10-02T12:30:41.565Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.780Z"
+    },
+    {
+      "id": "channel:UCAfXQ_YeB7krOEl5vYycnkQ",
+      "type": "channel",
+      "label": "Film Western in Italiano",
+      "url": "https://www.youtube.com/channel/UCAfXQ_YeB7krOEl5vYycnkQ",
+      "firstSeenAt": "2026-10-02T12:30:41.960Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.060Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.106Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.254Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.375Z"
+    },
+    {
+      "id": "channel:UCtrXebUN5dubj6M-q3deEng",
+      "type": "channel",
+      "label": "Film&Clips Documentary",
+      "url": "https://www.youtube.com/channel/UCtrXebUN5dubj6M-q3deEng",
+      "firstSeenAt": "2026-10-02T12:30:42.428Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.473Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.683Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.733Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.780Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "682R0pNSVhw",
+      "title": "Die Sklavinnen von Damaskus (Goliath) – Ganzer Film auf Deutsch HD | Gordon Scott",
+      "publishedAt": "2026-09-30T07:51:03Z",
+      "durationSec": 5356,
+      "thumb": "https://i.ytimg.com/vi/682R0pNSVhw/mqdefault.jpg",
+      "description": "Film & Clips Ganzer Film ist der KOSTENLOS & LEGAL YouTube-Filmkanal, der sich ausschließlich deutschsprachigen Filmen widmet!\n\nSchaue Die Sklavinnen von Damaskus (L'Eroe di Babilonia / Goliath), den klassischen Historien- und Sandalenfilm von 1963 unter der Regie von Siro Marcellini, mit Gordon Scott, Geneviève Grad und Moira Orfei.\n\n🎬 INHALT / SYNOPSIS:\nIm antiken Babylon reißt der grausame Usurpator Balthasar die Macht an sich und unterdrückt das Volk mit harter Hand. Als der rechtmäßige Prinz Nippur (Gordon Scott) aus dem Exil zurückkehrt, stellt er fest, dass seine Heimat im Chaos versinkt. Gemeinsam mit der mutigen Tamira (Geneviève Grad) und den versklavten Rebellen organisiert Nippur den Widerstand gegen den Tyrannen. Ein episches Abenteuer voller Gladiatorenkämpfe, Verrat, Mut und spektakulärer Action!\n\n📌 FILMINFOS:\n• Originaltitel: L'Eroe di Babilonia\n• Deutscher Titel: Die Sklavinnen von Damaskus (auch bekannt als Goliath – Der Held von Babylon)\n• Besetzung: Gordon Scott, Geneviève Grad, Moira Orfei, Andrea Scotti, Mario Petri\n• Regie: Siro Marcellini\n• Genre: Historienfilm / Sandalenfilm (Peplum) / Abenteuer / Action\n• Erscheinungsjahr: 1963\n• Sprache: Deutsch (Deutscher Ton)\n\n⏱️ KAPITEL / TIMESTAMPS:\n00:00 - Filmstart\n11:15 - Die Schreckensherrschaft in Babylon\n27:40 - Nippurs Rückkehr und Treffen mit den Rebellen\n49:30 - Der Aufstand der Sklaven\n01:12:00 - Die große Schlacht um Babylons Thron\n01:26:00 - Finale und Abspann\n\n🔔 Abonniere unseren Kanal für weitere Filmklassiker, epische Abenteuerfilme und ganze Spielfilme auf Deutsch!\n👍 Gefällt mir drücken, wenn dir dieser Sandalenfilm-Klassiker gefallen hat, und schreibe uns deinen Lieblingsmoment in die Kommentare!\n\nDie Sklavinnen von Damaskus, Die Sklavinnen von Damaskus ganzer film, Die Sklavinnen von Damaskus deutsch, Der Held von Babylon, L Eroe di Babilonia, Gordon Scott, Gordon Scott ganzer film, Gordon Scott deutsch, Sandalenfilm ganzer film deutsch, Peplum deutsch, Historienfilm ganzer film, Abenteuerfilm ganzer film deutsch, alte filme ganzer film deutsch, spielfilm auf deutsch, klassiker filme deutsch, ganzer film kostenlos, spielfilm klassiker deutsch\n\n#ganzerfilm #deutsch #Filme, deutscher Film, Kino, Filme kostenlos, Filme online schauen, Filme in voller Länge, Klassiker, aktuelle Filme, Independentfilme, Autorenfilme, Kurzfilme, Spielfilme, Synchronisation, Untertitel, Kinostart, Kinoprogramm, Filmfestival, Filmpreise, Filmindustrie, Action, Abenteuer, Komödie, Drama, Romantik, Horror, Science-Fiction, Fantasy, Historienfilm, Kriegsfilm, Thriller, Mystery, Krimi, Western, Animation, deutsches Kino, österreichisches Kino, schweizer Kino, europäisches Kino, Liebe, Freundschaft, Familie, Gesellschaft, Politik, Geschichte, Kultur, Religion, Wissenschaft, Technologie, Natur, Netflix, Amazon Prime Video, Disney+, HBO Max,",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Filmstart"
+        },
+        {
+          "seconds": 675,
+          "label": "Die Schreckensherrschaft in Babylon"
+        },
+        {
+          "seconds": 1660,
+          "label": "Nippurs Rückkehr und Treffen mit den Rebellen"
+        },
+        {
+          "seconds": 2970,
+          "label": "Der Aufstand der Sklaven"
+        },
+        {
+          "seconds": 4320,
+          "label": "Die große Schlacht um Babylons Thron"
+        },
+        {
+          "seconds": 5160,
+          "label": "Finale und Abspann"
+        }
+      ]
+    },
+    {
+      "id": "spjS9B3-v3A",
+      "title": "Weihwasser Joe (1971) | GANZER FILM | Spaghetti Western mit Richard Harrison HD",
+      "publishedAt": "2026-08-20T19:00:16Z",
+      "durationSec": 5245,
+      "thumb": "https://i.ytimg.com/vi/spjS9B3-v3A/mqdefault.jpg",
+      "description": "Sieh dir jetzt den unterhaltsamen Spaghetti-Western-Klassiker „Weihwasser Joe“ (Originaltitel: Acquasanta Joe, 1971) auf Deutsch an! Ein explosiver Euro-Western voller Action, Dynamik und cleverer Wendungen unter der Regie von Mario Gariazzo (Roy Garrett) mit den Kulstars Richard Harrison, Ty Hardin und Lincoln Tate.\n\nInhaltsangabe:\nGleich nach dem Ende des amerikanischen Bürgerkriegs zieht eine skrupellose Bande ehemaliger Soldaten unter der Führung des eiskalten Jeff Donovan (Ty Hardin) raubend und mordend durch das Land. Doch sie haben die Rechnung ohne den mysteriösen \"Weihwasser Joe\" (Lincoln Tate) gemacht – einen ehemals geistlichen Kopfgeldjäger, der die Bibel zitiert, während er seine Feinde mit der Waffe zur Strecke bringt. Als auch der professionelle Kopfgeldjäger Charlie Logan (Richard Harrison) auf der Bildfläche erscheint, kommt es zu einem undurchsichtigen Spiel aus Bündnissen, Verrat und Jagd nach einer Kiste voller Gold. Am Ende entscheidet nicht das Gebetbuch, sondern die Schnelligkeit am Colt.\n\nRegie: Mario Gariazzo (als Roy Garrett)\n\nGenre: Western, Spaghetti Western, Action, Kultfilm\n\nBesetzung: Richard Harrison, Ty Hardin, Lincoln Tate, Silvia Monelli, Tuccio Musumeci\n\nErscheinungsjahr: 1971\n\nLaufzeit: ca. 90 Minuten\n\nQualität: Full HD 1080p / Remastered\n\nABONNIERE den Kanal für mehr kostenlose ganze Filme auf Deutsch, klassische Spaghetti-Western, Kultfilme mit Richard Harrison & Ty Hardin und legendäre Action-Klassiker in bester HD-Qualität!\n\n#WeihwasserJoe #AcquasantaJoe #RichardHarrison #TyHardin #SpaghettiWestern #GanzerFilm #WesternDeutsch #MarioGariazzo #WesternKlassiker #filmeaufdeutsch \n\n00:00 - Die Raubzüge von Jeff Donovans Bande\n\n15:30 - Auftritt Weihwasser Joe\n\n31:10 - Charlie Logan nimmt die Fährte auf\n\n48:25 - Ein gefährlicher Pakt um das Gold\n\n1:07:40 - Hinterhalt und Verrat in den Bergen\n\n1:22:15 - Der finale Showdown und Abspann",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Die Raubzüge von Jeff Donovans Bande"
+        },
+        {
+          "seconds": 930,
+          "label": "Auftritt Weihwasser Joe"
+        },
+        {
+          "seconds": 1870,
+          "label": "Charlie Logan nimmt die Fährte auf"
+        },
+        {
+          "seconds": 2905,
+          "label": "Ein gefährlicher Pakt um das Gold"
+        },
+        {
+          "seconds": 4060,
+          "label": "Hinterhalt und Verrat in den Bergen"
+        },
+        {
+          "seconds": 4935,
+          "label": "Der finale Showdown und Abspann"
+        }
+      ]
+    },
+    {
+      "id": "GRqmZOMBPdk",
+      "title": "Kugeln tragen keine Unterschrift | Ganzer Film Deutsch | Western HD",
+      "publishedAt": "2026-08-14T19:00:39Z",
+      "durationSec": 5553,
+      "thumb": "https://i.ytimg.com/vi/GRqmZOMBPdk/mqdefault.jpg",
+      "description": "Sieh dir jetzt den düsteren Spaghetti-Western-Klassiker „Kugeln tragen keine Unterschrift“ (Originaltitel: Due volte Giuda, 1969) auf Deutsch an! Ein spannender und wendungsreicher Rache-Western unter der Regie von Nando Cicero mit der meisterhaften Besetzung Antonio Sabàto und Klaus Kinski.\n\nInhaltsangabe:\nLuke Barrett (Antonio Sabàto) kommt nach einem Schusswechsel in der Wüste wieder zu Bewusstsein, leidet jedoch an einer totalen Amnesie. Neben ihm liegt die Leiche eines Mannes und bei sich trägt er nur einen Revolver, eine Bibel mit dem Namen \"Dingus\" und ein Foto seiner Frau. Auf der Suche nach seiner wahren Identität trifft er auf den mysteriösen Arzt Dingus (Klaus Kinski), der mehr über Lukes Vergangenheit zu wissen scheint, als er zugibt. Schon bald findet sich Luke in einem tödlichen Netz aus Verrat, Familienfehden, Bürgerkriegs-Erinnerungen und blutigen Abrechnungen wieder.\n\nRegie: Nando Cicero\n\nGenre: Western, Spaghetti Western, Drama, Action, Rachefilm\n\nBesetzung: Antonio Sabàto, Klaus Kinski, Cristina Galbó, Narciso Busquets, Franco Leo\n\nErscheinungsjahr: 1969\n\nLaufzeit: ca. 92 Minuten\n\nQualität: Full HD 1080p / Remastered\n\nABONNIERE den Kanal für mehr kostenlose ganze Filme auf Deutsch, klassische Spaghetti-Western, Kultfilme mit Klaus Kinski & Antonio Sabàto und legendäre Action-Klassiker in bester HD-Qualität!\n\n#KugelnTragenKeineUnterschrift #DueVolteGiuda #KlausKinski #AntonioSabato #SpaghettiWestern #GanzerFilm #WesternDeutsch #NandoCicero #WesternKlassiker #filmeaufdeutsch \n\n00:00 - Erwachen in der Wüste ohne Erinnerung\n\n14:20 - Die Begegnung mit dem mysteriösen Dingus\n\n30:45 - Spuren der eigenen Identität\n\n49:10 - Verrat und die Wahrheit über die Vergangenheit\n\n1:08:30 - Die Falle schließt sich\n\n1:24:15 - Das tödliche Finale und Abspann",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Erwachen in der Wüste ohne Erinnerung"
+        },
+        {
+          "seconds": 860,
+          "label": "Die Begegnung mit dem mysteriösen Dingus"
+        },
+        {
+          "seconds": 1845,
+          "label": "Spuren der eigenen Identität"
+        },
+        {
+          "seconds": 2950,
+          "label": "Verrat und die Wahrheit über die Vergangenheit"
+        },
+        {
+          "seconds": 4110,
+          "label": "Die Falle schließt sich"
+        },
+        {
+          "seconds": 5055,
+          "label": "Das tödliche Finale und Abspann"
+        }
+      ]
+    },
+    {
+      "id": "IkvDpBodk-Q",
+      "title": "Amigos – Die (B)Engel lassen grüßen (1968) | GANZER FILM | Spaghetti Western mit Giuliano Gemma",
+      "publishedAt": "2026-08-07T19:00:32Z",
+      "durationSec": 5579,
+      "thumb": "https://i.ytimg.com/vi/IkvDpBodk-Q/mqdefault.jpg",
+      "description": "Sieh dir jetzt den unterhaltsamen Spaghetti-Western-Klassiker „Amigos – Die (B)Engel lassen grüßen“ (Originaltitel: E per tetto un cielo di stelle, 1968) auf Deutsch an! Ein perfekter Mix aus Action, Witz und Spannung unter der Regie von Giulio Petroni mit dem unvergesslichen Duo Giuliano Gemma und Mario Adorf.\n\nInhaltsangabe:\nTim (Giuliano Gemma) ist ein gewitzter Herumtreiber und Lebenskünstler, der sich am liebsten mit kleinen Gaunereien durch den Wilden Westen schlägt. Als er auf den gutmütigen, aber kräftigen Harry (Mario Adorf) trifft, entsteht eine ungewöhnliche Zweckfreundschaft. Doch Tim hat ein dunkles Geheimnis: Er wird von einer skrupellosen Banditenbande gejagt, da er Zeuge eines blutigen Postkutschenüberfalls war. Während Harry eigentlich nur von einem ruhigen Leben auf einer eigenen Farm träumt, gerät das ungleiche Duo immer wieder in Schießereien, Schlägereien und wilde Verfolgungsjagden. Am Ende müssen die beiden Amigos gemeinsam zum Colt greifen, um ihre Haut zu retten.\n\nRegie: Giulio Petroni\n\nMusik: Ennio Morricone\n\nGenre: Western, Spaghetti Western, Komödie, Action\n\nBesetzung: Giuliano Gemma, Mario Adorf, Magda Konopka, Anthony Dawson, Franco Balducci\n\nErscheinungsjahr: 1968\n\nLaufzeit: ca. 95 Minuten\n\nQualität: Full HD 1080p / Remastered\n\nABONNIERE den Kanal für mehr kostenlose ganze Filme auf Deutsch, klassische Spaghetti-Western, Kultfilme mit Giuliano Gemma & Mario Adorf und legendäre Abenteuer-Klassiker in bester HD-Qualität!\n\n#AmigosDieEngelLassenGruessen #GiulianoGemma #MarioAdorf #SpaghettiWestern #GanzerFilm #WesternDeutsch #GiulioPetroni #WesternKlassiker #FilmeAufDeutsch #enniomorriconemusic \n\n00:00 - Das Treffen zweier Herumtreiber\n\n15:40 - Tims Geheimnis und die Verfolger\n\n32:10 - Träume von der eigenen Farm\n\n50:25 - Die Banditen spüren das Duo auf\n\n1:12:00 - Die große Schlägerei im Saloon\n\n1:28:15 - Der finale Showdown und Abspann",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Das Treffen zweier Herumtreiber"
+        },
+        {
+          "seconds": 940,
+          "label": "Tims Geheimnis und die Verfolger"
+        },
+        {
+          "seconds": 1930,
+          "label": "Träume von der eigenen Farm"
+        },
+        {
+          "seconds": 3025,
+          "label": "Die Banditen spüren das Duo auf"
+        },
+        {
+          "seconds": 4320,
+          "label": "Die große Schlägerei im Saloon"
+        },
+        {
+          "seconds": 5295,
+          "label": "Der finale Showdown und Abspann"
+        }
+      ]
+    },
+    {
+      "id": "MvMk8LGwEJM",
+      "title": "Two Guns and a Coward (1968) | Ganzer Film | Spaghetti Western mit Anthony Steffen HD",
+      "publishedAt": "2026-07-29T19:00:34Z",
+      "durationSec": 5499,
+      "thumb": "https://i.ytimg.com/vi/MvMk8LGwEJM/mqdefault.jpg",
+      "description": "Sieh dir jetzt den packenden Spaghetti-Western-Klassiker „Pistolero segnato da Dio“ (1968) auf Deutsch an! Ein kompromissloser Rache-Western unter der Regie von Western-Altmeister Giorgio Ferroni (Calvin Jackson Padget) mit der Genre-Ikone Anthony Steffen in der Hauptrolle.\n\nInhaltsangabe:\nRoy Green (Anthony Steffen) gilt in der Stadt Paso Bravo als Außenseiter und wird von den Bewohnern gemieden, da ihn ein tragisches Ereignis aus der Vergangenheit verfolgt. Als eine skrupellose Bande unter der Führung eines gierigen Landraubs-Syndikats die Stadt in Angst und Schrecken versetzt und vor Mord nicht zurückschreckt, bricht der Konflikt offen aus. Roy, der über ein treffsicheres Talent mit dem Colt verfügt, greift zur Waffe. In einem unerbittlichen Kampf um Gerechtigkeit, Ehre und persönliche Vergeltung zeigt sich, dass ein Mann, der nichts mehr zu verlieren hat, der gefährlichste Gegner von allen ist.\n\nRegia / Regie: Giorgio Ferroni (als Calvin Jackson Padget)\n\nGenre: Western, Spaghetti Western, Action, Rachefilm\n\nBesetzung: Anthony Steffen, Richard Wyler, Ken Wood (Giovanni Cianfriglia), Gia Sandri\n\nErscheinungsjahr: 1968\n\nLaufzeit: ca. 95 Minuten\n\nQualität: Full HD 1080p / Remastered\n\nABONNIERE den Kanal für mehr kostenlose ganze Filme auf Deutsch, klassische Spaghetti-Western, Nostalgie-Kultfilme, Anthony Steffen Filme und legendäre Action-Klassiker in bester HD-Qualität!\n\n#PistoleroSegnatoDaDio #AnthonySteffen #SpaghettiWestern #GanzerFilm #WesternDeutsch #Kultfilme #GiorgioFerroni #WesternKlassiker #FilmeAufDeutsch #RacheWestern\n\n00:00 - Die Ankunft in Paso Bravo\n\n16:20 - Das Schatten der Vergangenheit\n\n33:45 - Die Tyrannei der Bande\n\n51:10 - Roy Green greift zum Colt\n\n1:12:30 - Der Hinterhalt und die Revanche\n\n1:27:15 - Das finale Duell und Abspann",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Die Ankunft in Paso Bravo"
+        },
+        {
+          "seconds": 980,
+          "label": "Das Schatten der Vergangenheit"
+        },
+        {
+          "seconds": 2025,
+          "label": "Die Tyrannei der Bande"
+        },
+        {
+          "seconds": 3070,
+          "label": "Roy Green greift zum Colt"
+        },
+        {
+          "seconds": 4350,
+          "label": "Der Hinterhalt und die Revanche"
+        },
+        {
+          "seconds": 5235,
+          "label": "Das finale Duell und Abspann"
+        }
+      ]
+    },
+    {
+      "id": "L2MNKEiWnto",
+      "title": "Vengeance Trail | Ganzer Film auf Deutsch | Italowestern mit Klaus Kinski | HD",
+      "publishedAt": "2026-07-06T18:00:29Z",
+      "durationSec": 5583,
+      "thumb": "https://i.ytimg.com/vi/L2MNKEiWnto/mqdefault.jpg",
+      "description": "Schau den kompletten Kult-Italowestern \"Drei Amen für den Satan\" (Originaltitel: La vendetta è un piatto che si serve freddo, 1971) in voller Länge auf Deutsch! Ein unbarmherziger und atmosphärischer Klassiker des brutalen Rache-Kinos der 70er Jahre, inszeniert von Pasquale Squitieri und untermalt mit dem fantastischen Soundtrack von Piero Umiliani. Mit den Genre-Ikonen Leonard Mann, Ivan Rassimov und dem unvergesslichen Klaus Kinski in einer unheimlichen Gastrolle.\n\nHandlung:\nAls kleiner Junge muss Jeremiah Bridger (Leonard Mann) hilflos mitansehen, wie seine gesamte Familie bei einem vermeintlichen Indianerüberfall auf die heimische Farm brutal massakriert wird. Gezeichnet von diesem Kindheitstrauma wächst Jeremiah zu einem wortkargen, hasserfüllten Einzelgänger heran. Er wird zum gnadenlosen Skalpjäger, der jeden Indianer jagt, den er finden kann. Doch hinter dem Massaker an seiner Familie steckt eine viel tiefere, politische Verschwörung: Der korrupte Richter Perkins (Ivan Rassimov) und seine skrupellosen Gefolgsleute nutzen als Indianer verkleidete Banditen, um den Siedlern ihr Land zu rauben. Als Jeremiah die schreckliche Wahrheit erfährt, richtet sich sein unbändiger Zorn gegen die wahren Drahtzieher. Ein bleihaltiger, eiskalter Rachefeldzug beginnt, bei dem Gesetz und Moral keine Rolle mehr spielen. Denn Rache ist ein Gericht, das am besten kalt serviert wird.\n\nRegie: Pasquale Squitieri\n\nGenre: Western, Italowestern, Action, Drama\n\nBesetzung: Leonard Mann, Ivan Rassimov, Klaus Kinski, Elizabeth Eversfield, Steffen Zacharias, Enzo Fiermonte\n\nErscheinungsjahr: 1971 (Deutsche Erstaufführung 1972)\n\nSpieldauer: ca. 93 Minuten\n\nVideo-Qualität: HD Remastered\n\nABONNIERE den Kanal für weitere komplette Italowestern auf Deutsch, klassische Spaghetti-Western, staubige Rache-Thriller, seltene Kultfilme der 70er & 80er Jahre und vergessene Kinoperlen im kostenlosen High-Definition-Stream!\n\n00:00 - Das Massaker auf der Bridger-Farm\n\n14:15 - Der Skalpjäger: Jeremiahs gnadenlose Jagd\n\n33:10 - Richter Perkins und die Landraub-Verschwörung\n\n52:45 - Die Entdeckung der Wahrheit: Masken fallen\n\n1:15:20 - Der eiskalte Rachefeldzug beginnt\n\n1:28:10 - Das bleihaltige Finale & Abspann",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Das Massaker auf der Bridger-Farm"
+        },
+        {
+          "seconds": 855,
+          "label": "Der Skalpjäger: Jeremiahs gnadenlose Jagd"
+        },
+        {
+          "seconds": 1990,
+          "label": "Richter Perkins und die Landraub-Verschwörung"
+        },
+        {
+          "seconds": 3165,
+          "label": "Die Entdeckung der Wahrheit: Masken fallen"
+        },
+        {
+          "seconds": 4520,
+          "label": "Der eiskalte Rachefeldzug beginnt"
+        },
+        {
+          "seconds": 5290,
+          "label": "Das bleihaltige Finale & Abspann"
+        }
+      ]
+    },
+    {
+      "id": "QzCG-gvl1ZM",
+      "title": "Earth - Art of Nature | Ganzer Dokumentarfilm | Faszinierende Natur & Entspannung",
+      "publishedAt": "2026-06-27T18:00:35Z",
+      "durationSec": 4978,
+      "thumb": "https://i.ytimg.com/vi/QzCG-gvl1ZM/mqdefault.jpg",
+      "description": "Erlebe die Erde, wie du sie noch nie gesehen hast! Schau jetzt den kompletten Dokumentarfilm „Earth: Art of Nature“ unter der Regie von Benjamin Eicher. Ein visuelles Meisterwerk, das die unberührte Schönheit und die künstlerischen Formen unseres Planeten feiert.\n\nInhalt:\nUnsere Erde ist der größte Künstler von allen. Von den majestätischen Gipfeln eisiger Gebirge über die endlosen Weiten goldener Wüsten bis hin zu den tiefen, mystischen Geheimnissen der Ozeane und dichten Regenwälder – dieser Dokumentarfilm nimmt dich mit auf eine hypnotisierende, weltweite Reise. Ohne Hektik, dafür mit spektakulären Kameraeinstellungen und einem atmosphärischen Soundtrack zeigt „Earth: Art of Nature“ die faszinierendsten Naturphänomene und unberührten Landschaften unseres Planeten. Perfekt zum Abschalten, Genießen, Meditieren oder einfach zum Staunen über die Kunstwerke, die die Natur im Laufe von Jahrmillionen geschaffen hat.\n\nRegie: Benjamin Eicher\n\nGenre: Naturdokumentation, Entspannung, Reise, Kunst der Natur\n\nProduktionsjahr: ca. 2014/2015\n\nSpieldauer: ca. 60–80 Minuten\n\nQualität: Full HD / 4K Ultra HD (falls verfügbar)\n\n👉 ABONNIERE unseren Kanal für weitere komplette Dokumentationen über Natur, Tiere, ferne Länder, Entspannungsvideos und atemberaubende Naturfilme komplett kostenlos und in bester Qualität!\n\n00:00 - Prolog: Die Erde als ewiger Künstler\n\n12:15 - Welten aus Eis: Die Arktis und alpine Höhen\n\n25:40 - Das Erwachen des Urwalds: Tropische Wunder\n\n42:10 - Ewige Weiten: Wüstenformen und Canyons\n\n58:35 - Die Tiefe des Ozeans: Küsten und Meeresgewalten\n\n1:12:20 - Epilog: Der Schutz unseres blauen Planeten",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Prolog: Die Erde als ewiger Künstler"
+        },
+        {
+          "seconds": 735,
+          "label": "Welten aus Eis: Die Arktis und alpine Höhen"
+        },
+        {
+          "seconds": 1540,
+          "label": "Das Erwachen des Urwalds: Tropische Wunder"
+        },
+        {
+          "seconds": 2530,
+          "label": "Ewige Weiten: Wüstenformen und Canyons"
+        },
+        {
+          "seconds": 3515,
+          "label": "Die Tiefe des Ozeans: Küsten und Meeresgewalten"
+        },
+        {
+          "seconds": 4340,
+          "label": "Epilog: Der Schutz unseres blauen Planeten"
+        }
+      ]
+    },
+    {
+      "id": "IxH2ZG_MxIA",
+      "title": "Three Crosses of Death | Ganzer Westernfilm Deutsch | 4K",
+      "publishedAt": "2026-06-24T18:00:02Z",
+      "durationSec": 5629,
+      "thumb": "https://i.ytimg.com/vi/IxH2ZG_MxIA/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nSchaue jetzt den legendären Spaghetti-Western „Drei Kreuze zum Jass“ (Originaltitel: Tre croci per non morire, 1968) in voller Länge auf Deutsch! Ein packender, staubiger und kompromissloser Italo-Western-Klassiker unter der Regie von Genremeister Sergio Garrone.\n\nInhalt:\nDie drei berüchtigten Outlaws Reno (Craig Hill), Paco und Jerry werden fälschlicherweise eines grausamen Mordes und Raubes an einem reichen Farmer beschuldigt, den sie niemals begangen haben. Sie entgehen im letzten Moment dem Galgen, doch ihre Freiheit ist an eine gnadenlose Bedingung geknüpft: Sie müssen den wahren Mörder ausfindig machen und das gestohlene Geld zurückbringen. Es beginnt eine bleihaltige und verzweifelte Jagd durch die Wüste, bei der die drei Desperados nicht nur skrupellosen Kopfgeldjägern und korrupten Gesetzeshütern entkommen müssen, sondern auch auf ein Netz aus Verrat und Intrigen stoßen. Werden sie ihre Unschuld beweisen, bevor die Schlinge sich endgültig zuzieht?\n\nRegie: Sergio Garrone\n\nGenre: Western, Italo-Western, Action, Klassiker\n\nDarsteller: Craig Hill, Ida Galli (Evelyn Stewart), Jean Louis, Giovanni Cianfriglia (Ken Wood)\n\nProduktionsjahr: 1968\n\nSpieldauer: ca. 90 Minuten\n\nQualität: Digital restauriert HD\n\n👉 ABONNIERE unseren Kanal für mehr ganze Westernfilme auf Deutsch, legendäre Spaghetti-Western, klassische Actionfilme der 60er und 70er Jahre sowie seltene Perlen des europäischen Kinos komplett kostenlos und in bester Qualität!\n\n#DreiKreuzeZumJass #TreCrociPerNonMorire #GanzerFilm #SpaghettiWestern #ItaloWestern #WesternDeutsch #SergioGarrone #CraigHill #Klassiker #WesternKanal\n\n00:00 - Der Hinterhalt und die falsche Anschuldigung\n\n14:20 - Dem Galgen entronnen: Die letzte Chance\n\n31:45 - Auf der staubigen Spur des wahren Mörders\n\n48:10 - Konfrontation im Saloon: Blei liegt in der Luft\n\n1:11:30 - Die Schlinge zieht sich zu: Der finale Showdown\n\n1:26:15 - Das Ende des Rachefeldzugs und Abspann",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Der Hinterhalt und die falsche Anschuldigung"
+        },
+        {
+          "seconds": 860,
+          "label": "Dem Galgen entronnen: Die letzte Chance"
+        },
+        {
+          "seconds": 1905,
+          "label": "Auf der staubigen Spur des wahren Mörders"
+        },
+        {
+          "seconds": 2890,
+          "label": "Konfrontation im Saloon: Blei liegt in der Luft"
+        },
+        {
+          "seconds": 4290,
+          "label": "Die Schlinge zieht sich zu: Der finale Showdown"
+        },
+        {
+          "seconds": 5175,
+          "label": "Das Ende des Rachefeldzugs und Abspann"
+        }
+      ]
+    },
+    {
+      "id": "NV9NAGUpXsE",
+      "title": "An den Galgen, Bastardo! | Ganzer Western mit Anthony Steffen & Mark Damon | 4K",
+      "publishedAt": "2026-06-19T16:00:23Z",
+      "durationSec": 5181,
+      "thumb": "https://i.ytimg.com/vi/NV9NAGUpXsE/mqdefault.jpg",
+      "description": "Sehen Sie hier den knallharten und rasanten Spaghetti-Western-Klassiker \"Django – Die Toten zählt man nicht\" (Originaltitel: I morti non si contano / ¿Quién grita venganza?, 1968) in voller Länge! Ein absoluter Kulthit der Marchent-Brüder, hochkarätig besetzt mit den Western-Ikonen Anthony Steffen und Mark Damon.\n\nInhalt:\nIn einer staubigen Grenzregion herrscht das Gesetz des Stärkeren. Eine skrupellose Bande von Viehdieben und Landspekulanten terrorisiert die örtlichen Farmer und schreckt vor kaltblütigem Mord nicht zurück. Als die Situation eskaliert, treten zwei ungleiche Männer auf den Plan: Der wortkarge, treffsichere Kopfgeldjäger Fred (Anthony Steffen) und der charmante, aber tödliche Revolverheld Johnny (Mark Damon). Ursprünglich aus unterschiedlichen Motiven geleitet, schließen sich die beiden Einzelgänger zusammen, um den korrupten MacGregor und seine Privatarmee zu Fall zu bringen. Es folgt ein bleihaltiger Rachefeldzug, bei dem die Gräber schneller geschaufelt werden müssen, als man zählen kann. Ein staubiger, zynischer Italo-Western der alten Schule!\n\nRegie: Rafael Romero Marchent\n\nGenre: Spaghetti Western, Italo-Western, Action, Rachefilm\n\nDarsteller: Anthony Steffen, Mark Damon, María Martín, Luis Induni, Piero Lulli\n\nErscheinungsjahr: 1968\n\nSpieldauer: ca. 90 Minuten\n\nQualität: Digital restauriert Full HD\n\n👉 ABONNIEREN sie unseren Kanal, um keine weiteren klassischen Spaghetti-Western, seltenen Eurocore-Perlen, Italo-Western-Klassiker und bleihaltigen Kultfilme in voller Länge zu verpassen – komplett kostenlos!\n\n00:00 - Intro und der brutale Überfall der Banditen\n\n12:35 - Der Kopfgeldjäger Fred (Anthony Steffen) erreicht die Stadt\n\n27:10 - Johnny (Mark Damon) mischt die Karten neu: Saloon-Schlägerei\n\n44:55 - Eine Allianz aus Blei: Fred und Johnny tun sich zusammen\n\n1:08:20 - Der Großangriff auf die Ranch und Hinterhalt\n\n1:22:40 - Das finale, tödliche Revolverduell und Abspann",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Intro und der brutale Überfall der Banditen"
+        },
+        {
+          "seconds": 755,
+          "label": "Der Kopfgeldjäger Fred (Anthony Steffen) erreicht die Stadt"
+        },
+        {
+          "seconds": 1630,
+          "label": "Johnny (Mark Damon) mischt die Karten neu: Saloon-Schlägerei"
+        },
+        {
+          "seconds": 2695,
+          "label": "Eine Allianz aus Blei: Fred und Johnny tun sich zusammen"
+        },
+        {
+          "seconds": 4100,
+          "label": "Der Großangriff auf die Ranch und Hinterhalt"
+        },
+        {
+          "seconds": 4960,
+          "label": "Das finale, tödliche Revolverduell und Abspann"
+        }
+      ]
+    },
+    {
+      "id": "FD_n--UEUcE",
+      "title": "Una Notte Con Nino D'Angelo | Ganzer Film & Musik (HD)",
+      "publishedAt": "2026-06-04T12:00:39Z",
+      "durationSec": 5200,
+      "thumb": "https://i.ytimg.com/vi/FD_n--UEUcE/mqdefault.jpg",
+      "description": "Film & Clips Ganzer Film ist der KOSTENLOS & LEGAL YouTube-Filmkanal, der sich ausschließlich deutschsprachigen Filmen widmet!\n\nErlebe \"Una notte con Nino D'Angelo\" (Eine Nacht mit Nino D'Angelo), ein unvergessliches musikalisches Erlebnis in High Definition (HD). Für alle Fans von Nino D'Angelo, neapolitanischer Musik und italienischen Klassikern ist dieser ganze Film ein absolutes Muss.\n\nTauche ein in die Welt der italienischen Legende. Genieße die emotionalsten Momente, die größten Hits und die unverwechselbare romantische Atmosphäre von Neapel, die Nino D'Angelo in den 80er Jahren berühmt gemacht hat. Dieses Special ist die perfekte Mischung aus Nostalgie, Film und Musik – ein Abend voller Leidenschaft und \"Amore\". Ideal für alle, die das italienische Kino und die Musik lieben.\n\n🍿 Abonniere unseren Kanal und lass ein \"Gefällt mir\" (Like) da, wenn dir das Video gefallen hat! Aktiviere die Glocke, um keine weiteren kostenlosen Filme und Konzerte zu verpassen.\n\n#NinoDAngelo #UnaNotteConNinoDAngelo #ItalienischeMusik #GanzerFilm #ItalienischeFilme\n\n#ganzerfilm #deutsch #Filme, deutscher Film, Kino, Filme kostenlos, Filme online schauen, Filme in voller Länge, Klassiker, aktuelle Filme, Independentfilme, Autorenfilme, Kurzfilme, Spielfilme, Synchronisation, Untertitel, Kinostart, Kinoprogramm, Filmfestival, Filmpreise, Filmindustrie, Action, Abenteuer, Komödie, Drama, Romantik, Horror, Science-Fiction, Fantasy, Historienfilm, Kriegsfilm, Thriller, Mystery, Krimi, Western, Animation, deutsches Kino, österreichisches Kino, schweizer Kino, europäisches Kino, Liebe, Freundschaft, Familie, Gesellschaft, Politik, Geschichte, Kultur, Religion, Wissenschaft, Technologie, Natur, Netflix, Amazon Prime Video, Disney+, HBO Max, Star+, Sky, Berlinale, Filmfest München, Zurich Film Festival, Deutscher Filmpreis, Oscar, BAFTA, Kinematografie, Regie, Drehbuch, Schauspiel, Schnitt, Ton, Spezialeffekte, Filmfans, Kinobesucher, Filmstudenten, Filmkritiker, Filme auf Deutsch mit englischen Untertiteln, Filme synchronisiert ins Deutsche, Filme mit deutscher Tonspur, Keywords, SEO, Meta-Beschreibung, Tags, Hashtags, YouTube SEO, deutsche Filme kostenlos in voller Länge, österreichische Klassiker, beste deutsche Filme der 90er, kurze Horrorfilme auf Deutsch, deutscher Independentfilm, Liebesfilme auf Deutsch, Berlinale 2023, wie man einen Kurzfilm macht, Filmkritiken auf Deutsch, Film de arte, Film underground, Film experimental, Film documental, Film mudo, Film de autor latinoamericano, Film de autor español, nuevo cine latinoamericano, Film de género, Film fantástico, Film de terror latinoamericano, Film de culto, Film de autor independiente, Film de autor europeo, Film de autor asiático, Film de autor africano, Film de autor norteamericano, Film de autor australiano, Film de autor canadiense,Regisseur, Drehbuchautor, Schauspieler, Kameramann, Cutter, Produzent, Filmkritiker, Filmjournalist",
+      "chapters": []
+    },
+    {
+      "id": "rhwnHI-pJHU",
+      "title": "Tatanka | Italienisches Mafia-Drama & Boxen | Ganzer Film (4K)",
+      "publishedAt": "2026-06-03T15:00:09Z",
+      "durationSec": 6248,
+      "thumb": "https://i.ytimg.com/vi/rhwnHI-pJHU/mqdefault.jpg",
+      "description": "Film & Clips Ganzer Film ist der KOSTENLOS & LEGAL YouTube-Filmkanal, der sich ausschließlich deutschsprachigen Filmen widmet!\nSchau dir Tatanka an, ein packendes italienisches Mafia-Drama in High Definition (HD). Basierend auf einer Geschichte von Roberto Saviano (Gomorrah), ist dieser ganze Film ein absolutes Muss für Fans von Boxen, Action und düsteren Kriminalgeschichten.\n\nIn Marcianise, im rauen Hinterland von Neapel, diktiert die Camorra das tägliche Leben. Der junge Michele (gespielt vom echten Boxchampion Clemente Russo) weigert sich, den kriminellen Weg seines besten Freundes einzuschlagen. Seine einzige Rettung vor der Unterwelt ist das Boxen. Der Ring wird zu seinem Zufluchtsort und seiner einzigen Chance auf Erlösung. Ein realistisches und hartes Sportdrama über den Kampf ums Überleben, Loyalität und die Flucht vor dem organisierten Verbrechen.\n#Tatanka #GanzerFilm #MafiaDrama #RobertoSaviano #Boxen #ItalienischeFilme\n\n🍿 Abonniere unseren Kanal und lass ein \"Gefällt mir\" (Like) da, wenn dir dieser Film gefallen hat! Aktiviere die Glocke, um keine weiteren kostenlosen Filme und spannenden Dramen zu verpassen.\n\n#ganzerfilm #deutsch #Filme, deutscher Film, Kino, Filme kostenlos, Filme online schauen, Filme in voller Länge, Klassiker, aktuelle Filme, Independentfilme, Autorenfilme, Kurzfilme, Spielfilme, Synchronisation, Untertitel, Kinostart, Kinoprogramm, Filmfestival, Filmpreise, Filmindustrie, Action, Abenteuer, Komödie, Drama, Romantik, Horror, Science-Fiction, Fantasy, Historienfilm, Kriegsfilm, Thriller, Mystery, Krimi, Western, Animation, deutsches Kino, österreichisches Kino, schweizer Kino, europäisches Kino, Liebe, Freundschaft, Familie, Gesellschaft, Politik, Geschichte, Kultur, Religion, Wissenschaft, Technologie, Natur, Netflix, Amazon Prime Video, Disney+, HBO Max, Star+, Sky, Berlinale, Filmfest München, Zurich Film Festival, Deutscher Filmpreis, Oscar, BAFTA, Kinematografie, Regie, Drehbuch, Schauspiel, Schnitt, Ton, Spezialeffekte, Filmfans, Kinobesucher, Filmstudenten, Filmkritiker, Filme auf Deutsch mit englischen Untertiteln, Filme synchronisiert ins Deutsche, Filme mit deutscher Tonspur, Keywords, SEO, Meta-Beschreibung, Tags, Hashtags, YouTube SEO, deutsche Filme kostenlos in voller Länge, österreichische Klassiker, beste deutsche Filme der 90er, kurze Horrorfilme auf Deutsch, deutscher Independentfilm, Liebesfilme auf Deutsch, Berlinale 2023, wie man einen Kurzfilm macht, Filmkritiken auf Deutsch, Film de arte, Film underground, Film experimental, Film documental, Film mudo, Film de autor latinoamericano, Film de autor español, nuevo cine latinoamericano, Film de género, Film fantástico, Film de terror latinoamericano, Film de culto, Film de autor independiente, Film de autor europeo, Film de autor asiático, Film de autor africano, Film de autor norteamericano, Film de autor australiano, Film de autor canadiense,Regisseur, Drehbuchautor, Schauspieler, Kameramann, Cutter, Produzent, Filmkritiker, Filmjournalist",
+      "chapters": []
+    },
+    {
+      "id": "eQ8yIAJz5BU",
+      "title": "Julius Caesar - Ganzer Film Deutsch | Regie: Uli Edel | Historienfilm HD",
+      "publishedAt": "2026-05-31T18:00:09Z",
+      "durationSec": 10656,
+      "thumb": "https://i.ytimg.com/vi/eQ8yIAJz5BU/mqdefault.jpg",
+      "description": "Sehen Sie den monumentalen Historienfilm \"Julius Caesar\" in voller Länge. Regisseur Uli Edel inszeniert das Leben und den Aufstieg des berühmtesten Feldherrn Roms in diesem hochkarätig besetzten Meisterwerk.\n\nHandlung:\nDer junge Julius Caesar flieht aus Rom vor dem Tyrannen Sulla. Jahre später kehrt er als triumphaler Feldherr zurück. Der Film zeigt seinen unaufhaltsamen Aufstieg zum Diktator auf Lebenszeit, seine legendäre Romanze mit Kleopatra und die Verschwörung im Senat, die schließlich zu den Iden des März führt. Ein packendes Porträt über Macht, Verrat und das Schicksal des Römischen Reiches.\n\nRegie: Uli Edel\n\nGenre: Historienfilm, Drama, Biografie\n\nBesetzung: Jeremy Sisto, Christopher Walken, Richard Harris, Chris Noth\n\nJahr: 2002\n\nLaufzeit: ca. 175 Minuten (Zweiteiler)\n\n👉 ABONNIEREN Sie unseren Kanal für weitere historische Spielfilme, Monumentalfilme und Filmklassiker in voller Länge!\n\n00:00 - Die Flucht vor Sulla\n\n30:45 - Caesars Aufstieg in Gallien\n\n1:15:20 - Der Marsch auf Rom\n\n1:50:10 - Caesar und Kleopatra in Ägypten\n\n2:35:45 - Die Verschwörung im Senat\n\n2:50:00 - Die Iden des März und Abspann",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Die Flucht vor Sulla"
+        },
+        {
+          "seconds": 1845,
+          "label": "Caesars Aufstieg in Gallien"
+        },
+        {
+          "seconds": 4520,
+          "label": "Der Marsch auf Rom"
+        },
+        {
+          "seconds": 6610,
+          "label": "Caesar und Kleopatra in Ägypten"
+        },
+        {
+          "seconds": 9345,
+          "label": "Die Verschwörung im Senat"
+        },
+        {
+          "seconds": 10200,
+          "label": "Die Iden des März und Abspann"
+        }
+      ]
+    }
+  ]
+}

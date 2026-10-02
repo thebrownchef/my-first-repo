@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCObk_g1hQBy0RKKriVX_zOQ",
+  "title": "Netflix Is A Joke",
+  "thumb": "https://yt3.ggpht.com/3CYVzLztKZ_nGzrs6UTXwKr5W-RUe5uIUuJoHno6HgUVj-KpbJ8_u-6MveD3k-AZXEOdWpUPSw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 1.78,
+  "sources": [
+    {
+      "id": "channel:UCWOA1ZGywLbqmigxE4Qlvuw",
+      "type": "channel",
+      "label": "Netflix",
+      "url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
+      "firstSeenAt": "2026-09-05T10:32:50.653Z"
+    },
+    {
+      "id": "channel:UCBSs9x2KzSLhyyA9IKyt4YA",
+      "type": "channel",
+      "label": "Netflix Anime",
+      "url": "https://www.youtube.com/channel/UCBSs9x2KzSLhyyA9IKyt4YA",
+      "firstSeenAt": "2026-10-02T12:30:31.329Z"
+    },
+    {
+      "id": "channel:UCc1l5mTmAv2GC_PXrBpqyKQ",
+      "type": "channel",
+      "label": "Netflix Brasil",
+      "url": "https://www.youtube.com/channel/UCc1l5mTmAv2GC_PXrBpqyKQ",
+      "firstSeenAt": "2026-10-02T12:30:33.030Z"
+    }
+  ],
+  "recentItems": []
+}

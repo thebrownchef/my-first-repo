@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCZSNzBgFub_WWil6TOTYwAg",
   "title": "Netflix India",
   "thumb": "https://yt3.ggpht.com/1zMqt_hyAYOV-doKq-wK-UyREkj0GiBbgJ8bzKKtEFWbacBos5Gu8PuSP_dq5cI0a-FHg_lS=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.93,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Netflix",
       "url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
       "firstSeenAt": "2026-09-05T10:32:50.653Z"
+    },
+    {
+      "id": "channel:UCBSs9x2KzSLhyyA9IKyt4YA",
+      "type": "channel",
+      "label": "Netflix Anime",
+      "url": "https://www.youtube.com/channel/UCBSs9x2KzSLhyyA9IKyt4YA",
+      "firstSeenAt": "2026-10-02T12:30:31.330Z"
+    },
+    {
+      "id": "channel:UCim0ZIz8SAQGPvg4mJHG3JA",
+      "type": "channel",
+      "label": "Netflix India Shorts",
+      "url": "https://www.youtube.com/channel/UCim0ZIz8SAQGPvg4mJHG3JA",
+      "firstSeenAt": "2026-10-02T12:30:32.328Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCpxdGwLq63mkJUk242X2-jw",
+  "title": "TIME Breaking News",
+  "thumb": "https://yt3.ggpht.com/VN552bSOKZOSU_GKIfCMWdkLd4_3bJDbp_LeiAiRcK0y2cWRUmb2qdMKLsc4sOOZmJKVcelSdQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.11,
+  "sources": [
+    {
+      "id": "channel:UC8Su5vZCXWRag13H53zWVwA",
+      "type": "channel",
+      "label": "TIME",
+      "url": "https://www.youtube.com/channel/UC8Su5vZCXWRag13H53zWVwA",
+      "firstSeenAt": "2026-09-05T10:32:53.150Z"
+    },
+    {
+      "id": "channel:UCpxdGwLq63mkJUk242X2-jw",
+      "type": "channel",
+      "label": "TIME Breaking News",
+      "url": "https://www.youtube.com/channel/UCpxdGwLq63mkJUk242X2-jw",
+      "firstSeenAt": "2026-10-02T12:30:42.874Z"
+    }
+  ],
+  "recentItems": []
+}

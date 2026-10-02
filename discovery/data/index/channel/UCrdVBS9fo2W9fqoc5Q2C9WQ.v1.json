@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCrdVBS9fo2W9fqoc5Q2C9WQ",
   "title": "NRL Footy Show",
   "thumb": "https://yt3.ggpht.com/PGE9mbSZdufDjbEbaOBi-CfA1iowxUkcxRbW8A24B0Ejrjqy1ybABaWfxj5VdTQdj40DsE4Grw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Wide World of Sports",
       "url": "https://www.youtube.com/channel/UCV5HXUHFR-yuSb7qDJ5_80g",
       "firstSeenAt": "2026-09-30T12:31:20.600Z"
+    },
+    {
+      "id": "channel:UCJ-Q3hFmYN-XnpS8JKY_G-w",
+      "type": "channel",
+      "label": "Footy on Nine",
+      "url": "https://www.youtube.com/channel/UCJ-Q3hFmYN-XnpS8JKY_G-w",
+      "firstSeenAt": "2026-10-02T12:30:47.547Z"
     }
   ],
   "recentItems": []

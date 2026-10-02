@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCVTQuK2CaWaTgSsoNkn5AiQ",
   "title": "HBO",
   "thumb": "https://yt3.ggpht.com/xrXPx6zj9lXDumnGmxo1BMS3NhyOjHaO3io8FXK1yqbojj3eMJpbJ-b92ODieH2hsY8KYuXs_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.43,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "BEYONDoriginals",
       "url": "https://www.youtube.com/channel/UCxtzhKGdXeMv3stgMbYcyDg",
       "firstSeenAt": "2026-09-30T12:31:15.362Z"
+    },
+    {
+      "id": "channel:UCx-KWLTKlB83hDI6UKECtJQ",
+      "type": "channel",
+      "label": "HBO Max",
+      "url": "https://www.youtube.com/channel/UCx-KWLTKlB83hDI6UKECtJQ",
+      "firstSeenAt": "2026-10-02T12:30:44.497Z"
     }
   ],
   "recentItems": []

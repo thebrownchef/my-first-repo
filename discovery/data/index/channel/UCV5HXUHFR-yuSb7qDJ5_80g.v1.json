@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCV5HXUHFR-yuSb7qDJ5_80g",
   "title": "Wide World of Sports",
   "thumb": "https://yt3.ggpht.com/93P-I9934l-V1-y3c46s1OBCBWDFxdk-euzCPz95oPpc15aJuQ0JLapZ0vPXZvHZOgS4dFqd_Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 3.68,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "9 News Australia",
       "url": "https://www.youtube.com/channel/UCIYLOcEUX6TbBo7HQVF2PKA",
       "firstSeenAt": "2026-09-06T10:53:24.412Z"
+    },
+    {
+      "id": "channel:UCJ-Q3hFmYN-XnpS8JKY_G-w",
+      "type": "channel",
+      "label": "Footy on Nine",
+      "url": "https://www.youtube.com/channel/UCJ-Q3hFmYN-XnpS8JKY_G-w",
+      "firstSeenAt": "2026-10-02T12:30:47.547Z"
+    },
+    {
+      "id": "channel:UCrdVBS9fo2W9fqoc5Q2C9WQ",
+      "type": "channel",
+      "label": "NRL Footy Show",
+      "url": "https://www.youtube.com/channel/UCrdVBS9fo2W9fqoc5Q2C9WQ",
+      "firstSeenAt": "2026-10-02T12:30:47.655Z"
     }
   ],
   "recentItems": []

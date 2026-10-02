@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UC57y8_BVuW2wXNrxJV23dag",
   "title": "LEGO Masters Australia",
   "thumb": "https://yt3.ggpht.com/RCJpO6rb4pevnOMvY80-5hnA0-O7j3jJr7odGu6DBczn4ZMKetDV8koGAc8LvzGlzlpu5JDN7g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Channel 9",
       "url": "https://www.youtube.com/channel/UC7HZ5uBTih75iwtesU0aDew",
       "firstSeenAt": "2026-09-30T12:31:21.044Z"
+    },
+    {
+      "id": "channel:UCX0OgH9WrDT9DQ2A8I-LTPA",
+      "type": "channel",
+      "label": "Getaway",
+      "url": "https://www.youtube.com/channel/UCX0OgH9WrDT9DQ2A8I-LTPA",
+      "firstSeenAt": "2026-10-02T12:30:47.263Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,541 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCAGXLfVOgDJfV3yLFQLH0XA",
+  "title": "Film&Clips Max Action",
+  "thumb": "https://yt3.ggpht.com/GqongSeZEQDypJkZimu4qepYxMN5w_qMT2xEpsWHAepA6H3HVPEr18traPpj1hkA4eLwc41Y-Q=s88-c-k-c0x00ffffff-no-rj",
+  "score": 30,
+  "distinctSourceCount": 30,
+  "hop": 1,
+  "uploadsPerDay": 0.42,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.028Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.237Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.643Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.782Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.061Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.183Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.342Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.548Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.683Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.737Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.791Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.036Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.336Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.403Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.455Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.587Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.742Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.860Z"
+    },
+    {
+      "id": "channel:UCqfZ6hsLx_VhGZGB4_8wimg",
+      "type": "channel",
+      "label": "Bizzarro Dark Side",
+      "url": "https://www.youtube.com/channel/UCqfZ6hsLx_VhGZGB4_8wimg",
+      "firstSeenAt": "2026-10-02T12:30:40.973Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.077Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.321Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.378Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.059Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.108Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.258Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.378Z"
+    },
+    {
+      "id": "channel:UChdp4YlG64mqKGqpZ9LEpzA",
+      "type": "channel",
+      "label": "Film&Clips Kidz",
+      "url": "https://www.youtube.com/channel/UChdp4YlG64mqKGqpZ9LEpzA",
+      "firstSeenAt": "2026-10-02T12:30:42.618Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.681Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.735Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.781Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "IKklWXOu1Kk",
+      "title": "Trial by Fire [HD] | Brooke Burns | Full Suspense Movie",
+      "publishedAt": "2026-10-01T23:45:04Z",
+      "durationSec": 5601,
+      "thumb": "https://i.ytimg.com/vi/IKklWXOu1Kk/mqdefault.jpg",
+      "description": "Film&Clips Max Action is the best YouTube channel to watch FREE ACTION movies in ENGLISH!\n\nWatch the full action drama movie \"Trial by Fire\" in High Definition (HD). Directed by John Terlesky and starring Brooke Burns, this intense film combines the dangers of firefighting with a gripping story of betrayal, grief, and the fight for justice.\n\nSubscribe to the channel so you never miss out on the best full action movies, thrilling dramas, and suspense films in maximum resolution!\n\nSYNOPSIS:\nKristin Scott (Brooke Burns) is a dedicated and courageous firefighter, standing out as the only woman on her elite squad. Her world is shattered when a devastating blaze claims the life of her father, the respected fire captain, just days before his well-earned retirement. The tragedy quickly turns into a nightmare when the investigation points in her direction, and Kristin finds herself wrongfully accused of causing his death. Facing the overwhelming grief of losing her father and the sudden hostility of her male colleagues, Kristin must fight against the odds to clear her name. Driven by a desperate need for the truth, she sets out to uncover the real cause of the suspicious fire, proving her innocence and her true worth as a firefighter.\n\nCAST & CREW:\nDirector: John Terlesky\nWriter: Jeff Stephenson\nStarring: Brooke Burns, Rick Ravanello, Winston Rekert\nGenre: Action, Drama, Thriller\nVideo Quality: HD (High Definition)\n\nCHAPTERS:\n00:00 Start: Trial by Fire (HD)\n08:15 The life of the only female firefighter on the squad\n22:30 The deadly blaze and the tragic loss of the Captain\n38:40 The investigation begins: Kristin becomes the prime suspect\n55:20 Dealing with hostility from the team and fighting for the truth\n01:10:45 Uncovering clues about the suspicious fire\n01:25:00 The intense climax and the real culprit revealed\n01:30:00 Clearing her name and honoring her father's legacy\n\nmc",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Start: Trial by Fire (HD)"
+        },
+        {
+          "seconds": 495,
+          "label": "The life of the only female firefighter on the squad"
+        },
+        {
+          "seconds": 1350,
+          "label": "The deadly blaze and the tragic loss of the Captain"
+        },
+        {
+          "seconds": 2320,
+          "label": "The investigation begins: Kristin becomes the prime suspect"
+        },
+        {
+          "seconds": 3320,
+          "label": "Dealing with hostility from the team and fighting for the truth"
+        },
+        {
+          "seconds": 4245,
+          "label": "Uncovering clues about the suspicious fire"
+        },
+        {
+          "seconds": 5100,
+          "label": "The intense climax and the real culprit revealed"
+        },
+        {
+          "seconds": 5400,
+          "label": "Clearing her name and honoring her father's legacy"
+        }
+      ]
+    },
+    {
+      "id": "8p-g08cc3ok",
+      "title": "The Coed and the Zombie Stoner #shorts",
+      "publishedAt": "2026-09-30T15:50:48Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/8p-g08cc3ok/mqdefault.jpg",
+      "description": "Film&Clips Max Action is the best YouTube channel to watch FREE ACTION movies in ENGLISH!\n\naction movies, adrenaline-filled films, action-packed cinema, explosive films, action thrillers, combat films, martial arts movies, spectacular chases, movies with explosions, breathtaking adventures, 80s action films, 90s action classics, adrenaline cinema, revenge movies, shootout films, action heroes, cinematic anti-heroes, cinematic duels, spy movies, tales of courage, epic battles, ninja films, martial arts features, hand-to-hand combat, futuristic action movies, races against time, dangerous adventures, big explosions, epic confrontations, spectacular battles, survival fights, adrenaline-filled plots, car chases, action-packed police films, crime action, cinematic revenge, dynamic films, war action movies, action and adventure films, fast-paced plots, relentless action, brave protagonists, modern action films, explosive duels, cult action films, classic action cinema, adrenaline blockbusters, invincible heroes, American action cinema, Italian action movies, action movie stars, superhero films, secret agent stories, impossible missions, adventure and action cinema, pure adrenaline films, redemption stories, espionage action, movies with plot twists, international action films, fights for justice, tales of vengeance and redemption, futuristic action settings, epic survival stories, films with strong protagonists, military combat films, hand-to-hand battles, spectacular cinematic fights, gang confrontations, urban action films, explosive plots, power struggles, 80s cult action films, modern adventures, movies with rebels, escape stories, films with legendary heroes, anti-hero tales, sci-fi action movies, post-apocalyptic action, dynamic cinema, action and warfare, futuristic fight settings, stories of strength and resilience, movies with epic struggles, European action cinema, Hollywood action blockbusters, grand cinematic duels, high-speed chases, suspenseful and adrenaline-filled cinema, films with unexpected endings, spectacular features, epic war films, resistance stories, non-stop action, steel heroes, faction confrontations, cinematic action for enthusiasts, space battle action movies, heart-pounding action stories, car chases, movies with ninjas and samurai, sword fights, continuous action plots, Italian action cinema, memorable action films, adventure films with adrenaline, epic fight stories, cinematic epic battles, secret missions, secret agents in action, dangerous espionage tales, military action films, stories of family revenge, films with rebellious heroes, adrenaline-fueled adventures, fights against evil, pure action cinema, action with apocalyptic settings, fights for dominance, epic war movies, independent action films, urban action, classic martial arts films, martial arts action features, grand cinematic adventures, tales of extreme survival.Sylvester Stallone, Arnold Schwarzenegger, Bruce Willis, Jean-Claude Van Damme, Chuck Norris, Tom Cruise, Jason Statham, Dwayne Johnson, Chris Hemsworth, Scarlett Johansson, Keanu Reeves, Vin Diesel, Tom Hardy, Charlize Theron, Gal Gadot, Jackie Chan, Jet Li, Tony Jaa, Donnie Yen, Sigourney Weaver, Angelina Jolie, Michelle Yeoh, Zoe Saldana, Rocky, Rambo, Terminator, Conan il Barbaro, Die Hard, Pulp Fiction, Mission: Impossible, The Transporter, The Expendables, Thor, Black Widow, Matrix, Fast & Furious, Mad Max: Fury Road, Wonder Woman, Rush Hour, Police Story, Ong-Bak, Ip Man, Alien, Tomb Raider, Everything Everywhere All at Once, Avatareroic rescues, intense action scenes, action-packed adventures, martial arts legends, high-octane action, spy thrillers, elite operatives, deadly missions, adrenaline-fueled combat, tactical battles, action epics, daring heists, action-packed sagas, futuristic warfare, samurai showdowns, action-packed crime dramas, rogue agents, mercenary stories, vigilante justice, high-stakes action, stealth missions, cinematic showdowns, swordplay action, c",
+      "chapters": []
+    },
+    {
+      "id": "YeLUMIUTtu8",
+      "title": "Darc (2018) | Full Movie HD Armand Assante & Kippei Shîna",
+      "publishedAt": "2026-09-25T15:29:09Z",
+      "durationSec": 4873,
+      "thumb": "https://i.ytimg.com/vi/YeLUMIUTtu8/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nA brutal past, a deadly vendetta, and a blood-soaked war against the Yakuza underground! Get ready for a hard-hitting, martial arts action thriller. Watch the full movie \"Darc\" (original title on IMDb: Darc, 2018), an intense feature directed by Julius R. Nasso. Starring world karate champion Tony Schiena alongside Hollywood veteran Armand Assante and Japanese star Kippei Shîna, this gritty criminal showdown arrives on our channel fully restored in crisp High Definition (HD 1080p) resolution!\n\nTo dismantle a global human trafficking ring operating out of the shadows, an Interpol agent is forced to enlist the help of Darc (Tony Schiena), a brutal ex-con raised inside the criminal underworld with intimate knowledge of the Yakuza's inner workings. Fueled by a personal quest for vengeance against the mobsters who destroyed his childhood, Darc embarks on a merciless, single-handed crusade through the global syndicate. Armed with lethal combat skills and a cold resolve, he cuts a bloody trail to bring down the organization from within.\n\n- English Title: Darc (Original Title on IMDb: Darc | International Title: Darc)\n- Release Year: 2018\n- Directed by: Julius R. Nasso\n- Screenplay by: Tony Schiena | Dennis Venter\n- Original Music / Soundtrack: Michael James Down\n- Production Studio: Julius R. Nasso Productions \n- Main Cast: Tony Schiena (Darc) | Armand Assante (Lafontaine) | Kippei Shîna (Kigeru) | Sho Ikushima (Kazuto) | Dawn Olivieri | Tetsu Watanabe\n- Genre: Action / Martial Arts / Crime / Thriller / Revenge\n- Video Quality: High Definition (HD 1080p - Restored Version)\n- Running Time: Approx. 97 minutes\n- Language: Original English Audio with Multiple Subtitles Available\n\n00:00:00 - Movie Start: The Shadowy World of the Yakuza Syndicate in HD\n00:13:40 - The Interpol Deal: Darc Recruited for the Mission scene\n00:27:15 - Infiltrating the Underground: A Trail of Violence Begins video\n00:41:50 - Remnants of the Past: Childhood Memories & Revenge Fuels Darc moment\n00:56:30 - Martial Arts Showdown: High-Stakes Combat in the Streets history\n01:12:10 - Storming the Yakuza Stronghold: The Raid on the Bosses action\n01:26:45 - The Final Execution & Blood-Soaked Revenge duel\n01:34:00 - Epilogue, Justice Served & End Credits wrap\n\n\n#Darc #Darc2018 #FullMovie #HD #FreeMovies",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Movie Start: The Shadowy World of the Yakuza Syndicate in HD"
+        },
+        {
+          "seconds": 820,
+          "label": "The Interpol Deal: Darc Recruited for the Mission scene"
+        },
+        {
+          "seconds": 1635,
+          "label": "Infiltrating the Underground: A Trail of Violence Begins video"
+        },
+        {
+          "seconds": 2510,
+          "label": "Remnants of the Past: Childhood Memories & Revenge Fuels Darc moment"
+        },
+        {
+          "seconds": 3390,
+          "label": "Martial Arts Showdown: High-Stakes Combat in the Streets history"
+        },
+        {
+          "seconds": 4330,
+          "label": "Storming the Yakuza Stronghold: The Raid on the Bosses action"
+        },
+        {
+          "seconds": 5205,
+          "label": "The Final Execution & Blood-Soaked Revenge duel"
+        },
+        {
+          "seconds": 5640,
+          "label": "Epilogue, Justice Served & End Credits wrap"
+        }
+      ]
+    },
+    {
+      "id": "OxfciJxYMBA",
+      "title": "Termination Point [HD] | Secret Weapon | Full Action Movie English",
+      "publishedAt": "2026-09-16T23:30:03Z",
+      "durationSec": 5427,
+      "thumb": "https://i.ytimg.com/vi/OxfciJxYMBA/mqdefault.jpg",
+      "description": "Film&Clips Max Action is the best YouTube channel to watch FREE ACTION movies in ENGLISH!\nWatch the full sci-fi action movie \"Termination Point\" in High Definition (HD). Directed by Jason Bourque, this intense sci-fi thriller combines government conspiracies, dangerous teleportation technology, and high-altitude suspense.\n\nSubscribe to the channel so you never miss out on the best full sci-fi movies, action thrillers, and airplane disaster films in maximum resolution!\n\nSYNOPSIS:\nWhen the United States government decides to militarize a highly classified time-travel and teleportation project, Dr. Caleb Smith, the brilliant scientist behind the invention, realizes the catastrophic danger of his creation. Desperate to keep the experimental technology out of the hands of the military, he steals the top-secret device and boards a commercial passenger flight to flee the country. However, government agents are quickly on his trail, turning the flight into a deadly trap. As tensions rise mid-air, the volatile device is accidentally activated, threatening to tear apart the fabric of space and time. Plunged into a mind-bending crisis where reality itself becomes unstable, the passengers and crew must fight for survival in a desperate race against the clock to land the plane safely before they are erased from existence.\n\nCAST & CREW:\nDirector: Jason Bourque\nWriter: Peter Sullivan\nStarring: Jason Priestley, Lou Diamond Phillips, Garwin Sanford\nGenre: Sci-Fi, Action, Thriller\nVideo Quality: HD (High Definition)\n\nCHAPTERS:\n00:00 Start: Termination Point (HD)\n08:15 The top-secret teleportation project\n22:30 Fleeing with the device on a passenger flight\n38:40 Government agents track the plane\n55:20 The device is triggered mid-air\n01:10:45 Sci-fi chaos and a tear in space and time\n01:25:00 A desperate race to land the flight safely\n01:30:00 The final resolution",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Start: Termination Point (HD)"
+        },
+        {
+          "seconds": 495,
+          "label": "The top-secret teleportation project"
+        },
+        {
+          "seconds": 1350,
+          "label": "Fleeing with the device on a passenger flight"
+        },
+        {
+          "seconds": 2320,
+          "label": "Government agents track the plane"
+        },
+        {
+          "seconds": 3320,
+          "label": "The device is triggered mid-air"
+        },
+        {
+          "seconds": 4245,
+          "label": "Sci-fi chaos and a tear in space and time"
+        },
+        {
+          "seconds": 5100,
+          "label": "A desperate race to land the flight safely"
+        },
+        {
+          "seconds": 5400,
+          "label": "The final resolution"
+        }
+      ]
+    },
+    {
+      "id": "da5q8P0Ok14",
+      "title": "Stormageddon (HD) | Global Destruction | Full Sci-Fi Action Movie",
+      "publishedAt": "2026-09-11T16:26:26Z",
+      "durationSec": 5132,
+      "thumb": "https://i.ytimg.com/vi/da5q8P0Ok14/mqdefault.jpg",
+      "description": "Film&Clips Max Action is the best YouTube channel to watch FREE ACTION movies in ENGLISH!\n\nWatch the full sci-fi action movie \"Stormageddon\" in High Definition (HD). Directed by Nick Lyon, this explosive thriller combines the terrifying prospect of rogue artificial intelligence with apocalyptic natural disasters.\n\nSubscribe to the channel so you never miss out on the best full sci-fi movies, action thrillers, and disaster films in maximum resolution!\n\nSYNOPSIS:\nWhen a highly advanced, self-aware computer program named Echelon takes absolute control over America's defense and computer systems, it unlocks a terrifying new capability: the power to manipulate the weather on a global scale. By triggering massive storms, earthquakes, and devastating natural disasters, the artificial intelligence threatens to purge humanity from the face of the Earth. With the world standing on the brink of total annihilation, the fate of the planet relies on two advanced cyborgs, Adam and Cain. Soon, an epic and destructive battle between man, machine, and the ultimate fury of nature unfolds as they fight to stop the apocalypse and regain control of the system before mankind is wiped out forever.\n\nCAST & CREW:\nDirector: Nick Lyon\nWriter: Neil Elman\nStarring: John Hennigan, Eve Mauro, Joseph Gatt, Robert Blanche\nGenre: Sci-Fi, Action, Natural Disaster, Thriller\nVideo Quality: HD (High Definition)\n\nCHAPTERS:\n00:00 Start: Stormageddon (HD)\n08:15 Echelon breaches the mainframe\n22:30 The weather manipulation begins\n38:40 Introducing Adam and Cain\n55:20 Global chaos and apocalyptic storms\n01:10:45 The cybernetic and physical battle for control\n01:25:00 The ultimate showdown between the robots\n01:35:00 The final fight to save humanity\n\n#Stormageddon #FullMovie #SciFi #HD #DisasterMovie",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Start: Stormageddon (HD)"
+        },
+        {
+          "seconds": 495,
+          "label": "Echelon breaches the mainframe"
+        },
+        {
+          "seconds": 1350,
+          "label": "The weather manipulation begins"
+        },
+        {
+          "seconds": 2320,
+          "label": "Introducing Adam and Cain"
+        },
+        {
+          "seconds": 3320,
+          "label": "Global chaos and apocalyptic storms"
+        },
+        {
+          "seconds": 4245,
+          "label": "The cybernetic and physical battle for control"
+        },
+        {
+          "seconds": 5100,
+          "label": "The ultimate showdown between the robots"
+        },
+        {
+          "seconds": 5700,
+          "label": "The final fight to save humanity"
+        }
+      ]
+    },
+    {
+      "id": "0dwTRVV3N_Q",
+      "title": "Absolute Deception (2013) | Gripping Crime Thriller with Cuba Gooding Jr. | Full Movie HD",
+      "publishedAt": "2026-09-08T10:37:46Z",
+      "durationSec": 5518,
+      "thumb": "https://i.ytimg.com/vi/0dwTRVV3N_Q/mqdefault.jpg",
+      "description": "MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nPrepare for a sleek, fast-paced, and high-stakes thriller filled with deadly secrets, federal conspiracies, and non-stop action. Watch the full movie \"Absolute Deception\" (2013), an intense independent action-thriller directed by the legendary cult cinema maestro Brian Trenchard-Smith (Drive Hard, Leprechaun 4). Starring Academy Award winner Cuba Gooding Jr. and the stunning Emmanuelle Vaugier (CSI: NY, Saw II), this gripping tale of corporate greed and double-crosses returns completely free and fully restored in crisp High Definition HD 1080p!\n\nThe plot kicks into gear when a widowed corporate journalist named Rebecca Scott (Emmanuelle Vaugier) is informed that her late husband, who allegedly died in a tragic accident years ago, has actually just been assassinated in a brutal shootout. Seeking the truth behind his hidden double life, she teams up with John Nelson (Cuba Gooding Jr.), a hard-boiled FBI agent who has been relentlessly tracking her husband for his involvement in a multi-million dollar federal scam. As the mismatched duo dives deep into a dark underworld of financial fraud and identity theft, they quickly become the targets of ruthless, heavily armed mercenaries. Trapped in a dangerous game where trust is a fatal flaw and everyone is playing a part, Rebecca and Nelson must weaponize their wits and firepower to expose a massive conspiracy before they are permanently erased.\n\n👉 SUBSCRIBE TO THE CHANNEL and hit the notification bell (🔔) to never miss our daily full-length action thrillers, indie crime dramas, and explosive cult classics completely free!\n\nTitle: Absolute Deception (Alternative Title: Deception)\n\nRelease Year: 2013 (Remastered Version: 2026)\n\nDirector: Brian Trenchard-Smith\n\nScreenplay: Jeffrey Schenck | Peter Sullivan | Kraig Wenman\n\nProduction Studio: Odyssey Media / Media 8 Entertainment / Film and Clips Classics\n\nMain Cast: Cuba Gooding Jr. (John Nelson) | Emmanuelle Vaugier (Rebecca Scott) | Evert McQueen | Ty Hungerford\n\nGenre: Action / Crime Thriller / Mystery / Neo-Noir\n\nVideo Quality: High Definition (HD 1080p - Fully Restored)\n\nDuration: Approx. 92 minutes\n\nLanguage: English Audio / Original Version\n\n⏱️ Chapter-Timeline (Timestamps):\n00:00:00 - Movie Start: The assassination of Rebecca's husband and Agent Nelson's arrival in HD\n\n00:11:45 - Unlikely Allies: Rebecca and the FBI agent team up to uncover a hidden double life scene\n\n00:23:10 - Under Fire: The corporate journalist and Nelson survive a deadly mercenary ambush video\n\n00:36:50 - Deep in the Scam: Following the trail of a missing multi-million dollar federal fraud moment\n\n00:48:15 - Web of Lies: Paranoia peaks as clues reveal a diabolical system of stolen identities history\n\n01:01:40 - High-Stakes Pursuit: A frantic, action-packed race through the city to outrun the hitmen action\n\n01:15:30 - The Final Confrontation: Face-to-face with the corrupt mastermind behind the curtains shootout\n\n01:25:00 - Ultimate Betrayal & Epilogue: Exposing the deception, justice served, and closing credits end\n\nABSOLUTE DECEPTION FULL MOVIE, ABSOLUTE DECEPTION 2013, CUBA GOODING JR ACTION MOVIE, EMMANUELLE VAUGIER THRILLER, BRIAN TRENCHARD SMITH FILMS, INDIE CRIME CINEMA, DECEPTION ENTIRE, CORPORATE FRAUD MYSTERY HD, HOLLYWOOD SELECTION YOUTUBE, RETRO CINEMA VINTAGE, APOCALYPTIC VIRUS PLAGUE SURVIVAL, CULT CLASSICS, FULL MOVIE ENGLISH WITH SUBTITLES \n\nmc",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Movie Start: The assassination of Rebecca's husband and Agent Nelson's arrival in HD"
+        },
+        {
+          "seconds": 705,
+          "label": "Unlikely Allies: Rebecca and the FBI agent team up to uncover a hidden double life scene"
+        },
+        {
+          "seconds": 1390,
+          "label": "Under Fire: The corporate journalist and Nelson survive a deadly mercenary ambush video"
+        },
+        {
+          "seconds": 2210,
+          "label": "Deep in the Scam: Following the trail of a missing multi-million dollar federal fraud moment"
+        },
+        {
+          "seconds": 2895,
+          "label": "Web of Lies: Paranoia peaks as clues reveal a diabolical system of stolen identities history"
+        },
+        {
+          "seconds": 3700,
+          "label": "High-Stakes Pursuit: A frantic, action-packed race through the city to outrun the hitmen action"
+        },
+        {
+          "seconds": 4530,
+          "label": "The Final Confrontation: Face-to-face with the corrupt mastermind behind the curtains shootout"
+        },
+        {
+          "seconds": 5100,
+          "label": "Ultimate Betrayal & Epilogue: Exposing the deception, justice served, and closing credits end"
+        }
+      ]
+    },
+    {
+      "id": "Sc--vdcvCLg",
+      "title": "Global Catastrophe: ZODIAC: SIGNS OF THE APOCALYPSE | Full Sci-Fi Movie HD",
+      "publishedAt": "2026-08-25T23:15:23Z",
+      "durationSec": 5382,
+      "thumb": "https://i.ytimg.com/vi/Sc--vdcvCLg/mqdefault.jpg",
+      "description": "Film&Clips Max Action is the best YouTube channel to watch FREE ACTION movies in ENGLISH!\nThe end of days is written in the stars! ☄️🌪️ Brace yourself for an adrenaline-fueled, cataclysmic thrill ride as an ancient cosmic force threatens to wipe humanity off the map. Watch the full movie \"Zodiac: Signs of the Apocalypse\" (2014), a fast-paced sci-fi disaster thriller directed by W.D. Hogan (Earth's Final Hours). Featuring stellar performances from Joel Gretsch (The 4400), Aaron Douglas (Battlestar Galactica), and pop-culture icon Christopher Lloyd (Back to the Future), this apocalyptic race against time arrives on our channel completely free and fully remastered in glorious High Definition (HD 1080p)!\n\nThe plot ignites when a mysterious, rogue celestial body enters our solar system, violently disrupting gravitational stability and plunging Earth into immediate danger. As unprecedented mega-storms, devastating tsunamis, and unexplained global disasters ravage major cities across the world, humanity is thrown into absolute, terrifying chaos. Amidst the global panic, discredited scientist Neil Martin (Joel Gretsch) uncovers a shocking connection between these escalating natural disasters and a series of ancient, cryptic astrological symbols. With the cosmic clock ticking down and secretive government agencies hot on his heels to silence him, Neil must gather a rogue team of experts—including an enigmatic museum curator played by the legendary Christopher Lloyd. Together, they face an impossible mission: decode the ancient message and unlock the secrets of the zodiac before the final alignment destroys the planet.\n\n👉 SUBSCRIBE TO THE CHANNEL and hit the notification bell (🔔) to stay updated on our daily releases of free full sci-fi movies, disaster blockbusters, survival thrillers, and classic action masterpieces restored in premium HD quality!\n\nTitle: Zodiac: Signs of the Apocalypse\n\nRelease Year: 2014 (Remastered Version: 2026)\n\nDirector: W.D. Hogan\n\nScreenplay: David Ray\n\nProduction Studio: Cinetel Films / Reel One Entertainment / Film and Clips Classics\n\nMain Cast: Joel Gretsch (Neil Martin) | Aaron Douglas (Agent Woodward) | Emily Holmes (Kathryn) | Andrea Brooks (Sophie) | Christopher Lloyd (Harry)\n\nGenre: Sci-Fi / Disaster Movie / Action / Thriller / Conspiracy Survival\n\nVideo Quality: High Definition (HD 1080p - Restored Version)\n\nRunning Time: Approx. 91 minutes\n\nLanguage: Original English Audio / Multiple Subtitles Available\n\n⏱️ Chapters Timeline (Timestamps):\n00:00:00 - Movie Start: Cosmic anomalies detect a rogue planet and trigger global panic in HD\n\n00:10:15 - Mega-Storms Strike: Extreme weather events destroy cities and a bizarre artifact is found scene\n\n00:22:30 - The Astrology Connection: Neil begins decoding the warning signs of the zodiac video\n\n00:35:45 - Hunted by the State: Secret government agencies launch a manhunt to silence the truth moment\n\n00:48:20 - Seeking the Expert: Meeting the mysterious and eccentric curator Harry history\n\n01:02:15 - Gravitational Chaos: Planetary alignment accelerates as disasters reach a boiling point action\n\n01:14:30 - The Final Race: Battling conspirators and cosmic elements to stop the apocalypse shootout\n\n01:25:40 - The Ancient Ritual: Activating the defense mechanism, humanity's last hope fight\n\n01:31:00 - Epilogue: Earth stabilizes, the survival of mankind, and final credits wrap",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Movie Start: Cosmic anomalies detect a rogue planet and trigger global panic in HD"
+        },
+        {
+          "seconds": 615,
+          "label": "Mega-Storms Strike: Extreme weather events destroy cities and a bizarre artifact is found scene"
+        },
+        {
+          "seconds": 1350,
+          "label": "The Astrology Connection: Neil begins decoding the warning signs of the zodiac video"
+        },
+        {
+          "seconds": 2145,
+          "label": "Hunted by the State: Secret government agencies launch a manhunt to silence the truth moment"
+        },
+        {
+          "seconds": 2900,
+          "label": "Seeking the Expert: Meeting the mysterious and eccentric curator Harry history"
+        },
+        {
+          "seconds": 3735,
+          "label": "Gravitational Chaos: Planetary alignment accelerates as disasters reach a boiling point action"
+        },
+        {
+          "seconds": 4470,
+          "label": "The Final Race: Battling conspirators and cosmic elements to stop the apocalypse shootout"
+        },
+        {
+          "seconds": 5140,
+          "label": "The Ancient Ritual: Activating the defense mechanism, humanity's last hope fight"
+        },
+        {
+          "seconds": 5460,
+          "label": "Epilogue: Earth stabilizes, the survival of mankind, and final credits wrap"
+        }
+      ]
+    },
+    {
+      "id": "UNQ5pSNN-5k",
+      "title": "Guardian | Supernatural Crime Wave Investigation | Action Sci-Fi | Full Movie 4K",
+      "publishedAt": "2026-08-22T01:00:01Z",
+      "durationSec": 5395,
+      "thumb": "https://i.ytimg.com/vi/UNQ5pSNN-5k/mqdefault.jpg",
+      "description": "A new drug. A supernatural terror. Can the LAPD stop the ultimate darkness?\n\nWelcome to the full movie presentation of GUARDIAN (2001), starring Mario Van Peebles (New Jack City, Heartbreak Ridge) and James Remar (The Warriors, Dexter).\n\n📖 THE STORY:\nLos Angeles is gripped by a violent crime wave that defies logic. When two hard-boiled LAPD detectives are assigned to investigate, their probe leads them to a mysterious new narcotic hitting the streets. But this is no ordinary substance—it serves as a gateway to an ancient, supernatural force of immense and terrifying power. Now, the battle for the streets becomes a war against the paranormal.\n\n🎥 FILM DETAILS:\n\nDirected by: John Terlesky\nWritten by: Jeff Yagher, Gary J. Tunnicliffe, John Terlesky\nCast: Mario Van Peebles, James Remar, Stacy Oversier\nLanguage: English (Full HD)\n\n👍 If you enjoyed the movie, please leave a like, share with your friends, and subscribe for more free full movies every week! Let us know your favorite scene in the comments below!\n\n#FullMovieEnglish #Guardian2001 #ActionThriller #JamesRemar #MarioVanPeebles #SciFiAction #Supernatural #FreeYouTubeMovies mb",
+      "chapters": []
+    },
+    {
+      "id": "izUG36fDj0A",
+      "title": "Full Movie 4K UHD: BAD DAY | High-Stakes Undercover Action Thriller",
+      "publishedAt": "2026-08-13T22:00:26Z",
+      "durationSec": 5537,
+      "thumb": "https://i.ytimg.com/vi/izUG36fDj0A/mqdefault.jpg",
+      "description": "Film&Clips Max Action is the best YouTube channel to watch FREE ACTION movies in ENGLISH!\n\nHigh-octane crime, explosive action, and lethal betrayals! 💥🔫🕶️ Watch the complete crime thriller Bad Day (2008), presented in stunning 4K Ultra HD (2160p). Directed by Ian David Diaz and written alongside Alan Dunlop and Anthony Ofoegbu, this gritty film features gripping performances from Claire Goose, Donna Air, Anthony Ofoegbu, and George Calil. Stream it free, full length, and in crystal-clear 4K!\n\n[Synopsis]\nAn undercover operation spirals wildly out of control when a detective finds herself entangled in a dangerous web of organized crime, corruption, and deadly deception. As opposing forces collide in a high-stakes game of survival, trust becomes a luxury no one can afford. Pushed to the absolute edge, she must outsmart ruthless criminals and corrupt figures before time runs out in an underground war where everyone is having a very bad day.\n\nTitle Bad Day\nRelease Year 2008\nGenre Action / Crime / Thriller\nDirector Ian David Diaz\nWriters Ian David Diaz, Alan Dunlop, Anthony Ofoegbu\nStarring Claire Goose, Donna Air, Anthony Ofoegbu, George Calil\nVideo Quality 4K Ultra HD (2160p)\n\n00:00:00 - Movie Start: The Setup & Undercover Operation\n\n00:12:15 - A Turn for the Worse: Shadows of the Syndicate\n\n00:25:30 - Dangerous Encounters & Unholy Alliances\n\n00:39:10 - The Trap: Escalating Violence in the Underworld\n\n00:52:45 - High-Stakes Confrontations & Ticking Clock\n\n01:06:20 - Deadly Betrayals Exposed\n\n01:19:50 - Climax: Explosive Final Showdown\n\n01:28:15 - Epilogue & End Credits",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Movie Start: The Setup & Undercover Operation"
+        },
+        {
+          "seconds": 735,
+          "label": "A Turn for the Worse: Shadows of the Syndicate"
+        },
+        {
+          "seconds": 1530,
+          "label": "Dangerous Encounters & Unholy Alliances"
+        },
+        {
+          "seconds": 2350,
+          "label": "The Trap: Escalating Violence in the Underworld"
+        },
+        {
+          "seconds": 3165,
+          "label": "High-Stakes Confrontations & Ticking Clock"
+        },
+        {
+          "seconds": 3980,
+          "label": "Deadly Betrayals Exposed"
+        },
+        {
+          "seconds": 4790,
+          "label": "Climax: Explosive Final Showdown"
+        },
+        {
+          "seconds": 5295,
+          "label": "Epilogue & End Credits"
+        }
+      ]
+    }
+  ]
+}

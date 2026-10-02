@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UC5E0wgsW3JyQEP-DLkGwI2Q",
+  "title": "Netflix Indonesia",
+  "thumb": "https://yt3.ggpht.com/6Tx4cExHCNrdMIRxfNcPBh-90reH5ugoKyzi0cJZUd6jbFKvHJpPYWMPjwCWxuuOCmW05avdNUI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 2.5,
+  "sources": [
+    {
+      "id": "channel:UCWOA1ZGywLbqmigxE4Qlvuw",
+      "type": "channel",
+      "label": "Netflix",
+      "url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
+      "firstSeenAt": "2026-09-05T10:32:50.655Z"
+    },
+    {
+      "id": "channel:UCBSs9x2KzSLhyyA9IKyt4YA",
+      "type": "channel",
+      "label": "Netflix Anime",
+      "url": "https://www.youtube.com/channel/UCBSs9x2KzSLhyyA9IKyt4YA",
+      "firstSeenAt": "2026-10-02T12:30:31.331Z"
+    }
+  ],
+  "recentItems": []
+}

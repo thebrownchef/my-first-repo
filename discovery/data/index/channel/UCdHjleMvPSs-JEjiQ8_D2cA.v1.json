@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCdHjleMvPSs-JEjiQ8_D2cA",
   "title": "Ukraine: The Latest",
   "thumb": "https://yt3.ggpht.com/K1d1rGR8iwZamGGkR9WMfsTOcp9S_0qdyJZotlWqGVFNKvLu6GHaaI8Ztq6UNkrYhEeArnvsYw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 6.49,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Telegraph Life",
       "url": "https://www.youtube.com/channel/UCYm1MLST7VsnZiYV4TDycBA",
       "firstSeenAt": "2026-09-09T11:20:01.624Z"
+    },
+    {
+      "id": "channel:UCxAP0Fco7gT9sUsLHk2qLSw",
+      "type": "channel",
+      "label": "The Daily T Podcast",
+      "url": "https://www.youtube.com/channel/UCxAP0Fco7gT9sUsLHk2qLSw",
+      "firstSeenAt": "2026-10-02T12:30:28.577Z"
     }
   ],
   "recentItems": []

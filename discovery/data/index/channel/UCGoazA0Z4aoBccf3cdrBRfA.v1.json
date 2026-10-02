@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCGoazA0Z4aoBccf3cdrBRfA",
+  "title": "Film&Clips in Italiano",
+  "thumb": "https://yt3.ggpht.com/HcJovmFhJlS6ayqeh-vt40MS8uccdUX-JBEsuWZLYnbGwrC5UZSgGY9fd1IHYAgyOIuoE4JEvE0=s88-c-k-c0x00ffffff-no-rj",
+  "score": 40,
+  "distinctSourceCount": 40,
+  "hop": 1,
+  "uploadsPerDay": 1.01,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.027Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.234Z"
+    },
+    {
+      "id": "channel:UCEfesrIevLSToyw0U6v7gQw",
+      "type": "channel",
+      "label": "Top Thriller in Italiano",
+      "url": "https://www.youtube.com/channel/UCEfesrIevLSToyw0U6v7gQw",
+      "firstSeenAt": "2026-10-02T12:30:38.481Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.641Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.781Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.881Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.059Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.180Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.342Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.548Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.680Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.734Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.788Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.037Z"
+    },
+    {
+      "id": "channel:UC5r5Nk_l94NG797uyJMXzaw",
+      "type": "channel",
+      "label": "Django 360",
+      "url": "https://www.youtube.com/channel/UC5r5Nk_l94NG797uyJMXzaw",
+      "firstSeenAt": "2026-10-02T12:30:40.283Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.336Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.405Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.455Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.588Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.739Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.861Z"
+    },
+    {
+      "id": "channel:UC6phmoJYS81YCkiUdKZ-p2w",
+      "type": "channel",
+      "label": "Cineindo Film Gratis",
+      "url": "https://www.youtube.com/channel/UC6phmoJYS81YCkiUdKZ-p2w",
+      "firstSeenAt": "2026-10-02T12:30:41.025Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.076Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.139Z"
+    },
+    {
+      "id": "channel:UCVqjyX0sPiNKXX-To8v_Mjg",
+      "type": "channel",
+      "label": "Western360",
+      "url": "https://www.youtube.com/channel/UCVqjyX0sPiNKXX-To8v_Mjg",
+      "firstSeenAt": "2026-10-02T12:30:41.190Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.320Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.379Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.430Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.778Z"
+    },
+    {
+      "id": "channel:UCAfXQ_YeB7krOEl5vYycnkQ",
+      "type": "channel",
+      "label": "Film Western in Italiano",
+      "url": "https://www.youtube.com/channel/UCAfXQ_YeB7krOEl5vYycnkQ",
+      "firstSeenAt": "2026-10-02T12:30:41.959Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.057Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.106Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.255Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.377Z"
+    },
+    {
+      "id": "channel:UCtrXebUN5dubj6M-q3deEng",
+      "type": "channel",
+      "label": "Film&Clips Documentary",
+      "url": "https://www.youtube.com/channel/UCtrXebUN5dubj6M-q3deEng",
+      "firstSeenAt": "2026-10-02T12:30:42.427Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.472Z"
+    },
+    {
+      "id": "channel:UChdp4YlG64mqKGqpZ9LEpzA",
+      "type": "channel",
+      "label": "Film&Clips Kidz",
+      "url": "https://www.youtube.com/channel/UChdp4YlG64mqKGqpZ9LEpzA",
+      "firstSeenAt": "2026-10-02T12:30:42.616Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.683Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.734Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.782Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "vGMxffN0nlQ",
+      "title": "SHARKNADO 4 - Il Risveglio degli Squali | Film Completo in Italiano  Full Movie HD Multisubs",
+      "publishedAt": "2026-10-01T21:30:21Z",
+      "durationSec": 4899,
+      "thumb": "https://i.ytimg.com/vi/vGMxffN0nlQ/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nGuarda \"Sharknado 4\" in italiano e in alta definizione (HD)! 🌪️🦈⚡\n\nDopo cinque anni di apparente pace senza tornado di squali, la catastrofe torna a colpire dove meno ce lo si aspetta: Las Vegas! Fin Shepard (Ian Ziering) si trova costretto a imbracciare di nuovo la motosega per salvare la sua famiglia e il mondo intero da una nuova, imprevedibile e devastante apocalisse di squali volanti. Con la partecipazione di David Hasselhoff e Tara Reid, il quarto capitolo del cult firmato The Asylum alza ancora di più l'asticella dell'azione, dell'ironia e della follia no-stop!\n\n🔔 Iscriviti al canale e attiva la campanella per non perderti i prossimi film completi in italiano!\n👍 Lascia un LIKE se ami la saga di Sharknado e scrivi nei COMMENTI qual è il tuo capitolo preferito.\n\n#Sharknado4 #FilmCompleto #FilmInItaliano #TheAsylum #FilmHD #Horror #Azione #SciFi\n\nFilm&Clips in Italiano mette a disposizione un'ampia selezione di film in ITALIANO!\nIscriviti a Film&Clips in Italiano qui: http://bit.ly/FilmClipsInItaliano\n\nFilm&Clips in Italiano è edito da Film&Clips, il più bel canale di cinema gratuito e legale di Youtube!\nThe best FREE & LEGAL Youtube Channel: movies, clips, docs, short movies from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available!\nIscriviti a Film&Clips: http://bit.ly/Subscribetofilmandclips\nInstagram: https://www.instagram.com/filmandclips_/\n\nBuona visione su Film&Clips in Italiano, il canale di cinema in lingua ITALIANA!\n\n#filmcompleto #italiano #filmcompleto #italiano #cinema #film #movie #movies #cinemaitaliano #film italiani #cinephile #filmlover #movielover #cinemadautor #cinemaindipendente  #cinemadearte #cultmovies #classicmovies #commediaitaliana #drammaitaliano #giallo #neorealismo #commediaallitaliana \nsharknado 4, sharknado 4 film completo, sharknado 4 film completo in italiano, sharknado 4 ita hd, sharknado 4 il risveglio degli squali, sharknado 4 l'avventura corre sull'acqua, sharknado film completo ita, ian ziering film completo, david hasselhoff film, film completi in italiano, film completi in italiano hd, film horror completo in italiano, film azione completo ita, film fantascienza completo in italiano, the asylum film completo, guarda film completo italiano",
+      "chapters": []
+    },
+    {
+      "id": "3-6vRkeQlKU",
+      "title": "Oltre la nebbia - Il mistero di Rainer Merz (Film Completo) 4K multisubs",
+      "publishedAt": "2026-09-30T22:00:19Z",
+      "durationSec": 5090,
+      "thumb": "https://i.ytimg.com/vi/3-6vRkeQlKU/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nGuarda il film completo Oltre la nebbia - Il mistero di Rainer Merz (2017) in italiano e in altissima definizione 4K UHD! Un cupo e affascinante thriller psicologico d'atmosfera dove la nebbia cela verità sconvolgenti e oscuri segreti.\n\nSINOSSI:\n\nIn un'atmosfera ovattata, fredda e spettrale, la misteriosa scomparsa dell'investigatore Rainer Merz fa precipitare un tranquillo centro di provincia in un vortice di dubbi e paranoia. Tra indagini complesse, vuoti di memoria, indizi inquietanti e sospetti che cadono su chiunque, la ricerca della verità si trasforma in un labirinto psicologico in cui la linea tra realtà, ossessione e inganno si fa sempre più sottile.\n\nSCHEDA TECNICA:\n\nTitolo originale: Oltre la nebbia - Il mistero di Rainer Merz\n\nAnno di uscita: 2017\n\nDurata: 80 minuti\n\nGenere: Thriller / Mistero / Noir / Psicologico\n\nRegia: Giuseppe Russo\n\nCast: Stefano Cassetti, Pippo Delbono, Vincent Nemeth, Fiammetta Cicogna\n\nLingua Audio: Italiano (ITA)\n\nQualità Video: 4K UHD / Full HD 1080p\n\n🔔 Iscriviti al canale per non perdere i migliori film completi gratuiti in italiano, i grandi thriller d'autore e i migliori gialli psicologici!\n\nLascia un Mi Piace se ti piacciono le storie di mistero ad alta tensione e condividi nei commenti la tua teoria sul finale!\n\n#OltreLaNebbia #IlMisteroDiRainerMerz #FilmCompleto #FilmInItaliano #ThrillerPsicologico #CinemaGratis #FilmInUHD\n\nFilm&Clips in Italiano mette a disposizione un'ampia selezione di film in ITALIANO!\nIscriviti a Film&Clips in Italiano qui: http://bit.ly/FilmClipsInItaliano\n\nFilm&Clips in Italiano è edito da Film&Clips, il più bel canale di cinema gratuito e legale di Youtube!\nThe best FREE & LEGAL Youtube Channel: movies, clips, docs, short movies from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available!\nIscriviti a Film&Clips: http://bit.ly/Subscribetofilmandclips\nInstagram: https://www.instagram.com/filmandclips_/\n\nBuona visione su Film&Clips in Italiano, il canale di cinema in lingua ITALIANA!\n\n#filmcompleto #italiano #filmcompleto #italiano #cinema #film #movie #movies #cinemaitaliano #film italiani #cinephile #filmlover #movielover #cinemadautor #cinemaindipendente  #cinemadearte #cultmovies #classicmovies #commediaitaliana #drammaitaliano #giallo #neorealismo #commediaallitaliana #fullmovie #peliculas #movieclips",
+      "chapters": []
+    },
+    {
+      "id": "pHkmY_m2yfg",
+      "title": "SHARKNADO 5: GLOBAL SWARMING - Film Completo Italiano (HD) | Minaccia Globale Multi subs",
+      "publishedAt": "2026-09-29T23:15:18Z",
+      "durationSec": 5130,
+      "thumb": "https://i.ytimg.com/vi/pHkmY_m2yfg/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\nGuarda Sharknado 5: Global Swarming, il quinto travolgente capitolo della celebre saga cult del 2017 diretto da Anthony C. Ferrante, con Ian Ziering, Tara Reid e Cassie Scerbo.\n\n🎬 SINOSSI:\nLa minaccia degli Sharknado diventa globale! Quando un misterioso portale dimensionale legato alla leggenda degli squali viene attivato in Inghilterra, il giovane figlio di Fin (Ian Ziering) ed April (Tara Reid) viene risucchiato all'interno di un catastrofico ciclone. Per salvarlo, i due protagonisti intraprenderanno un'incredibile corsa contro il tempo che li porterà in giro per il mondo, da Londra a Roma, passando per Tokyo, Rio de Janeiro e Sydney, affrontando tempeste di squali sempre più bizzarre e distruttive.\n\n📌 INFO FILM:\n• Titolo originale: Sharknado 5: Global Swarming\n• Cast: Ian Ziering, Tara Reid, Cassie Scerbo, Yanet Garcia, Dolph Lundgren, Olivia Newton-John\n• Regia: Anthony C. Ferrante\n• Genere: Fantascienza / Azione / Horror (Cult B-Movie)\n• Anno: 2017\n• Lingua: Italiano\n\n⏱️ CAPITOLI / TIMESTAMPS:\n00:00 - Inizio Film\n11:20 - L'attivazione del tempio e il primo Sharknado a Londra\n29:45 - Attacco a Roma e le tappe europee\n53:10 - Disastro a Tokyo e nelle metropoli asiatiche\n01:16:00 - La grande battaglia finale per salvare la Terra\n01:29:00 - Finale e Crediti\n\n🔔 Iscriviti al canale per non perderti i prossimi film completi in italiano e attiva la campanella delle notifiche!\n👍 Lascia un Mi Piace se ti è piaciuta questa avventura globale e dicci nei commenti qual è la tua città preferita colpita dagli squali!\n\nFilm&Clips in Italiano mette a disposizione un'ampia selezione di film in ITALIANO!\nIscriviti a Film&Clips in Italiano qui: http://bit.ly/FilmClipsInItaliano\n\nFilm&Clips in Italiano è edito da Film&Clips, il più bel canale di cinema gratuito e legale di Youtube!\nThe best FREE & LEGAL Youtube Channel: movies, clips, docs, short movies from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available!\nIscriviti a Film&Clips: http://bit.ly/Subscribetofilmandclips\nInstagram: https://www.instagram.com/filmandclips_/\n\nBuona visione su Film&Clips in Italiano, il canale di cinema in lingua ITALIANA!\n\n#filmcompleto #italiano #filmcompleto #italiano #cinema #film #movie #movies #cinemaitaliano #film italiani #cinephile #filmlover #movielover #cinemadautor #cinemaindipendente  #cinemadearte #cultmovies #classicmovies #commediaitaliana #drammaitaliano #giallo #neorealismo #commediaallitaliana",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio Film"
+        },
+        {
+          "seconds": 680,
+          "label": "L'attivazione del tempio e il primo Sharknado a Londra"
+        },
+        {
+          "seconds": 1785,
+          "label": "Attacco a Roma e le tappe europee"
+        },
+        {
+          "seconds": 3190,
+          "label": "Disastro a Tokyo e nelle metropoli asiatiche"
+        },
+        {
+          "seconds": 4560,
+          "label": "La grande battaglia finale per salvare la Terra"
+        },
+        {
+          "seconds": 5340,
+          "label": "Finale e Crediti"
+        }
+      ]
+    },
+    {
+      "id": "3Zxpdyh7N2s",
+      "title": "Atto di accusa | Quando il dubbio distrugge l'amore e la verità | FILM COMPLETO",
+      "publishedAt": "2026-09-29T14:45:14Z",
+      "durationSec": 5413,
+      "thumb": "https://i.ytimg.com/vi/3Zxpdyh7N2s/mqdefault.jpg",
+      "description": "Guarda il film completo Atto di accusa (1950) custodito nella sua versione classica originale d'epoca per la nostra collezione d'archivio digitale del 2026. Diretto con grande maestria da Giacomo Gentilomo e scritto da Silvana Magnoni, Franco Brusati e Gaspare Cataldo, questo avvincente e teso noir drammatico d'epoca intreccia passione sentimentale, tensione giudiziaria e indagine psicologica. Iscriviti subito al canale per sostenere la digitalizzazione e la conservazione dei grandi capolavori del cinema d'archivio.\n\nUn giovane e sfortunato maestro elementare si ritrova improvvisamente travolto dall'incubo della giustizia quando viene gravemente sospettato di aver commesso due spietati omicidi. Mentre la morsa degli indizi sembra stringersi inesorabilmente attorno a lui, la sua situazione precipita ulteriormente quando la donna che ama comincia a nutrire atroci dubbi sulla sua innocenza. Isolato, tradito dalla fiducia degli affetti più cari e schiacciato dalle apparenze, l'uomo dovrà lottare con tutte le forze per smascherare l'inganno e sfuggire a una condanna quasi certa.\n\nCon la straordinaria interpretazione di un giovanissimo Marcello Mastroianni, affiancato dall'intensa carica drammatica di Lea Padovani e dalla presenza di Karl Ludwig Diehl, la pellicola regala un ritratto psicologico di profonda efficacia. Lascia un Like per sostenere la conservazione del nostro archivio cinematografico, scrivi nei commenti la tua opinione su questo capolavoro del cinema drammatico e iscriviti al canale per non perdere i prossimi classici d'epoca.\n\nMinutaggio del film:\n00:00 Inizio film e il misterioso doppio omicidio\n25:15 I primi sospetti e l'interrogatorio del giovane insegnante\n55:30 Il dubbio dell'amata e il crollo delle certezze\n01:21:40 Il verdetto finale e la verità prima dei titoli di coda\n\n#AttoDiAccusa #FilmCompleto #MarcelloMastroianni #LeaPadovani #KarlLudwigDiehl #GiacomoGentilomo #CinemaItaliano #NoirItaliano #FilmDrammatico #FilmGratis #FilmIntero #CinemaAnni50 #FilmDArchivio gm",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio film e il misterioso doppio omicidio"
+        },
+        {
+          "seconds": 1515,
+          "label": "I primi sospetti e l'interrogatorio del giovane insegnante"
+        },
+        {
+          "seconds": 3330,
+          "label": "Il dubbio dell'amata e il crollo delle certezze"
+        },
+        {
+          "seconds": 4900,
+          "label": "Il verdetto finale e la verità prima dei titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "wPkpvpjKKOU",
+      "title": "SHARKNADO - Film Completo Italiano (HD) | Il Cult B-Movie degli Squali",
+      "publishedAt": "2026-09-29T10:56:12Z",
+      "durationSec": 5457,
+      "thumb": "https://i.ytimg.com/vi/wPkpvpjKKOU/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\nGuarda Sharknado, il celebre e iconico film cult del 2013 con Ian Ziering, Tara Reid, Cassie Scerbo e John Heard.\n\n🎬 SINOSSI:\nUn devastante uragano si abbatte sulle coste della California del Sud, allagando Los Angeles e portando con sé dal mare migliaia di micidiali squali feroci. Tra le strade inondate e un cielo dominato da spaventose trombe d'aria piene di squali, l'ex surfista Fin Shepard (Ian Ziering), insieme all'ex moglie April (Tara Reid) e a un gruppo di sopravvissuti, dovrà imbracciare le armi e persino una motosega per affrontare la minaccia più assurda e letale di sempre.\n\n📌 INFO FILM:\n• Titolo originale: Sharknado\n• Cast: Ian Ziering, Tara Reid, Cassie Scerbo, John Heard, Jaason Simmons\n• Regia: Anthony C. Ferrante\n• Genere: Fantascienza / Azione / Horror (Cult B-Movie)\n• Anno: 2013\n• Lingua: Italiano\n\n⏱️ CAPITOLI / TIMESTAMPS:\n00:00 - Inizio Film\n12:30 - L'uragano colpisce la costa\n30:15 - Los Angeles sommersa e i primi attacchi\n52:40 - La caccia agli squali in città\n01:14:00 - Il piano finale contro i tornado\n01:25:00 - Finale e Crediti\n\n🔔 Iscriviti al canale per non perderti i prossimi film completi in italiano e attiva la campanella delle notifiche!\n👍 Lascia un Mi Piace se ti ha divertito e dicci nei commenti qual è la tua scena preferita!\n\nFilm&Clips in Italiano mette a disposizione un'ampia selezione di film in ITALIANO!\nIscriviti a Film&Clips in Italiano qui: http://bit.ly/FilmClipsInItaliano\n\nFilm&Clips in Italiano è edito da Film&Clips, il più bel canale di cinema gratuito e legale di Youtube!\nThe best FREE & LEGAL Youtube Channel: movies, clips, docs, short movies from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available!\nIscriviti a Film&Clips: http://bit.ly/Subscribetofilmandclips\nInstagram: https://www.instagram.com/filmandclips_/\n\nBuona visione su Film&Clips in Italiano, il canale di cinema in lingua ITALIANA!\n\n#filmcompleto #italiano #filmcompleto #italiano #cinema #film #movie #movies #cinemaitaliano #film italiani #cinephile #filmlover #movielover #cinemadautor #cinemaindipendente  #cinemadearte #cultmovies #classicmovies #commediaitaliana #drammaitaliano #giallo #neorealismo #commediaallitaliana Sharknado, Sharknado film completo, Sharknado italiano, Sharknado film completo in italiano, Sharknado hd, Sharknado ita, Ian Ziering, Tara Reid, film completo in italiano, film gratis in italiano, film horror completo, film fantascienza completo, film azione italiano, film b movie ita, film cult completo, film streaming ita, cinema italiano youtube, film intero italiano, squali film completo",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio Film"
+        },
+        {
+          "seconds": 750,
+          "label": "L'uragano colpisce la costa"
+        },
+        {
+          "seconds": 1815,
+          "label": "Los Angeles sommersa e i primi attacchi"
+        },
+        {
+          "seconds": 3160,
+          "label": "La caccia agli squali in città"
+        },
+        {
+          "seconds": 4440,
+          "label": "Il piano finale contro i tornado"
+        },
+        {
+          "seconds": 5100,
+          "label": "Finale e Crediti"
+        }
+      ]
+    },
+    {
+      "id": "jNwl9usiU-0",
+      "title": "People I Know – Film Completo in Italiano | Al Pacino & Kim Basinger HD",
+      "publishedAt": "2026-09-29T09:38:57Z",
+      "durationSec": 5964,
+      "thumb": "https://i.ytimg.com/vi/jNwl9usiU-0/mqdefault.jpg",
+      "description": "Guarda People I Know, l'avvincente thriller drammatico del 2002 con il premio Oscar Al Pacino, Kim Basinger, Téa Leoni e Ryan O'Neal.\n\n🎬 SINOSSI:\nEli Wurman (Al Pacino) è un leggendario addetto stampa di New York ormai sul viale del tramonto, tra sbornie e abuso di farmaci. Per fare un favore a un cliente importante, l'attore Cary Launer (Ryan O'Neal), Eli accetta di scortare una giovane attrice (Téa Leoni). La serata prende una piega drammatica quando Eli diventa testimone involontario di un omicidio e di una fitta rete di ricatti che coinvolge i vertici della politica newyorkese. L'unica persona di cui può ancora fidarsi è Victoria (Kim Basinger), la vedova di suo fratello.\n\n📌 INFO FILM:\n• Titolo originale: People I Know\n• Cast: Al Pacino, Kim Basinger, Téa Leoni, Ryan O'Neal, Richard Schiff\n• Regia: Daniel Algrant\n• Genere: Thriller / Drammatico / Poliziesco\n• Anno: 2002\n• Lingua: Italiano\n\n⏱️ CAPITOLI / TIMESTAMPS:\n00:00 - Inizio Film\n10:15 - Il favore a Cary Launer\n32:40 - La notte del club e l'evento drammatico\n55:20 - L'ombra del ricatto politico\n01:18:10 - La verità sui vertici della città\n01:32:00 - Finale e Crediti\n\n🔔 Iscriviti al canale per non perderti i prossimi film completi in italiano e attiva la campanella delle notifiche!\n👍 Lascia un Mi Piace se ti è piaciuta la grande interpretazione di Al Pacino e dicci la tua nei commenti!\nFilm&Clips in Italiano mette a disposizione un'ampia selezione di film in ITALIANO!\nIscriviti a Film&Clips in Italiano qui: http://bit.ly/FilmClipsInItaliano\n\nFilm&Clips in Italiano è edito da Film&Clips, il più bel canale di cinema gratuito e legale di Youtube!\nThe best FREE & LEGAL Youtube Channel: movies, clips, docs, short movies from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available!\nIscriviti a Film&Clips: http://bit.ly/Subscribetofilmandclips\nInstagram: https://www.instagram.com/filmandclips_/\n\nBuona visione su Film&Clips in Italiano, il canale di cinema in lingua ITALIANA!\n\n#filmcompleto #italiano #filmcompleto #italiano #cinema #film #movie #movies #cinemaitaliano #film italiani #cinephile #filmlover #movielover #cinemadautor #cinemaindipendente  #cinemadearte #cultmovies #classicmovies #commediaitaliana #drammaitaliano #giallo #neorealismo #commediaallitaliana People I Know, People I Know film completo, People I Know italiano, People I Know film completo in italiano, Al Pacino, Kim Basinger, Al Pacino film completo, Al Pacino film completo italiano, Kim Basinger film italiano, People I Know 2002, film completo in italiano, film thriller completo, film completi in italiano, film drammatico italiano, film gratis in italiano, cinema italiano youtube, film streaming ita, thriller psicologico ita, film intero italiano",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio Film"
+        },
+        {
+          "seconds": 615,
+          "label": "Il favore a Cary Launer"
+        },
+        {
+          "seconds": 1960,
+          "label": "La notte del club e l'evento drammatico"
+        },
+        {
+          "seconds": 3320,
+          "label": "L'ombra del ricatto politico"
+        },
+        {
+          "seconds": 4690,
+          "label": "La verità sui vertici della città"
+        },
+        {
+          "seconds": 5520,
+          "label": "Finale e Crediti"
+        }
+      ]
+    },
+    {
+      "id": "dvX9rV-uDAc",
+      "title": "Romeo e Giulietta | La passione senza tempo del capolavoro shakespeariano HD | FILM COMPLETO",
+      "publishedAt": "2026-09-28T14:45:25Z",
+      "durationSec": 5610,
+      "thumb": "https://i.ytimg.com/vi/dvX9rV-uDAc/mqdefault.jpg",
+      "description": "Guarda il film completo Romeo e Giulietta (1964) restaurato in alta definizione HD 1080p per la nostra collezione d'archivio digitale del 2026. Diretto dal maestro del cinema di genere Riccardo Freda e trasposto dal celebre capolavoro teatrale di William Shakespeare, questo appassionante e drammatico adattamento cinematografico rievoca la tragedia sentimentale più famosa di tutti i tempi. Iscriviti subito al canale per sostenere la digitalizzazione e la conservazione dei grandi capolavori del cinema d'archivio.\n\nNella Verona del Rinascimento, insanguinata dall'antica e mai placata rivalità tra le nobili famiglie dei Montecchi e dei Capuleti, i giovanissimi Romeo e Giulietta si incontrano a un ballo mascherato e si innamorano perdutamente. Nonostante l'odio secolare che divide i rispettivi casati, i due decidono di unirsi in matrimonio in gran segreto con l'aiuto di Frate Lorenzo. Tuttavia, una serie improvvisa di tragici eventi, duelli all'ultimo sangue e incomprensioni guidate dal destino segnerà inesorabilmente il loro fatale ed eterno percorso d'amore.\n\nCon le intense ed emozionanti interpretazioni di Rosemary Dexter nel ruolo di Giulietta, Geronimo Meynier in quello di Romeo e il solido contributo di Carlos Estrada, la pellicola unisce rigore visivo e grande pathos drammatico. Lascia un Like per sostenere la conservazione del nostro archivio cinematografico, scrivi nei commenti la tua scena preferita e iscriviti al canale per non perdere i prossimi capolavori restaurati in alta definizione.\n\nMinutaggio del film:\n00:00 Inizio film e il ballo in casa Capuleti\n25:15 La scena del balcone e il matrimonio segreto\n55:30 Lo scontro tra le famiglie e la condanna all'esilio\n01:21:40 La tragica conclusione nella cripta prima dei titoli di coda\n\n#RomeoeGiulietta #FilmCompleto #HD1080p #RiccardoFreda #RosemaryDexter #GeronimoMeynier #CarlosEstrada #WilliamShakespeare #CinemaItaliano #FilmGratis #FilmIntero #CinemaAnni60 #FilmDArchivio",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio film e il ballo in casa Capuleti"
+        },
+        {
+          "seconds": 1515,
+          "label": "La scena del balcone e il matrimonio segreto"
+        },
+        {
+          "seconds": 3330,
+          "label": "Lo scontro tra le famiglie e la condanna all'esilio"
+        },
+        {
+          "seconds": 4900,
+          "label": "La tragica conclusione nella cripta prima dei titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "UnVPoE2wZjM",
+      "title": "Ghosthunters  #shorts",
+      "publishedAt": "2026-09-28T11:10:31Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/UnVPoE2wZjM/mqdefault.jpg",
+      "description": "Film&Clips in Italiano mette a disposizione un'ampia selezione di film in ITALIANO!\nIscriviti a Film&Clips in Italiano qui: http://bit.ly/FilmClipsInItaliano\n\nFilm&Clips in Italiano è edito da Film&Clips, il più bel canale di cinema gratuito e legale di Youtube!\nThe best FREE & LEGAL Youtube Channel: movies, clips, docs, short movies from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available!\nIscriviti a Film&Clips: http://bit.ly/Subscribetofilmandclips\nInstagram: https://www.instagram.com/filmandclips_/\n\nBuona visione su Film&Clips in Italiano, il canale di cinema in lingua ITALIANA!\n\n#filmcompleto #italiano",
+      "chapters": []
+    },
+    {
+      "id": "ZsA41AxHZ4Y",
+      "title": "Peccati di gioventù | Intrighi, gelosie e seduzione in HD 1080p | FILM COMPLETO",
+      "publishedAt": "2026-09-27T14:45:24Z",
+      "durationSec": 4562,
+      "thumb": "https://i.ytimg.com/vi/ZsA41AxHZ4Y/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nGuarda il film completo Peccati di gioventù (1975) restaurato in alta definizione HD 1080p per la nostra collezione d'archivio digitale del 2026. Diretto da Silvio Amadio e scritto dallo stesso regista insieme a Roberto Natale, questo celebre cult del cinema introspettivo e passionale anni '70 indaga le dinamiche familiari, le gelosie giovanili e le sottili rivalità al femminile. Iscriviti subito al canale per sostenere la digitalizzazione e la conservazione dei grandi capolavori del cinema d'archivio.\n\nLa giovane e viziata Angela non riesce proprio ad accettare l'imminente matrimonio di suo padre con la nuova compagna. Profondamente contrariata e gelosa del legame che rischia di alterare gli equilibri della casa, la ragazza decide di mettere in atto un perverso e calcolato piano per ostacolare le nozze. Tra sottili provocazioni, giochi di seduzione, sotterfugi e ricatti morali, Angela farà di tutto per mettere i bastoni tra le ruote alla futura matrigna, trascinando l'intera famiglia in un vortice di tensione e desideri inconfessabili.\n\nCon le interpretazioni iconiche di Gloria Guida, Dagmar Lassander e Fred Robsahm, la pellicola regala un ritratto vivido delle inquietudini giovanili dell'epoca. Lascia un Like per sostenere la conservazione del nostro archivio cinematografico, scrivi nei commenti le tue impressioni sul film e iscriviti al canale per non perdere i prossimi capolavori restaurati in alta definizione.\n\nMinutaggio del film:\n00:00 Inizio film e l'annuncio delle nozze del padre\n25:15 Le prime provocazioni di Angela contro la nuova compagna\n55:30 Trappole psicologiche, ricatti e tensione in casa\n01:21:40 La resa dei conti finale prima dei titoli di coda\n\n#PeccatiDiGioventu #FilmCompleto #HD1080p #GloriaGuida #DagmarLassander #FredRobsahm #SilvioAmadio #CommediaErotica #FilmGratis #FilmIntero #CinemaAnni70 #FilmDArchivio",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio film e l'annuncio delle nozze del padre"
+        },
+        {
+          "seconds": 1515,
+          "label": "Le prime provocazioni di Angela contro la nuova compagna"
+        },
+        {
+          "seconds": 3330,
+          "label": "Trappole psicologiche, ricatti e tensione in casa"
+        },
+        {
+          "seconds": 4900,
+          "label": "La resa dei conti finale prima dei titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "o2mp6UNTKAA",
+      "title": "L'Estate Più Bella del Cinema Italiano in 8 Minuti | Sapore di Mare Movie Recap | Spoiler Alert",
+      "publishedAt": "2026-09-27T13:00:20Z",
+      "durationSec": 513,
+      "thumb": "https://i.ytimg.com/vi/o2mp6UNTKAA/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nRivivi la magia, gli amori estivi e le canzoni indimenticabili della Forte dei Marmi degli anni '60! In questo Movie Recap di 8 minuti ripercorriamo tutta la trama di Sapore di mare (1983), il cult capolavoro di Carlo Vanzina con Jerry Calà, Christian De Sica, Marina Suma, Gianni Ansaldi e Virna Lisi.\n\nDagli scherzi in spiaggia alla Capannina, dai primi batticuori alle delusioni d'amore, fino al celebre e malinconico finale sulle note di Celeste Nostalgia. Un viaggio nel tempo tra giovinezza, spensieratezza e ricordi che non sfioriscono mai.\n\n📌 Capitoli del Video:\n00:00 - Introduzione & Benvenuti alla Capannina\n01:15 - I fratelli Varchi e la banda di Forte dei Marmi\n02:45 - I primi amori: Marina, Luca e Felicino\n04:30 - L'arrivo di Adriana e le complicazioni estive\n06:15 - La fine dell'estate e i saluti\n07:10 - 20 anni dopo: L'incontro finale e il significato del film\n\n🎬 Titolo originale: Sapore di mare (1983)\n\n🎥 Regia: Carlo Vanzina\n\n🎵 Colonna sonora: Hits degli anni '60 (Edoardo Vianello, Gino Paoli, Riccardo Cocciante)\n\n💬 Qual è la tua scena o canzone preferita di Sapore di mare? Scrivocelo nei commenti!\n👍 Se il recap ti è piaciuto, lascia un Like e Iscriviti al canale per non perderti i prossimi riassunti sui grandi classici del cinema!\n\n#SaporeDiMare #MovieRecap #CinemaItaliano #JerryCalà #Anni80 #FilmCompletoIn8Minuti",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduzione & Benvenuti alla Capannina"
+        },
+        {
+          "seconds": 75,
+          "label": "I fratelli Varchi e la banda di Forte dei Marmi"
+        },
+        {
+          "seconds": 165,
+          "label": "I primi amori: Marina, Luca e Felicino"
+        },
+        {
+          "seconds": 270,
+          "label": "L'arrivo di Adriana e le complicazioni estive"
+        },
+        {
+          "seconds": 375,
+          "label": "La fine dell'estate e i saluti"
+        },
+        {
+          "seconds": 430,
+          "label": "20 anni dopo: L'incontro finale e il significato del film"
+        }
+      ]
+    },
+    {
+      "id": "HvFTCBfJ-X8",
+      "title": "Il conformista | Il fascismo, l'ossessione e l'assassinio politico 4K | FILM COMPLETO",
+      "publishedAt": "2026-09-26T14:00:09Z",
+      "durationSec": 6827,
+      "thumb": "https://i.ytimg.com/vi/HvFTCBfJ-X8/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE! Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nGuarda il film completo Il conformista (1970) restaurato nello straordinario formato 4K Ultra HD 2160p per la nostra collezione d'archivio digitale del 2026. Diretto dal maestro Bernardo Bertolucci e basato sul celebre romanzo omonimo di Alberto Moravia, questo capolavoro assoluto del cinema mondiale esplora i meandri della psicologia umana, la ricerca dell'omologazione e i drammi del fascismo con una maestria visiva senza pari. Iscriviti subito al canale per sostenere la digitalizzazione e la conservazione dei grandi monumenti della storia del cinema.\n\nRoma, fine anni '30. Marcello Clerici è un uomo psicologicamente fragile e tormentato dal desiderio viscerale di apparire \"normale\" e conformarsi alle masse. Per integrarsi nella società dell'epoca, aderisce al regime fascista e si sposa con la borghese Giulia. Alla vigilia del viaggio di nozze a Parigi, gli viene affidata un'oscura missione di spionaggio: organizzare l'assassinio del suo vecchio professore di filosofia, Luca Quadri, diventato un attivo e pericoloso dissidente politico. Tra incontri ambigui, passioni travolgenti e doppi giochi nella capitale francese, Marcello verrà trascinato verso un destino tragico e ineluttabile. Con Jean-Louis Trintignant, Stefania Sandrelli e Gastone Moschin.\n\nMinutaggio del film:\n00:00 Inizio film e l'incarico segreto a Roma\n25:15 Il matrimonio con Giulia e la partenza per Parigi\n55:30 L'incontro con il Professor Quadri e le tentazioni parigine\n01:21:40 La tragica imboscata nella foresta prima dei titoli di coda\n\n#IlConformista #FilmCompleto #4KUltraHD #BernardoBertolucci #JeanLouisTrintignant #StefaniaSandrelli #GastoneMoschin #AlbertoMoravia #CinemaItaliano #FilmGratis #UltraHD gm",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio film e l'incarico segreto a Roma"
+        },
+        {
+          "seconds": 1515,
+          "label": "Il matrimonio con Giulia e la partenza per Parigi"
+        },
+        {
+          "seconds": 3330,
+          "label": "L'incontro con il Professor Quadri e le tentazioni parigine"
+        },
+        {
+          "seconds": 4900,
+          "label": "La tragica imboscata nella foresta prima dei titoli di coda"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCS3SWF2QZvIP0ZAZSA--IRA",
+  "title": "Film&Clips Całe filmy po polsku",
+  "thumb": "https://yt3.ggpht.com/FiqThMjJZbXDl0ubDyt-tsND8tHaAnxvcsBx63nW3MF_-jKxr3dW-ZSX75pmYdHLHQG6DHF2=s88-c-k-c0x00ffffff-no-rj",
+  "score": 30,
+  "distinctSourceCount": 30,
+  "hop": 1,
+  "uploadsPerDay": 0.13,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.027Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.236Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.644Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.884Z"
+    },
+    {
+      "id": "channel:UCUusCgxxEe1eR-S7VDVl0XQ",
+      "type": "channel",
+      "label": "Bizzarro MONSTERS",
+      "url": "https://www.youtube.com/channel/UCUusCgxxEe1eR-S7VDVl0XQ",
+      "firstSeenAt": "2026-10-02T12:30:38.943Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.061Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.184Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.235Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.683Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.737Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.791Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.036Z"
+    },
+    {
+      "id": "channel:UC5r5Nk_l94NG797uyJMXzaw",
+      "type": "channel",
+      "label": "Django 360",
+      "url": "https://www.youtube.com/channel/UC5r5Nk_l94NG797uyJMXzaw",
+      "firstSeenAt": "2026-10-02T12:30:40.283Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.339Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.402Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.590Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.740Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.860Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.075Z"
+    },
+    {
+      "id": "channel:UCVqjyX0sPiNKXX-To8v_Mjg",
+      "type": "channel",
+      "label": "Western360",
+      "url": "https://www.youtube.com/channel/UCVqjyX0sPiNKXX-To8v_Mjg",
+      "firstSeenAt": "2026-10-02T12:30:41.191Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.323Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.381Z"
+    },
+    {
+      "id": "channel:UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "type": "channel",
+      "label": "Bizzarro Madhouse",
+      "url": "https://www.youtube.com/channel/UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "firstSeenAt": "2026-10-02T12:30:41.566Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.061Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.108Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.257Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.379Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.684Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.735Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.781Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "zIT4W5l1jMY",
+      "title": "Zdrada, zemsta i złoto! 🤠💥 AD UNO AD UNO... SPIETATAMENTE (Jeden po drugim) HD",
+      "publishedAt": "2026-09-27T16:00:13Z",
+      "durationSec": 4831,
+      "thumb": "https://i.ytimg.com/vi/zIT4W5l1jMY/mqdefault.jpg",
+      "description": "Na bezlitosnych pustkowiach Dzikiego Zachodu sprawiedliwość wymierza się z lufy rewolweru... jeden po drugim! 🎬🤠💥 Oglądaj cały film \"Jeden po drugim... bezlitośnie\" (oryg. *Ad uno ad uno... spietatamente* - 1968), porywający Spaghetti Western w reżyserii Rafaela Romero Marchenta. Z legendarnym Peterem Lee Lawrencem w roli głównej, zrekonstruowany w jakości Full HD (1080p)!\n\n\nFABUŁA / OPIS FILMU:\n\nMłody Bill Grayson (Peter Lee Lawrence) odkrywa mroczną i bolesną prawdę: jego ojciec, pułkownik z czasów wojny secesyjnej, został fałszywie oskarżony o kradzież wojskowego żołdu, a następnie brutalnie zamordowany przez własnych żołnierzy. Zdeterminowany, by oczyścić imię ojca, odzyskać zrabowane złoto i ukarać winnych, Bill wyrusza w śmiertelnie niebezpieczną misję.\n\nNa swojej drodze łączy siły z Charro (Guglielmo Spoletini), byłym meksykańskim zwiadowcą, który przeżył masakarę i został pozostawiony na pewną śmierć. Razem ruszają w bezlitosny pościg za zdrajcami. W tej krwawej podróży nie ma miejsca na litość – winni muszą zostać wyeliminowani \"jeden po drugim\", aż sprawiedliwość i prawda wreszcie zatriumfują.\n\n\nKLASYKA SPAGHETTI WESTERNU W HD:\n\nWyreżyserowany z niezwykłym wyczuciem rytmu przez Rafaela Romero Marchenta, \"Jeden po drugim... bezlitośnie\" to absolutny klasyk kina zemsty. Wspaniałe kreacje aktorskie Petera Lee Lawrence'a oraz Guglielmo Spoletiniego budują niezapomnianą historię o nieoczekiwanej przyjaźni, zdradzie i rewolwerowej sprawiedliwości. Ta zrekonstruowana edycja w jakości Full HD pozwala cieszyć się surowym klimatem i dynamicznymi scenami akcji w najwyższej ostrości.\n\n\n🤠 Podobał Ci się ten klasyczny western o zemście? Zostaw LAJK, napisz w komentarzu swoją ulubioną scenę i SUBSKRYBUJ KANAŁ (🔔), aby nie przegapić kolejnych darmowych filmów w jakości HD!\n\n\n⏱️ ROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Mroczna tajemnica z czasów wojny secesyjnej\n00:11:30 - Bill Grayson dowiaduje się o śmierci ojca\n00:24:15 - Spotkanie z Charro i przymierze zemsty\n00:38:00 - Tropienie pierwszego zdrajcy na Dzikim Zachodzie\n00:51:45 - Strzelanina w miasteczku i pojedynki\n01:06:20 - Odkrycie prawdy o zrabowanym złocie\n01:19:10 - Ostateczne wyrównanie rachunków i finał\n01:27:00 - Napisy końcowe\n\n\nSPECYFIKACJA I OBSADA:\n\n- Tytuł Polski: Jeden po drugim... bezlitośnie\n- Tytuł Oryginalny: Ad uno ad uno... spietatamente\n- Rok Produkcji: 1968 (Wersja Odrestaurowana HD: 2026)\n- Reżyseria: Rafael Romero Marchent\n- Scenariusz: Manuel Sebares, Rafael Romero Marchent\n- Gatunek: Western / Spaghetti Western / Akcja\n- Jakość Wideo: Full HD (1080p)\n- Czas Trwania: ok. 89 minut\n- Język/Napisy: Oryginalna wersja językowa / Dostępne napisy\n\nGłówna Obsada:\nPeter Lee Lawrence (Bill 'Chico' Grayson)\nGuglielmo Spoletini (Charro)\nDyanik Zurakowska\nEduardo Fajardo\nAurora de Alba\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\njeden po drugim bezlitosnie caly film, ad uno ad uno spietatamente, peter lee lawrence filmy, rafael romero marchent, spaghetti western po polsku, klasyczny western caly film, darmowe filmy western youtube, dobre filmy o zemscie, westerny po polsku hd, rewolwerowcy i strzelaniny filmy, wloskie kino akcji.\n\n\nHASHTAGI:\n#AdUnoAdUnoSpietatamente #JedenPoDrugimBezlitosnie #PeterLeeLawrence #RafaelRomeroMarchent #SpaghettiWestern #Western #CalyFilm #FullHD #DzikiZachod #DarmoweFilmy #WatchNow #FilmAndClips cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Mroczna tajemnica z czasów wojny secesyjnej"
+        },
+        {
+          "seconds": 690,
+          "label": "Bill Grayson dowiaduje się o śmierci ojca"
+        },
+        {
+          "seconds": 1455,
+          "label": "Spotkanie z Charro i przymierze zemsty"
+        },
+        {
+          "seconds": 2280,
+          "label": "Tropienie pierwszego zdrajcy na Dzikim Zachodzie"
+        },
+        {
+          "seconds": 3105,
+          "label": "Strzelanina w miasteczku i pojedynki"
+        },
+        {
+          "seconds": 3980,
+          "label": "Odkrycie prawdy o zrabowanym złocie"
+        },
+        {
+          "seconds": 4750,
+          "label": "Ostateczne wyrównanie rachunków i finał"
+        },
+        {
+          "seconds": 5220,
+          "label": "Napisy końcowe"
+        }
+      ]
+    },
+    {
+      "id": "yzD7eRzKS_s",
+      "title": "NADCHODZI DURANGO... PŁAĆ ALBO GIŃ (1971) 🎬🤠 | Arriva Durango paga o muori | Cały Film HD",
+      "publishedAt": "2026-09-20T15:00:33Z",
+      "durationSec": 5240,
+      "thumb": "https://i.ytimg.com/vi/yzD7eRzKS_s/mqdefault.jpg",
+      "description": "🌍 DOSTĘPNE WIELOJĘZYCZNE NAPISY! Kliknij przycisk „CC” (Napisy) oraz ikonę kółka zębatego Ustawień (⚙️) w prawym dolnym rogu odtwarzacza, aby wybrać swój język.\n\n---\n\nNiewyrównane rachunki, bezwzględny Dziki Zachód i człowiek, z którym lepiej nie zadzierać! 🎬🤠💥 Oglądaj cały film \"Nadchodzi Durango... płać albo giń\" (oryg. *Arriva Durango... paga o muori* - 1971), klasyczny Spaghetti Western w reżyserii Roberto Bianchiego Montero. Z potężnym Bradem Harrisem w roli głównej, zrekonstruowany w jakości Full HD (1080p)!\n\n\nFABUŁA / OPIS FILMU:\n\nNa bezlitosnym i dzikim Zachodzie jest jeden człowiek, z którym lepiej nie zadzierać, gdy w grę wchodzą pieniądze. Durango (Brad Harris) to niezwykle skuteczny, nieustępliwy i budzący postrach poborca długów. Jego ostatnia, wysoce ryzykowna misja polega na odzyskaniu ogromnej kwoty 100 000 dolarów na zlecenie skorumpowanego, lokalnego biznesmena.\n\nPo wykonaniu tego niebezpiecznego zadania i pokonaniu wielu przeszkód, jego zleceniodawca popełnia niewybaczalny błąd: odmawia wypłacenia Durango uzgodnionego procentu za jego cenne usługi. Durango znajduje się w śmiertelnie niebezpiecznej sytuacji, zmuszony walczyć nie tylko o odzyskanie należnych mu pieniędzy, ale także o własne życie, broniąc się przed uzbrojonymi zbirami nasłanymi przez byłego pracodawcę. Wybucha brutalny konflikt bez zasad — albo dostanie zapłatę co do centa, albo dług zostanie spłacony krwią.\n\n\nKLASYKA SPAGHETTI WESTERNU W HD:\n\nWyreżyserowany przez Roberto Bianchiego Montero, \"Nadchodzi Durango... płać albo giń\" to absolutna gratka dla miłośników kina akcji, wyrazistych bohaterów i sprawiedliwości wymierzanej na Dzikim Zachodzie. Film zachwyca dynamicznymi strzelaninami i świetną rolą Brada Harrisa. Ta odrestaurowana edycja w jakości Full HD pozwala na nowo odkryć surowy klimat włoskiego westernu z lat 70.\n\n\n🤠 Podobał Ci się ten klasyczny western? Zostaw LAJK, napisz w komentarzu swoją ulubioną scenę strzelaniny i SUBSKRYBUJ KANAŁ (🔔), aby nie przegapić kolejnych darmowych filmów w jakości HD!\n\n\n⏱️ ROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Legendarny poborca długów Durango\n00:11:45 - Zlecenie na 100 000 dolarów i pierwsze niebezpieczeństwa\n00:24:30 - Niebezpieczna misja na Dzikim Zachodzie\n00:38:15 - Zdrada zleceniodawcy i odmowa zapłaty\n00:52:10 - Polowanie na Durango i brutalne starcia ze zbirami\n00:06:40 - Durango rusza po swoje pieniądze\n01:19:15 - Finałowa strzelanina i wyrównanie rachunków\n01:26:00 - Napisy końcowe\n\n\nSPECYFIKACJA I OBSADA:\n\n- Tytuł Polski: Nadchodzi Durango... płać albo giń\n- Tytuł Oryginalny: Arriva Durango... paga o muori\n- Rok Produkcji: 1971 (Wersja Odrestaurowana HD: 2026)\n- Reżyseria: Roberto Bianchi Montero\n- Gatunek: Western / Spaghetti Western / Akcja\n- Jakość Wideo: Full HD (1080p)\n- Czas Trwania: ok. 88 minut\n- Język/Napisy: Oryginalna wersja językowa / Dostępne napisy\n\nGłówna Obsada:\nBrad Harris (Durango)\nJosé Torres\nGisela Hahn\nGino Turini\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\nnadchodzi durango plac albo gin caly film, arriva durango paga o muori, brad harris filmy, roberto bianchi montero, spaghetti western po polsku, klasyczny western caly film, darmowe filmy western youtube, dobre filmy o dzikim zachodzie, westerny po polsku hd, rewolwerowcy i strzelaniny filmy.\n\n\nHASHTAGI:\n#NadchodziDurango #BradHarris #RobertoBianchiMontero #SpaghettiWestern #Western #CalyFilm #FullHD #DzikiZachod #DarmoweFilmy #WatchNow #FilmAndClips cd",
+      "chapters": []
+    },
+    {
+      "id": "T_335UvUl5s",
+      "title": "Dwaj kowboje ruszają na szlak zemsty! 🤠🔥 | AMICO MIO... FREGA TU... CHE FREGO IO! HD",
+      "publishedAt": "2026-09-13T17:00:24Z",
+      "durationSec": 5641,
+      "thumb": "https://i.ytimg.com/vi/T_335UvUl5s/mqdefault.jpg",
+      "description": "🌍 DOSTĘPNE LICZNE NAPISY! Kliknij przycisk \"CC\" (Napisy) oraz ikonę koła zębatego Ustawień (⚙️) w prawym dolnym rogu odtwarzacza wideo, aby wybrać swój preferowany język.\n\n---\n\nSkradzione złoto, bezlitosna banda i krwawy pościg w samym sercu Gór Skalistych! 🎬🤠💥 Zobacz pełny film \"Amico mio... frega tu... che frego io!\" (1972) [znany również pod polskim tytułem \"Kowbojska Zemsta\"], ekscytujący Spaghetti Western w reżyserii Demofilo Fidaniego. Przeżyj niezapomnianą przygodę na Dzikim Zachodzie z Ettore Mannim, Paolo Rosanim i Sleepym Warrenem, w pełni odrestaurowaną w jakości Full HD (1080p)!\n\n\nFABUŁA:\n\nDwóch kowbojów zostaje niespodziewanie obrabowanych ze swojego ciężko wypracowanego złota w odległych zakątkach Gór Skalistych. To drastyczne wydarzenie staje się początkiem nieustępliwego i brutalnego pościgu za uzbrojoną, bezlitosną i pozbawioną skrupułów bandą rewolwerowców.\n\nW tym brutalnym świecie nie ma miejsca na litość. Kowboje muszą wykazać się niezwykłą odwagą, sprytem oraz celnym okiem, aby dopaść złodziei, odzyskać swój cenny majątek i wymierzyć sprawiedliwość na własnych zasadach.\n\n\nKLASYCZNY SPAGHETTI WESTERN W HD:\n\nWyreżyserowany przez Demofilo Fidaniego ze scenariuszem napisanym we współpracy z Milą Vitelli Valenzą i Filippo Perrone, \"Amico mio... frega tu... che frego io!\" to klasyczny przykład włoskiego kina akcji i przygody. Znakomita obsada, w której znaleźli się Ettore Manni, Paolo Rosani oraz Sleepy Warren, gwarantuje doskonałą rozrywkę pełną napięcia, strzelanin i niespodziewanych zwrotów akcji.\n\n\n🤠 Podobał Ci się ten klasyczny western? Zostaw LAJK, podziel się opinią w komentarzach i SUBSKRYBUJ (🔔) nasz kanał, aby nie przegapić kolejnych odrestaurowanych filmów w jakości HD!\n\n\n⏱️ ROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Wydobycie złota w Górach Skalistych\n00:11:45 - Zasadzka i kradzież cennego kruszcu\n00:24:30 - Początek nieustępliwego pościgu\n00:38:15 - Tropienie bezwzględnej bandy\n00:52:10 - Pierwsze starcie i strzelanina\n01:06:40 - Pułapka w górskim wąwozie\n01:19:15 - Ostateczna konfrontacja i odzyskanie majątku\n01:28:00 - Napisy końcowe\n\n\nSPECYFIKACJA TECHNICZNA I OBSADA:\n\n- Tytuł Oryginalny: Amico mio... frega tu... che frego io! (Tytuł polski: Kowbojska Zemsta / Tytuł międzynarodowy: Anything for a Friend)\n- Rok produkcji: 1972 (Wersja Odrestaurowana HD: 2026)\n- Reżyseria: Demofilo Fidani\n- Scenariusz: Demofilo Fidani, Mila Vitelli Valenza, Filippo Perrone\n- Gatunek: Western / Spaghetti Western / Akcja / Przygodowy\n- Jakość wideo: Full HD (1080p)\n- Czas trwania: Ok. 90 minut\n- Język/Napisy: Oryginalna ścieżka dźwiękowa / Dostępne liczne napisy\n\nObsada:\nEttore Manni\nPaolo Rosani\nSleepy Warren\nGordon Mitchell\nKlaus Kinski\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\namico mio frega tu che frego io caly film, kowbojska zemsta caly film, spaghetti western caly film, demofilo fidani filmy, ettore manni, paolo rosani, sleepy warren, westerny caly film po polsku, dziki zachod filmy hd, wloskie westerny hd, klasyka kina western, darmowe filmy western youtube, streaming legalnych filmow.\n\n\nHASHTAGI:\n#AmicoMioFregaTuCheFregoIo #KowbojskaZemsta #DemofiloFidani #EttoreManni #PaoloRosani #SpaghettiWestern #CalyFilm #FullHD #DzikiZachod #FilmWestern #FreeMovies #WatchNow #FilmAndClips cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Wydobycie złota w Górach Skalistych"
+        },
+        {
+          "seconds": 705,
+          "label": "Zasadzka i kradzież cennego kruszcu"
+        },
+        {
+          "seconds": 1470,
+          "label": "Początek nieustępliwego pościgu"
+        },
+        {
+          "seconds": 2295,
+          "label": "Tropienie bezwzględnej bandy"
+        },
+        {
+          "seconds": 3130,
+          "label": "Pierwsze starcie i strzelanina"
+        },
+        {
+          "seconds": 4000,
+          "label": "Pułapka w górskim wąwozie"
+        },
+        {
+          "seconds": 4755,
+          "label": "Ostateczna konfrontacja i odzyskanie majątku"
+        },
+        {
+          "seconds": 5280,
+          "label": "Napisy końcowe"
+        }
+      ]
+    },
+    {
+      "id": "nm4EDNnwif4",
+      "title": "Zemsta, braterska miłość i prawda! 🤠💥 AL DI LÀ DELL'ODIO HD",
+      "publishedAt": "2026-09-06T17:00:26Z",
+      "durationSec": 4807,
+      "thumb": "https://i.ytimg.com/vi/nm4EDNnwif4/mqdefault.jpg",
+      "description": "🌍 DOSTĘPNE LICZNE NAPISY! Kliknij przycisk \"CC\" (Napisy) oraz ikonę koła zębatego Ustawień (⚙️) w prawym dolnym rogu odtwarzacza wideo, aby wybrać swój preferowany język.\n\n---\n\nRodzina pionierów, krwawy najazd i rodzeństwo rozdzielone przez los! 🎬🤠💥 Zobacz pełny film \"Al di là dell'odio\" (1972), wciągający spaghetti western w reżyserii Alessandro Santiniego. Przeżyj tę poruszającą historię zemsty i poszukiwania tożsamości z Jeffem Cameronem i Stefanią Nelli, w pełni odrestaurowaną w jakości 4K Ultra HD (2160p)!\n\n\nFABUŁA:\n\nRodzina pionierów zostaje niemal całkowicie zgładzona przez grupę Indian pałających żądzą zemsty. Mały George zostaje nieprzytomny i uznany za zmarłego, podczas gdy jego młodsza siostra trafia pod opiekę wodza Indian i zostaje przez niego zaadoptowana.\n\nPo latach los ponownie łączy ich w dramatycznych i wrogich okolicznościach. George (Jeff Cameron), teraz dorosły mężczyzna, jest twardym człowiekiem zdeterminowanym, by dokonać zemsty. Jego siostra, wychowana jako Indianka, znajduje się w zawieszeniu między dwoma zupełnie różnymi światami. Rodzeństwo musi pokonać przepaść nienawiści, utraconej tożsamości i konfliktów kulturowych, aby się rozpoznać i wspólnie stawić czoła prawdzie o swojej przeszłości.\n\n\nPORUSZAJĄCY SPAGHETTI WESTERN W 4K:\n\nWyreżyserowany przez Alessandro Santiniego, \"Al di là dell'odio\" to unikalny spaghetti western łączący dynamiczną akcję z głębokim dramatem obyczajowym i kulturowym. Dzięki przejmującym rolom Jeffa Camerona, Stefanii Nelli oraz George'a Cavendisha, ta wersja w 4K Ultra HD zachwyca ostrością obrazu i wciągającą atmosferą Dzikiego Zachodu.\n\n\n🤠 Poruszyła Cię ta historia rodzeństwa? Zostaw LAJK i SUBSKRYBUJ (🔔) nasz kanał, aby nie przegapić codziennej porcji darmowych filmów w jakości 4K! Podziel się swoją opinią w komentarzach poniżej!\n\n\n⏱️ ROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Atak na rodzinę pionierów (4K UHD)\n00:11:45 - Ocalały George i dorastanie w dwóch różnych światach\n00:24:30 - George wyrusza na szlak zemsty\n00:38:15 - Niespodziewane spotkanie po latach\n00:52:10 - Konflikt tożsamości i trudne wybory siostry\n01:06:40 - Prawda o przeszłości i próba pojednania\n01:19:15 - Ostateczna konfrontacja i walka o wolność\n01:28:00 - Napisy końcowe (4K UHD)\n\n\nSPECYFIKACJA TECHNICZNA I OBSADA:\n\n- Tytuł Oryginalny: Al di là dell'odio (Znany również jako: Anche per Chiara e la sua gente... è giorno di vendetta)\n- Rok produkcji: 1972 (Wersja Odrestaurowana 4K: 2026)\n- Reżyseria: Alessandro Santini\n- Scenariusz: Alessandro Santini\n- Gatunek: Western / Spaghetti Western / Dramat\n- Jakość wideo: 4K Ultra HD (2160p)\n- Czas trwania: Ok. 90 minut\n- Język/Napisy: Oryginalna ścieżka dźwiękowa / Dostępne liczne napisy\n\nObsada:\nJeff Cameron (George)\nStefania Nelli\nGeorge Cavendish\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\nal di la dell odio caly film, al di la dell odio 4k, anche per chiara e la sua gente, spaghetti western caly film, jeff cameron filmy, alessandro santini rezyser, stefania nelli, westerny caly film po polsku, dziki zachod filmy 4k, wloskie westerny 4k, klasyka kina western, darmowe filmy western youtube, streaming legalnych filmow.\n\n\nHASHTAGI:\n#AlDiLaDellOdio #JeffCameron #StefaniaNelli #AlessandroSantini #SpaghettiWestern #CalyFilm #4KUltraHD #DzikiZachod #FilmWestern #Zemsta #FreeMovies #WatchNow #FilmAndClips",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Atak na rodzinę pionierów (4K UHD)"
+        },
+        {
+          "seconds": 705,
+          "label": "Ocalały George i dorastanie w dwóch różnych światach"
+        },
+        {
+          "seconds": 1470,
+          "label": "George wyrusza na szlak zemsty"
+        },
+        {
+          "seconds": 2295,
+          "label": "Niespodziewane spotkanie po latach"
+        },
+        {
+          "seconds": 3130,
+          "label": "Konflikt tożsamości i trudne wybory siostry"
+        },
+        {
+          "seconds": 4000,
+          "label": "Prawda o przeszłości i próba pojednania"
+        },
+        {
+          "seconds": 4755,
+          "label": "Ostateczna konfrontacja i walka o wolność"
+        },
+        {
+          "seconds": 5280,
+          "label": "Napisy końcowe (4K UHD)"
+        }
+      ]
+    },
+    {
+      "id": "dWk69TzN1bw",
+      "title": "BLAZING JUSTICE (1936) 🎬🤠 | KLASYCZNY WESTERN | Cały Film HD",
+      "publishedAt": "2026-09-01T17:00:33Z",
+      "durationSec": 3315,
+      "thumb": "https://i.ytimg.com/vi/dWk69TzN1bw/mqdefault.jpg",
+      "description": "Fałszywe oskarżenia, nagroda za przestępców i bezkompromisowa walka o prawdę na Dzikim Zachodzie! 🎬🤠💥 Oglądaj klasyczny western \"Blazing Justice\" (1936) w reżyserii Alberta Hermana. Rozsiądź się wygodnie i ciesz się emocjonującą historią z Billym Codym w roli głównej w jakości High Definition (HD 1080p)!\n\n🌍 DOSTĘPNE LICZNE NAPISY! Kliknij przycisk „CC” (Napisy) oraz ikonę Koła Zębatego Ustawień (⚙️) w prawym dolnym rogu odtwarzacza wideo, aby wybrać swój preferowany język.\n\n\nFABUŁA:\n\nPewien odważny kowboj (Bill Cody) doprowadza do schwytania dwóch niebezpiecznych złodziei i odbiera wysokie wyznaczone za nich honorarium w wysokości 5000 dolarów. Postanawia przeznaczyć zdobyte pieniądze na zasłużony odpust i wyjazd wakacyjny, by odpocząć od trudu codziennego życia.\n\nJednak jego plany krzyżuje fatalny zbieg okoliczności. W miasteczku, do którego przybywa, dochodzi do zbrodni, a kowboj zostaje niesłusznie oskarżony o morderstwo, którego nie popełnił. Mając przeciwko sobie stróżów prawa i miejscową ludność, musi uciekać, odnaleźć prawdziwego zabójcę i udowodnić swoją niewinność zanim będzie za późno.\n\n\nPORYWAJĄCY WESTERN W HD:\n\nWyreżyserowany przez Alberta Hermana ze scenariuszem Zary Tazil, \"Blazing Justice\" to klasyczny pokaz dynamiki i emocji kina Dzikiego Zachodu. Znakomita rola Billa Coya, partnerującej mu Gertrude Messinger oraz Gordona Griffitha tworzy widowisko pełne pościgów, strzelanin i niezłomnej walki o honor.\n\n\n👍🥰 Jeśli uwielbiasz klasyczne westerny, złote lata Hollywood i wciągające historie o sprawiedliwości, zostaw LAJKA! Napisz w komentarzu, co myślisz o losach głównego bohatera i SUBSKRYBUJ KANAŁ (🔔), aby nie przegapić kolejnych darmowych klasyków w HD!\n\n\nROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Schwytanie złodziei i odebranie nagrody 5000$ (HD 1080p)\n00:11:30 - Wyjazd na zasłużone wakacje i przybycie do miasteczka\n00:24:15 - Tajemnicze morderstwo i fałszywe oskarżenie bohatera\n00:37:40 - Ucieczka i próba odnalezienia prawdziwych sprawców\n00:51:10 - Pościg przez góry i niebezpieczne konfrontacje\n01:04:25 - Ostateczne starcie o oczyszczenie dobrego imienia\n01:15:00 - Sprawiedliwość triumfuje i zakończenie (HD 1080p)\n\n\nKARTA TECHNICZNA I OBSADA:\n\nTytuł Oryginalny: Blazing Justice\nReżyseria: Albert Herman\nScenariusz: Zara Tazil\nGatunek: Western / Akcja / Przygoda\nRok Wydania: 1936\nJakość Wideo: High Definition (HD 1080p)\nJęzyk: Ścieżka dźwiękowa z dostępnymi napisami\n\nGłówna Obsada:\nBill Cody\nGertrude Messinger\nGordon Griffith\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\nblazing justice caly film, blazing justice 1936, bill cody western, albert herman, gertrude messinger, gordon griffith, caly film po polsku hd, klasyczny western caly film, stare westerny za darmo, darmowe filmy wideo youtube, kino akcji dziki zachod.\n\n\nMEDIA SPOŁECZNOŚCIOWE I OFICJALNE LINKI:\n\nFilm&Clips to Twój oficjalny kanał do oglądania PEŁNYCH, DARMOWYCH i legalnych filmów w wysokiej jakości na YouTube!\n\n- Subskrybuj Film&Clips: http://bit.ly/Subscribetofilmandclips\n- Obserwuj nas na Instagramie: https://bit.ly/filmandclips_instagram\n\n\n#BlazingJustice #BillCody #KlasycznyWestern #CalyFilm #HD1080p #DzikiZachod #FilmyZaDarmo #WatchNow #FilmAndClips",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Schwytanie złodziei i odebranie nagrody 5000$ (HD 1080p)"
+        },
+        {
+          "seconds": 690,
+          "label": "Wyjazd na zasłużone wakacje i przybycie do miasteczka"
+        },
+        {
+          "seconds": 1455,
+          "label": "Tajemnicze morderstwo i fałszywe oskarżenie bohatera"
+        },
+        {
+          "seconds": 2260,
+          "label": "Ucieczka i próba odnalezienia prawdziwych sprawców"
+        },
+        {
+          "seconds": 3070,
+          "label": "Pościg przez góry i niebezpieczne konfrontacje"
+        },
+        {
+          "seconds": 3865,
+          "label": "Ostateczne starcie o oczyszczenie dobrego imienia"
+        },
+        {
+          "seconds": 4500,
+          "label": "Sprawiedliwość triumfuje i zakończenie (HD 1080p)"
+        }
+      ]
+    },
+    {
+      "id": "3amObHZ_SrY",
+      "title": "BORDER CABALLERO (1936) 🎬🤠 | KLASYCZNY WESTERN | Cały Film HD",
+      "publishedAt": "2026-08-25T17:00:02Z",
+      "durationSec": 3209,
+      "thumb": "https://i.ytimg.com/vi/3amObHZ_SrY/mqdefault.jpg",
+      "description": "Strzelaniny, tajna misja i Dziki Zachód w pełnej krasie! 🎬🤠💥 Oglądaj klasyczny western \"Border Caballero\" (1936) w reżyserii Sama Newfielda. Rozsiądź się wygodnie i ciesz się tą wciągającą historią z kultowym Timem McCoyem w jakości High Definition (HD 1080p)!\n\n🌍 DOSTĘPNE LICZNE NAPISY! Kliknij przycisk „CC” (Napisy) oraz ikonę Koła Zębatego Ustawień (⚙️) w prawym dolnym rogu odtwarzacza wideo, aby wybrać swój preferowany język.\n\n\nFABUŁA:\n\nAgent Tex Weaver pracuje pod przykrywką, aby namierzyć i aresztować niebezpieczną szajkę rabusiów bankowych. Kiedy ginie tragicznie z rąk przestępców, jego misję przejmuje Tim Ross (Tim McCoy) — genialny strzelec wyborowy z objazdowego widowiska Doca Shawa.\n\nPrzybierając tożsamość meksykańskiego rewolwerowca, Tim postanawia dokończyć dzieło Weavera i wymierzyć sprawiedliwość. Wykorzystując swoje niezwykłe umiejętności strzeleckie oraz podstęp, zastawia na bezwzględną bandę śmiertelnie niebezpieczną pułapkę.\n\n\nPORYWAJĄCY WESTERN W HD:\n\nWyreżyserowany przez Sama Newfielda i ze scenariuszem Normana S. Halla, \"Border Caballero\" to absolutny klasyk kina akcji i westernu. Dzięki znakomitej kreacji Tima McCoya oraz wspaniałej obsadzie z Lois January i Ralphem Byrdem, film oferuje dynamiczną fabułę pełną pościgów, podstępów i niezapomnianych pojedynków na Dzikim Zachodzie.\n\n\n👍🥰 Jeśli uwielbiasz klasyczne westerny, kino akcji Dzikiego Zachodu i opowieści o sprawiedliwości, zostaw LAJKA! Napisz w komentarzu, co myślisz o misji Tima i SUBSKRYBUJ KANAŁ (🔔), aby nie przegapić kolejnych darmowych filmów w HD!\n\n\nROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Tajna misja i tragiczny los Texa Weavera (HD 1080p)\n00:11:30 - Pokaz strzelecki Doca Shawa i pojawienie się Tima Rossa\n00:24:15 - Tim Ross przybiera nową tożsamość i rusza śladem bandytów\n00:37:40 - Zastawianie pułapki na szajkę rabusiów bankowych\n00:51:10 - Narastające podejrzliwości i niebezpieczne konfrontacje\n01:04:25 - Ostateczne starcie rewolwerowe na Dzikim Zachodzie\n01:16:50 - Sprawiedliwość triumfuje i zakończenie (HD 1080p)\n\n\nKARTA TECHNICZNA I OBSADA:\n\nTytuł Oryginalny: Border Caballero\nReżyseria: Sam Newfield\nScenariusz: Norman S. Hall\nGatunek: Western / Akcja / Przygodowy\nRok Wydania: 1936\nJakość Wideo: High Definition (HD 1080p)\nJęzyk: Ścieżka dźwiękowa z dostępnymi napisami\n\nGłówna Obsada:\nTim McCoy (Tim Ross)\nLois January\nRalph Byrd\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\nborder caballero caly film, border caballero 1936, tim mccoy western, sam newfield, lois january, ralph byrd, caly film po polsku hd, klasyczny western caly film, stare westerny za darmo, darmowe filmy wideo youtube, kino akcji dziki zachod.\n\n\nMEDIA SPOŁECZNOŚCIOWE I OFICJALNE LINKI:\n\nFilm&Clips to Twój oficjalny kanał do oglądania PEŁNYCH, DARMOWYCH i legalnych filmów w wysokiej jakości na YouTube!\n\n- Subskrybuj Film&Clips: http://bit.ly/Subscribetofilmandclips\n- Obserwuj nas na Instagramie: https://bit.ly/filmandclips_instagram\n\n\n#BorderCaballero #TimMcCoy #KlasycznyWestern #CalyFilm #HD1080p #DzikiZachod #FilmyZaDarmo #WatchNow #FilmAndClips",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Tajna misja i tragiczny los Texa Weavera (HD 1080p)"
+        },
+        {
+          "seconds": 690,
+          "label": "Pokaz strzelecki Doca Shawa i pojawienie się Tima Rossa"
+        },
+        {
+          "seconds": 1455,
+          "label": "Tim Ross przybiera nową tożsamość i rusza śladem bandytów"
+        },
+        {
+          "seconds": 2260,
+          "label": "Zastawianie pułapki na szajkę rabusiów bankowych"
+        },
+        {
+          "seconds": 3070,
+          "label": "Narastające podejrzliwości i niebezpieczne konfrontacje"
+        },
+        {
+          "seconds": 3865,
+          "label": "Ostateczne starcie rewolwerowe na Dzikim Zachodzie"
+        },
+        {
+          "seconds": 4610,
+          "label": "Sprawiedliwość triumfuje i zakończenie (HD 1080p)"
+        }
+      ]
+    },
+    {
+      "id": "iz91k80XcHQ",
+      "title": "BELOW THE BORDER (1942) 🎬🤠 | KLASYCZNY WESTERN | Cały Film HD",
+      "publishedAt": "2026-08-18T17:00:33Z",
+      "durationSec": 3184,
+      "thumb": "https://i.ytimg.com/vi/iz91k80XcHQ/mqdefault.jpg",
+      "description": "Szantaż, niebezpieczna gra pozorów i niezastąpione trio stróżów prawa! 🎬🤠💥 Oglądaj klasyczny western \"Below the Border\" (1942) w reżyserii Howarda Brethertona. Rozsiądź się wygodnie i ciesz się emocjonującą historią z legendarnym Buckiem Jonesem, Timem McCoyem i Raymondem Hattonem w jakości High Definition (HD 1080p)!\n\n🌍 DOSTĘPNE LICZNE NAPISY! Kliknij przycisk „CC” (Napisy) oraz ikonę Koła Zębatego Ustawień (⚙️) w prawym dolnym rogu odtwarzacza wideo, aby wybrać swój preferowany język.\n\n\nFABUŁA:\n\nBezwzględna banda złodziei szantażuje młodego Joego Collinsa, zmuszając go do współpracy w przestępczym procederze. Gdy sprawa wychodzi na jaw, na pomoc przybywają stróże prawa, którzy postanawiają rozbić gang od środka za pomocą chytrego planu.\n\nSandy działa pod przykrywką, zatrudniając się jako sprzątacz w saloonie należącym do przywódcy przestępców. W tym samym czasie Buck wciela się w postać znanego, chciwego pasera, aby zdobyć zaufanie rabusiów i wyciągnąć od nich kluczowe dowody. Zaczyna się ryzykowna gra pozorów, w której każdy fałszywy krok może oznaczać śmierć.\n\n\nPORYWAJĄCY WESTERN W HD:\n\nWyreżyserowany przez Howarda Brethertona ze scenariuszem Adele Buffington, \"Below the Border\" to pełen akcji, humoru i napięcia klasyk kina Dzikiego Zachodu. Kultowe trio \"Rough Riders\" — Buck Jones, Tim McCoy i Raymond Hatton — po raz kolejny udowadnia, że nie ma szajki, której nie dałoby się powstrzymać.\n\n\n👍🥰 Jeśli uwielbiasz klasyczne westerny, złote lata Hollywood i wciągające historie o sprawiedliwości, zostaw LAJKA! Napisz w komentarzu, co myślisz o podstępie bohaterów i SUBSKRYBUJ KANAŁ (🔔), aby nie przegapić kolejnych darmowych klasyków w HD!\n\n\nROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Szantaż na Joem Collinsie i działania gangu (HD 1080p)\n00:11:30 - Przybycie Bucka, Tima i Sandy'ego\n00:24:15 - Sandy rozpoczyna pracę pod przykrywką w saloonie\n00:37:40 - Buck wciela się w rolę niebezpiecznego pasera\n00:51:10 - Narastające podejrzliwości i ryzykowna gra pozorów\n01:04:25 - Ostateczna konfrontacja i rozbicie szajki złodziei\n01:15:00 - Zakończenie i napisy końcowe (HD 1080p)\n\n\nKARTA TECHNICZNA I OBSADA:\n\nTytuł Oryginalny: Below the Border\nReżyseria: Howard Bretherton\nScenariusz: Adele Buffington\nGatunek: Western / Akcja / Przygoda\nRok Wydania: 1942\nJakość Wideo: High Definition (HD 1080p)\nJęzyk: Ścieżka dźwiękowa z dostępnymi napisami\n\nGłówna Obsada:\nBuck Jones\nTim McCoy\nRaymond Hatton\nCharles King\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\nbelow the border caly film, below the border 1942, buck jones western, tim mccoy, raymond hatton, howard bretherton, adele buffington, caly film po polsku hd, klasyczny western caly film, stare westerny za darmo, darmowe filmy wideo youtube, kino akcji dziki zachod.\n\n\nMEDIA SPOŁECZNOŚCIOWE I OFICJALNE LINKI:\n\nFilm&Clips to Twój oficjalny kanał do oglądania PEŁNYCH, DARMOWYCH i legalnych filmów w wysokiej jakości na YouTube!\n\n- Subskrybuj Film&Clips: http://bit.ly/Subscribetofilmandclips\n- Obserwuj nas na Instagramie: https://bit.ly/filmandclips_instagram\n\n\n#BelowTheBorder #BuckJones #TimMcCoy #RaymondHatton #KlasycznyWestern #CalyFilm #HD1080p #DzikiZachod #FilmyZaDarmo #WatchNow #FilmAndClips cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Szantaż na Joem Collinsie i działania gangu (HD 1080p)"
+        },
+        {
+          "seconds": 690,
+          "label": "Przybycie Bucka, Tima i Sandy'ego"
+        },
+        {
+          "seconds": 1455,
+          "label": "Sandy rozpoczyna pracę pod przykrywką w saloonie"
+        },
+        {
+          "seconds": 2260,
+          "label": "Buck wciela się w rolę niebezpiecznego pasera"
+        },
+        {
+          "seconds": 3070,
+          "label": "Narastające podejrzliwości i ryzykowna gra pozorów"
+        },
+        {
+          "seconds": 3865,
+          "label": "Ostateczna konfrontacja i rozbicie szajki złodziei"
+        },
+        {
+          "seconds": 4500,
+          "label": "Zakończenie i napisy końcowe (HD 1080p)"
+        }
+      ]
+    },
+    {
+      "id": "JrSHDQMakWQ",
+      "title": "POPEŁNIŁEŚ BŁĄD... (1972) 🎬🌵 | Hai sbagliato dovevi uccidermi subito  | Cały Film HD",
+      "publishedAt": "2026-08-11T17:00:32Z",
+      "durationSec": 5509,
+      "thumb": "https://i.ytimg.com/vi/JrSHDQMakWQ/mqdefault.jpg",
+      "description": "Chciwość, bezwzględna zdrada i kryminalna intryga na Dzikim Zachodzie! 🎬🤠💥 Oglądaj mroczny i pełen napięcia spaghetti western z 1972 roku \"Popełniłeś błąd... Trzeba było mnie od razu zabić\" (Hai sbagliato... dovevi uccidermi subito!) w reżyserii Mario Bianchiego. Rozsiądź się wygodnie i ciesz się genialną rolą Roberta Woodsa oraz zmysłowej Nieves Navarro w jakości High Definition (HD 1080p)!\n\n🌍 DOSTĘPNE LICZNE NAPISY! Kliknij przycisk „CC” (Napisy) oraz ikonę Koła Zębatego Ustawień (⚙️) w prawym dolnym rogu odtwarzacza wideo, aby wybrać swój preferowany język.\n\n\nFABUŁA:\n\nAgent federalny Alan Fields (Robert Woods) przyjmuje fałszywą tożsamość Jonathana Pinkertona, rzekomego wysłannika znanej firmy ubezpieczeniowej Lloyds of London, aby rozwikłać zagadkę krwawego napadu na bank. Sprawa okazuje się wyjątkowo skomplikowana i niebezpieczna. \n\nPodczas ucieczki z miejsca przestępstwa jeden z trzech bandytów, zaślepiony żądzą zysku i brutalną chciwością, bez skrupułów zamordował swoich wspólników, by przejąć cały skradziony łup tylko dla siebie. Fields musi odnaleźć ocalałego mordercę i odzyskać ukradzione pieniądze, zanim ten zniknie na dobre bez śladu. Tytułowy błąd popełniony przez bezwzględnego przeciwnika stanie się jedyną szansą Agenta na wymierzenie sprawiedliwości.\n\n\nMROCZNY SPAGHETTI WESTERN W HD:\n\nWyreżyserowany przez Mario Bianchiego film doskonale łączy elementy klasycznego westernu z kryminalnym śledztwem i atmosferą tajemnicy. W rolach głównych występują prawdziwe ikony gatunku: Robert Woods, charyzmatyczna Nieves Navarro oraz niezawodny Frank Braña. To prawdziwa uczta dla fanów włoskiego kina akcji z lat 70., restauracja w HD 1080p!\n\n\n👍🥰 Jeśli uwielbiasz kultowe spaghetti westerny, kryminalne intrygi i klimatyczne kino akcji, zostaw LAJKA! Napisz w komentarzu, co myślisz o misji agenta Fieldsa i SUBSKRYBUJ KANAŁ (🔔), aby nie przegapić kolejnych darmowych klasyków!\n\n\nROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Krwawy napad na bank i zdrada wśród bandytów (HD 1080p)\n00:12:30 - Alan Fields przyjmuje tożsamość Jonathana Pinkertona\n00:25:15 - Początek śledztwa w sprawie skradzionego łupu\n00:38:40 - Tajemnicze postacie i pojawienie się pięknej Susan\n00:52:10 - Narastające podejrzenia i groźne pułapki w miasteczku\n01:05:45 - Konfrontacja z bezwzględnym zabójcą\n01:18:30 - Finałowe starcie o sprawiedliwość i pieniądze\n01:27:00 - Zakończenie i napisy końcowe (HD 1080p)\n\n\nKARTA TECHNICZNA I OBSADA:\n\nTytuł Oryginalny: Hai sbagliato... dovevi uccidermi subito!\nReżyseria: Mario Bianchi\nGatunek: Spaghetti Western / Kryminał / Akcja\nRok Wydania: 1972\nJakość Wideo: High Definition (HD 1080p)\nJęzyk: Ścieżka dźwiękowa z dostępnymi napisami\n\nGłówna Obsada:\nRobert Woods (Jonathan Pinkerton / Alan Fields)\nNieves Navarro (Susan)\nFrank Braña (Clint)\nCarlo Gaddi (Dreary)\nErnesto Colli (Telegrafista)\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\npopelniles blad trzeba bylo mnie od razu zabic, hai sbagliato dovevi uccidermi subito, robert woods western, nieves navarro, frank brana, mario bianchi, spaghetti western caly film, polski western za darmo, filmy po polsku hd, klasyka kina akcji, darmowe filmy youtube.\n\n\nPOLECAMY RÓWNIEŻ KANAŁY:\n@FilmandClips @fullmovies_world @Movie360Top @JustMovies01 @Cineverse360 @polski_western @FilmyPoPolsku_ @GlobalWestern @KinoAkcjiHD @KlassykaFilmu @BizzarroMadhouse\n\n\nMEDIA SPOŁECZNOŚCIOWE I OFICJALNE LINKI:\n\nFilm&Clips to Twój oficjalny kanał do oglądania PEŁNYCH, DARMOWYCH i legalnych filmów w wysokiej jakości na YouTube!\n\n- Subskrybuj Film&Clips: http://bit.ly/Subscribetofilmandclips\n- Obserwuj nas na Instagramie: https://bit.ly/filmandclips_instagram\n\n\n#SpaghettiWestern #RobertWoods #NievesNavarro #PopełniłeśBłąd #KlasycznyWestern #CalyFilm #HD1080p #FilmyZaDarmo #WatchNow #FilmAndClips",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Krwawy napad na bank i zdrada wśród bandytów (HD 1080p)"
+        },
+        {
+          "seconds": 750,
+          "label": "Alan Fields przyjmuje tożsamość Jonathana Pinkertona"
+        },
+        {
+          "seconds": 1515,
+          "label": "Początek śledztwa w sprawie skradzionego łupu"
+        },
+        {
+          "seconds": 2320,
+          "label": "Tajemnicze postacie i pojawienie się pięknej Susan"
+        },
+        {
+          "seconds": 3130,
+          "label": "Narastające podejrzenia i groźne pułapki w miasteczku"
+        },
+        {
+          "seconds": 3945,
+          "label": "Konfrontacja z bezwzględnym zabójcą"
+        },
+        {
+          "seconds": 4710,
+          "label": "Finałowe starcie o sprawiedliwość i pieniądze"
+        },
+        {
+          "seconds": 5220,
+          "label": "Zakończenie i napisy końcowe (HD 1080p)"
+        }
+      ]
+    },
+    {
+      "id": "WNxquWF1DIU",
+      "title": "COYOTE TRAILS (1935) 🎬🤠 | KLASYCZNY WESTERN | Cały Film HD",
+      "publishedAt": "2026-08-04T16:53:27Z",
+      "durationSec": 3251,
+      "thumb": "https://i.ytimg.com/vi/WNxquWF1DIU/mqdefault.jpg",
+      "description": "Bezwzględni koniokradzi, dziki mustang i niezapomniany klimat Dzikiego Zachodu! 🎬🤠🐴 Oglądaj klasyczny western \"Coyote Trails\" (1935) w reżyserii Bernarda B. Raya. Rozsiądź się wygodnie i ciesz się emocjonującymi przygodami Toma Tylera i Bena Corbetta w jakości High Definition (HD 1080p)!\n\n🌍 DOSTĘPNE LICZNE NAPISY! Kliknij przycisk „CC” (Napisy) oraz ikonę Koła Zębatego Ustawień (⚙️) w prawym dolnym rogu odtwarzacza wideo, aby wybrać svůj preferowany język.\n\n\nFABUŁA:\n\nTom Riley (Tom Tyler) oraz jego wierny i zabawny kompan Windy (Ben Corbett) przybywają na ranczo rodziny Bakerów, które zmaga się z plagą tajemniczych kradzieży koni. W całej okolicy krąży plotka, że za znikaniem zwierząt stoi piękny, lecz niebezpieczny dziki mustang przemierzający okoliczne góry.\n\nTom nie daje jednak wiary łatwym oskarżeniom. Zdeterminowany, by odkryć prawdę, rusza śladem tajemniczego konia, chwyta go i wbrew wszelkim oczekiwaniom ujeżdża, udowadniając jego niewinność. Ten niespodziewany zwrot akcji krzyżuje plany prawdziwych złodziei koni — zdemaskowani przestępcy wypowiadają Tomowi bezwzględną wojnę, by chronić swoje przestępcze interesy.\n\n\nPORYWAJĄCY KLASYCZNY WESTERN W HD:\n\nWyreżyserowany przez mistrza gatunku Bernarda B. Raya ze scenariuszem Carla Krusady, Rose Gordon i Lewiego C. Bordena, \"Coyote Trails\" to klasyka kina akcji Dzikiego Zachodu. Pełen dynamicznych pościgów konnych, strzelanin i walk na pięści film zachwyca charyzmą Toma Tylera oraz partnerującej mu Terry Walker.\n\n\n👍🥰 Jeśli uwielbiasz klasyczne westerny, złotą erę Hollywood i emocjonujące historie z Dzikiego Zachodu, zostaw LAJKA! Napisz w komentarzu, co myślisz o filmie i SUBSKRYBUJ KANAŁ (🔔), aby nie przegapić kolejnych darmowych klasyków w HD!\n\n\nROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Początek: Kradzieże koni na ranczu Bakerów i przybycie Toma Rileya (HD 1080p)\n00:11:30 - Legenda o dzikim mustangu i podejrzenia mieszkańców\n00:24:15 - Tom chwyta i ujeżdża nieokiełznanego konia\n00:37:40 - Konfrontacja z prawdziwymi złodziejami koni\n00:51:10 - Pościgi i strzelaniny w górskich wąwozach\n01:04:25 - Ostateczne starcie i obrona rancza\n01:15:00 - Zakończenie i napisy końcowe (HD 1080p)\n\n\nKARTA TECHNICZNA I OBSADA:\n\nTytuł Oryginalny: Coyote Trails\nReżyseria: Bernard B. Ray\nScenariusz: Carl Krusada, Rose Gordon, Lewie C. Borden\nGatunek: Western / Akcja / Przygodowy\nRok Wydania: 1935\nJakość Wideo: High Definition (HD 1080p)\nJęzyk: Ścieżka dźwiękowa z dostępnymi napisami\n\nGłówna Obsada:\nTom Tyler (Tom Riley)\nBen Corbett (Windy)\nTerry Walker (Judy Baker)\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\ncoyote trails caly film, coyote trails 1935, tom tyler western, bernard b ray, ben corbett, terry walker, klasyczny western caly film po polsku, stare westerny za darmo youtube, kino akcji dziki zachod, darmowe filmy hd.\n\n\nMEDIA SPOŁECZNOŚCIOWE I OFICJALNE LINKI:\n\nFilm&Clips to Twój oficjalny kanał do oglądania PEŁNYCH, DARMOWYCH i legalnych filmów w wysokiej jakości na YouTube!\n\n- Subskrybuj Film&Clips: http://bit.ly/Subscribetofilmandclips\n- Obserwuj nas na Instagramie: https://bit.ly/filmandclips_instagram\n\n\n#CoyoteTrails #TomTyler #KlasycznyWestern #CalyFilm #HD1080p #DzikiZachod #FilmyZaDarmo #WatchNow #FilmAndClips",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Kradzieże koni na ranczu Bakerów i przybycie Toma Rileya (HD 1080p)"
+        },
+        {
+          "seconds": 690,
+          "label": "Legenda o dzikim mustangu i podejrzenia mieszkańców"
+        },
+        {
+          "seconds": 1455,
+          "label": "Tom chwyta i ujeżdża nieokiełznanego konia"
+        },
+        {
+          "seconds": 2260,
+          "label": "Konfrontacja z prawdziwymi złodziejami koni"
+        },
+        {
+          "seconds": 3070,
+          "label": "Pościgi i strzelaniny w górskich wąwozach"
+        },
+        {
+          "seconds": 3865,
+          "label": "Ostateczne starcie i obrona rancza"
+        },
+        {
+          "seconds": 4500,
+          "label": "Zakończenie i napisy końcowe (HD 1080p)"
+        }
+      ]
+    },
+    {
+      "id": "0wgntv_A1Lo",
+      "title": "CALVAIRE / UDRĘKA (2004) 🎬 | MROCZNY HORROR PSYCHOLOGICZNY | PEŁNY FILM HD",
+      "publishedAt": "2026-07-29T17:00:23Z",
+      "durationSec": 5198,
+      "thumb": "https://i.ytimg.com/vi/0wgntv_A1Lo/mqdefault.jpg",
+      "description": "Awarie vana w środku głębokiego lasu staje się początkiem dusznego, makabrycznego koszmaru... 🎬🌲 Oglądaj pełny film \"Calvaire\" (Udręka, 2004) – uznany klasyk europejskiego horroru psychologicznego w reżyserii Fabrice'a du Welza. Ciesz się kinem grozy całkowicie za darmo i w wysokiej rozdzielczości (HD 1080p)!\n\n🌍 DOSTĘPNE LICZNE NAPISY! Kliknij ikonę „CC” (Napisy) oraz ikonę Ustawień (⚙️) w prawym dolnym rogu odtwarzacza, aby wybrać swój preferowany język.\n\n\nFABUŁA / STRESZCZENIE:\n\nMarc Stevens, objazdowy piosenkarz i artysta estradowy, wraca do domu na Święta Bożego Narodzenia. Jego podróż zostaje jednak gwałtownie przerwana, gdy w samym środku gęstego, mglistego lasu psuje się jego van. \n\nSzukając pomocy, trafia do odludnej, odciętej od świata wioski zamieszkanej przez bardzo osobliwych i niepokojących mieszkańców. Trafia pod dach samotnego właściciela pensjonatu, który z czasem zaczyna wykazywać niepokojące obsesje. To, co miało być zwykłą usterką techniczną, szybko przekształca się w brutalny, pełen obłędu i bezwyjściowy koszmar.\n\n\nMROCZNE ARCYDZIEŁO KINA GROZY:\n\nWyreżyserowany przez mistrza niepokojącego klimatu Fabrice'a du Welza, \"Calvaire\" to wstrząsające studium samotności, szaleństwa i przetrwania. W roli głównej występuje znakomity Laurent Lucas, któremu towarzyszą ikoniczna Brigitte Lahaie oraz Gigi Coursigny. Pozycja obowiązkowa dla miłośników mocnego, autorskiego kina grozy i dreszczowców psychologicznych.\n\n\n👍🥰 Jeśli kochasz mroczne horrory psychologiczne, kino z dreszczykiem i niepokojące klimaty, zostaw łapkę w górę (LIKE)! Napisz w komentarzu, co myślisz o losie Marca, i ZASUBSKRYBUJ KANAŁ z dzwonkiem (🔔), aby nie przegapić kolejnych darmowych filmów w jakości HD!\n\n\nROZDZIAŁY FILMU (TIMESTAMPS):\n\n00:00:00 - Podróż Marca i awaria samochodu w głębi lasu (Calvaire)\n00:12:15 - Poszukiwanie pomocy: Odludny pensjonat\n00:26:30 - Mroczne tajemnice i dziwne zachowanie gospodarza\n00:43:45 - Niepokojące spotkanie z mieszkańcami wioski\n00:58:30 - Pułapka bez wyjścia: Początek prawdziwego obłędu\n01:14:25 - Desperacka walka o przetrwanie i ucieczkę\n01:28:00 - Zaskakujący finał i napisy końcowe w jakości HD\n\n\nKARTA TECHNICZNA I OBSADA:\n\nTytuł Polski: Udręka / Calvaire\nTytuł Oryginalny: Calvaire (The Ordeal)\nReżyseria: Fabrice du Welz\nGatunek: Horror / Thriller Psychologiczny / Misterium\nRok Produkcji: 2004\nJakość Wideo: High Definition (HD 1080p)\n\nGłówna Obsada:\nLaurent Lucas (jako Marc Stevens)\nBrigitte Lahaie (jako Mademoiselle Vicky)\nGigi Coursigny (jako Madame Stevens)\nJackie Berroyer (jako Paul Bartel)\nPhilippe Nahon (jako Robert Orton)\n\n\nTAGI I SŁOWA KLUCZOWE (SEO):\ncalvaire 2004 pelny film, udreka horror po polsku, laurent lucas filmy, fabrice du welz, francuski horror pelny film, darmowe horrory na youtube hd, mocny thriller psychologiczny, kino grozy po polsku, psychologiczny horror za darmo, calvaire udreka film, obled i koszmar film, ogladaj filmy za darmo hd, belgijski horror calvaire.\n\n\nOFIJALNE LINKI I SPOŁECZNOŚĆ:\n\nZasubskrybuj nasze oficjalne kanały, aby oglądać najlepsze darmowe i legalne filmy w jakości HD bezpośrednio na YouTube!\n\n- Subskrybuj Film&Clips: http://bit.ly/Subscribetofilmandclips\n- Oficjalny Instagram: https://bit.ly/filmandclips_instagram\n\n\n#Calvaire #Udreka #Horror #PelnyFilm #PoPolsku #LaurentLucas #FabriceDuWelz #KinoGrozy #FilmZaDarmo #WatchNow #FilmAndClips cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Podróż Marca i awaria samochodu w głębi lasu (Calvaire)"
+        },
+        {
+          "seconds": 735,
+          "label": "Poszukiwanie pomocy: Odludny pensjonat"
+        },
+        {
+          "seconds": 1590,
+          "label": "Mroczne tajemnice i dziwne zachowanie gospodarza"
+        },
+        {
+          "seconds": 2625,
+          "label": "Niepokojące spotkanie z mieszkańcami wioski"
+        },
+        {
+          "seconds": 3510,
+          "label": "Pułapka bez wyjścia: Początek prawdziwego obłędu"
+        },
+        {
+          "seconds": 4465,
+          "label": "Desperacka walka o przetrwanie i ucieczkę"
+        },
+        {
+          "seconds": 5280,
+          "label": "Zaskakujący finał i napisy końcowe w jakości HD"
+        }
+      ]
+    },
+    {
+      "id": "v5VIqbVKKe8",
+      "title": "ANIMA PERSA (1977) 🎭🎬 | MROCZNY WŁOSKI THRILLER PSYCHOLOGICZNY | PEŁNY FILM HD",
+      "publishedAt": "2026-07-22T17:00:03Z",
+      "durationSec": 6019,
+      "thumb": "https://i.ytimg.com/vi/v5VIqbVKKe8/mqdefault.jpg",
+      "description": "Mroczne kanały Wenecji, dekadencki pałac i przerażający sekret zamknięty na strychu... 🎭🛶 Obejrzyj za darmo pełnometrażowy, wybitny dreszczowiec psychologiczny \"Anima persa\" (1977) w reżyserii mistrza włoskiego kina, Dino Risiego. Zobacz niesamowity aktorski pojedynek ikon światowego ekranu – Vittorio Gassmana i Catherine Deneuve – w wersji zremasterowanej w wysokiej rozdzielczości (HD)!\n\nStreszczenie / Fabuła:\nMłody i wrażliwy Tino (Danilo Mattei) przybywa do malowniczej, lecz dusznej i niepokojącej Wenecji, aby studiować malarstwo. Na czas nauki zatrzymuje się w ogromnym, nieco podupadłym pałacu swojego wuja, surowego i niezwykle autorytarnego Fabio (Vittorio Gassman), oraz jego pięknej, wiecznie zalęknionej żony Sofii (Catherine Deneuve).\n\nWkrótce po przeprowadzce chłopak zaczyna dostrzegać, że w domu panuje niezwykle napięta, niemal chorobliwa atmosfera. Wuj narzuca domownikom rygorystyczne, niezrozumiałe zasady, a ciotka Sofia wydaje się żyć w stanie nieustannego otępienia i strachu. Co gorsza, z zamkniętego na klucz i odizolowanego strychu co noc dobiegają dziwne, mrożące krew w żyłach odgłosy. Tino postanawia za wszelką cenę dowiedzieć się, co – lub kto – kryje się na poddaszu. Prawda, którą powoli odkrywa, wciągnie go w mroczny labirynt rodzinnego szaleństwa, zakazanych obsesji i grzechów z przeszłości, przed którymi nie ma ucieczki.\n\n🎬 Włoski Gotyk i Psychologiczna Głębia: Wyreżyserowany przez nominowanego do Oscara Dino Risiego i oparty na powieści Giovanniego Arpino, Anima persa (znany również pod tytułem Zagubiona dusza) to hipnotyzujące dzieło, które odchodzi od typowych dla reżysera komedii na rzecz gęstego, dramatycznego kryminału. Magnetyczny Vittorio Gassman w roli demonicznego wuja oraz eteryczna Catherine Deneuve tworzą tu genialny, pełen napięcia duet.\n\n👍🥰 Jeśli uwielbiasz klimatyczne dreszczowce i klasyczne kino psychologiczne, zostaw łapkę w górę! 👍🥰 Napisz w komentarzu, jak podobał Ci się wenecki, gotycki klimat tego filmu, i Zasubskrybuj nasz kanał z włączonym dzwonkiem (🔔), aby nie przegapić codziennych premier darmowych i w pełni legalnych filmów w wysokiej jakości!\n\nRozdziały Filmu (Wygodne Timestamps)\nPrzejrzysty podział na sekcje pozwala widzom łatwo nawigować po kluczowych momentach filmu:\n\n00:00:00 - Wprowadzenie: Przyjazd do Wenecji i stary pałac wujostwa\n\n00:15:20 - Niepokojące sekrety i dziwne zasady w domu Fabio\n\n00:33:15 - Tajemnicze odgłosy: Co kryje się na strychu?\n\n00:51:10 - Podejrzenia narastają: Kim jest zamknięty lokator?\n\n01:10:45 - Odkrywanie mrocznej prawdy o przeszłości rodziny\n\n01:25:30 - Szaleństwo i kulminacja weneckiego koszmaru\n\n01:36:00 - Epilog i napisy końcowe w jakości HD\n\nKarta Techniczna i Obsada (Cast & Crew)\nTytuł Oryginalny: Anima persa (Zagubiona dusza / Lost Soul)\n\nReżyseria: Dino Risi\n\nScenariusz: Bernardino Zapponi, Dino Risi, Giovanni Arpino (na podstawie jego powieści)\n\nGatunek: Thriller psychologiczny / Dramat gotycki / Mystery / Dramat d'époque\n\nRok Produkcji: 1977\n\nCzas Trwania: ok. 100 minut\n\nJęzyk Oryginalny (Audio): Włoski (Italiano)\n\nKraje Produkcji: Włochy / Francja\n\nObsada:\n\nVittorio Gassman (Fabio Stolz)\n\nCatherine Deneuve (Sofia Stolz)\n\nDanilo Mattei (Tino)\n\nAnia Pieroni (Anina)\n\nSłowa Kluczowe i Tagi (SEO dla ruchu z wyszukiwarki)\nanima persa caly film, zagubiona dusza 1977, dino risi filmy, darmowe dreszczowce na youtube, pelne filmy po wlosku, vittorio gassman, catherine deneuve caly film, thriller psychologiczny pl, klasyka kina wloskiego, darmowe filmy online, filmy z napisami, tajemnica w wenecji film, bernardino zapponi, giovanni arpino, mystery thriller caly film, legalne filmy youtube, stary dreszczowiec caly film, darmowe filmy hd.\n\nLinki i Sieci Społecznościowe\nFilm&Clips to najlepszy DARMOWY i LEGALNY kanał filmowy na YouTube!\n\nZasubskrybuj Film&Clips: http://bit.ly/Subscribetofilmandclips\n\nNasz oficjalny Instagram: https://bit.ly/filmandclips_instagram\n\nNasi partnerzy: @Movie360Top @JustMovies01 @Cineverse360\n\n#AnimaPersa #DinoRi",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Wprowadzenie: Przyjazd do Wenecji i stary pałac wujostwa"
+        },
+        {
+          "seconds": 920,
+          "label": "Niepokojące sekrety i dziwne zasady w domu Fabio"
+        },
+        {
+          "seconds": 1995,
+          "label": "Tajemnicze odgłosy: Co kryje się na strychu?"
+        },
+        {
+          "seconds": 3070,
+          "label": "Podejrzenia narastają: Kim jest zamknięty lokator?"
+        },
+        {
+          "seconds": 4245,
+          "label": "Odkrywanie mrocznej prawdy o przeszłości rodziny"
+        },
+        {
+          "seconds": 5130,
+          "label": "Szaleństwo i kulminacja weneckiego koszmaru"
+        },
+        {
+          "seconds": 5760,
+          "label": "Epilog i napisy końcowe w jakości HD"
+        }
+      ]
+    },
+    {
+      "id": "3SrwTjS77VI",
+      "title": "Dziki Zachód | Ciakmull - L'uomo della vendetta | Pełny film akcji z lektorem PL",
+      "publishedAt": "2026-07-15T17:00:18Z",
+      "durationSec": 5670,
+      "thumb": "https://i.ytimg.com/vi/3SrwTjS77VI/mqdefault.jpg",
+      "description": "Wymazana przeszłość, dramatyczne poszukiwanie własnej tożsamości i krwawy szlak zemsty w sercu bezwzględnej prerii! Oglądaj pełną wersję kultowego spaghetti westernu „Ciakmull - L'uomo della vendetta” (znanego również pod międzynarodowym tytułem The Unholy Four) z 1970 roku w reżyserii Enzo Barboniego. Film jest teraz dostępny po raz pierwszy w oszałamiającej cyfrowej jakości 4K Ultra HD (2160p)!\n\nStreszczenie fabuły:\nUciekając z płonącego zakładu dla obłąkanych podczas chaotycznego i brutalnego buntu więźniów, cierpiący na całkowitą amnezję rewolwerowiec znany tylko jako Chuck (Leonard Mann) przemierza bezwzględną pustynię w rozpaczliwym poszukiwaniu prawdy o sobie. Wkrótce dołączają do niego trzej inni skazańcy – wśród nich legendarny i niezłomny Woody Strode – którzy decydują się towarzyszyć mu w drodze do rodzinnego miasteczka. Wspólnicy liczą na odnalezienie odpowiedzi na dręczące Chucka pytania oraz, przede wszystkim, na odkrycie ukrytej tam wielkiej fortuny.\n\nJednak powrót Chucka okazuje się daleki od radosnego powitania. Na miejscu szybko odkrywa, że jego dawne życie zostało pogrzebane pod warstwami cynicznej zdrady i brutalnej przemocy. Chuck zostaje wciągnięty w sam środek bezwzględnej, krwawej waśni między swoją porzuconą rodziną a wpływowym, niezwykle skorumpowanym potentatem ziemskim. Sytuację drastycznie komplikuje fakt, że potężny baron jest ojcem człowieka, który przed laty brutalnie obrabował Chucka z jego najcenniejszych wspomnień.\n\nKultowe Kino z Głębią: Wyreżyserowany przez wizjonera Enzo Barboniego (który później zasłynął pod pseudonimem E.B. Clucher), film Ciakmull wyróżnia się na tle klasycznych westernów lat 70. niebanalnym wątkiem psychologicznym oraz monumentalną, surową rolą Woody'ego Strode'a, który nadaje każdej strzelaninie niesamowitego dramatyzmu.\n\nJeśli uwielbiasz klasyczne spaghetti westerny, dynamiczne strzelaniny, wątki detektywistyczne na Dzikim Zachodzie oraz opowieści o twardych bohaterach, zostaw „Kciuka w górę”, podziel się swoją opinią w komentarzu i Subskrybuj nasz kanał, aby nie przegapić kolejnych darmowych, pełnometrażowych filmów w najwyższej jakości 4K Ultra HD!\n\nRozdziały / Oś Czasu (Timestamps)\nCzas trwania poszczególnych scen można dostosować do finalnego pliku wideo:\n\n00:00:00 - Początek: Ucieczka z płonącego zakładu (Ciakmull - L'uomo della vendetta)\n\n00:13:15 - Chuck i trzej skazańcy: Droga przez pustynię w poszukiwaniu prawdy\n\n00:27:40 - Powrót do rodzinnego miasteczka i wrogie powitanie\n\n00:42:10 - Przebłyski pamięci: Mroczne sekrety skłóconej rodziny\n\n00:58:35 - Intryga barona ziemskiego i pułapka bez wyjścia\n\n01:14:20 - Przygotowania do walki: Stoickie wsparcie Woody'ego Strode'a\n\n01:26:45 - Ostateczna, krwawa strzelanina i wielki finał w samo południe\n\n01:36:00 - Prawda wychodzi na jaw, epilog i napisy końcowe\n\nObsada i Twórcy (Cast & Crew)\nTytuł Oryginalny: Ciakmull - L'uomo della vendetta (Tytuł angielski: The Unholy Four)\n\nReżyseria: Enzo Barboni (E.B. Clucher)\n\nScenariusz: Mario di Nardo, Franco Rossetti, George Eastman\n\nGatunek: Western, Spaghetti Western, Akcja, Dramat\n\nRok Produkcji: 1970\n\nJakość Obrazu: 4K Ultra HD (2160p)\n\nObsada:\n\nLeonard Mann (Chuck / Ciakmull)\n\nWoody Strode (Woody)\n\nPeter Martell (Silver)\n\nGeorge Eastman (Hondo)\n\nHelmuth Schneider (Joe Caldwell)\n\nSłowa Kluczowe / Tagi (Keywords)\nCiakmull Luomo della vendetta, The Unholy Four, Ciakmull film, Cały film, Po polsku, Western po polsku, Lektor PL, Spaghetti Western, Leonard Mann, Woody Strode, Enzo Barboni, EB Clucher, George Eastman, Film akcji, Zemsta, Darmowe filmy, 4K, 4K Ultra HD, 2160p, Retro kino westernowe, Dziki Zachód, Amnezja.\n\nMedia Społecznościowe & Hashtagi\nSubskrybuj nasz kanał i kliknij dzwoneczek (🔔), aby być na bieżąco z najlepszymi klasycznymi westernami, kinem akcji i filmami z całego świata dostępnymi legalnie i za darmo w rozdzielczości Ultra HD!\n\n#Ciakmull #TheUnholyFour #Western #SpaghettiWestern #CalyFilm #PoPolsku #4K #UltraHD #2160p #WoodyStrode #LeonardMann #DzikiZach",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Początek: Ucieczka z płonącego zakładu (Ciakmull - L'uomo della vendetta)"
+        },
+        {
+          "seconds": 795,
+          "label": "Chuck i trzej skazańcy: Droga przez pustynię w poszukiwaniu prawdy"
+        },
+        {
+          "seconds": 1660,
+          "label": "Powrót do rodzinnego miasteczka i wrogie powitanie"
+        },
+        {
+          "seconds": 2530,
+          "label": "Przebłyski pamięci: Mroczne sekrety skłóconej rodziny"
+        },
+        {
+          "seconds": 3515,
+          "label": "Intryga barona ziemskiego i pułapka bez wyjścia"
+        },
+        {
+          "seconds": 4460,
+          "label": "Przygotowania do walki: Stoickie wsparcie Woody'ego Strode'a"
+        },
+        {
+          "seconds": 5205,
+          "label": "Ostateczna, krwawa strzelanina i wielki finał w samo południe"
+        },
+        {
+          "seconds": 5760,
+          "label": "Prawda wychodzi na jaw, epilog i napisy końcowe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UC1m-_gXpsBATPL_HSVzMBfA",
+  "title": "Australian Ninja Warrior",
+  "thumb": "https://yt3.ggpht.com/t68Ds4gnoe0YKTWz_Eheg_5Ai_GGkSoW2Xb7gg_08ir8UWKegb39FCVK9XB_gXDTKE3W9vNLOg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.37,
+  "sources": [
+    {
+      "id": "channel:UC5G0-uMcGFhNts84d24BZqw",
+      "type": "channel",
+      "label": "TODAY",
+      "url": "https://www.youtube.com/channel/UC5G0-uMcGFhNts84d24BZqw",
+      "firstSeenAt": "2026-09-30T12:31:20.861Z"
+    },
+    {
+      "id": "channel:UCJ-Q3hFmYN-XnpS8JKY_G-w",
+      "type": "channel",
+      "label": "Footy on Nine",
+      "url": "https://www.youtube.com/channel/UCJ-Q3hFmYN-XnpS8JKY_G-w",
+      "firstSeenAt": "2026-10-02T12:30:47.548Z"
+    },
+    {
+      "id": "channel:UCrdVBS9fo2W9fqoc5Q2C9WQ",
+      "type": "channel",
+      "label": "NRL Footy Show",
+      "url": "https://www.youtube.com/channel/UCrdVBS9fo2W9fqoc5Q2C9WQ",
+      "firstSeenAt": "2026-10-02T12:30:47.655Z"
+    }
+  ],
+  "recentItems": []
+}

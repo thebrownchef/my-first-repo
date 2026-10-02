@@ -1,0 +1,603 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UC5zB6Yi0zItVSh-TAK1F2KQ",
+  "title": "Film&Clips Bianco e Nero",
+  "thumb": "https://yt3.ggpht.com/LAw9Cd08xz_Zlj_jjZjUZj1sRQt-1z2BqeXqGCjRtgLJHxDw6BLHoLG4pW8oScRIF8S1mxQvrw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 28,
+  "distinctSourceCount": 28,
+  "hop": 1,
+  "uploadsPerDay": 0.29,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.029Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.237Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.642Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.882Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.060Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.181Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.547Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.682Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.735Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.790Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.035Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.338Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.404Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.589Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.741Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.859Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.075Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.321Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.380Z"
+    },
+    {
+      "id": "channel:UCAfXQ_YeB7krOEl5vYycnkQ",
+      "type": "channel",
+      "label": "Film Western in Italiano",
+      "url": "https://www.youtube.com/channel/UCAfXQ_YeB7krOEl5vYycnkQ",
+      "firstSeenAt": "2026-10-02T12:30:41.960Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.060Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.107Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.256Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.377Z"
+    },
+    {
+      "id": "channel:UChdp4YlG64mqKGqpZ9LEpzA",
+      "type": "channel",
+      "label": "Film&Clips Kidz",
+      "url": "https://www.youtube.com/channel/UChdp4YlG64mqKGqpZ9LEpzA",
+      "firstSeenAt": "2026-10-02T12:30:42.618Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.684Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.734Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.782Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "X0812SjB5-0",
+      "title": "QUESTA VOLTA PARLIAMO DI UOMINI - Commedia all'Italiana Film Completo HD",
+      "publishedAt": "2026-09-29T19:30:07Z",
+      "durationSec": 4972,
+      "thumb": "https://i.ytimg.com/vi/X0812SjB5-0/mqdefault.jpg",
+      "description": "🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio Impostazioni (⚙️) in basso a destra del player video per scegliere la tua lingua preferita.\n\n---\n\nL'egoismo, le debolezze e la superficialità del genere maschile raccontate con l'inconfondibile ironia di Lina Wertmüller e l'istrionico talento di Nino Manfredi! 🎬🇮🇹😂 Guarda il film completo \"Questa volta parliamo di uomini\" (1965), una travolgente commedia satirica ad episodi. Goditi quattro straordinarie interpretazioni di Manfredi affiancato da Luciana Paluzzi e Margaret Lee, completamente restaurato in alta definizione Full HD (1080p)!\n\n\nLA TRAMA:\n\nQuattro episodi satirici e grotteschi mettono a nudo i vizi, le contraddizioni e l'egoismo dell'universo maschile nell'Italia degli anni Sessanta.\n\nAttraverso il camaleontico talento di Nino Manfredi — che veste i panni dei protagonisti di tutti e quattro i capitoli — il film ci presenta: uno spietato industriale che sfrutta i suoi dipendenti persino durante uno sciopero; un anziano e maldestro lanciatore di coltelli che mette a dura prova la pazienza della moglie; un professore cinico e intellettualmente snob; e infine un marito pigro e ingrato che vive alle spalle della consorte. Un affresco comico e graffiante che non risparmia critiche al maschilismo dell'epoca.\n\n\nUN CAPOLAVORO DELLA COMMEDIA AD EPISODI IN HD:\n\nSeconda opera cinematografica della celebre regista Lina Wertmüller, \"Questa volta parliamo di uomini\" anticipa con brillante intuizione i temi sociali e lo stile grottesco che renderanno famosa la cineasta in tutto il mondo. Impreziosito dalle interpretazioni di grandi attrici come Luciana Paluzzi, Margaret Lee e Milena Vukotic, questo restauro digitale in Full HD restituisce tutta la nitidezza e il valore storico di una perla del cinema d'autore italiano.\n\n\n😂 Ti è piaciuta questa satira di Lina Wertmüller con Nino Manfredi? Lascia un LIKE, condividi nei commenti il tuo episodio preferito e ISCRIVITI AL CANALE (🔔) per non perdere i grandi classici della commedia all'italiana restaurati in HD!\n\n\n⏱️ CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Inizio: Primo episodio - L'industriale e la protesta\n00:22:15 - Secondo episodio: Il vecchio lanciatore di coltelli\n00:41:45 - Terzo episodio: Il professore cinico e l'intellettuale\n01:02:20 - Quarto episodio: Il marito ingrato e la moglie devota\n01:23:40 - Considerazioni finali e titoli di coda\n\n\nSCHEDA TECNICA E CAST:\n\n- Titolo Originale: Questa volta parliamo di uomini\n- Anno di Uscita: 1965 (Edizione Restaurata HD: 2026)\n- Regia: Lina Wertmüller\n- Sceneggiatura: Lina Wertmüller\n- Genere: Commedia / Grottesco / Satira di Costume\n- Qualità Video: Full HD (1080p)\n- Durata: 90 minuti circa\n- Lingua/Sottotitoli: Audio Italiano Originale / Sottotitoli Disponibili\n\nCast Principale:\nNino Manfredi\nLuciana Paluzzi\nMargaret Lee\nMilena Vukotic\nAlfredo Bianchini\n\n\nTAG E PAROLE CHIAVE (SEO):\nquesta volta parliamo di uomini film completo, questa volta parliamo di uomini hd, nino manfredi film completi, lina wertmuller, luciana paluzzi, margaret lee, commedia all italiana hd, film italiani anni 60 completi, commedia ad episodi italiana, cinema d autore italiano, vedere film comici gratis youtube.\n\n\nHASHTAG:\n#QuestaVoltaParliamoDiUomini #NinoManfredi #LinaWertmuller #LucianaPaluzzi #MargaretLee #FilmCompleto #FullHD #CommediaAllItaliana #CinemaItaliano #Anni60 #FreeMovies #WatchNow #FilmAndClipsCD",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: Primo episodio - L'industriale e la protesta"
+        },
+        {
+          "seconds": 1335,
+          "label": "Secondo episodio: Il vecchio lanciatore di coltelli"
+        },
+        {
+          "seconds": 2505,
+          "label": "Terzo episodio: Il professore cinico e l'intellettuale"
+        },
+        {
+          "seconds": 3740,
+          "label": "Quarto episodio: Il marito ingrato e la moglie devota"
+        },
+        {
+          "seconds": 5020,
+          "label": "Considerazioni finali e titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "iE2uqq92_Ls",
+      "title": "Achtung! Banditi! | Film Completo Restaurato in HD | Gina Lollobrigida",
+      "publishedAt": "2026-09-26T20:00:02Z",
+      "durationSec": 5871,
+      "thumb": "https://i.ytimg.com/vi/iE2uqq92_Ls/mqdefault.jpg",
+      "description": "🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio Impostazioni (⚙️) in basso a destra del player video per scegliere la tua lingua preferita.\n\n---\n\nLa Resistenza italiana, l'eroismo dei partigiani genovesi e la lotta contro l'occupazione tedesca! 🎬🇮🇹🪖 Guarda il film completo \"Achtung! Banditi!\" (1951), storico capolavoro neorealista diretto da Carlo Lizzani. Vivi una pagina fondamentale della storia d'Italia con Gina Lollobrigida, Andrea Checchi e Vittorio Duse, completamente restaurato in alta definizione Full HD (1080p)!\n\n\nLA TRAMA:\n\nUn gruppo di combattenti della Resistenza italiana operanti nell'area di Genova, guidati con determinazione dal comandante Vento, riceve una missione cruciale e ad alto rischio: sequestrare un importante carico di armi destinato alle truppe di occupazione tedesche.\n\nLe armi scarseggiano e i partigiani decidono di infiltrarsi in uno stabilimento industriale prima che i soldati nazisti riescano a smantellare i macchinari e trasferire le risorse in Germania. Con il supporto decisivo degli operai della fabbrica, i partigiani mettono in atto un piano per trafugare l'armamento, trasformando l'operazione in un serrato e drammatico scontro a fuoco per la difesa della libertà.\n\n\nIL CAPOLAVORO DI CARLO LIZZANI IN HD:\n\nDiretto da Carlo Lizzani e scritto da Rodolfo Sonego, Ugo Pirro e Giuliani G. De Negri, \"Achtung! Banditi!\" è una delle opere più autentiche e viscerali dedicate alla guerra di Liberazione. Caratterizzato dalle intense interpretazioni di Gina Lollobrigida, Andrea Checchi e Vittorio Duse, questo restauro in Full HD dona nuova nitidezza alle immagini storiche e alla drammatica atmosfera della Genova occupata.\n\n\n🇮🇹 Ti ha emozionato questa storia di coraggio e libertà? Lascia un LIKE, scrivi i tuoi pensieri nei commenti e ISCRIVITI AL CANALE (🔔) per non perdere i prossimi grandi classici del cinema italiano restaurati in alta definizione!\n\n\n⏱️ CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Inizio: I partigiani genovesi e il comandante Vento\n00:11:45 - Il piano per intercettare il carico di armi\n00:24:30 - L'infiltrazione nella fabbrica occupata\n00:38:15 - L'ostruzionismo degli operai contro i tedeschi\n00:52:10 - Il recupero delle armi e il pericolo imminente\n01:06:40 - Lo scontro a fuoco aperto con le truppe naziste\n01:19:15 - La battaglia per la liberazione dello stabilimento\n01:28:00 - Titoli di coda\n\n\nSCHEDA TECNICA E CAST:\n\n- Titolo Originale: Achtung! Banditi!\n- Anno di Uscita: 1951 (Edizione Restaurata HD)\n- Regia: Carlo Lizzani\n- Sceneggiatura: Rodolfo Sonego, Ugo Pirro, Giuliani G. De Negri\n- Genere: Guerra / Drammatico / Storico / Neorealismo\n- Qualità Video: Full HD (1080p)\n- Durata: 90 minuti circa\n- Lingua/Sottotitoli: Audio Italiano Originale / Sottotitoli Disponibili\n\nCast Principale:\nGina Lollobrigida\nAndrea Checchi\nVittorio Duse\nLamberto Maggiorani\nPietro Tordi\n\n\nTAG E PAROLE CHIAVE (SEO):\nachtung banditi film completo, achtung banditi hd, carlo lizzani, gina lollobrigida film completi, andrea checchi, vittorio duse, rodolfo sonego, ugo pirro, film sulla resistenza italiana hd, neorealismo italiano film completo, seconda guerra mondiale film completi, partigiani genova fabbrica, film storici italiani gratis hd, cinema di guerra italiano.\n\n\nHASHTAG:\n#AchtungBanditi #CarloLizzani #GinaLollobrigida #AndreaChecchi #VittorioDuse #FilmCompleto #FullHD #CinemaItaliano #Neorealismo #ResistenzaItaliana #FreeMovies #WatchNow #FilmAndClips CD",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: I partigiani genovesi e il comandante Vento"
+        },
+        {
+          "seconds": 705,
+          "label": "Il piano per intercettare il carico di armi"
+        },
+        {
+          "seconds": 1470,
+          "label": "L'infiltrazione nella fabbrica occupata"
+        },
+        {
+          "seconds": 2295,
+          "label": "L'ostruzionismo degli operai contro i tedeschi"
+        },
+        {
+          "seconds": 3130,
+          "label": "Il recupero delle armi e il pericolo imminente"
+        },
+        {
+          "seconds": 4000,
+          "label": "Lo scontro a fuoco aperto con le truppe naziste"
+        },
+        {
+          "seconds": 4755,
+          "label": "La battaglia per la liberazione dello stabilimento"
+        },
+        {
+          "seconds": 5280,
+          "label": "Titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "g95qqnxRYoE",
+      "title": "QUARTIERI ALTI - Classico del Cinema Italiano Film Completo HD",
+      "publishedAt": "2026-09-24T19:30:16Z",
+      "durationSec": 4707,
+      "thumb": "https://i.ytimg.com/vi/g95qqnxRYoE/mqdefault.jpg",
+      "description": "🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio Impostazioni (⚙️) in basso a destra del player video per scegliere la tua lingua preferita.\n\n---\n\nRiscoprite una delle commedie più brillanti, eleganti e sofisticate del cinema italiano dell'immediato dopoguerra! 🎬🇮🇹😂 Guarda il film completo \"Quartieri alti\" (1945), una raffinata opera satirica diretta da Mario Soldati. Vivi un'esilarante commedia degli equivoci con Adriana Benetti, Nerio Bernardi ed Enzo Biliotti, completamente restaurata in alta definizione Full HD (1080p)!\n\n\nLA TRAMA:\n\nLa storia segue le intricate vicende di un giovane e affascinante arrampicatore sociale che si innamora perdutamente di una ragazza dolce e semplice. Per conquistarla e apparire ai suoi occhi come un uomo di sani principi, il protagonista decide di nasconderle un imbarazzante segreto: essere mantenuto da una ricca e matura signora dell'alta borghesia romana.\n\nNel disperato tentativo di fare buona impressione sulla giovane e sulla sua famiglia, l'uomo architetta un piano assurdo e ingaggia due attori teatrali squattrinati per interpretare il ruolo dei suoi impeccabili e nobili genitori. L'inganno darà il via a un carosello inarrestabile di bugie, equivoci e situazioni paradossali nei salotti più esclusivi della città.\n\n\nUNA RAFFINATA COMMEDIA DI COSTUME IN HD:\n\nDiretto dal grande scrittore e regista Mario Soldati, \"Quartieri alti\" vanta una sceneggiatura firmata da autentici giganti della cultura come Jean Anouilh, Renato Castellani ed Ercole Patti, capaci di fondere l'eleganza teatrale francese con l'arguzia della commedia all'italiana. Sorretto dalle memorabili interpretazioni di Adriana Benetti, Nerio Bernardi ed Enzo Biliotti, questo attento restauro in Full HD restituisce perfetta luminosità, nitidezza e stabilità a ogni singola inquadratura.\n\n\n😂 Ti è piaciuta questa raffinata commedia d'epoca? Lascia un LIKE, condividi nei commenti la tua scena preferita e ISCRIVITI AL CANALE (🔔) per non perdere i grandi classici del cinema d'autore restaurati in alta definizione!\n\n\n⏱️ CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Inizio: La doppia vita del protagonista e il colpo di fulmine\n00:16:15 - Il piano: L'ingaggio dei finti genitori nobili\n00:38:45 - La cena ufficiale: Finzione e realtà a confronto\n01:05:30 - I sospetti e il castello di carte che rischia di crollare\n01:23:40 - Lo svelamento della verità e titoli di coda\n\n\nSCHEDA TECNICA E CAST:\n\n- Titolo Originale: Quartieri alti\n- Anno di Uscita: 1945 (Edizione Restaurata HD: 2026)\n- Regia: Mario Soldati\n- Sceneggiatura: Jean Anouilh, Renato Castellani, Ercole Patti, Mario Soldati\n- Genere: Commedia / Satira / Commedia degli Equivoci\n- Qualità Video: Full HD (1080p)\n- Durata: 85 minuti circa\n- Lingua/Sottotitoli: Audio Italiano Originale / Sottotitoli Disponibili\n\nCast Principale:\nAdriana Benetti\nNerio Bernardi\nEnzo Biliotti\nMassimo Serato\n\n\nTAG E PAROLE CHIAVE (SEO):\nquartieri alti film completo, quartieri alti hd, mario soldati, adriana benetti, nerio bernardi, enzo biliotti, renato castellani, jean anouilh, commedia all italiana hd, commedia degli equivoci 1945, cinema italiano d epoca, film italiani anni 40 completi, vedere film gratis youtube.\n\n\nHASHTAG:\n#QuartieriAlti #MarioSoldati #AdrianaBenetti #NerioBernardi #RenatoCastellani #FilmCompleto #FullHD #CommediaAllItaliana #CinemaItaliano #Anni40 #FreeMovies #WatchNow #FilmAndClips cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: La doppia vita del protagonista e il colpo di fulmine"
+        },
+        {
+          "seconds": 975,
+          "label": "Il piano: L'ingaggio dei finti genitori nobili"
+        },
+        {
+          "seconds": 2325,
+          "label": "La cena ufficiale: Finzione e realtà a confronto"
+        },
+        {
+          "seconds": 3930,
+          "label": "I sospetti e il castello di carte che rischia di crollare"
+        },
+        {
+          "seconds": 5020,
+          "label": "Lo svelamento della verità e titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "HBbTWFPjXMo",
+      "title": "Amaramente | Film Completo Restaurato in HD | Otello Toso & Emilio Pericoli",
+      "publishedAt": "2026-09-14T20:00:32Z",
+      "durationSec": 5362,
+      "thumb": "https://i.ytimg.com/vi/HBbTWFPjXMo/mqdefault.jpg",
+      "description": "🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio Impostazioni (⚙️) in basso a destra del player video per scegliere la tua lingua preferita.\n\n---\n\nGrandi passioni, amori tormentati e la magia della canzone italiana degli anni Cinquanta! 🎬🇮🇹🎵 Guarda il film completo \"Amaramente\" (1956), un classico melodramma sentimentale diretto da Luigi Capuano. Vivi un'emozionante storia d'altri tempi con Otello Toso, Lia Cancellieri ed Emilio Pericoli, completamente restaurato in alta definizione Full HD (1080p)!\n\n\nLA TRAMA:\n\nSullo sfondo dell'Italia degli anni Cinquanta, una tormentata storia d'amore incontra gli ostacoli delle convenzioni sociali, dei malintesi e delle opposizioni familiari. \n\nTra sacrifici personali e aspirazioni musicali, i protagonisti si trovano a dover lottare per difendere il proprio sentimento sincero contro le avversità del destino. Un intenso racconto popolato di sentimenti genuini, gelosie e momenti musicali indimenticabili, dove ogni scelta lascia un segno profondo nel cuore dei protagonisti.\n\n\nUN CLASSICO MELODRAMMA ITALIANO IN HD:\n\nDiretto da Luigi Capuano e scritto insieme ad Alberto D'Amario e Vincenzo Talarico, \"Amaramente\" è una testimonianza preziosa del cinema popolare e musicale italiano dell'epoca. Arricchito dalle intense interpretazioni di Otello Toso, Lia Cancellieri e dalle celebri doti canore di Emilio Pericoli, questo restauro in Full HD restituisce il fascino e il calore delle grandi produzioni sentimentali del nostro passato.\n\n\n❤️ Ti piacciono i grandi melodrammi classici e la musica italiana d'epoca? Lascia un LIKE, condividi i tuoi ricordi nei commenti e ISCRIVITI AL CANALE (🔔) per non perdere i prossimi capolavori del cinema italiano restaurati!\n\n\n⏱️ CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Inizio: L'incontro e la nascita di un amore\n00:11:45 - Primi ostacoli e malintesi familiari\n00:24:30 - Esibizioni musicali e rivalità\n00:38:15 - Le difficoltà del destino e le incomprensioni\n00:52:10 - La prova d'amore e il sacrificio\n01:06:40 - Il momento della verità e la resa dei conti\n01:19:15 - Riconciliazione e finale emozionante\n01:28:00 - Titoli di coda\n\n\nSCHEDA TECNICA E CAST:\n\n- Titolo Originale: Amaramente\n- Anno di Uscita: 1956 (Edizione Restaurata HD)\n- Regia: Luigi Capuano\n- Sceneggiatura: Luigi Capuano, Alberto D'Amario, Vincenzo Talarico\n- Genere: Drammatico / Sentimentale / Musicale\n- Qualità Video: Full HD (1080p)\n- Durata: 90 minuti circa\n- Lingua/Sottotitoli: Audio Italiano Originale / Sottotitoli Disponibili\n\nCast Principale:\nOtello Toso\nLia Cancellieri\nEmilio Pericoli\nTeresa Pellati\nNino Milano\n\n\nTAG E PAROLE CHIAVE (SEO):\namaramente film completo, amaramente hd, luigi capuano, otello toso film completi, emilio pericoli, lia cancellieri, melodramma italiano anni 50, film sentimentale italiano hd, canzone italiana anni 50, film italiani classici hd, cinema popolare italiano, vedere film gratis youtube italiani.\n\n\nHASHTAG:\n#Amaramente #LuigiCapuano #OtelloToso #EmilioPericoli #LiaCancellieri #FilmCompleto #FullHD #CinemaItaliano #Melodramma #Anni50 #FreeMovies #WatchNow #FilmAndClips CD",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: L'incontro e la nascita di un amore"
+        },
+        {
+          "seconds": 705,
+          "label": "Primi ostacoli e malintesi familiari"
+        },
+        {
+          "seconds": 1470,
+          "label": "Esibizioni musicali e rivalità"
+        },
+        {
+          "seconds": 2295,
+          "label": "Le difficoltà del destino e le incomprensioni"
+        },
+        {
+          "seconds": 3130,
+          "label": "La prova d'amore e il sacrificio"
+        },
+        {
+          "seconds": 4000,
+          "label": "Il momento della verità e la resa dei conti"
+        },
+        {
+          "seconds": 4755,
+          "label": "Riconciliazione e finale emozionante"
+        },
+        {
+          "seconds": 5280,
+          "label": "Titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "lTaK1csQoh8",
+      "title": "Accattone | Film Completo Restaurato in HD | Pier Paolo Pasolini & Franco Citti",
+      "publishedAt": "2026-09-09T20:00:09Z",
+      "durationSec": 6861,
+      "thumb": "https://i.ytimg.com/vi/lTaK1csQoh8/mqdefault.jpg",
+      "description": "🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio Impostazioni (⚙️) in basso a destra del player video per scegliere la tua lingua preferita.\n\n---\n\nLa miseria delle borgate romane, il dramma dell'emarginazione e lo sguardo poetico di Pier Paolo Pasolini! 🎬🇮🇹💔 Guarda il film completo \"Accattone\" (1961), folgorante esordio alla regia di Pier Paolo Pasolini con l'iconica interpretazione di Franco Citti. Vivi un capolavoro immortale della storia del cinema italiano, completamente restaurato in alta definizione (1080p)!\n\n\nLA TRAMA:\n\nVittorio Cataldi, da tutti soprannominato \"Accattone\", è un giovane del sottoproletariato romano che vive ai margini della società trascorrendo le sue giornate tra ozio, scommesse al bar e lo sfruttamento della prostituzione. Quando la donna che lo mantiene finisce in prigione, Accattone si ritrova improvvisamente privato di ogni risorsa, costretto a fare i conti con la fame, la disoccupazione e la cruda realtà della miseria.\n\nL'incontro con Stella, una ragazza pura e innocente, accende in lui il desiderio sincero di riscattarsi e cambiare vita. Per lei cerca per la prima volta un lavoro onesto, ma il condizionamento dell'ambiente, la durezza della vita e un destino implacabile rendono impossibile il suo adattamento, trascinandolo inevitabilmente verso una tragica ed epica conclusione.\n\n\nL'ESORDIO DI PASOLINI E IL CINEMA D'AUTORE IN HD:\n\nDiretto e scritto da Pier Paolo Pasolini, \"Accattone\" rappresenta un punto di svolta fondamentale nel cinema d'autore mondiale, trasponendo sul grande schermo l'universo narrativo dei suoi celebri romanzi. Attraverso l'uso della musica sacra di Bach e la recitazione viscerale di attori presi dalla strada, guidati da Franco Citti e Adriana Asti, questa versione restaurata in Full HD dona una nuova e straordinaria definizione visiva a ogni scorcio delle borgate e ai volti indimenticabili dei suoi protagonisti.\n\n\n🇮🇹 Se ami il cinema d'autore, le opere di Pasolini e i grandi classici italiani, lascia un LIKE! Scrivi nei commenti le tue riflessioni e ISCRIVITI AL CANALE (🔔) per non perdere i prossimi capolavori restaurati!\n\n\n⏱️ CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Inizio: La vita di borgata e il ritratto di Accattone\n00:11:45 - L'arresto di Maddalena e la fine dei guadagni facili\n00:24:30 - La fame e la ricerca disperata di un sostentamento\n00:38:15 - L'incontro con la giovane Stella\n00:52:10 - Il tentativo di cambiamento e il lavoro onesto\n01:06:40 - La ricaduta nei vecchi raggiri e la notte romana\n01:19:15 - La fuga, il tragico destino e la fine\n01:28:00 - Titoli di coda\n\n\nSCHEDA TECNICA E CAST:\n\n- Titolo Originale: Accattone\n- Anno di Uscita: 1961 (Edizione Restaurata HD)\n- Regia: Pier Paolo Pasolini\n- Sceneggiatura: Pier Paolo Pasolini (con la collaborazione di Sergio Citti)\n- Genere: Drammatico / Film d'Autore / Neorealismo\n- Qualità Video: Full HD (1080p)\n- Durata: 115 minuti circa\n- Lingua/Sottotitoli: Audio Italiano Originale / Sottotitoli Disponibili\n\nCast Principale:\nFranco Citti (Vittorio Cataldi \"Accattone\")\nFranca Pasut (Stella)\nSilvana Corsini (Maddalena)\nPaola Guidi (Ascenza)\nAdriana Asti (Amore)\n\n\nTAG E PAROLE CHIAVE (SEO):\naccattone film completo, accattone hd, pier paolo pasolini, franco citti accattone, adriana asti, neorealismo pasolini, film d autore italiano hd, borgate romane cinema, roma sottoproletaria film, film completi in italiano gratis, cinema classico italiano hd, pasolini capolavori restaurati, vedere film gratis youtube.\n\n\nHASHTAG:\n#Accattone #Pasolini #PierPaoloPasolini #FrancoCitti #AdrianaAsti #CinemaItaliano #Neorealismo #FilmDAutore #RomaSottoproletaria #FilmCompleto #FullHD #FreeMovies #WatchNow #FilmAndClips CD",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: La vita di borgata e il ritratto di Accattone"
+        },
+        {
+          "seconds": 705,
+          "label": "L'arresto di Maddalena e la fine dei guadagni facili"
+        },
+        {
+          "seconds": 1470,
+          "label": "La fame e la ricerca disperata di un sostentamento"
+        },
+        {
+          "seconds": 2295,
+          "label": "L'incontro con la giovane Stella"
+        },
+        {
+          "seconds": 3130,
+          "label": "Il tentativo di cambiamento e il lavoro onesto"
+        },
+        {
+          "seconds": 4000,
+          "label": "La ricaduta nei vecchi raggiri e la notte romana"
+        },
+        {
+          "seconds": 4755,
+          "label": "La fuga, il tragico destino e la fine"
+        },
+        {
+          "seconds": 5280,
+          "label": "Titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "tjNmn-77WbI",
+      "title": "L'Ajo nell'imbarazzo | Opera Lirica Completa in HD | Plinio Clabassi",
+      "publishedAt": "2026-09-02T20:00:01Z",
+      "durationSec": 3581,
+      "thumb": "https://i.ytimg.com/vi/tjNmn-77WbI/mqdefault.jpg",
+      "description": "🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio Impostazioni (⚙️) in basso a destra del player video per scegliere la tua lingua preferita.\n\n---\n\nEquivoci comici, amori segreti e la grande tradizione dell'opera buffa italiana! 🎬🎭🎶 Guarda la trasposizione filmica dell'opera \"L'Ajo nell'imbarazzo\", diretta da Giovanni Fusco. Goditi una straordinaria commedia lirica ricca di brio e virtuosismo con Plinio Clabassi, Cecilia Fusco e Tonino Boyer, completamente restaurata in alta definizione Full HD (1080p)!\n\n\nLA TRAMA:\n\nUn severo e autoritario marchese impone ai propri figli una disciplina rigidissima, affidando la loro educazione all'anziano e fidato precettore (l'ajo) Don Gregorio. Nonostante le severe restrizioni del padre, il figlio maggiore si è sposato in gran segreto con una giovane donna e dal loro amore è persino nato un bambino.\n\nQuando la presenza del piccolo rischia di essere scoperta, il povero ajo si ritrova suo malgrado coinvolto in una travolgente serie di bugie, sotterfugi e divertenti malintesi per nascondere la verità al terribile marchese, dando vita a un crescendo comico fino all'immancabile lieto fine.\n\n\nUN CAPOLAVORO DELLA COMMEDIA LIRICA IN HD:\n\nDiretto da Giovanni Fusco e basato sui testi di Jacopo Ferretti e Giovanni Giraud con l'adattamento di Guido Turchi, \"L'Ajo nell'imbarazzo\" è un brillante esempio di opera buffa italiana. Grazie alle eccellenti doti vocali e interpretative di Plinio Clabassi, Cecilia Fusco e Tonino Boyer, questa versione in Full HD restituisce tutto il garbo, la verve e l'eleganza della grande musica operistica d'epoca.\n\n\n🎶 Ti è piaciuta questa classica commedia operistica? Lascia un LIKE, scrivi nei commenti la tua aria preferita e ISCRIVITI AL CANALE (🔔) per non perdere i prossimi capolavori del cinema e dell'opera restaurati in alta definizione!\n\n\n⏱️ CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Inizio: La severa casa del Marchese e l'Ajo\n00:11:45 - Il segreto di Don Enrico e la nascita del bimbo\n00:24:30 - L'Ajo Don Gregorio viene coinvolto nell'inganno\n00:38:15 - Primi sospetti, sotterfugi ed equivoci comici\n00:52:10 - La visita a sorpresa e il panico in casa\n01:06:40 - La scoperta della verità e il confronto con il Marchese\n01:19:15 - Il perdono, la gioia e il finale in musica\n01:28:00 - Titoli di coda\n\n\nSCHEDA TECNICA E CAST:\n\n- Titolo Originale: L'Ajo nell'imbarazzo\n- Regia: Giovanni Fusco\n- Sceneggiatura: Jacopo Ferretti, Guido Turchi, Giovanni Giraud\n- Genere: Opera Lirica / Commedia / Opera Buffa / Musicale\n- Qualità Video: Full HD (1080p)\n- Durata: 90 minuti circa\n- Lingua/Sottotitoli: Audio Italiano Originale / Sottotitoli Disponibili\n\nCast Principale:\nPlinio Clabassi\nCecilia Fusco\nTonino Boyer\nManlio Rocchi\n\n\nTAG E PAROLE CHIAVE (SEO):\nl ajo nell imbarazzo film completo, l ajo nell imbarazzo hd, giovanni fusco, plinio clabassi, cecilia fusco, tonino boyer, jacopo ferretti, opera buffa italiana hd, commedia lirica film completo, opera lirica in italiano, film operistico restaurato, musica classica italiana, vedere opera gratis youtube.\n\n\nHASHTAG:\n#LAjoNellImbarazzo #GiovanniFusco #PlinioClabassi #CeciliaFusco #ToninoBoyer #OperaBuffa #OperaLirica #FilmCompleto #FullHD #CinemaItaliano #FreeMovies #WatchNow #FilmAndClips cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: La severa casa del Marchese e l'Ajo"
+        },
+        {
+          "seconds": 705,
+          "label": "Il segreto di Don Enrico e la nascita del bimbo"
+        },
+        {
+          "seconds": 1470,
+          "label": "L'Ajo Don Gregorio viene coinvolto nell'inganno"
+        },
+        {
+          "seconds": 2295,
+          "label": "Primi sospetti, sotterfugi ed equivoci comici"
+        },
+        {
+          "seconds": 3130,
+          "label": "La visita a sorpresa e il panico in casa"
+        },
+        {
+          "seconds": 4000,
+          "label": "La scoperta della verità e il confronto con il Marchese"
+        },
+        {
+          "seconds": 4755,
+          "label": "Il perdono, la gioia e il finale in musica"
+        },
+        {
+          "seconds": 5280,
+          "label": "Titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "qUtH-ME5X0s",
+      "title": "IL TESORO DELLA MONTAGNA ROSSA (1955) 🎬🤠 | WESTERN | Film Completo HD",
+      "publishedAt": "2026-08-28T16:00:02Z",
+      "durationSec": 4187,
+      "thumb": "https://i.ytimg.com/vi/qUtH-ME5X0s/mqdefault.jpg",
+      "description": "🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio Impostazioni (⚙️) in basso a destra del player video per scegliere la tua lingua preferita.\n\n---\n\nAllevatori senza scrupoli, una valle arida in fiamme e il possesso dell'unica fonte d'acqua che vale più dell'oro! 🎬🤠💥 Guarda il film completo \"Il tesoro della montagna rossa\" (1955), un classico e avvincente western americano diretto da Frank McDonald e tratto da un racconto del leggendario maestro della letteratura di frontiera Louis L'Amour. Mettiti comodo e goditi questo grande classico in Alta Definizione (HD 1080p)!\n\n\nLA TRAMA:\n\nNella fertile ma contesa vallata di Ruby Hills, due potenti e spietate fazioni di allevatori si affrontano senza esclusione di colpi per ottenere il controllo assoluto del territorio. La situazione, già sul punto di esplodere in una sanguinosa guerra di frontiera, subisce una svolta imprevista con l'arrivo in città di Ross Haney (Zachary Scott).\n\nHaney porta con sé un segreto decisivo: è riuscito ad acquistare i diritti legali sull'unica fonte d'acqua dolce della regione, senza la quale tutti i pascoli e i ranch della valle sono completamente inutili. Trovandosi al centro del mirino di ambo le fazioni, Haney dovrà usare tutta la sua astucia e abilità con la pistola per sopravvivere agli agguati dei pistoleri prezzolati, difendere la bella Sherry (Carole Mathews) e riportare la legge nella contea.\n\n\nUN GRANDE CLASSICO WESTERN IN HD:\n\nTratto dal racconto \"Ribbon of Fire\" di Louis L'Amour, \"Il tesoro della montagna rossa\" è un classico western hollywoodiano anni '50 caratterizzato da un ritmo incalzante, continui colpi di scena e la presenza di un cast eccezionale che vede affiancati Zachary Scott, Carole Mathews e il celebre caratterista Barton MacLane.\n\n\n👍🥰 Se ti appassionano i grandi classici del western, le storie di frontiera e le sfide tra fuorilegge, lascia un LIKE! Scrivi nei commenti la tua opinione sul film e ISCRIVITI AL CANALE (🔔) per non perdere i nostri prossimi capolavori del cinema d'epoca!\n\n\n⏱️ CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Inizio: Tensione e rivalità nella valle di Ruby Hills (HD 1080p)\n00:10:30 - L'arrivo di Ross Haney e i diritti sull'unica fonte d'acqua\n00:22:15 - Gli allevatori senza scrupoli pianificano l'attacco\n00:34:40 - Trappole, alleanze e l'incontro con la bella Sherry\n00:46:20 - Guerra aperta per il controllo del territorio\n00:58:10 - La resa dei conti finale a Ruby Hills\n01:08:30 - Il trionfo della giustizia e titoli di coda (HD 1080p)\n\n\nSCHEDA TECNICA E CAST:\n\n- Titolo Originale: Treasure of Ruby Hills\n- Titolo Italiano: Il tesoro della montagna rossa (noto anche come: Il tesoro di Ruby Hills)\n- Anno di Uscita: 1955 (Versione Restaurata: 2026)\n- Regia: Frank McDonald\n- Sceneggiatura: Tom Hubbard, Fred Eggers (basato sul racconto di Louis L'Amour)\n- Genere: Western / Azione / Drammatico\n- Qualità Video: High Definition (HD 1080p)\n- Durata: 71 minuti circa\n- Lingua: Audio Italiano / Sottotitoli Disponibili\n\nCast Principale:\nZachary Scott (Ross Haney)\nCarole Mathews (Sherry Loring)\nBarton MacLane (Chalk Reynolds)\nDick Foran (Alan Reynolds)\nLola Albright (May)\nGordon Jones (Jack Reynolds)\n\n\nTAG E PAROLE CHIAVE (SEO):\nil tesoro della montagna rossa film completo, treasure of ruby hills 1955, zachary scott western, frank mcdonald, louis l amour western, western classico in italiano, film di vaqueros e allevatori, cinema western anni 50, film completi gratis youtube, il tesoro di ruby hills hd, western americano restaurato.\n\n\nHASHTAG:\n#IlTesoroDellaMontagnaRossa #ZacharyScott #WesternClassico #LouisLAmour #FilmCompleto #HD1080p #TreasureOfRubyHills #Cinema Western #FilmGratis #WatchNow #FilmAndClips cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: Tensione e rivalità nella valle di Ruby Hills (HD 1080p)"
+        },
+        {
+          "seconds": 630,
+          "label": "L'arrivo di Ross Haney e i diritti sull'unica fonte d'acqua"
+        },
+        {
+          "seconds": 1335,
+          "label": "Gli allevatori senza scrupoli pianificano l'attacco"
+        },
+        {
+          "seconds": 2080,
+          "label": "Trappole, alleanze e l'incontro con la bella Sherry"
+        },
+        {
+          "seconds": 2780,
+          "label": "Guerra aperta per il controllo del territorio"
+        },
+        {
+          "seconds": 3490,
+          "label": "La resa dei conti finale a Ruby Hills"
+        },
+        {
+          "seconds": 4110,
+          "label": "Il trionfo della giustizia e titoli di coda (HD 1080p)"
+        }
+      ]
+    },
+    {
+      "id": "LJYjEPurGmI",
+      "title": "LA CONTESSA DI CASTIGLIONE (1942) 🎬🏛️ | FILM STORICO COMPLETO | Bianco e Nero",
+      "publishedAt": "2026-08-21T16:00:31Z",
+      "durationSec": 5161,
+      "thumb": "https://i.ytimg.com/vi/LJYjEPurGmI/mqdefault.jpg",
+      "description": "La storia affascinante e tormentata di una delle donne più enigmatiche e influenti del Risorgimento italiano! 🎬📜🇮🇹 Guarda il film completo \"La contessa Castiglione\" (1942), un capolavoro del cinema drammatico e storico diretto da Flavio Calzavara e interpretato da una straordinaria Doris Duranti. Riscopri la grande storia d'Italia nella splendida cornice del cinema in Bianco e Nero restaurato in HD (1080p)!\n\n🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio Impostazioni (⚙️) in basso a destra del player video per scegliere la tua lingua preferita.\n\n\nLA TRAMA:\n\nNel 1855, in pieno Risorgimento, la bellissima Virginia Oldoini, Contessa di Castiglione (Doris Duranti), viene inviata a Parigi dal cugino, il Primo Ministro Camillo Benso di Cavour, per una delicatissima missione diplomatica e di spionaggio presso la corte di Napoleone III. Il suo compito è conquistare il favore dell'imperatore francese per sostenere la causa dell'indipendenza italiana.\n\nTuttavia, tra i saloni sfarzosi e le trame di palazzo, Virginia ritrova inaspettatamente un suo antico e mai dimenticato amore (Andrea Checchi), ora diventato un fervente carbonaro mazziniano, recisamente contrario alla politica di accordi di Cavour. Divisa tra il travolgente sentimento del passato e l'incombente dovere patriottico, la Contessa dovrà compiere una scelta dolorosa che segnerà il destino della sua vita e la storia d'Italia.\n\n\nUN GRANDE CLASSICO DEL CINEMA IN BIANCO E NERO IN HD:\n\nDiretto con rigore storico ed eleganza formale da Flavio Calzavara, \"La contessa Castiglione\" è un affascinante ritratto d'epoca che unisce il dramma sentimentale all'intrigo politico. Con un cast d'eccezione che vede affiancati Doris Duranti, Andrea Checchi e Renato Cialente, il film incarna al meglio la magia della settima arte d'altri tempi, ora valorizzata da un attento restauro visivo in alta definizione.\n\n\n👍🥰 Se ami i film storici, le grandi storie d'amore del passato e il fascino intramontabile del cinema in bianco e nero, lascia un LIKE! Scrivi nei commenti le tue impressioni sul film e ISCRIVITI AL CANALE (🔔) per celebrare insieme a noi i capolavori del grande schermo di una volta!\n\n\nCAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Inizio: La missione diplomatica affidata da Cavour (HD 1080p)\n00:11:30 - L'arrivo di Virginia Oldoini alla corte di Napoleone III a Parigi\n00:23:45 - Il ritrovo inaspettato con l'antico amore mazziniano\n00:37:10 - Intrighi di palazzo, messaggi segreti e trame politiche\n00:51:20 - Il tormento di Virginia: L'amore ideale o la patria?\n01:06:15 - Tensione a corte e l'ombra della rivoluzione\n01:19:40 - La scelta finale per la causa dell'indipendenza italiana\n01:28:00 - Crediti di coda (HD 1080p)\n\n\nSCHEDA TECNICA E CAST:\n\nTitolo Originale: La contessa Castiglione\nAnno di Uscita: 1942 (Versione Restaurata: 2026)\nRegia: Flavio Calzavara\nSceneggiatura: Pino Accame, Mario Beltrami, Flavio Calzavara\nGenere: Drammatico / Storico / Biografico / Risorgimento\nQualità Video: High Definition (HD 1080p - Bianco e Nero)\nLingua: Audio Originale Italiano / Sottotitoli Disponibili\n\nCast Principale:\nDoris Duranti (Virginia Oldoini, Contessa di Castiglione)\nAndrea Checchi (Il giovane carbonaro mazziniano)\nRenato Cialente (Camillo Benso, conte di Cavour)\nRoberto Villa\nEnnio Cerlesi\n\n\nTAG E PAROLE CHIAVE (SEO):\nla contessa castiglione film completo, doris duranti, andrea checchi, flavio calzavara, cinema bianco e nero italiano, film storici risorgimento, film anni 40 completi, virginia oldoini contessa di castiglione, cavour e napoleone iii, film d epoca completi, vedere film gratis youtube, film italiani d archivio.\n\n\nHASHTAG:\n#LaContessaCastiglione #DorisDuranti #AndreaChecchi #FilmCompleto #BiancoENero #CinemaItaliano #Risorgimento #FilmStorico #HD1080p #FilmAndClips #CinemaDAltriTempi #WatchNow cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: La missione diplomatica affidata da Cavour (HD 1080p)"
+        },
+        {
+          "seconds": 690,
+          "label": "L'arrivo di Virginia Oldoini alla corte di Napoleone III a Parigi"
+        },
+        {
+          "seconds": 1425,
+          "label": "Il ritrovo inaspettato con l'antico amore mazziniano"
+        },
+        {
+          "seconds": 2230,
+          "label": "Intrighi di palazzo, messaggi segreti e trame politiche"
+        },
+        {
+          "seconds": 3080,
+          "label": "Il tormento di Virginia: L'amore ideale o la patria?"
+        },
+        {
+          "seconds": 3975,
+          "label": "Tensione a corte e l'ombra della rivoluzione"
+        },
+        {
+          "seconds": 4780,
+          "label": "La scelta finale per la causa dell'indipendenza italiana"
+        },
+        {
+          "seconds": 5280,
+          "label": "Crediti di coda (HD 1080p)"
+        }
+      ]
+    },
+    {
+      "id": "_WE-bih__rs",
+      "title": "ATTO DI ACCUSA (1950) 🎬⚖️ | IL DRAMMA NOIR CON MASTROIANNI | Film Completo HD",
+      "publishedAt": "2026-08-14T16:00:23Z",
+      "durationSec": 5413,
+      "thumb": "https://i.ytimg.com/vi/_WE-bih__rs/mqdefault.jpg",
+      "description": "Sospettato di due brutali omicidi, abbandonato da tutti e intrappolato in un incubo senza via d'uscita! 🎬⚖️🖤 Guarda \"Atto di accusa\" (1950), un intenso e coinvolgente dramma noir diretto da Giacomo Gentilomo. Mettiti comodo e goditi uno straordinario e giovane Marcello Mastroianni accanto a Lea Padovani nel film completo e in Alta Definizione (HD 1080p)!\n\n🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona delle Impostazioni (⚙️) in basso a destra del lettore video per scegliere la tua lingua preferita.\n\n\nLA TRAMA:\n\nLa vita di un giovane e sfortunato insegnante viene completamente sconvolta quando si ritrova improvvisamente a essere il principale sospettato di due brutali omicidi. Nonostante si proclami disperatamente innocente, le prove sembrano schiaccianti e la sua reputazione va in frantumi, trascinandolo in una spirale di accuse e isolamento.\n\nLa sua unica ancora di salvezza sembra essere la donna che ama (Lea Padovani), l'unica persona al mondo disposta a credere alla sua versione e ad aiutarlo a smascherare il vero colpevole. Tuttavia, quando anche lei, tormentata dalle circostanze e dalle schiaccianti evidenze che continuano ad accumularsi, inizia a dubitare di lui, per l'uomo ogni speranza sembra perduta.\n\n\nUN GRANDE CLASSICO NOIR DEL CINEMA ITALIANO IN HD:\n\nDiretto con maestria da Giacomo Gentilomo, \"Atto di accusa\" è un vibrante thriller psicologico e giudiziario che esplora la fragilità della verità e la potenza distruttiva del sospetto. La pellicola offre un'interpretazione magistrale di Marcello Mastroianni agli esordi della sua luminosa carriera, affiancato dall'intensa sensibilità recitativa di Lea Padovani.\n\n\n👍🥰 Se ami i thriller psicologici d'epoca, i noir d'autore e i grandi capolavori del cinema italiano, lascia un LIKE! Dicci nei commenti cosa faresti al posto del protagonista e ISCRIVITI AL CANALE attivando la campanella delle notifiche (🔔) per non perderti i prossimi film completi e gratuiti!\n\n\nI CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Introduzione: Un giovane insegnante e la tragedia inattesa\n00:10:15 - Il duplice omicidio e le prime accuse\n00:22:30 - Interrogatori e prove schiaccianti: L'incubo ha inizio\n00:35:40 - L'amore di Lea Padovani e l'ultima speranza\n00:48:20 - Il dubbio si instilla: Anche l'unica alleata vacilla\n01:00:15 - Caccia al vero colpevole tra le ombre della città\n01:12:40 - Il processo e la stretta finale della giustizia\n01:25:20 - Il drammatico epilogo e i titoli di coda (HD 1080p)\n\n\nSCHEDA TECNICA E CREDITI:\n\nTitolo Originale: Atto di accusa\nRegia: Giacomo Gentilomo\nGenere: Noir / Drammatico / Thriller / Giudiziario\nAnno di Uscita: 1950\nQualità Video: High Definition (HD 1080p)\nLingua: Audio Originale in Italiano\n\nCast Principale:\nMarcello Mastroianni\nLea Padovani\nAndrea Checchi\nMarlyn Buferd\n\n\nTAGS E PAROLE CHIAVE (SEO):\natto di accusa film completo, atto di accusa 1950, marcello mastroianni, lea padovani, giacomo gentilomo, film noir italiano completo, cinema italiano anni 50, thriller giudiziario gratis, film drammatici italiani vecchi, film completi gratis in italiano hd.\n\n\nSOCIAL E CANALI UFFICIALI:\n\nFilm&Clips è il tuo canale ufficiale per la visione di film completi, GRATUITI e IN ALTA DEFINIZIONE su YouTube!\n\n- Iscriviti a Film&Clips: http://bit.ly/Subscribetofilmandclips\n- Seguici su Instagram: https://bit.ly/filmandclips_instagram\n\n\n#AttoDiAccusa #MarcelloMastroianni #LeaPadovani #FilmCompleto #HD1080p #CinemaItaliano #Noir #Drammatico #FilmGratis #WatchNow #FilmAndClips cd",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduzione: Un giovane insegnante e la tragedia inattesa"
+        },
+        {
+          "seconds": 615,
+          "label": "Il duplice omicidio e le prime accuse"
+        },
+        {
+          "seconds": 1350,
+          "label": "Interrogatori e prove schiaccianti: L'incubo ha inizio"
+        },
+        {
+          "seconds": 2140,
+          "label": "L'amore di Lea Padovani e l'ultima speranza"
+        },
+        {
+          "seconds": 2900,
+          "label": "Il dubbio si instilla: Anche l'unica alleata vacilla"
+        },
+        {
+          "seconds": 3615,
+          "label": "Caccia al vero colpevole tra le ombre della città"
+        },
+        {
+          "seconds": 4360,
+          "label": "Il processo e la stretta finale della giustizia"
+        },
+        {
+          "seconds": 5120,
+          "label": "Il drammatico epilogo e i titoli di coda (HD 1080p)"
+        }
+      ]
+    },
+    {
+      "id": "nP8pyAGU4mQ",
+      "title": "LE MURA DI MALAPAGA - Film Completo Gratis in HD (1949) | René Clément",
+      "publishedAt": "2026-08-07T16:00:34Z",
+      "durationSec": 4977,
+      "thumb": "https://i.ytimg.com/vi/nP8pyAGU4mQ/mqdefault.jpg",
+      "description": "Un capolavoro senza tempo del cinema franco-italiano premiato con l'Oscar®! 🎬💔 Guarda \"Le mura di Malapaga\" (1949), uno struggente e indimenticabile dramma diretto dal maestro René Clément. Mettiti comodo e goditi le leggendarie interpretazioni di Jean Gabin e Isa Miranda nel film completo e in Alta Definizione (HD 1080p)!\n\n🌍 SOTTOTITOLI MULTIPLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona delle Impostazioni (⚙️) in basso a destra del lettore video per scegliere la tua lingua preferita.\n\n\nLA TRAMA:\n\nPierre (Jean Gabin), un fuggitivo francese ricercato per l'omicidio dell'amante, sbarca clandestinamente a Genova nel tentativo di sfuggire alla giustizia e dimenticare il proprio passato.\n\nTormentato dai dolori e costretto a cercare un dentista, imbatte in Marta (Isa Miranda), una cameriera segnata da una vita difficile, e in sua figlia Cecchina (Vera Talchi). Tra Pierre e Marta nasce un sentimento profondo, intenso e disperato, una seconda occasione di felicità che entrambi credevano perduta. Tuttavia, la loro speranza di un futuro insieme è costantemente minacciata dalla gelosia dell'ex marito di Marta e dall'inesorabile morsa della polizia che stringe il cerchio attorno a Pierre, conducendo la storia verso un tragico e inevitabile epilogo.\n\n\nUN PIETRA MILIARE DEL CINEMA D'AUTORE IN HD:\n\nVincitore del Premio Oscar® come Miglior Film Straniero e del Premio per la Miglior Regia al Festival di Cannes, \"Le mura di Malapaga\" è un capolavoro assoluto che fonde con maestria il Neorealismo italiano e il Realismo poetico francese. Sullo sfondo di una Genova ancora ferita dalla guerra, le prove recitative di Jean Gabin e di Isa Miranda (premiata a Cannes come miglior attrice) regalano un'intensità emotiva rara e indimenticabile.\n\n\n👍🥰 Se ami il cinema classico d'autore, le grandi storie d'amore drammatiche e i capolavori della storia del cinema, lascia un LIKE! Dicci nei commenti cosa ti ha colpito di più di questa storia e ISCRIVITI AL CANALE attivando la campanella delle notifiche (🔔) per non perderti i prossimi capolavori gratuiti!\n\n\nI CAPITOLI DEL FILM (TIMESTAMPS):\n\n00:00:00 - Introduzione: Lo sbarco clandestino a Genova\n00:11:30 - L'incontro alla trattoria: Pierre conosce Marta\n00:24:15 - Una fragile felicità tra le rovine della città\n00:37:40 - Il sospetto di Cecchina e le gelosie dell'ex marito\n00:51:10 - La confessione e il legame che si rafforza\n01:04:25 - L'ombra della polizia si avvicina\n01:16:50 - Il tragico ed inevitabile destino finale\n01:28:00 - Epilogo e titoli di coda (HD 1080p)\n\n\nSCHEDA TECNICA E CREDITI:\n\nTitolo Originale: Le mura di Malapaga (Au-delà des grilles)\nRegia: René Clément\nSceneggiatura: Jean Aurenche, Pierre Bost, Cesare Zavattini, Suso Cecchi D'Amico\nGenere: Drammatico / Neorealismo / Romano / Noir\nAnno di Uscita: 1949\nQualità Video: High Definition (HD 1080p)\nLingua: Audio Originale con Sottotitoli Multilingua\n\nCast Principale:\nJean Gabin (Pierre)\nIsa Miranda (Marta)\nVera Talchi (Cecchina)\nAndrea Checchi\nRobert Dalban\n\n\nTAGS E PAROLE CHIAVE (SEO):\nle mura di malapaga film completo, le mura di malapaga 1949, jean gabin, isa miranda, rene clement, film premio oscar completo, neorealismo italiano film completo, cinema francese e italiano, genova film neorealismo, film drammatici vecchi gratis, film completi gratis in italiano hd.\n\n\nSOCIAL E CANALI UFFICIALI:\n\nFilm&Clips è il tuo canale ufficiale per la visione di film completi, GRATUITI e IN ALTA DEFINIZIONE su YouTube!\n\n- Iscriviti a Film&Clips: http://bit.ly/Subscribetofilmandclips\n- Seguici su Instagram: https://bit.ly/filmandclips_instagram\n\n\n#LeMuraDiMalapaga #JeanGabin #IsaMiranda #ReneClement #FilmCompleto #HD1080p #PremioOscar #CinemaItaliano #Neorealismo #FilmGratis #WatchNow #FilmAndClips",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduzione: Lo sbarco clandestino a Genova"
+        },
+        {
+          "seconds": 690,
+          "label": "L'incontro alla trattoria: Pierre conosce Marta"
+        },
+        {
+          "seconds": 1455,
+          "label": "Una fragile felicità tra le rovine della città"
+        },
+        {
+          "seconds": 2260,
+          "label": "Il sospetto di Cecchina e le gelosie dell'ex marito"
+        },
+        {
+          "seconds": 3070,
+          "label": "La confessione e il legame che si rafforza"
+        },
+        {
+          "seconds": 3865,
+          "label": "L'ombra della polizia si avvicina"
+        },
+        {
+          "seconds": 4610,
+          "label": "Il tragico ed inevitabile destino finale"
+        },
+        {
+          "seconds": 5280,
+          "label": "Epilogo e titoli di coda (HD 1080p)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UC81Zj2wx5458uUgSK84oahw",
+  "title": "Film&Clips Azione",
+  "thumb": "https://yt3.ggpht.com/AZXIlu8fgykzIydw8ZwDrGYGVd437xlNL6GfmN3SkhsCTknvAu-BelAqq8PVhFB4S-Q--aWTkw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 40,
+  "distinctSourceCount": 40,
+  "hop": 1,
+  "uploadsPerDay": 0.45,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.028Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.236Z"
+    },
+    {
+      "id": "channel:UCEfesrIevLSToyw0U6v7gQw",
+      "type": "channel",
+      "label": "Top Thriller in Italiano",
+      "url": "https://www.youtube.com/channel/UCEfesrIevLSToyw0U6v7gQw",
+      "firstSeenAt": "2026-10-02T12:30:38.481Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.641Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.781Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.882Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.060Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.182Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.233Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.342Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.552Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.680Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.735Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.788Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.038Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.335Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.404Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.456Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.588Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.741Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.857Z"
+    },
+    {
+      "id": "channel:UCqfZ6hsLx_VhGZGB4_8wimg",
+      "type": "channel",
+      "label": "Bizzarro Dark Side",
+      "url": "https://www.youtube.com/channel/UCqfZ6hsLx_VhGZGB4_8wimg",
+      "firstSeenAt": "2026-10-02T12:30:40.973Z"
+    },
+    {
+      "id": "channel:UC6phmoJYS81YCkiUdKZ-p2w",
+      "type": "channel",
+      "label": "Cineindo Film Gratis",
+      "url": "https://www.youtube.com/channel/UC6phmoJYS81YCkiUdKZ-p2w",
+      "firstSeenAt": "2026-10-02T12:30:41.025Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.073Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.139Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.321Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.380Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.430Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.778Z"
+    },
+    {
+      "id": "channel:UCAfXQ_YeB7krOEl5vYycnkQ",
+      "type": "channel",
+      "label": "Film Western in Italiano",
+      "url": "https://www.youtube.com/channel/UCAfXQ_YeB7krOEl5vYycnkQ",
+      "firstSeenAt": "2026-10-02T12:30:41.959Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.057Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.109Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.255Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.375Z"
+    },
+    {
+      "id": "channel:UCtrXebUN5dubj6M-q3deEng",
+      "type": "channel",
+      "label": "Film&Clips Documentary",
+      "url": "https://www.youtube.com/channel/UCtrXebUN5dubj6M-q3deEng",
+      "firstSeenAt": "2026-10-02T12:30:42.428Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.473Z"
+    },
+    {
+      "id": "channel:UChdp4YlG64mqKGqpZ9LEpzA",
+      "type": "channel",
+      "label": "Film&Clips Kidz",
+      "url": "https://www.youtube.com/channel/UChdp4YlG64mqKGqpZ9LEpzA",
+      "firstSeenAt": "2026-10-02T12:30:42.617Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.683Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.734Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.782Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "9utNM-unjic",
+      "title": "Indagini pericolose | Film Completo HD 1080p Thriller Psicologico | Roy Scheider",
+      "publishedAt": "2026-10-01T15:30:12Z",
+      "durationSec": 5200,
+      "thumb": "https://i.ytimg.com/vi/9utNM-unjic/mqdefault.jpg",
+      "description": "Un uomo incastrato, una rete di bugie e un fratello gemello tornato dall'inferno per regolare i conti! Guarda il film completo \"Indagini pericolose\" (titolo originale su IMDb: Bonds of Death / Indagini pericolose), un tesissimo e intricato thriller psicologico scritto e diretto da Paul Cade, con il leggendario Roy Scheider, Dana Ashbrook e Kelly Rutherford, restaurato in alta definizione HD 1080p!\n\nQuando un uomo viene accusato di un brutale omicidio che non ha commesso, la sua vita precipita in un incubo. Incastrato da figure potenti, sembra non avere via di scampo. Ma i suoi aguzzini ignorano che il suo fratello gemello, ritenuto morto dopo un brutale attentato, è in realtà vivo e trama una spietata vendetta nell'ombra. Tra identità scambiate, indizi pericolosi e colpi di scena, inizia una resa dei conti mortale.\n\n👉 ISCRIVITI AL CANALE e attiva la campanella delle notifiche (🔔) per non perderti i nostri rilasci giornalieri di film completi gratuiti in HD!\n\n- Titolo Originale: Bonds of Death (Indagini pericolose)\n- Regia: Paul Cade\n- Sceneggiatura: Paul Cade\n- Cast Principale: Dana Ashbrook | Kelly Rutherford | Roy Scheider\n- Genere: Thriller / Giallo / Noir / Azione\n\n---\n\n00:00:00 - Inizio del Film: L'Inizio dell'Incubo e l'Accusa di Omicidio HD\n00:11:15 - Nella Rete dell'Inganno: Manipolazioni e Sospetti scena\n00:23:30 - Il Mistero Svelato: Il Gemello nell'Ombra è Vivo video\n00:35:45 - Trame di Vendetta: Il Piano Segreto Prende Forma momento\n00:48:20 - Alleanze Pericolose e Identità Scambiate storia\n01:02:15 - Braccato dalla Legge e dai Complottisti azione\n01:14:30 - La Resa dei Conti: Fratello Contro Assassini duello\n01:25:40 - Il Colpo di Scena Finale e la Verità Svelata confrontation\n01:32:00 - Epilogo e Titoli di Coda wrap\n\n---\n\nGuarda il film completo \"Indagini pericolose\", un avvincente thriller psicologico e noir diretto da Paul Cade, con Roy Scheider, Dana Ashbrook e Kelly Rutherford. Se cerchi film completi gratuiti in italiano in HD 1080p, storie di vendetta e gemelli segreti, thriller d'azione e grandi classici del cinema giallo, questo canale offre il meglio dell'intrattenimento in modo legale e gratuito.\n\n#IndaginiPericolose #RoyScheider #FilmCompleto #ThrillerHD AG",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio del Film: L'Inizio dell'Incubo e l'Accusa di Omicidio HD"
+        },
+        {
+          "seconds": 675,
+          "label": "Nella Rete dell'Inganno: Manipolazioni e Sospetti scena"
+        },
+        {
+          "seconds": 1410,
+          "label": "Il Mistero Svelato: Il Gemello nell'Ombra è Vivo video"
+        },
+        {
+          "seconds": 2145,
+          "label": "Trame di Vendetta: Il Piano Segreto Prende Forma momento"
+        },
+        {
+          "seconds": 2900,
+          "label": "Alleanze Pericolose e Identità Scambiate storia"
+        },
+        {
+          "seconds": 3735,
+          "label": "Braccato dalla Legge e dai Complottisti azione"
+        },
+        {
+          "seconds": 4470,
+          "label": "La Resa dei Conti: Fratello Contro Assassini duello"
+        },
+        {
+          "seconds": 5140,
+          "label": "Il Colpo di Scena Finale e la Verità Svelata confrontation"
+        },
+        {
+          "seconds": 5520,
+          "label": "Epilogo e Titoli di Coda wrap"
+        }
+      ]
+    },
+    {
+      "id": "r7dRz4XCflc",
+      "title": "Cjamango | Film Completo HD 1080p Spaghetti Western | Ivan Rassimov",
+      "publishedAt": "2026-09-28T15:30:23Z",
+      "durationSec": 5147,
+      "thumb": "https://i.ytimg.com/vi/r7dRz4XCflc/mqdefault.jpg",
+      "description": "Una partita a poker ad alto rischio, un'imboscata mortale e una spietata sete di vendetta nel selvaggio West! Guarda il film completo \"Cjamango\" (titolo originale su IMDb: Cjamango, 1967), il classico spaghetti western diretto da Edoardo Mulargia con Ivan Rassimov, Mickey Hargitay e Hélène Chanel, restaurato in alta definizione HD 1080p!\n\nDopo aver vinto un'enorme fortuna in oro a poker, il solitario pistolero Cjamango viene tradito, derubato e lasciato in fin di vita da due bande rivali guidate da El Tigre e Don Pablo. Aiutato dal giovane Manuel e dalla coraggiosa Perla, Cjamango decide di non fuggire. Mettendo le due fazioni l'una contro l'altra, scatena il caos per riprendersi l'oro e compiere la sua implacabile vendetta.\n\n👉 ISCRIVITI AL CANALE e attiva la campanella (🔔) per non perderti i nostri lanci quotidiani di film completi gratuiti in HD!\n\n- Titolo Originale: Cjamango\n- Anno di Uscita: 1967\n- Regia: Edoardo Mulargia\n- Cast Principale: Ivan Rassimov | Mickey Hargitay | Hélène Chanel | Livio Lorenzon\n- Genere: Western / Spaghetti Western / Azione\n\n---\n\n00:00:00 - Inizio: La partita a poker ad alto rischio e l'oro vinto HD\n00:12:30 - L'imboscata spietata e il tradimento di El Tigre e Don Pablo scena\n00:25:15 - Cjamango sopravvive: Il soccorso di Manuel e Perla video\n00:38:40 - La strategia del pistolero: Manipolare le bande rivali momento\n00:52:10 - Fuoco incrociato e tensione al confine storia\n01:05:20 - Caccia all'oro tra sparatorie e inganni azione\n01:18:45 - La resa dei conti finale per la giustizia di frontiera duello\n01:28:15 - Titoli di coda fine\n\n---\n\nGuarda il film completo \"Cjamango\" (1967), un avvincente spaghetti western diretto da Edoardo Mulargia con Ivan Rassimov, Mickey Hargitay e Hélène Chanel. Se stai cercando film completi gratuiti in italiano in HD 1080p, classici western d'azione, storie di vendetta e duelli all'ultimo sangue, questo canale offre il meglio del cinema di genere legalmente e gratuitamente.\n\n#Cjamango #IvanRassimov #FilmCompleto #SpaghettiWestern ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: La partita a poker ad alto rischio e l'oro vinto HD"
+        },
+        {
+          "seconds": 750,
+          "label": "L'imboscata spietata e il tradimento di El Tigre e Don Pablo scena"
+        },
+        {
+          "seconds": 1515,
+          "label": "Cjamango sopravvive: Il soccorso di Manuel e Perla video"
+        },
+        {
+          "seconds": 2320,
+          "label": "La strategia del pistolero: Manipolare le bande rivali momento"
+        },
+        {
+          "seconds": 3130,
+          "label": "Fuoco incrociato e tensione al confine storia"
+        },
+        {
+          "seconds": 3920,
+          "label": "Caccia all'oro tra sparatorie e inganni azione"
+        },
+        {
+          "seconds": 4725,
+          "label": "La resa dei conti finale per la giustizia di frontiera duello"
+        },
+        {
+          "seconds": 5295,
+          "label": "Titoli di coda fine"
+        }
+      ]
+    },
+    {
+      "id": "mIPsi2ozb6g",
+      "title": "Manhunt | Film Completo HD 1080p Azione Thriller | John Woo",
+      "publishedAt": "2026-09-26T19:00:15Z",
+      "durationSec": 6571,
+      "thumb": "https://i.ytimg.com/vi/mIPsi2ozb6g/mqdefault.jpg",
+      "description": "Cacce all'uomo mozzafiato, cospirazioni aziendali e l'inconfondibile azione coreografica di John Woo! Guarda il film completo \"Manhunt\" (titolo originale su IMDb: Manhunt, 2017), lo spettacolare thriller d'azione diretto dal maestro John Woo con Hanyu Zhang, Masaharu Fukuyama, Stephy Qi e Jun Kunimura, restaurato in alta definizione HD 1080p!\n\nDu Qiu, un stimato avvocato di una multinazionale farmaceutica, si risveglia accanto a un cadavere e viene incastrato per omicidio. In fuga per dimostrare la propria innocenza, viene inseguito dall'intuitivo detective Satoshi Yamura. Tra le strade di Osaka, i due scopriranno che dietro l'accusa si cela un'oscura cospirazione e dovranno unire le forze per sopravvivere ai spietati sicari.\n\n👉 ISCRIVITI AL CANALE e attiva la campanella (🔔) per non perderti i nostri lanci quotidiani di film completi gratuiti in HD!\n\n- Titolo Originale: Manhunt\n- Anno di Uscita: 2017\n- Regia: John Woo\n- Cast Principale: Hanyu Zhang | Masaharu Fukuyama | Stephy Qi | Jun Kunimura\n- Genere: Azione / Thriller / Poliziesco\n\n---\n\n00:00:00 - Inizio: L'omicidio e l'accusa contro Du Qiu HD\n00:15:30 - La fuga: Il detective Yamura entra in scena scena\n00:30:15 - Indagini parallele: Sospetti sulla multinazionale video\n00:45:10 - Scontro a Osaka: Azione esplosiva in stile John Woo momento\n00:58:55 - Un'alleanza inaspettata: Du Qiu e Yamura uniscono le forze storia\n01:12:45 - Attacco alla villa: La battaglia dei sicari azione\n01:28:30 - Verità finale: Il segreto del laboratorio farmaceutico duello\n01:40:00 - Conclusione e Crediti fine\n\n---\n\nGuarda il film completo \"Manhunt\" (2017), uno spettacolare thriller poliziesco d'azione diretto da John Woo con Hanyu Zhang e Masaharu Fukuyama. Se stai cercando film completi gratuiti in italiano in HD 1080p, cinema d'azione asiatico, sparatorie coreografate e storie di incastri e cospirazioni, questo canale offre intrattenimento di qualità legalmente e gratuitamente.\n\n#Manhunt #JohnWoo #FilmCompleto #AzioneThriller ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: L'omicidio e l'accusa contro Du Qiu HD"
+        },
+        {
+          "seconds": 930,
+          "label": "La fuga: Il detective Yamura entra in scena scena"
+        },
+        {
+          "seconds": 1815,
+          "label": "Indagini parallele: Sospetti sulla multinazionale video"
+        },
+        {
+          "seconds": 2710,
+          "label": "Scontro a Osaka: Azione esplosiva in stile John Woo momento"
+        },
+        {
+          "seconds": 3535,
+          "label": "Un'alleanza inaspettata: Du Qiu e Yamura uniscono le forze storia"
+        },
+        {
+          "seconds": 4365,
+          "label": "Attacco alla villa: La battaglia dei sicari azione"
+        },
+        {
+          "seconds": 5310,
+          "label": "Verità finale: Il segreto del laboratorio farmaceutico duello"
+        },
+        {
+          "seconds": 6000,
+          "label": "Conclusione e Crediti fine"
+        }
+      ]
+    },
+    {
+      "id": "TGd_I7r_WBM",
+      "title": "Testa o croce | Film Completo HD 1080p Spaghetti Western | Edwige Fenech",
+      "publishedAt": "2026-09-24T16:30:33Z",
+      "durationSec": 5720,
+      "thumb": "https://i.ytimg.com/vi/TGd_I7r_WBM/mqdefault.jpg",
+      "description": "Un fuorilegge in cerca di redenzione, segreti mortali e una cupa contaminazione tra western e giallo! Guarda il film completo \"Testa o croce\" (titolo originale su IMDb: Testa o croce, 1969), l'insolito spaghetti western diretto da Piero Pierotti con John Ericson, Spela Rozin ed Edwige Fenech, restaurato in alta definizione HD 1080p!\n\nUn fuorilegge dal passato oscuro trova la via della redenzione salvando una ballerina di saloon umiliata, che si innamora di lui. La loro storia d'amore si intreccia con quella della perfida vedova Sybille, custode di segreti mortali. In un West cupo e spietato, mistero, violenza e inganni spingono i protagonisti verso sentieri inaspettati dove nessuno è davvero innocente.\n\n👉 ISCRIVITI AL CANALE e attiva la campanella (🔔) per non perderti i nostri lanci quotidiani di film completi gratuiti in HD!\n\n- Titolo Originale: Testa o croce\n- Anno di Uscita: 1969\n- Regia: Piero Pierotti\n- Cast Principale: John Ericson | Spela Rozin | Edwige Fenech\n- Genere: Western / Giallo / Drammatico\n\n---\n\n00:00:00 - Inizio: L'oscura vita della frontiera HD\n00:11:45 - Il salvataggio della ballerina di saloon scena\n00:24:30 - L'umiliazione e la violenza dei bigotti del paese video\n00:38:15 - L'arrivo della vedova Sybille e i segreti mortali momento\n00:52:10 - Intrecci di passione, perversione e pericolo storia\n01:06:40 - L'ombra del mistero e l'escalation gialla azione\n01:19:15 - La resa dei conti e la via della redenzione duello\n01:28:00 - Titoli di coda fine\n\n---\n\nGuarda il film completo \"Testa o croce\" (1969), un originale spaghetti western tinto di giallo diretto da Piero Pierotti con John Ericson, Spela Rozin ed Edwige Fenech. Se stai cercando film completi gratuiti in italiano in HD 1080p, classici del cinema di genere anni '60 e cupe storie di frontiera, questo canale offre intrattenimento di qualità legalmente e gratuitamente.\n\n#TestaOCroce #EdwigeFenech #FilmCompleto #SpaghettiWestern ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: L'oscura vita della frontiera HD"
+        },
+        {
+          "seconds": 705,
+          "label": "Il salvataggio della ballerina di saloon scena"
+        },
+        {
+          "seconds": 1470,
+          "label": "L'umiliazione e la violenza dei bigotti del paese video"
+        },
+        {
+          "seconds": 2295,
+          "label": "L'arrivo della vedova Sybille e i segreti mortali momento"
+        },
+        {
+          "seconds": 3130,
+          "label": "Intrecci di passione, perversione e pericolo storia"
+        },
+        {
+          "seconds": 4000,
+          "label": "L'ombra del mistero e l'escalation gialla azione"
+        },
+        {
+          "seconds": 4755,
+          "label": "La resa dei conti e la via della redenzione duello"
+        },
+        {
+          "seconds": 5280,
+          "label": "Titoli di coda fine"
+        }
+      ]
+    },
+    {
+      "id": "z0nLfUMWRDI",
+      "title": "Segreto professionale | Film Completo HD 1080p Thriller Giallo | Dina Meyer",
+      "publishedAt": "2026-09-22T15:00:19Z",
+      "durationSec": 5272,
+      "thumb": "https://i.ytimg.com/vi/z0nLfUMWRDI/mqdefault.jpg",
+      "description": "Un'ossessione implacabile, un legame di sangue spezzato e una fitta rete di corruzione! Guarda il film completo \"Segreto professionale\" (titolo originale su IMDb: Segreto professionale, 2023), un elettrizzante thriller investigativo diretto da Fiona Mackenzie con Dina Meyer, Dylan Walsh e Michele Hicks, restaurato in alta definizione HD 1080p!\n\nQuando la morte improvvisa di un atleta di fama mondiale viene frettolosamente archiviata come un incidente, il fratello Cole Chamberlain, detective dal forte senso morale, rifiuta la versione ufficiale. Convinto che si tratti di un omicidio per coprire sporchi segreti aziendali, avvia un'indagine privata. L'ossessione per la verità gli costerà il distintivo, ma privo di vincoli istituzionali, nulla lo fermerà dal fare giustizia.\n\n👉 ISCRIVITI AL CANALE e attiva la campanella (🔔) per non perderti i nostri lanci quotidiani di film completi gratuiti in HD!\n\n- Titolo Originale: Segreto professionale\n- Anno di Uscita: 2023\n- Regia: Fiona Mackenzie\n- Cast Principale: Dina Meyer | Dylan Walsh | Michele Hicks\n- Genere: Thriller / Giallo / Investigativo\n\n---\n\n00:00:00 - Inizio: Il tragico destino di un campione HD\n00:15:30 - Cole Chamberlain e i primi dubbi sull'indagine ufficiale scena\n00:32:45 - Sospetti e segreti professionali: La pista aziendale video\n00:48:20 - Punto di rottura: L'espulsione dalla polizia e la perdita del distintivo momento\n01:05:10 - Oltre la legge: Un'indagine solitaria e ad alto rischio storia\n01:22:45 - La verità nascosta dietro il caso del fratello azione\n01:40:00 - La resa dei conti finale, epilogo e titoli di coda chiusura\n\n---\n\nGuarda il film completo \"Segreto professionale\" (2023), un avvincente thriller investigativo diretto da Fiona Mackenzie con Dina Meyer e Dylan Walsh. Se stai cercando film completi gratuiti in italiano in HD 1080p, storie di detective solitari, gialli ricchi di suspense e complotti aziendali, questo canale offre intrattenimento di qualità legalmente e gratuitamente.\n\n#SegretoProfessionale #DinaMeyer #FilmCompleto #ThrillerInvestigativo ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: Il tragico destino di un campione HD"
+        },
+        {
+          "seconds": 930,
+          "label": "Cole Chamberlain e i primi dubbi sull'indagine ufficiale scena"
+        },
+        {
+          "seconds": 1965,
+          "label": "Sospetti e segreti professionali: La pista aziendale video"
+        },
+        {
+          "seconds": 2900,
+          "label": "Punto di rottura: L'espulsione dalla polizia e la perdita del distintivo momento"
+        },
+        {
+          "seconds": 3910,
+          "label": "Oltre la legge: Un'indagine solitaria e ad alto rischio storia"
+        },
+        {
+          "seconds": 4965,
+          "label": "La verità nascosta dietro il caso del fratello azione"
+        },
+        {
+          "seconds": 6000,
+          "label": "La resa dei conti finale, epilogo e titoli di coda chiusura"
+        }
+      ]
+    },
+    {
+      "id": "lAkR69rLXKU",
+      "title": "Bianco Apache | Film Completo HD 1080p Spaghetti Western | Sebastian Harrison",
+      "publishedAt": "2026-09-20T13:30:13Z",
+      "durationSec": 5679,
+      "thumb": "https://i.ytimg.com/vi/lAkR69rLXKU/mqdefault.jpg",
+      "description": "🌍 MOLTI SOTTOTITOLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio delle Impostazioni (⚙️) in basso a destra nel lettore video per scegliere la tua lingua preferita.\n\n---\n\nCresciuto come un nativo americano, rifiutato dai pionieri bianchi e braccato da due mondi in guerra! Preparati a un intenso ed emozionante spaghetti western. Guarda il film completo \"Bianco Apache\" (titolo originale su IMDb: Bianco Apache | titolo internazionale: Apache Kid, 1986), una drammatica avventura di frontierismo diretta dai maestri del cinema di genere Claudio Fragasso e Bruno Mattei. Interpretato da Sebastian Harrison affiancato da Lola Forner e Charles Borromel, questo celebre cult arriva sul nostro canale completamente restaurato in alta definizione HD 1080p!\n\nNel Vecchio West, il saggio capo di una tribù pellerossa salva e accoglie un bambino bianco rimasto orfano, decidendo di crescerlo come suo figlio. Il ragazzo, ribattezzato Cielo Splendente (Sebastian Harrison), viene educato secondo le nobili tradizioni dei nativi americani, diventando un abile e valoroso guerriero. Tuttavia, la sua presenza all'interno della tribù suscita ostilità, sospetti e gelosie sempre più insostenibili, che culminano con una dolorosa espulsione dal villaggio. Costretto a vagare alla ricerca delle proprie radici, Cielo Splendente cerca disperatamente di integrarsi nella civiltà dei pionieri bianchi. Ma anche qui il suo destino è segnato: considerato ormai un mezzo apache, andrà incontro a un'escalation di violenza, razzismo e brutali soprusi. Solitario ed emarginato, dovrà combattere con tutte le sue forze per rivendicare la propria dignità.\n\n👉 ISCRIVITI AL CANALE e clicca sulla campanella delle notifiche (🔔) per non perderti i nostri lanci quotidiani di film completi di faroeste, spaghetti western classici, avventure drammatiche e cult del cinema italiano restaurati in HD gratuitamente!\n\n- Titolo in Italiano: Bianco Apache (Titolo Originale su IMDb: Bianco Apache | Titolo Internazionale: Apache Kid)\n- Anno di Uscita: 1986 (Versione Remastered: 2026)\n- Regia: Claudio Fragasso | Bruno Mattei\n- Sceneggiatura: José María Gullón | Bruno Mattei\n- Colonna Sonora Originale: Luigi Ceccarelli\n- Studio di Produzione: Filmirage / Spectacular Film / Film and Clips Classics\n- Cast Principale: Sebastian Harrison (Cielo Splendente / Shining Sky) | Lola Forner (Rising Sun) | Charles Borromel (Crazy Bull) | Alberto Farnese | Charly Bravo | Cinzia De Ponti\n- Genere: Western / Drammatico / Spaghetti Western / Avventura\n- Qualità Video: High Definition (HD 1080p - Versione Remastered)\n- Durata: Circa 98 minuti\n- Lingua: Audio in Italiano / Molti Sottotitoli Disponibili\n\n---\n00:00:00 - Inizio del film: L'attacco al convoglio e il salvataggio del bambino in HD\n00:12:45 - Crescere tra gli Apache: L'addestramento di Cielo Splendente scena\n00:26:10 - Gelosie nel Villaggio: La rottura con la tribù nativa video\n00:39:35 - L'Inizio dell'Esilio: Cielo Splendente lascia la tribù momento\n00:52:50 - L'Incontro con i Bianchi: Razzismo, pregiudizi e violenza storia\n01:06:15 - Amore e Vendetta: L'alleanza con Rising Sun azione\n01:19:40 - Lo Scontro Finale: Cielo Splendente lotta per la sua vita duello\n01:31:00 - Epilogo drammatico e titoli di coda chiusura\n\n---\nGuarda il film completo \"Bianco Apache\" (1986), un appassionante spaghetti western drammatico diretto da Claudio Fragasso e Bruno Mattei, con Sebastian Harrison e Lola Forner. Se stai cercando film completi gratuiti di faroeste in italiano in HD 1080p, storie di nativi americani e scontro tra culture, e i più grandi classici cult del cinema western italiano restaurati legalmente e gratuitamente, questo canale offre il meglio dell'intrattenimento.\n\n#BiancoApache #ApacheKid #SebastianHarrison #LolaForner #ClaudioFragasso #BrunoMattei #SpaghettiWestern #WesternDrammatico #FilmCompleto #HD #HD1080p #FilmGratis #FilmInItaliano ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio del film: L'attacco al convoglio e il salvataggio del bambino in HD"
+        },
+        {
+          "seconds": 765,
+          "label": "Crescere tra gli Apache: L'addestramento di Cielo Splendente scena"
+        },
+        {
+          "seconds": 1570,
+          "label": "Gelosie nel Villaggio: La rottura con la tribù nativa video"
+        },
+        {
+          "seconds": 2375,
+          "label": "L'Inizio dell'Esilio: Cielo Splendente lascia la tribù momento"
+        },
+        {
+          "seconds": 3170,
+          "label": "L'Incontro con i Bianchi: Razzismo, pregiudizi e violenza storia"
+        },
+        {
+          "seconds": 3975,
+          "label": "Amore e Vendetta: L'alleanza con Rising Sun azione"
+        },
+        {
+          "seconds": 4780,
+          "label": "Lo Scontro Finale: Cielo Splendente lotta per la sua vita duello"
+        },
+        {
+          "seconds": 5460,
+          "label": "Epilogo drammatico e titoli di coda chiusura"
+        }
+      ]
+    },
+    {
+      "id": "eZOaHyAVbgM",
+      "title": "Fatal Secrets | Film Completo 4K Ultra HD Thriller | Dina Meyer",
+      "publishedAt": "2026-09-18T17:30:18Z",
+      "durationSec": 5262,
+      "thumb": "https://i.ytimg.com/vi/eZOaHyAVbgM/mqdefault.jpg",
+      "description": "🌍 MOLTI SOTTOTITOLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio delle Impostazioni (⚙️) in basso a destra nel lettore video per scegliere la tua lingua preferita.\n\n---\n\nFino a che punto ti spingeresti per proteggere te stessa e le persone che ami? Preparati a un gioco ad alta tensione fatto di seduzione, ricatti e vendetta. Guarda il film completo \"Fatal Secrets\" (titolo originale su IMDb: Fatal Secrets, 2009), un avvincente thriller psicologico diretto da Meir Sharony. Con la star di Starship Troopers Dina Meyer affiancata da Vincent Spano, Lela Rochon e la leggenda di Ghostbusters Ernie Hudson, questa storia ricca di suspense arriva sul nostro canale completamente restaurata in uno spettacolare 4K Ultra HD (2160p)!\n\nLa vita di Julia (Dina Meyer) si trasforma in un oscuro incubo quando incrocia il cammino di un uomo estremamente affascinante (Vincent Spano) che nasconde un passato torbido e pericoloso. Quello che comincia come un raffinato gioco di seduzione si trasforma presto in un tormento psicologico che spinge Julia oltre ogni limite. Rifiutandosi di fare la vittima, Julia chiede aiuto alle sue due migliori amiche (Lela Rochon e Lea Thompson) per affrontarlo. Tuttavia, il confronto sfugge rapidamente al controllo sfociando in una spirale di violenza, ricatti e segreti inconfessabili. In un mondo in cui nessuno è chi dice di essere, Julia dovrà lottare per la propria sopravvivenza.\n\n👉 ISCRIVITI AL CANALE e clicca sulla campanella delle notifiche (🔔) per non perderti i nostri lanci quotidiani di film completi thriller, drammi psicologici, storie di vendetta e grandi classici restaurati in 4K Ultra HD gratuitamente!\n\n- Titolo in Italiano: Fatal Secrets (Titolo Originale su IMDb: Fatal Secrets | Titolo Internazionale: Fatal Secrets)\n- Anno di Uscita: 2009 (Versione Remastered: 2026)\n- Regia: Meir Sharony\n- Sceneggiatura: Kathy Cotter\n- Colonna Sonora Originale: Geoff Levin\n- Studio di Produzione: Capital Arts Entertainment / Film and Clips Classics\n- Cast Principale: Dina Meyer (Julia) | Vincent Spano (Scott) | Lela Rochon (Fabienne) | Ernie Hudson (Detective Shaw) | Lea Thompson (Rebecca) | Ed Begley Jr.\n- Genere: Thriller / Drammatico / Thriller Psicologico / Suspense / Crime\n- Qualità Video: 4K Ultra HD (2160p - Versione Remastered)\n- Durata: Circa 89 minuti\n- Lingua: Audio Originale con Molti Sottotitoli Disponibili (Incluso Italiano)\n\n00:00:00 - Inizio del film: Julia incontra l'affascinante sconosciuto in 4K UHD\n00:11:30 - Seduzione Pericolosa: Il gioco si trasforma in un incubo scena\n00:23:45 - Spinta al Limite: Julia rifiuta di essere una vittima video\n00:36:10 - Il Piano di Vendetta: L'aiuto delle migliori amiche momento\n00:49:20 - Il Confronto Sfugge di Mano: Incidente e panico storia\n01:02:15 - Ricatti e Inganni: Segreti che riaffiorano azione\n01:15:40 - Spirale di Violenza: L'intervento del Detective Shaw confronto\n01:25:00 - Finale Scioccante e titoli di coda chiusura\n\n\nGuarda il film completo \"Fatal Secrets\" (2009), un avvincente thriller psicologico e drammatico interpretato da Dina Meyer, Vincent Spano ed Ernie Hudson. Se stai cercando film completi gratuiti in italiano in 4K Ultra HD, storie di vendetta al femminile, giochi psicologici e thriller indipendenti restaurati legalmente e gratuitamente, questo canale offre il meglio dell'intrattenimento digitale.\n\n#FatalSecrets #FatalSecrets2009 #DinaMeyer #VincentSpano #ErnieHudson #LelaRochon #MeirSharony #ThrillerPsicologico #FilmCompleto #4K #4KUltraHD #FilmGratis ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio del film: Julia incontra l'affascinante sconosciuto in 4K UHD"
+        },
+        {
+          "seconds": 690,
+          "label": "Seduzione Pericolosa: Il gioco si trasforma in un incubo scena"
+        },
+        {
+          "seconds": 1425,
+          "label": "Spinta al Limite: Julia rifiuta di essere una vittima video"
+        },
+        {
+          "seconds": 2170,
+          "label": "Il Piano di Vendetta: L'aiuto delle migliori amiche momento"
+        },
+        {
+          "seconds": 2960,
+          "label": "Il Confronto Sfugge di Mano: Incidente e panico storia"
+        },
+        {
+          "seconds": 3735,
+          "label": "Ricatti e Inganni: Segreti che riaffiorano azione"
+        },
+        {
+          "seconds": 4540,
+          "label": "Spirale di Violenza: L'intervento del Detective Shaw confronto"
+        },
+        {
+          "seconds": 5100,
+          "label": "Finale Scioccante e titoli di coda chiusura"
+        }
+      ]
+    },
+    {
+      "id": "bduns7Y5-dg",
+      "title": "Archangel | Film Completo HD Thriller Politico | Daniel Craig",
+      "publishedAt": "2026-09-16T18:30:40Z",
+      "durationSec": 6916,
+      "thumb": "https://i.ytimg.com/vi/bduns7Y5-dg/mqdefault.jpg",
+      "description": "🌍 MOLTI SOTTOTITOLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio delle Impostazioni (⚙️) in basso a destra nel lettore video per scegliere la tua lingua preferita.\n\n---\n\nUn segreto sepolto per decenni, un diario insanguinato e una verità che potrebbe cambiare il destino del mondo! Preparati a un avvincente thriller politico e di spionaggio. Guarda il film completo \"Archangel\" (titolo originale su IMDb: Archangel, 2005), uno spettacolare lungometraggio diretto da Jon Jones e tratto dal celebre romanzo di Robert Harris. Con la star di Hollywood Daniel Craig nei panni del protagonista, affiancato da Gabriel Macht e Yekaterina Rednikova, questo capolavoro arriva sul nostro canale completamente restaurato in alta definizione HD 1080p!\n\nIl dottor Fluke Kelso (Daniel Craig) è uno storico britannico specializzato in storia sovietica che si trova a Mosca per una conferenza. La sua vita viene sconvolta dall'incontro con un anziano ex ufficiale della guardia del corpo di Joseph Stalin, che gli rivela l'esistenza di un diario segreto sotterrato nella notte della morte del dittatore nel 1953. Inizialmente scettico, Kelso inizia a indagare e si ritrova presto proiettato in una mortale caccia all'uomo. Aiutato da Zinaida (Yekaterina Rednikova) e dall'ambizioso giornalista RJ O'Brian (Gabriel Macht), lo storico seguirà una scia di sangue fino alla gelida città portuale di Arkhangelsk, dove tra i boschi della taiga si nasconde un'eredità politica mostruosa.\n\n👉 ISCRIVITI AL CANAL e clicca sulla campanella delle notifiche (🔔) per non perderti i nostri lanci quotidiani di film completi di spionaggio, thriller politici, avventure storiche e grandi classici restaurati in HD gratuitamente!\n\n- Titolo in Italiano: Archangel (Titolo Originale su IMDb: Archangel | Titolo Internazionale: Archangel)\n- Anno di Uscita: 2005 (Versione Remastered: 2026)\n- Regia: Jon Jones\n- Sceneggiatura: Dick Clement | Ian La Frenais (basato sul romanzo di Robert Harris)\n- Colonna Sonora Originale: Rob Lane\n- Studio di Produzione: BBC / Baltic Film Services / Film and Clips Classics\n- Cast Principale: Daniel Craig (Fluke Kelso) | Yekaterina Rednikova (Zinaida) | Gabriel Macht (RJ O'Brian) | Lev Prygunov | Alexey Diakov | Claudia Harrison\n- Genere: Thriller / Spionaggio / Politico / Storico\n- Qualità Video: High Definition (HD 1080p - Versione Remastered)\n- Durata: Circa 133 minuti\n- Lingua: Audio Originale con Molti Sottotitoli Disponibili (Incluso Italiano)\n\n---\n\n00:00:00 - Inizio del film: Il professor Fluke Kelso a Mosca in HD\n00:10:15 - La Rivelazione: Il diario segreto di Joseph Stalin scena\n00:23:30 - Primi Omicidi: L'inizio del complotto politico video\n00:35:45 - Alleanze Pericolose: Kelso, Zinaida e l'intelligence momento\n00:48:20 - La Fuga da Mosca verso il freddo del Nord storia\n01:02:15 - Arrivo ad Arkhangelsk: Sulle tracce dell'eredità perduta azione\n01:14:30 - La Scoperta nella Taiga: Il segreto è ancora vivo confronto\n01:25:40 - Il Confronto Finale e la verità sconvolgente duello\n01:34:00 - Epilogo del complotto e titoli di coda chiusura\n\n---\n\nGuarda il film completo \"Archangel\" (2005), uno spettacolare thriller politico e di spionaggio basato sul romanzo di Robert Harris e interpretato da Daniel Craig e Gabriel Macht. Se stai cercando film completi gratuiti in italiano in HD 1080p, storie di complotti politici russi, spionaggio sulla storia di Stalin e grandi produzioni drammatiche restaurate legalmente e gratuitamente, questo canale offre il meglio dell'intrattenimento digitale.\n\n#Archangel #Archangel2005 #DanielCraig #GabrielMacht #YekaterinaRednikova #RobertHarris #JonJones #ThrillerPolitico #Spionaggio #FilmCompleto #HD #HD1080p #FilmGratis ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio del film: Il professor Fluke Kelso a Mosca in HD"
+        },
+        {
+          "seconds": 615,
+          "label": "La Rivelazione: Il diario segreto di Joseph Stalin scena"
+        },
+        {
+          "seconds": 1410,
+          "label": "Primi Omicidi: L'inizio del complotto politico video"
+        },
+        {
+          "seconds": 2145,
+          "label": "Alleanze Pericolose: Kelso, Zinaida e l'intelligence momento"
+        },
+        {
+          "seconds": 2900,
+          "label": "La Fuga da Mosca verso il freddo del Nord storia"
+        },
+        {
+          "seconds": 3735,
+          "label": "Arrivo ad Arkhangelsk: Sulle tracce dell'eredità perduta azione"
+        },
+        {
+          "seconds": 4470,
+          "label": "La Scoperta nella Taiga: Il segreto è ancora vivo confronto"
+        },
+        {
+          "seconds": 5140,
+          "label": "Il Confronto Finale e la verità sconvolgente duello"
+        },
+        {
+          "seconds": 5640,
+          "label": "Epilogo del complotto e titoli di coda chiusura"
+        }
+      ]
+    },
+    {
+      "id": "cO7tnox2gG8",
+      "title": "Cyrano e D'Artagnan (1964) | Film Completo HD Jean-Pierre Cassel",
+      "publishedAt": "2026-09-14T12:30:30Z",
+      "durationSec": 7708,
+      "thumb": "https://i.ytimg.com/vi/cO7tnox2gG8/mqdefault.jpg",
+      "description": "🌍 MOLTI SOTTOTITOLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio delle Impostazioni (⚙️) in basso a destra nel lettore video per scegliere la tua lingua preferita.\n\n---\n\nI due spadaccini più famosi di Francia incrociano le lame e uniscono le forze per salvare la corona! Preparati a uno spettacolare classico di cappa e spada. Guarda il film completo \"Cyrano contro D'Artagnan\" (titolo originale su IMDb: Cyrano et d'Artagnan, 1964), un'epica avventura storica diretta dal maestro del cinema Abel Gance. Con il premio Oscar José Ferrer nei panni di Cyrano de Bergerac affiancato da Jean-Pierre Cassel nel ruolo di D'Artagnan, Sylva Koscina e Michel Simon, questo capolavoro torna sul nostro canale completamente restaurato in alta definizione HD 1080p!\n\nNella Francia del XVII secolo, sotto il regno di Luigi XIII, il brillante poeta e spadaccino Cyrano de Bergerac (José Ferrer) e l'impavido moschettiere D'Artagnan (Jean-Pierre Cassel) si incontrano per la prima volta. Dopo un inevitabile duello per motivi d'onore e rivalità amorose, i due leggendari eroi scoprono una reciproca stima e decidono di allearsi. Insieme dovranno sventare un'oscura e pericolosa cospirazione ordita dal Cardinale Richelieu e dai suoi emissari ai danni del Re di Francia. Tra duelli all'ultimo sangue, fughe rocambolesche, inganni di corte e passioni travolgenti, i due guasconi combatteranno fianco a fianco per la giustizia e per l'onore della patria.\n\n👉 ISCRIVITI AL CANALE e clicca sulla campanella delle notifiche (🔔) per non perderti i nostri lanci quotidiani di film completi di cappa e spada, classici d'avventura storica, grandi produzioni francesi e tesori del cinema d'autore restaurati in HD gratuitamente!\n\n- Titolo in Italiano: Cyrano contro D'Artagnan (Titolo Originale su IMDb: Cyrano et d'Artagnan | Titolo Internazionale: Cyrano and D'Artagnan)\n- Anno di Uscita: 1964 (Versione Remastered: 2026)\n- Regia: Abel Gance\n- Sceneggiatura: Abel Gance | Rafael García Serrano | José Luis Dibildos\n- Colonna Sonora Originale: Michel Magne\n- Studio di Produzione: Artistes Associés / Circe Films / Film and Clips Classics\n- Cast Principale: José Ferrer (Cyrano de Bergerac) | Jean-Pierre Cassel (D'Artagnan) | Sylva Koscina (Ninon de Lenclos) | Michel Simon (Mao) | Philippe Noiret (Luigi XIII) | Julian Mateos\n- Genere: Avventura / Cappa e Spada / Storico / Commedia / Azione\n- Qualità Video: High Definition (HD 1080p - Versione Remastered)\n- Durata: Circa 145 minuti\n- Lingua: Audio Originale con Molti Sottotitoli Disponibili (Incluso Italiano)\n\n---\n\n⏱️ TIMELINE DEI CAPITOLI (TIMESTAMPS):\n00:00:00 - Inizio del film: Cyrano de Bergerac e D'Artagnan a Parigi in HD\n00:18:30 - Il primo incontro e l'inevitabile duello d'onore scena\n00:38:15 - L'alleanza tra lo spadaccino poeta e il moschettiere video\n00:59:40 - Intrighi di corte: La cospirazione contro Re Luigi XIII momento\n01:21:10 - Le dame di Parigi: Ninon de Lenclos e i giochi d'amore storia\n01:43:25 - Imboscate e duelli acrobatici contro le guardie del Cardinale azione\n02:05:50 - La grande battaglia per sventare il complotto reale duello\n02:20:00 - Epilogo, il trionfo dei guasconi e titoli di coda chiusura\n\n---\n\n🔍 INFORMAZIONI SUL FILM (SEO & INFO):\nGuarda il film completo \"Cyrano contro D'Artagnan\" (1964), uno straordinario film d'avventura e di cappa e spada diretto da Abel Gance e interpretato da José Ferrer, Jean-Pierre Cassel e Sylva Koscina. Se stai cercando film completi gratuiti in italiano in HD 1080p, classici del cinema d'avventura francese, le imprese di Cyrano de Bergerac e dei Moschettieri, duelli di spada ed epiche produzioni storiche restaurate legalmente e gratuitamente, questo canale offre il meglio dell'intrattenimento digitale.\n\n#CyranoControDArtagnan #CyranoEtDArtagnan #JoseFerrer #JeanPierreCassel #SylvaKoscina #AbelGance #CappaESpada #FilmDAvventura #FilmCompleto #HD #HD1080p #FilmGratis #CinemaFrancese ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio del film: Cyrano de Bergerac e D'Artagnan a Parigi in HD"
+        },
+        {
+          "seconds": 1110,
+          "label": "Il primo incontro e l'inevitabile duello d'onore scena"
+        },
+        {
+          "seconds": 2295,
+          "label": "L'alleanza tra lo spadaccino poeta e il moschettiere video"
+        },
+        {
+          "seconds": 3580,
+          "label": "Intrighi di corte: La cospirazione contro Re Luigi XIII momento"
+        },
+        {
+          "seconds": 4870,
+          "label": "Le dame di Parigi: Ninon de Lenclos e i giochi d'amore storia"
+        },
+        {
+          "seconds": 6205,
+          "label": "Imboscate e duelli acrobatici contro le guardie del Cardinale azione"
+        },
+        {
+          "seconds": 7550,
+          "label": "La grande battaglia per sventare il complotto reale duello"
+        },
+        {
+          "seconds": 8400,
+          "label": "Epilogo, il trionfo dei guasconi e titoli di coda chiusura"
+        }
+      ]
+    },
+    {
+      "id": "WTWQUlH_zac",
+      "title": "All'ombra di una colt | Film Completo HD 1080p Spaghetti Western | Stephen Forsyth",
+      "publishedAt": "2026-09-12T15:45:32Z",
+      "durationSec": 4688,
+      "thumb": "https://i.ytimg.com/vi/WTWQUlH_zac/mqdefault.jpg",
+      "description": "🌍 MOLTI SOTTOTITOLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio delle Impostazioni (⚙️) in basso a destra nel lettore video per scegliere la tua lingua preferita.\n\n---\n\nDue pistoleri infallibili, la promessa di una vita onesta e un passato di violenza che torna a bussare con la forza del piombo! Preparati a un appassionante Spaghetti Western. Guarda il film completo \"All'ombra di una colt\" (titolo originale su IMDb: All'ombra di una colt | titolo internazionale: In the Shadow of a Colt, 1965), un capolavoro del cinema di genere diretto da Giovanni Grimaldi. Con la star Stephen Forsyth affiancata da Conrado San Martín, Franco Ressel e Anne-Marie Noé, questo classico arriva sul nostro canale completamente restaurato nella splendida risoluzione High Definition HD 1080p!\n\nSteve (Stephen Forsyth) e il suo vecchio amico Duke (Conrado San Martín) sono due infallibili pistoleri stanchi della vita errabonda e violenta. Decidono di separarsi per rifarsi una vita tranquilla, ma il destino non tarda a mostrare il suo lato più oscuro. Quando Duke rimane tragicamente coinvolto nei loschi affari del crudele e manipolatore Jackson (Franco Ressel), Steve è costretto a impugnare nuovamente la sua fidata Colt. Per salvare l'amico di sempre e proteggere la donna che ama, Steve dovrà affrontare una banda di spietati fuorilegge in un crescendo di tensione e sparatorie.\n\n👉 ISCRIVITI AL CANALE e clicca sulla campanella delle notifiche (🔔) per non perderti i nostri lanci quotidiani di film completi di faroeste, Spaghetti Western classici, avventure d'azione e grandi tesori del cinema restaurati in HD gratuitamente!\n\n- Titolo in Italiano: All'ombra di una colt (Titolo Originale su IMDb: All'ombra di una colt | Titolo Internazionale: In the Shadow of a Colt)\n- Anno di Uscita: 1965 (Versione Remastered: 2026)\n- Regia: Giovanni Grimaldi\n- Sceneggiatura: Giovanni Grimaldi | Aldo Scavarda\n- Colonna Sonora Originale: Nico Fidenco\n- Studio di Produzione: Hercules Cinematografica / Film and Clips Classics\n- Cast Principale: Stephen Forsyth (Steve) | Conrado San Martín (Duke) | Franco Ressel (Jackson) | Anne-Marie Noé (Jackson) | Helga Liné | Aldo Sambrell\n- Genere: Western / Spaghetti Western / Azione / Drammatico\n- Qualità Video: High Definition (HD 1080p - Versione Remastered)\n- Durata: Circa 84 minuti\n- Lingua: Audio Originale con Molti Sottotitoli Disponibili (Incluso Italiano)\n\n---\n\n⏱️ TIMELINE DEI CAPITOLI (TIMESTAMPS):\n00:00:00 - Inizio del film: L'addio di Steve e Duke in HD\n00:12:30 - Una nuova vita: Steve cerca la pace in un piccolo ranch scena\n00:25:15 - Guai in città: Duke cade nella trappola di Jackson video\n00:40:50 - Tensione al Saloon: Steve affronta gli sgherri momento\n00:55:20 - Tradimento e Piombo: Il passato ritorna violento storia\n01:10:45 - Preparativi per il Duello: All'ombra della morte azione\n01:22:30 - Lo Scontro Finale: Una pioggia di proiettili duello\n01:31:00 - Conclusione e Titoli di Coda chiusura\n\n---\n\n🔍 INFORMAZIONI SUL FILM (SEO & INFO):\nGuarda il film completo \"All'ombra di una colt\" (1965), uno spettacolare Spaghetti Western diretto da Giovanni Grimaldi e interpretato da Stephen Forsyth e Conrado San Martín. Se stai cercando film completi gratuiti in italiano in HD 1080p, classici del faroeste italiano anni 60, duelli all'ultimo sangue e colonne sonore indimenticabili restaurate legalmente e gratuitamente, questo canale offre il meglio dell'intrattenimento digitale.\n\n#AllOmbraDiUnaColt #AllOmbraDiUnaColt1965 #StephenForsyth #ConradoSanMartin #FrancoRessel #GiovanniGrimaldi #NicoFidenco #SpaghettiWestern #WesternItaliano #FilmCompleto #HD #HD1080p #FilmGratis ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio del film: L'addio di Steve e Duke in HD"
+        },
+        {
+          "seconds": 750,
+          "label": "Una nuova vita: Steve cerca la pace in un piccolo ranch scena"
+        },
+        {
+          "seconds": 1515,
+          "label": "Guai in città: Duke cade nella trappola di Jackson video"
+        },
+        {
+          "seconds": 2450,
+          "label": "Tensione al Saloon: Steve affronta gli sgherri momento"
+        },
+        {
+          "seconds": 3320,
+          "label": "Tradimento e Piombo: Il passato ritorna violento storia"
+        },
+        {
+          "seconds": 4245,
+          "label": "Preparativi per il Duello: All'ombra della morte azione"
+        },
+        {
+          "seconds": 4950,
+          "label": "Lo Scontro Finale: Una pioggia di proiettili duello"
+        },
+        {
+          "seconds": 5460,
+          "label": "Conclusione e Titoli di Coda chiusura"
+        }
+      ]
+    },
+    {
+      "id": "o2vTHS-d-Ro",
+      "title": "All'ultimo sangue | Film Completo HD 1080p Spaghetti Western | Craig Hill",
+      "publishedAt": "2026-09-10T16:45:01Z",
+      "durationSec": 5893,
+      "thumb": "https://i.ytimg.com/vi/o2vTHS-d-Ro/mqdefault.jpg",
+      "description": "🌍 MOLTI SOTTOTITOLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio delle Impostazioni (⚙️) in basso a destra nel lettore video per scegliere la tua lingua preferita.\n\n---\n\nUna rapina all'esercito, un bandito spietato e una caccia all'uomo dove il sangue e la lealtà si scontrano nel deserto! Preparati a un avvincente Spaghetti Western. Guarda il film completo \"All'ultimo sangue\" (titolo originale su IMDb: All'ultimo sangue | titolo internazionale: Busy Bodies, 1968), un classico del cinema di genere diretto da Paolo Moffa. Con il grande Craig Hill affiancato da Ettore Manni, Giovanni Cianfriglia (Ken Wood) e José Greci, questo capolavoro torna sul nostro canale completamente restaurato in alta definizione HD 1080p!\n\nIl West è scosso dall'audace colpo dell'efferato fuorilegge Billy Gun, che ha rapinato una busta paga dell'esercito lasciando dietro di sé una scia di violenza. Per recuperare il bottino e fermare il bandito, i vertici militari affidano l'incarico a Clive Norton (Craig Hill), un uomo risoluto e infallibile con la pistola. Consapevole di aver bisogno di una guida che conosca il nemico, Norton salva dalla forca El Chaleco (Ettore Manni), un uomo tormentato che nutre un odio profondo verso Gun. La missione si rivela carica di tensione psicologica: El Chaleco è infatti il fratello del ricercato, trasformando la caccia in un pericoloso gioco di lealtà e vendetta.\n\n👉 ISCRIVITI AL CANALE e clicca sulla campanella delle notifiche (🔔) per non perderti i nostri lanci quotidiani di film completi di faroeste, Spaghetti Western classici, avventure d'azione e grandi tesori del cinema restaurati in HD gratuitamente!\n\n- Titolo in Italiano: All'ultimo sangue (Titolo Originale su IMDb: All'ultimo sangue | Titolo Internazionale: Busy Bodies)\n- Anno di Uscita: 1968 (Versione Remastered: 2026)\n- Regia: Paolo Moffa\n- Sceneggiatura: Enzo Dell'Aquila | Paolo Moffa\n- Colonna Sonora Originale: Nico Fidenco\n- Studio di Produzione: Film Marbe / Film and Clips Classics\n- Cast Principale: Craig Hill (Clive Norton) | Ettore Manni (El Chaleco) | Giovanni Cianfriglia / Ken Wood (Billy Gun) | José Greci (Cordelia) | Luciano Doria | Antonio De Teffé\n- Genere: Western / Spaghetti Western / Azione / Drammatico\n- Qualità Video: High Definition (HD 1080p - Versione Remastered)\n- Durata: Circa 92 minuti\n- Lingua: Audio Originale con Molti Sottotitoli Disponibili (Incluso Italiano)\n\n---\n\n⏱️ TIMELINE DEI CAPITOLI (TIMESTAMPS):\n00:00:00 - Inizio del film: L'assalto alla busta paga dell'esercito in HD\n00:13:40 - L'ingaggio di Clive Norton e il piano per catturare Billy Gun scena\n00:27:15 - Il salvataggio dalla forca: Norton incontra El Chaleco video\n00:41:30 - Tracce nel deserto: La difficile alleanza tra i due uomini momento\n00:56:10 - Legami di sangue: Il dilemma morale di El Chaleco storia\n01:12:45 - Imboscate e sparatorie sui territori di confine azione\n01:25:15 - Il duello finale all'ultimo sangue per la vendetta duello\n01:30:00 - Epilogo, la resa dei conti e titoli di coda chiusura\n\n---\n\n🔍 INFORMAZIONI SUL FILM (SEO & INFO):\nGuarda il film completo \"All'ultimo sangue\" (1968), un indimenticabile Spaghetti Western diretto da Paolo Moffa e interpretato da Craig Hill ed Ettore Manni. Se stai cercando film completi gratuiti in italiano in HD 1080p, classici del faroeste italiano anni 60, sparatorie ed entusiasmanti duelli nel deserto restaurati legalmente e gratuitamente, questo canale offre il meglio dell'intrattenimento digitale.\n\n#AllUltimoSangue #AllUltimoSangue1968 #CraigHill #EttoreManni #PaoloMoffa #SpaghettiWestern #WesternItaliano #FilmCompleto #HD #HD1080p #FilmGratis #CinemaClassico ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio del film: L'assalto alla busta paga dell'esercito in HD"
+        },
+        {
+          "seconds": 820,
+          "label": "L'ingaggio di Clive Norton e il piano per catturare Billy Gun scena"
+        },
+        {
+          "seconds": 1635,
+          "label": "Il salvataggio dalla forca: Norton incontra El Chaleco video"
+        },
+        {
+          "seconds": 2490,
+          "label": "Tracce nel deserto: La difficile alleanza tra i due uomini momento"
+        },
+        {
+          "seconds": 3370,
+          "label": "Legami di sangue: Il dilemma morale di El Chaleco storia"
+        },
+        {
+          "seconds": 4365,
+          "label": "Imboscate e sparatorie sui territori di confine azione"
+        },
+        {
+          "seconds": 5115,
+          "label": "Il duello finale all'ultimo sangue per la vendetta duello"
+        },
+        {
+          "seconds": 5400,
+          "label": "Epilogo, la resa dei conti e titoli di coda chiusura"
+        }
+      ]
+    },
+    {
+      "id": "Lrm1AhMmBlg",
+      "title": "LA PISCINA (1969) | Film Completo con Alain Delon & Maurice Ronet 4K",
+      "publishedAt": "2026-09-08T15:30:39Z",
+      "durationSec": 6360,
+      "thumb": "https://i.ytimg.com/vi/Lrm1AhMmBlg/mqdefault.jpg",
+      "description": "🌍 MOLTI SOTTOTITOLI DISPONIBILI! Clicca sul pulsante \"CC\" (Sottotitoli) e sull'icona dell'ingranaggio delle Impostazioni (⚙️) in basso a destra nel lettore video per scegliere la tua lingua preferita.\n\n---\n\nSotto il sole cocente della Costa Azzurra, una vacanza idilliaca si trasforma in un pericoloso gioco di seduzione, gelosia e morte! Preparati a un capolavoro assoluto del cinema noir e psicologico. Guarda il film completo \"La Piscina\" (titolo originale su IMDb: La Piscine, 1969), l'iconico thriller cult diretto da Jacques Deray con la sceneggiatura di Jean-Claude Carrière. Con un cast leggendario guidato dal fascino magnetico di Alain Delon insieme a Romy Schneider, Maurice Ronet e Jane Birkin, questo capolavoro torna finalmente alla luce completamente restaurato nella straordinaria risoluzione 4K Ultra HD (2160p)!\n\nIn una splendida villa isolata nei pressi di Saint-Tropez, Jean-Paul (Alain Delon) e Marianne (Romy Schneider) si godono giorni indolenti e appassionati. La loro apparente serenità viene spezzata dall'arrivo improvviso di Harry (Maurice Ronet), ex amante di Marianne e vecchio amico di Jean-Paul, accompagnato dalla giovane e introversa figlia Pénélope (Jane Birkin). L'atmosfera tra i quattro si fa subito carica di una tensione sottile e soffocante. Tra sguardi ambigui, desideri inespressi e provocazioni latenti, il caldo estivo alimenta una spirale d'ossessione e rivalità che condurrà inevitabilmente a un tragico punto di non ritorno.\n\n👉 ISCRIVITI AL CANALE e attiva la campanella delle notifiche (🔔) per non perderti i nostri appuntamenti quotidiani con i migliori film cult completi, thriller psicologici d'autore, capolavori del cinema francese e grandi classici restaurati in 4K Ultra HD completamente gratis!\n\n- Titolo in Italiano: La Piscina (Titolo Originale su IMDb: La Piscine | Titolo Internazionale: The Swimming Pool)\n- Anno di Uscita: 1969 (Versione Remastered: 2026)\n- Regia: Jacques Deray\n- Sceneggiatura: Jean-Claude Carrière | Jacques Deray | Alain Page\n- Colonna Sonora Originale: Michel Legrand\n- Studio di Produzione: Société des Etablissements L.N.C. / Tritone Cinematografica / Film and Clips Classics\n- Cast Principale: Alain Delon (Jean-Paul) | Romy Schneider (Marianne) | Maurice Ronet (Harry) | Jane Birkin (Pénélope) | Paul Crauchet\n- Genere: Drammatico / Thriller Psicologico / Noir / Sentimentale / Cinema D'Autore\n- Qualità Video: 4K Ultra HD (2160p - Versione Remastered)\n- Durata: Circa 120 minuti\n- Lingua: Audio Originale con Molti Sottotitoli Disponibili (Incluso Italiano)\n\n---\n\n00:00:00 - Inizio del film: L'ozio idilliaco a Saint-Tropez in 4K UHD\n00:15:30 - L'arrivo di Harry e Pénélope: Sguardi e prime tensioni scena\n00:32:15 - Gelosie striscianti e provocazioni al bordo della piscina video\n00:48:40 - Il fascino di Pénélope e il gioco di seduzione momento\n01:05:10 - La festa in villa: Il punto di ebollizione tra Jean-Paul e Harry storia\n01:22:45 - Il dramma notturno: La tragedia in piscina azione\n01:42:00 - Le indagini della polizia e il peso del silenzio duello\n01:55:30 - Il finale sospeso, epilogo e titoli di coda chiusura\n\n---\n\nGuarda il film completo \"La Piscina\" (La Piscine, 1969), uno dei più celebri thriller psicologici e noir d'autore del cinema francese con Alain Delon, Romy Schneider e Jane Birkin. Se stai cercando film completi gratuiti in italiano in 4K Ultra HD, storie di passione e gelosia in Costa Azzurra, classici del cinema anni '60 e capolavori drammatici restaurati legalmente e gratuitamente, questo canale offre il meglio del grande cinema.\n\n#LaPiscina #LaPiscine #AlainDelon #RomySchneider #JaneBirkin #JacquesDeray #ThrillerPsicologico #CinemaFrancese #FilmCompleto #4K #4KUltraHD #FilmGratis",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio del film: L'ozio idilliaco a Saint-Tropez in 4K UHD"
+        },
+        {
+          "seconds": 930,
+          "label": "L'arrivo di Harry e Pénélope: Sguardi e prime tensioni scena"
+        },
+        {
+          "seconds": 1935,
+          "label": "Gelosie striscianti e provocazioni al bordo della piscina video"
+        },
+        {
+          "seconds": 2920,
+          "label": "Il fascino di Pénélope e il gioco di seduzione momento"
+        },
+        {
+          "seconds": 3910,
+          "label": "La festa in villa: Il punto di ebollizione tra Jean-Paul e Harry storia"
+        },
+        {
+          "seconds": 4965,
+          "label": "Il dramma notturno: La tragedia in piscina azione"
+        },
+        {
+          "seconds": 6120,
+          "label": "Le indagini della polizia e il peso del silenzio duello"
+        },
+        {
+          "seconds": 6930,
+          "label": "Il finale sospeso, epilogo e titoli di coda chiusura"
+        }
+      ]
+    }
+  ]
+}

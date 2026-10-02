@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCpInjhuJ1WUekcFeXPPyGGg",
   "title": "Netflix Family",
   "thumb": "https://yt3.ggpht.com/AFSxgQDpf3A1gmJLvVK91YDzOPDF8q7BE1hFwgw3Pv2zB0c1QV0kbY3Q8-UTA-1W_NxxGBvpPfs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.12,
   "sources": [
@@ -29,6 +29,34 @@
       "label": "Netflix",
       "url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
       "firstSeenAt": "2026-09-05T10:32:50.653Z"
+    },
+    {
+      "id": "channel:UCBSs9x2KzSLhyyA9IKyt4YA",
+      "type": "channel",
+      "label": "Netflix Anime",
+      "url": "https://www.youtube.com/channel/UCBSs9x2KzSLhyyA9IKyt4YA",
+      "firstSeenAt": "2026-10-02T12:30:31.330Z"
+    },
+    {
+      "id": "channel:UCAJnyTWJPpKXuwgWQDdNWrQ",
+      "type": "channel",
+      "label": "Netflix Jr.",
+      "url": "https://www.youtube.com/channel/UCAJnyTWJPpKXuwgWQDdNWrQ",
+      "firstSeenAt": "2026-10-02T12:30:32.839Z"
+    },
+    {
+      "id": "channel:UChmpTxQ0Gp8KEJKsqzeg9Lg",
+      "type": "channel",
+      "label": "Stranger Things",
+      "url": "https://www.youtube.com/channel/UChmpTxQ0Gp8KEJKsqzeg9Lg",
+      "firstSeenAt": "2026-10-02T12:30:32.973Z"
+    },
+    {
+      "id": "channel:UCc1l5mTmAv2GC_PXrBpqyKQ",
+      "type": "channel",
+      "label": "Netflix Brasil",
+      "url": "https://www.youtube.com/channel/UCc1l5mTmAv2GC_PXrBpqyKQ",
+      "firstSeenAt": "2026-10-02T12:30:33.031Z"
     }
   ],
   "recentItems": []

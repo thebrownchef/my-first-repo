@@ -1,0 +1,748 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCLzVSxUlNzVQFl2LF8cmaAg",
+  "title": "Film&Clips Western Movies",
+  "thumb": "https://yt3.ggpht.com/qA2ugrt06xR64HQiC361ujyWTTE8uDZnpGYh3HpCXE2WFyFmcREQKEdpVjoUTs63Cp3I8tCojw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 40,
+  "distinctSourceCount": 40,
+  "hop": 1,
+  "uploadsPerDay": 0.2,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.028Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.237Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.641Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.781Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.883Z"
+    },
+    {
+      "id": "channel:UCUusCgxxEe1eR-S7VDVl0XQ",
+      "type": "channel",
+      "label": "Bizzarro MONSTERS",
+      "url": "https://www.youtube.com/channel/UCUusCgxxEe1eR-S7VDVl0XQ",
+      "firstSeenAt": "2026-10-02T12:30:38.943Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.059Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.233Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.341Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.550Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.680Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.736Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.789Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.034Z"
+    },
+    {
+      "id": "channel:UC5r5Nk_l94NG797uyJMXzaw",
+      "type": "channel",
+      "label": "Django 360",
+      "url": "https://www.youtube.com/channel/UC5r5Nk_l94NG797uyJMXzaw",
+      "firstSeenAt": "2026-10-02T12:30:40.282Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.336Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.403Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.455Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.590Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.739Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.857Z"
+    },
+    {
+      "id": "channel:UC6phmoJYS81YCkiUdKZ-p2w",
+      "type": "channel",
+      "label": "Cineindo Film Gratis",
+      "url": "https://www.youtube.com/channel/UC6phmoJYS81YCkiUdKZ-p2w",
+      "firstSeenAt": "2026-10-02T12:30:41.026Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.073Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.140Z"
+    },
+    {
+      "id": "channel:UCVqjyX0sPiNKXX-To8v_Mjg",
+      "type": "channel",
+      "label": "Western360",
+      "url": "https://www.youtube.com/channel/UCVqjyX0sPiNKXX-To8v_Mjg",
+      "firstSeenAt": "2026-10-02T12:30:41.190Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.321Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.378Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.429Z"
+    },
+    {
+      "id": "channel:UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "type": "channel",
+      "label": "Bizzarro Madhouse",
+      "url": "https://www.youtube.com/channel/UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "firstSeenAt": "2026-10-02T12:30:41.565Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.779Z"
+    },
+    {
+      "id": "channel:UCAfXQ_YeB7krOEl5vYycnkQ",
+      "type": "channel",
+      "label": "Film Western in Italiano",
+      "url": "https://www.youtube.com/channel/UCAfXQ_YeB7krOEl5vYycnkQ",
+      "firstSeenAt": "2026-10-02T12:30:41.961Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.059Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.109Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.257Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.376Z"
+    },
+    {
+      "id": "channel:UCtrXebUN5dubj6M-q3deEng",
+      "type": "channel",
+      "label": "Film&Clips Documentary",
+      "url": "https://www.youtube.com/channel/UCtrXebUN5dubj6M-q3deEng",
+      "firstSeenAt": "2026-10-02T12:30:42.429Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.474Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.682Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.735Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.781Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "-B1E0voctwY",
+      "title": "Django's Cut Price Corpses | Gunslingers, Stolen Gold & Outlaw Vengeance | Full Movie 4K",
+      "publishedAt": "2026-09-25T23:45:01Z",
+      "durationSec": 5047,
+      "thumb": "https://i.ytimg.com/vi/-B1E0voctwY/mqdefault.jpg",
+      "description": "A ruthless gang of bandits, a stolen fortune, and a legendary gunslinger out for vengeance! Stream the cult 1971 Spaghetti Western feature \"Paid in Blood\" (Anche per Django le carogne hanno un prezzo). Directed by cult filmmaker Luigi Batzella (credited as Paolo Solvay) and written alongside Mario De Rosa and Gaetano Dell'Era, with a score by Vasili Kojucharov. Starring Jeff Cameron as Django, alongside John Desmont, Esmeralda Barros, Gengher Gatti, and Edilio Kim. Watch it free, full-length, and in High Definition (HD)!\n\n[Synopsis]\nWhen a ruthless gang of outlaws terrorizes the dusty frontier, pillaging towns and leaving a bloody trail in their wake, the law proves useless against their brutality. But when they cross the wrong man, retribution becomes inevitable.\n\nEnter Django (Jeff Cameron), a cold-eyed, quick-draw gunfighter driven by an unyielding quest for justice. Arming himself for an all-out war, Django tracks the bandits across treacherous canyon hideouts and lawless border towns. Facing lethal ambushes, greedy traitors, and high-stakes shootouts, Django turns the desert into a battleground to deliver ultimate retribution.\n\nTitle Paid in Blood (Anche per Django le carogne hanno un prezzo)\nRelease Year 1971 (Runtime: 89 min)\nGenre Spaghetti Western / Action / Revenge\nDirector Luigi Batzella (as Paolo Solvay)\nScreenplay Luigi Batzella, Mario De Rosa, Gaetano Dell'Era\nMusic Vasili Kojucharov\nStarring Jeff Cameron (Django), John Desmont, Esmeralda Barros, Gengher Gatti, Edilio Kim\nSupporting Cast Dominique Badou, William Major, Angela Portaluri\n\n00:00:00 - Movie Start: Outlaw Bandits Raid the Frontier\n\n00:11:30 - Django Rides in Seeking Vengeance\n\n00:23:45 - The Saloon Confrontation\n\n00:36:10 - Tracking the Bandits to Their Canyon Hideout\n\n00:49:20 - Ambush and Gunfire in the Desert\n\n01:02:15 - Betrayal and the Battle for the Gold\n\n01:15:40 - Climax: Final High-Noon Showdown\n\n01:25:00 - Resolution & End Credits",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Movie Start: Outlaw Bandits Raid the Frontier"
+        },
+        {
+          "seconds": 690,
+          "label": "Django Rides in Seeking Vengeance"
+        },
+        {
+          "seconds": 1425,
+          "label": "The Saloon Confrontation"
+        },
+        {
+          "seconds": 2170,
+          "label": "Tracking the Bandits to Their Canyon Hideout"
+        },
+        {
+          "seconds": 2960,
+          "label": "Ambush and Gunfire in the Desert"
+        },
+        {
+          "seconds": 3735,
+          "label": "Betrayal and the Battle for the Gold"
+        },
+        {
+          "seconds": 4540,
+          "label": "Climax: Final High-Noon Showdown"
+        },
+        {
+          "seconds": 5100,
+          "label": "Resolution & End Credits"
+        }
+      ]
+    },
+    {
+      "id": "X0SoKREvGv4",
+      "title": "Trinità e Sartana #shorts",
+      "publishedAt": "2026-09-25T16:04:06Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/X0SoKREvGv4/mqdefault.jpg",
+      "description": "Film&Clips Western Movies is the best YouTube Channel to watch FREE WESTERN MOVIES in ENGLISH!\n\nFilm&Clips Western Movies offers a wide selection of FREE & LEGAL movie content in English on YouTube for all the Western genre lovers!\n\nFilm&Clips Western Movies is edited by Film&Clips, The best FREE & LEGAL YouTube Channel: movies, clips, docs, short movies from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available! \n\n#westernmovies #cowboymovies #oldwest #westernfilms #classicwesterns #spaghettiwesterns #westerngenre #westernfilmsfullmovies #westernshorts #westerntrailers #westernsoundtracks #westerndocumentaries #westernanimation\n#ClintEastwood #JohnWayne #SergioLeone #cowboys #Indians #outlaws #showdown #duel #saloon #horses #guns #gold #revenge #frontier #wildwest #desertisland #cowboylife #westernguns #westernsaloon #westerndress\n#westernauthors #westernart #WesternHeroes #PistolAndSaddle #MustWatchMovies #TimelessClassics #VintageCinema",
+      "chapters": []
+    },
+    {
+      "id": "24IGk9MM2Sw",
+      "title": "TWICE A JUDAS (1969) | Full Western Movie 4K | Antonio Sabàto & Klaus Kinski",
+      "publishedAt": "2026-09-17T00:00:06Z",
+      "durationSec": 5552,
+      "thumb": "https://i.ytimg.com/vi/24IGk9MM2Sw/mqdefault.jpg",
+      "description": "Film&Clips Western Movies is the best YouTube Channel to watch FREE WESTERN MOVIES in ENGLISH!\n\nA bullet to the head, total memory loss, and a deadly web of blood and betrayal! 🤠🌵🔫 Stream the full-length 1969 Spaghetti Western feature \"Twice a Judas\" (Due volte Giuda), directed by Nando Cicero. Starring cult icons Antonio Sabàto and Klaus Kinski, alongside Cristina Galbó and José Calvo. Watch it free, full-length, and in High Definition (HD)!\n\n[Synopsis]\nLuke Barrett (Antonio Sabàto) regains consciousness after a brutal ambush, suffering from complete memory loss after a bullet grazes his head. Lying beside him is a dead man and a rifle inscribed with the word \"Dingus.\"\n\nOn his way to the nearest town, Luke quickly discovers that he is a feared marksman and that someone has paid handsomely to have him eliminated. As he tries to piece together the fragments of his forgotten past, he crosses paths with Victor Barrett (Klaus Kinski), a ruthless, cynical man claiming to be his brother. Surrounded by deceit and dangerous motives, Luke must uncover who the real \"Judas\" is before his past returns to finish the job.\n\nTitle Twice a Judas (Due volte Giuda)\nRelease Year 1969\nGenre Spaghetti Western / Mystery / Psychological Thriller\nDirector Nando Cicero\nStarring Antonio Sabàto (Luke Barrett), Klaus Kinski (Victor Barrett), Cristina Galbó, José Calvo\n\n00:00:00 - Movie Start: Waking Up with Amnesia & The Mystery Rifle\n\n00:11:30 - Arrival in Town & Discovering the Bounty\n\n00:23:45 - The Encounter with Victor Barrett (Klaus Kinski)\n\n00:36:10 - Unraveling Fragments of the Past\n\n00:49:20 - Tensions Rise Between the Barrett Brothers\n\n01:02:15 - Gunfights, Deceit, and Double-Crosses\n\n01:15:40 - Climax: The Final Truth & Showdown\n\n01:25:00 - Resolution & End Credits\n\n#TwiceAJudas #SpaghettiWestern #KlausKinski #AntonioSabato #NandoCicero #FullMovie #FreeMovies #FullHD #ActionWestern",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Movie Start: Waking Up with Amnesia & The Mystery Rifle"
+        },
+        {
+          "seconds": 690,
+          "label": "Arrival in Town & Discovering the Bounty"
+        },
+        {
+          "seconds": 1425,
+          "label": "The Encounter with Victor Barrett (Klaus Kinski)"
+        },
+        {
+          "seconds": 2170,
+          "label": "Unraveling Fragments of the Past"
+        },
+        {
+          "seconds": 2960,
+          "label": "Tensions Rise Between the Barrett Brothers"
+        },
+        {
+          "seconds": 3735,
+          "label": "Gunfights, Deceit, and Double-Crosses"
+        },
+        {
+          "seconds": 4540,
+          "label": "Climax: The Final Truth & Showdown"
+        },
+        {
+          "seconds": 5100,
+          "label": "Resolution & End Credits"
+        }
+      ]
+    },
+    {
+      "id": "ky_nSDxTBXU",
+      "title": "Full Movie 4K: Creeping Death | Classic Spaghetti Western",
+      "publishedAt": "2026-09-08T23:45:06Z",
+      "durationSec": 5514,
+      "thumb": "https://i.ytimg.com/vi/ky_nSDxTBXU/mqdefault.jpg",
+      "description": "Film&Clips Western Movies is the best YouTube Channel to watch FREE WESTERN MOVIES in ENGLISH!\n\nA bloody bank robbery, a fortune in stolen gold, and one fatal mistake—leaving a master gunfighter alive! 🤠🌵🔫 Stream the full-length 1972 Spaghetti Western feature \"You Made a Mistake... You Should Have Killed Me First!\" (Hai sbagliato... dovevi uccidermi subito!), directed by Mario Bianchi. Starring Robert Woods, Frank Braña, Nieves Navarro (Susan Scott), and Carlo Gaddi. Watch it free, full-length, and in High Definition (HD)!\n\n[Synopsis]\nAfter a violent bank heist, three ruthless bandits escape with a massive fortune in gold, leaving a trail of dead bodies in their wake. However, they make one fatal error: leaving Alan Fields (Robert Woods) alive. Operating under the guise of Pinkerton agent Jonathan, the master marksman immediately embarks on a relentless hunt for the gang.\n\nDetermined to recover the stolen gold and exact cold-blooded retribution, Alan tracks the outlaws across the lawless frontier. Directed by Mario Bianchi, this fast-paced Spaghetti Western delivers non-stop action and charismatic performances leading up to an explosive final showdown.\n\nTitle You Made a Mistake... You Should Have Killed Me First! (Hai sbagliato... dovevi uccidermi subito!)\nRelease Year 1972\nGenre Spaghetti Western / Action / Revenge\nDirector Mario Bianchi\nScreenplay Mario Bianchi\nStarring Robert Woods, Frank Braña, Nieves Navarro (Susan Scott), Carlo Gaddi\nVideo Quality Full HD (1080p)\n\n00:00:00 - Movie Start: The Violent Bank Robbery\n\n00:11:30 - The Fatal Mistake: Alan Fields Survives\n\n00:23:45 - On the Trail of the Bandits\n\n00:36:10 - Gunfight in the Saloon\n\n00:49:20 - Suspicion and Betrayal Among Outlaws\n\n01:02:15 - The Hunt Narrows Down\n\n01:15:40 - Climax: The Final Duel\n\n01:25:00 - Resolution & End Credits\n\n#YouMadeAMistakeYouShouldHaveKilledMeFirst #SpaghettiWestern #FullMovie #RobertWoods #MarioBianchi #FrankBrana #NievesNavarro",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Movie Start: The Violent Bank Robbery"
+        },
+        {
+          "seconds": 690,
+          "label": "The Fatal Mistake: Alan Fields Survives"
+        },
+        {
+          "seconds": 1425,
+          "label": "On the Trail of the Bandits"
+        },
+        {
+          "seconds": 2170,
+          "label": "Gunfight in the Saloon"
+        },
+        {
+          "seconds": 2960,
+          "label": "Suspicion and Betrayal Among Outlaws"
+        },
+        {
+          "seconds": 3735,
+          "label": "The Hunt Narrows Down"
+        },
+        {
+          "seconds": 4540,
+          "label": "Climax: The Final Duel"
+        },
+        {
+          "seconds": 5100,
+          "label": "Resolution & End Credits"
+        }
+      ]
+    },
+    {
+      "id": "Ad-pX8TTDrQ",
+      "title": "A Noose Is Waiting for You Trinity | The Gunslinger's Return | Full Movie HD",
+      "publishedAt": "2026-09-01T23:45:37Z",
+      "durationSec": 4804,
+      "thumb": "https://i.ytimg.com/vi/Ad-pX8TTDrQ/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nYou can't escape your violent past, especially when a ruthless bounty hunter is on your trail! Saddle up for \"A Noose Is Waiting for You Trinity\" (also known as The Return of Clint the Stranger, 1972), an intense and classic Spaghetti Western directed by Alfonso Balcázar. Starring George Martin and the legendary Klaus Kinski as a cold-blooded bounty hunter, this movie delivers action, drama, and unforgettable shootouts. Watch the full movie in English and in High Definition!\n\nSynopsis:\nClint (George Martin) is a former gunslinger trying to outrun his dark reputation. Exhausted by a life of violence, he returns to his hometown after years of absence, hoping to make amends with his estranged wife and children. Determined to hang up his guns forever, Clint tries to settle down as a peaceful farmer. However, the West is an unforgiving place. A ruthless land baron and his gang of outlaws are terrorizing the local ranchers, trying to steal their properties. To make matters worse, a deadly and calculating bounty hunter named Scott (Klaus Kinski) arrives in town, waiting for the perfect moment to collect a massive reward on Clint's head. When the bandits push his family too far and the law turns a blind eye, Clint realizes that peace is no longer an option. He must strap on his gun belt one last time to protect the people he loves in a final, explosive showdown.\n\nDirector: Alfonso Balcázar\nMain Cast: George Martin, Klaus Kinski, Marina Malfatti, Augusto Rey\nGenre: Spaghetti Western / Action\nYear: 1972\n\nTimestamps:\n00:00 - Introduction: The harsh reality of the West\n10:15 - The gunslinger's return: Clint seeks forgiveness\n24:30 - A peaceful life interrupted: The land baron's thugs\n38:40 - Enter the Hunter: Scott (Klaus Kinski) arrives in town\n48:20 - Intimidation and violence: The farmers are targeted\n01:02:15 - Pushed to the limit: Clint realizes peace is impossible\n01:15:30 - The gun belt: A former legend takes up arms again\n01:25:40 - The final shootout: Clint against the outlaws\n01:33:00 - Facing the bounty hunter, justice, and end credits\n\n#SpaghettiWestern #FullMovie #KlausKinski #WesternMovies",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduction: The harsh reality of the West"
+        },
+        {
+          "seconds": 615,
+          "label": "The gunslinger's return: Clint seeks forgiveness"
+        },
+        {
+          "seconds": 1470,
+          "label": "A peaceful life interrupted: The land baron's thugs"
+        },
+        {
+          "seconds": 2320,
+          "label": "Enter the Hunter: Scott (Klaus Kinski) arrives in town"
+        },
+        {
+          "seconds": 2900,
+          "label": "Intimidation and violence: The farmers are targeted"
+        },
+        {
+          "seconds": 3735,
+          "label": "Pushed to the limit: Clint realizes peace is impossible"
+        },
+        {
+          "seconds": 4530,
+          "label": "The gun belt: A former legend takes up arms again"
+        },
+        {
+          "seconds": 5140,
+          "label": "The final shootout: Clint against the outlaws"
+        },
+        {
+          "seconds": 5580,
+          "label": "Facing the bounty hunter, justice, and end credits"
+        }
+      ]
+    },
+    {
+      "id": "PTNOq2W60r0",
+      "title": "Mi chiamavano Requiescat #shorts",
+      "publishedAt": "2026-09-01T14:58:38Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/PTNOq2W60r0/mqdefault.jpg",
+      "description": "Film&Clips Western Movies is the best YouTube Channel to watch FREE WESTERN MOVIES in ENGLISH!\n\nFilm&Clips Western Movies offers a wide selection of FREE & LEGAL movie content in English on YouTube for all the Western genre lovers!\n\nFilm&Clips Western Movies is edited by Film&Clips, The best FREE & LEGAL YouTube Channel: movies, clips, docs, short movies from all around the world - Italian, English, Spanish, French, Deutsch, and other subtitles available! \n\n#westernmovies #cowboymovies #oldwest #westernfilms #classicwesterns #spaghettiwesterns #westerngenre #westernfilmsfullmovies #westernshorts #westerntrailers #westernsoundtracks #westerndocumentaries #westernanimation\n#ClintEastwood #JohnWayne #SergioLeone #cowboys #Indians #outlaws #showdown #duel #saloon #horses #guns #gold #revenge #frontier #wildwest #desertisland #cowboylife #westernguns #westernsaloon #westerndress\n#westernauthors #westernart #WesternHeroes #PistolAndSaddle #MustWatchMovies #TimelessClassics #VintageCinema",
+      "chapters": []
+    },
+    {
+      "id": "1_AaQa9p-Vs",
+      "title": "A Young Terence Hill in a Musical Western! | LITTLE RITA NEL WEST",
+      "publishedAt": "2026-08-22T15:30:30Z",
+      "durationSec": 5857,
+      "thumb": "https://i.ytimg.com/vi/1_AaQa9p-Vs/mqdefault.jpg",
+      "description": "Watch the full movie \"Crazy Westerners\" (also known as \"Rita of the West\"), an incredible and unique musical comedy with a stellar cast: Italian pop superstar Rita Pavone, a young Terence Hill before his \"Trinity\" fame, and the legendary Lucio Dalla. In this bizarre Spaghetti Western, the small but fierce Rita is a gunslinger with a very peculiar mission: she isn't seeking wealth, but wants to eliminate all gold from the world, convinced that it is the root of all evil. She travels the Far West, defeats gangs of outlaws, takes their gold, and accumulates it in a secret cave, with the intention of blowing it all up to purify the world.\n\nHer path inevitably crosses with strange and dangerous characters, including the charming outlaw Black Star (Terence Hill), a quirky Native American chief (Lucio Dalla), and many others. Between duels, comedic brawls, and surreal situations, the story is punctuated by unforgettable songs performed by Rita Pavone herself. This is a true cult classic that explosively mixes the Italian \"musicarello\" with the western parody, directed by Ferdinando Baldi.\n\n#CrazyWesterners #RitaOfTheWest #RitaPavone #TerenceHill #SpaghettiWestern #WesternComedy #FullMovie #MusicalWestern #ItalianCinema #LucioDalla #CultMovie MB",
+      "chapters": []
+    },
+    {
+      "id": "SI0eYWM7YWo",
+      "title": "TWO GUNS AND A COWARD (1968) | Full Spaghetti Western Movie | English 4K UHD",
+      "publishedAt": "2026-08-09T12:00:16Z",
+      "durationSec": 5492,
+      "thumb": "https://i.ytimg.com/vi/SI0eYWM7YWo/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\n🎬 Watch the compelling and unique Spaghetti Western \"Two Guns and a Coward\" (1968) directed by Giorgio Ferroni, full length and in spectacular 4K Ultra HD!\n\nPlot:\nRoy (Anthony Steffen) is a master sharpshooter, performing incredible trick shots in a traveling circus arena. However, outside the ring, he is a dedicated pacifist who actively avoids resolving real-life conflicts with his gun, earning him the disdain of rougher men. Through a twist of fate, Roy is falsely credited with killing a gang of dangerous outlaws he didn't actually shoot. Suddenly hailed as a fearless hero by the local townsfolk, he struggles to live up to this unearned, violent reputation. Branded a coward when he refuses to embrace his new image, Roy is finally pushed to his absolute limit. When an innocent child is kidnapped by ruthless bandits, the circus performer must cast aside his pacifism, strap on his two guns, and prove what kind of man he truly is in a deadly rescue mission.\n\n🤠 Genre: Spaghetti Western / Action / Drama\n🎬 Director: Giorgio Ferroni\n✍️ Writers: Giorgio Ferroni, Augusto Finocchi, Remigio Del Grosso\n🌟 Cast: Anthony Steffen, Richard Stapley, Luisa Baratto, Ken Wood (Giovanni Cianfriglia)\n\n⏳ Movie Chapters:\n00:00 Introduction: Roy, the circus sharpshooter\n09:15 The pacifist: Roy refuses to fight in real life\n18:30 A twist of fate: The shootout with the outlaws\n28:40 The misunderstanding: Hailed as a false hero\n39:10 The pressure mounts: Living a lie in the Wild West\n50:20 The truth revealed: Branded as a coward by the town\n01:02:15 The kidnapping: Innocent lives are on the line\n01:14:30 The turning point: Roy finally straps on his guns\n01:22:40 The rescue mission: A deadly gunfight in the canyon\n01:28:10 The real hero emerges: Justice served and credits roll\n\n#TwoGunsAndACoward #FullMovie #4KUHD #SpaghettiWestern #AnthonySteffen #WesternMovies #EnglishWestern #ClassicMovies #FreeMovies #ReluctantHero #ActionMovie GC",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduction: Roy, the circus sharpshooter"
+        },
+        {
+          "seconds": 555,
+          "label": "The pacifist: Roy refuses to fight in real life"
+        },
+        {
+          "seconds": 1110,
+          "label": "A twist of fate: The shootout with the outlaws"
+        },
+        {
+          "seconds": 1720,
+          "label": "The misunderstanding: Hailed as a false hero"
+        },
+        {
+          "seconds": 2350,
+          "label": "The pressure mounts: Living a lie in the Wild West"
+        },
+        {
+          "seconds": 3020,
+          "label": "The truth revealed: Branded as a coward by the town"
+        },
+        {
+          "seconds": 3735,
+          "label": "The kidnapping: Innocent lives are on the line"
+        },
+        {
+          "seconds": 4470,
+          "label": "The turning point: Roy finally straps on his guns"
+        },
+        {
+          "seconds": 4960,
+          "label": "The rescue mission: A deadly gunfight in the canyon"
+        },
+        {
+          "seconds": 5290,
+          "label": "The real hero emerges: Justice served and credits roll"
+        }
+      ]
+    },
+    {
+      "id": "pb97FbfZ3yQ",
+      "title": "The Mexican Revolution: KILLER KID | Full Western Movie in 4K",
+      "publishedAt": "2026-08-02T13:00:25Z",
+      "durationSec": 5874,
+      "thumb": "https://i.ytimg.com/vi/pb97FbfZ3yQ/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\n🎬 Watch the action-packed classic Spaghetti Western \"Killer Kid\" (1967) directed by Leopoldo Savona, full length and in spectacular 4K Ultra HD!\n\nPlot:\nSet against the dusty, blood-soaked backdrop of the Mexican Revolution, the brutal and ruthless Captain Ramirez of the Federales rules with an iron fist. He is on a relentless and cruel manhunt to track down and kill revolutionaries in his desperate search for \"The Saint,\" the righteous and elusive leader of the Mexican uprising. Amidst this chaotic war for freedom, a mysterious and deadly American gunfighter known as \"Killer Kid\" (Anthony Steffen) arrives on the scene. Initially holding his own hidden agenda regarding smuggled weapons, he soon finds himself entangled with the passionate rebels. As the bullets fly and loyalties are tested, Killer Kid must decide whether to remain a pawn or fight for the liberation of the oppressed in a spectacular climax of gunpowder and glory.\n\n🤠 Genre: Spaghetti Western / Action / Historical Drama\n🎬 Director: Leopoldo Savona\n✍️ Writers: Sergio Garrone, Leopoldo Savona\n🌟 Cast: Anthony Steffen, Luisa Baratto (credited as Liz Barrett), Fernando Sancho, Giovanni Cianfriglia\n\n⏳ Movie Chapters:\n00:00 Introduction: The oppressive rule of Captain Ramirez\n09:15 The Resistance: The revolutionaries and the legend of \"The Saint\"\n18:30 Enter Killer Kid: A mysterious gunfighter crosses the border\n28:40 Smuggled weapons: The dangerous trade of war\n39:10 The Federales strike: A brutal crackdown on the rebels\n50:20 Captured: Killer Kid finds himself in enemy hands\n01:02:15 A change of heart: Siding with the oppressed\n01:14:30 The ambush: Rebels strike back against Ramirez's men\n01:25:40 The final showdown: Killer Kid and the fight for freedom\n01:36:10 Justice for Mexico: The aftermath and credits roll\n\n#KillerKid #FullMovie #4KUHD #SpaghettiWestern #AnthonySteffen #FernandoSancho #WesternMovies #EnglishWestern #ClassicMovies #FreeMovies #MexicanRevolution #ActionMovie GC",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduction: The oppressive rule of Captain Ramirez"
+        },
+        {
+          "seconds": 555,
+          "label": "The Resistance: The revolutionaries and the legend of \"The Saint\""
+        },
+        {
+          "seconds": 1110,
+          "label": "Enter Killer Kid: A mysterious gunfighter crosses the border"
+        },
+        {
+          "seconds": 1720,
+          "label": "Smuggled weapons: The dangerous trade of war"
+        },
+        {
+          "seconds": 2350,
+          "label": "The Federales strike: A brutal crackdown on the rebels"
+        },
+        {
+          "seconds": 3020,
+          "label": "Captured: Killer Kid finds himself in enemy hands"
+        },
+        {
+          "seconds": 3735,
+          "label": "A change of heart: Siding with the oppressed"
+        },
+        {
+          "seconds": 4470,
+          "label": "The ambush: Rebels strike back against Ramirez's men"
+        },
+        {
+          "seconds": 5140,
+          "label": "The final showdown: Killer Kid and the fight for freedom"
+        },
+        {
+          "seconds": 5770,
+          "label": "Justice for Mexico: The aftermath and credits roll"
+        }
+      ]
+    },
+    {
+      "id": "e8-aLli4y94",
+      "title": "MY NAME IS MALLORY... M MEANS DEATH (1971) | Full Spaghetti Western | English 4K UHD",
+      "publishedAt": "2026-07-26T12:00:31Z",
+      "durationSec": 5275,
+      "thumb": "https://i.ytimg.com/vi/e8-aLli4y94/mqdefault.jpg",
+      "description": "🎬 Watch the action-packed classic Spaghetti Western \"My Name Is Mallory... M Means Death\" (1971) directed by Mario Moroni, full length and in spectacular 4K Ultra HD!\n\nPlot:\nWelcome to the unforgiving Wild West, where land is paid for in lead! After years of hard service, Retired Colonel Harper just wants to settle down peacefully and retire to a beautiful prized ranch. However, the ruthless and wealthy landowner Bart Ambler (Teodoro Corrà) also has his greedy eyes on the very same property—which is destined to grow in value with the arrival of the railroad—and is willing to do whatever it takes to claim it. When intimidation turns into violence, Harper relies on his tough-as-nails business partner, the quick-drawing half-breed Larry Mallory (played by Spaghetti Western legend Robert Woods). Outnumbered but never outgunned, Mallory must take a bloody stand against Ambler's hired thugs to protect the ranch and serve frontier justice.\n\n🤠 Genre: Spaghetti Western / Action / Classic Western\n🎬 Director: Mario Moroni\n✍️ Writer: Mario Moroni\n🌟 Cast: Robert Woods, Gabriella Giorgelli, Teodoro Corrà, Renato Baldini\n\n⏳ Movie Chapters:\n00:00 Introduction: Welcome to the unforgiving West\n08:15 A prized property: Colonel Harper buys the ranch\n17:30 The threat: The ruthless Bart Ambler makes his move\n28:40 Enter Larry Mallory: A deadly and loyal partnership\n39:10 Trouble in town: Intimidation and saloon brawls\n50:20 Ambler's gang strikes: The ranch under heavy pressure\n01:02:15 Mallory takes a stand: Gunsmoke and frontier justice\n01:14:30 The ambush: Outnumbered by Ambler's hired thugs\n01:22:40 The final shootout: Mallory against the assassins\n01:27:10 The dust settles: Justice served and credits roll\n\n#MyNameIsMallory #FullMovie #4KUHD #SpaghettiWestern #RobertWoods #WesternMovies #EnglishWestern #ClassicMovies #FreeMovies #WildWest #ActionMovie GC",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduction: Welcome to the unforgiving West"
+        },
+        {
+          "seconds": 495,
+          "label": "A prized property: Colonel Harper buys the ranch"
+        },
+        {
+          "seconds": 1050,
+          "label": "The threat: The ruthless Bart Ambler makes his move"
+        },
+        {
+          "seconds": 1720,
+          "label": "Enter Larry Mallory: A deadly and loyal partnership"
+        },
+        {
+          "seconds": 2350,
+          "label": "Trouble in town: Intimidation and saloon brawls"
+        },
+        {
+          "seconds": 3020,
+          "label": "Ambler's gang strikes: The ranch under heavy pressure"
+        },
+        {
+          "seconds": 3735,
+          "label": "Mallory takes a stand: Gunsmoke and frontier justice"
+        },
+        {
+          "seconds": 4470,
+          "label": "The ambush: Outnumbered by Ambler's hired thugs"
+        },
+        {
+          "seconds": 4960,
+          "label": "The final shootout: Mallory against the assassins"
+        },
+        {
+          "seconds": 5230,
+          "label": "The dust settles: Justice served and credits roll"
+        }
+      ]
+    },
+    {
+      "id": "juC3mnWbGw8",
+      "title": "TRINITY AND SARTANA ARE COMING (1972) | Full Spaghetti Western Movie | English 4K UHD",
+      "publishedAt": "2026-07-17T13:00:18Z",
+      "durationSec": 6094,
+      "thumb": "https://i.ytimg.com/vi/juC3mnWbGw8/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\n🎬 Watch the hilarious action-packed Spaghetti Western comedy \"Trinity and Sartana Are Coming\" (1972) directed by Mario Siciliano, full length and in spectacular 4K Ultra HD!\n\nPlot:\nThe Wild West has never been this funny! The agile and quick-drawing Sartana crosses paths with the heavy-hitting, carefree Trinity. What starts as a spiteful rivalry quickly turns into a chaotic and reluctant partnership. Driven by a mutual love for gold and an uncanny ability to attract trouble, the two gunslingers team up to pull off a daring heist against a ruthless local gang. Packed with epic saloon brawls, spectacular shootouts, and endless comedic banter, this classic \"buddy movie\" perfectly captures the lighthearted spirit of the golden era of Spaghetti Western comedies.\n\n🤠 Genre: Spaghetti Western / Action / Comedy\n🎬 Director: Mario Siciliano\n✍️ Writer: Adriano Bolzoni\n🌟 Cast: Alberto Dell'Acqua (credited as Robert Widmark), Harry Baird, Beatrice Pellegrino, Stelio Candelli\n\n⏳ Movie Chapters:\n00:00 Introduction: Welcome to the Wild West\n08:15 Paths Collide: The first meeting of Trinity and Sartana\n18:30 A Spiteful Rivalry: Competing for the same gold\n28:40 The Saloon Brawl: Flying fists and broken bottles\n39:10 A Reluctant Alliance: Teaming up against the real bad guys\n50:20 Outsmarting the Sheriff: Comic mischief in town\n01:02:15 The Gold Heist: Formulating the master plan\n01:14:30 The Gang Strikes Back: An ambush goes hilariously wrong\n01:25:40 The Final Showdown: Epic fistfights and gunpowder\n01:35:10 Splitting the loot and the final laugh\n01:39:10 Riding into the sunset and credits\n\n#TrinityAndSartana #FullMovie #4KUHD #SpaghettiWestern #ActionComedy #WesternMovies #EnglishWestern #ClassicMovies #FreeMovies #Fistfights #BuddyMovie GC",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduction: Welcome to the Wild West"
+        },
+        {
+          "seconds": 495,
+          "label": "Paths Collide: The first meeting of Trinity and Sartana"
+        },
+        {
+          "seconds": 1110,
+          "label": "A Spiteful Rivalry: Competing for the same gold"
+        },
+        {
+          "seconds": 1720,
+          "label": "The Saloon Brawl: Flying fists and broken bottles"
+        },
+        {
+          "seconds": 2350,
+          "label": "A Reluctant Alliance: Teaming up against the real bad guys"
+        },
+        {
+          "seconds": 3020,
+          "label": "Outsmarting the Sheriff: Comic mischief in town"
+        },
+        {
+          "seconds": 3735,
+          "label": "The Gold Heist: Formulating the master plan"
+        },
+        {
+          "seconds": 4470,
+          "label": "The Gang Strikes Back: An ambush goes hilariously wrong"
+        },
+        {
+          "seconds": 5140,
+          "label": "The Final Showdown: Epic fistfights and gunpowder"
+        },
+        {
+          "seconds": 5710,
+          "label": "Splitting the loot and the final laugh"
+        },
+        {
+          "seconds": 5950,
+          "label": "Riding into the sunset and credits"
+        }
+      ]
+    },
+    {
+      "id": "P67FEbzKRic",
+      "title": "A STRANGER IN PASO BRAVO (1968) | Full Spaghetti Western Movie | English 4K UHD",
+      "publishedAt": "2026-07-12T12:00:03Z",
+      "durationSec": 5547,
+      "thumb": "https://i.ytimg.com/vi/P67FEbzKRic/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\n🎬 Watch the gritty revenge Spaghetti Western \"A Stranger in Paso Bravo\" (1968) directed by Salvatore Rosso, full length and in spectacular 4K Ultra HD!\n\nPlot:\nGary Hamilton (played by the iconic Anthony Steffen) is a man consumed by the ghosts of his past. After spending seven long, grueling years in a grim prison for a crime he didn't commit, he finally returns to the dusty town of Paso Bravo. His only reason for living is revenge. Years ago, his beloved wife and daughter, along with two other innocent people, were brutally murdered in a tragic house fire deliberately set by the town's corrupt and powerful figures. Armed with his deadly skills and an unforgiving thirst for justice, the mysterious stranger begins a relentless hunt for the men responsible for destroying his life. Paso Bravo will soon learn that some sins can only be washed away with blood.\n\n🤠 Genre: Spaghetti Western / Action / Drama\n🎬 Director: Salvatore Rosso\n✍️ Writers: Federico De Urrutia, Lucio Battistrada, Eduardo Manzanos\n🌟 Cast: Anthony Steffen, Eduardo Fajardo, Giulia Rubini, José Jaspe\n\n⏳ Movie Chapters:\n00:00 Introduction: The tragic memory of the fire\n09:15 Released: Gary Hamilton's 7 years in prison come to an end\n18:30 The Stranger Returns: Arriving in the dusty town of Paso Bravo\n28:40 A town ruled by fear: Meeting the corrupt boss Acombar\n39:10 Uncovering the truth: Gary investigates the night of the fire\n50:20 The first confrontation: The stranger shows his deadly skills\n01:02:15 Intimidation and traps: The guilty try to silence Gary\n01:14:30 Pushed to the limit: The quest for vengeance escalates\n01:25:40 The final shootout: Blood and dust in Paso Bravo\n01:31:10 Justice fulfilled: The town is free and credits roll\n\n#AStrangerInPasoBravo #FullMovie #4KUHD #SpaghettiWestern #AnthonySteffen #EduardoFajardo #WesternMovies #EnglishWestern #ClassicMovies #FreeMovies #RevengeMovie GC",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introduction: The tragic memory of the fire"
+        },
+        {
+          "seconds": 555,
+          "label": "Released: Gary Hamilton's 7 years in prison come to an end"
+        },
+        {
+          "seconds": 1110,
+          "label": "The Stranger Returns: Arriving in the dusty town of Paso Bravo"
+        },
+        {
+          "seconds": 1720,
+          "label": "A town ruled by fear: Meeting the corrupt boss Acombar"
+        },
+        {
+          "seconds": 2350,
+          "label": "Uncovering the truth: Gary investigates the night of the fire"
+        },
+        {
+          "seconds": 3020,
+          "label": "The first confrontation: The stranger shows his deadly skills"
+        },
+        {
+          "seconds": 3735,
+          "label": "Intimidation and traps: The guilty try to silence Gary"
+        },
+        {
+          "seconds": 4470,
+          "label": "Pushed to the limit: The quest for vengeance escalates"
+        },
+        {
+          "seconds": 5140,
+          "label": "The final shootout: Blood and dust in Paso Bravo"
+        },
+        {
+          "seconds": 5470,
+          "label": "Justice fulfilled: The town is free and credits roll"
+        }
+      ]
+    }
+  ]
+}

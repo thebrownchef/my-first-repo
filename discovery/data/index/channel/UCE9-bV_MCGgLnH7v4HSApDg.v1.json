@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCE9-bV_MCGgLnH7v4HSApDg",
   "title": "Official RCTI",
   "thumb": "https://yt3.ggpht.com/kTuX58dMBgnqLxEMlk92-LWF4lXv0_gPARPC05L6IvmCWXS1_uFds9oXS6rJzB-y9f5BbUEr=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 6.5,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "2024 Indonesian presidential debate",
       "url": "https://en.wikipedia.org/wiki/2024_Indonesian_presidential_debate",
       "firstSeenAt": "2026-09-02T11:15:12.106Z"
+    },
+    {
+      "id": "channel:UCxcS3gOeEOdim7CwL9l0QvA",
+      "type": "channel",
+      "label": "Indonesian Idol 2026",
+      "url": "https://www.youtube.com/channel/UCxcS3gOeEOdim7CwL9l0QvA",
+      "firstSeenAt": "2026-10-02T12:30:33.416Z"
+    },
+    {
+      "id": "channel:UCeM5Nksgv9_FXTuZ8jkPJPg",
+      "type": "channel",
+      "label": "RCTI Mega Entertainment",
+      "url": "https://www.youtube.com/channel/UCeM5Nksgv9_FXTuZ8jkPJPg",
+      "firstSeenAt": "2026-10-02T12:30:33.536Z"
+    },
+    {
+      "id": "channel:UC-4YiAqrZiysQW73jz6NVww",
+      "type": "channel",
+      "label": "RCTI Infotainment",
+      "url": "https://www.youtube.com/channel/UC-4YiAqrZiysQW73jz6NVww",
+      "firstSeenAt": "2026-10-02T12:30:33.714Z"
     }
   ],
   "recentItems": []

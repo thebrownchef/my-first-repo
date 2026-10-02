@@ -1,0 +1,708 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCO2thUSgz78cRlAVW5iP3pw",
+  "title": "Film&Clips en Español",
+  "thumb": "https://yt3.ggpht.com/SiN_F2DGEUl6aHF7sk86i76XEmauAet7roff_zlgN9EOqi2rLFEe7nZ0lhNlncpPGG1jb-ZtldM=s88-c-k-c0x00ffffff-no-rj",
+  "score": 42,
+  "distinctSourceCount": 42,
+  "hop": 1,
+  "uploadsPerDay": 0.36,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.027Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.235Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.643Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.780Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.882Z"
+    },
+    {
+      "id": "channel:UCUusCgxxEe1eR-S7VDVl0XQ",
+      "type": "channel",
+      "label": "Bizzarro MONSTERS",
+      "url": "https://www.youtube.com/channel/UCUusCgxxEe1eR-S7VDVl0XQ",
+      "firstSeenAt": "2026-10-02T12:30:38.944Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.058Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.182Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.234Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.341Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.548Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.679Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.734Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.789Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.035Z"
+    },
+    {
+      "id": "channel:UC5r5Nk_l94NG797uyJMXzaw",
+      "type": "channel",
+      "label": "Django 360",
+      "url": "https://www.youtube.com/channel/UC5r5Nk_l94NG797uyJMXzaw",
+      "firstSeenAt": "2026-10-02T12:30:40.282Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.335Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.402Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.455Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.588Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.739Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.858Z"
+    },
+    {
+      "id": "channel:UC6phmoJYS81YCkiUdKZ-p2w",
+      "type": "channel",
+      "label": "Cineindo Film Gratis",
+      "url": "https://www.youtube.com/channel/UC6phmoJYS81YCkiUdKZ-p2w",
+      "firstSeenAt": "2026-10-02T12:30:41.025Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.075Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.140Z"
+    },
+    {
+      "id": "channel:UCVqjyX0sPiNKXX-To8v_Mjg",
+      "type": "channel",
+      "label": "Western360",
+      "url": "https://www.youtube.com/channel/UCVqjyX0sPiNKXX-To8v_Mjg",
+      "firstSeenAt": "2026-10-02T12:30:41.189Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.320Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.378Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.431Z"
+    },
+    {
+      "id": "channel:UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "type": "channel",
+      "label": "Bizzarro Madhouse",
+      "url": "https://www.youtube.com/channel/UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "firstSeenAt": "2026-10-02T12:30:41.564Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.779Z"
+    },
+    {
+      "id": "channel:UCAfXQ_YeB7krOEl5vYycnkQ",
+      "type": "channel",
+      "label": "Film Western in Italiano",
+      "url": "https://www.youtube.com/channel/UCAfXQ_YeB7krOEl5vYycnkQ",
+      "firstSeenAt": "2026-10-02T12:30:41.960Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.060Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.107Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.256Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.375Z"
+    },
+    {
+      "id": "channel:UCtrXebUN5dubj6M-q3deEng",
+      "type": "channel",
+      "label": "Film&Clips Documentary",
+      "url": "https://www.youtube.com/channel/UCtrXebUN5dubj6M-q3deEng",
+      "firstSeenAt": "2026-10-02T12:30:42.428Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.474Z"
+    },
+    {
+      "id": "channel:UChdp4YlG64mqKGqpZ9LEpzA",
+      "type": "channel",
+      "label": "Film&Clips Kidz",
+      "url": "https://www.youtube.com/channel/UChdp4YlG64mqKGqpZ9LEpzA",
+      "firstSeenAt": "2026-10-02T12:30:42.617Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.682Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.734Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.780Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "baIZW26OJ3o",
+      "title": "Così parlò Bellavista | Filosofía y Humor en Nápoles (Película Completa 4K)",
+      "publishedAt": "2026-09-30T23:00:26Z",
+      "durationSec": 6054,
+      "thumb": "https://i.ytimg.com/vi/baIZW26OJ3o/mqdefault.jpg",
+      "description": "¡Filosofía, caos y mucho humor en las vibrantes calles de Nápoles! 🤌☕ Disfruta de \"Así habló Bellavista\" (Così parlò Bellavista), una comedia de culto absoluta del cine italiano que te hará reír y reflexionar a partes iguales. Si amas el cine europeo, la cultura italiana, las historias costumbristas y el humor inteligente, deja tu LIKE, SUSCRÍBETE al canal y activa la campanita (🔔) para no perderte nuestras próximas películas completas gratis en HD.\n\nEn la caótica, colorida y fascinante ciudad de Nápoles, seguimos el día a día de Gennaro Bellavista, un profesor de filosofía jubilado que se dedica a impartir sus sabias y peculiares lecciones de vida a un variopinto grupo de amigos, vecinos y familiares. Para Bellavista, la humanidad se divide en dos: los \"hombres de amor\" (los napolitanos, espontáneos, caóticos y cálidos) y los \"hombres de libertad\" (ordenados, puntuales y fríos). La paz de esta curiosa familia \"ampliada\", que intenta sobrevivir a los pequeños problemas de los negocios cotidianos, se ve repentinamente alterada cuando un estricto y eficiente director de Milán (Renato Scarpa) se muda al mismo edificio. El inevitable choque cultural entre la mentalidad milanesa y la filosofía de vida napolitana desatará un torrente de situaciones cómicas, enredos vecinales y lecciones inolvidables sobre la tolerancia y la humanidad.\n\nDirección: Luciano De Crescenzo\nGuion: Luciano De Crescenzo, Riccardo Pazzaglia\nReparto Principal: Renato Scarpa, Tommaso Bianco, Giovanni Attanasio\nGénero: Comedia / Costumbrista / Cine Italiano Clásico\n\n00:00 - Introducción: La vibrante y caótica ciudad de Nápoles\n14:15 - El profesor Bellavista y sus lecciones filosóficas\n28:30 - Hombres de amor vs. Hombres de libertad\n45:20 - El nuevo vecino: La llegada del milanés al edificio\n01:03:10 - El choque cultural: Eficiencia nórdica contra ingenio sureño\n01:18:45 - Los problemas cotidianos de la familia ampliada\n01:31:20 - Debates en el balcón y enredos vecinales\n01:42:00 - Una hermosa lección de convivencia y Créditos\n\n#AsiHabloBellavista #ComediaItaliana #PelículaCompleta #Nápoles #CineItaliano #LucianoDeCrescenzo #Filosofía #CineClásico",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introducción: La vibrante y caótica ciudad de Nápoles"
+        },
+        {
+          "seconds": 855,
+          "label": "El profesor Bellavista y sus lecciones filosóficas"
+        },
+        {
+          "seconds": 1710,
+          "label": "Hombres de amor vs. Hombres de libertad"
+        },
+        {
+          "seconds": 2720,
+          "label": "El nuevo vecino: La llegada del milanés al edificio"
+        },
+        {
+          "seconds": 3790,
+          "label": "El choque cultural: Eficiencia nórdica contra ingenio sureño"
+        },
+        {
+          "seconds": 4725,
+          "label": "Los problemas cotidianos de la familia ampliada"
+        },
+        {
+          "seconds": 5480,
+          "label": "Debates en el balcón y enredos vecinales"
+        },
+        {
+          "seconds": 6120,
+          "label": "Una hermosa lección de convivencia y Créditos"
+        }
+      ]
+    },
+    {
+      "id": "FK82fNb5YjU",
+      "title": "Kiss Them All 2 | Un clásico de la comedia moderna en HD | PELÍCULA COMPLETA",
+      "publishedAt": "2026-09-27T00:15:34Z",
+      "durationSec": 5562,
+      "thumb": "https://i.ytimg.com/vi/FK82fNb5YjU/mqdefault.jpg",
+      "description": "Mira la película completa Una boda muy loca 2 (Gorko! 2) restaurada en alta definición HD High Definition 1080p para nuestra colección de archivo digital de 2026. Dirigida por Zhora Kryzhovnikov y escrita por Aleksey Kazakov junto al propio director, esta disparatada comedia es una de las sátiras familiares más divertidas e irreverentes del cine contemporáneo. Suscríbete al canal para disfrutar de las mejores comedias y películas completas en español.\n\nCon la esperanza de ganar una gran suma de dinero y eludir a sus acreedores, el padrastro de Natasha decide arriesgarlo todo en una peligrosa jugada financiera. Para encubrir la estafa, simula su propia muerte y la familia entera se pone de luto por Boris Ivanovich. El plan parecía perfecto y los preparativos para el falso entierro avanzaban sin contratiempos, hasta que la llegada inesperada de un antiguo socio del padrastro desencadena un caos incontrolable de mentiras, chantajes y situaciones desternillantes. Con las brillantes actuaciones de Yuliya Aleksandrova, Leonid Arkhangelskiy y Egor Koreshkov.\n\nMarcas de tiempo de la película:\n00:00 Inicio de la película y la arriesgada jugada financiera\n25:15 El falso velatorio y los preparativos de la familia\n55:30 La llegada del socio y el inicio del caos familiar\n01:21:40 El desenlace de la farsa y el final antes de los créditos\n\n#UnaBodaMuyLoca2 #PeliculaCompleta #HD1080p #ZhoraKryzhovnikov #YuliyaAleksandrova #EgorKoreshkov #LeonidArkhangelskiy #ComediaDivertida #PeliculaGratis #HighDefinition GM",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inicio de la película y la arriesgada jugada financiera"
+        },
+        {
+          "seconds": 1515,
+          "label": "El falso velatorio y los preparativos de la familia"
+        },
+        {
+          "seconds": 3330,
+          "label": "La llegada del socio y el inicio del caos familiar"
+        },
+        {
+          "seconds": 4900,
+          "label": "El desenlace de la farsa y el final antes de los créditos"
+        }
+      ]
+    },
+    {
+      "id": "T3u--OMKSYs",
+      "title": "Django Undisputed - Película Completa en Español (Claudio Del Falco) HD",
+      "publishedAt": "2026-09-16T02:00:31Z",
+      "durationSec": 5088,
+      "thumb": "https://i.ytimg.com/vi/T3u--OMKSYs/mqdefault.jpg",
+      "description": "Disfruta de la película completa en español «Django Undisputed», una trepidante producción de acción y artes marciales dirigida y protagonizada por el luchador profesional Claudio Del Falco. Una propuesta cargada de combates intensos, torneos clandestinos y pura adrenalina.\n\nSinopsis:\nDjango (Claudio Del Falco) es un luchador formidable marcado por un pasado trágico dentro y fuera del ring. Cuando los problemas personales y las deudas lo llevan al límite, se ve obligado a ingresar en el peligroso circuito de las peleas clandestinas de artes marciales mixtas (MMA). Enfrentándose a oponentes despiadados y a una poderosa red criminal que controla las apuestas del torneo, Django deberá recurrir a todas sus habilidades de combate y fuerza de voluntad para sobrevivir, hacer justicia y proteger a los suyos en la batalla más sangrienta de su vida.\n\nDirección: Claudio Del Falco\n\nGénero: Acción, Artes Marciales, MMA, Peleas Clandestinas, Deporte\n\nReparto: Claudio Del Falco, Stefano Calvagna, Hal Yamanouchi\n\nAño de Estreno: 2021\n\nDuración: aprox. 85 minutos\n\nCalidad: Full HD 1080p\n\n¡SUSCRÍBETE al canal para no perderte las mejores películas completas en español, cine de acción, artes marciales, combates de MMA y las mejores producciones de peleas gratis en alta definición!\n\n#DjangoUndisputed #ClaudioDelFalco #PeliculaCompleta #PeliculasDeAccion #ArtesMarciales #MMA #PeleasClandestinas #PeliculasEnEspañol #CineDePeleas #PeliculasGratis\n\n00:00 - El pasado de Django y su llegada al circuito\n\n14:30 - La primera pelea en la arena clandestina\n\n31:15 - Entrenamiento e intrigas de las apuestas\n\n49:20 - El cerco de la organización criminal\n\n1:10:40 - El torneo final y la batalla decisiva\n\n1:22:15 - El desenlace y créditos finales",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "El pasado de Django y su llegada al circuito"
+        },
+        {
+          "seconds": 870,
+          "label": "La primera pelea en la arena clandestina"
+        },
+        {
+          "seconds": 1875,
+          "label": "Entrenamiento e intrigas de las apuestas"
+        },
+        {
+          "seconds": 2960,
+          "label": "El cerco de la organización criminal"
+        },
+        {
+          "seconds": 4240,
+          "label": "El torneo final y la batalla decisiva"
+        },
+        {
+          "seconds": 4935,
+          "label": "El desenlace y créditos finales"
+        }
+      ]
+    },
+    {
+      "id": "t4A4tIQme3Q",
+      "title": "Misterio en la Villa: Amor y Muerte en el Jardín | Cine de Culto HD",
+      "publishedAt": "2026-09-11T23:00:21Z",
+      "durationSec": 4671,
+      "thumb": "https://i.ytimg.com/vi/t4A4tIQme3Q/mqdefault.jpg",
+      "description": "🎬 ¡Un oscuro secreto y un asesinato grabado en cinta! 📼🩸 Disfruta de \"Amor y Muerte en el Jardín\", un intrigante giallo italiano. Si te apasiona el cine de misterio y los thrillers clásicos, deja un LIKE, SUSCRÍBETE al canal y activa la campanita (🔔) para no perderte nuestras próximas películas completas gratis en HD.\n\nUn solitario profesor alquila una antigua y misteriosa villa aislada para buscar tranquilidad. Sin embargo, su paz se ve repentinamente interrumpida cuando descubre una serie de cintas de audio abandonadas por el inquilino anterior. Al escucharlas, el profesor se sumerge en una perturbadora narración que detalla un estilo de vida disoluto, relaciones prohibidas y los macabros eventos que culminaron en un sangriento asesinato. A medida que desentraña la verdad oculta en las grabaciones sonoras, el peligroso pasado de la villa comienza a acecharlo en el presente, envolviéndolo en una espiral de paranoia y muerte inminente.\n\nDirección: Sauro Scavolini\nGuion: Anna Maria Gelli, Sauro Scavolini\nReparto Principal: Erika Blanc, Peter Lee Lawrence, Ezio Marano\nGénero: Thriller / Giallo / Misterio\n\nTimestamps\n00:00 - Introducción: La llegada del profesor a la misteriosa villa\n14:20 - El hallazgo del magnetófono y las cintas ocultas\n28:35 - La primera grabación: Un pasado disoluto al descubierto\n45:10 - Visiones oscuras y relaciones prohibidas\n01:03:50 - La paranoia y el miedo se apoderan del presente\n01:18:30 - El relato del asesinato y la revelación del criminal\n01:32:15 - El macabro desenlace y Créditos finales\n\n#AmorYMuerteEnElJardin #GialloItaliano #PeliculaCompleta #Thriller #ErikaBlanc #CineDeCulto mb",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introducción: La llegada del profesor a la misteriosa villa"
+        },
+        {
+          "seconds": 860,
+          "label": "El hallazgo del magnetófono y las cintas ocultas"
+        },
+        {
+          "seconds": 1715,
+          "label": "La primera grabación: Un pasado disoluto al descubierto"
+        },
+        {
+          "seconds": 2710,
+          "label": "Visiones oscuras y relaciones prohibidas"
+        },
+        {
+          "seconds": 3830,
+          "label": "La paranoia y el miedo se apoderan del presente"
+        },
+        {
+          "seconds": 4710,
+          "label": "El relato del asesinato y la revelación del criminal"
+        },
+        {
+          "seconds": 5535,
+          "label": "El macabro desenlace y Créditos finales"
+        }
+      ]
+    },
+    {
+      "id": "gyz7Y97hkZo",
+      "title": "El Vuelo 42 (Flight World War II) | Viaje en el tiempo | Película Completa 4K",
+      "publishedAt": "2026-09-04T23:00:15Z",
+      "durationSec": 5098,
+      "thumb": "https://i.ytimg.com/vi/gyz7Y97hkZo/mqdefault.jpg",
+      "description": "🎬 ¡Un vuelo comercial directo al campo de batalla más mortífero de la historia! ✈️💥 Disfruta de \"Vuelo a la Segunda Guerra Mundial\" (Flight World War II), una trepidante aventura de supervivencia y ciencia ficción. Si te encantan los viajes en el tiempo y la acción constante, deja un buen LIKE, SUSCRÍBETE al canal y activa la campanita (🔔) para no perderte nuestras próximas películas gratis en HD.\n\nSinopsis:\nEl Vuelo 42, un moderno avión comercial de pasajeros, se encuentra en su ruta habitual cuando repentinamente es envuelto por una misteriosa y violenta tormenta electromagnética. Al salir de las severas turbulencias, la tripulación y los pasajeros descubren una realidad aterradora: las comunicaciones han caído, el radar muestra cosas imposibles y, al mirar por la ventana, se dan cuenta de que han retrocedido en el tiempo hasta la Francia de 1940. Atrapados en pleno apogeo de la Segunda Guerra Mundial, el avión civil se convierte en el blanco de los implacables cazas alemanes. Sin armamento y con combustible limitado, el capitán y los pasajeros deberán usar tecnología moderna e ingenio para sobrevivir al fuego enemigo, intentar cambiar el curso de la guerra y buscar desesperadamente la forma de atravesar otra tormenta para volver a su época.\n\nDirección: Emile Edwin Smith\nGuion: Jacob Cooney, Bill Hanstock\nReparto Principal: Faran Tahir, Robbie Kay, Aqueela Zoll\nGénero: Ciencia Ficción / Acción / Bélico\n\nTimestamps\n00:00 - Introducción: El despegue del rutinario Vuelo 42\n15:30 - La tormenta electromagnética\n28:45 - ¿Dónde estamos? El impactante descubrimiento del año 1940\n45:10 - Bajo fuego cruzado: Cazas alemanes atacan el avión\n01:05:40 - Tecnología moderna contra tácticas de guerra clásicas\n01:20:15 - Una alianza inesperada y el plan para alterar la historia\n01:32:30 - Atravesar la tormenta de vuelta y Títulos de crédito\n\n#ViajeEnElTiempo #CienciaFiccion #PeliculaCompleta #Accion #FlightWWII #Vuelo42 #SegundaGuerraMundial mb",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Introducción: El despegue del rutinario Vuelo 42"
+        },
+        {
+          "seconds": 930,
+          "label": "La tormenta electromagnética"
+        },
+        {
+          "seconds": 1725,
+          "label": "¿Dónde estamos? El impactante descubrimiento del año 1940"
+        },
+        {
+          "seconds": 2710,
+          "label": "Bajo fuego cruzado: Cazas alemanes atacan el avión"
+        },
+        {
+          "seconds": 3940,
+          "label": "Tecnología moderna contra tácticas de guerra clásicas"
+        },
+        {
+          "seconds": 4815,
+          "label": "Una alianza inesperada y el plan para alterar la historia"
+        },
+        {
+          "seconds": 5550,
+          "label": "Atravesar la tormenta de vuelta y Títulos de crédito"
+        }
+      ]
+    },
+    {
+      "id": "jBCS3ARukx0",
+      "title": "Los 12 desastres de la Navidad | Acción y Sobrevivencia | HD",
+      "publishedAt": "2026-08-30T00:00:14Z",
+      "durationSec": 5382,
+      "thumb": "https://i.ytimg.com/vi/jBCS3ARukx0/mqdefault.jpg",
+      "description": "El caos festivo y destructivo comienza cuando El conteo|regresivo definitivo para el|caos navideño se desata|Un cataclismo global de|tornados volcanes y luces|centelleantes amenaza a un|pequeño pueblo de montaña|durante la temporada navideña|Un padre desesperado y|su hija descubren que|ella es la elegida|para detener la destrucción|total antes de que|llegue el duodécimo día|de Navidad y el|mundo entero llegue a|su fin Con el tiempo agotándose y extraños fenómenos climáticos destruyendo todo a su paso, la familia deberá resolver un antiguo enigma para salvar a la humanidad. Dirigida por Steven R. Monroe y protagonizada por Ed Quinn, Magda Apanowicz y Holly Elissa. ¡Mira la película completa en español (HD)! Si amas las películas del fin del mundo, el cine de catástrofes y las aventuras de ciencia ficción, deja tu \"Me gusta\", dinos en los comentarios qué harías si el apocalipsis comenzara en Navidad, y ¡Suscríbete al canal para más películas gratis!\n\nTítulo: Los 12 desastres de la Navidad (The 12 Disasters of Christmas)\nReparto: Ed Quinn, Magda Apanowicz, Holly Elissa.\nDirector: Steven R. Monroe.\nGuion: Sydney Roper, Rudy Thauberger.\nGénero: Ciencia Ficción, Catástrofes, Acción, Fantasía.\nAño: 2012.\n#Los12DesastresDeLaNavidad #PeliculaCompleta #FinDelMundo #CienciaFiccion #Catastrofe #EdQuinn #MagdaApanowicz #PeliculasGratis #Apocalipsis #Navidad ag",
+      "chapters": []
+    },
+    {
+      "id": "ajRBI-ffqt0",
+      "title": "EL COMEHUESOS | Una pesadilla implacable en el desierto | Película Entera Gratis",
+      "publishedAt": "2026-08-14T00:00:09Z",
+      "durationSec": 5291,
+      "thumb": "https://i.ytimg.com/vi/ajRBI-ffqt0/mqdefault.jpg",
+      "description": "¡Un terror antiguo y una sed insaciable de destrucción! 💀🌵🔥 Disfruta de El comehuesos, una impactante y tensa película de terror, monstruos y supervivencia en el corazón de tierras salvajes. Una pesadilla cinematográfica que te mantendrá al borde del asiento desde el primer minuto. ¡Experimenta este clásico del cine de género completamente gratis, en versión completa y en alta definición (Full HD 1080p)!\n\n[Sinopsis]\nLa codicia humana vuelve a despertar un mal que debió permanecer enterrado para siempre. Durante unas excavaciones en una zona desértica y sagrada, un grupo de trabajadores desentierra accidentalmente un antiguo amuleto, liberando a una criatura mítica y letal conocida por las leyendas locales como \"El Comehuesos\".\n\nEste monstruo indestructible, hecho de puro polvo, huesos y rabia, comienza una brutal cacería, devorando a cualquiera que se cruce en su camino para alimentar su fuerza milenaria. Un pequeño grupo de supervivientes, liderado por el sheriff local y una arqueóloga, tendrá que unir fuerzas con los nativos de la zona para descubrir el único punto débil de la criatura. En una carrera contrarreloj donde el desierto se convierte en una trampa mortal, deberán detener al Comehuesos antes de que extienda su rastro de sangre y cenizas por todo el país.\n\nTítulo en Español\tEl comehuesos\nGénero\tTerror / Acción / Criaturas / Ciencia Ficción / Culto\nAmbiente\tDesierto / Supervivencia / Misterio\nCalidad de Video\tFull HD 1080p / Remasterizada\nIdioma\tEspañol\n\n00:00:00 - Inicio de la película: La maldición de la tierra sagrada\n\n00:11:15 - Las excavaciones y el despertar del Comehuesos\n\n00:23:40 - Desapariciones en el desierto: Primeras víctimas\n\n00:36:20 - El pueblo en alerta: El Sheriff investiga el rastro\n\n00:49:15 - El ataque al campamento y el horror al descubierto\n\n01:02:30 - Revelando la leyenda: En busca del punto débil de la criatura\n\n01:15:45 - La batalla final por la supervivencia en las ruinas\n\n01:28:00 - El destino del monstruo, resolución y Créditos finales\n\nmc",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inicio de la película: La maldición de la tierra sagrada"
+        },
+        {
+          "seconds": 675,
+          "label": "Las excavaciones y el despertar del Comehuesos"
+        },
+        {
+          "seconds": 1420,
+          "label": "Desapariciones en el desierto: Primeras víctimas"
+        },
+        {
+          "seconds": 2180,
+          "label": "El pueblo en alerta: El Sheriff investiga el rastro"
+        },
+        {
+          "seconds": 2955,
+          "label": "El ataque al campamento y el horror al descubierto"
+        },
+        {
+          "seconds": 3750,
+          "label": "Revelando la leyenda: En busca del punto débil de la criatura"
+        },
+        {
+          "seconds": 4545,
+          "label": "La batalla final por la supervivencia en las ruinas"
+        },
+        {
+          "seconds": 5280,
+          "label": "El destino del monstruo, resolución y Créditos finales"
+        }
+      ]
+    },
+    {
+      "id": "Eu0uFagjuRc",
+      "title": "Catástrofe inminente | Earthfall - Película Completa en Español (El Fin de la Tierra) 4K",
+      "publishedAt": "2026-08-02T00:30:11Z",
+      "durationSec": 5340,
+      "thumb": "https://i.ytimg.com/vi/Eu0uFagjuRc/mqdefault.jpg",
+      "description": "Disfruta de la película completa en español \"Earthfall\" (2015), un angustioso thriller apocalíptico de ciencia ficción y catástrofes naturales dirigido por Steven Daniels. Una lucha desesperada por la supervivencia familiar cuando el planeta es arrancado de su órbita, protagonizada por Joe Lando (Doctora Quinn) y Michelle Stafford.\n\nSinopsis:\nLa vida en la Tierra cambia para siempre cuando un planeta errante fuera de control entra en nuestro sistema solar y altera la gravedad terrestre, sacando al planeta de su órbita natural. A medida que la Tierra se aproxima peligrosamente al Sol, el mundo se ve envuelto en un caos climático absoluto: terremotos devastadores, erupciones volcánicas masivas y olas de calor extremas amenaza con destruir toda forma de vida. En medio del colapso de la civilización, un padre determinado debe cruzar un terreno baladío y hostil para reencontrarse con su esposa e hija antes de que la catástrofe planetaria consuma todo a su paso.\n\nDirección: Steven Daniels (Jill Maxcy)\n\nGénero: Ciencia Ficción, Acción, Catástrofes, Apocalíptico\n\nReparto: Joe Lando, Michelle Stafford, Denyse Tontz, Andrew Elvis Miller\n\nAño de estreno: 2015\n\nDuración: aprox. 88 minutos\n\nCalidad: Full HD 1080p\n\nSUSCRÍBETE al canal para no perderte las mejores películas completas de ciencia ficción en español, cine apocalíptico, catástrofes naturales, thrillers de supervivencia y grandes producciones de acción gratis en alta definición.\n\n#Earthfall #PeliculaCompleta #CienciaFiccion #CineApocaliptico #DesastresNaturales #JoeLando #FinDelMundo #PeliculasGratis #CineDeAccion #películasenespañol \n\n00:00 - La anomalía cósmica y el cambio de órbita\n\n15:10 - Los primeros desastres: Terremotos y calor extremo\n\n32:45 - El colapso de la civilización y la separación familiar\n\n50:20 - Odisea a través del terreno devastado\n\n1:10:15 - La carrera final contra el cataclismo\n\n1:24:30 - El desenlace y créditos de cierre",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "La anomalía cósmica y el cambio de órbita"
+        },
+        {
+          "seconds": 910,
+          "label": "Los primeros desastres: Terremotos y calor extremo"
+        },
+        {
+          "seconds": 1965,
+          "label": "El colapso de la civilización y la separación familiar"
+        },
+        {
+          "seconds": 3020,
+          "label": "Odisea a través del terreno devastado"
+        },
+        {
+          "seconds": 4215,
+          "label": "La carrera final contra el cataclismo"
+        },
+        {
+          "seconds": 5070,
+          "label": "El desenlace y créditos de cierre"
+        }
+      ]
+    },
+    {
+      "id": "7-qYitFmUJM",
+      "title": "Luke Perry en: Descenso | Película Completa en Español 4K | Ciencia Ficción",
+      "publishedAt": "2026-07-29T00:30:21Z",
+      "durationSec": 5407,
+      "thumb": "https://i.ytimg.com/vi/7-qYitFmUJM/mqdefault.jpg",
+      "description": "Disfruta de la película completa en español \"Descent\" (2005), una trepidante aventura de ciencia ficción, catástrofes y acción dirigida por Terry Cunningham. Una misión extrema hacia el centro de la Tierra para salvar a la humanidad, protagonizada por Luke Perry (Beverly Hills, 90210) y Michael Dorn (Star Trek).\n\nSinopsis:\nTras una serie de inexplicables y devastadores terremotos que sacuden el planeta, un grupo de científicos descubre una aterradora realidad: el núcleo de la Tierra ha dejado de girar. La pérdida del campo magnético terrestre amenaza con exponer la superficie a una radiación solar letal capaz de erradicar toda forma de vida en cuestión de días. En un esfuerzo desesperado, el gobierno recluta a un brillante geólogo para liderar una misión suicida: perforar miles de kilómetros a través de la corteza terrestre en un vehículo tecnológicamente avanzado, transportar cargas nucleares y detonarlas en las profundidades para reactivar el núcleo antes de que la Tierra sea reducida a cenizas.\n\nDirección: Terry Cunningham\n\nGénero: Ciencia Ficción, Acción, Catástrofes, Aventuras\n\nReparto: Luke Perry, Natalie Brown, Michael Dorn, Rick Roberts, Brandi Ward\n\nAño de estreno: 2005\n\nDuración: aprox. 90 minutos\n\nCalidad: Full HD 1080p\n\nSUSCRÍBETE al canal para no perderte las mejores películas completas de ciencia ficción en español, cine de catástrofes, aventuras extremas, fin del mundo y producciones de acción gratis en alta definición.\n\n#Descent #PeliculaCompleta #LukePerry #CienciaFiccion #CineDeAccion #DesastresNaturales #TerryCunningham #FinDelMundo #PeliculasGratis #CineApocaliptico\n\n00:00 - Terremotos globales y la anomalía del núcleo\n\n13:40 - La reclutación de la tripulación y el proyecto subterráneo\n\n28:15 - El inicio de la perforación hacia las profundidades\n\n46:50 - Colapsos en la corteza y peligros bajo tierra\n\n1:08:20 - El intento desesperado de detonación nuclear\n\n1:22:10 - El clímax final y créditos de cierre",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Terremotos globales y la anomalía del núcleo"
+        },
+        {
+          "seconds": 820,
+          "label": "La reclutación de la tripulación y el proyecto subterráneo"
+        },
+        {
+          "seconds": 1695,
+          "label": "El inicio de la perforación hacia las profundidades"
+        },
+        {
+          "seconds": 2810,
+          "label": "Colapsos en la corteza y peligros bajo tierra"
+        },
+        {
+          "seconds": 4100,
+          "label": "El intento desesperado de detonación nuclear"
+        },
+        {
+          "seconds": 4930,
+          "label": "El clímax final y créditos de cierre"
+        }
+      ]
+    },
+    {
+      "id": "M3jjml0th04",
+      "title": "Las últimas horas de la Tierra | PELÍCULA COMPLETA en Español | Ciencia Ficción 4K",
+      "publishedAt": "2026-07-25T01:15:36Z",
+      "durationSec": 5452,
+      "thumb": "https://i.ytimg.com/vi/M3jjml0th04/mqdefault.jpg",
+      "description": "Disfruta de la película completa en español \"Las últimas horas de la Tierra\" (Earth's Final Hours, 2011), un trepidante thriller de ciencia ficción y apocalipsis dirigido por W.D. Hogan. Una carrera desesperada contra el tiempo para salvar al planeta de la extinción total, protagonizada por Robert Knepper y Bruce Davison.\n\nSinopsis:\nCuando los restos de la colisión de una estrella densa de materia oscura impactan contra la Tierra, la rotación del planeta comienza a frenarse bruscamente. El choque destruye el campo magnético global, desatando una serie de catástrofes naturales devastadoras: tormentas electromagnéticas, cambios climáticos extremos y radiación espacial que amenaza con erradicar a toda la humanidad. Mientras el gobierno intenta ocultar la magnitud del desastre, un grupo de científicos y un agente federal deben desentrañar una red de conspiraciones para activar un proyecto satelital olvidado y restaurar la rotación terrestre antes de que sea demasiado tarde.\n\nDirección: W.D. Hogan (David Hogan)\n\nGénero: Ciencia Ficción, Catástrofes, Apocalíptico, Acción\n\nReparto: Robert Knepper, Julia Benson, Bruce Davison, Cameron Bright\n\nAño de estreno: 2011\n\nDuración: aprox. 85 minutos\n\nCalidad: Full HD 1080p\n\nSUSCRÍBETE al canal para no perderte las mejores películas completas de ciencia ficción en español, cine apocalíptico, catástrofes naturales, thrillers de supervivencia y grandes producciones de acción gratis en alta definición.\n\n#LasUltimasHorasDeLaTierra #EarthsFinalHours #PeliculaCompleta #CienciaFiccion #CineApocaliptico #DesastresNaturales #RobertKnepper #FinDelMundo #PeliculasGratis #cinedeacción \n\n00:00 - El impacto del objeto espacial y los primeros desastres\n\n14:20 - La rotación de la Tierra empieza a frenarse\n\n30:15 - Tormentas electromagnéticas y caos global\n\n48:40 - La conspiración gubernamental secreta\n\n1:05:30 - La misión desesperada para salvar el planeta\n\n1:20:10 - El clímax final y créditos",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "El impacto del objeto espacial y los primeros desastres"
+        },
+        {
+          "seconds": 860,
+          "label": "La rotación de la Tierra empieza a frenarse"
+        },
+        {
+          "seconds": 1815,
+          "label": "Tormentas electromagnéticas y caos global"
+        },
+        {
+          "seconds": 2920,
+          "label": "La conspiración gubernamental secreta"
+        },
+        {
+          "seconds": 3930,
+          "label": "La misión desesperada para salvar el planeta"
+        },
+        {
+          "seconds": 4810,
+          "label": "El clímax final y créditos"
+        }
+      ]
+    },
+    {
+      "id": "9_nBZ5AqpEo",
+      "title": "El Escuadrón Vigilante (Vigilante Diaries) - Película Completa en Español | 4K",
+      "publishedAt": "2026-07-21T02:00:20Z",
+      "durationSec": 6353,
+      "thumb": "https://i.ytimg.com/vi/9_nBZ5AqpEo/mqdefault.jpg",
+      "description": "Disfruta de la película completa en español \"Vigilante Diaries\" (2016), un largometraje de acción explosivo y de alto octanaje dirigido por Christian Sesma. Una propuesta cargada de adrenalina, tiroteos y combates cuerpo a cuerpo que reúne a grandes leyendas del cine de acción y artes marciales como Paul Sloan, la estrella de la MMA Quinton 'Rampage' Jackson, Michael Jai White, Jason Mewes, Michael Madsen y el icónico Danny Trejo.\n\nSinopsis:\n\"El Vigilante\" (Paul Sloan) es un misterioso y letal exagente de operaciones encubiertas (black-ops) reconvertido en un implacable justiciero urbano. Sus sangrientas misiones de rescate y venganza son grabadas y transmitidas en formato de videoblog por un cineasta documental independiente (Jason Mewes), convirtiendo al Vigilante en una polémica celebridad de internet. Sin embargo, cuando el justiciero desaparece en extrañas circunstancias tras un brutal golpe, se desata una salvaje guerra de bandas internacional. Desde las lujosas mansiones de Los Ángeles hasta los peligrosos submundo de Irak, Armenia, Rusia y el Reino Unido, un grupo de letales mercenarios, cárteles mexicanos, mafias armenias y un comando corrupto de las fuerzas especiales se cruzarán en un laberinto de traiciones y plomo donde solo los más fuertes sobrevivirán.\n\nDirección: Christian Sesma\n\nGuion: Christian Sesma, Paul Sloan\n\nGénero: Acción, Crimen, Mercenarios, Suspenso\n\nReparto: Paul Sloan, Quinton 'Rampage' Jackson, Jason Mewes, Michael Jai White, Danny Trejo, Michael Madsen, Mike Hatton\n\nAño de estreno: 2016\n\nDuración: aprox. 107 minutos\n\nCalidad: Full HD 1080p\n\nSUSCRÍBETE al canal para no perderte más películas de acción completas, thrillers de mercenarios, cine de artes marciales, balaceras extremas y las mejores películas gratis en streaming de alta calidad.\n\n#VigilanteDiaries #ElEscuadrónVigilante #PeliculaCompleta #CineDeAccion #MichaelJaiWhite #DannyTrejo #Mercenarios #PeliculasGratis #AccionExtrema #ChristianSesma\n\n00:00 - Las grabaciones del Vigilante: Justicia en las calles\n\n18:15 - El secuestro y el estallido de la guerra de bandas\n\n36:40 - Operación de rescate en el extranjero: Balacera total\n\n55:20 - Traiciones cruzadas: La mafia armenia y el cártel\n\n1:18:10 - Los mercenarios entran en acción: Máxima adrenalina\n\n1:39:45 - El enfrentamiento final y créditos de cierre\n\nsz",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Las grabaciones del Vigilante: Justicia en las calles"
+        },
+        {
+          "seconds": 1095,
+          "label": "El secuestro y el estallido de la guerra de bandas"
+        },
+        {
+          "seconds": 2200,
+          "label": "Operación de rescate en el extranjero: Balacera total"
+        },
+        {
+          "seconds": 3320,
+          "label": "Traiciones cruzadas: La mafia armenia y el cártel"
+        },
+        {
+          "seconds": 4690,
+          "label": "Los mercenarios entran en acción: Máxima adrenalina"
+        },
+        {
+          "seconds": 5985,
+          "label": "El enfrentamiento final y créditos de cierre"
+        }
+      ]
+    },
+    {
+      "id": "KdWL1zojdM4",
+      "title": "Últimas tardes con Teresa (1984) | PELÍCULA COMPLETA | Clásico del Cine Español 4K",
+      "publishedAt": "2026-07-10T02:00:13Z",
+      "durationSec": 6143,
+      "thumb": "https://i.ytimg.com/vi/KdWL1zojdM4/mqdefault.jpg",
+      "description": "Disfruta de la película completa \"Últimas tardes con Teresa\" (1984), la aclamada adaptación cinematográfica de la obra maestra literaria de Juan Marsé, dirigida con maestría por Gonzalo Herralde. Un retrato crudo, romántico y melancólico de las barreras sociales, el desencanto juvenil y la Barcelona de los años 60, que cuenta con las actuaciones de Ángel Alcázar y una joven Maribel Verdú.\n\nSinopsis:\nAmbientada en la Barcelona de 1956, la trama sigue las andanzas de Manolo Reyes, alias \"Pijoaparte\" (Ángel Alcázar), un atractivo e impulsivo joven de clase obrera, originario del sur, que sobrevive en los suburbios del monte Carmelo mediante el robo de motos y pequeños hurtos. Ambicioso y cansado de la miseria, Manolo sueña con alcanzar el estatus, el dinero y el prestigio de la alta burguesía catalana. Su oportunidad surge cuando conoce a Teresa Serrat (Patricia Adriani), una hermosa, ingenua y adinerada estudiante universitaria de ideas izquierdistas y burguesas. Fascinada por el mito del \"obrero revolucionario\", Teresa confunde al Pijoaparte con un activista político de los suburbios, mientras que él ve en ella el pasaporte hacia el mundo dorado que siempre anheló. Así comienza un apasionado e imposible romance marcado por el engaño, el choque de clases y el inevitable desencanto de una época.\n\nDirección: Gonzalo Herralde\n\nBasada en la novela de: Juan Marsé\n\nGénero: Drama Romántico, Crónica Social, Melodrama, Clásico\n\nReparto: Ángel Alcázar, Patricia Adriani, Maribel Verdú, Cristina Marsillach, Alberto Closas, Guillermo Montesinos\n\nAño de estreno: 1984\n\nDuración: aprox. 105 minutos\n\nCalidad: HD / Remasterizada\n\nSUSCRÍBETE al canal para no perderte las grandes obras maestras del cine español completo, adaptaciones literarias clásicas, dramas románticos históricos, cine de culto de los años 80 y las mejores joyas de nuestra cinematografía gratis en alta definición.\n\n#UltimasTardesConTeresa #JuanMarsé #PeliculaCompleta #CineEspañol #GonzaloHerralde #MaribelVerdú #Pijoaparte #AdaptacionLiteraria #DramaRomantico #ClásicosDelCine\n\n00:00 - Barcelona 1956: La vida del Pijoaparte en los suburbios\n\n18:15 - El cruce de mundos: Manolo conoce a la burguesía\n\n38:40 - El juego del engaño: Teresa y el falso revolucionario\n\n1:02:10 - Últimas tardes con Teresa: El apogeo del romance\n\n1:25:35 - El peso de la realidad y el choque social\n\n1:40:00 - Desenlace melancólico y créditos finales",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Barcelona 1956: La vida del Pijoaparte en los suburbios"
+        },
+        {
+          "seconds": 1095,
+          "label": "El cruce de mundos: Manolo conoce a la burguesía"
+        },
+        {
+          "seconds": 2320,
+          "label": "El juego del engaño: Teresa y el falso revolucionario"
+        },
+        {
+          "seconds": 3730,
+          "label": "Últimas tardes con Teresa: El apogeo del romance"
+        },
+        {
+          "seconds": 5135,
+          "label": "El peso de la realidad y el choque social"
+        },
+        {
+          "seconds": 6000,
+          "label": "Desenlace melancólico y créditos finales"
+        }
+      ]
+    }
+  ]
+}

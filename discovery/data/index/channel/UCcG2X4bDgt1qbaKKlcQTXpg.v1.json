@@ -1,0 +1,686 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCcG2X4bDgt1qbaKKlcQTXpg",
+  "title": "Film&Clips em Português",
+  "thumb": "https://yt3.ggpht.com/hj67ImzUqynj-EwvthXxwn96tIzgDU1-digAk3d3CxRD43bXX5nYGRSIynT-gQHnYs_7hIGNOjY=s88-c-k-c0x00ffffff-no-rj",
+  "score": 40,
+  "distinctSourceCount": 40,
+  "hop": 1,
+  "uploadsPerDay": 0.32,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.028Z"
+    },
+    {
+      "id": "channel:UC8idDZUrVvbxRaVFtUvi6Uw",
+      "type": "channel",
+      "label": "Japanese movies 日本映画",
+      "url": "https://www.youtube.com/channel/UC8idDZUrVvbxRaVFtUvi6Uw",
+      "firstSeenAt": "2026-10-02T12:30:38.235Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.642Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.780Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.884Z"
+    },
+    {
+      "id": "channel:UCUusCgxxEe1eR-S7VDVl0XQ",
+      "type": "channel",
+      "label": "Bizzarro MONSTERS",
+      "url": "https://www.youtube.com/channel/UCUusCgxxEe1eR-S7VDVl0XQ",
+      "firstSeenAt": "2026-10-02T12:30:38.942Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.059Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.183Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.234Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.341Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.549Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.681Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.734Z"
+    },
+    {
+      "id": "channel:UCrOEtTBw_nUv_r5x7Uvebag",
+      "type": "channel",
+      "label": "Film&Clips Commedia",
+      "url": "https://www.youtube.com/channel/UCrOEtTBw_nUv_r5x7Uvebag",
+      "firstSeenAt": "2026-10-02T12:30:39.790Z"
+    },
+    {
+      "id": "channel:UCoXMyv82LqKoKEedzGaZPgQ",
+      "type": "channel",
+      "label": "Film&Clips Eroi e Leggende",
+      "url": "https://www.youtube.com/channel/UCoXMyv82LqKoKEedzGaZPgQ",
+      "firstSeenAt": "2026-10-02T12:30:40.034Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.336Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.402Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.456Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.587Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.739Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.857Z"
+    },
+    {
+      "id": "channel:UC6phmoJYS81YCkiUdKZ-p2w",
+      "type": "channel",
+      "label": "Cineindo Film Gratis",
+      "url": "https://www.youtube.com/channel/UC6phmoJYS81YCkiUdKZ-p2w",
+      "firstSeenAt": "2026-10-02T12:30:41.025Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.074Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.140Z"
+    },
+    {
+      "id": "channel:UCVqjyX0sPiNKXX-To8v_Mjg",
+      "type": "channel",
+      "label": "Western360",
+      "url": "https://www.youtube.com/channel/UCVqjyX0sPiNKXX-To8v_Mjg",
+      "firstSeenAt": "2026-10-02T12:30:41.189Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.322Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.381Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.430Z"
+    },
+    {
+      "id": "channel:UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "type": "channel",
+      "label": "Bizzarro Madhouse",
+      "url": "https://www.youtube.com/channel/UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "firstSeenAt": "2026-10-02T12:30:41.565Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.779Z"
+    },
+    {
+      "id": "channel:UCAfXQ_YeB7krOEl5vYycnkQ",
+      "type": "channel",
+      "label": "Film Western in Italiano",
+      "url": "https://www.youtube.com/channel/UCAfXQ_YeB7krOEl5vYycnkQ",
+      "firstSeenAt": "2026-10-02T12:30:41.960Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.059Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.107Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.257Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.376Z"
+    },
+    {
+      "id": "channel:UCtrXebUN5dubj6M-q3deEng",
+      "type": "channel",
+      "label": "Film&Clips Documentary",
+      "url": "https://www.youtube.com/channel/UCtrXebUN5dubj6M-q3deEng",
+      "firstSeenAt": "2026-10-02T12:30:42.428Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.474Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.682Z"
+    },
+    {
+      "id": "channel:UCLzVSxUlNzVQFl2LF8cmaAg",
+      "type": "channel",
+      "label": "Film&Clips Western Movies",
+      "url": "https://www.youtube.com/channel/UCLzVSxUlNzVQFl2LF8cmaAg",
+      "firstSeenAt": "2026-10-02T12:30:42.733Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.780Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "6XWytT5h5Nw",
+      "title": "Um Casamento Muito Louco 2 | Yuliya Aleksandrova & Egor Koreshkov HD | FILME",
+      "publishedAt": "2026-09-30T23:30:19Z",
+      "durationSec": 5562,
+      "thumb": "https://i.ytimg.com/vi/6XWytT5h5Nw/mqdefault.jpg",
+      "description": "Assista ao filme completo Um Casamento Muito Louco 2 (Gorko! 2) restaurado em alta definição HD High Definition 1080p para nossa coleção de arquivo digital de 2026. Dirigido por Zhora Kryzhovnikov e escrito por Aleksey Kazakov ao lado do próprio diretor, este filme é uma das comédias mais irreverentes e populares sobre rivalidades e trapalhadas familiares. Inscreva-se no canal para acompanhar os melhores filmes e comédias em alta definição.\n\nNa esperança de faturar uma bolada e escapar de credores, o padrasto de Natasha decide arriscar tudo em uma aposta financeira arriscada. Para cobrir o golpe, ele finge a própria morte e a família inteira entra em luto por Boris Ivanovich. O plano parecia perfeito e os preparativos para o falso velório seguiam a todo vapor, até que a chegada inesperada de um antigo sócio do padrasto transforma o plano em uma espiral incontrolável de mentiras, chantagens e confusões hilariantes. Com atuações brilhantes de Yuliya Aleksandrova, Leonid Arkhangelskiy e Egor Koreshkov.\n\nMarcadores de tempo do filme:\n00:00 Início do filme e a nova armação financeira\n25:15 A encenação do falso velório e os preparativos da família\n55:30 A chegada do sócio e o início do caos inacreditável\n01:21:40 O desfecho da farsa e o final antes dos créditos\n\n#UmCasamentoMuitoLouco2 #FilmeCompleto #HD1080p #ZhoraKryzhovnikov #YuliyaAleksandrova #EgorKoreshkov #LeonidArkhangelskiy #ComediaEngracada #FilmeGratis gm",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Início do filme e a nova armação financeira"
+        },
+        {
+          "seconds": 1515,
+          "label": "A encenação do falso velório e os preparativos da família"
+        },
+        {
+          "seconds": 3330,
+          "label": "A chegada do sócio e o início do caos inacreditável"
+        },
+        {
+          "seconds": 4900,
+          "label": "O desfecho da farsa e o final antes dos créditos"
+        }
+      ]
+    },
+    {
+      "id": "CU_dkxm1Wqo",
+      "title": "Guardian (2001) | Filme Completo 4K Ultra HD Ação Sobrenatural | Mario Van Peebles",
+      "publishedAt": "2026-09-19T22:45:25Z",
+      "durationSec": 6199,
+      "thumb": "https://i.ytimg.com/vi/CU_dkxm1Wqo/mqdefault.jpg",
+      "description": "🌍 MÚLTIPLOS SUBTÍTULOS DISPONÍVEIS! Clique no botão \"CC\" (Legendas) e no ícone da engrenagem de Configurações (⚙️) no canto inferior direito do player de vídeo para escolher o seu idioma preferido.\n\n---\n\nUma droga mortal nas ruas de Los Angeles, uma força sombria milenar e dois detetives em uma corrida contra o mal! Prepare-se para uma produção explosiva que mistura ação policial e horror sobrenatural. Assista ao filme completo \"Guardian\" (título original no IMDb: Guardian, 2001), um suspense eletrizante dirigido por John Terlesky. Estrelando Mario Van Peebles ao lado de James Remar e Stacy Oversier, esta impactante produção chega ao nosso canal totalmente restaurada na incrível resolução 4K Ultra HD (2160p)!\n\nEnquanto investigam uma onda incontrolável de violência brutal nas ruas de Los Angeles, os detetives Kaelin (Mario Van Peebles) e Carpenter (James Remar) descobrem a circulação de uma nova e perigosa droga sintética. No entanto, à medida que os corpos se acumulam, a investigação revela uma verdade aterrorizante: a substância está conectada ao despertar de uma entidade demônio antiga e maligna. Agora, os dois policiais precisarão unir forças para enfrentar uma ameaça que vai além do mundo físico antes que o caos tome conta da cidade inteira.\n\n👉 INSCREVA-SE NO CANAL e clique no sininho de notificações (🔔) para não perder nossos lançamentos diários de filmes completos de ação, ficção científica, suspenses sobrenaturais e produções policiais em 4K Ultra HD gratuitamente!\n\n- Título em Português: Guardian (Título Original no IMDb: Guardian | Título Internacional: Guardian)\n- Ano de Lançamento: 2001 (Versão Remasterizada: 2026)\n- Direção: John Terlesky\n- Roteiro: Jeff Yagher | Gary J. Tunnicliffe | John Terlesky\n- Trilha Sonora Original: Christopher Lennertz\n- Estúdio de Produção: Franchise Pictures / Film and Clips Classics\n- Elenco Principal: Mario Van Peebles (Detetive Kaelin) | James Remar (Detetive Carpenter) | Stacy Oversier (Selene) | Daniel Hugh Kelly | Ice-T | Brent Huff\n- Gênero: Ação / Ficção Científica / Suspense Sobrenatural / Crime / Policial\n- Qualidade de Vídeo: 4K Ultra HD (2160p - Versão Remasterizada)\n- Duração: Aprox. 90 minutos\n- Idioma: Áudio Original com Múltiplos Subtítulos Disponíveis (Inclui Português)\n\n---\n\n00:00:00 - Início do filme: A onda de violência nas ruas de Los Angeles em 4K UHD\n00:12:30 - A Nova Droga: Kaelin e Carpenter iniciam a investigação cena\n00:25:15 - Conexões Sinistras: Primeiros indícios da força sobrenatural vídeo\n00:38:40 - Ataque Misterioso: Os detetives enfrentam o poder da entidade momento\n00:52:10 - Desvendando o Segredo: O ritual antigo e a droga mortal história\n01:06:45 - Confronto nas Ruas: Ação e tiroteios contra os infectados ação\n01:18:30 - A Batalha Final: Detetives contra a entidade sombria duelo\n01:25:00 - Encerramento e créditos finais wrap\n\n---\n\nAssista ao filme completo \"Guardian\" (2001), um suspense policial e sobrenatural estrelado por Mario Van Peebles, James Remar e Stacy Oversier. Se você procura por filmes completos de ação em 4K Ultra HD, investigações policiais com toque de horror, ficção científica e mistérios da droga mortal, este canal oferece o melhor entretenimento de forma legal e gratuita.\n\n#Guardian #Guardian2001 #MarioVanPeebles #JamesRemar #StacyOversier #JohnTerlesky #FilmeDeAcao #SuspenseSobrenatural #FiccaoCientifica #FilmeCompleto #4K #4KUltraHD #FilmesGratis Ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Início do filme: A onda de violência nas ruas de Los Angeles em 4K UHD"
+        },
+        {
+          "seconds": 750,
+          "label": "A Nova Droga: Kaelin e Carpenter iniciam a investigação cena"
+        },
+        {
+          "seconds": 1515,
+          "label": "Conexões Sinistras: Primeiros indícios da força sobrenatural vídeo"
+        },
+        {
+          "seconds": 2320,
+          "label": "Ataque Misterioso: Os detetives enfrentam o poder da entidade momento"
+        },
+        {
+          "seconds": 3130,
+          "label": "Desvendando o Segredo: O ritual antigo e a droga mortal história"
+        },
+        {
+          "seconds": 4005,
+          "label": "Confronto nas Ruas: Ação e tiroteios contra os infectados ação"
+        },
+        {
+          "seconds": 4710,
+          "label": "A Batalha Final: Detetives contra a entidade sombria duelo"
+        },
+        {
+          "seconds": 5100,
+          "label": "Encerramento e créditos finais wrap"
+        }
+      ]
+    },
+    {
+      "id": "rO2vDxy5aaA",
+      "title": "Zorro | Filme Completo 4K Ultra HD Aventura e Capa e Espada | Alain Delon",
+      "publishedAt": "2026-09-04T23:15:31Z",
+      "durationSec": 6992,
+      "thumb": "https://i.ytimg.com/vi/rO2vDxy5aaA/mqdefault.jpg",
+      "description": "🌍 MÚLTIPLOS SUBTÍTULOS DISPONÍVEIS! Clique no botão \"CC\" (Legendas) e no ícone da engrenagem de Configurações (⚙️) no canto inferior direito do player de vídeo para escolher o seu idioma preferido.\n\n---\n\nA justiça tem um novo rosto... e uma marca inconfundível! Prepare-se para uma aventura lendária repleta de duelos de espada magistrais, humor e ação espetacular. Assista ao filme completo \"Zorro\" (título original no IMDb: Zorro, 1975), uma das adaptações mais amadas do herói mascarado, dirigida pelo mestre Duccio Tessari. Estrelando o ícone do cinema mundial Alain Delon ao lado de Stanley Baker e Ottavia Piccolo, este clássico inesquecível chega ao nosso canal totalmente restaurado na incrível resolução 4K Ultra HD (2160p)!\n\nNo Novo Mundo, a província de Nueva Aragón sofre sob o punho de ferro e a tirania do corrupto Coronel Huerta. A esperança ressurge com a chegada do novo governador, Don Diego de la Vega, que assume uma postura aparentemente covarde para não levantar suspeitas. No entanto, sob a máscara do lendário Zorro, Diego trava duelos de espada brilhantes e protagoniza fugas audazes para libertar o povo oprimido, combater a injustiça e restaurar a ordem na região.\n\n👉 INSCREVA-SE NO CANAL e clique no sininho de notificações (🔔) para não perder nossos lançamentos diários de filmes completos de aventura, clássicos de capa e espada, produções históricas e tesouros do cinema europeu restaurados em 4K Ultra HD inteiramente grátis!\n\n- Título em Português: Zorro (Título Original no IMDb: Zorro | Título Internacional: Zorro)\n- Ano de Lançamento: 1975 (Versão Remasterizada: 2026)\n- Direção: Duccio Tessari\n- Roteiro: Giorgio Arlorio\n- Trilha Sonora Original: Guido De Angelis | Maurizio De Angelis (Oliver Onions)\n- Estúdio de Produção: Mondial TeFi / Les Productions Artistes Associés / Film and Clips Classics\n- Elenco Principal: Alain Delon (Don Diego de la Vega / Zorro) | Stanley Baker (Coronel Huerta) | Ottavia Piccolo (Ortensia Pulido) | Moustache (Sargento Garcia) | Enzo Cerusico | Giacomo Rossi Stuart\n- Gênero: Aventura / Ação / Capa e Espada / Comédia / Faroeste\n- Qualidade de Vídeo: 4K Ultra HD (2160p - Versão Remasterizada)\n- Duração: Aprox. 124 minutos\n- Idioma: Áudio Original com Múltiplos Subtítulos Disponíveis (Incluindo Português)\n\n---\n\n⏱️ LINHA DO TEMPO DOS CAPÍTULOS (TIMESTAMPS):\n00:00:00 - Início do filme: A tirania do Coronel Huerta em Nueva Aragón em 4K UHD\n00:15:30 - A Chegada de Don Diego: A máscara do novo governador cena\n00:32:15 - A Primeira Aparição do Zorro: Duelos e a marca da justiça vídeo\n00:48:40 - Defendendo os Oprimidos: A aliança secreta com Ortensia momento\n01:05:10 - O Sargento Garcia e as confusões no quartel história\n01:22:45 - A Armadilha de Huerta: O cerco contra o herói mascarado ação\n01:45:00 - O Duelo Final de Espadas: Zorro contra o Coronel Huerta confronto\n02:00:30 - Epílogo, a vitória da justiça e créditos finais encerramento\n\n---\n\n🔍 SOBRE ESTE FILME (SEO & INFO):\nAssista ao filme completo \"Zorro\" (1975), um clássico inesquecível de aventura e capa e espada estrelado por Alain Delon e dirigido por Duccio Tessari. Se você procura por filmes completos grátis em português em 4K Ultra HD, histórias do herói mascarado Zorro, duelos de espada impressionantes e o melhor do cinema cult europeu restaurado legalmente e gratuitamente, este canal oferece o melhor do entretenimento digital.\n\n#Zorro #Zorro1975 #AlainDelon #StanleyBaker #OttaviaPiccolo #DuccioTessari #CapaEEspada #FilmeDeAventura #FilmeCompleto #4K #4KUltraHD #FilmesGratis ag",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Início do filme: A tirania do Coronel Huerta em Nueva Aragón em 4K UHD"
+        },
+        {
+          "seconds": 930,
+          "label": "A Chegada de Don Diego: A máscara do novo governador cena"
+        },
+        {
+          "seconds": 1935,
+          "label": "A Primeira Aparição do Zorro: Duelos e a marca da justiça vídeo"
+        },
+        {
+          "seconds": 2920,
+          "label": "Defendendo os Oprimidos: A aliança secreta com Ortensia momento"
+        },
+        {
+          "seconds": 3910,
+          "label": "O Sargento Garcia e as confusões no quartel história"
+        },
+        {
+          "seconds": 4965,
+          "label": "A Armadilha de Huerta: O cerco contra o herói mascarado ação"
+        },
+        {
+          "seconds": 6300,
+          "label": "O Duelo Final de Espadas: Zorro contra o Coronel Huerta confronto"
+        },
+        {
+          "seconds": 7230,
+          "label": "Epílogo, a vitória da justiça e créditos finais encerramento"
+        }
+      ]
+    },
+    {
+      "id": "mFRaaoJEsrg",
+      "title": "Komodo vs. Cobra - Filme Completo Dublado em Português (Jim Wynorski) 4K",
+      "publishedAt": "2026-08-14T02:00:17Z",
+      "durationSec": 6227,
+      "thumb": "https://i.ytimg.com/vi/mFRaaoJEsrg/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nAssista ao filme completo em português \"Komodo vs. Cobra\" (2005), um clássico filme de monstros gigantes e ficção científica dirigido pelo ícone do cinema B Jim Wynorski. Uma aventura repleta de ação, répteis mutantes e muita adrenalina estrelada por Michael Paré (Ruas de Fogo) e Michelle Borth (Hawaii Five-0).\n\nSinopse:\nUma equipe de ativistas ambientais e jornalistas viaja até uma ilha militar secreta no Pacífico para investigar relatórios de experimentos genéticos ilegais. Ao chegarem lá, eles descobrem uma terrível verdade: o projeto secreto \"Odisséia\" deu tragicamente errado, resultando na criação de duas feras mutantes gigantescas — um Dragão de Komodo e uma Cobra Naja colossais. Presos no meio do oceano e caçados por ambas as criaturas famintas, o grupo precisa se unir a um capitão de barco durão (Michael Paré) para sobreviver enquanto os dois monstros gigantes travam uma batalha sangrenta pelo topo da cadeia alimentar.\n\nDireção: Jim Wynorski (como Jay Andrews)\n\nGênero: Terror, Ficção Científica, Ação, Monstros, Cinema B\n\nElenco: Michael Paré, Michelle Borth, Ryan McTavish, Renee Talbert, Jerri Manthey\n\nAno de Lançamento: 2005\n\nDuração: aprox. 90 minutos\n\nQualidade: Full HD 1080p\n\nINSCREVA-SE no canal para não perder os melhores filmes completos em português, terror de monstros, ficção científica, clássicos trash do Syfy e grandes produções de ação B grátis em alta definição!\n\n#KomodoVsCobra #FilmeCompleto #FilmesDeTerror #MonstrosGigantes #JimWynorski #MichaelPare #FiccaoCientifica #CinemaB #FilmesDublados #FilmesGratis\n\n00:00 - A chegada à ilha militar secreta\n\n14:20 - O primeiro ataque do Dragão de Komodo gigante\n\n31:40 - A Cobra Naja colossal entra em ação\n\n48:15 - A fuga desesperada pela selva\n\n1:09:30 - O confronto mortal entre as duas feras\n\n1:23:45 - O clímax final e créditos de encerramento",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "A chegada à ilha militar secreta"
+        },
+        {
+          "seconds": 860,
+          "label": "O primeiro ataque do Dragão de Komodo gigante"
+        },
+        {
+          "seconds": 1900,
+          "label": "A Cobra Naja colossal entra em ação"
+        },
+        {
+          "seconds": 2895,
+          "label": "A fuga desesperada pela selva"
+        },
+        {
+          "seconds": 4170,
+          "label": "O confronto mortal entre as duas feras"
+        },
+        {
+          "seconds": 5025,
+          "label": "O clímax final e créditos de encerramento"
+        }
+      ]
+    },
+    {
+      "id": "OayupAYFYeg",
+      "title": "Armadilha do Caçador (2019) | FILME COMPLETO em Português | Segunda Guerra & Drama HD",
+      "publishedAt": "2026-08-07T00:30:01Z",
+      "durationSec": 6020,
+      "thumb": "https://i.ytimg.com/vi/OayupAYFYeg/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nAssista ao filme completo em português \"Armadilha do Caçador\" (The Birdcatcher, 2019), um impactante drama histórico de guerra e suspense psicológico dirigido por Ross Clarke. Uma história emocionante de coragem, disfarce e sobrevivência durante um dos períodos mais sombrios da humanidade.\n\nSinopse:\nNoruega, 1942. Durante a ocupação nazista, Esther (Sarah-Sofie Boussnina), uma jovem judia de 17 anos com o sonho de se tornar atriz, vê sua família ser capturada. Na tentativa desesperada de escapar da deportação para os campos de concentração, ela consegue fugir para uma fazenda isolada perto da fronteira com a Suécia. Para sobreviver em território inimigo, Esther toma uma decisão extrema: disfarça-se como um garoto e consegue trabalho na propriedade de uma família de simpatizantes nazistas. Vivendo sob uma identidade falsa constante, cada gesto, palavra e olhar pode ser fatal. Esther precisará usar todo o seu talento para encenar o papel de sua vida e escapar da armadilha mortal que a cerca.\n\nDireção: Ross Clarke\n\nGênero: Drama Histórico, Guerra, Suspense, Sobrevivência\n\nElenco: Sarah-Sofie Boussnina, Jakob Cedergren, Laura Birn, August Wittgenstein, Johannes Kuhnke\n\nAno de Lançamento: 2019\n\nDuração: aprox. 100 minutos\n\nQualidade: Full HD 1080p\n\nINSCREVA-SE no canal para não perder os melhores filmes completos em português, dramas de Segunda Guerra Mundial, filmes históricos de sobrevivência, suspense de época e grandes produções premiadas grátis em alta definição!\n\n#ArmadilhaDoCacador #TheBirdcatcher #FilmeCompleto #SegundaGuerraMundial #DramaHistorico #FilmesDublados #RossClarke #FilmesDeGuerra #CinemaHistorico #FilmesGratis\n\n00:00 - A ocupação na Noruega e a fuga de Esther\n\n16:40 - A chegada à fazenda isolada\n\n33:15 - O disfarce e a nova identidade como garoto\n\n52:30 - A tensão constante e os segredos da família\n\n1:15:10 - O perigo de ser descoberta se aproxima\n\n1:32:00 - A tentativa final de fuga e créditos de encerramento",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "A ocupação na Noruega e a fuga de Esther"
+        },
+        {
+          "seconds": 1000,
+          "label": "A chegada à fazenda isolada"
+        },
+        {
+          "seconds": 1995,
+          "label": "O disfarce e a nova identidade como garoto"
+        },
+        {
+          "seconds": 3150,
+          "label": "A tensão constante e os segredos da família"
+        },
+        {
+          "seconds": 4510,
+          "label": "O perigo de ser descoberta se aproxima"
+        },
+        {
+          "seconds": 5520,
+          "label": "A tentativa final de fuga e créditos de encerramento"
+        }
+      ]
+    },
+    {
+      "id": "1ALDPCvVfWY",
+      "title": "O Pistoleiro Sem Alma | FILME COMPLETO em Português | Spaghetti Western HD",
+      "publishedAt": "2026-07-31T02:15:02Z",
+      "durationSec": 5002,
+      "thumb": "https://i.ytimg.com/vi/1ALDPCvVfWY/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nAssista ao filme completo em português \"O Pistoleiro Sem Alma\" (Una bara per lo sceriffo, 1965), um dos grandes clássicos do Spaghetti Western dirigido por Mario Caiano. Um empolgante filme de vingança e ação estrelado pela grande ícone do faroeste italiano Anthony Steffen ao lado de Eduardo Fajardo.\n\nSinopse:\nJoe Logan (Anthony Steffen), um homem misterioso e de poucas palavras, se infiltra em um bando de implacáveis bandidos liderados pelo cruel Lupe Rojo (Eduardo Fajardo). Todos acreditam que Joe é apenas mais um criminoso em busca de ouro e saques fáceis. No entanto, o verdadeiro objetivo de Joe é estritamente pessoal: ele busca vingança contra o grupo responsável pelo assassinato de sua esposa e pela destruição de sua vida. Fingindo lealdade aos bandidos, Joe espera o momento exato para aplicar sua própria justiça com o gatilho mais rápido do Oeste.\n\nDireção: Mario Caiano\n\nGênero: Faroeste, Spaghetti Western, Ação, Drama\n\nElenco: Anthony Steffen, Eduardo Fajardo, Fulvia Franco, Armando Calvo, George Rigaud\n\nAno de Lançamento: 1965\n\nDuração: aprox. 95 minutos\n\nQualidade: Full HD 1080p / Remasterizado\n\nINSCREVA-SE no canal para não perder os melhores filmes completos em português, clássicos do Spaghetti Western, faroestes antigos, filmes de ação vintage e grandes relíquias do cinema grátis em alta definição!\n\n#OPistoleiroSemAlma #UnaBaraPerLoSceriffo #AnthonySteffen #SpaghettiWestern #FilmeCompleto #Faroeste #FilmesDublados #MarioCaiano #FaroesteItaliano #FilmesGratis\n\n00:00 - A chegada do misterioso Joe Logan\n\n16:15 - A infiltração no bando de Lupe Rojo\n\n34:40 - O plano de assalto e as primeiras suspeitas\n\n52:10 - O passado de Joe e o desejo de vingança\n\n1:12:30 - A armadilha contra os bandidos\n\n1:27:00 - O duelo final e créditos de encerramento",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "A chegada do misterioso Joe Logan"
+        },
+        {
+          "seconds": 975,
+          "label": "A infiltração no bando de Lupe Rojo"
+        },
+        {
+          "seconds": 2080,
+          "label": "O plano de assalto e as primeiras suspeitas"
+        },
+        {
+          "seconds": 3130,
+          "label": "O passado de Joe e o desejo de vingança"
+        },
+        {
+          "seconds": 4350,
+          "label": "A armadilha contra os bandidos"
+        },
+        {
+          "seconds": 5220,
+          "label": "O duelo final e créditos de encerramento"
+        }
+      ]
+    },
+    {
+      "id": "gKEtpCsdfwU",
+      "title": "O Dia em que a Terra Quase Parou | Ficção Científica e Apocalipse 4K",
+      "publishedAt": "2026-07-23T01:00:09Z",
+      "durationSec": 5615,
+      "thumb": "https://i.ytimg.com/vi/gKEtpCsdfwU/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nAssista ao filme completo \"As Últimas Horas da Terra\" (Earth's Final Hours, 2011), um eletrizante suspense de ficção científica e desastre dirigido por W.D. Hogan. Uma corrida desesperada contra o tempo para salvar o planeta da destruição total, estrelado por Robert Knepper e Bruce Davison.\n\nSinopse:\nQuando os fragmentos do colapso de uma estrela densa de matéria escura colidem com o planeta Terra, a rotação do planeta começa a desacelerar bruscamente. O impacto devasta o campo magnético global, desencadeando uma série de catástrofes naturais assustadoras: tempestades eletromagnéticas letais, mudanças climáticas extremas e radiação espacial que ameaça erradicar toda a vida humana. Enquanto o governo tenta esconder a gravidade da situação, um grupo de cientistas e um agente federal precisam desmantelar uma conspiração e ativar um projeto de satélite esquecido para restaurar o giro da Terra antes que seja tarde demais.\n\nDireção: W.D. Hogan (David Hogan)\n\nGênero: Ficção Científica, Ação, Catástrofe, Apocalipse\n\nElenco: Robert Knepper, Julia Benson, Bruce Davison, Cameron Bright\n\nAno de Lançamento: 2011\n\nDuração: aprox. 85 minutos\n\nQualidade: Full HD 1080p\n\nINSCREVA-SE no canal para não perder os melhores filmes completos de ficção científica, cinema de apocalipse, tempestades e desastres naturais, thrillers de sobrevivência e grandes produções de ação grátis em alta definição!\n\n#AsUltimasHorasDaTerra #EarthsFinalHours #FilmeCompleto #FiccaoCientifica #FimDoMundo #DesastresNaturais #RobertKnepper #FilmesApocalipticos #FilmesGratis #CinemaDeCatastrofe\n\n00:00 - O impacto espacial e os primeiros colapsos\n\n14:20 - A rotação da Terra começa a desacelerar\n\n30:15 - Tempestades magnéticas e o caos global\n\n48:40 - A conspiração governamental secreta\n\n1:05:30 - A missão de emergência para salvar o planeta\n\n1:20:10 - O confronto final e créditos",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "O impacto espacial e os primeiros colapsos"
+        },
+        {
+          "seconds": 860,
+          "label": "A rotação da Terra começa a desacelerar"
+        },
+        {
+          "seconds": 1815,
+          "label": "Tempestades magnéticas e o caos global"
+        },
+        {
+          "seconds": 2920,
+          "label": "A conspiração governamental secreta"
+        },
+        {
+          "seconds": 3930,
+          "label": "A missão de emergência para salvar o planeta"
+        },
+        {
+          "seconds": 4810,
+          "label": "O confronto final e créditos"
+        }
+      ]
+    },
+    {
+      "id": "edmuEKpXFnM",
+      "title": "O Monstro de Ferro - Filme Completo Dublado (O Golem de Ferro e Destruição) | HD",
+      "publishedAt": "2026-07-11T02:00:11Z",
+      "durationSec": 5432,
+      "thumb": "https://i.ytimg.com/vi/edmuEKpXFnM/mqdefault.jpg",
+      "description": "Assista ao filme completo dublado \"Metal Shifters\" (Iron Invaders, 2010), um tenso e divertido filme de ficção científica e desastre dirigido pelo renomado cineasta de monstros digitais Paul Ziller. Uma batalha desesperada pela sobrevivência da humanidade contra uma ameaça mecânica vinda do espaço profundo!\n\nSinopse:\nQuando um misterioso meteorito cai em uma pequena e isolada cidade rural, dois irmãos catadores de ferro-velho locais decidem recolher os destroços espaciais sem imaginar o perigo que estão correndo. O metal do meteorito contém uma bactéria alienígena senciente ou um vírus cibernético de alta tecnologia que infecta todo o metal ao seu redor. Rapidamente, o vírus se espalha pelo ferro-velho e dá vida a uma colossal e assustadora escultura de ferro — um gigantesco \"Golem de metal\" assassino. À medida que o monstro de ferro se alimenta de mais metal para crescer e se regenerar, ele espalha um parasita mortal que consome os tecidos dos habitantes. Isolados do mundo, um pequeno grupo de moradores locais precisará se unir para encontrar uma fraqueza na criatura espacial antes que ela evolua para sua forma final e destrua o planeta inteiro.\n\nDireção: Paul Ziller\n\nGênero: Ficção Científica, Sci-Fi, Monstros, Ação, Desastre\n\nElenco: Kavan Smith, Colby Johannson, Nicole de Boer, Chris Gauthier, Paul McGillion\n\nAno de Lançamento: 2010\n\nDuração: aprox. 86 minutos\n\nQualidade: HD 1080p / 720p\n\nINSCREVA-SE no canal para não perder mais filmes de ficção científica completos dublados, invasões alienígenas, monstros gigantes, thrillers de sobrevivência e clássicos do cinema cult de graça em alta definição!\n\n00:00 - A Queda do Meteorito na Cidade\n\n14:25 - O Ferro-Velho e o Nascimento do Golem\n\n32:10 - O Primeiro Ataque do Monstro de Ferro\n\n50:45 - O Parasita Espacial se Espalha\n\n1:12:30 - Plano de Contra-Ataque Contra a Criatura\n\n1:22:15 - A Batalha Final e Créditos",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "A Queda do Meteorito na Cidade"
+        },
+        {
+          "seconds": 865,
+          "label": "O Ferro-Velho e o Nascimento do Golem"
+        },
+        {
+          "seconds": 1930,
+          "label": "O Primeiro Ataque do Monstro de Ferro"
+        },
+        {
+          "seconds": 3045,
+          "label": "O Parasita Espacial se Espalha"
+        },
+        {
+          "seconds": 4350,
+          "label": "Plano de Contra-Ataque Contra a Criatura"
+        },
+        {
+          "seconds": 4935,
+          "label": "A Batalha Final e Créditos"
+        }
+      ]
+    },
+    {
+      "id": "5gVwvcwkHNA",
+      "title": "No Centro da Tempestade | Filme Completo Dublado (Super Tornados, Destruição e Sobrevivência)",
+      "publishedAt": "2026-07-07T03:15:11Z",
+      "durationSec": 5946,
+      "thumb": "https://i.ytimg.com/vi/5gVwvcwkHNA/mqdefault.jpg",
+      "description": "Assista ao filme completo dublado \"Storm Cell\" (2008), um tenso e espetacular filme de catástrofe e desastre natural dirigido pelo renomado cineasta de suspense Steven R. Monroe. Uma corrida frenética contra o tempo e contra as forças mais violentas da natureza, estrelada por Mimi Rogers.\n\nSinopse:\nA renomada cientista e meteorologista April Saunders (Mimi Rogers) carrega traumas profundos do passado, após ter testemunhado um super tornado destruir sua cidade natal quando ainda era criança. Anos depois, sua obsessão pelo estudo de tempestades extremas a leva a identificar um padrão meteorológico assustador e anômalo. Uma gigantesca e sem precedentes \"célula de tempestade\" (Storm Cell) está se formando sobre Seattle, ameaçando gerar uma onda de tornados múltiplos de força cataclísmica. Ignorada pelas autoridades locais que consideram seus avisos alarmistas, April viaja até a zona de perigo para resgatar sua filha adolescente e seu irmão. Presos no epicentro de uma tempestade perfeita que desafia as leis da ciência, eles terão que usar todo o conhecimento técnico de April para sobreviver à fúria dos ventos e escapar antes que a cidade seja riscada do mapa.\n\nDireção: Steven R. Monroe\n\nGênero: Desastre Natural, Ação, Suspense, Ficção Científica\n\nElenco: Mimi Rogers, Robert Moloney, Andrew Airlie, Ryan Kennedy, Elyse Levesque\n\nAno de Lançamento: 2008\n\nDuração: aprox. 86 minutos\n\nQualidade: HD 1080p / 720p\n\nINSCREVA-SE no canal para não perder mais filmes de desastres completos dublados, ficção científica apocalíptica, tempestades gigantes, thrillers de sobrevivência, clássicos do cinema B e grandes sucessos do entretenimento de graça em alta definição!\n\n#StormCell #FilmeCompleto #DisasterMovie #FilmeDeCatastrofe #StevenRMonroe #MimiRogers #Tornados #FilmesDublados #FilmesGratis #sobrevivência \n\n00:00 - O Trauma do Passado: O Primeiro Tornado\n\n13:45 - Anomalia Meteorológica: Os Sinais da Célula de Tempestade\n\n31:20 - O Alerta Rejeitado e a Viagem para a Zona de Perigo\n\n52:15 - A Tempestade Começa: Tornados Múltiplos atacam\n\n1:11:40 - Corrida pela Sobrevivência no Epicentro\n\n1:22:55 - O Clímax e Créditos Finais",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "O Trauma do Passado: O Primeiro Tornado"
+        },
+        {
+          "seconds": 825,
+          "label": "Anomalia Meteorológica: Os Sinais da Célula de Tempestade"
+        },
+        {
+          "seconds": 1880,
+          "label": "O Alerta Rejeitado e a Viagem para a Zona de Perigo"
+        },
+        {
+          "seconds": 3135,
+          "label": "A Tempestade Começa: Tornados Múltiplos atacam"
+        },
+        {
+          "seconds": 4300,
+          "label": "Corrida pela Sobrevivência no Epicentro"
+        },
+        {
+          "seconds": 4975,
+          "label": "O Clímax e Créditos Finais"
+        }
+      ]
+    },
+    {
+      "id": "hEVpYXia6Cc",
+      "title": "Komodo vs. Cobra - Filme Completo Dublado | Monstros Gigantes, Mutação e Sobrevivência",
+      "publishedAt": "2026-07-03T01:00:17Z",
+      "durationSec": 6217,
+      "thumb": "https://i.ytimg.com/vi/hEVpYXia6Cc/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nAssista ao filme completo dublado \"Komodo vs. Cobra\" (2005), um clássico, divertido e nostálgico filme de monstros gigantes dirigido pelo mestre do cinema B, Jim Wynorski (sob o pseudônimo de Jay Andrews). Uma produção cheia de ação, ficção científica e criaturas letais ideal para os fãs de terror \"trash\" de culto.\n\nSinopse:\nEm uma ilha remota e isolada no meio do oceano, uma equipe de cientistas militares realiza experiências genéticas ultrassecretas apelidadas de \"Projeto Carnívoro\". O objetivo era modificar o DNA de répteis para criar criaturas capazes de acabar com a escassez de alimentos, mas a ciência sai do controle. Os testes transformam um dragão-de-komodo e uma serpente naja em predadores pré-históricos gigantescos e famintos. Quando um grupo de ativistas ambientais e jornalistas desembarca na ilha para investigar as atividades suspeitas, eles se deparam com o laboratório destruído e se tornam as presas no meio de uma guerra territorial brutal entre o Dragão de Komodo Gigante e a Cobra Monstruosa. Agora, a única chance de sobrevivência é encontrar uma forma de fugir da ilha antes que o exército envie um bombardeio para apagar todas as evidências.\n\nDireção: Jim Wynorski (como Jay Andrews)\n\nGênero: Ficção Científica, Terror, Monstros, Ação, Cinema B\n\nElenco: Michael Paré, Michelle Borth, Ryan McTavish, Renee Talbert, Jerri Manthey\n\nAno de Lançamento: 2005\n\nDuração: aprox. 94 minutos\n\nQualidade: HD\n\nINSCREVA-SE no canal para não perder mais filmes de monstros completos dublados, ficção científica trash, clássicos do cinema B, suspenses apocalípticos e grandes relíquias do cinema de entretenimento de graça em alta definição!\n\n#KomodoVsCobra #FilmeCompleto #FiccaoCientifica #TerrorTrash #JimWynorski #MonstrosGigantes #CinemaB #FilmesDublados #FilmesGratis #creaturefeature \n\n00:00 - O Projeto Carnívoro: O Experimento da Ilha\n\n15:10 - O Desembarque dos Ativistas e os Primeiros Rastros\n\n32:45 - O Primeiro Ataque: A Cobra Gigante Aparece\n\n50:20 - Guerra Territorial: Komodo contra Cobra\n\n1:12:35 - Corrida Contra o Tempo Antes do Bombardeio\n\n1:29:10 - O Confronto Final e Créditos",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "O Projeto Carnívoro: O Experimento da Ilha"
+        },
+        {
+          "seconds": 910,
+          "label": "O Desembarque dos Ativistas e os Primeiros Rastros"
+        },
+        {
+          "seconds": 1965,
+          "label": "O Primeiro Ataque: A Cobra Gigante Aparece"
+        },
+        {
+          "seconds": 3020,
+          "label": "Guerra Territorial: Komodo contra Cobra"
+        },
+        {
+          "seconds": 4355,
+          "label": "Corrida Contra o Tempo Antes do Bombardeio"
+        },
+        {
+          "seconds": 5350,
+          "label": "O Confronto Final e Créditos"
+        }
+      ]
+    },
+    {
+      "id": "ny6lE1hif2E",
+      "title": "O Devorador de Ossos (2007) | Filme Completo | Terror e Ficção Científica HD",
+      "publishedAt": "2026-06-29T01:00:32Z",
+      "durationSec": 5281,
+      "thumb": "https://i.ytimg.com/vi/ny6lE1hif2E/mqdefault.jpg",
+      "description": "🌍 MULTIPLE SUBTITLES AVAILABLE!  Click the \"CC\" (Closed Captions) button and the Settings gear icon (⚙️) at the bottom right of the video player to choose your preferred language.\n\nAssista ao filme completo \"O Devorador de Ossos\" (Bone Eater, 2007), um eletrizante e divertido filme de monstros e suspense dirigido pelo lendário diretor de cinema B, Jim Wynorski, e estrelado por Bruce Boxleitner.\n\nSinopse:\nDurante as escavações para a construção de um grande empreendimento em terras protegidas no deserto, operários acidentalmente quebram uma antiga relíquia nativa americana. O ato profano liberta o \"Devorador de Ossos\", uma criatura mitológica monstruosa feita inteiramente de poeira e ossos gigantes, com um apetite insaciável por carne humana. À medida que o monstro avança pelo deserto deixando um rastro de esqueletos completamente limpos, o xerife local (Bruce Boxleitner) corre contra o tempo. Juntamente com sua filha e líderes tribais locais, ele deve decifrar uma antiga profecia para encontrar a única arma capaz de mandar o demônio ósseo de volta para o inferno.\n\nDireção: Jim Wynorski (Jay Andrews)\n\nGênero: Terror, Ficção Científica, Monstro, Ação (B-Movie)\n\nElenco: Bruce Boxleitner, Clara Bryant, Gil Gerard, Roark Critchlow\n\nAno de Lançamento: 2007\n\nDuração: aprox. 90 minutos\n\nQualidade: Full HD 1080p\n\n👉 INSCREVA-SE no canal para não perder mais filmes completos dublados, clássicos de terror do Syfy, monstros gigantes, thrillers de ficção científica e grandes raridades do cinema fantástico de graça e em alta definição!\n\n#ODevoradorDeOssos #BoneEater #FilmeCompleto #TerrorTrash #JimWynorski #FilmeDeMonstro #SyfyBrasil #FilmesDublados #FilmesGratis #BMovie\n\n00:00 - Escavações no deserto e a quebra da relíquia\n\n13:15 - O Devorador de Ossos desperta\n\n27:40 - O Xerife investiga as primeiras vítimas\n\n46:20 - Ataques em massa e o pânico na cidade\n\n1:10:05 - A lenda indígena e a busca pela arma mística\n\n1:25:30 - O confronto final e créditos de encerramento",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Escavações no deserto e a quebra da relíquia"
+        },
+        {
+          "seconds": 795,
+          "label": "O Devorador de Ossos desperta"
+        },
+        {
+          "seconds": 1660,
+          "label": "O Xerife investiga as primeiras vítimas"
+        },
+        {
+          "seconds": 2780,
+          "label": "Ataques em massa e o pânico na cidade"
+        },
+        {
+          "seconds": 4205,
+          "label": "A lenda indígena e a busca pela arma mística"
+        },
+        {
+          "seconds": 5130,
+          "label": "O confronto final e créditos de encerramento"
+        }
+      ]
+    },
+    {
+      "id": "yu0QZHbKWRA",
+      "title": "Not My Life #shorts",
+      "publishedAt": "2026-06-28T00:45:18Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/yu0QZHbKWRA/mqdefault.jpg",
+      "description": "",
+      "chapters": []
+    }
+  ]
+}

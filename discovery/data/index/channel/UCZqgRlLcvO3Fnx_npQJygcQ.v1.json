@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCZqgRlLcvO3Fnx_npQJygcQ",
+  "title": "Netflix Deutschland, Österreich und Schweiz",
+  "thumb": "https://yt3.ggpht.com/ztC5VCgxk6_mxFnShYuX261fTiU8evDH4Nqu29HEqmKF86bxLnrjdjH24yQsvp_drma5hmGhJMg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.97,
+  "sources": [
+    {
+      "id": "channel:UCWOA1ZGywLbqmigxE4Qlvuw",
+      "type": "channel",
+      "label": "Netflix",
+      "url": "https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw",
+      "firstSeenAt": "2026-09-05T10:32:50.654Z"
+    },
+    {
+      "id": "channel:UCBSs9x2KzSLhyyA9IKyt4YA",
+      "type": "channel",
+      "label": "Netflix Anime",
+      "url": "https://www.youtube.com/channel/UCBSs9x2KzSLhyyA9IKyt4YA",
+      "firstSeenAt": "2026-10-02T12:30:31.331Z"
+    },
+    {
+      "id": "channel:UChmpTxQ0Gp8KEJKsqzeg9Lg",
+      "type": "channel",
+      "label": "Stranger Things",
+      "url": "https://www.youtube.com/channel/UChmpTxQ0Gp8KEJKsqzeg9Lg",
+      "firstSeenAt": "2026-10-02T12:30:32.974Z"
+    }
+  ],
+  "recentItems": []
+}

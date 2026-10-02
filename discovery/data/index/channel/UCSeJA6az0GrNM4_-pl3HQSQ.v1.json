@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCSeJA6az0GrNM4_-pl3HQSQ",
   "title": "Adrian von Ziegler",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lWHX0QETxVWXmlO1KWykf_oxBxLMKFweRfjCiOe7B2v38=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Derek Fiechter's Music",
       "url": "https://www.youtube.com/channel/UCVRJdMxf_nuCR6C1ZMgn7Ug",
       "firstSeenAt": "2026-10-01T13:11:02.512Z"
+    },
+    {
+      "id": "channel:UCQC2NkkKMf0Oa5iV0ZGovgA",
+      "type": "channel",
+      "label": "RealLifeVlog",
+      "url": "https://www.youtube.com/channel/UCQC2NkkKMf0Oa5iV0ZGovgA",
+      "firstSeenAt": "2026-10-02T12:30:45.860Z"
     }
   ],
   "recentItems": []

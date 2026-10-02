@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UCAJnyTWJPpKXuwgWQDdNWrQ",
   "title": "Netflix Jr.",
   "thumb": "https://yt3.ggpht.com/wwngc-7lnve847kvoCymKGW0gAt_U_K-iAtPHLY8a7O2xtl9nbC1rJ-c7aLOT0IGJA0DmJgm4Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.62,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Netflix Family",
       "url": "https://www.youtube.com/channel/UCpInjhuJ1WUekcFeXPPyGGg",
       "firstSeenAt": "2026-09-12T10:42:58.749Z"
+    },
+    {
+      "id": "channel:UCBSs9x2KzSLhyyA9IKyt4YA",
+      "type": "channel",
+      "label": "Netflix Anime",
+      "url": "https://www.youtube.com/channel/UCBSs9x2KzSLhyyA9IKyt4YA",
+      "firstSeenAt": "2026-10-02T12:30:31.330Z"
     }
   ],
   "recentItems": []

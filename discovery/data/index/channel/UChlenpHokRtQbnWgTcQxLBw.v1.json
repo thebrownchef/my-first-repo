@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T13:13:14.665Z",
+  "generatedAt": "2026-10-02T12:32:05.560Z",
   "id": "UChlenpHokRtQbnWgTcQxLBw",
   "title": "ninecomau",
   "thumb": "https://yt3.ggpht.com/TaHMyTTuMB-A6_g87nin_qYs8pU0i-PnwyNMTj1vIJBsmkW93sYncV2N6bAT763MspK4eiKZkw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.48,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Channel 9",
       "url": "https://www.youtube.com/channel/UC7HZ5uBTih75iwtesU0aDew",
       "firstSeenAt": "2026-09-30T12:31:21.043Z"
+    },
+    {
+      "id": "channel:UC_a-tB5cm3Z7WrRSNtYB6jA",
+      "type": "channel",
+      "label": "9Love",
+      "url": "https://www.youtube.com/channel/UC_a-tB5cm3Z7WrRSNtYB6jA",
+      "firstSeenAt": "2026-10-02T12:30:47.603Z"
     }
   ],
   "recentItems": []

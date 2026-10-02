@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "id": "UCtrXebUN5dubj6M-q3deEng",
+  "title": "Film&Clips Documentary",
+  "thumb": "https://yt3.ggpht.com/-Ebw_s5VgGYGDowyCOZtTgGtCVm0jDyPV1DUFq8NrAHbf0QSRfqfOBBznvefEZHZxcRVFZYlcQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 31,
+  "distinctSourceCount": 31,
+  "hop": 1,
+  "uploadsPerDay": 0.22,
+  "sources": [
+    {
+      "id": "channel:UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "type": "channel",
+      "label": "Film&Clips",
+      "url": "https://www.youtube.com/channel/UCNT5YLfnn2cQGIxGw8iOxJQ",
+      "firstSeenAt": "2026-09-05T10:32:53.028Z"
+    },
+    {
+      "id": "channel:UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "type": "channel",
+      "label": "Film&Clips Bianco e Nero",
+      "url": "https://www.youtube.com/channel/UC5zB6Yi0zItVSh-TAK1F2KQ",
+      "firstSeenAt": "2026-10-02T12:30:38.642Z"
+    },
+    {
+      "id": "channel:UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "type": "channel",
+      "label": "Film&Clips en Français",
+      "url": "https://www.youtube.com/channel/UCwOmaHmbjx5J_jG5IAg2Eqw",
+      "firstSeenAt": "2026-10-02T12:30:38.782Z"
+    },
+    {
+      "id": "channel:UCFb8KUhaIQKTbMpkEMuUdEA",
+      "type": "channel",
+      "label": "Film&Clips Russian Полные фильмы на русском языке",
+      "url": "https://www.youtube.com/channel/UCFb8KUhaIQKTbMpkEMuUdEA",
+      "firstSeenAt": "2026-10-02T12:30:38.883Z"
+    },
+    {
+      "id": "channel:UCthgF_eClYiynoP71DlrGqw",
+      "type": "channel",
+      "label": "Cinemundo - Películas en Español",
+      "url": "https://www.youtube.com/channel/UCthgF_eClYiynoP71DlrGqw",
+      "firstSeenAt": "2026-10-02T12:30:39.061Z"
+    },
+    {
+      "id": "channel:UCyIit18QmLdVklHdvNn_YHw",
+      "type": "channel",
+      "label": "Amore e Commedia",
+      "url": "https://www.youtube.com/channel/UCyIit18QmLdVklHdvNn_YHw",
+      "firstSeenAt": "2026-10-02T12:30:39.184Z"
+    },
+    {
+      "id": "channel:UCAGXLfVOgDJfV3yLFQLH0XA",
+      "type": "channel",
+      "label": "Film&Clips Max Action",
+      "url": "https://www.youtube.com/channel/UCAGXLfVOgDJfV3yLFQLH0XA",
+      "firstSeenAt": "2026-10-02T12:30:39.233Z"
+    },
+    {
+      "id": "channel:UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "type": "channel",
+      "label": "Film&Clips Japanese 日本語版フル動画",
+      "url": "https://www.youtube.com/channel/UC4vPFI_40Wl8qqa6uj9Yh2w",
+      "firstSeenAt": "2026-10-02T12:30:39.343Z"
+    },
+    {
+      "id": "channel:UCEo4qj0qO-yWIn5n7v-3lmw",
+      "type": "channel",
+      "label": "TOP Film in Italiano",
+      "url": "https://www.youtube.com/channel/UCEo4qj0qO-yWIn5n7v-3lmw",
+      "firstSeenAt": "2026-10-02T12:30:39.550Z"
+    },
+    {
+      "id": "channel:UCr7wDINYhhSl2aLiUoREiVw",
+      "type": "channel",
+      "label": "Film&Clips Película del Gran Oeste",
+      "url": "https://www.youtube.com/channel/UCr7wDINYhhSl2aLiUoREiVw",
+      "firstSeenAt": "2026-10-02T12:30:39.680Z"
+    },
+    {
+      "id": "channel:UCZl0iSBsqAiY59Ni_0vRVfw",
+      "type": "channel",
+      "label": "Film&Clips auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCZl0iSBsqAiY59Ni_0vRVfw",
+      "firstSeenAt": "2026-10-02T12:30:39.736Z"
+    },
+    {
+      "id": "channel:UCffqIyzeFVjMU1KoB3xR_cg",
+      "type": "channel",
+      "label": "Cine Saloon - Western en Español",
+      "url": "https://www.youtube.com/channel/UCffqIyzeFVjMU1KoB3xR_cg",
+      "firstSeenAt": "2026-10-02T12:30:40.338Z"
+    },
+    {
+      "id": "channel:UCtGBI34gCHkhfI5iaNuyQlg",
+      "type": "channel",
+      "label": "Franciné - Film en Français",
+      "url": "https://www.youtube.com/channel/UCtGBI34gCHkhfI5iaNuyQlg",
+      "firstSeenAt": "2026-10-02T12:30:40.404Z"
+    },
+    {
+      "id": "channel:UCS3SWF2QZvIP0ZAZSA--IRA",
+      "type": "channel",
+      "label": "Film&Clips Całe filmy po polsku",
+      "url": "https://www.youtube.com/channel/UCS3SWF2QZvIP0ZAZSA--IRA",
+      "firstSeenAt": "2026-10-02T12:30:40.456Z"
+    },
+    {
+      "id": "channel:UCaYOWofDNLZybZa05aRaewQ",
+      "type": "channel",
+      "label": "BOM Filme do Brasil",
+      "url": "https://www.youtube.com/channel/UCaYOWofDNLZybZa05aRaewQ",
+      "firstSeenAt": "2026-10-02T12:30:40.589Z"
+    },
+    {
+      "id": "channel:UCsMdJzPiTH_TGpWSLg9fPrA",
+      "type": "channel",
+      "label": "Movie360",
+      "url": "https://www.youtube.com/channel/UCsMdJzPiTH_TGpWSLg9fPrA",
+      "firstSeenAt": "2026-10-02T12:30:40.741Z"
+    },
+    {
+      "id": "channel:UCO2thUSgz78cRlAVW5iP3pw",
+      "type": "channel",
+      "label": "Film&Clips en Español",
+      "url": "https://www.youtube.com/channel/UCO2thUSgz78cRlAVW5iP3pw",
+      "firstSeenAt": "2026-10-02T12:30:40.859Z"
+    },
+    {
+      "id": "channel:UCHtBnuYhrwRnPYIE4kDfEGA",
+      "type": "channel",
+      "label": "Action360",
+      "url": "https://www.youtube.com/channel/UCHtBnuYhrwRnPYIE4kDfEGA",
+      "firstSeenAt": "2026-10-02T12:30:41.075Z"
+    },
+    {
+      "id": "channel:UClI02dK6GIjzulYFDKS7vMw",
+      "type": "channel",
+      "label": "Cinema Segreto",
+      "url": "https://www.youtube.com/channel/UClI02dK6GIjzulYFDKS7vMw",
+      "firstSeenAt": "2026-10-02T12:30:41.139Z"
+    },
+    {
+      "id": "channel:UCBRuxT7iCv9fcEo9s2jR_RA",
+      "type": "channel",
+      "label": "Alle Filme Auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCBRuxT7iCv9fcEo9s2jR_RA",
+      "firstSeenAt": "2026-10-02T12:30:41.322Z"
+    },
+    {
+      "id": "channel:UCcG2X4bDgt1qbaKKlcQTXpg",
+      "type": "channel",
+      "label": "Film&Clips em Português",
+      "url": "https://www.youtube.com/channel/UCcG2X4bDgt1qbaKKlcQTXpg",
+      "firstSeenAt": "2026-10-02T12:30:41.381Z"
+    },
+    {
+      "id": "channel:UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "type": "channel",
+      "label": "Western | Peplum",
+      "url": "https://www.youtube.com/channel/UCrScQ_gQ_aJs-A7ZfadxbLg",
+      "firstSeenAt": "2026-10-02T12:30:41.430Z"
+    },
+    {
+      "id": "channel:UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "type": "channel",
+      "label": "Bizzarro Madhouse",
+      "url": "https://www.youtube.com/channel/UCMNiaEqEniyJ3Ksc1LDt1wQ",
+      "firstSeenAt": "2026-10-02T12:30:41.566Z"
+    },
+    {
+      "id": "channel:UC4apHWihzevipjsb0mT1y3A",
+      "type": "channel",
+      "label": "Bizzarro Movies",
+      "url": "https://www.youtube.com/channel/UC4apHWihzevipjsb0mT1y3A",
+      "firstSeenAt": "2026-10-02T12:30:41.782Z"
+    },
+    {
+      "id": "channel:UC9P4LaNbn7uOkiex9tyEyCw",
+      "type": "channel",
+      "label": "Azione360",
+      "url": "https://www.youtube.com/channel/UC9P4LaNbn7uOkiex9tyEyCw",
+      "firstSeenAt": "2026-10-02T12:30:42.060Z"
+    },
+    {
+      "id": "channel:UC81Zj2wx5458uUgSK84oahw",
+      "type": "channel",
+      "label": "Film&Clips Azione",
+      "url": "https://www.youtube.com/channel/UC81Zj2wx5458uUgSK84oahw",
+      "firstSeenAt": "2026-10-02T12:30:42.107Z"
+    },
+    {
+      "id": "channel:UCEw3zMw55NIXE6z3mZecHfA",
+      "type": "channel",
+      "label": "Westernfilme auf Deutsch",
+      "url": "https://www.youtube.com/channel/UCEw3zMw55NIXE6z3mZecHfA",
+      "firstSeenAt": "2026-10-02T12:30:42.257Z"
+    },
+    {
+      "id": "channel:UCGoazA0Z4aoBccf3cdrBRfA",
+      "type": "channel",
+      "label": "Film&Clips in Italiano",
+      "url": "https://www.youtube.com/channel/UCGoazA0Z4aoBccf3cdrBRfA",
+      "firstSeenAt": "2026-10-02T12:30:42.376Z"
+    },
+    {
+      "id": "channel:UCeAvnOVayL-xmQUCnZvIVyw",
+      "type": "channel",
+      "label": "Film&Clips Horror",
+      "url": "https://www.youtube.com/channel/UCeAvnOVayL-xmQUCnZvIVyw",
+      "firstSeenAt": "2026-10-02T12:30:42.473Z"
+    },
+    {
+      "id": "channel:UCbRPdPJpFz4f4pHeIhEck2w",
+      "type": "channel",
+      "label": "Film&Clips in English",
+      "url": "https://www.youtube.com/channel/UCbRPdPJpFz4f4pHeIhEck2w",
+      "firstSeenAt": "2026-10-02T12:30:42.684Z"
+    },
+    {
+      "id": "channel:UC8QVm4IUxw7XsWGillYS2Kw",
+      "type": "channel",
+      "label": "Free Watch - English Movie Stream",
+      "url": "https://www.youtube.com/channel/UC8QVm4IUxw7XsWGillYS2Kw",
+      "firstSeenAt": "2026-10-02T12:30:42.781Z"
+    }
+  ],
+  "recentItems": [
+    {
+      "id": "Fe9hhwy9knQ",
+      "title": "SICILY IN PHOTOGRAPHS | Documentario Completo in Italiano HD | Regia di Sergio Gianfalla",
+      "publishedAt": "2026-09-27T18:15:32Z",
+      "durationSec": 4021,
+      "thumb": "https://i.ytimg.com/vi/Fe9hhwy9knQ/mqdefault.jpg",
+      "description": "Film&Clips is the best FREE & LEGAL YouTube Channel!\n Luci, ombre e l'anima autentica della Sicilia catturate dall'obiettivo dei suoi più grandi fotografi! 📸🌅🇮🇹 Guarda il documentario completo \"Sicily in Photographs\", diretto da Sergio Gianfalla. Un viaggio visivo straordinario che va oltre i maestri iconici per scoprire lo sguardo di autori straordinari. Guardalo gratis, in versione integrale e in Alta Definizione (HD)!\n\n[Sinossi]\nUn'affascinante lettura della Sicilia attraverso le immagini e la sensibilità visiva di diversi fotografi. Se maestri come Ferdinando Scianna, Enzo Sellerio e Letizia Battaglia sono stati a lungo al centro dell'attenzione internazionale per i loro reportage, \"Sicily in Photographs\" si spinge oltre, esplorando l'opera di altri straordinari autori contemporanei.\n\nUn percorso corale che intreccia le opere e le visioni di Ezio Ferreri, Carmelo Bongiorno, Mauro D'Agati, Angelo Pitrone, Melania Messina, Giacomo D'Aguanno, Fabio Sgroi e molti altri. Attraverso i loro scatti, il film rivela i mille volti, le contraddizioni, i paesaggi umani e le atmosfere senza tempo di un'isola unica al mondo.\n\nTitolo Originale Sicily in Photographs\nGenere Documentario / Arte / Fotografia / Cultura\nRegia Sergio Gianfalla\nFotografi Presentati Ezio Ferreri, Carmelo Bongiorno, Mauro D'Agati, Angelo Pitrone, Melania Messina, Giacomo D'Aguanno, Fabio Sgroi (e altri)\nQualità Video Full HD (1080p)\n\n00:00:00 - Inizio: L'eredità visiva della Sicilia tra mito e realtà\n\n00:10:30 - Oltre i maestri: L'evoluzione della fotografia siciliana\n\n00:22:15 - Ezio Ferreri e Carmelo Bongiorno: Contrasti e visioni\n\n00:34:40 - Mauro D'Agati e Angelo Pitrone: Racconti urbani e paesaggi\n\n00:46:20 - Melania Messina: Lo sguardo femminile sull'isola\n\n00:58:10 - Giacomo D'Aguanno e Fabio Sgroi: Sguardi contemporanei\n\n01:10:45 - La Sicilia oggi: Un mosaico d'autore\n\n01:22:00 - Conclusioni e Titoli di coda\n\nmc",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Inizio: L'eredità visiva della Sicilia tra mito e realtà"
+        },
+        {
+          "seconds": 630,
+          "label": "Oltre i maestri: L'evoluzione della fotografia siciliana"
+        },
+        {
+          "seconds": 1335,
+          "label": "Ezio Ferreri e Carmelo Bongiorno: Contrasti e visioni"
+        },
+        {
+          "seconds": 2080,
+          "label": "Mauro D'Agati e Angelo Pitrone: Racconti urbani e paesaggi"
+        },
+        {
+          "seconds": 2780,
+          "label": "Melania Messina: Lo sguardo femminile sull'isola"
+        },
+        {
+          "seconds": 3490,
+          "label": "Giacomo D'Aguanno e Fabio Sgroi: Sguardi contemporanei"
+        },
+        {
+          "seconds": 4245,
+          "label": "La Sicilia oggi: Un mosaico d'autore"
+        },
+        {
+          "seconds": 4920,
+          "label": "Conclusioni e Titoli di coda"
+        }
+      ]
+    },
+    {
+      "id": "3s3KF1Qz7jE",
+      "title": "Bus 657 #shorts",
+      "publishedAt": "2026-09-11T12:56:10Z",
+      "durationSec": 60,
+      "thumb": "https://i.ytimg.com/vi/3s3KF1Qz7jE/mqdefault.jpg",
+      "description": "#documentari, #filmdocumentari, #documentarioitaliano, #documentariitaliani, #doc, #documen, #documenatry, #documentariocompleto, #documentarioonline, #documentarifratis, #documentaristorici, #documentarinatura, #documentarianimali, #documentariscienza, #documentarisocietà, #documentaristoriciitaliani, #documentarinaturaitalia, #documentarianimalitalia, #documentariscienzaitalia, #documentarisocietàitaliana, #documentariguerra, #documentariarte, #documentariviaggi, #documentaristoria, #documentariambiente, #documentarianimaliselvatici, #documentarispazio, #documentariantropologia, #youtubedocumentaries, #documentariyoutube, #documentarifullhd, #documentaristreaming, #documentarifratisyoutube, #documentariitalianicompleti documentari, documentari gratis, documentari completi, documentari online, documentari sulla natura, documentari storici, documentari scientifici, documentari sugli animali, documentari culturali, documentari educativi, film documentari, documentari investigativi, documentari sul crimine, documentari di viaggio, documentari sullo spazio, documentari sulla salute, documentari ambientali, documentari sociali, documentari politici, documentari di guerra, documentari sull'arte, documentari sulla musica, documentari sulla tecnologia, documentari sul cibo, documentari d'avventura, documentari ispirazionali, corti documentari, documentari premiati, documentari biografici, documentari di interesse umano, documentari globali, documentari moderni, serie documentarie, documentari sportivi, documentari geografici, esplorazioni naturali, documentari subacquei, documentari sugli animali selvatici, documentari sul cambiamento climatico, documentari sulla storia antica, documentari sulla seconda guerra mondiale, documentari sull’esplorazione spaziale, documentari medici, documentari sui misteri, documentari archeologici, documentari antropologici, documentari true crime, documentari iconici, documentari contemporanei, scienza e tecnologia, documentari sui disastri naturali, documentari famosi, documentari imperdibili, documentari in streaming, documentari su YouTube, documentari cinematografici, documentari in alta definizione, documentari approfonditi, storie vere, documentari emozionanti, documentari di scoperta, documentari stimolanti, documentari sulla Terra, documentari popolari, film d’avventura, documentari che aprono la mente, documentari innovativi, documentari per studenti, contenuti informativi, documentari sulla cultura, documentari di storia moderna, grandi esploratori, documentari sulla vita marina, viaggi epici, missioni spaziali, documentari nascosti, documentari sull’innovazione, dietro le quinte dei documentari, documentari sulla giustizia sociale, documentari per tutte le età, migliori film documentari, serie educative, documentari accattivanti, misteri irrisolti, scienziati famosi, figure storiche, scoperte e invenzioni, mondi inesplorati, documentari che cambiano la vita, documentari ispiratori, documentari militari, storie di sopravvivenza, esplorazioni urbane, documentari per imparare, documentari per bambini, documentari più votati, civiltà antiche, avventure nella natura selvaggia, scienza rivoluzionaria, esplorazioni culturali, documentari sui diritti umani, storie vere affascinanti, documentari sull'universo, dietro le quinte del cinema, docuserie, narrazioni basate sui fatti, documentari che cambiano il mondo, storie sulla vita reale, documentari sui traguardi umani, conflitti globali, esplorazione e scoperta, documentari sbalorditivi, film sull’ambiente, documentari sulla connessione umana, diversità culturale, registi premiati, narratori leggendari, storie indimenticabili, documentari visivamente mozzafiato, migliori canali di documentari, film basati sulla verità, storytelling investigativo, strumenti educativi, documentari di sensibilizzazione, archivio di film documentari, migliori serie documentarie, film educativi in streaming, temi stimolanti, prospettive globali, esplorazione attraverso il",
+      "chapters": []
+    },
+    {
+      "id": "1s3Ik6VHmlE",
+      "title": "Sfigactive | Candid Camera e Allenamenti Improbabili",
+      "publishedAt": "2026-09-11T12:54:29Z",
+      "durationSec": 1675,
+      "thumb": "https://i.ytimg.com/vi/1s3Ik6VHmlE/mqdefault.jpg",
+      "description": "Cosa succede quando il tuo solito allenamento si trasforma in una candid camera esilarante?\n\nIn \"Sfigactive\", l'imperdibile e irriverente show comico ambientato nelle palestre, la fatica lascia finalmente il posto alle risate! Guidati dal vulcanico Mitch DJ e da Eddy (Eduardo Montefusco), famosi comici, VIP e sportivi d'eccezione si infiltrano nei club per trasformare le sale attrezzi in un vero e proprio palcoscenico di pura follia.\n\nLe vittime di questo diabolico piano sono gli ignari sportivi e i frequentatori della palestra che, senza saperlo, si ritrovano coinvolti in situazioni completamente fuori di testa. I nostri \"atleti\" per un giorno si cimenteranno, loro malgrado, in improbabili esercizi ginnici, stravaganti tecniche di allenamento e dovranno gestire i comportamenti al limite del surreale dei finti personal trainer e dei disturbatori infiltrati.\n\nTra gag esilaranti, reazioni spontanee, imbarazzo e tanto divertimento, Sfigactive celebra il lato comico e imperfetto del fitness, dimostrandoci che anche in palestra la cosa più importante è non perdere mai l'ironia e il sorriso!\n\nRuolo / Funzione,Nome\nConduttore / Mattatore,Mitch DJ\nCreatori,\"Eduardo Montefusco (Eddy), Mitch DJ\"\nOspiti,Comici e VIP a rotazione\nGenere,\"Show Comico, Candid Camera, Intrattenimento\"\n\n#Sfigactive #MitchDJ #CandidCamera #ScherziInPalestra #ShowComico #AllenamentoDivertente #Risate #FitnessItalia #Webserie #Intrattenimento CD",
+      "chapters": []
+    },
+    {
+      "id": "oIf6vm9xEok",
+      "title": "Ep. 17 Parte 1 | Roast beef di scamone | Una cucina per due",
+      "publishedAt": "2026-08-27T15:10:07Z",
+      "durationSec": 667,
+      "thumb": "https://i.ytimg.com/vi/oIf6vm9xEok/mqdefault.jpg",
+      "description": "La cottura perfetta della carne: Luca e Romina si cimentano nella preparazione del Roast beef di scamone.\n\n#LucaMontersino #UnaCucinaPerDue #CucinaItaliana #AlmaTV #RicetteFacili #FattoInCasa #RicetteItaliane\n\nCD",
+      "chapters": []
+    },
+    {
+      "id": "7ORcRsmJxUc",
+      "title": "Ep. 9 Parte 1 | Eclaire au Chocolat | Una cucina per due",
+      "publishedAt": "2026-08-27T15:10:06Z",
+      "durationSec": 680,
+      "thumb": "https://i.ytimg.com/vi/7ORcRsmJxUc/mqdefault.jpg",
+      "description": "Pasticceria francese protagonista: Luca e Romina iniziano a preparare gli Eclaire al cioccolato.\n\n#LucaMontersino #UnaCucinaPerDue #CucinaItaliana #AlmaTV #RicetteFacili #FattoInCasa #RicetteItaliane\n\nCD",
+      "chapters": []
+    },
+    {
+      "id": "7f1-lYlQNa8",
+      "title": "Ep. 16 Parte 1 | Risotto milanese e stinco bollito | Una cucina per due",
+      "publishedAt": "2026-08-27T15:10:06Z",
+      "durationSec": 602,
+      "thumb": "https://i.ytimg.com/vi/7f1-lYlQNa8/mqdefault.jpg",
+      "description": "Un piatto ricco e complesso: risotto alla milanese e stinco in insalata agrodolce. I primi passaggi.\n\n#LucaMontersino #UnaCucinaPerDue #CucinaItaliana #AlmaTV #RicetteFacili #FattoInCasa #RicetteItaliane\n\nCD",
+      "chapters": []
+    },
+    {
+      "id": "A86wjbX3GYs",
+      "title": "Ep. 9 Parte 2 | Eclaire au Chocolat | Una cucina per due",
+      "publishedAt": "2026-08-27T15:10:06Z",
+      "durationSec": 648,
+      "thumb": "https://i.ytimg.com/vi/A86wjbX3GYs/mqdefault.jpg",
+      "description": "Farcitura e glassatura degli Eclaire. Il rigore del maestro Montersino a confronto con la compagna.\n\n#LucaMontersino #UnaCucinaPerDue #CucinaItaliana #AlmaTV #RicetteFacili #FattoInCasa #RicetteItaliane\n\nCD",
+      "chapters": []
+    },
+    {
+      "id": "Y912KSGcZuU",
+      "title": "Ep. 19 Parte 2 | Ragù alla bolognese | Una cucina per due",
+      "publishedAt": "2026-08-27T15:10:06Z",
+      "durationSec": 694,
+      "thumb": "https://i.ytimg.com/vi/Y912KSGcZuU/mqdefault.jpg",
+      "description": "Il ragù ha \"pippiato\" a dovere. Chi vincerà la sfida del gusto tra la tecnica dello chef e il cuore di Romina?\n\n#LucaMontersino #UnaCucinaPerDue #CucinaItaliana #AlmaTV #RicetteFacili #FattoInCasa #RicetteItaliane\n\nCD",
+      "chapters": []
+    },
+    {
+      "id": "mOYASi-nwg0",
+      "title": "Ep. 12 Parte 2 | Salsa Pomodoro all'Italiana | Una cucina per due",
+      "publishedAt": "2026-08-27T15:10:06Z",
+      "durationSec": 791,
+      "thumb": "https://i.ytimg.com/vi/mOYASi-nwg0/mqdefault.jpg",
+      "description": "Il sugo è pronto. La tecnica rigorosa da ristorante o la ricetta classica della nonna?\n\n#LucaMontersino #UnaCucinaPerDue #CucinaItaliana #AlmaTV #RicetteFacili #FattoInCasa #RicetteItaliane\n\nCD",
+      "chapters": []
+    },
+    {
+      "id": "t9G70-7josM",
+      "title": "Ep. 17 Parte 2 | Roast beef di scamone | Una cucina per due",
+      "publishedAt": "2026-08-27T15:10:06Z",
+      "durationSec": 679,
+      "thumb": "https://i.ytimg.com/vi/t9G70-7josM/mqdefault.jpg",
+      "description": "Il taglio della carne! La tecnica professionale di Luca riuscirà a superare la gustosa versione di Romina?\n\n#LucaMontersino #UnaCucinaPerDue #CucinaItaliana #AlmaTV #RicetteFacili #FattoInCasa #RicetteItaliane\n\nCD",
+      "chapters": []
+    },
+    {
+      "id": "tploC9B9ZDs",
+      "title": "Ep. 16 Parte 2 | Risotto milanese e stinco bollito | Una cucina per due",
+      "publishedAt": "2026-08-27T15:10:06Z",
+      "durationSec": 741,
+      "thumb": "https://i.ytimg.com/vi/tploC9B9ZDs/mqdefault.jpg",
+      "description": "Mantecatura del risotto e impiattamento dello stinco. Un confronto epico tra Luca e Romina!\n\n#LucaMontersino #UnaCucinaPerDue #CucinaItaliana #AlmaTV #RicetteFacili #FattoInCasa #RicetteItaliane\n\nCD",
+      "chapters": []
+    }
+  ]
+}
