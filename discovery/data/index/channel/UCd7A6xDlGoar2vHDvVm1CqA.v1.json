@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCd7A6xDlGoar2vHDvVm1CqA",
   "title": "OasisVEVO",
   "thumb": "https://yt3.ggpht.com/2spftO48EuXxaVkWNd40Nl68LiicwrhzTgJTSbLt8H2L5LUjowIMyIs9Jn8mUIGfAc8NuwzRO7M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Radio X",
       "url": "https://www.youtube.com/channel/UC10DG3enEhKiOEmyu_eEzuA",
       "firstSeenAt": "2026-09-11T11:17:46.803Z"
+    },
+    {
+      "id": "channel:UCS4bqe_kRDbaKsrpqfHZ08A",
+      "type": "channel",
+      "label": "SnowPatrolVEVO",
+      "url": "https://www.youtube.com/channel/UCS4bqe_kRDbaKsrpqfHZ08A",
+      "firstSeenAt": "2026-10-03T11:38:43.557Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "id": "UC4_x3ce7Rid8ZeYnNNhGfjA",
+  "title": "alert5",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_l50zEW3WeuwsSTveQ_mSuk9534ConVs7YZGMhoNfNeSw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "wiki:Tengah Air Base",
+      "type": "wikipedia",
+      "label": "Tengah Air Base",
+      "url": "https://en.wikipedia.org/wiki/Tengah_Air_Base",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:VFA-31",
+      "type": "wikipedia",
+      "label": "VFA-31",
+      "url": "https://en.wikipedia.org/wiki/VFA-31",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    }
+  ],
+  "recentItems": []
+}

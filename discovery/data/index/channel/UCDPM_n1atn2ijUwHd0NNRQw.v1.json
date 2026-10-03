@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "id": "UCDPM_n1atn2ijUwHd0NNRQw",
+  "title": "Coldplay",
+  "thumb": "https://yt3.ggpht.com/vWWn3HO1emNl2iGb08UuY4q_OtqXwUUWJMjMDr6bBPpuCBoWg-dE_Gu-yoMQNrBqb2gMzA3wLQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.09,
+  "sources": [
+    {
+      "id": "channel:UCW6IPif6TmmKXG1VdetbQYA",
+      "type": "channel",
+      "label": "emi",
+      "url": "https://www.youtube.com/channel/UCW6IPif6TmmKXG1VdetbQYA",
+      "firstSeenAt": "2026-09-17T11:38:52.408Z"
+    },
+    {
+      "id": "wiki:Every Teardrop Is a Waterfall",
+      "type": "wikipedia",
+      "label": "Every Teardrop Is a Waterfall",
+      "url": "https://en.wikipedia.org/wiki/Every_Teardrop_Is_a_Waterfall",
+      "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    }
+  ],
+  "recentItems": []
+}

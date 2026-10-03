@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCpUZuQ6B9_TXD2FbvFf3RCg",
   "title": "JaRuleVEVO",
   "thumb": "https://yt3.ggpht.com/jGc-sAfr1zEKt5kuBvDBRDJfwVZldpPeIci4TreUDPiRrNPHRil5rqxWUu1YZZcT55g3vh0sIts=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "TheDreamVEVO",
       "url": "https://www.youtube.com/channel/UCaLYXxQhRhh6pm636YSGSVw",
       "firstSeenAt": "2026-09-20T11:20:21.586Z"
+    },
+    {
+      "id": "channel:UCYtxcCzHCJjmjhHKH6AEsxQ",
+      "type": "channel",
+      "label": "DMXVEVO",
+      "url": "https://www.youtube.com/channel/UCYtxcCzHCJjmjhHKH6AEsxQ",
+      "firstSeenAt": "2026-10-03T11:38:32.146Z"
     }
   ],
   "recentItems": []

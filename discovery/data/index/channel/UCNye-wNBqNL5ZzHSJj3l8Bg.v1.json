@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCNye-wNBqNL5ZzHSJj3l8Bg",
   "title": "Al Jazeera English",
   "thumb": "https://yt3.ggpht.com/XsTga3Nsfc1E6ZgC6HfHfzTG_3zhuZleOnsKxSK2aILMjwkkIm-0vdALFaU-yt0Lw07iLtbSifk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 20.22,
   "sources": [
@@ -64,6 +64,20 @@
       "label": "AJB Video",
       "url": "https://www.youtube.com/channel/UCZCLDzI4h-KnFuyOH4l3bcg",
       "firstSeenAt": "2026-09-24T11:42:46.249Z"
+    },
+    {
+      "id": "wiki:2007 Bersih rally",
+      "type": "wikipedia",
+      "label": "2007 Bersih rally",
+      "url": "https://en.wikipedia.org/wiki/2007_Bersih_rally",
+      "firstSeenAt": "2026-10-03T11:38:12.814Z"
+    },
+    {
+      "id": "wiki:Human rights in Egypt under the Supreme Council of the Armed Forces",
+      "type": "wikipedia",
+      "label": "Human rights in Egypt under the Supreme Council of the Armed Forces",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Egypt_under_the_Supreme_Council_of_the_Armed_Forces",
+      "firstSeenAt": "2026-10-03T11:38:12.815Z"
     }
   ],
   "recentItems": []

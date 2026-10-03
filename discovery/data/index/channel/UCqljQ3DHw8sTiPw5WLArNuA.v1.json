@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCqljQ3DHw8sTiPw5WLArNuA",
   "title": "westlifeVEVO",
   "thumb": "https://yt3.ggpht.com/whsh6fH7B9ClIZWPSyrYk9vuJ6CGzLxn0nQfH2vL3IOXPXpDgVqGdhy1LX6pfSZp_j8zmw6o7w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Westlife",
       "url": "https://www.youtube.com/channel/UCtd_b-dF7lHzDJeDm4fJjHQ",
       "firstSeenAt": "2026-09-18T11:11:09.604Z"
+    },
+    {
+      "id": "wiki:Tonight (Westlife song)",
+      "type": "wikipedia",
+      "label": "Tonight (Westlife song)",
+      "url": "https://en.wikipedia.org/wiki/Tonight_(Westlife_song)",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
     }
   ],
   "recentItems": []

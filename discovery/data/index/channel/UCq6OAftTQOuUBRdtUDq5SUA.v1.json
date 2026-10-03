@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCq6OAftTQOuUBRdtUDq5SUA",
   "title": "PBS Documentaries",
   "thumb": "https://yt3.ggpht.com/UglPE8DyhlC8i0lUqVauVXeBejJto7vn9e0OsjWwdBxquuGDcshrb9fP74D_l7lZHObwNieCqx8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.753Z"
+    },
+    {
+      "id": "channel:UCsMiZpxCtO4TU45rDYHi7yA",
+      "type": "channel",
+      "label": "West Virginia Public Broadcasting",
+      "url": "https://www.youtube.com/channel/UCsMiZpxCtO4TU45rDYHi7yA",
+      "firstSeenAt": "2026-10-03T11:38:36.036Z"
     }
   ],
   "recentItems": []

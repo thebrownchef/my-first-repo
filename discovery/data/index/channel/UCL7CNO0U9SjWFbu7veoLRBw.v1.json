@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "id": "UCL7CNO0U9SjWFbu7veoLRBw",
+  "title": "SnoopDoggVEVO",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_k6PWW7EXW2PdUnGdVoo1KeHwMtJO6b7bAU5AAKUz-RJ_c=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.04,
+  "sources": [
+    {
+      "id": "channel:UC20vb-R_px4CguHzzBPhoyQ",
+      "type": "channel",
+      "label": "EminemVEVO",
+      "url": "https://www.youtube.com/channel/UC20vb-R_px4CguHzzBPhoyQ",
+      "firstSeenAt": "2026-09-11T11:17:49.813Z"
+    },
+    {
+      "id": "wiki:Vato (song)",
+      "type": "wikipedia",
+      "label": "Vato (song)",
+      "url": "https://en.wikipedia.org/wiki/Vato_(song)",
+      "firstSeenAt": "2026-10-03T11:38:12.813Z"
+    },
+    {
+      "id": "wiki:Sensual Seduction",
+      "type": "wikipedia",
+      "label": "Sensual Seduction",
+      "url": "https://en.wikipedia.org/wiki/Sensual_Seduction",
+      "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCe4LM_eKc9ywRmVuBm5pjQg",
   "title": "Atlantic Records",
   "thumb": "https://yt3.ggpht.com/6W-mb2efMopcsFp2LcQV2kbp9H_L3CmdOUGfWAsRG21B_AKurkfNk-aM0ZkcPSoGOJ0w0VKAxuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "ROSÉ",
       "url": "https://www.youtube.com/channel/UCBo1hnzxV9rz3WVsv__Rn1g",
       "firstSeenAt": "2026-09-27T11:59:25.139Z"
+    },
+    {
+      "id": "wiki:I'm Still in Love with You (Sean Paul song)",
+      "type": "wikipedia",
+      "label": "I'm Still in Love with You (Sean Paul song)",
+      "url": "https://en.wikipedia.org/wiki/I'm_Still_in_Love_with_You_(Sean_Paul_song)",
+      "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Can't Help but Wait",
+      "type": "wikipedia",
+      "label": "Can't Help but Wait",
+      "url": "https://en.wikipedia.org/wiki/Can't_Help_but_Wait",
+      "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "channel:UCocfdCiKujljqcGC-STMsCQ",
+      "type": "channel",
+      "label": "Stone Temple Pilots",
+      "url": "https://www.youtube.com/channel/UCocfdCiKujljqcGC-STMsCQ",
+      "firstSeenAt": "2026-10-03T11:38:32.855Z"
     }
   ],
   "recentItems": []

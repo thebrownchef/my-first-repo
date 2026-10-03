@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCyd8nl1opqfEVwJer32vURA",
   "title": "Kylie Minogue",
   "thumb": "https://yt3.ggpht.com/lzhOaieFxpduBtl1rKZr-kd9E0LS1Sx49m3HqJFlU_NE5ZwpLgLTjZM7MvPLvviPkDzGLgG7Pt4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "emi",
       "url": "https://www.youtube.com/channel/UCW6IPif6TmmKXG1VdetbQYA",
       "firstSeenAt": "2026-09-17T11:38:52.408Z"
+    },
+    {
+      "id": "wiki:Put Your Hands Up (If You Feel Love)",
+      "type": "wikipedia",
+      "label": "Put Your Hands Up (If You Feel Love)",
+      "url": "https://en.wikipedia.org/wiki/Put_Your_Hands_Up_(If_You_Feel_Love)",
+      "firstSeenAt": "2026-10-03T11:38:12.814Z"
+    },
+    {
+      "id": "wiki:Please Stay (Kylie Minogue song)",
+      "type": "wikipedia",
+      "label": "Please Stay (Kylie Minogue song)",
+      "url": "https://en.wikipedia.org/wiki/Please_Stay_(Kylie_Minogue_song)",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCDj64sior23IP_7xLe8R7sg",
   "title": "Warner Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZBzZYd9fOiSvmo-S9qShR6u9twUMIkWm23FAtuUlTz2M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Royal Blood",
       "url": "https://www.youtube.com/channel/UCNkhZlHm1ccjIcDyt7W1Opg",
       "firstSeenAt": "2026-09-29T12:49:20.494Z"
+    },
+    {
+      "id": "channel:UCv5emLGrYcQAmbpeFVlzjdg",
+      "type": "channel",
+      "label": "Warner Records Vault",
+      "url": "https://www.youtube.com/channel/UCv5emLGrYcQAmbpeFVlzjdg",
+      "firstSeenAt": "2026-10-03T11:38:33.743Z"
     }
   ],
   "recentItems": []

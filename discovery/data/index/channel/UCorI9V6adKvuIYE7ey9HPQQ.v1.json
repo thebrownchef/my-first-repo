@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCorI9V6adKvuIYE7ey9HPQQ",
   "title": "Digster Pop Music",
   "thumb": "https://yt3.ggpht.com/43FICYyeF9cG5yp5VXpz9s0d4E2gifaT9jJu2cly1Yp_qY9HhiTLivCcb3AvuHjDlileQ0aK=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Digster Pop Music",
       "url": "https://www.youtube.com/channel/UCorI9V6adKvuIYE7ey9HPQQ",
       "firstSeenAt": "2026-09-23T11:32:25.424Z"
+    },
+    {
+      "id": "channel:UCZgVRBR0rNDN7glQjUnejjg",
+      "type": "channel",
+      "label": "Universal Music Austria",
+      "url": "https://www.youtube.com/channel/UCZgVRBR0rNDN7glQjUnejjg",
+      "firstSeenAt": "2026-10-03T11:38:42.615Z"
     }
   ],
   "recentItems": []

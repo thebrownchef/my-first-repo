@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "id": "UCEuOwB9vSL1oPKGNdONB4ig",
+  "title": "Red Hot Chili Peppers",
+  "thumb": "https://yt3.ggpht.com/O-ftbUQoWe32VfOlIme0zZes00iU3YnlD9vj1eAzjIP95XR2mllLRumLW-zyDidEHGDF9rwu=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.03,
+  "sources": [
+    {
+      "id": "channel:UCNkhZlHm1ccjIcDyt7W1Opg",
+      "type": "channel",
+      "label": "Royal Blood",
+      "url": "https://www.youtube.com/channel/UCNkhZlHm1ccjIcDyt7W1Opg",
+      "firstSeenAt": "2026-09-29T12:49:20.493Z"
+    },
+    {
+      "id": "wiki:Give It Away (Red Hot Chili Peppers song)",
+      "type": "wikipedia",
+      "label": "Give It Away (Red Hot Chili Peppers song)",
+      "url": "https://en.wikipedia.org/wiki/Give_It_Away_(Red_Hot_Chili_Peppers_song)",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    }
+  ],
+  "recentItems": []
+}

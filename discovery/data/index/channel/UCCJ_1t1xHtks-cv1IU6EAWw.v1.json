@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCCJ_1t1xHtks-cv1IU6EAWw",
   "title": "FergieVEVO",
   "thumb": "https://yt3.ggpht.com/uc7rxmRS1NSu5Te11niJKkcImGgP-AQ8k6YPa4CqEJVDWOffeqyFFrrpckd9qo5K7TFt5HmbpA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "keshaVEVO",
       "url": "https://www.youtube.com/channel/UC9HnKwLco0wfmmHJT4KOjJw",
       "firstSeenAt": "2026-09-03T11:11:06.323Z"
+    },
+    {
+      "id": "channel:UC_ZTX-lwUaoeK-l9gmMB4EA",
+      "type": "channel",
+      "label": "DevVEVO",
+      "url": "https://www.youtube.com/channel/UC_ZTX-lwUaoeK-l9gmMB4EA",
+      "firstSeenAt": "2026-10-03T11:38:39.958Z"
     }
   ],
   "recentItems": []

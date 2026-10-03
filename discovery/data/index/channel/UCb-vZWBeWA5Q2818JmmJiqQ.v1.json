@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCb-vZWBeWA5Q2818JmmJiqQ",
   "title": "Oscars",
   "thumb": "https://yt3.ggpht.com/NpO5ACfL4GyjGF4jE6OZwHNatbPnVXIzwzl9gp3bU-avVqygYJXiLzjrLz_hLmbOr2AHV4qyO3o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "The Academy",
       "url": "https://www.youtube.com/channel/UCzuwS1ll2HuQ1wV-tqf43KQ",
       "firstSeenAt": "2026-09-24T11:42:42.068Z"
+    },
+    {
+      "id": "wiki:Robert Opel",
+      "type": "wikipedia",
+      "label": "Robert Opel",
+      "url": "https://en.wikipedia.org/wiki/Robert_Opel",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
     }
   ],
   "recentItems": [

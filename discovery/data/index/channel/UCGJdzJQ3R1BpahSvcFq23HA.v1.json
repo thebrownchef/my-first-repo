@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Royal Blood",
       "url": "https://www.youtube.com/channel/UCNkhZlHm1ccjIcDyt7W1Opg",
       "firstSeenAt": "2026-09-29T12:49:20.492Z"
+    },
+    {
+      "id": "channel:UCFnvNS_FRRiNhWgsyteOyuA",
+      "type": "channel",
+      "label": "planbuk",
+      "url": "https://www.youtube.com/channel/UCFnvNS_FRRiNhWgsyteOyuA",
+      "firstSeenAt": "2026-10-03T11:38:38.057Z"
     }
   ],
   "recentItems": []

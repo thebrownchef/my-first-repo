@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 21,
-  "distinctSourceCount": 21,
+  "score": 25,
+  "distinctSourceCount": 25,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -155,6 +155,34 @@
       "label": "Vevo France",
       "url": "https://www.youtube.com/channel/UC0t9HSnAFStdSrlHs5K7raA",
       "firstSeenAt": "2026-09-27T11:59:17.472Z"
+    },
+    {
+      "id": "channel:UCGej5zp_KWZ-b_1w4Rq2hyA",
+      "type": "channel",
+      "label": "JessieJVEVO",
+      "url": "https://www.youtube.com/channel/UCGej5zp_KWZ-b_1w4Rq2hyA",
+      "firstSeenAt": "2026-10-03T11:38:38.242Z"
+    },
+    {
+      "id": "channel:UC2xskkQVFEpLcGFnNSLQY0A",
+      "type": "channel",
+      "label": "RihannaVEVO",
+      "url": "https://www.youtube.com/channel/UC2xskkQVFEpLcGFnNSLQY0A",
+      "firstSeenAt": "2026-10-03T11:38:41.054Z"
+    },
+    {
+      "id": "channel:UCZijND2e2tPp2AQL8Go2YSg",
+      "type": "channel",
+      "label": "BritneySpearsVEVO",
+      "url": "https://www.youtube.com/channel/UCZijND2e2tPp2AQL8Go2YSg",
+      "firstSeenAt": "2026-10-03T11:38:44.305Z"
+    },
+    {
+      "id": "channel:UCJN4c_lZorb_0eyIP_tSS3A",
+      "type": "channel",
+      "label": "GunsNRosesVEVO",
+      "url": "https://www.youtube.com/channel/UCJN4c_lZorb_0eyIP_tSS3A",
+      "firstSeenAt": "2026-10-03T11:38:44.878Z"
     }
   ],
   "recentItems": []

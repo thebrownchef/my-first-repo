@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UC4BCUrNe2X5UJkvzeRG12gQ",
   "title": "Ministry of Defence Singapore",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxmzKkEffMmqVE-ig41l1QqvSgU-wrhmFFHoDbHVVFSA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "SAF Day Parade",
       "url": "https://en.wikipedia.org/wiki/SAF_Day_Parade",
       "firstSeenAt": "2026-08-28T18:39:22.580Z"
+    },
+    {
+      "id": "wiki:Bionix (family of armoured fighting vehicles)",
+      "type": "wikipedia",
+      "label": "Bionix (family of armoured fighting vehicles)",
+      "url": "https://en.wikipedia.org/wiki/Bionix_(family_of_armoured_fighting_vehicles)",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Tengah Air Base",
+      "type": "wikipedia",
+      "label": "Tengah Air Base",
+      "url": "https://en.wikipedia.org/wiki/Tengah_Air_Base",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Singapore Armed Forces Best Unit Competition",
+      "type": "wikipedia",
+      "label": "Singapore Armed Forces Best Unit Competition",
+      "url": "https://en.wikipedia.org/wiki/Singapore_Armed_Forces_Best_Unit_Competition",
+      "firstSeenAt": "2026-10-03T11:38:21.434Z"
     }
   ],
   "recentItems": []

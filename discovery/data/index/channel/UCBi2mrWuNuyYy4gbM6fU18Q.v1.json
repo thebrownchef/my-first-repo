@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:32:05.560Z",
+  "generatedAt": "2026-10-03T11:39:52.199Z",
   "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
   "title": "ABC News",
   "thumb": "https://yt3.ggpht.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 16.24,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "ABC7 News Bay Area",
       "url": "https://www.youtube.com/channel/UCYUbNjkuE4lsr2v1Id2O1oA",
       "firstSeenAt": "2026-09-14T12:42:20.697Z"
+    },
+    {
+      "id": "wiki:X Japan",
+      "type": "wikipedia",
+      "label": "X Japan",
+      "url": "https://en.wikipedia.org/wiki/X_Japan",
+      "firstSeenAt": "2026-10-03T11:38:12.814Z"
+    },
+    {
+      "id": "wiki:Friday (Rebecca Black song)",
+      "type": "wikipedia",
+      "label": "Friday (Rebecca Black song)",
+      "url": "https://en.wikipedia.org/wiki/Friday_(Rebecca_Black_song)",
+      "firstSeenAt": "2026-10-03T11:38:12.815Z"
     }
   ],
   "recentItems": []
