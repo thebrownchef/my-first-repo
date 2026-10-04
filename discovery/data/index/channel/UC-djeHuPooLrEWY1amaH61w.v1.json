@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UC-djeHuPooLrEWY1amaH61w",
+  "title": "Alpha M",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncRcNil3ksRWa4U1eGyV-CJjvqkTeq0qAh313Th-V8Sfs=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0,
+  "sources": [
+    {
+      "id": "wiki:Victory parade",
+      "type": "wikipedia",
+      "label": "Victory parade",
+      "url": "https://en.wikipedia.org/wiki/Victory_parade",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:1945 Moscow Victory Parade",
+      "type": "wikipedia",
+      "label": "1945 Moscow Victory Parade",
+      "url": "https://en.wikipedia.org/wiki/1945_Moscow_Victory_Parade",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    }
+  ],
+  "recentItems": []
+}

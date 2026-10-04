@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCIgpASerBcG9bWUCpwAUBQA",
   "title": "starsailorofficial",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mCfE7KJSRJzsz-RrPCe3UT0sofEztoL-vcjO4CqDDUuQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -36,6 +36,27 @@
       "label": "Keep Us Together",
       "url": "https://en.wikipedia.org/wiki/Keep_Us_Together",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Tell Me It's Not Over",
+      "type": "wikipedia",
+      "label": "Tell Me It's Not Over",
+      "url": "https://en.wikipedia.org/wiki/Tell_Me_It's_Not_Over",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Four to the Floor",
+      "type": "wikipedia",
+      "label": "Four to the Floor",
+      "url": "https://en.wikipedia.org/wiki/Four_to_the_Floor",
+      "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:Silence Is Easy (song)",
+      "type": "wikipedia",
+      "label": "Silence Is Easy (song)",
+      "url": "https://en.wikipedia.org/wiki/Silence_Is_Easy_(song)",
+      "firstSeenAt": "2026-10-04T12:18:41.500Z"
     }
   ],
   "recentItems": []

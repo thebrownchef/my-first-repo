@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UC-x3wZ6L2_owVyfVBtkWwhA",
+  "title": "MDJournal",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m7yJxA5d2T7ChFzfOH_GuKKAPMDMA7yjtDhsUyunI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "wiki:NBA on ABC",
+      "type": "wikipedia",
+      "label": "NBA on ABC",
+      "url": "https://en.wikipedia.org/wiki/NBA_on_ABC",
+      "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:NBA Christmas games",
+      "type": "wikipedia",
+      "label": "NBA Christmas games",
+      "url": "https://en.wikipedia.org/wiki/NBA_Christmas_games",
+      "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    }
+  ],
+  "recentItems": []
+}

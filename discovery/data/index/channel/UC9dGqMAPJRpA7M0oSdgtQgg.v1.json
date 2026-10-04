@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC9dGqMAPJRpA7M0oSdgtQgg",
   "title": "BFI",
   "thumb": "https://yt3.ggpht.com/sR4iA5E1w0QjB_N9WIeynH7hGTStl2mgPxkTEVJhGANXr96ZEex02658pMagMRKV6kFG0LLq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "TheVideoCellar",
       "url": "https://www.youtube.com/channel/UCBhskwCpv4Df8-xC8_wGxzA",
       "firstSeenAt": "2026-09-11T11:17:48.069Z"
+    },
+    {
+      "id": "wiki:Merseyside derby",
+      "type": "wikipedia",
+      "label": "Merseyside derby",
+      "url": "https://en.wikipedia.org/wiki/Merseyside_derby",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Christmas Under Fire",
+      "type": "wikipedia",
+      "label": "Christmas Under Fire",
+      "url": "https://en.wikipedia.org/wiki/Christmas_Under_Fire",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

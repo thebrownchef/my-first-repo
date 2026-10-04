@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCCj956IF62FbT7Gouszaj9w",
   "title": "BBC",
   "thumb": "https://yt3.ggpht.com/2kUet1z3iIsuYaUEPuW0uMDVt9tRAzciL-N_pgy4bAvMazAfAgbJPrGrR3k8MhnGp-GGwy3O=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 4.24,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "BBC Ideas",
       "url": "https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg",
       "firstSeenAt": "2026-09-25T11:48:19.369Z"
+    },
+    {
+      "id": "wiki:Meryl Fernandes",
+      "type": "wikipedia",
+      "label": "Meryl Fernandes",
+      "url": "https://en.wikipedia.org/wiki/Meryl_Fernandes",
+      "firstSeenAt": "2026-10-04T12:18:41.501Z"
     }
   ],
   "recentItems": []

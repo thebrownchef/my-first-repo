@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCA8XaJaYs37H3iZuKebEgDQ",
   "title": "PuddleOfMuddVEVO",
   "thumb": "https://yt3.ggpht.com/tM9SQsvHL_yaJL2LO3wl_NZi_IkHAq4JnJ14VBFlP49kTcXTpg9L4ZFqX3nvVemDyTcIt7Nq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Control (Puddle of Mudd song)",
       "url": "https://en.wikipedia.org/wiki/Control_(Puddle_of_Mudd_song)",
       "firstSeenAt": "2026-10-03T11:38:21.435Z"
+    },
+    {
+      "id": "wiki:She Hates Me",
+      "type": "wikipedia",
+      "label": "She Hates Me",
+      "url": "https://en.wikipedia.org/wiki/She_Hates_Me",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Away from Me",
+      "type": "wikipedia",
+      "label": "Away from Me",
+      "url": "https://en.wikipedia.org/wiki/Away_from_Me",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

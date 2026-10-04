@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UClyDDqcDsXp3KQ7J5gyIMuQ",
   "title": "AIRBOYD",
   "thumb": "https://yt3.ggpht.com/a3BfmLHu-vmtZ0sLSGR_voAN50VfgxzjtFRe4FkX2Ce-I4g9AeE_88j1Yr8MGj3ioQhEamVA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.86,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "French airships operated by the USN",
       "url": "https://en.wikipedia.org/wiki/French_airships_operated_by_the_USN",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Mike Rutzen",
+      "type": "wikipedia",
+      "label": "Mike Rutzen",
+      "url": "https://en.wikipedia.org/wiki/Mike_Rutzen",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
     }
   ],
   "recentItems": []

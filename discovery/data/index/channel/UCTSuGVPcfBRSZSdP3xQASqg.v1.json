@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCTSuGVPcfBRSZSdP3xQASqg",
   "title": "SoundgardenVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k9YjRcyQSV_dnc3_cb6rpsxG3QQC7jsIa6gtUQn5QhO9Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "AliceInChainsVEVO",
       "url": "https://www.youtube.com/channel/UChf0Knt-e9Pw8VywfuTZCjA",
       "firstSeenAt": "2026-10-03T11:38:34.119Z"
+    },
+    {
+      "id": "channel:UCqSQvq0K7rtRL8hX175LkMA",
+      "type": "channel",
+      "label": "PearljamVEVO",
+      "url": "https://www.youtube.com/channel/UCqSQvq0K7rtRL8hX175LkMA",
+      "firstSeenAt": "2026-10-04T12:18:58.457Z"
+    },
+    {
+      "id": "channel:UCzGrGrvf9g8CVVzh_LvGf-g",
+      "type": "channel",
+      "label": "NirvanaVEVO",
+      "url": "https://www.youtube.com/channel/UCzGrGrvf9g8CVVzh_LvGf-g",
+      "firstSeenAt": "2026-10-04T12:18:59.333Z"
     }
   ],
   "recentItems": []

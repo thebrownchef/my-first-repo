@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCXLFs5gTV3rjGPFkgxFoDxQ",
   "title": "Regina Spektor",
   "thumb": "https://yt3.ggpht.com/2vENsPZKQWWCgHVc7pKxulo-eGY66a3_934hf3Qgu9cebUPejm1QxUekx1bXtRXVEubhiAwJbaI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Fidelity (song)",
       "url": "https://en.wikipedia.org/wiki/Fidelity_(song)",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Eet",
+      "type": "wikipedia",
+      "label": "Eet",
+      "url": "https://en.wikipedia.org/wiki/Eet",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

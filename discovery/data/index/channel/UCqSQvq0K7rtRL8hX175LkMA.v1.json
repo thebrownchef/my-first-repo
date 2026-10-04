@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCqSQvq0K7rtRL8hX175LkMA",
   "title": "PearljamVEVO",
   "thumb": "https://yt3.ggpht.com/XaYTV-4MB-3jmOdRiPh-lgDNam8C6WnFafLSuNmn_O0G46SwTKJEvNl0F1wZ3vtUcSR1PdPOVg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "AliceInChainsVEVO",
       "url": "https://www.youtube.com/channel/UChf0Knt-e9Pw8VywfuTZCjA",
       "firstSeenAt": "2026-10-03T11:38:34.120Z"
+    },
+    {
+      "id": "wiki:Even Flow",
+      "type": "wikipedia",
+      "label": "Even Flow",
+      "url": "https://en.wikipedia.org/wiki/Even_Flow",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Just Breathe (Pearl Jam song)",
+      "type": "wikipedia",
+      "label": "Just Breathe (Pearl Jam song)",
+      "url": "https://en.wikipedia.org/wiki/Just_Breathe_(Pearl_Jam_song)",
+      "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "channel:UCzGrGrvf9g8CVVzh_LvGf-g",
+      "type": "channel",
+      "label": "NirvanaVEVO",
+      "url": "https://www.youtube.com/channel/UCzGrGrvf9g8CVVzh_LvGf-g",
+      "firstSeenAt": "2026-10-04T12:18:59.333Z"
     }
   ],
   "recentItems": []

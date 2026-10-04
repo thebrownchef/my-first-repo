@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCKjU3KzdbJE1EFcHVqXC3_g",
   "title": "CBC News: The National",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lapgpb4RQz5-6HiULuXDWwGYpl7oaikkTguYMgqmn0EKo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 5.52,
   "sources": [
@@ -50,6 +50,27 @@
       "label": "CBC News Nova Scotia",
       "url": "https://www.youtube.com/channel/UCxQXcwZ1Ls0spDyHCpwUs4Q",
       "firstSeenAt": "2026-09-20T11:20:13.638Z"
+    },
+    {
+      "id": "wiki:Adrienne Arsenault",
+      "type": "wikipedia",
+      "label": "Adrienne Arsenault",
+      "url": "https://en.wikipedia.org/wiki/Adrienne_Arsenault",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Paul Hunter (journalist)",
+      "type": "wikipedia",
+      "label": "Paul Hunter (journalist)",
+      "url": "https://en.wikipedia.org/wiki/Paul_Hunter_(journalist)",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "channel:UCUGUK3KIj0jf02JRDfd2DXA",
+      "type": "channel",
+      "label": "Strombo",
+      "url": "https://www.youtube.com/channel/UCUGUK3KIj0jf02JRDfd2DXA",
+      "firstSeenAt": "2026-10-04T12:18:53.671Z"
     }
   ],
   "recentItems": []

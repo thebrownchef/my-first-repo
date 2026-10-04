@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCG5fkJ8-2b2ZjWpVNpr7Dqg",
   "title": "whitneyhoustonVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mMpYur_Ra_AHgeLM2wRAVbky1_IXRLAE05Mm0Ee_ZtnXg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -43,6 +43,34 @@
       "label": "I Learned from the Best",
       "url": "https://en.wikipedia.org/wiki/I_Learned_from_the_Best",
       "firstSeenAt": "2026-10-03T11:38:21.435Z"
+    },
+    {
+      "id": "wiki:My Love Is Your Love (song)",
+      "type": "wikipedia",
+      "label": "My Love Is Your Love (song)",
+      "url": "https://en.wikipedia.org/wiki/My_Love_Is_Your_Love_(song)",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:If I Told You That",
+      "type": "wikipedia",
+      "label": "If I Told You That",
+      "url": "https://en.wikipedia.org/wiki/If_I_Told_You_That",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Whatchulookinat",
+      "type": "wikipedia",
+      "label": "Whatchulookinat",
+      "url": "https://en.wikipedia.org/wiki/Whatchulookinat",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Heartbreak Hotel (Whitney Houston song)",
+      "type": "wikipedia",
+      "label": "Heartbreak Hotel (Whitney Houston song)",
+      "url": "https://en.wikipedia.org/wiki/Heartbreak_Hotel_(Whitney_Houston_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
     }
   ],
   "recentItems": []

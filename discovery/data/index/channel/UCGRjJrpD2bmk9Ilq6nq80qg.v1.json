@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCGRjJrpD2bmk9Ilq6nq80qg",
   "title": "foofightersVEVO",
   "thumb": "https://yt3.ggpht.com/-ZGdTaoCW873bXQLFOyixfJeIxncJFDeF-zm6mpQfKx7LrcoincR-34lK6i5mUAYNcPxV-Im-A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Low (Foo Fighters song)",
       "url": "https://en.wikipedia.org/wiki/Low_(Foo_Fighters_song)",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Resolve (song)",
+      "type": "wikipedia",
+      "label": "Resolve (song)",
+      "url": "https://en.wikipedia.org/wiki/Resolve_(song)",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
     }
   ],
   "recentItems": [

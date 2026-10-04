@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC_JnlnBEy6F7CuwIQ-KSGBg",
   "title": "thestrokesVEVO",
   "thumb": "https://yt3.ggpht.com/8bVqvwv_8ElFKvKcDZx5Y9N2WFXVR9-Nk88cFpR7O_If_9qrIJRa6MI0DYgAbU9Uk2F56Hkz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,48 @@
       "label": "The Modern Age",
       "url": "https://en.wikipedia.org/wiki/The_Modern_Age",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:12:51 (The Strokes song)",
+      "type": "wikipedia",
+      "label": "12:51 (The Strokes song)",
+      "url": "https://en.wikipedia.org/wiki/12%3A51_(The_Strokes_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Someday (The Strokes song)",
+      "type": "wikipedia",
+      "label": "Someday (The Strokes song)",
+      "url": "https://en.wikipedia.org/wiki/Someday_(The_Strokes_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:The End Has No End",
+      "type": "wikipedia",
+      "label": "The End Has No End",
+      "url": "https://en.wikipedia.org/wiki/The_End_Has_No_End",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Juicebox (song)",
+      "type": "wikipedia",
+      "label": "Juicebox (song)",
+      "url": "https://en.wikipedia.org/wiki/Juicebox_(song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Heart in a Cage",
+      "type": "wikipedia",
+      "label": "Heart in a Cage",
+      "url": "https://en.wikipedia.org/wiki/Heart_in_a_Cage",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:You Only Live Once (song)",
+      "type": "wikipedia",
+      "label": "You Only Live Once (song)",
+      "url": "https://en.wikipedia.org/wiki/You_Only_Live_Once_(song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
     }
   ],
   "recentItems": []

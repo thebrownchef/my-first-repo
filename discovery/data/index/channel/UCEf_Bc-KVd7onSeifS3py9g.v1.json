@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCEf_Bc-KVd7onSeifS3py9g",
   "title": "SMTOWN",
   "thumb": "https://yt3.ggpht.com/42gxi39XmaHVEYxeuzdXitmJ_ig7QGPHczWLt2oPLG0g7AzuIWnNhYzSBXxAaQmPiVSM7Fi6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -50,6 +50,41 @@
       "label": "Marry U",
       "url": "https://en.wikipedia.org/wiki/Marry_U",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Run Devil Run (Girls' Generation song)",
+      "type": "wikipedia",
+      "label": "Run Devil Run (Girls' Generation song)",
+      "url": "https://en.wikipedia.org/wiki/Run_Devil_Run_(Girls'_Generation_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Hoot (EP)",
+      "type": "wikipedia",
+      "label": "Hoot (EP)",
+      "url": "https://en.wikipedia.org/wiki/Hoot_(EP)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Girls' Generation (2011 album)",
+      "type": "wikipedia",
+      "label": "Girls' Generation (2011 album)",
+      "url": "https://en.wikipedia.org/wiki/Girls'_Generation_(2011_album)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Hoot (song)",
+      "type": "wikipedia",
+      "label": "Hoot (song)",
+      "url": "https://en.wikipedia.org/wiki/Hoot_(song)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Bonamana (song)",
+      "type": "wikipedia",
+      "label": "Bonamana (song)",
+      "url": "https://en.wikipedia.org/wiki/Bonamana_(song)",
+      "firstSeenAt": "2026-10-04T12:18:41.500Z"
     }
   ],
   "recentItems": []

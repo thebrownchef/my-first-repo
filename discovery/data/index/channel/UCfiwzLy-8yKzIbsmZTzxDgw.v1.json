@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCfiwzLy-8yKzIbsmZTzxDgw",
   "title": "AlJazeera Arabic  قناة الجزيرة",
   "thumb": "https://yt3.ggpht.com/oN_i26ADOuQ4PdypHo8yjVXh6QSXZ1kMeYzaRH3hNOlQE1uEUUQ-gkCh0o1rUQ2PM7Qx6QvY2g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 45.5,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "الجزيرة برامج",
       "url": "https://www.youtube.com/channel/UC1M1X344ssYjSvjAXM0Rn2Q",
       "firstSeenAt": "2026-09-20T11:20:20.824Z"
+    },
+    {
+      "id": "wiki:Killing of Hamza Ali al-Khateeb",
+      "type": "wikipedia",
+      "label": "Killing of Hamza Ali al-Khateeb",
+      "url": "https://en.wikipedia.org/wiki/Killing_of_Hamza_Ali_al-Khateeb",
+      "firstSeenAt": "2026-10-04T12:18:41.500Z"
     }
   ],
   "recentItems": []

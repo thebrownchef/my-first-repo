@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UC2sCYa9G5XgNFsfslq2mTog",
+  "title": "Super Pierrot",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mUce34ytlus38hDCt1b0D3Vidc2uQZGX1IRjdBKmhXDFI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "wiki:Pointe du Raz",
+      "type": "wikipedia",
+      "label": "Pointe du Raz",
+      "url": "https://en.wikipedia.org/wiki/Pointe_du_Raz",
+      "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Île de Sein",
+      "type": "wikipedia",
+      "label": "Île de Sein",
+      "url": "https://en.wikipedia.org/wiki/%C3%8Ele_de_Sein",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    }
+  ],
+  "recentItems": []
+}

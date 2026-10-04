@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCd-swDW3HCs4LTZhq8Cf7Fg",
   "title": "DW Euromaxx",
   "thumb": "https://yt3.ggpht.com/aH78LYyfxXoD1JPrw19oDGNDPe1nPyyn-8wvzP8mzq2FRLos8ThH-Kur0Ei6xRBzFy0Hjyk8Aw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.74,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "DW Travel",
       "url": "https://www.youtube.com/channel/UCAjA4SbeRNqig8NdNszDBsA",
       "firstSeenAt": "2026-09-18T11:11:04.827Z"
+    },
+    {
+      "id": "wiki:Studio Harcourt",
+      "type": "wikipedia",
+      "label": "Studio Harcourt",
+      "url": "https://en.wikipedia.org/wiki/Studio_Harcourt",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

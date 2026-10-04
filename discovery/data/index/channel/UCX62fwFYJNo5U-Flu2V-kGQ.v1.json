@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCX62fwFYJNo5U-Flu2V-kGQ",
   "title": "BeastieBoysVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kjQN_MiG_SNJIxfQW2HmNZpUuMGeEpb2xbC5zAlMttvA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Body Movin'",
       "url": "https://en.wikipedia.org/wiki/Body_Movin'",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Sure Shot",
+      "type": "wikipedia",
+      "label": "Sure Shot",
+      "url": "https://en.wikipedia.org/wiki/Sure_Shot",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Sabotage (Beastie Boys song)",
+      "type": "wikipedia",
+      "label": "Sabotage (Beastie Boys song)",
+      "url": "https://en.wikipedia.org/wiki/Sabotage_(Beastie_Boys_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Make Some Noise (Beastie Boys song)",
+      "type": "wikipedia",
+      "label": "Make Some Noise (Beastie Boys song)",
+      "url": "https://en.wikipedia.org/wiki/Make_Some_Noise_(Beastie_Boys_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

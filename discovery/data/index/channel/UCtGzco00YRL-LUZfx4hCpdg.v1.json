@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCtGzco00YRL-LUZfx4hCpdg",
   "title": "Collective Soul",
   "thumb": "https://yt3.ggpht.com/5i4IBItTnE6AANNwJ-RylHdTuAsOtnKLKLy_IdGk3YGLBEBNFsSLdBe3ly140ZFc6b-4AXSJsw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "December (Collective Soul song)",
       "url": "https://en.wikipedia.org/wiki/December_(Collective_Soul_song)",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Shine (Collective Soul song)",
+      "type": "wikipedia",
+      "label": "Shine (Collective Soul song)",
+      "url": "https://en.wikipedia.org/wiki/Shine_(Collective_Soul_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
     }
   ],
   "recentItems": []

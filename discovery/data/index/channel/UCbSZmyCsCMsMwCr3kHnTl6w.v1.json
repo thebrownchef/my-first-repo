@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCbSZmyCsCMsMwCr3kHnTl6w",
   "title": "MIKAVEVO",
   "thumb": "https://yt3.ggpht.com/UXCJ4QGH43Z21WdhwV1inGQOlVi7raOHjXuG2t3Q3kWeUJEIJXUk50MS08pXEWuR_mEq5KtdJw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Kick Ass (We Are Young)",
       "url": "https://en.wikipedia.org/wiki/Kick_Ass_(We_Are_Young)",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:We Are Golden",
+      "type": "wikipedia",
+      "label": "We Are Golden",
+      "url": "https://en.wikipedia.org/wiki/We_Are_Golden",
+      "firstSeenAt": "2026-10-04T12:18:36.080Z"
     }
   ],
   "recentItems": []

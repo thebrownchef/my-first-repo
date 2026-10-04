@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
   "title": "BeyoncéVEVO",
   "thumb": "https://yt3.ggpht.com/4UxYRy4fJ0Fo54TRPkw19_W6uCCnzTBSkzm75vGIiEObg4IgY5Ie1BIsNcflFNqofAjxEpTRcQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Check on It",
       "url": "https://en.wikipedia.org/wiki/Check_on_It",
       "firstSeenAt": "2026-10-03T11:38:21.435Z"
+    },
+    {
+      "id": "wiki:Work It Out (Beyoncé song)",
+      "type": "wikipedia",
+      "label": "Work It Out (Beyoncé song)",
+      "url": "https://en.wikipedia.org/wiki/Work_It_Out_(Beyonc%C3%A9_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Déjà Vu (Beyoncé song)",
+      "type": "wikipedia",
+      "label": "Déjà Vu (Beyoncé song)",
+      "url": "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(Beyonc%C3%A9_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Get Me Bodied",
+      "type": "wikipedia",
+      "label": "Get Me Bodied",
+      "url": "https://en.wikipedia.org/wiki/Get_Me_Bodied",
+      "firstSeenAt": "2026-10-04T12:18:41.501Z"
     }
   ],
   "recentItems": []

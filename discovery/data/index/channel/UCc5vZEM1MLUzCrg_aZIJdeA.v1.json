@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UCc5vZEM1MLUzCrg_aZIJdeA",
+  "title": "Cambridge University",
+  "thumb": "https://yt3.ggpht.com/4RGBWK1Ng-b6klmOmMksOeFaoeDFmokdgX3JXp1tx5bkkbHlz0kDDVSSeyMsdlzhTqQzfNMdNw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.26,
+  "sources": [
+    {
+      "id": "wiki:Airfoil",
+      "type": "wikipedia",
+      "label": "Airfoil",
+      "url": "https://en.wikipedia.org/wiki/Airfoil",
+      "firstSeenAt": "2026-09-03T11:10:55.702Z"
+    },
+    {
+      "id": "wiki:Gyles Mackrell",
+      "type": "wikipedia",
+      "label": "Gyles Mackrell",
+      "url": "https://en.wikipedia.org/wiki/Gyles_Mackrell",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    }
+  ],
+  "recentItems": []
+}

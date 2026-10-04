@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+  "title": "Google for Developers",
+  "thumb": "https://yt3.ggpht.com/Jrfy3VrP1QDikidneCoruk9MmhsQsEAgeQSELZtL2fn1pKxCjh2ohk7derV33UpetVZwt-DuRQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.87,
+  "sources": [
+    {
+      "id": "wiki:Google App Engine",
+      "type": "wikipedia",
+      "label": "Google App Engine",
+      "url": "https://en.wikipedia.org/wiki/Google_App_Engine",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Google Native Client",
+      "type": "wikipedia",
+      "label": "Google Native Client",
+      "url": "https://en.wikipedia.org/wiki/Google_Native_Client",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Mozilla Skywriter",
+      "type": "wikipedia",
+      "label": "Mozilla Skywriter",
+      "url": "https://en.wikipedia.org/wiki/Mozilla_Skywriter",
+      "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    }
+  ],
+  "recentItems": []
+}

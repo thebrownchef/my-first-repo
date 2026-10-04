@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UChMKB2AHNpeuWhalpRYhUaw",
   "title": "RiseAgainstVEVO",
   "thumb": "https://yt3.ggpht.com/lqr70vzFWQqYcaBQJiL3lP45tK0xz88IRFqjLH1hjUihyKhHdCo_EqbySLZMCo5VyHy377jlVQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "The Good Left Undone",
       "url": "https://en.wikipedia.org/wiki/The_Good_Left_Undone",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Ready to Fall",
+      "type": "wikipedia",
+      "label": "Ready to Fall",
+      "url": "https://en.wikipedia.org/wiki/Ready_to_Fall",
+      "firstSeenAt": "2026-10-04T12:18:36.080Z"
+    },
+    {
+      "id": "wiki:Audience of One (song)",
+      "type": "wikipedia",
+      "label": "Audience of One (song)",
+      "url": "https://en.wikipedia.org/wiki/Audience_of_One_(song)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
     }
   ],
   "recentItems": []

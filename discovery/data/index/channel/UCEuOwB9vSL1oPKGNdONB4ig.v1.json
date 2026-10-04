@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCEuOwB9vSL1oPKGNdONB4ig",
   "title": "Red Hot Chili Peppers",
   "thumb": "https://yt3.ggpht.com/O-ftbUQoWe32VfOlIme0zZes00iU3YnlD9vj1eAzjIP95XR2mllLRumLW-zyDidEHGDF9rwu=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "Give It Away (Red Hot Chili Peppers song)",
       "url": "https://en.wikipedia.org/wiki/Give_It_Away_(Red_Hot_Chili_Peppers_song)",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Under the Bridge",
+      "type": "wikipedia",
+      "label": "Under the Bridge",
+      "url": "https://en.wikipedia.org/wiki/Under_the_Bridge",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Dani California",
+      "type": "wikipedia",
+      "label": "Dani California",
+      "url": "https://en.wikipedia.org/wiki/Dani_California",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:By the Way (Red Hot Chili Peppers song)",
+      "type": "wikipedia",
+      "label": "By the Way (Red Hot Chili Peppers song)",
+      "url": "https://en.wikipedia.org/wiki/By_the_Way_(Red_Hot_Chili_Peppers_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Soul to Squeeze",
+      "type": "wikipedia",
+      "label": "Soul to Squeeze",
+      "url": "https://en.wikipedia.org/wiki/Soul_to_Squeeze",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Universally Speaking",
+      "type": "wikipedia",
+      "label": "Universally Speaking",
+      "url": "https://en.wikipedia.org/wiki/Universally_Speaking",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
     }
   ],
   "recentItems": []

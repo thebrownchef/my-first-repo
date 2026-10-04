@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC9HnKwLco0wfmmHJT4KOjJw",
   "title": "keshaVEVO",
   "thumb": "https://yt3.ggpht.com/2iorVhEtL5A2FnitQBqFziaNVpAAnwIm4Jpx6dxQIbdMY_6jqK-tWc3rTnOxU5cebwa9JUXaOg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "DevVEVO",
       "url": "https://www.youtube.com/channel/UC_ZTX-lwUaoeK-l9gmMB4EA",
       "firstSeenAt": "2026-10-03T11:38:39.958Z"
+    },
+    {
+      "id": "wiki:We R Who We R",
+      "type": "wikipedia",
+      "label": "We R Who We R",
+      "url": "https://en.wikipedia.org/wiki/We_R_Who_We_R",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

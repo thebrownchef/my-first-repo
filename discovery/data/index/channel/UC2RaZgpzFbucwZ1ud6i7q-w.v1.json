@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC2RaZgpzFbucwZ1ud6i7q-w",
   "title": "KennyChesneyVEVO",
   "thumb": "https://yt3.ggpht.com/LbW9tSW1sG9_NJ6XZ6F_zxxZ_aeFAKISAFs5UtLPY4yGAiHV-6i0L1fHVdG0Uh9OEVdSvuqqcw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Who You'd Be Today",
       "url": "https://en.wikipedia.org/wiki/Who_You'd_Be_Today",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Anything but Mine",
+      "type": "wikipedia",
+      "label": "Anything but Mine",
+      "url": "https://en.wikipedia.org/wiki/Anything_but_Mine",
+      "firstSeenAt": "2026-10-04T12:18:36.080Z"
+    },
+    {
+      "id": "wiki:Don't Blink",
+      "type": "wikipedia",
+      "label": "Don't Blink",
+      "url": "https://en.wikipedia.org/wiki/Don't_Blink",
+      "firstSeenAt": "2026-10-04T12:18:41.500Z"
     }
   ],
   "recentItems": []

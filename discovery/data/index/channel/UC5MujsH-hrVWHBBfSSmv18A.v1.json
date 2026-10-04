@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UC5MujsH-hrVWHBBfSSmv18A",
+  "title": "florencemachine",
+  "thumb": "https://yt3.ggpht.com/IK7aKr50CXeYuOKhdi_HgOWkiJ-Jv6m9hE9fM_9hblQ6HOrEq7OjXEoTtGhaVkO0XYYe8uLw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.04,
+  "sources": [
+    {
+      "id": "channel:UCphyqKNSQIbR5ZMUN1J8Gxg",
+      "type": "channel",
+      "label": "Absolute Radio",
+      "url": "https://www.youtube.com/channel/UCphyqKNSQIbR5ZMUN1J8Gxg",
+      "firstSeenAt": "2026-09-04T11:15:34.189Z"
+    },
+    {
+      "id": "wiki:Drumming Song",
+      "type": "wikipedia",
+      "label": "Drumming Song",
+      "url": "https://en.wikipedia.org/wiki/Drumming_Song",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Kiss with a Fist",
+      "type": "wikipedia",
+      "label": "Kiss with a Fist",
+      "url": "https://en.wikipedia.org/wiki/Kiss_with_a_Fist",
+      "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCe3I9BAVCzf9oACYU1EtrxA",
   "title": "FallOutBoyVEVO",
   "thumb": "https://yt3.ggpht.com/mk9UokDVHJaFTFNPLX_uXQL0DJRLtaK2L9e8HhbtviVKw8cTH4rWRZL9K6Rm6pEZot8T9yB8pQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Dance, Dance (Fall Out Boy song)",
       "url": "https://en.wikipedia.org/wiki/Dance%2C_Dance_(Fall_Out_Boy_song)",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:A Little Less Sixteen Candles, a Little More \"Touch Me\"",
+      "type": "wikipedia",
+      "label": "A Little Less Sixteen Candles, a Little More \"Touch Me\"",
+      "url": "https://en.wikipedia.org/wiki/A_Little_Less_Sixteen_Candles%2C_a_Little_More_%22Touch_Me%22",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:This Ain't a Scene, It's an Arms Race",
+      "type": "wikipedia",
+      "label": "This Ain't a Scene, It's an Arms Race",
+      "url": "https://en.wikipedia.org/wiki/This_Ain't_a_Scene%2C_It's_an_Arms_Race",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
     }
   ],
   "recentItems": []

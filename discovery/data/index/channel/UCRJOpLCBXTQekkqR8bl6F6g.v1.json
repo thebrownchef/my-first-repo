@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCRJOpLCBXTQekkqR8bl6F6g",
   "title": "ElasticaVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ml3oxgnhXTPXcmcE8NFbPaL0O87AY8PqXtwyPLHlQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Car Song (Elastica song)",
       "url": "https://en.wikipedia.org/wiki/Car_Song_(Elastica_song)",
       "firstSeenAt": "2026-10-03T11:38:12.814Z"
+    },
+    {
+      "id": "wiki:Stutter (Elastica song)",
+      "type": "wikipedia",
+      "label": "Stutter (Elastica song)",
+      "url": "https://en.wikipedia.org/wiki/Stutter_(Elastica_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
     }
   ],
   "recentItems": []

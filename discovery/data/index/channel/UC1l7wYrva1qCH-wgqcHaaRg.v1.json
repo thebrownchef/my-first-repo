@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC1l7wYrva1qCH-wgqcHaaRg",
   "title": "David Guetta",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKPoGkfw44ICB715GPlzNDsmqZdlwewB1QGa9K4vD94o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -29,6 +29,34 @@
       "label": "Love Don't Let Me Go (Walking Away)",
       "url": "https://en.wikipedia.org/wiki/Love_Don't_Let_Me_Go_(Walking_Away)",
       "firstSeenAt": "2026-10-03T11:38:12.814Z"
+    },
+    {
+      "id": "wiki:Love Is Gone",
+      "type": "wikipedia",
+      "label": "Love Is Gone",
+      "url": "https://en.wikipedia.org/wiki/Love_Is_Gone",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:When Love Takes Over",
+      "type": "wikipedia",
+      "label": "When Love Takes Over",
+      "url": "https://en.wikipedia.org/wiki/When_Love_Takes_Over",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Gettin' Over You",
+      "type": "wikipedia",
+      "label": "Gettin' Over You",
+      "url": "https://en.wikipedia.org/wiki/Gettin'_Over_You",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Memories (David Guetta song)",
+      "type": "wikipedia",
+      "label": "Memories (David Guetta song)",
+      "url": "https://en.wikipedia.org/wiki/Memories_(David_Guetta_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

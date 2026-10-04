@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCv5emLGrYcQAmbpeFVlzjdg",
   "title": "Warner Records Vault",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kwhxgCaoiEuCoR9h7xBgEYPfPBsql-eTHazbiTVHm0OQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Goodnight Goodnight",
       "url": "https://en.wikipedia.org/wiki/Goodnight_Goodnight",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Road Trippin'",
+      "type": "wikipedia",
+      "label": "Road Trippin'",
+      "url": "https://en.wikipedia.org/wiki/Road_Trippin'",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Stop! (Jane's Addiction song)",
+      "type": "wikipedia",
+      "label": "Stop! (Jane's Addiction song)",
+      "url": "https://en.wikipedia.org/wiki/Stop!_(Jane's_Addiction_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Better Days (And the Bottom Drops Out)",
+      "type": "wikipedia",
+      "label": "Better Days (And the Bottom Drops Out)",
+      "url": "https://en.wikipedia.org/wiki/Better_Days_(And_the_Bottom_Drops_Out)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Classic Girl",
+      "type": "wikipedia",
+      "label": "Classic Girl",
+      "url": "https://en.wikipedia.org/wiki/Classic_Girl",
+      "firstSeenAt": "2026-10-04T12:18:41.502Z"
     }
   ],
   "recentItems": []

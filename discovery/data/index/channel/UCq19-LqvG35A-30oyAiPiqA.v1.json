@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCq19-LqvG35A-30oyAiPiqA",
   "title": "Radiohead",
   "thumb": "https://yt3.ggpht.com/H4O6JTiFsfQ47-UG0jyVWcQeXEh_qZ53My1W5YAXRgoO_ceSVn_7ClSi7PCdzVLqfLSF5EMR2w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "XL Recordings",
       "url": "https://www.youtube.com/channel/UCTTBHIoKPIWLAxxTNTiQ9vA",
       "firstSeenAt": "2026-10-03T11:38:44.699Z"
+    },
+    {
+      "id": "wiki:There There (song)",
+      "type": "wikipedia",
+      "label": "There There (song)",
+      "url": "https://en.wikipedia.org/wiki/There_There_(song)",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

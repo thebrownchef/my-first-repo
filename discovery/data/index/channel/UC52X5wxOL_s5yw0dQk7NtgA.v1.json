@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC52X5wxOL_s5yw0dQk7NtgA",
   "title": "Associated Press",
   "thumb": "https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 27.9,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "About AP",
       "url": "https://www.youtube.com/channel/UCwSNeFq42XE7DuN7_p3ySsQ",
       "firstSeenAt": "2026-09-23T11:32:31.569Z"
+    },
+    {
+      "id": "wiki:Timeline of the Yemeni revolution (January – 2 June 2011)",
+      "type": "wikipedia",
+      "label": "Timeline of the Yemeni revolution (January – 2 June 2011)",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Yemeni_revolution_(January_%E2%80%93_2_June_2011)",
+      "firstSeenAt": "2026-10-04T12:18:41.500Z"
     }
   ],
   "recentItems": []

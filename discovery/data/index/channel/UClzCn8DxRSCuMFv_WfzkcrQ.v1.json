@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
   "title": "CBS",
   "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 1,
   "uploadsPerDay": 2.85,
   "sources": [
@@ -92,6 +92,27 @@
       "label": "Heart Attack Grill",
       "url": "https://en.wikipedia.org/wiki/Heart_Attack_Grill",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:John McKissick",
+      "type": "wikipedia",
+      "label": "John McKissick",
+      "url": "https://en.wikipedia.org/wiki/John_McKissick",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:1980 Holiday Bowl",
+      "type": "wikipedia",
+      "label": "1980 Holiday Bowl",
+      "url": "https://en.wikipedia.org/wiki/1980_Holiday_Bowl",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Brandon Cox",
+      "type": "wikipedia",
+      "label": "Brandon Cox",
+      "url": "https://en.wikipedia.org/wiki/Brandon_Cox",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
     }
   ],
   "recentItems": [

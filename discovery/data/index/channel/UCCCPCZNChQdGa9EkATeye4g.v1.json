@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UCCCPCZNChQdGa9EkATeye4g",
+  "title": "FRANCE 24",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_k9aU_SRhYAWJjQ6AO7uzQDZE5mb7gmv4synLrC7hEWGjE=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 19.87,
+  "sources": [
+    {
+      "id": "wiki:France 24",
+      "type": "wikipedia",
+      "label": "France 24",
+      "url": "https://en.wikipedia.org/wiki/France_24",
+      "firstSeenAt": "2026-10-03T11:38:15.454Z"
+    },
+    {
+      "id": "channel:UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "type": "channel",
+      "label": "FRANCE 24 English",
+      "url": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "firstSeenAt": "2026-10-04T12:18:53.131Z"
+    }
+  ],
+  "recentItems": []
+}

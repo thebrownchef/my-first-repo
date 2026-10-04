@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC_kvGxvXkIIZ_pCdRWX-T2A",
   "title": "Kafkanishian",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kcMNwTP-s872qh7tMEEfJkxSxHOSO1a-xO5cXH0FnnKA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,27 @@
       "label": "Jatimatic",
       "url": "https://en.wikipedia.org/wiki/Jatimatic",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Walther P88",
+      "type": "wikipedia",
+      "label": "Walther P88",
+      "url": "https://en.wikipedia.org/wiki/Walther_P88",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Heckler & Koch G11",
+      "type": "wikipedia",
+      "label": "Heckler & Koch G11",
+      "url": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_G11",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:FN FNC",
+      "type": "wikipedia",
+      "label": "FN FNC",
+      "url": "https://en.wikipedia.org/wiki/FN_FNC",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

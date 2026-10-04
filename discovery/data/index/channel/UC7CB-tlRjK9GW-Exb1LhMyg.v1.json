@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC7CB-tlRjK9GW-Exb1LhMyg",
   "title": "Sum41VEVO",
   "thumb": "https://yt3.ggpht.com/08kCjQfyxG9_BkDzoX6X_5dKNExgo3R0hRUDctj2f8H_2P6Rhcnx08loVpVUdtFJkdESQ4muX20=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -64,6 +64,27 @@
       "label": "Fat Lip",
       "url": "https://en.wikipedia.org/wiki/Fat_Lip",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Pieces (Sum 41 song)",
+      "type": "wikipedia",
+      "label": "Pieces (Sum 41 song)",
+      "url": "https://en.wikipedia.org/wiki/Pieces_(Sum_41_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:In Too Deep (Sum 41 song)",
+      "type": "wikipedia",
+      "label": "In Too Deep (Sum 41 song)",
+      "url": "https://en.wikipedia.org/wiki/In_Too_Deep_(Sum_41_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Still Waiting (Sum 41 song)",
+      "type": "wikipedia",
+      "label": "Still Waiting (Sum 41 song)",
+      "url": "https://en.wikipedia.org/wiki/Still_Waiting_(Sum_41_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

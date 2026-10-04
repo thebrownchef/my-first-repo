@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC09rjW-THj6e3WgMKSc5Bvg",
   "title": "kingsofleonVEVO",
   "thumb": "https://yt3.ggpht.com/OndXxy9yVHl-7_XsXIAZfElCyogp085N1HWsUqP4zyUHCLMdyCjAqFf2I7sWNz96UaOC8gpi_A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,34 @@
       "label": "SnowPatrolVEVO",
       "url": "https://www.youtube.com/channel/UCS4bqe_kRDbaKsrpqfHZ08A",
       "firstSeenAt": "2026-10-03T11:38:43.557Z"
+    },
+    {
+      "id": "wiki:Use Somebody",
+      "type": "wikipedia",
+      "label": "Use Somebody",
+      "url": "https://en.wikipedia.org/wiki/Use_Somebody",
+      "firstSeenAt": "2026-10-04T12:18:36.080Z"
+    },
+    {
+      "id": "wiki:King of the Rodeo",
+      "type": "wikipedia",
+      "label": "King of the Rodeo",
+      "url": "https://en.wikipedia.org/wiki/King_of_the_Rodeo",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:The Bucket",
+      "type": "wikipedia",
+      "label": "The Bucket",
+      "url": "https://en.wikipedia.org/wiki/The_Bucket",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Four Kicks",
+      "type": "wikipedia",
+      "label": "Four Kicks",
+      "url": "https://en.wikipedia.org/wiki/Four_Kicks",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
     }
   ],
   "recentItems": []

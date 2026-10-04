@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC4BCUrNe2X5UJkvzeRG12gQ",
   "title": "Ministry of Defence Singapore",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxmzKkEffMmqVE-ig41l1QqvSgU-wrhmFFHoDbHVVFSA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Singapore Armed Forces Best Unit Competition",
       "url": "https://en.wikipedia.org/wiki/Singapore_Armed_Forces_Best_Unit_Competition",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:RSAF Black Knights",
+      "type": "wikipedia",
+      "label": "RSAF Black Knights",
+      "url": "https://en.wikipedia.org/wiki/RSAF_Black_Knights",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
     }
   ],
   "recentItems": []

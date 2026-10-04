@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC5BMQOsAB8hKUyHu9KI6yig",
   "title": "KBS WORLD TV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kWAyYX8IuruW0YuQuEK6Jn-cfqZZ8oFZCcpy7HnzB3C_FA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 12.23,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "KBS WORLD Arabic",
       "url": "https://www.youtube.com/channel/UC2NPctYUcBwIOfix7FRvlLQ",
       "firstSeenAt": "2026-09-26T11:21:51.313Z"
+    },
+    {
+      "id": "wiki:Hoot (EP)",
+      "type": "wikipedia",
+      "label": "Hoot (EP)",
+      "url": "https://en.wikipedia.org/wiki/Hoot_(EP)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCaum3Yzdl3TbBt8YUeUGZLQ",
   "title": "NickiMinajAtVEVO",
   "thumb": "https://yt3.ggpht.com/50YeejQslEmP9_pNJHm3SGYRHRuVMuGafgsyrm2AjRNOE8P0bcIsDMA371xebxsd2zMQedm0TA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Nicki Minaj",
       "url": "https://www.youtube.com/channel/UC3jOd7GUMhpgJRBhiLzuLsg",
       "firstSeenAt": "2026-09-06T10:53:32.250Z"
+    },
+    {
+      "id": "channel:UCATuR6v6DRf0tz0ww6V66LA",
+      "type": "channel",
+      "label": "NasVEVO",
+      "url": "https://www.youtube.com/channel/UCATuR6v6DRf0tz0ww6V66LA",
+      "firstSeenAt": "2026-10-04T12:19:04.489Z"
     }
   ],
   "recentItems": []

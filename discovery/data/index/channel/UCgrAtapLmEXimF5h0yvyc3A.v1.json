@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCgrAtapLmEXimF5h0yvyc3A",
   "title": "OurLadyPeaceVEVO",
   "thumb": "https://yt3.ggpht.com/z1BqpzFMU5FcB9ZZ4j8eLmdq4jGssmUGfIDAvwaE-iDYu3jUFkgrRK-K2SvprFyO2UIUfgsbXkA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,48 @@
       "label": "Innocent (Our Lady Peace song)",
       "url": "https://en.wikipedia.org/wiki/Innocent_(Our_Lady_Peace_song)",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Thief (Our Lady Peace song)",
+      "type": "wikipedia",
+      "label": "Thief (Our Lady Peace song)",
+      "url": "https://en.wikipedia.org/wiki/Thief_(Our_Lady_Peace_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:One Man Army (song)",
+      "type": "wikipedia",
+      "label": "One Man Army (song)",
+      "url": "https://en.wikipedia.org/wiki/One_Man_Army_(song)",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Automatic Flowers",
+      "type": "wikipedia",
+      "label": "Automatic Flowers",
+      "url": "https://en.wikipedia.org/wiki/Automatic_Flowers",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Life (Our Lady Peace song)",
+      "type": "wikipedia",
+      "label": "Life (Our Lady Peace song)",
+      "url": "https://en.wikipedia.org/wiki/Life_(Our_Lady_Peace_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:The Birdman (song)",
+      "type": "wikipedia",
+      "label": "The Birdman (song)",
+      "url": "https://en.wikipedia.org/wiki/The_Birdman_(song)",
+      "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:Naveed (song)",
+      "type": "wikipedia",
+      "label": "Naveed (song)",
+      "url": "https://en.wikipedia.org/wiki/Naveed_(song)",
+      "firstSeenAt": "2026-10-04T12:18:41.501Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCUULKbUzmSHJfTAfEUiZZPA",
   "title": "AmyGrantVEVO",
   "thumb": "https://yt3.ggpht.com/go8Hgk8P1XknlywIbiJyWL6pYiKRvmxbmVvfeZZMPj9xZL1_6RW_df4-GsNmTItnoBbAo9FW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Grown-Up Christmas List",
       "url": "https://en.wikipedia.org/wiki/Grown-Up_Christmas_List",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Lead Me On (Amy Grant song)",
+      "type": "wikipedia",
+      "label": "Lead Me On (Amy Grant song)",
+      "url": "https://en.wikipedia.org/wiki/Lead_Me_On_(Amy_Grant_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Baby Baby (Amy Grant song)",
+      "type": "wikipedia",
+      "label": "Baby Baby (Amy Grant song)",
+      "url": "https://en.wikipedia.org/wiki/Baby_Baby_(Amy_Grant_song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:I Will Remember You (Amy Grant song)",
+      "type": "wikipedia",
+      "label": "I Will Remember You (Amy Grant song)",
+      "url": "https://en.wikipedia.org/wiki/I_Will_Remember_You_(Amy_Grant_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Every Heartbeat",
+      "type": "wikipedia",
+      "label": "Every Heartbeat",
+      "url": "https://en.wikipedia.org/wiki/Every_Heartbeat",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
     }
   ],
   "recentItems": []

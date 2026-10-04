@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCC6XuDtfec7DxZdUa7ClFBQ",
   "title": "AvrilLavigneVEVO",
   "thumb": "https://yt3.ggpht.com/o4u-Su2zOrLmPhxLJgbv0U210sPb1DjBbvoKRU6ilU1hieKyaVBMmnRY7MVBiNhsgu6gggIlc5E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,34 @@
       "label": "Hot (Avril Lavigne song)",
       "url": "https://en.wikipedia.org/wiki/Hot_(Avril_Lavigne_song)",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Losing Grip",
+      "type": "wikipedia",
+      "label": "Losing Grip",
+      "url": "https://en.wikipedia.org/wiki/Losing_Grip",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Don't Tell Me (Avril Lavigne song)",
+      "type": "wikipedia",
+      "label": "Don't Tell Me (Avril Lavigne song)",
+      "url": "https://en.wikipedia.org/wiki/Don't_Tell_Me_(Avril_Lavigne_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Nobody's Home (Avril Lavigne song)",
+      "type": "wikipedia",
+      "label": "Nobody's Home (Avril Lavigne song)",
+      "url": "https://en.wikipedia.org/wiki/Nobody's_Home_(Avril_Lavigne_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Wish You Were Here (Avril Lavigne song)",
+      "type": "wikipedia",
+      "label": "Wish You Were Here (Avril Lavigne song)",
+      "url": "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Avril_Lavigne_song)",
+      "firstSeenAt": "2026-10-04T12:18:41.501Z"
     }
   ],
   "recentItems": []

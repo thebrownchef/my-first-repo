@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCi2KNss4Yx73NG0JARSFe0A",
   "title": "Foo Fighters",
   "thumb": "https://yt3.ggpht.com/-ZGdTaoCW873bXQLFOyixfJeIxncJFDeF-zm6mpQfKx7LrcoincR-34lK6i5mUAYNcPxV-Im-A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Radio X",
       "url": "https://www.youtube.com/channel/UC10DG3enEhKiOEmyu_eEzuA",
       "firstSeenAt": "2026-09-11T11:17:46.803Z"
+    },
+    {
+      "id": "wiki:Walk (Foo Fighters song)",
+      "type": "wikipedia",
+      "label": "Walk (Foo Fighters song)",
+      "url": "https://en.wikipedia.org/wiki/Walk_(Foo_Fighters_song)",
+      "firstSeenAt": "2026-10-04T12:18:36.082Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCYal7J64EbvvlygsfiFriIw",
   "title": "Eesti Rahvusringhääling",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mF85r8dMMJ3s8xAbus085FZ8pOOcuDjX2ZRZGf1zDquw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 1.59,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Кофе+",
       "url": "https://www.youtube.com/channel/UCKW_-LPrJ2TwCm7rG32sDvQ",
       "firstSeenAt": "2026-09-19T10:55:41.902Z"
+    },
+    {
+      "id": "wiki:Jarek Kasar",
+      "type": "wikipedia",
+      "label": "Jarek Kasar",
+      "url": "https://en.wikipedia.org/wiki/Jarek_Kasar",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []

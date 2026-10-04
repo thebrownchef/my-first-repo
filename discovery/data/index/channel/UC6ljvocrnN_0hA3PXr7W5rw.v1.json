@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC6ljvocrnN_0hA3PXr7W5rw",
   "title": "ThirtySecondsToMarsVEVO",
   "thumb": "https://yt3.ggpht.com/cPykTn6HtmBwtLB8Hf1qmNcCO9O_Oow6xAzbmjXNHhLHKZ6XhBLDANQMRIfjAusaYN21dslVKw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Capricorn (A Brand New Name)",
       "url": "https://en.wikipedia.org/wiki/Capricorn_(A_Brand_New_Name)",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Kings and Queens (Thirty Seconds to Mars song)",
+      "type": "wikipedia",
+      "label": "Kings and Queens (Thirty Seconds to Mars song)",
+      "url": "https://en.wikipedia.org/wiki/Kings_and_Queens_(Thirty_Seconds_to_Mars_song)",
+      "firstSeenAt": "2026-10-04T12:18:41.502Z"
+    },
+    {
+      "id": "wiki:Closer to the Edge",
+      "type": "wikipedia",
+      "label": "Closer to the Edge",
+      "url": "https://en.wikipedia.org/wiki/Closer_to_the_Edge",
+      "firstSeenAt": "2026-10-04T12:18:41.502Z"
     }
   ],
   "recentItems": []

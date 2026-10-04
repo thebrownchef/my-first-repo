@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UC-PVsWUQwwBSBYGDBYiyJ0g",
   "title": "SublimeVEVO",
   "thumb": "https://yt3.ggpht.com/qpzc7AZz5GAmTT6FIrm3ZPzXWYjDKOxW5AczpqJJn6gEMlmmIxImR4gqEPfop6XGC-uxLthCBw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Wrong Way",
       "url": "https://en.wikipedia.org/wiki/Wrong_Way",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Date Rape (song)",
+      "type": "wikipedia",
+      "label": "Date Rape (song)",
+      "url": "https://en.wikipedia.org/wiki/Date_Rape_(song)",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
     }
   ],
   "recentItems": []

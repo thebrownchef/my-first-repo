@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UCQ7jir4mIfQx3_DJsmVbwqA",
+  "title": "Case Western Reserve University",
+  "thumb": "https://yt3.ggpht.com/Zdr0Q2NAwLmIOY05GviJdjoWn35vmtNn1Flqn1Rb7XI111tkCSqIzxCQeDbSrs9UeKmgod-GPrg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.54,
+  "sources": [
+    {
+      "id": "channel:UCu9ZMGwUup7i9FCOZU0f9LA",
+      "type": "channel",
+      "label": "Case Western Reserve University School of Law",
+      "url": "https://www.youtube.com/channel/UCu9ZMGwUup7i9FCOZU0f9LA",
+      "firstSeenAt": "2026-09-05T10:32:50.306Z"
+    },
+    {
+      "id": "wiki:Tiktaalik",
+      "type": "wikipedia",
+      "label": "Tiktaalik",
+      "url": "https://en.wikipedia.org/wiki/Tiktaalik",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Neil Shubin",
+      "type": "wikipedia",
+      "label": "Neil Shubin",
+      "url": "https://en.wikipedia.org/wiki/Neil_Shubin",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    }
+  ],
+  "recentItems": []
+}

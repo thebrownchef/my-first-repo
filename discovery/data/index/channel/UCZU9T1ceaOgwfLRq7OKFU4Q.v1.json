@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCZU9T1ceaOgwfLRq7OKFU4Q",
   "title": "Linkin Park",
   "thumb": "https://yt3.ggpht.com/OtUf050j6w6iRPUmGgmzblD2saluxUusxiVmo0-SMUnWiNKwR89JL_-xJ6JvIEram8UbPT_zDA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 2,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "From the Inside (Linkin Park song)",
       "url": "https://en.wikipedia.org/wiki/From_the_Inside_(Linkin_Park_song)",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Somewhere I Belong",
+      "type": "wikipedia",
+      "label": "Somewhere I Belong",
+      "url": "https://en.wikipedia.org/wiki/Somewhere_I_Belong",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCf2WBemooP2gBBx3lrraNQw",
   "title": "blink182VEVO",
   "thumb": "https://yt3.ggpht.com/LibG3wCv6pzHURjVeCmLEXZ07NF9vBk3GobIYdCOA734aG3QObFaMnnVGwoeDpfMxh_V2dU6WR4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Down (Blink-182 song)",
       "url": "https://en.wikipedia.org/wiki/Down_(Blink-182_song)",
       "firstSeenAt": "2026-10-03T11:38:21.435Z"
+    },
+    {
+      "id": "wiki:Not Now",
+      "type": "wikipedia",
+      "label": "Not Now",
+      "url": "https://en.wikipedia.org/wiki/Not_Now",
+      "firstSeenAt": "2026-10-04T12:18:31.741Z"
     }
   ],
   "recentItems": []

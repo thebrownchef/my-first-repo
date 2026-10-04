@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCLdfTpBoh9G_DI3OURnIFOQ",
   "title": "Blur",
   "thumb": "https://yt3.ggpht.com/zDqC_Z4g_Pslq4IFdlGTkslL2BBuNiqHkyu2Ne5FEA6zZ2hVnlDuC4EmvFCiFND9i55oQXIS=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Good Song",
       "url": "https://en.wikipedia.org/wiki/Good_Song",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Charmless Man",
+      "type": "wikipedia",
+      "label": "Charmless Man",
+      "url": "https://en.wikipedia.org/wiki/Charmless_Man",
+      "firstSeenAt": "2026-10-04T12:18:31.743Z"
     }
   ],
   "recentItems": []

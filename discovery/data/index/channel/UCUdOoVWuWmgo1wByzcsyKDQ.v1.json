@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "id": "UCUdOoVWuWmgo1wByzcsyKDQ",
+  "title": "FRANCE 24 Español",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 19.69,
+  "sources": [
+    {
+      "id": "channel:UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "type": "channel",
+      "label": "FRANCE 24 English",
+      "url": "https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "firstSeenAt": "2026-10-04T12:18:53.132Z"
+    },
+    {
+      "id": "channel:UCCCPCZNChQdGa9EkATeye4g",
+      "type": "channel",
+      "label": "FRANCE 24",
+      "url": "https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g",
+      "firstSeenAt": "2026-10-04T12:18:53.253Z"
+    }
+  ],
+  "recentItems": []
+}

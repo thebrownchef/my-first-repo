@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
   "title": "TEDx Talks",
   "thumb": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 42.9,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Pachycephalosauria",
       "url": "https://en.wikipedia.org/wiki/Pachycephalosauria",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Kevin Kallaugher",
+      "type": "wikipedia",
+      "label": "Kevin Kallaugher",
+      "url": "https://en.wikipedia.org/wiki/Kevin_Kallaugher",
+      "firstSeenAt": "2026-10-04T12:18:41.502Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:39:52.199Z",
+  "generatedAt": "2026-10-04T12:20:25.324Z",
   "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "title": "NASA",
   "thumb": "https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.93,
   "sources": [
@@ -36,6 +36,27 @@
       "label": "Expedition 24",
       "url": "https://en.wikipedia.org/wiki/Expedition_24",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "wiki:Interstellar Boundary Explorer",
+      "type": "wikipedia",
+      "label": "Interstellar Boundary Explorer",
+      "url": "https://en.wikipedia.org/wiki/Interstellar_Boundary_Explorer",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:LCROSS",
+      "type": "wikipedia",
+      "label": "LCROSS",
+      "url": "https://en.wikipedia.org/wiki/LCROSS",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:NASA recovery ship",
+      "type": "wikipedia",
+      "label": "NASA recovery ship",
+      "url": "https://en.wikipedia.org/wiki/NASA_recovery_ship",
+      "firstSeenAt": "2026-10-04T12:18:36.081Z"
     }
   ],
   "recentItems": []
