@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "id": "UCqC_GY2ZiENFz2pwL0cSfAw",
+  "title": "Green Day",
+  "thumb": "https://yt3.ggpht.com/NEt7WZ2Uua_dd2h_TZZzApAn87beUhIUapBH15lMc1PblAsTz2AzXEIfsWUktgXzPKrOFDL2Vg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.11,
+  "sources": [
+    {
+      "id": "channel:UCNkhZlHm1ccjIcDyt7W1Opg",
+      "type": "channel",
+      "label": "Royal Blood",
+      "url": "https://www.youtube.com/channel/UCNkhZlHm1ccjIcDyt7W1Opg",
+      "firstSeenAt": "2026-09-29T12:49:20.493Z"
+    },
+    {
+      "id": "wiki:21 Guns (song)",
+      "type": "wikipedia",
+      "label": "21 Guns (song)",
+      "url": "https://en.wikipedia.org/wiki/21_Guns_(song)",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCRpjHHu8ivVWs73uxHlWwFA",
   "title": "Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/Nbk9FOWmzYz-1eYlnqhnR1qT0ULJ2iQ0L4IR1eLx7silv-qETBsh_LjpUgnG0WvV6fZypNzCfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.2,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Playing with Fire (Paula Seling and Ovi song)",
       "url": "https://en.wikipedia.org/wiki/Playing_with_Fire_(Paula_Seling_and_Ovi_song)",
       "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Allez Ola Olé",
+      "type": "wikipedia",
+      "label": "Allez Ola Olé",
+      "url": "https://en.wikipedia.org/wiki/Allez_Ola_Ol%C3%A9",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

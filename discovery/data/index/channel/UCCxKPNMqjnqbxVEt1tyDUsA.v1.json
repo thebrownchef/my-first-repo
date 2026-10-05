@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCCxKPNMqjnqbxVEt1tyDUsA",
   "title": "kermodeandmayo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ks6dEmEkAImF_CZKA2ou92K3XWGrURDSlU25bAH3QGsg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
-  "uploadsPerDay": 0.64,
+  "uploadsPerDay": 0.63,
   "sources": [
     {
       "id": "wiki:Nativity 2: Danger in the Manger",
@@ -22,6 +22,13 @@
       "label": "Rotten Tomatoes",
       "url": "https://www.youtube.com/channel/UCE0Wkd9Jcn2-TNo5G8bLQrA",
       "firstSeenAt": "2026-09-17T11:38:53.389Z"
+    },
+    {
+      "id": "wiki:Kermode and Mayo's Film Review",
+      "type": "wikipedia",
+      "label": "Kermode and Mayo's Film Review",
+      "url": "https://en.wikipedia.org/wiki/Kermode_and_Mayo's_Film_Review",
+      "firstSeenAt": "2026-10-05T14:32:46.874Z"
     }
   ],
   "recentItems": []

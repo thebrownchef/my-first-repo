@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC5MflQzxXRcxtbr4XbOs6qw",
   "title": "FefeDobsonVEVO",
   "thumb": "https://yt3.ggpht.com/h48kQeLd396BMbMUu2OYU4QcJ7H6GwlLy5C17qOmfVJgBO0U9qihgLUF4kpxGDnl6FVUb5X8PIE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,34 @@
       "label": "Stuttering (Fefe Dobson song)",
       "url": "https://en.wikipedia.org/wiki/Stuttering_(Fefe_Dobson_song)",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Bye Bye Boyfriend",
+      "type": "wikipedia",
+      "label": "Bye Bye Boyfriend",
+      "url": "https://en.wikipedia.org/wiki/Bye_Bye_Boyfriend",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Take Me Away (Fefe Dobson song)",
+      "type": "wikipedia",
+      "label": "Take Me Away (Fefe Dobson song)",
+      "url": "https://en.wikipedia.org/wiki/Take_Me_Away_(Fefe_Dobson_song)",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Everything (Fefe Dobson song)",
+      "type": "wikipedia",
+      "label": "Everything (Fefe Dobson song)",
+      "url": "https://en.wikipedia.org/wiki/Everything_(Fefe_Dobson_song)",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Can't Breathe",
+      "type": "wikipedia",
+      "label": "Can't Breathe",
+      "url": "https://en.wikipedia.org/wiki/Can't_Breathe",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

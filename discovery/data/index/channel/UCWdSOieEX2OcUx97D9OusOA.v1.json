@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCWdSOieEX2OcUx97D9OusOA",
   "title": "sportsnetwork",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lLFe72jWSv9b90HgTMSIb0mS25xyNu9pSApzPyFYo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.29,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Rikki Fifton",
       "url": "https://en.wikipedia.org/wiki/Rikki_Fifton",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:2009 World Championships in Athletics – Men's 100 metres",
+      "type": "wikipedia",
+      "label": "2009 World Championships in Athletics – Men's 100 metres",
+      "url": "https://en.wikipedia.org/wiki/2009_World_Championships_in_Athletics_%E2%80%93_Men's_100_metres",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:2009 World Championships in Athletics – Men's 200 metres",
+      "type": "wikipedia",
+      "label": "2009 World Championships in Athletics – Men's 200 metres",
+      "url": "https://en.wikipedia.org/wiki/2009_World_Championships_in_Athletics_%E2%80%93_Men's_200_metres",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Ivory Williams",
+      "type": "wikipedia",
+      "label": "Ivory Williams",
+      "url": "https://en.wikipedia.org/wiki/Ivory_Williams",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

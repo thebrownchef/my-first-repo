@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCN7Q4H7AoWG_EROce1cMtOQ",
   "title": "NScherzingerVEVO",
   "thumb": "https://yt3.ggpht.com/19StNdDxVNlkgR8jOfiLSah_LxOb9RfEn507yJ0pFvsRA2Feoyib3Sv72OCjzB3lbL-L8i-Y1qo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Baby Love (Nicole Scherzinger song)",
       "url": "https://en.wikipedia.org/wiki/Baby_Love_(Nicole_Scherzinger_song)",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Right There (Nicole Scherzinger song)",
+      "type": "wikipedia",
+      "label": "Right There (Nicole Scherzinger song)",
+      "url": "https://en.wikipedia.org/wiki/Right_There_(Nicole_Scherzinger_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

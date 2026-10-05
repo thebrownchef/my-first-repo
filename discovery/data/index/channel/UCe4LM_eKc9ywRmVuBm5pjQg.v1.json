@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCe4LM_eKc9ywRmVuBm5pjQg",
   "title": "Atlantic Records",
   "thumb": "https://yt3.ggpht.com/6W-mb2efMopcsFp2LcQV2kbp9H_L3CmdOUGfWAsRG21B_AKurkfNk-aM0ZkcPSoGOJ0w0VKAxuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "(When You Gonna) Give It Up to Me",
       "url": "https://en.wikipedia.org/wiki/(When_You_Gonna)_Give_It_Up_to_Me",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Water's Edge",
+      "type": "wikipedia",
+      "label": "Water's Edge",
+      "url": "https://en.wikipedia.org/wiki/Water's_Edge",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "channel:UCSugZEYrWbzqIWGD195V-YA",
+      "type": "channel",
+      "label": "Gucci Mane",
+      "url": "https://www.youtube.com/channel/UCSugZEYrWbzqIWGD195V-YA",
+      "firstSeenAt": "2026-10-05T14:33:08.897Z"
     }
   ],
   "recentItems": []

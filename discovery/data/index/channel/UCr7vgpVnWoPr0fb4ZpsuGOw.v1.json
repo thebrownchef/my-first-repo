@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCr7vgpVnWoPr0fb4ZpsuGOw",
   "title": "TinchyStryderVEVO",
   "thumb": "https://yt3.ggpht.com/zDNywA-tT5N8Hnt3TL0jH5k38fpffOnLKuHeMksbU1KgHwRg4mptYLAeRE8XY0hyodDn4OWs7g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Take Me Back (Tinchy Stryder song)",
       "url": "https://en.wikipedia.org/wiki/Take_Me_Back_(Tinchy_Stryder_song)",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:In My System",
+      "type": "wikipedia",
+      "label": "In My System",
+      "url": "https://en.wikipedia.org/wiki/In_My_System",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:Off the Record (Tinchy Stryder song)",
+      "type": "wikipedia",
+      "label": "Off the Record (Tinchy Stryder song)",
+      "url": "https://en.wikipedia.org/wiki/Off_the_Record_(Tinchy_Stryder_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

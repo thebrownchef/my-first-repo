@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
   "title": "CBS",
   "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 1,
   "uploadsPerDay": 2.85,
   "sources": [
@@ -113,9 +113,85 @@
       "label": "Brandon Cox",
       "url": "https://en.wikipedia.org/wiki/Brandon_Cox",
       "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Darrell Scott (American football)",
+      "type": "wikipedia",
+      "label": "Darrell Scott (American football)",
+      "url": "https://en.wikipedia.org/wiki/Darrell_Scott_(American_football)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:Saturday Night Live parodies of Sarah Palin",
+      "type": "wikipedia",
+      "label": "Saturday Night Live parodies of Sarah Palin",
+      "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live_parodies_of_Sarah_Palin",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "uUcofKMSrRQ",
+      "title": "Marshals: Season 2 Episode 1 | Full Episode | All Hat No Cattle | CBS",
+      "publishedAt": "2026-10-05T07:01:20Z",
+      "durationSec": 2602,
+      "thumb": "https://i.ytimg.com/vi/uUcofKMSrRQ/mqdefault.jpg",
+      "description": "Kayce Dutton goes rogue in Bighorn, Wyoming to rescue his kidnapped son, Tate, uncovering a massive cattle Ponzi scheme run by land-grabber Tom Weaver.\n\nWatch on CBS | Stream on Paramount+ #MarshalsCBS\nFollow Marshals on Instagram HERE: https://www.instagram.com/marshalscbs\nFollow Marshals on TikTok HERE: https://www.tiktok.com/@marshalscbs\nLike Marshals on Facebook HERE: https://www.facebook.com/marshalscbs\nWatch more Marshals HERE: https://www.paramountplus.com/shows/marshals\n\nMARSHALS stars Luke Grimes as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region’s war on violence.\n\nKey Questions Answered\n* How does Kayce Dutton discover that his son Tate has been taken hostage by Tom Weaver's operatives? \n* What financial crime is Tom Weaver hiding behind his cattle operation and the East Camp land grab? \n* How do the U.S. Marshals connect the attacks on Chairman Rainwater to Weaver's mercenary force? \n* Why does Dolly Weaver turn on her father during the high-stakes standoff in Wyoming? \n* How does Kayce rescue Tate without blowing up his team's official operation? \n\nTimestamps/Chapters\n00:00 - Recap & The Threat to East Camp\n01:09 - Kayce Dutton Traumatized After House Attack\n03:46 - Attorney Stan Cobb Delivers Weaver’s Extortion Ultimatum\n06:16 - Marshals Ambush Mercenaries & Recover Encrypted Phones\n08:12 - Kayce Confronts Dolly Weaver & Forces Her Cooperation\n11:05 - Marshals Connect Mercenary Leader Jed Burrows to Weaver\n14:00 - Kayce Agrees to Exchange East Camp for Tate in Wyoming\n17:00 - Marshals Uncover Weaver’s 9-Figure Ghost-Cow Ponzi Scheme\n24:30 - Kayce and Dolly Enter Weaver's Wiretapped Compound\n27:00 - Standoff: Weaver Betrays Dolly & Demands Kayce’s Execution\n33:30 - Tactical Shootout: Marshals Raid the Wyoming Ranch\n36:00 - Final Confrontation: Dolly’s Death & Weaver’s Arrest\n38:30 - Aftermath: Kayce Brings Tate Home to Montana\n\nStep-by-Step Overview\n1. Extortion & Kidnapping: Attorney Stan Cobb confronts Kayce Dutton, demanding he sign over East Camp in exchange for his son Tate, who is being held at Tom Weaver's Wyoming ranch. \n2. Forcing Leverage: Kayce takes Weaver's daughter, Dolly, as collateral and forces her to guide him through Weaver's heavily armed Bighorn compound. \n3. Uncovering the Fraud: The Marshals investigate Weaver's cattle operation, discovering fake meatpacking invoices and revealing a multi-million-dollar ghost-cattle Ponzi scheme that Weaver is killing to cover up. \n4. Linking the Mercenaries: Intelligence identifies ranch foreman Jed Burrows as a court-martialed Canadian Task Force operative leading the mercenary attacks on East Camp and Chairman Rainwater. \n5. The Compound Standoff: Kayce surrenders the East Camp deed to secure Tate, but Weaver attempts a double-cross, ordering his mercenaries to execute Kayce and frame it as a fishing accident. \n6. Tactical Rescue: The U.S. Marshals trace Weaver's private flight logs to Bighorn, launching a tactical raid on the ranch that neutralizes the mercenary force and frees Tate. \n7. Resolution: Following a fatal confrontation that claims Dolly's life, Weaver is arrested, ending the land-grab conspiracy and allowing Kayce to bring Tate safely back to Montana.",
+      "chapters": [
+        {
+          "seconds": 0,
+          "label": "Recap & The Threat to East Camp"
+        },
+        {
+          "seconds": 69,
+          "label": "Kayce Dutton Traumatized After House Attack"
+        },
+        {
+          "seconds": 226,
+          "label": "Attorney Stan Cobb Delivers Weaver’s Extortion Ultimatum"
+        },
+        {
+          "seconds": 376,
+          "label": "Marshals Ambush Mercenaries & Recover Encrypted Phones"
+        },
+        {
+          "seconds": 492,
+          "label": "Kayce Confronts Dolly Weaver & Forces Her Cooperation"
+        },
+        {
+          "seconds": 665,
+          "label": "Marshals Connect Mercenary Leader Jed Burrows to Weaver"
+        },
+        {
+          "seconds": 840,
+          "label": "Kayce Agrees to Exchange East Camp for Tate in Wyoming"
+        },
+        {
+          "seconds": 1020,
+          "label": "Marshals Uncover Weaver’s 9-Figure Ghost-Cow Ponzi Scheme"
+        },
+        {
+          "seconds": 1470,
+          "label": "Kayce and Dolly Enter Weaver's Wiretapped Compound"
+        },
+        {
+          "seconds": 1620,
+          "label": "Standoff: Weaver Betrays Dolly & Demands Kayce’s Execution"
+        },
+        {
+          "seconds": 2010,
+          "label": "Tactical Shootout: Marshals Raid the Wyoming Ranch"
+        },
+        {
+          "seconds": 2160,
+          "label": "Final Confrontation: Dolly’s Death & Weaver’s Arrest"
+        },
+        {
+          "seconds": 2310,
+          "label": "Aftermath: Kayce Brings Tate Home to Montana"
+        }
+      ]
+    },
     {
       "id": "sEMzScxHahA",
       "title": "So… thoughts on AI? #CupertinoCBS #WorldOfCupertino",
@@ -158,15 +234,6 @@
       "publishedAt": "2026-09-23T18:15:37Z",
       "durationSec": 67,
       "thumb": "https://i.ytimg.com/vi/RXB78p1hLL4/mqdefault.jpg",
-      "description": "Watch on CBS | Stream on Paramount+ #CBS\nFollow us on Instagram HERE: https://www.instagram.com/cbstv\nFollow us on TikTok HERE: https://www.tiktok.com/@cbs\nLike us on Facebook HERE: https://www.facebook.com/CBS\nWatch your favorite CBS shows HERE: https://www.paramountplus.com/brands/cbs",
-      "chapters": []
-    },
-    {
-      "id": "TdOaetxdA80",
-      "title": "Honesty is @JudgeJudy's policy – and Steven Spielberg’s, too! #JudgeJudy",
-      "publishedAt": "2026-09-22T19:00:29Z",
-      "durationSec": 62,
-      "thumb": "https://i.ytimg.com/vi/TdOaetxdA80/mqdefault.jpg",
       "description": "Watch on CBS | Stream on Paramount+ #CBS\nFollow us on Instagram HERE: https://www.instagram.com/cbstv\nFollow us on TikTok HERE: https://www.tiktok.com/@cbs\nLike us on Facebook HERE: https://www.facebook.com/CBS\nWatch your favorite CBS shows HERE: https://www.paramountplus.com/brands/cbs",
       "chapters": []
     }

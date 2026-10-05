@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC4rasfm9J-X4jNl9SvXp8xA",
   "title": "Ultra Records",
   "thumb": "https://yt3.ggpht.com/ljBJgg_2rIQIhglsv5Mg-sWCH3BuRGkoc0EdTNXOAszyapyAzdB5OHVwdFTzVQIo1u3001kjfg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Boten Anna",
       "url": "https://en.wikipedia.org/wiki/Boten_Anna",
       "firstSeenAt": "2026-10-04T12:18:36.080Z"
+    },
+    {
+      "id": "wiki:Stereo Love",
+      "type": "wikipedia",
+      "label": "Stereo Love",
+      "url": "https://en.wikipedia.org/wiki/Stereo_Love",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:Get Up Stand Up (Stellar Project song)",
+      "type": "wikipedia",
+      "label": "Get Up Stand Up (Stellar Project song)",
+      "url": "https://en.wikipedia.org/wiki/Get_Up_Stand_Up_(Stellar_Project_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

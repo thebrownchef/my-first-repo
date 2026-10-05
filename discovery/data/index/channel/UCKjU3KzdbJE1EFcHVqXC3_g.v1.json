@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCKjU3KzdbJE1EFcHVqXC3_g",
   "title": "CBC News: The National",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lapgpb4RQz5-6HiULuXDWwGYpl7oaikkTguYMgqmn0EKo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
-  "uploadsPerDay": 5.52,
+  "uploadsPerDay": 5.54,
   "sources": [
     {
       "id": "wiki:David Johnston (governor general)",
@@ -71,6 +71,13 @@
       "label": "Strombo",
       "url": "https://www.youtube.com/channel/UCUGUK3KIj0jf02JRDfd2DXA",
       "firstSeenAt": "2026-10-04T12:18:53.671Z"
+    },
+    {
+      "id": "wiki:The National (TV program)",
+      "type": "wikipedia",
+      "label": "The National (TV program)",
+      "url": "https://en.wikipedia.org/wiki/The_National_(TV_program)",
+      "firstSeenAt": "2026-10-05T14:32:47.136Z"
     }
   ],
   "recentItems": []

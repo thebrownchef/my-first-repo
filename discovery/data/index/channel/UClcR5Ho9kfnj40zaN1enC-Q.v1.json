@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UClcR5Ho9kfnj40zaN1enC-Q",
   "title": "LadyAVEVO",
   "thumb": "https://yt3.ggpht.com/zPfRBC2xS7pOr4VK51GYJrxHn0V0rdq-R9rSgSdPQqPVuwYsI6EuEuUL-k7HKiFw1pwF3r8tOA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "I Run to You",
       "url": "https://en.wikipedia.org/wiki/I_Run_to_You",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:American Honey",
+      "type": "wikipedia",
+      "label": "American Honey",
+      "url": "https://en.wikipedia.org/wiki/American_Honey",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

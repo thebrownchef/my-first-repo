@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC2ScTcowKLzbyCl8ogJ_KKg",
   "title": "laurapausinitv",
   "thumb": "https://yt3.ggpht.com/3Glz2RL13txCrjqKMS5BUtB9VN1wRFIa12bvfwbKv3zGIqXwjfAPKH9vpT935QH17h0wcS_laA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "La solitudine",
       "url": "https://en.wikipedia.org/wiki/La_solitudine",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Non ho mai smesso",
+      "type": "wikipedia",
+      "label": "Non ho mai smesso",
+      "url": "https://en.wikipedia.org/wiki/Non_ho_mai_smesso",
+      "firstSeenAt": "2026-10-05T14:32:47.590Z"
     }
   ],
   "recentItems": []

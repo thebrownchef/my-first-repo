@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCQi67q4kGdmnJaRzX81uK5g",
   "title": "YG ENTERTAINMENT",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncnsFrs9NNi0n9retd_cyfFkZO0ICOOQ_q1f7lG1wFSlo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Koe o Kikasete (Big Bang song)",
       "url": "https://en.wikipedia.org/wiki/Koe_o_Kikasete_(Big_Bang_song)",
       "firstSeenAt": "2026-10-04T12:18:41.502Z"
+    },
+    {
+      "id": "wiki:Beautiful Hangover",
+      "type": "wikipedia",
+      "label": "Beautiful Hangover",
+      "url": "https://en.wikipedia.org/wiki/Beautiful_Hangover",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

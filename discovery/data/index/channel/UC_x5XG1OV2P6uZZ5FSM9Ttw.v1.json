@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
   "title": "Google for Developers",
   "thumb": "https://yt3.ggpht.com/Jrfy3VrP1QDikidneCoruk9MmhsQsEAgeQSELZtL2fn1pKxCjh2ohk7derV33UpetVZwt-DuRQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Mozilla Skywriter",
       "url": "https://en.wikipedia.org/wiki/Mozilla_Skywriter",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "channel:UCtXKDgv1AVoG88PLl8nGXmw",
+      "type": "channel",
+      "label": "Google TechTalks",
+      "url": "https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw",
+      "firstSeenAt": "2026-10-05T14:33:17.343Z"
     }
   ],
   "recentItems": []

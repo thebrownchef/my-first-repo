@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCX1fmvrecx_W3u0Ikks353w",
   "title": "NoDoubtVEVO",
   "thumb": "https://yt3.ggpht.com/zpk6mVs_6BzgIGyFVt_skpYAI-KKTzI88xb5C7nZ4iAR2HABNeOGcR_6qQaQtNtHOLqM_gT9Yg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hella Good",
       "url": "https://en.wikipedia.org/wiki/Hella_Good",
       "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "channel:UCkEAAkbmhYVnJVSxvp-AfWg",
+      "type": "channel",
+      "label": "GwenStefaniVEVO",
+      "url": "https://www.youtube.com/channel/UCkEAAkbmhYVnJVSxvp-AfWg",
+      "firstSeenAt": "2026-10-05T14:33:05.549Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCSXT1otf3mrMBEM02m9QARQ",
   "title": "AltIndieOnVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_la6AC0U1B08UojZtimNZkW_6v2qEE_Bb_8revp0vFpWQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NirvanaVEVO",
       "url": "https://www.youtube.com/channel/UCzGrGrvf9g8CVVzh_LvGf-g",
       "firstSeenAt": "2026-10-04T12:18:59.332Z"
+    },
+    {
+      "id": "channel:UCeQAnhVwklc7uo0cpMGqBiA",
+      "type": "channel",
+      "label": "NineInchNailsVEVO",
+      "url": "https://www.youtube.com/channel/UCeQAnhVwklc7uo0cpMGqBiA",
+      "firstSeenAt": "2026-10-05T14:33:14.863Z"
     }
   ],
   "recentItems": []

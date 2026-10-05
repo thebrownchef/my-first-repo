@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC4BCUrNe2X5UJkvzeRG12gQ",
   "title": "Ministry of Defence Singapore",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxmzKkEffMmqVE-ig41l1QqvSgU-wrhmFFHoDbHVVFSA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "RSAF Black Knights",
       "url": "https://en.wikipedia.org/wiki/RSAF_Black_Knights",
       "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Archer-class submarine",
+      "type": "wikipedia",
+      "label": "Archer-class submarine",
+      "url": "https://en.wikipedia.org/wiki/Archer-class_submarine",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

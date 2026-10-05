@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
+  "title": "Google",
+  "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.36,
+  "sources": [
+    {
+      "id": "channel:UCnLG0sCbfgM2PSg4oyJfF8A",
+      "type": "channel",
+      "label": "pandorama360 - [ virtual reality travel ]",
+      "url": "https://www.youtube.com/channel/UCnLG0sCbfgM2PSg4oyJfF8A",
+      "firstSeenAt": "2026-08-31T13:44:56.473Z"
+    },
+    {
+      "id": "wiki:O3D",
+      "type": "wikipedia",
+      "label": "O3D",
+      "url": "https://en.wikipedia.org/wiki/O3D",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "channel:UCtXKDgv1AVoG88PLl8nGXmw",
+      "type": "channel",
+      "label": "Google TechTalks",
+      "url": "https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw",
+      "firstSeenAt": "2026-10-05T14:33:17.343Z"
+    }
+  ],
+  "recentItems": []
+}

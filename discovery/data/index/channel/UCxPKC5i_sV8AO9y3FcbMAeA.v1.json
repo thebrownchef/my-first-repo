@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCxPKC5i_sV8AO9y3FcbMAeA",
   "title": "EverclearVEVO",
   "thumb": "https://yt3.ggpht.com/ZVlG50n2vyxO3a7uuCZg9iZZeLl5n5jttpv6PNZDc2i5n5LusKUO-TqeiTEN2dC5mZtnMOec=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Wonderful (Everclear song)",
       "url": "https://en.wikipedia.org/wiki/Wonderful_(Everclear_song)",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:I Will Buy You a New Life",
+      "type": "wikipedia",
+      "label": "I Will Buy You a New Life",
+      "url": "https://en.wikipedia.org/wiki/I_Will_Buy_You_a_New_Life",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
     }
   ],
   "recentItems": []

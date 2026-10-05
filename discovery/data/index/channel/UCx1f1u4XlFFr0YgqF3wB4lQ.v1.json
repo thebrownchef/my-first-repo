@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCx1f1u4XlFFr0YgqF3wB4lQ",
   "title": "JenniferLopezVEVO",
   "thumb": "https://yt3.ggpht.com/rNpWvwJqhVA_I8BOI0NmwZKpXjpUh14diwbTKsn_mMD6L_L-u71Mw1jKyMU4QKUBJbVqSas3AQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Gloria Steinem",
       "url": "https://en.wikipedia.org/wiki/Gloria_Steinem",
       "firstSeenAt": "2026-08-27T07:14:04.990Z"
+    },
+    {
+      "id": "wiki:On the Floor",
+      "type": "wikipedia",
+      "label": "On the Floor",
+      "url": "https://en.wikipedia.org/wiki/On_the_Floor",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
     }
   ],
   "recentItems": []

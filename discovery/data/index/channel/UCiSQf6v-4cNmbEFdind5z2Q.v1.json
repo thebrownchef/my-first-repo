@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCiSQf6v-4cNmbEFdind5z2Q",
   "title": "Within Temptation",
   "thumb": "https://yt3.ggpht.com/I6VzN3xWTF3OF-kcEsEDWvubd62ROPAjtpZUccodRPCYHsPBn1IxQAz4KmXjy6X_8f6PFILykw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Mother Earth (Within Temptation song)",
       "url": "https://en.wikipedia.org/wiki/Mother_Earth_(Within_Temptation_song)",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Forgiven (Within Temptation song)",
+      "type": "wikipedia",
+      "label": "Forgiven (Within Temptation song)",
+      "url": "https://en.wikipedia.org/wiki/Forgiven_(Within_Temptation_song)",
+      "firstSeenAt": "2026-10-05T14:32:40.422Z"
+    },
+    {
+      "id": "wiki:Jillian (I'd Give My Heart)",
+      "type": "wikipedia",
+      "label": "Jillian (I'd Give My Heart)",
+      "url": "https://en.wikipedia.org/wiki/Jillian_(I'd_Give_My_Heart)",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
     }
   ],
   "recentItems": []

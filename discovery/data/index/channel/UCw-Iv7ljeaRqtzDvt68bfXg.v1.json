@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCw-Iv7ljeaRqtzDvt68bfXg",
   "title": "wellallsnotwell",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_khiSNrT12X7bVzhemvdyZiEqHaul634BHp-KanqvG-PA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "FN P90",
       "url": "https://en.wikipedia.org/wiki/FN_P90",
       "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:FN 5.7×28mm",
+      "type": "wikipedia",
+      "label": "FN 5.7×28mm",
+      "url": "https://en.wikipedia.org/wiki/FN_5.7%C3%9728mm",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC2RaZgpzFbucwZ1ud6i7q-w",
   "title": "KennyChesneyVEVO",
   "thumb": "https://yt3.ggpht.com/LbW9tSW1sG9_NJ6XZ6F_zxxZ_aeFAKISAFs5UtLPY4yGAiHV-6i0L1fHVdG0Uh9OEVdSvuqqcw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Don't Blink",
       "url": "https://en.wikipedia.org/wiki/Don't_Blink",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:Everybody Wants to Go to Heaven",
+      "type": "wikipedia",
+      "label": "Everybody Wants to Go to Heaven",
+      "url": "https://en.wikipedia.org/wiki/Everybody_Wants_to_Go_to_Heaven",
+      "firstSeenAt": "2026-10-05T14:32:40.421Z"
     }
   ],
   "recentItems": []

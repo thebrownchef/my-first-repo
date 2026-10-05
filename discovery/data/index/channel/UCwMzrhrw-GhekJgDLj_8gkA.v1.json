@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCwMzrhrw-GhekJgDLj_8gkA",
   "title": "MGMTVEVO",
   "thumb": "https://yt3.ggpht.com/UVEP-9sqvKNivB7wQDT4WnJATYtVMSnxEqOy8oNEWCI-VmQ50SQztC1ErqG4RACe_hKG-9BW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Electric Feel",
       "url": "https://en.wikipedia.org/wiki/Electric_Feel",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:Kids (MGMT song)",
+      "type": "wikipedia",
+      "label": "Kids (MGMT song)",
+      "url": "https://en.wikipedia.org/wiki/Kids_(MGMT_song)",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
     }
   ],
   "recentItems": []

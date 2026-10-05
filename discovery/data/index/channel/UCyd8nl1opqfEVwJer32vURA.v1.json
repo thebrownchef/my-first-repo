@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCyd8nl1opqfEVwJer32vURA",
   "title": "Kylie Minogue",
   "thumb": "https://yt3.ggpht.com/lzhOaieFxpduBtl1rKZr-kd9E0LS1Sx49m3HqJFlU_NE5ZwpLgLTjZM7MvPLvviPkDzGLgG7Pt4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Get Outta My Way",
       "url": "https://en.wikipedia.org/wiki/Get_Outta_My_Way",
       "firstSeenAt": "2026-10-04T12:18:41.502Z"
+    },
+    {
+      "id": "wiki:Better than Today",
+      "type": "wikipedia",
+      "label": "Better than Today",
+      "url": "https://en.wikipedia.org/wiki/Better_than_Today",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
     }
   ],
   "recentItems": []

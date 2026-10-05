@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCzPBIyFM_VyXgG9At-1Il4Q",
   "title": "MISIA",
   "thumb": "https://yt3.ggpht.com/JEEMOeYLa9_S1lVHiqZRyAt3oxL7D6O4CruuqHP0fIbiw9kGn3J7Lqcf11RSNNyAbC-VNwGU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Hoshi no Yō ni...",
       "url": "https://en.wikipedia.org/wiki/Hoshi_no_Y%C5%8D_ni...",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Ginga / Itsumademo",
+      "type": "wikipedia",
+      "label": "Ginga / Itsumademo",
+      "url": "https://en.wikipedia.org/wiki/Ginga_%2F_Itsumademo",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
     }
   ],
   "recentItems": []

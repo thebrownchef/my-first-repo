@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCDzfrn4naL1oNizS5Gst1cQ",
   "title": "Sneaky Sound System",
   "thumb": "https://yt3.ggpht.com/ys40ypiJhrkbDieDsu8C1WVkrGIBir7bAa6044o44na-L2z-ja5M6BLF49RMMSnkSIX3LHfRPQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Kansas City (Sneaky Sound System song)",
       "url": "https://en.wikipedia.org/wiki/Kansas_City_(Sneaky_Sound_System_song)",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:When We Were Young (Sneaky Sound System song)",
+      "type": "wikipedia",
+      "label": "When We Were Young (Sneaky Sound System song)",
+      "url": "https://en.wikipedia.org/wiki/When_We_Were_Young_(Sneaky_Sound_System_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

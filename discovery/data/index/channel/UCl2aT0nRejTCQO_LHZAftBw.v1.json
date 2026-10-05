@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCl2aT0nRejTCQO_LHZAftBw",
   "title": "UNIVERSAL MUSIC JAPAN",
   "thumb": "https://yt3.ggpht.com/yH850lOJjx0xRC7r69WxylQITd9m2RKE11ihqbToi19NTacCjlJKkKUyv2jl27o7tEZ-RtHxFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.17,
   "sources": [
@@ -43,6 +43,27 @@
       "label": "Go Go Summer!",
       "url": "https://en.wikipedia.org/wiki/Go_Go_Summer!",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Jet Coaster Love",
+      "type": "wikipedia",
+      "label": "Jet Coaster Love",
+      "url": "https://en.wikipedia.org/wiki/Jet_Coaster_Love",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "wiki:Winter Magic (song)",
+      "type": "wikipedia",
+      "label": "Winter Magic (song)",
+      "url": "https://en.wikipedia.org/wiki/Winter_Magic_(song)",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Zock On!",
+      "type": "wikipedia",
+      "label": "Zock On!",
+      "url": "https://en.wikipedia.org/wiki/Zock_On!",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

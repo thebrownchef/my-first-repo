@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCMdZ3Y3ObLJA0BSHcPy1Keg",
   "title": "DownWithWebsterVEVO",
   "thumb": "https://yt3.ggpht.com/33NVbBTzLg1WPFfTJDPAUgaycCYHq1tnIJvfoXxWfBzX2qLEP9i4-QXYd6wWA3OAtrj_XWDVBTY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "She's Dope (Down with Webster song)",
       "url": "https://en.wikipedia.org/wiki/She's_Dope_(Down_with_Webster_song)",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Rich Girls (song)",
+      "type": "wikipedia",
+      "label": "Rich Girls (song)",
+      "url": "https://en.wikipedia.org/wiki/Rich_Girls_(song)",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

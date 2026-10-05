@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCK-VRwguZP3cokOAxI0F1HA",
   "title": "ThreeDaysGraceVEVO",
   "thumb": "https://yt3.ggpht.com/Qm6EokaxZO07qIHZ3mOJuUhncMa_bICaycrzXr36g5qRZlxLjcOh05njdrGPC-OI8a_xfZp6NA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "Break (Three Days Grace song)",
       "url": "https://en.wikipedia.org/wiki/Break_(Three_Days_Grace_song)",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Home (Three Days Grace song)",
+      "type": "wikipedia",
+      "label": "Home (Three Days Grace song)",
+      "url": "https://en.wikipedia.org/wiki/Home_(Three_Days_Grace_song)",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "wiki:The Good Life (Three Days Grace song)",
+      "type": "wikipedia",
+      "label": "The Good Life (Three Days Grace song)",
+      "url": "https://en.wikipedia.org/wiki/The_Good_Life_(Three_Days_Grace_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

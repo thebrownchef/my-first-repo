@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC7IZbkKDd20v6Ni_vFX63rQ",
   "title": "The Prodigy",
   "thumb": "https://yt3.ggpht.com/SqgAZCLm7_EKYznSQ1BTG13BMSgOP91KV9sJUNlXoyE6DpXpt-9s-KGmChOmW76nQBr_xaj-=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Out of Space",
       "url": "https://en.wikipedia.org/wiki/Out_of_Space",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Take Me to the Hospital",
+      "type": "wikipedia",
+      "label": "Take Me to the Hospital",
+      "url": "https://en.wikipedia.org/wiki/Take_Me_to_the_Hospital",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

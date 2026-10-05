@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCCHcEUksSVKsRDH86j77Ntg",
   "title": "thelonelyisland",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwpPZiDzeEy8MJSFFzOOREA8CjZRMp1LRBVPfkISIRR4E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "I Just Had Sex",
       "url": "https://en.wikipedia.org/wiki/I_Just_Had_Sex",
       "firstSeenAt": "2026-10-04T12:18:41.502Z"
+    },
+    {
+      "id": "channel:UCeyfHAAPJhQ1EbB6jMEAa0g",
+      "type": "channel",
+      "label": "Forsen",
+      "url": "https://www.youtube.com/channel/UCeyfHAAPJhQ1EbB6jMEAa0g",
+      "firstSeenAt": "2026-10-05T14:33:07.198Z"
     }
   ],
   "recentItems": []

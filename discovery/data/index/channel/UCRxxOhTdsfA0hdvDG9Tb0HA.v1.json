@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCRxxOhTdsfA0hdvDG9Tb0HA",
   "title": "3DoorsDownVEVO",
   "thumb": "https://yt3.ggpht.com/8fJ6agIgNSI4ENKOneDFg4hlqor9H-kqbsIn4Npat24veCyeEX1TsuyNdaKLXk6KVahINGubtw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Be Like That (3 Doors Down song)",
       "url": "https://en.wikipedia.org/wiki/Be_Like_That_(3_Doors_Down_song)",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Let Me Be Myself",
+      "type": "wikipedia",
+      "label": "Let Me Be Myself",
+      "url": "https://en.wikipedia.org/wiki/Let_Me_Be_Myself",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
     }
   ],
   "recentItems": []

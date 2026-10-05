@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCEuOwB9vSL1oPKGNdONB4ig",
   "title": "Red Hot Chili Peppers",
   "thumb": "https://yt3.ggpht.com/O-ftbUQoWe32VfOlIme0zZes00iU3YnlD9vj1eAzjIP95XR2mllLRumLW-zyDidEHGDF9rwu=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Universally Speaking",
       "url": "https://en.wikipedia.org/wiki/Universally_Speaking",
       "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Monarchy of Roses",
+      "type": "wikipedia",
+      "label": "Monarchy of Roses",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Roses",
+      "firstSeenAt": "2026-10-05T14:32:47.590Z"
     }
   ],
   "recentItems": []

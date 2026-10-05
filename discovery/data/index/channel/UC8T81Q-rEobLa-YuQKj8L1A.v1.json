@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC8T81Q-rEobLa-YuQKj8L1A",
   "title": "Ministry of Sound",
   "thumb": "https://yt3.ggpht.com/cskYl8jAZXw3UEGPIhLqHsboTPNZybVpvV4canNFCqs9vsaVSq3Xb7ueQV0fFYlZ0BEuZlfE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Cry for You (September song)",
       "url": "https://en.wikipedia.org/wiki/Cry_for_You_(September_song)",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:On My Own (Yasmin song)",
+      "type": "wikipedia",
+      "label": "On My Own (Yasmin song)",
+      "url": "https://en.wikipedia.org/wiki/On_My_Own_(Yasmin_song)",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Now You're Gone (Basshunter song)",
+      "type": "wikipedia",
+      "label": "Now You're Gone (Basshunter song)",
+      "url": "https://en.wikipedia.org/wiki/Now_You're_Gone_(Basshunter_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

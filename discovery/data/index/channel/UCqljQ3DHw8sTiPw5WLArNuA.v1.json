@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCqljQ3DHw8sTiPw5WLArNuA",
   "title": "westlifeVEVO",
   "thumb": "https://yt3.ggpht.com/whsh6fH7B9ClIZWPSyrYk9vuJ6CGzLxn0nQfH2vL3IOXPXpDgVqGdhy1LX6pfSZp_j8zmw6o7w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Tonight (Westlife song)",
       "url": "https://en.wikipedia.org/wiki/Tonight_(Westlife_song)",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Lighthouse (Westlife song)",
+      "type": "wikipedia",
+      "label": "Lighthouse (Westlife song)",
+      "url": "https://en.wikipedia.org/wiki/Lighthouse_(Westlife_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

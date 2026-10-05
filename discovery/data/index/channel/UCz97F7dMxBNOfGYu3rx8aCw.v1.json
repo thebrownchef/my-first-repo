@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCz97F7dMxBNOfGYu3rx8aCw",
   "title": "Sony Pictures Entertainment",
   "thumb": "https://yt3.ggpht.com/Kv_B3VAb1rzA-qu3JxxxV1QFJNhg_DMHpMsSpaMgJHEC8WhuU2Y1ijyG75n0gMJeMq7twfYE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.74,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.744Z"
+    },
+    {
+      "id": "wiki:Set the Fire to the Third Bar",
+      "type": "wikipedia",
+      "label": "Set the Fire to the Third Bar",
+      "url": "https://en.wikipedia.org/wiki/Set_the_Fire_to_the_Third_Bar",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
     }
   ],
   "recentItems": []

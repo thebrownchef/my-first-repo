@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC09rjW-THj6e3WgMKSc5Bvg",
   "title": "kingsofleonVEVO",
   "thumb": "https://yt3.ggpht.com/OndXxy9yVHl-7_XsXIAZfElCyogp085N1HWsUqP4zyUHCLMdyCjAqFf2I7sWNz96UaOC8gpi_A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Four Kicks",
       "url": "https://en.wikipedia.org/wiki/Four_Kicks",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Notion (Kings of Leon song)",
+      "type": "wikipedia",
+      "label": "Notion (Kings of Leon song)",
+      "url": "https://en.wikipedia.org/wiki/Notion_(Kings_of_Leon_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

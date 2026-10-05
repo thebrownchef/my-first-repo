@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCZijND2e2tPp2AQL8Go2YSg",
   "title": "BritneySpearsVEVO",
   "thumb": "https://yt3.ggpht.com/Vz867_L7DkRRioLJetM6PbjYG7WhxVvwTE7WNeDq_i-1Ob2KnrF8cEuGNhWk13pxfmfuPaXu=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "3 (Britney Spears song)",
       "url": "https://en.wikipedia.org/wiki/3_(Britney_Spears_song)",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Radar (song)",
+      "type": "wikipedia",
+      "label": "Radar (song)",
+      "url": "https://en.wikipedia.org/wiki/Radar_(song)",
+      "firstSeenAt": "2026-10-05T14:32:40.422Z"
+    },
+    {
+      "id": "wiki:Womanizer (song)",
+      "type": "wikipedia",
+      "label": "Womanizer (song)",
+      "url": "https://en.wikipedia.org/wiki/Womanizer_(song)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

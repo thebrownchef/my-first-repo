@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC-KTRBl9_6AX10-Y7IKwKdw",
   "title": "Official Arctic Monkeys",
   "thumb": "https://yt3.ggpht.com/LwqWjGUFrrBLB45N0FdHOuOqY0i223YqVds0tkQkk8dSJccj0L2uWJjbx1kxOJY47eUqP0Gx=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "ArcticMonkeysVEVO",
       "url": "https://www.youtube.com/channel/UCmgvZnEAR3OCIoiSColVmZQ",
       "firstSeenAt": "2026-10-04T12:18:50.198Z"
+    },
+    {
+      "id": "wiki:Brick by Brick (song)",
+      "type": "wikipedia",
+      "label": "Brick by Brick (song)",
+      "url": "https://en.wikipedia.org/wiki/Brick_by_Brick_(song)",
+      "firstSeenAt": "2026-10-05T14:32:47.590Z"
     }
   ],
   "recentItems": []

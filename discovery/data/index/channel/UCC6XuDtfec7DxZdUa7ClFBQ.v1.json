@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCC6XuDtfec7DxZdUa7ClFBQ",
   "title": "AvrilLavigneVEVO",
   "thumb": "https://yt3.ggpht.com/o4u-Su2zOrLmPhxLJgbv0U210sPb1DjBbvoKRU6ilU1hieKyaVBMmnRY7MVBiNhsgu6gggIlc5E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Wish You Were Here (Avril Lavigne song)",
       "url": "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Avril_Lavigne_song)",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Alice (Avril Lavigne song)",
+      "type": "wikipedia",
+      "label": "Alice (Avril Lavigne song)",
+      "url": "https://en.wikipedia.org/wiki/Alice_(Avril_Lavigne_song)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

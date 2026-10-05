@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 26,
-  "distinctSourceCount": 26,
+  "score": 28,
+  "distinctSourceCount": 28,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -190,6 +190,20 @@
       "label": "DrDreVEVO",
       "url": "https://www.youtube.com/channel/UCx4Lxn5CzeG99X01__YsJpw",
       "firstSeenAt": "2026-10-04T12:19:05.504Z"
+    },
+    {
+      "id": "channel:UCVttQE6tS_agDSAU61Q65aA",
+      "type": "channel",
+      "label": "EnriqueIglesiasVEVO",
+      "url": "https://www.youtube.com/channel/UCVttQE6tS_agDSAU61Q65aA",
+      "firstSeenAt": "2026-10-05T14:33:06.943Z"
+    },
+    {
+      "id": "channel:UCXJDX1KK6t121Z9FLhu5o2A",
+      "type": "channel",
+      "label": "PinkVEVO",
+      "url": "https://www.youtube.com/channel/UCXJDX1KK6t121Z9FLhu5o2A",
+      "firstSeenAt": "2026-10-05T14:33:18.351Z"
     }
   ],
   "recentItems": []

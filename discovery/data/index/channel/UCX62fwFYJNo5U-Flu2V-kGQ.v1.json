@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCX62fwFYJNo5U-Flu2V-kGQ",
   "title": "BeastieBoysVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kjQN_MiG_SNJIxfQW2HmNZpUuMGeEpb2xbC5zAlMttvA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Make Some Noise (Beastie Boys song)",
       "url": "https://en.wikipedia.org/wiki/Make_Some_Noise_(Beastie_Boys_song)",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Remote Control / Three MC's and One DJ",
+      "type": "wikipedia",
+      "label": "Remote Control / Three MC's and One DJ",
+      "url": "https://en.wikipedia.org/wiki/Remote_Control_%2F_Three_MC's_and_One_DJ",
+      "firstSeenAt": "2026-10-05T14:32:40.423Z"
     }
   ],
   "recentItems": []

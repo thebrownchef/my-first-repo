@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCqV-eYI6gwAYxQowEWosBkA",
   "title": "BBC Radio 6 Music",
   "thumb": "https://yt3.ggpht.com/sNoKRbrdd9n835RDv57bPU2fk_Og3F4ZuedO_6OJtN83n2uVdsYqzDUmHhUUFkb9lpE4wp4a=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "BBC Radio 2",
       "url": "https://www.youtube.com/channel/UCYw-R4_yue3aGJu1xDO6cog",
       "firstSeenAt": "2026-09-25T11:48:19.013Z"
+    },
+    {
+      "id": "wiki:Adam and Joe (radio show)",
+      "type": "wikipedia",
+      "label": "Adam and Joe (radio show)",
+      "url": "https://en.wikipedia.org/wiki/Adam_and_Joe_(radio_show)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

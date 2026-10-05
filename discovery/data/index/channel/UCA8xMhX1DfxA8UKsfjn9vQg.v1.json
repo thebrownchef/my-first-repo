@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCA8xMhX1DfxA8UKsfjn9vQg",
   "title": "Domino Recording Co.",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mGqDjNELH3SGFOAKWGSOK6JgyTEwJttA2zcxmA-DrA-w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "ArcticMonkeysVEVO",
       "url": "https://www.youtube.com/channel/UCmgvZnEAR3OCIoiSColVmZQ",
       "firstSeenAt": "2026-10-04T12:18:50.198Z"
+    },
+    {
+      "id": "wiki:No You Girls",
+      "type": "wikipedia",
+      "label": "No You Girls",
+      "url": "https://en.wikipedia.org/wiki/No_You_Girls",
+      "firstSeenAt": "2026-10-05T14:32:40.422Z"
+    },
+    {
+      "id": "wiki:Tell Me What It's Worth",
+      "type": "wikipedia",
+      "label": "Tell Me What It's Worth",
+      "url": "https://en.wikipedia.org/wiki/Tell_Me_What_It's_Worth",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": []

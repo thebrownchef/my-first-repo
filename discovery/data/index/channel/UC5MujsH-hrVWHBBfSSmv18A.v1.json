@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UC5MujsH-hrVWHBBfSSmv18A",
   "title": "florencemachine",
   "thumb": "https://yt3.ggpht.com/IK7aKr50CXeYuOKhdi_HgOWkiJ-Jv6m9hE9fM_9hblQ6HOrEq7OjXEoTtGhaVkO0XYYe8uLw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Kiss with a Fist",
       "url": "https://en.wikipedia.org/wiki/Kiss_with_a_Fist",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Rabbit Heart (Raise It Up)",
+      "type": "wikipedia",
+      "label": "Rabbit Heart (Raise It Up)",
+      "url": "https://en.wikipedia.org/wiki/Rabbit_Heart_(Raise_It_Up)",
+      "firstSeenAt": "2026-10-05T14:32:46.433Z"
     }
   ],
   "recentItems": []

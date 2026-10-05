@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCIgpASerBcG9bWUCpwAUBQA",
   "title": "starsailorofficial",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mCfE7KJSRJzsz-RrPCe3UT0sofEztoL-vcjO4CqDDUuQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Silence Is Easy (song)",
       "url": "https://en.wikipedia.org/wiki/Silence_Is_Easy_(song)",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:All the Plans (song)",
+      "type": "wikipedia",
+      "label": "All the Plans (song)",
+      "url": "https://en.wikipedia.org/wiki/All_the_Plans_(song)",
+      "firstSeenAt": "2026-10-05T14:32:40.424Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T12:20:25.324Z",
+  "generatedAt": "2026-10-05T14:34:37.408Z",
   "id": "UCZ5fcCDgq2xEo6niWSr3dVg",
   "title": "Barenaked Ladies (official)",
   "thumb": "https://yt3.ggpht.com/sFXw2ZzhytDaofINEpgC2ZJbHQwSqCdKkwu9QMQpxoS5dz68M6N9ndVi5Hf2AUej_cy97YSdNQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Another Postcard",
       "url": "https://en.wikipedia.org/wiki/Another_Postcard",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Enid (song)",
+      "type": "wikipedia",
+      "label": "Enid (song)",
+      "url": "https://en.wikipedia.org/wiki/Enid_(song)",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
     }
   ],
   "recentItems": [
