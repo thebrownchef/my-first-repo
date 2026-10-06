@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCNVBYBxWj9dMHqKEl_V8HBQ",
   "title": "Comedy Central Originals",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kcQhILdSkg7fK6bKVc5Y6Gq2Ye243fBN9qRpUyG6HWlaQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Key & Peele",
       "url": "https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ",
       "firstSeenAt": "2026-09-28T13:49:59.915Z"
+    },
+    {
+      "id": "channel:UCs8sqIPEhf8lqM2C8rTVfYg",
+      "type": "channel",
+      "label": "racheldoesstuff",
+      "url": "https://www.youtube.com/channel/UCs8sqIPEhf8lqM2C8rTVfYg",
+      "firstSeenAt": "2026-10-06T13:17:06.862Z"
     }
   ],
   "recentItems": []

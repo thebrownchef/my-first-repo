@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCDj64sior23IP_7xLe8R7sg",
   "title": "Warner Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZBzZYd9fOiSvmo-S9qShR6u9twUMIkWm23FAtuUlTz2M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Warner Records Vault",
       "url": "https://www.youtube.com/channel/UCv5emLGrYcQAmbpeFVlzjdg",
       "firstSeenAt": "2026-10-03T11:38:33.743Z"
+    },
+    {
+      "id": "channel:UCrV0yntxpfAIrptJJKY8yng",
+      "type": "channel",
+      "label": "charice",
+      "url": "https://www.youtube.com/channel/UCrV0yntxpfAIrptJJKY8yng",
+      "firstSeenAt": "2026-10-06T13:17:09.528Z"
     }
   ],
   "recentItems": []

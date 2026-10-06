@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCkbHmcDo0qkIs1x8RIWTeBw",
   "title": "mudvayneVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mSiItB11Iux2WVcYp00Ov9w2TIzSFAUPjWYHYJnTRaVA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "KornVEVO",
       "url": "https://www.youtube.com/channel/UCTGbDM6lZnKFctFA5GOU0Kg",
       "firstSeenAt": "2026-10-04T12:18:58.956Z"
+    },
+    {
+      "id": "channel:UCUPvo-jwM02Fp-vigFEiG2A",
+      "type": "channel",
+      "label": "LimpBizkitVEVO",
+      "url": "https://www.youtube.com/channel/UCUPvo-jwM02Fp-vigFEiG2A",
+      "firstSeenAt": "2026-10-06T13:16:48.893Z"
     }
   ],
   "recentItems": []

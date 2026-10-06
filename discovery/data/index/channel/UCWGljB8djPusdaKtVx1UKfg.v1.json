@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCWGljB8djPusdaKtVx1UKfg",
   "title": "UPROXX",
   "thumb": "https://yt3.ggpht.com/LdZaBU4jjpAen3PEckYicOML--si51DeO1HPqhTcaArB16JST-50ypJiRuBXjyadZKMZrC4b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "MC Lyte",
       "url": "https://en.wikipedia.org/wiki/MC_Lyte",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "channel:UCoECJ7RMZGrMjBrhXSaHtOQ",
+      "type": "channel",
+      "label": "Bad Boy Entertainment",
+      "url": "https://www.youtube.com/channel/UCoECJ7RMZGrMjBrhXSaHtOQ",
+      "firstSeenAt": "2026-10-06T13:16:45.677Z"
     }
   ],
   "recentItems": []

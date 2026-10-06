@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCm1QnxCbcLB8fQwoTDk39iQ",
   "title": "WhamVEVO",
   "thumb": "https://yt3.ggpht.com/IM9L85D3z6gqNoZ7ceDyK-xCMaBb9YAUpv1NKVRS2YpweKmrs1ukYG5SpJUF14KK1rKIF7jl0g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "georgemichaelVEVO",
       "url": "https://www.youtube.com/channel/UC7X_qC_rgc3s04Aw1t5DSHg",
       "firstSeenAt": "2026-09-30T12:31:06.877Z"
+    },
+    {
+      "id": "wiki:Everything She Wants",
+      "type": "wikipedia",
+      "label": "Everything She Wants",
+      "url": "https://en.wikipedia.org/wiki/Everything_She_Wants",
+      "firstSeenAt": "2026-10-06T13:16:11.490Z"
     }
   ],
   "recentItems": []

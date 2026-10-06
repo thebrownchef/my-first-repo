@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCjB3CzA-MwHrDzuXGweNiMg",
   "title": "TheKillersVEVO",
   "thumb": "https://yt3.ggpht.com/rNQz_e_0TaX5nIR2815xJVxiPTD-LHS3horyD2q2B6-WNMpXCLYrd6dQIAdiunLOoi9SFuWTtZE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Bones (The Killers song)",
       "url": "https://en.wikipedia.org/wiki/Bones_(The_Killers_song)",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:The Cowboys' Christmas Ball",
+      "type": "wikipedia",
+      "label": "The Cowboys' Christmas Ball",
+      "url": "https://en.wikipedia.org/wiki/The_Cowboys'_Christmas_Ball",
+      "firstSeenAt": "2026-10-06T13:16:11.490Z"
     }
   ],
   "recentItems": []

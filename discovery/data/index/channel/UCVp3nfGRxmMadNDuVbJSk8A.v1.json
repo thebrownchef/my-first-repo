@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCVp3nfGRxmMadNDuVbJSk8A",
   "title": "Wiz Khalifa",
   "thumb": "https://yt3.ggpht.com/LZwX8hX3grUXHDAbNxoMmsCqHUUAmfhKRbAJQbIcuHxdZ6SHVa7rKxZe9nDTVGCl8vxzj5zWkw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "On My Level",
       "url": "https://en.wikipedia.org/wiki/On_My_Level",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "channel:UCNFOCainfQUP0PE2O--j2LQ",
+      "type": "channel",
+      "label": "PliesWorld",
+      "url": "https://www.youtube.com/channel/UCNFOCainfQUP0PE2O--j2LQ",
+      "firstSeenAt": "2026-10-06T13:17:05.098Z"
     }
   ],
   "recentItems": []

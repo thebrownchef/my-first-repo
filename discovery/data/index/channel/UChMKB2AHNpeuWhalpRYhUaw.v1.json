@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UChMKB2AHNpeuWhalpRYhUaw",
   "title": "RiseAgainstVEVO",
   "thumb": "https://yt3.ggpht.com/lqr70vzFWQqYcaBQJiL3lP45tK0xz88IRFqjLH1hjUihyKhHdCo_EqbySLZMCo5VyHy377jlVQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Savior (Rise Against song)",
       "url": "https://en.wikipedia.org/wiki/Savior_(Rise_Against_song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Satellite (Rise Against song)",
+      "type": "wikipedia",
+      "label": "Satellite (Rise Against song)",
+      "url": "https://en.wikipedia.org/wiki/Satellite_(Rise_Against_song)",
+      "firstSeenAt": "2026-10-06T13:16:11.490Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCqISR0F9-nCth-V2r4Qy75Q",
   "title": "REVOLT",
   "thumb": "https://yt3.ggpht.com/dQaHBT8cXO7l8TAARDNo1LJ3PBWasrKzw_paptu3EqCyIfLOVymjbZ0VCMLZWhUfiPAyACQyuXE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Cardi B",
       "url": "https://en.wikipedia.org/wiki/Cardi_B",
       "firstSeenAt": "2026-09-01T11:37:09.152Z"
+    },
+    {
+      "id": "channel:UCoECJ7RMZGrMjBrhXSaHtOQ",
+      "type": "channel",
+      "label": "Bad Boy Entertainment",
+      "url": "https://www.youtube.com/channel/UCoECJ7RMZGrMjBrhXSaHtOQ",
+      "firstSeenAt": "2026-10-06T13:16:45.677Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UC2xskkQVFEpLcGFnNSLQY0A",
   "title": "RihannaVEVO",
   "thumb": "https://yt3.ggpht.com/qMCGjRaKKRar82KzcIWdUoLbJ03aW2K2sEf-m4GaB7JwLshoHOZHvkxLRXsZVgpKvqCXVhKCWg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Don't Stop the Music (Rihanna song)",
       "url": "https://en.wikipedia.org/wiki/Don't_Stop_the_Music_(Rihanna_song)",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Shut Up and Drive",
+      "type": "wikipedia",
+      "label": "Shut Up and Drive",
+      "url": "https://en.wikipedia.org/wiki/Shut_Up_and_Drive",
+      "firstSeenAt": "2026-10-06T13:16:07.922Z"
     }
   ],
   "recentItems": []

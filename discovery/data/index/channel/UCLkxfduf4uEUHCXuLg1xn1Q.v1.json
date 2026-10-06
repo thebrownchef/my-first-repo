@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCLkxfduf4uEUHCXuLg1xn1Q",
   "title": "TheDandyWarholsVEVO",
   "thumb": "https://yt3.ggpht.com/nAv4lz1sy4YWrSHP4l3-N7oEApXc2Ko4-7w9iKhyQC9Sp2w7c4Q20yNfu4SYNrxyMAfrFgvnIw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "You Were the Last High",
       "url": "https://en.wikipedia.org/wiki/You_Were_the_Last_High",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "channel:UCzfh22e7uxCFFdA5SdHeJpQ",
+      "type": "channel",
+      "label": "EelsVEVO",
+      "url": "https://www.youtube.com/channel/UCzfh22e7uxCFFdA5SdHeJpQ",
+      "firstSeenAt": "2026-10-06T13:16:42.068Z"
     }
   ],
   "recentItems": []

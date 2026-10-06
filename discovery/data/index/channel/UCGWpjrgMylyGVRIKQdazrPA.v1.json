@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCGWpjrgMylyGVRIKQdazrPA",
   "title": "Warner Music Group",
   "thumb": "https://yt3.ggpht.com/1OBJ0pUHIrcm4QslhHeeBSSvLpuQ-ab48hLQbwyn7bNkGKBXVhzdElNQZQagIIJX81SzUF3HkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "planbuk",
       "url": "https://www.youtube.com/channel/UCFnvNS_FRRiNhWgsyteOyuA",
       "firstSeenAt": "2026-10-03T11:38:38.057Z"
+    },
+    {
+      "id": "channel:UCrV0yntxpfAIrptJJKY8yng",
+      "type": "channel",
+      "label": "charice",
+      "url": "https://www.youtube.com/channel/UCrV0yntxpfAIrptJJKY8yng",
+      "firstSeenAt": "2026-10-06T13:17:09.526Z"
     }
   ],
   "recentItems": []

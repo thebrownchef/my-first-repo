@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T14:34:37.408Z",
+  "generatedAt": "2026-10-06T13:18:40.658Z",
   "id": "UCBG23A6QEgi8lzxbWDrNquQ",
   "title": "GoodCharlotteVEVO",
   "thumb": "https://yt3.ggpht.com/AwGDyd4HIefHdlVSbCg0Gk-lLySeDmowmdLgIYtpWjYJMIGtUisvbTNQ4VUVRGPJSt7ETSvB=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Lifestyles of the Rich and Famous (Good Charlotte song)",
       "url": "https://en.wikipedia.org/wiki/Lifestyles_of_the_Rich_and_Famous_(Good_Charlotte_song)",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:The River (Good Charlotte song)",
+      "type": "wikipedia",
+      "label": "The River (Good Charlotte song)",
+      "url": "https://en.wikipedia.org/wiki/The_River_(Good_Charlotte_song)",
+      "firstSeenAt": "2026-10-06T13:16:12.677Z"
     }
   ],
   "recentItems": []
