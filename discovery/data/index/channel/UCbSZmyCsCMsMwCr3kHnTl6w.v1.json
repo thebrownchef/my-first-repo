@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T13:18:40.658Z",
+  "generatedAt": "2026-10-07T13:21:10.818Z",
   "id": "UCbSZmyCsCMsMwCr3kHnTl6w",
   "title": "MIKAVEVO",
   "thumb": "https://yt3.ggpht.com/UXCJ4QGH43Z21WdhwV1inGQOlVi7raOHjXuG2t3Q3kWeUJEIJXUk50MS08pXEWuR_mEq5KtdJw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "We Are Golden",
       "url": "https://en.wikipedia.org/wiki/We_Are_Golden",
       "firstSeenAt": "2026-10-04T12:18:36.080Z"
+    },
+    {
+      "id": "channel:UCV-UW3I3mXakSoqV8SpF1sg",
+      "type": "channel",
+      "label": "OwlCityVEVO",
+      "url": "https://www.youtube.com/channel/UCV-UW3I3mXakSoqV8SpF1sg",
+      "firstSeenAt": "2026-10-07T13:19:20.074Z"
     }
   ],
   "recentItems": []

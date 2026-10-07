@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T13:18:40.658Z",
+  "generatedAt": "2026-10-07T13:21:10.818Z",
   "id": "UCEf_Bc-KVd7onSeifS3py9g",
   "title": "SMTOWN",
   "thumb": "https://yt3.ggpht.com/42gxi39XmaHVEYxeuzdXitmJ_ig7QGPHczWLt2oPLG0g7AzuIWnNhYzSBXxAaQmPiVSM7Fi6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "The Boys (Girls' Generation song)",
       "url": "https://en.wikipedia.org/wiki/The_Boys_(Girls'_Generation_song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Keep Your Head Down (song)",
+      "type": "wikipedia",
+      "label": "Keep Your Head Down (song)",
+      "url": "https://en.wikipedia.org/wiki/Keep_Your_Head_Down_(song)",
+      "firstSeenAt": "2026-10-07T13:18:51.083Z"
     }
   ],
   "recentItems": [

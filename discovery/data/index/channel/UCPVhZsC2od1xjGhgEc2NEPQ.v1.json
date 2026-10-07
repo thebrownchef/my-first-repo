@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T13:18:40.658Z",
+  "generatedAt": "2026-10-07T13:21:10.818Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 29,
-  "distinctSourceCount": 29,
+  "score": 30,
+  "distinctSourceCount": 30,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -211,6 +211,13 @@
       "label": "PitbullVEVO",
       "url": "https://www.youtube.com/channel/UCVWA4btXTFru9qM06FceSag",
       "firstSeenAt": "2026-10-06T13:17:08.201Z"
+    },
+    {
+      "id": "channel:UCjK8ORC71kwyj1DWFwril_A",
+      "type": "channel",
+      "label": "SelenaGomezVEVO",
+      "url": "https://www.youtube.com/channel/UCjK8ORC71kwyj1DWFwril_A",
+      "firstSeenAt": "2026-10-07T13:19:37.303Z"
     }
   ],
   "recentItems": []

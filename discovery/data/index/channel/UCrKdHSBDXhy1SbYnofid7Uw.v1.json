@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T13:18:40.658Z",
+  "generatedAt": "2026-10-07T13:21:10.818Z",
   "id": "UCrKdHSBDXhy1SbYnofid7Uw",
   "title": "Copenhagen Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxUrBYXKp862Kb2RXW0587qR-sHEDcz8cIP_kOfyE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "United Records",
       "url": "https://www.youtube.com/channel/UCnqfxSbW2-I4Qn_3QW6hxPw",
       "firstSeenAt": "2026-10-06T13:17:06.390Z"
+    },
+    {
+      "id": "channel:UCSOmHJMwtyIDtZuCafQgdFQ",
+      "type": "channel",
+      "label": "NephewDanmarkDenmark",
+      "url": "https://www.youtube.com/channel/UCSOmHJMwtyIDtZuCafQgdFQ",
+      "firstSeenAt": "2026-10-07T13:19:26.258Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T13:18:40.658Z",
+  "generatedAt": "2026-10-07T13:21:10.818Z",
   "id": "UCYDmx2Sfpnaxg488yBpZIGg",
   "title": "STARSHIP",
   "thumb": "https://yt3.ggpht.com/k6p06Jx1N1ItWTjYjdDhDPadzWvIRFPdbqqtM-81QuHF9bzqCj4yy_ZVc40AaFsRvtjwd7ex=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Joohoney",
       "url": "https://en.wikipedia.org/wiki/Joohoney",
       "firstSeenAt": "2026-09-05T10:32:35.840Z"
+    },
+    {
+      "id": "wiki:Ma Boy",
+      "type": "wikipedia",
+      "label": "Ma Boy",
+      "url": "https://en.wikipedia.org/wiki/Ma_Boy",
+      "firstSeenAt": "2026-10-07T13:18:52.595Z"
     }
   ],
   "recentItems": []

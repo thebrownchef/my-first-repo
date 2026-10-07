@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T13:18:40.658Z",
+  "generatedAt": "2026-10-07T13:21:10.818Z",
   "id": "UCOWF2oK605qOVfkCy3we32g",
   "title": "BFBS Forces News",
   "thumb": "https://yt3.ggpht.com/qPT5NmFTJUjj_t-VNzMrj8_OsUfL6znzCUwhqUwwPnsEGf_nLt0Ycy9en5mgJNtdLCqmhOc2LA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.46,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "BFBS Creative",
       "url": "https://www.youtube.com/channel/UCiWYBIWzU_F5makrkqwGQ1w",
       "firstSeenAt": "2026-09-24T11:42:55.704Z"
+    },
+    {
+      "id": "wiki:Bronco All Terrain Tracked Carrier",
+      "type": "wikipedia",
+      "label": "Bronco All Terrain Tracked Carrier",
+      "url": "https://en.wikipedia.org/wiki/Bronco_All_Terrain_Tracked_Carrier",
+      "firstSeenAt": "2026-10-07T13:18:52.595Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T13:18:40.658Z",
+  "generatedAt": "2026-10-07T13:21:10.818Z",
   "id": "UCwMzrhrw-GhekJgDLj_8gkA",
   "title": "MGMTVEVO",
   "thumb": "https://yt3.ggpht.com/UVEP-9sqvKNivB7wQDT4WnJATYtVMSnxEqOy8oNEWCI-VmQ50SQztC1ErqG4RACe_hKG-9BW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Kids (MGMT song)",
       "url": "https://en.wikipedia.org/wiki/Kids_(MGMT_song)",
       "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "channel:UC1imlXpZdschXcIjP5gtYEQ",
+      "type": "channel",
+      "label": "PassionPitVEVO",
+      "url": "https://www.youtube.com/channel/UC1imlXpZdschXcIjP5gtYEQ",
+      "firstSeenAt": "2026-10-07T13:19:34.863Z"
     }
   ],
   "recentItems": []
