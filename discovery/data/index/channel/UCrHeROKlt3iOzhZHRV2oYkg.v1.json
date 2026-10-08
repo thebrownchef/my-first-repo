@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T13:21:10.818Z",
+  "generatedAt": "2026-10-08T13:27:38.122Z",
   "id": "UCrHeROKlt3iOzhZHRV2oYkg",
   "title": "TimbalandVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n8WuRHxo2al6yI0H49FK22vyMlEDwDj-4XSbxMdjQ2hhQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "If We Ever Meet Again",
       "url": "https://en.wikipedia.org/wiki/If_We_Ever_Meet_Again",
       "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "wiki:The Way I Are",
+      "type": "wikipedia",
+      "label": "The Way I Are",
+      "url": "https://en.wikipedia.org/wiki/The_Way_I_Are",
+      "firstSeenAt": "2026-10-08T13:25:13.275Z"
     }
   ],
   "recentItems": []

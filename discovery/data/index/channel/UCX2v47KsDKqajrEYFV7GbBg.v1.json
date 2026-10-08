@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T13:21:10.818Z",
+  "generatedAt": "2026-10-08T13:27:38.122Z",
   "id": "UCX2v47KsDKqajrEYFV7GbBg",
   "title": "AkonVEVO",
   "thumb": "https://yt3.ggpht.com/IA-GGQcqI_J8DfDHUzYKY1xVhVOC0Dvqu8lIS6GS-OVlmUIL-O5gOGCihEzCz-sU7M1KxC2jtw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Oh Africa",
       "url": "https://en.wikipedia.org/wiki/Oh_Africa",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "channel:UCWGLnosvbSs_SGnqS7qQAmA",
+      "type": "channel",
+      "label": "WyclefVEVO",
+      "url": "https://www.youtube.com/channel/UCWGLnosvbSs_SGnqS7qQAmA",
+      "firstSeenAt": "2026-10-08T13:25:28.723Z"
     }
   ],
   "recentItems": []

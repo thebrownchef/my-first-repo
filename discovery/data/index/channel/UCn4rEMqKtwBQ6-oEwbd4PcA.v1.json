@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T13:21:10.818Z",
+  "generatedAt": "2026-10-08T13:27:38.122Z",
   "id": "UCn4rEMqKtwBQ6-oEwbd4PcA",
   "title": "Sony Music South",
   "thumb": "https://yt3.ggpht.com/JyW58ywuh93rxLy6AwiOJ99HsYrh3iODK49mZ2BkxKkREQT1_pGy2rx7PZ3o1ROhhNc4i03d24Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 1.4,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.759Z"
+    },
+    {
+      "id": "wiki:Why This Kolaveri Di",
+      "type": "wikipedia",
+      "label": "Why This Kolaveri Di",
+      "url": "https://en.wikipedia.org/wiki/Why_This_Kolaveri_Di",
+      "firstSeenAt": "2026-10-08T13:25:13.275Z"
     }
   ],
   "recentItems": []

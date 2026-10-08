@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T13:21:10.818Z",
+  "generatedAt": "2026-10-08T13:27:38.122Z",
   "id": "UCiSQf6v-4cNmbEFdind5z2Q",
   "title": "Within Temptation",
   "thumb": "https://yt3.ggpht.com/I6VzN3xWTF3OF-kcEsEDWvubd62ROPAjtpZUccodRPCYHsPBn1IxQAz4KmXjy6X_8f6PFILykw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Jillian (I'd Give My Heart)",
       "url": "https://en.wikipedia.org/wiki/Jillian_(I'd_Give_My_Heart)",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Fire and Ice (Within Temptation song)",
+      "type": "wikipedia",
+      "label": "Fire and Ice (Within Temptation song)",
+      "url": "https://en.wikipedia.org/wiki/Fire_and_Ice_(Within_Temptation_song)",
+      "firstSeenAt": "2026-10-08T13:25:12.608Z"
     }
   ],
   "recentItems": []

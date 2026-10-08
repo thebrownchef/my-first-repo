@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T13:21:10.818Z",
+  "generatedAt": "2026-10-08T13:27:38.122Z",
   "id": "UCHd62-u_v4DvJ8TCFtpi4GA",
   "title": "Washington Post",
   "thumb": "https://yt3.ggpht.com/fUsltMCzmTj4JM5EzgbYe9s5YUEVtAk7vd0CUe9_cpl2FRnp_SmAA1YM7AtMIFr9xXgipXlB=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 3.38,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Washington Post Universe",
       "url": "https://www.youtube.com/channel/UCYBARVyitZWkFKovnC2jf2g",
       "firstSeenAt": "2026-09-21T12:44:46.302Z"
+    },
+    {
+      "id": "channel:UCIMEwb2XDhpvstJbHpVqt9g",
+      "type": "channel",
+      "label": "PostSurgeOperative",
+      "url": "https://www.youtube.com/channel/UCIMEwb2XDhpvstJbHpVqt9g",
+      "firstSeenAt": "2026-10-08T13:25:57.460Z"
     }
   ],
   "recentItems": []
