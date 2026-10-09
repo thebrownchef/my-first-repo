@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCO9Q5_D6tItyoilmDogexng",
   "title": "PublicResourceOrg",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN8msoL_nLAxHUy2pwTKFRXZjHhPiX76565DKcqbvUhw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.88,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "HouseResourceOrg",
       "url": "https://www.youtube.com/channel/UCuwpe69VxVzy4maI6ymmm6A",
       "firstSeenAt": "2026-09-18T11:11:15.572Z"
+    },
+    {
+      "id": "wiki:Battle of St. Vith",
+      "type": "wikipedia",
+      "label": "Battle of St. Vith",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_St._Vith",
+      "firstSeenAt": "2026-10-09T13:13:03.584Z"
     }
   ],
   "recentItems": []

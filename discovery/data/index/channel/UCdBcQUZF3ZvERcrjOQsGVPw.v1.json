@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "id": "UCdBcQUZF3ZvERcrjOQsGVPw",
+  "title": "Fred Robbins",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVSK2nOnqjU1PcIGpRxjumr1b2Ebi_QoI0siz2v4cCcm4=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "wiki:Cornell Chimes",
+      "type": "wikipedia",
+      "label": "Cornell Chimes",
+      "url": "https://en.wikipedia.org/wiki/Cornell_Chimes",
+      "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:Sussex Airport (New Jersey)",
+      "type": "wikipedia",
+      "label": "Sussex Airport (New Jersey)",
+      "url": "https://en.wikipedia.org/wiki/Sussex_Airport_(New_Jersey)",
+      "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    }
+  ],
+  "recentItems": []
+}

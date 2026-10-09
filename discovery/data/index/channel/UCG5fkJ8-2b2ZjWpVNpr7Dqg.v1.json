@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCG5fkJ8-2b2ZjWpVNpr7Dqg",
   "title": "whitneyhoustonVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mMpYur_Ra_AHgeLM2wRAVbky1_IXRLAE05Mm0Ee_ZtnXg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Heartbreak Hotel (Whitney Houston song)",
       "url": "https://en.wikipedia.org/wiki/Heartbreak_Hotel_(Whitney_Houston_song)",
       "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Miracle (Whitney Houston song)",
+      "type": "wikipedia",
+      "label": "Miracle (Whitney Houston song)",
+      "url": "https://en.wikipedia.org/wiki/Miracle_(Whitney_Houston_song)",
+      "firstSeenAt": "2026-10-09T13:13:03.584Z"
     }
   ],
   "recentItems": []

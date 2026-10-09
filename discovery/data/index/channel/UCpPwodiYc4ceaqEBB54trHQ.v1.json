@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCpPwodiYc4ceaqEBB54trHQ",
   "title": "HollywoodRecordsVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kFufz__RMSOHj_FTXKOasloMRwx6P2tkjXaw2gDmtFg9k=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Get Back (Demi Lovato song)",
       "url": "https://en.wikipedia.org/wiki/Get_Back_(Demi_Lovato_song)",
       "firstSeenAt": "2026-10-05T14:32:40.422Z"
+    },
+    {
+      "id": "wiki:Come Back to Me (Vanessa Hudgens song)",
+      "type": "wikipedia",
+      "label": "Come Back to Me (Vanessa Hudgens song)",
+      "url": "https://en.wikipedia.org/wiki/Come_Back_to_Me_(Vanessa_Hudgens_song)",
+      "firstSeenAt": "2026-10-09T13:13:02.334Z"
     }
   ],
   "recentItems": []

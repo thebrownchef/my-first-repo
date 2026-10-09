@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCJL3h2-wEOB6EigQOBZ3ryg",
   "title": "The Black Keys",
   "thumb": "https://yt3.ggpht.com/DtB9K0JQevfZiqaAJ8RjiL66YXkPCNdv1hTmqUMml17Xb2gs8ssAw8xoXDv3XlrD3P1ba9u7sQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Your Touch",
       "url": "https://en.wikipedia.org/wiki/Your_Touch",
       "firstSeenAt": "2026-10-08T13:25:12.608Z"
+    },
+    {
+      "id": "wiki:Gold on the Ceiling",
+      "type": "wikipedia",
+      "label": "Gold on the Ceiling",
+      "url": "https://en.wikipedia.org/wiki/Gold_on_the_Ceiling",
+      "firstSeenAt": "2026-10-09T13:13:03.584Z"
     }
   ],
   "recentItems": []

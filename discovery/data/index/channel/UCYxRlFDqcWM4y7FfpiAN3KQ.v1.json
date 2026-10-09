@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCYxRlFDqcWM4y7FfpiAN3KQ",
   "title": "The White House",
   "thumb": "https://yt3.ggpht.com/UJ0CYk_LQ7cPIGXE7aIpLLv8OdTuU7wQ9Ygrdl2qLSSBBPei4l6wI5HL_cuOS00lzD81XJDj=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.3,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "West Wing Week",
       "url": "https://en.wikipedia.org/wiki/West_Wing_Week",
       "firstSeenAt": "2026-10-05T14:32:40.862Z"
+    },
+    {
+      "id": "channel:UCVnEB_G-tNa4la5MyiwExMA",
+      "type": "channel",
+      "label": "cctvupload",
+      "url": "https://www.youtube.com/channel/UCVnEB_G-tNa4la5MyiwExMA",
+      "firstSeenAt": "2026-10-09T13:13:18.981Z"
     }
   ],
   "recentItems": []

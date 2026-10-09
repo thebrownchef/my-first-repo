@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCZng8TYQxSMYuRS7CZd-nvg",
   "title": "VP Records",
   "thumb": "https://yt3.ggpht.com/jdZoxyxE0SoYbt8toSg_FeXbEjejyozNYXBj9UoKEqpG6FoWnSdMmovUpYLaC8QuEtWxx5gXzeU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Press It Up",
       "url": "https://en.wikipedia.org/wiki/Press_It_Up",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:Got 2 Luv U",
+      "type": "wikipedia",
+      "label": "Got 2 Luv U",
+      "url": "https://en.wikipedia.org/wiki/Got_2_Luv_U",
+      "firstSeenAt": "2026-10-09T13:13:04.342Z"
     }
   ],
   "recentItems": []

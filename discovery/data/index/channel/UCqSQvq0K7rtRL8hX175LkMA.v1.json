@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCqSQvq0K7rtRL8hX175LkMA",
   "title": "PearljamVEVO",
   "thumb": "https://yt3.ggpht.com/XaYTV-4MB-3jmOdRiPh-lgDNam8C6WnFafLSuNmn_O0G46SwTKJEvNl0F1wZ3vtUcSR1PdPOVg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "NirvanaVEVO",
       "url": "https://www.youtube.com/channel/UCzGrGrvf9g8CVVzh_LvGf-g",
       "firstSeenAt": "2026-10-04T12:18:59.333Z"
+    },
+    {
+      "id": "wiki:Jeremy (song)",
+      "type": "wikipedia",
+      "label": "Jeremy (song)",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_(song)",
+      "firstSeenAt": "2026-10-09T13:13:03.584Z"
     }
   ],
   "recentItems": []

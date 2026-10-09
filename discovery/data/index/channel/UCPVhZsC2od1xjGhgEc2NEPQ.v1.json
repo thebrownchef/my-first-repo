@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 30,
-  "distinctSourceCount": 30,
+  "score": 32,
+  "distinctSourceCount": 32,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -218,6 +218,20 @@
       "label": "SelenaGomezVEVO",
       "url": "https://www.youtube.com/channel/UCjK8ORC71kwyj1DWFwril_A",
       "firstSeenAt": "2026-10-07T13:19:37.303Z"
+    },
+    {
+      "id": "channel:UC07Kxew-cMIaykMOkzqHtBQ",
+      "type": "channel",
+      "label": "LadyGagaVEVO",
+      "url": "https://www.youtube.com/channel/UC07Kxew-cMIaykMOkzqHtBQ",
+      "firstSeenAt": "2026-10-09T13:13:12.986Z"
+    },
+    {
+      "id": "channel:UCsXfDf1CDgU3SCt0gxJNXGg",
+      "type": "channel",
+      "label": "justintimberlakeVEVO",
+      "url": "https://www.youtube.com/channel/UCsXfDf1CDgU3SCt0gxJNXGg",
+      "firstSeenAt": "2026-10-09T13:13:19.083Z"
     }
   ],
   "recentItems": []

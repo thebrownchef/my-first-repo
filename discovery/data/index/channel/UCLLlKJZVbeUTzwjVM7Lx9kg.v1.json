@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCLLlKJZVbeUTzwjVM7Lx9kg",
   "title": "TSENT2008",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m33TCrQNxYHMPcDuNv9l8OS5OT5oXnmi_dOJOU73KCPkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Secret Time",
       "url": "https://en.wikipedia.org/wiki/Secret_Time",
       "firstSeenAt": "2026-10-07T13:18:52.595Z"
+    },
+    {
+      "id": "wiki:Going Crazy (Song Ji-eun song)",
+      "type": "wikipedia",
+      "label": "Going Crazy (Song Ji-eun song)",
+      "url": "https://en.wikipedia.org/wiki/Going_Crazy_(Song_Ji-eun_song)",
+      "firstSeenAt": "2026-10-09T13:13:02.334Z"
     }
   ],
   "recentItems": []

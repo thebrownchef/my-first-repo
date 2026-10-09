@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCb--64Gl51jIEVE-GLDAVTg",
   "title": "C-SPAN",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "United States Oval Office Address",
       "url": "https://en.wikipedia.org/wiki/United_States_Oval_Office_Address",
       "firstSeenAt": "2026-09-06T10:53:22.168Z"
+    },
+    {
+      "id": "channel:UCVnEB_G-tNa4la5MyiwExMA",
+      "type": "channel",
+      "label": "cctvupload",
+      "url": "https://www.youtube.com/channel/UCVnEB_G-tNa4la5MyiwExMA",
+      "firstSeenAt": "2026-10-09T13:13:18.982Z"
     }
   ],
   "recentItems": []

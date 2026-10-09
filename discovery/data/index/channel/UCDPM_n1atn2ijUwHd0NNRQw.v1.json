@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:27:38.122Z",
+  "generatedAt": "2026-10-09T13:15:08.972Z",
   "id": "UCDPM_n1atn2ijUwHd0NNRQw",
   "title": "Coldplay",
   "thumb": "https://yt3.ggpht.com/vWWn3HO1emNl2iGb08UuY4q_OtqXwUUWJMjMDr6bBPpuCBoWg-dE_Gu-yoMQNrBqb2gMzA3wLQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Paradise (Coldplay song)",
       "url": "https://en.wikipedia.org/wiki/Paradise_(Coldplay_song)",
       "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "wiki:Lost!",
+      "type": "wikipedia",
+      "label": "Lost!",
+      "url": "https://en.wikipedia.org/wiki/Lost!",
+      "firstSeenAt": "2026-10-09T13:13:02.334Z"
+    },
+    {
+      "id": "wiki:Charlie Brown (Coldplay song)",
+      "type": "wikipedia",
+      "label": "Charlie Brown (Coldplay song)",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Brown_(Coldplay_song)",
+      "firstSeenAt": "2026-10-09T13:13:02.334Z"
     }
   ],
   "recentItems": []
