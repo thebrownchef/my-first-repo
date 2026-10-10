@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UCoWBD_CJVbO4HQM5M_lKhIg",
   "title": "LitVEVO",
   "thumb": "https://yt3.ggpht.com/yn8papYkk0y1PFzFLguBugLZHUPiyt1p32_aV405UQzCZ8P3LK4Cyk5u-ol04Fqj9eYKZzPM1Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Miserable (song)",
       "url": "https://en.wikipedia.org/wiki/Miserable_(song)",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Zip-Lock (song)",
+      "type": "wikipedia",
+      "label": "Zip-Lock (song)",
+      "url": "https://en.wikipedia.org/wiki/Zip-Lock_(song)",
+      "firstSeenAt": "2026-10-10T12:28:22.161Z"
     }
   ],
   "recentItems": []

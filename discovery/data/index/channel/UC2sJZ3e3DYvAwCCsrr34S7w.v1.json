@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UC2sJZ3e3DYvAwCCsrr34S7w",
   "title": "American Foundation for Equal Rights",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nMHzKcqFqu_AHj2V20sp8xhaOWSiL2iqFmgelCNy1ll88=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "Dustin Lance Black",
       "url": "https://en.wikipedia.org/wiki/Dustin_Lance_Black",
       "firstSeenAt": "2026-10-09T13:13:04.342Z"
+    },
+    {
+      "id": "wiki:Jansen Panettiere",
+      "type": "wikipedia",
+      "label": "Jansen Panettiere",
+      "url": "https://en.wikipedia.org/wiki/Jansen_Panettiere",
+      "firstSeenAt": "2026-10-10T12:28:20.461Z"
+    },
+    {
+      "id": "wiki:John C. Reilly",
+      "type": "wikipedia",
+      "label": "John C. Reilly",
+      "url": "https://en.wikipedia.org/wiki/John_C._Reilly",
+      "firstSeenAt": "2026-10-10T12:28:20.461Z"
+    },
+    {
+      "id": "wiki:Jane Lynch",
+      "type": "wikipedia",
+      "label": "Jane Lynch",
+      "url": "https://en.wikipedia.org/wiki/Jane_Lynch",
+      "firstSeenAt": "2026-10-10T12:28:20.461Z"
+    },
+    {
+      "id": "wiki:Christine Lahti",
+      "type": "wikipedia",
+      "label": "Christine Lahti",
+      "url": "https://en.wikipedia.org/wiki/Christine_Lahti",
+      "firstSeenAt": "2026-10-10T12:28:20.461Z"
+    },
+    {
+      "id": "wiki:Bob Balaban",
+      "type": "wikipedia",
+      "label": "Bob Balaban",
+      "url": "https://en.wikipedia.org/wiki/Bob_Balaban",
+      "firstSeenAt": "2026-10-10T12:28:21.299Z"
     }
   ],
   "recentItems": []

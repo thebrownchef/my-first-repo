@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
   "title": "TED",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "courtney love",
       "url": "https://www.youtube.com/channel/UCX8L2exHT9rqfpCC0TCx57A",
       "firstSeenAt": "2026-09-30T12:31:13.709Z"
+    },
+    {
+      "id": "wiki:Donald Sadoway",
+      "type": "wikipedia",
+      "label": "Donald Sadoway",
+      "url": "https://en.wikipedia.org/wiki/Donald_Sadoway",
+      "firstSeenAt": "2026-10-10T12:28:21.299Z"
     }
   ],
   "recentItems": []

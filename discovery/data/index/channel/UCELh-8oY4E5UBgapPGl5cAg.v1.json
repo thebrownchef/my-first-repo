@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UCELh-8oY4E5UBgapPGl5cAg",
   "title": "billyjoelVEVO",
   "thumb": "https://yt3.ggpht.com/5PU43pwxJ8Jb1gGboSn48sEr3Djp7mpzuUbNQGfgKcM6dIEuEdQ6cEuBlL1DurQcIGUKFJKw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Piano Man",
       "url": "https://en.wikipedia.org/wiki/Piano_Man",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:My Life (Billy Joel song)",
+      "type": "wikipedia",
+      "label": "My Life (Billy Joel song)",
+      "url": "https://en.wikipedia.org/wiki/My_Life_(Billy_Joel_song)",
+      "firstSeenAt": "2026-10-10T12:28:21.299Z"
     }
   ],
   "recentItems": []

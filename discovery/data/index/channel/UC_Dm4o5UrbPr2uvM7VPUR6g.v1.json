@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UC_Dm4o5UrbPr2uvM7VPUR6g",
   "title": "4Minute 포미닛(Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lnJ9_THPylTRRgEWoMP31aix-BRY4Dpkp6coPR0YxXOj8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Bubble Pop!",
       "url": "https://en.wikipedia.org/wiki/Bubble_Pop!",
       "firstSeenAt": "2026-10-05T14:32:40.422Z"
+    },
+    {
+      "id": "channel:UCpivUfpiim43qRLpOXtDugg",
+      "type": "channel",
+      "label": "Trouble Maker (Official YouTube Channel)",
+      "url": "https://www.youtube.com/channel/UCpivUfpiim43qRLpOXtDugg",
+      "firstSeenAt": "2026-10-10T12:28:40.877Z"
     }
   ],
   "recentItems": []

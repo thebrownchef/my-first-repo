@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UCGWpjrgMylyGVRIKQdazrPA",
   "title": "Warner Music Group",
   "thumb": "https://yt3.ggpht.com/1OBJ0pUHIrcm4QslhHeeBSSvLpuQ-ab48hLQbwyn7bNkGKBXVhzdElNQZQagIIJX81SzUF3HkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "charice",
       "url": "https://www.youtube.com/channel/UCrV0yntxpfAIrptJJKY8yng",
       "firstSeenAt": "2026-10-06T13:17:09.526Z"
+    },
+    {
+      "id": "channel:UCjSkdzVdUS1crC89RI2cNWw",
+      "type": "channel",
+      "label": "Bone Thugs-N-Harmony",
+      "url": "https://www.youtube.com/channel/UCjSkdzVdUS1crC89RI2cNWw",
+      "firstSeenAt": "2026-10-10T12:28:31.727Z"
     }
   ],
   "recentItems": []

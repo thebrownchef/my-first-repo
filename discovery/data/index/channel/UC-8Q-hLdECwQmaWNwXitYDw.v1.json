@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UC-8Q-hLdECwQmaWNwXitYDw",
   "title": "KatyPerryVEVO",
   "thumb": "https://yt3.ggpht.com/At-OTmzPnkE8xcDw08lHdUxbGy9TP-jzB4f4EnvcnUVTMuHoLP-sE8WY3OkwK6DJdWN6OJII=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Waking Up in Vegas",
       "url": "https://en.wikipedia.org/wiki/Waking_Up_in_Vegas",
       "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "wiki:Part of Me (Katy Perry song)",
+      "type": "wikipedia",
+      "label": "Part of Me (Katy Perry song)",
+      "url": "https://en.wikipedia.org/wiki/Part_of_Me_(Katy_Perry_song)",
+      "firstSeenAt": "2026-10-10T12:28:22.161Z"
+    },
+    {
+      "id": "wiki:The One That Got Away (Katy Perry song)",
+      "type": "wikipedia",
+      "label": "The One That Got Away (Katy Perry song)",
+      "url": "https://en.wikipedia.org/wiki/The_One_That_Got_Away_(Katy_Perry_song)",
+      "firstSeenAt": "2026-10-10T12:28:22.161Z"
     }
   ],
   "recentItems": []

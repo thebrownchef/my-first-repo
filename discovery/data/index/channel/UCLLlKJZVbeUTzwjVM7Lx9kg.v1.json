@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UCLLlKJZVbeUTzwjVM7Lx9kg",
   "title": "TSENT2008",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m33TCrQNxYHMPcDuNv9l8OS5OT5oXnmi_dOJOU73KCPkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Going Crazy (Song Ji-eun song)",
       "url": "https://en.wikipedia.org/wiki/Going_Crazy_(Song_Ji-eun_song)",
       "firstSeenAt": "2026-10-09T13:13:02.334Z"
+    },
+    {
+      "id": "wiki:Warrior (B.A.P song)",
+      "type": "wikipedia",
+      "label": "Warrior (B.A.P song)",
+      "url": "https://en.wikipedia.org/wiki/Warrior_(B.A.P_song)",
+      "firstSeenAt": "2026-10-10T12:28:22.161Z"
     }
   ],
   "recentItems": []

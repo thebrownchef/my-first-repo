@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T13:15:08.972Z",
+  "generatedAt": "2026-10-10T12:29:57.328Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 32,
-  "distinctSourceCount": 32,
+  "score": 33,
+  "distinctSourceCount": 33,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -232,6 +232,13 @@
       "label": "justintimberlakeVEVO",
       "url": "https://www.youtube.com/channel/UCsXfDf1CDgU3SCt0gxJNXGg",
       "firstSeenAt": "2026-10-09T13:13:19.083Z"
+    },
+    {
+      "id": "channel:UCYarz4T8PmArBY3f5vsa7LA",
+      "type": "channel",
+      "label": "TheDappyVEVO",
+      "url": "https://www.youtube.com/channel/UCYarz4T8PmArBY3f5vsa7LA",
+      "firstSeenAt": "2026-10-10T12:28:29.532Z"
     }
   ],
   "recentItems": []
