@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCpuvu8mrEO4jxjT6sRwE8tg",
   "title": "B.o.B",
   "thumb": "https://yt3.ggpht.com/Sn2wNKD9Wncs3MiYtfcgnqqB756DznX-Zv5PorzHMf23cMCi6jGUX1cVfAyZpsW7zQL_wgMo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "B.o.B",
       "url": "https://www.youtube.com/channel/UCpuvu8mrEO4jxjT6sRwE8tg",
       "firstSeenAt": "2026-10-10T12:28:41.679Z"
+    },
+    {
+      "id": "wiki:So Good (B.o.B song)",
+      "type": "wikipedia",
+      "label": "So Good (B.o.B song)",
+      "url": "https://en.wikipedia.org/wiki/So_Good_(B.o.B_song)",
+      "firstSeenAt": "2026-10-11T12:45:39.931Z"
     }
   ],
   "recentItems": []

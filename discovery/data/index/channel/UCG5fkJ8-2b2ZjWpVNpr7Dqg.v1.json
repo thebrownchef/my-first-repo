@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCG5fkJ8-2b2ZjWpVNpr7Dqg",
   "title": "whitneyhoustonVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mMpYur_Ra_AHgeLM2wRAVbky1_IXRLAE05Mm0Ee_ZtnXg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Miracle (Whitney Houston song)",
       "url": "https://en.wikipedia.org/wiki/Miracle_(Whitney_Houston_song)",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:All the Man That I Need",
+      "type": "wikipedia",
+      "label": "All the Man That I Need",
+      "url": "https://en.wikipedia.org/wiki/All_the_Man_That_I_Need",
+      "firstSeenAt": "2026-10-11T12:45:40.965Z"
     }
   ],
   "recentItems": []

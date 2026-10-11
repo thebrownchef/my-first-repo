@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCJnS2EsPfv46u1JR8cnD0NA",
   "title": "NPR",
   "thumb": "https://yt3.ggpht.com/xV45Y5SgnQmqj4oZrsVcNw5EWkSbyRxP68RpEcrBDH7tXIldMnma47i631Vmw0REricCK0Egplc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.47,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "NPR Podcasts",
       "url": "https://www.youtube.com/channel/UCuVaB0t5qJRxP55gEl6TuKQ",
       "firstSeenAt": "2026-09-16T11:29:07.724Z"
+    },
+    {
+      "id": "channel:UCeaNshO4Ydxnvw226674d0A",
+      "type": "channel",
+      "label": "WKAR",
+      "url": "https://www.youtube.com/channel/UCeaNshO4Ydxnvw226674d0A",
+      "firstSeenAt": "2026-10-11T12:45:58.980Z"
     }
   ],
   "recentItems": []

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UC4xWOwA9yoRanf8fDsNT_YA",
   "title": "ANTI- Records",
   "thumb": "https://yt3.ggpht.com/xHq29rXWdZjoTmXfprGy0jBgWZ5_8W-a5sHoGY2GNViyBEsWAynGco0p9uChgRVgaIIWTDX2RA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
-  "hop": 1,
+  "score": 5,
+  "distinctSourceCount": 5,
+  "hop": 0,
   "uploadsPerDay": 0.42,
   "sources": [
     {
@@ -36,6 +36,13 @@
       "label": "Danny Elfman",
       "url": "https://www.youtube.com/channel/UCjhIy2xUURhJvN0S7s_ztuw",
       "firstSeenAt": "2026-09-30T12:31:31.093Z"
+    },
+    {
+      "id": "wiki:Skyline (Yann Tiersen album)",
+      "type": "wikipedia",
+      "label": "Skyline (Yann Tiersen album)",
+      "url": "https://en.wikipedia.org/wiki/Skyline_(Yann_Tiersen_album)",
+      "firstSeenAt": "2026-10-11T12:45:41.514Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCBXMisBbiSKwxyPH15PLjJg",
   "title": "greasygeezers",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nXgv02REL_XQQGzx5zxryCqqe8pTr4hKpM9qw53vsWSA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Fry You Like Fish @ The Jam",
       "url": "https://en.wikipedia.org/wiki/Fry_You_Like_Fish_%40_The_Jam",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Greasy Geezers Revival Jubilee",
+      "type": "wikipedia",
+      "label": "Greasy Geezers Revival Jubilee",
+      "url": "https://en.wikipedia.org/wiki/Greasy_Geezers_Revival_Jubilee",
+      "firstSeenAt": "2026-10-11T12:45:39.931Z"
     }
   ],
   "recentItems": []

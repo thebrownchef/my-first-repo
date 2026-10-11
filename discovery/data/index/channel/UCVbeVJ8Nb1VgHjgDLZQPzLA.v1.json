@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCVbeVJ8Nb1VgHjgDLZQPzLA",
   "title": "HotChelleRaeVEVO",
   "thumb": "https://yt3.ggpht.com/C2l0mdwNep4IAHruPTBj9jC6-2cDfstYw9ELEW5kFmRYL-bgkI-j79fkNnXcDruI4p9XQvP44w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "I Like It Like That (Hot Chelle Rae song)",
       "url": "https://en.wikipedia.org/wiki/I_Like_It_Like_That_(Hot_Chelle_Rae_song)",
       "firstSeenAt": "2026-10-10T12:28:21.299Z"
+    },
+    {
+      "id": "wiki:Honestly (Hot Chelle Rae song)",
+      "type": "wikipedia",
+      "label": "Honestly (Hot Chelle Rae song)",
+      "url": "https://en.wikipedia.org/wiki/Honestly_(Hot_Chelle_Rae_song)",
+      "firstSeenAt": "2026-10-11T12:45:40.965Z"
     }
   ],
   "recentItems": []

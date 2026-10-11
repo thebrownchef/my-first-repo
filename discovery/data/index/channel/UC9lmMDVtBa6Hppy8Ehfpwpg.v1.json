@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UC9lmMDVtBa6Hppy8Ehfpwpg",
   "title": "Röyksopp",
   "thumb": "https://yt3.ggpht.com/iN_kebzhrOsamFpsbHz_EBAVrj9he1qryVdGxyY3iQhv-isCSHoOb77Vwbqp8mNZMurNGY5dmW0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "RoyksoppVEVO",
       "url": "https://www.youtube.com/channel/UCEES_bv7O-xLNZhTSO4kRUQ",
       "firstSeenAt": "2026-10-05T14:33:14.718Z"
+    },
+    {
+      "id": "channel:UC0YlEgUpFF3pepqyfGKN31Q",
+      "type": "channel",
+      "label": "Embassy One",
+      "url": "https://www.youtube.com/channel/UC0YlEgUpFF3pepqyfGKN31Q",
+      "firstSeenAt": "2026-10-11T12:46:02.231Z"
     }
   ],
   "recentItems": []

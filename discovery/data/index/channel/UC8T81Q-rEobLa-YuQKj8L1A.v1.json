@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UC8T81Q-rEobLa-YuQKj8L1A",
   "title": "Ministry of Sound",
   "thumb": "https://yt3.ggpht.com/cskYl8jAZXw3UEGPIhLqHsboTPNZybVpvV4canNFCqs9vsaVSq3Xb7ueQV0fFYlZ0BEuZlfE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 2,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Now You're Gone (Basshunter song)",
       "url": "https://en.wikipedia.org/wiki/Now_You're_Gone_(Basshunter_song)",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "channel:UC0y8P5OjTKLTpnDt62WJzCA",
+      "type": "channel",
+      "label": "DJ Fresh",
+      "url": "https://www.youtube.com/channel/UC0y8P5OjTKLTpnDt62WJzCA",
+      "firstSeenAt": "2026-10-11T12:46:11.952Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UC81VD6eeuLLSfyY_D-N8sVw",
   "title": "Madonna",
   "thumb": "https://yt3.ggpht.com/N9-5OOHM8mPIG7Yw5xlOWhh4GYVOhYR1tkk6RgP_fVbVcWOgUYbTNRMofCtEvjT580WJ4uNl=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "You'll See",
       "url": "https://en.wikipedia.org/wiki/You'll_See",
       "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "channel:UCLvhr40dgoBcV4XBlOhauNw",
+      "type": "channel",
+      "label": "워너뮤직코리아 (Warner Music Korea)",
+      "url": "https://www.youtube.com/channel/UCLvhr40dgoBcV4XBlOhauNw",
+      "firstSeenAt": "2026-10-11T12:45:51.574Z"
     }
   ],
   "recentItems": []

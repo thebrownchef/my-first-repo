@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UC52X5wxOL_s5yw0dQk7NtgA",
   "title": "Associated Press",
   "thumb": "https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 27.9,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Timeline of the Yemeni revolution (January – 2 June 2011)",
       "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Yemeni_revolution_(January_%E2%80%93_2_June_2011)",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:Jamal al-Sharabi",
+      "type": "wikipedia",
+      "label": "Jamal al-Sharabi",
+      "url": "https://en.wikipedia.org/wiki/Jamal_al-Sharabi",
+      "firstSeenAt": "2026-10-11T12:45:40.965Z"
     }
   ],
   "recentItems": []

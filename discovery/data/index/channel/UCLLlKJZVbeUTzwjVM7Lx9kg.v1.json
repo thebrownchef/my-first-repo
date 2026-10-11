@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCLLlKJZVbeUTzwjVM7Lx9kg",
   "title": "TSENT2008",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m33TCrQNxYHMPcDuNv9l8OS5OT5oXnmi_dOJOU73KCPkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Warrior (B.A.P song)",
       "url": "https://en.wikipedia.org/wiki/Warrior_(B.A.P_song)",
       "firstSeenAt": "2026-10-10T12:28:22.161Z"
+    },
+    {
+      "id": "wiki:Secret Love (B.A.P song)",
+      "type": "wikipedia",
+      "label": "Secret Love (B.A.P song)",
+      "url": "https://en.wikipedia.org/wiki/Secret_Love_(B.A.P_song)",
+      "firstSeenAt": "2026-10-11T12:45:39.931Z"
     }
   ],
   "recentItems": []

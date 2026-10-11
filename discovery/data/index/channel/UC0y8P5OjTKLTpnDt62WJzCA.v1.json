@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "id": "UC0y8P5OjTKLTpnDt62WJzCA",
+  "title": "DJ Fresh",
+  "thumb": "https://yt3.ggpht.com/4jm6kaICqJT30gvuHtShmPwF3aZQQGoVOseeukXozHUHH5APWHzNRY_rFpJLcJZfO9yGXsRNdA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "wiki:Hot Right Now",
+      "type": "wikipedia",
+      "label": "Hot Right Now",
+      "url": "https://en.wikipedia.org/wiki/Hot_Right_Now",
+      "firstSeenAt": "2026-10-09T13:13:04.342Z"
+    },
+    {
+      "id": "wiki:The Power (DJ Fresh song)",
+      "type": "wikipedia",
+      "label": "The Power (DJ Fresh song)",
+      "url": "https://en.wikipedia.org/wiki/The_Power_(DJ_Fresh_song)",
+      "firstSeenAt": "2026-10-11T12:45:40.965Z"
+    }
+  ],
+  "recentItems": []
+}

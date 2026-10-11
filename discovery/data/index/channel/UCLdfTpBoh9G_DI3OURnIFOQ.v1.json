@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCLdfTpBoh9G_DI3OURnIFOQ",
   "title": "Blur",
   "thumb": "https://yt3.ggpht.com/zDqC_Z4g_Pslq4IFdlGTkslL2BBuNiqHkyu2Ne5FEA6zZ2hVnlDuC4EmvFCiFND9i55oQXIS=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "Music Is My Radar",
       "url": "https://en.wikipedia.org/wiki/Music_Is_My_Radar",
       "firstSeenAt": "2026-10-08T13:25:14.049Z"
+    },
+    {
+      "id": "wiki:Out of Time (Blur song)",
+      "type": "wikipedia",
+      "label": "Out of Time (Blur song)",
+      "url": "https://en.wikipedia.org/wiki/Out_of_Time_(Blur_song)",
+      "firstSeenAt": "2026-10-11T12:45:39.931Z"
     }
   ],
   "recentItems": []

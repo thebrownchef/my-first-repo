@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCtXKDgv1AVoG88PLl8nGXmw",
   "title": "Google TechTalks",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_np5QbjchJOQKKpyqO3Uo7sg3YUaFx2EWN1kCQ0N7HRrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Bufferbloat",
       "url": "https://en.wikipedia.org/wiki/Bufferbloat",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:Memory ordering",
+      "type": "wikipedia",
+      "label": "Memory ordering",
+      "url": "https://en.wikipedia.org/wiki/Memory_ordering",
+      "firstSeenAt": "2026-10-11T12:45:42.051Z"
     }
   ],
   "recentItems": []

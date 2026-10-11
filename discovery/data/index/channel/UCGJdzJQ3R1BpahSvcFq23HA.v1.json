@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "planbuk",
       "url": "https://www.youtube.com/channel/UCFnvNS_FRRiNhWgsyteOyuA",
       "firstSeenAt": "2026-10-03T11:38:38.057Z"
+    },
+    {
+      "id": "channel:UCLvhr40dgoBcV4XBlOhauNw",
+      "type": "channel",
+      "label": "워너뮤직코리아 (Warner Music Korea)",
+      "url": "https://www.youtube.com/channel/UCLvhr40dgoBcV4XBlOhauNw",
+      "firstSeenAt": "2026-10-11T12:45:51.573Z"
     }
   ],
   "recentItems": []

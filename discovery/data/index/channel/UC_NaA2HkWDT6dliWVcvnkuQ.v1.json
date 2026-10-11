@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UC_NaA2HkWDT6dliWVcvnkuQ",
   "title": "Creators",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m6B2s4Ixg818pRwrip1H3JqfKochbi1ANxOrrZKVSpPVk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "VICE Life",
       "url": "https://www.youtube.com/channel/UCfQDD-pbllOCXHYwiXxjJxA",
       "firstSeenAt": "2026-09-30T12:31:08.939Z"
+    },
+    {
+      "id": "channel:UC8WbdD3m5dP9giOU9XtAGWQ",
+      "type": "channel",
+      "label": "M83",
+      "url": "https://www.youtube.com/channel/UC8WbdD3m5dP9giOU9XtAGWQ",
+      "firstSeenAt": "2026-10-11T12:46:15.534Z"
     }
   ],
   "recentItems": []

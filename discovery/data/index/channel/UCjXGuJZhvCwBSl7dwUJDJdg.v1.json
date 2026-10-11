@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCjXGuJZhvCwBSl7dwUJDJdg",
   "title": "アップフロントチャンネル",
   "thumb": "https://yt3.ggpht.com/UGcaf6WIFp_xv0ZzpOYosX87ndWbs_taJG7jYa8BxnngN_bWyGVSx2DSEidO3LWFN0RPDht0neA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Shining Butterfly",
       "url": "https://en.wikipedia.org/wiki/Shining_Butterfly",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:Balalaika (song)",
+      "type": "wikipedia",
+      "label": "Balalaika (song)",
+      "url": "https://en.wikipedia.org/wiki/Balalaika_(song)",
+      "firstSeenAt": "2026-10-11T12:45:40.965Z"
+    },
+    {
+      "id": "channel:UCWBTV02MVmyLqNPWRGDrl6A",
+      "type": "channel",
+      "label": "Berryz工房",
+      "url": "https://www.youtube.com/channel/UCWBTV02MVmyLqNPWRGDrl6A",
+      "firstSeenAt": "2026-10-11T12:46:10.925Z"
     }
   ],
   "recentItems": []

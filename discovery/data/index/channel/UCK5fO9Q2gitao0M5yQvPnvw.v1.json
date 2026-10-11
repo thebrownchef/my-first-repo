@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCK5fO9Q2gitao0M5yQvPnvw",
   "title": "JAY PARK",
   "thumb": "https://yt3.ggpht.com/pZcZ11MP3azzqYuYCU0VOaOK0H4LfeS1ksQZmEkvLwQbgiqtRmdeCHbQjULxdHgH9xnhQpccJg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "New Breed (Jay Park album)",
       "url": "https://en.wikipedia.org/wiki/New_Breed_(Jay_Park_album)",
       "firstSeenAt": "2026-10-07T13:18:52.595Z"
+    },
+    {
+      "id": "wiki:Jay Park videography",
+      "type": "wikipedia",
+      "label": "Jay Park videography",
+      "url": "https://en.wikipedia.org/wiki/Jay_Park_videography",
+      "firstSeenAt": "2026-10-11T12:45:41.604Z"
     }
   ],
   "recentItems": []

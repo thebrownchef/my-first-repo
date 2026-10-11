@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:29:57.328Z",
+  "generatedAt": "2026-10-11T12:47:43.427Z",
   "id": "UCqhnX4jA0A5paNd1v-zEysw",
   "title": "GoPro",
   "thumb": "https://yt3.ggpht.com/UVXGOJKC_HxL3E5pPi-UP4QW1alBOQsdTFopjErTPqDbcqca2TRorjVpuMm3o6Lytw--pODIkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.5,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "GoPro",
       "url": "https://www.youtube.com/channel/UCqhnX4jA0A5paNd1v-zEysw",
       "firstSeenAt": "2026-09-22T11:35:07.355Z"
+    },
+    {
+      "id": "channel:UCFjxi3RutMPomt4HALGYrnA",
+      "type": "channel",
+      "label": "Damien LeRoy",
+      "url": "https://www.youtube.com/channel/UCFjxi3RutMPomt4HALGYrnA",
+      "firstSeenAt": "2026-10-11T12:45:58.676Z"
     }
   ],
   "recentItems": []

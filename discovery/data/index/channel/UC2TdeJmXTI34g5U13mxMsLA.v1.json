@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "id": "UC2TdeJmXTI34g5U13mxMsLA",
+  "title": "Vevo Italia",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mK0J_m1eUtgAGDkp3Shk4L0XebraYhR__RoxOp9vGqOmA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "channel:UC2eod7YaVMxTGKw5mF3o57w",
+      "type": "channel",
+      "label": "DolceneraVEVO",
+      "url": "https://www.youtube.com/channel/UC2eod7YaVMxTGKw5mF3o57w",
+      "firstSeenAt": "2026-10-11T12:46:12.234Z"
+    },
+    {
+      "id": "channel:UCvBz3n23YgAvAHfoZtdqZCA",
+      "type": "channel",
+      "label": "TizianoFerroVEVO",
+      "url": "https://www.youtube.com/channel/UCvBz3n23YgAvAHfoZtdqZCA",
+      "firstSeenAt": "2026-10-11T12:46:12.304Z"
+    }
+  ],
+  "recentItems": []
+}
