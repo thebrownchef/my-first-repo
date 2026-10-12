@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCfnLDq6CLpb7miiQ5HtHvCA",
   "title": "PalomaFaithVEVO",
   "thumb": "https://yt3.ggpht.com/82_nCHgW71fGZxkGaXrnup7w1Nuh3_FqmbrDJWorWfwjv8mfUozwSDq6ghGqEKUY9qZVmjf9EdA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -43,6 +43,27 @@
       "label": "Picking Up the Pieces (Paloma Faith song)",
       "url": "https://en.wikipedia.org/wiki/Picking_Up_the_Pieces_(Paloma_Faith_song)",
       "firstSeenAt": "2026-10-11T12:45:39.931Z"
+    },
+    {
+      "id": "wiki:Smoke & Mirrors (Paloma Faith song)",
+      "type": "wikipedia",
+      "label": "Smoke & Mirrors (Paloma Faith song)",
+      "url": "https://en.wikipedia.org/wiki/Smoke_%26_Mirrors_(Paloma_Faith_song)",
+      "firstSeenAt": "2026-10-12T15:18:28.761Z"
+    },
+    {
+      "id": "wiki:Stone Cold Sober (Paloma Faith song)",
+      "type": "wikipedia",
+      "label": "Stone Cold Sober (Paloma Faith song)",
+      "url": "https://en.wikipedia.org/wiki/Stone_Cold_Sober_(Paloma_Faith_song)",
+      "firstSeenAt": "2026-10-12T15:18:28.761Z"
+    },
+    {
+      "id": "wiki:Do You Want the Truth or Something Beautiful? (song)",
+      "type": "wikipedia",
+      "label": "Do You Want the Truth or Something Beautiful? (song)",
+      "url": "https://en.wikipedia.org/wiki/Do_You_Want_the_Truth_or_Something_Beautiful%3F_(song)",
+      "firstSeenAt": "2026-10-12T15:18:28.761Z"
     }
   ],
   "recentItems": []

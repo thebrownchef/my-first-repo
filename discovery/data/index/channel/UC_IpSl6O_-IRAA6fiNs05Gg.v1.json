@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UC_IpSl6O_-IRAA6fiNs05Gg",
   "title": "ABC",
   "thumb": "https://yt3.ggpht.com/NJ-cv_7kH_nSYWMGbyU1bkuvgaAh_l8tLoxFtsLWUm6wbEap0VFzc58Qv6EbAaAJ_sQ_b0GuGA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 2.37,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "American Idol",
       "url": "https://www.youtube.com/channel/UCAMPco9PqjBbI_MLsDOO4Jw",
       "firstSeenAt": "2026-09-15T11:41:51.256Z"
+    },
+    {
+      "id": "channel:UCETE4rKzRRjqM0JaB7TlPpQ",
+      "type": "channel",
+      "label": "KSAT 12",
+      "url": "https://www.youtube.com/channel/UCETE4rKzRRjqM0JaB7TlPpQ",
+      "firstSeenAt": "2026-10-12T15:18:50.966Z"
     }
   ],
   "recentItems": []

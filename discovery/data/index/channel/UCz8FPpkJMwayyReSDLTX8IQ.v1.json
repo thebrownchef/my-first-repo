@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCz8FPpkJMwayyReSDLTX8IQ",
   "title": "Nickelback",
   "thumb": "https://yt3.ggpht.com/kjPoMfjh6uz6WDwOLFU51DrnKTPUny5g_lrbsdRpFUl92NMinj1_N_vC-U5wB1lTFba0w1oMAvc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "This Afternoon",
       "url": "https://en.wikipedia.org/wiki/This_Afternoon",
       "firstSeenAt": "2026-10-07T13:18:50.312Z"
+    },
+    {
+      "id": "wiki:How You Remind Me",
+      "type": "wikipedia",
+      "label": "How You Remind Me",
+      "url": "https://en.wikipedia.org/wiki/How_You_Remind_Me",
+      "firstSeenAt": "2026-10-12T15:18:28.761Z"
     }
   ],
   "recentItems": []

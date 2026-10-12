@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UC2TdeJmXTI34g5U13mxMsLA",
   "title": "Vevo Italia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mK0J_m1eUtgAGDkp3Shk4L0XebraYhR__RoxOp9vGqOmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "TizianoFerroVEVO",
       "url": "https://www.youtube.com/channel/UCvBz3n23YgAvAHfoZtdqZCA",
       "firstSeenAt": "2026-10-11T12:46:12.304Z"
+    },
+    {
+      "id": "channel:UC5-7Y5ebV3vjE3k2dXahSdg",
+      "type": "channel",
+      "label": "NinaZilliVEVO",
+      "url": "https://www.youtube.com/channel/UC5-7Y5ebV3vjE3k2dXahSdg",
+      "firstSeenAt": "2026-10-12T15:18:44.027Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCHqQruhGENdmWy_oeH1f8QA",
   "title": "Michael Bublé",
   "thumb": "https://yt3.ggpht.com/BIbMb6Bt7DZmTJc7-rtjqv6O59VwHZoQFXzimz3F5u_4Qm9qmvklKfEXCuYmyV2T-k_bkpjnZg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "charice",
       "url": "https://www.youtube.com/channel/UCrV0yntxpfAIrptJJKY8yng",
       "firstSeenAt": "2026-10-06T13:17:09.527Z"
+    },
+    {
+      "id": "wiki:Feeling Good",
+      "type": "wikipedia",
+      "label": "Feeling Good",
+      "url": "https://en.wikipedia.org/wiki/Feeling_Good",
+      "firstSeenAt": "2026-10-12T15:18:28.761Z"
     }
   ],
   "recentItems": []

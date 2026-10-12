@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
   "title": "ABC News",
   "thumb": "https://yt3.ggpht.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 16.24,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Friday (Rebecca Black song)",
       "url": "https://en.wikipedia.org/wiki/Friday_(Rebecca_Black_song)",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "channel:UCETE4rKzRRjqM0JaB7TlPpQ",
+      "type": "channel",
+      "label": "KSAT 12",
+      "url": "https://www.youtube.com/channel/UCETE4rKzRRjqM0JaB7TlPpQ",
+      "firstSeenAt": "2026-10-12T15:18:50.966Z"
     }
   ],
   "recentItems": []

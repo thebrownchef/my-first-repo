@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UChvAV3_iEHsbt8bIL1wYc0g",
   "title": "leonalewisVEVO",
   "thumb": "https://yt3.ggpht.com/4A6-ZS8qIKhzPSKCtQp6GZoGigHrQ449vTQm20owkGlqfDO2NdQQqKmzvzIAOo1PTKVafirh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "JordinSparksVEVO",
       "url": "https://www.youtube.com/channel/UCqs-lZOF6bv7ayLr4B8mWHg",
       "firstSeenAt": "2026-10-09T13:13:38.042Z"
+    },
+    {
+      "id": "wiki:Better in Time",
+      "type": "wikipedia",
+      "label": "Better in Time",
+      "url": "https://en.wikipedia.org/wiki/Better_in_Time",
+      "firstSeenAt": "2026-10-12T15:18:29.861Z"
     }
   ],
   "recentItems": []

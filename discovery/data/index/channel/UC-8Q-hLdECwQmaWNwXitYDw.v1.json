@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UC-8Q-hLdECwQmaWNwXitYDw",
   "title": "KatyPerryVEVO",
   "thumb": "https://yt3.ggpht.com/At-OTmzPnkE8xcDw08lHdUxbGy9TP-jzB4f4EnvcnUVTMuHoLP-sE8WY3OkwK6DJdWN6OJII=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "The One That Got Away (Katy Perry song)",
       "url": "https://en.wikipedia.org/wiki/The_One_That_Got_Away_(Katy_Perry_song)",
       "firstSeenAt": "2026-10-10T12:28:22.161Z"
+    },
+    {
+      "id": "wiki:Last Friday Night (T.G.I.F.)",
+      "type": "wikipedia",
+      "label": "Last Friday Night (T.G.I.F.)",
+      "url": "https://en.wikipedia.org/wiki/Last_Friday_Night_(T.G.I.F.)",
+      "firstSeenAt": "2026-10-12T15:18:29.861Z"
     }
   ],
   "recentItems": []

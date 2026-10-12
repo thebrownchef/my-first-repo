@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCKy1dAqELo0zrOtPkf0eTMw",
   "title": "IGN",
   "thumb": "https://yt3.ggpht.com/4jRpju9vRtgoIA6SxuIomVcCmjub6ydA1TzGRHts853ZzxRITi41gxP50jTuGBdUlvAgehZJK8Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 25.18,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.746Z"
+    },
+    {
+      "id": "wiki:Tom Clancy's Ghost Recon: Future Soldier",
+      "type": "wikipedia",
+      "label": "Tom Clancy's Ghost Recon: Future Soldier",
+      "url": "https://en.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon%3A_Future_Soldier",
+      "firstSeenAt": "2026-10-12T15:18:29.861Z"
     }
   ],
   "recentItems": []

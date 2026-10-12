@@ -2,18 +2,15 @@
   "schemaVersion": 1,
   "cursors": {
     "youtube.com": {
-      "eucontinue": "34112463",
+      "eucontinue": "35178799",
       "continue": "-||"
     },
     "youtu.be": null,
     "www.youtube.com": {
-      "eucontinue": "37362348",
+      "eucontinue": "38236056",
       "continue": "-||"
     },
-    "m.youtube.com": {
-      "eucontinue": "1140252335",
-      "continue": "-||"
-    }
+    "m.youtube.com": null
   },
   "_comment": "Per-query MediaWiki exturlusage continuation state, keyed by query string (e.g. 'youtube.com'). Populated automatically by the ingestion job. When a query's corpus is exhausted, its cursor is cleared so the next run starts that query over from the beginning."
 }

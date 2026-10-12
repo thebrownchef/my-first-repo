@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCC6XuDtfec7DxZdUa7ClFBQ",
   "title": "AvrilLavigneVEVO",
   "thumb": "https://yt3.ggpht.com/o4u-Su2zOrLmPhxLJgbv0U210sPb1DjBbvoKRU6ilU1hieKyaVBMmnRY7MVBiNhsgu6gggIlc5E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Alice (Avril Lavigne song)",
       "url": "https://en.wikipedia.org/wiki/Alice_(Avril_Lavigne_song)",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:The Best Damn Thing (song)",
+      "type": "wikipedia",
+      "label": "The Best Damn Thing (song)",
+      "url": "https://en.wikipedia.org/wiki/The_Best_Damn_Thing_(song)",
+      "firstSeenAt": "2026-10-12T15:18:29.861Z"
     }
   ],
   "recentItems": []

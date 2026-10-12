@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCKMYrg58k3muz90hG0OSVhA",
   "title": "Fearless Records",
   "thumb": "https://yt3.ggpht.com/j2yZ4NeQBSA5GAaYNJmMo1WKwlSMdUrpe-lSAbQWfwJglBSv35H_8bc1i-TyJ75jz_ulCX69mQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Bouncing Off the Walls",
       "url": "https://en.wikipedia.org/wiki/Bouncing_Off_the_Walls",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "channel:UCNVkFIef5t6d5SJmDCXt8Qg",
+      "type": "channel",
+      "label": "Indie Vision Music",
+      "url": "https://www.youtube.com/channel/UCNVkFIef5t6d5SJmDCXt8Qg",
+      "firstSeenAt": "2026-10-12T15:18:45.562Z"
     }
   ],
   "recentItems": []

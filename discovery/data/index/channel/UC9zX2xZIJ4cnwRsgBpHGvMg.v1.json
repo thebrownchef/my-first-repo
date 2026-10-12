@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
   "title": "BeyoncéVEVO",
   "thumb": "https://yt3.ggpht.com/4UxYRy4fJ0Fo54TRPkw19_W6uCCnzTBSkzm75vGIiEObg4IgY5Ie1BIsNcflFNqofAjxEpTRcQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "I Care (Beyoncé song)",
       "url": "https://en.wikipedia.org/wiki/I_Care_(Beyonc%C3%A9_song)",
       "firstSeenAt": "2026-10-07T13:18:51.083Z"
+    },
+    {
+      "id": "wiki:Love On Top",
+      "type": "wikipedia",
+      "label": "Love On Top",
+      "url": "https://en.wikipedia.org/wiki/Love_On_Top",
+      "firstSeenAt": "2026-10-12T15:18:29.861Z"
     }
   ],
   "recentItems": []

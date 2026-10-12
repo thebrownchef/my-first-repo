@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UC4PooiX37Pld1T8J5SYT-SQ",
   "title": "Good Mythical Morning",
   "thumb": "https://yt3.ggpht.com/MeZVhcgPcT22Xau1pdKcynSCJks0sUkNyG_gwN0VCXY38wWn64eSOXS80y-fG6eUpvP-_ZXJPQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.71,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.745Z"
+    },
+    {
+      "id": "channel:UCXGR70CkW_pXb8n52LzCCRw",
+      "type": "channel",
+      "label": "Mythical Kitchen",
+      "url": "https://www.youtube.com/channel/UCXGR70CkW_pXb8n52LzCCRw",
+      "firstSeenAt": "2026-10-12T15:18:52.069Z"
+    },
+    {
+      "id": "channel:UCIRPDoWlTPtMapZN-e3ZZsw",
+      "type": "channel",
+      "label": "Dispatches From Myrtle Beach",
+      "url": "https://www.youtube.com/channel/UCIRPDoWlTPtMapZN-e3ZZsw",
+      "firstSeenAt": "2026-10-12T15:18:52.120Z"
+    },
+    {
+      "id": "channel:UCbochVIwBCzJb9I2lLGXGjQ",
+      "type": "channel",
+      "label": "Rhett & Link",
+      "url": "https://www.youtube.com/channel/UCbochVIwBCzJb9I2lLGXGjQ",
+      "firstSeenAt": "2026-10-12T15:18:52.170Z"
+    },
+    {
+      "id": "channel:UCzpCc5n9hqiVC7HhPwcIKEg",
+      "type": "channel",
+      "label": "Good Mythical MORE",
+      "url": "https://www.youtube.com/channel/UCzpCc5n9hqiVC7HhPwcIKEg",
+      "firstSeenAt": "2026-10-12T15:18:52.209Z"
+    },
+    {
+      "id": "channel:UC8nhd-qEBMmFs-DkhBaQwww",
+      "type": "channel",
+      "label": "Ear Biscuits",
+      "url": "https://www.youtube.com/channel/UC8nhd-qEBMmFs-DkhBaQwww",
+      "firstSeenAt": "2026-10-12T15:18:52.350Z"
     }
   ],
   "recentItems": []

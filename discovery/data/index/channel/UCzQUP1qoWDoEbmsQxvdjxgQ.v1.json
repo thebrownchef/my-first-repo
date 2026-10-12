@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCzQUP1qoWDoEbmsQxvdjxgQ",
   "title": "PowerfulJRE",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kIOv8XSayB3mVzdmGH6r6nOuncclc_QxWr7TYTXM4dFrs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.73,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.744Z"
+    },
+    {
+      "id": "wiki:James Talarico",
+      "type": "wikipedia",
+      "label": "James Talarico",
+      "url": "https://en.wikipedia.org/wiki/James_Talarico",
+      "firstSeenAt": "2026-10-12T15:18:33.522Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T12:47:43.427Z",
+  "generatedAt": "2026-10-12T15:20:03.695Z",
   "id": "UCX62fwFYJNo5U-Flu2V-kGQ",
   "title": "BeastieBoysVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kjQN_MiG_SNJIxfQW2HmNZpUuMGeEpb2xbC5zAlMttvA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Remote Control / Three MC's and One DJ",
       "url": "https://en.wikipedia.org/wiki/Remote_Control_%2F_Three_MC's_and_One_DJ",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Hold It Now, Hit It",
+      "type": "wikipedia",
+      "label": "Hold It Now, Hit It",
+      "url": "https://en.wikipedia.org/wiki/Hold_It_Now%2C_Hit_It",
+      "firstSeenAt": "2026-10-12T15:18:27.923Z"
     }
   ],
   "recentItems": []
