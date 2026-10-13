@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
   "title": "Google for Developers",
   "thumb": "https://yt3.ggpht.com/Jrfy3VrP1QDikidneCoruk9MmhsQsEAgeQSELZtL2fn1pKxCjh2ohk7derV33UpetVZwt-DuRQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Google TechTalks",
       "url": "https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw",
       "firstSeenAt": "2026-10-05T14:33:17.343Z"
+    },
+    {
+      "id": "wiki:Google Compute Engine",
+      "type": "wikipedia",
+      "label": "Google Compute Engine",
+      "url": "https://en.wikipedia.org/wiki/Google_Compute_Engine",
+      "firstSeenAt": "2026-10-13T14:07:55.127Z"
     }
   ],
   "recentItems": []

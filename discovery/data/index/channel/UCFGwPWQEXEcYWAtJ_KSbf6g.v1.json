@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCFGwPWQEXEcYWAtJ_KSbf6g",
   "title": "CBCtwo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lo0IUZ5URywkir5nALjKGysfAxtrvYpt3CHUm6jmEAQjlF=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Rushdy Abaza",
       "url": "https://en.wikipedia.org/wiki/Rushdy_Abaza",
       "firstSeenAt": "2026-09-01T11:37:09.153Z"
+    },
+    {
+      "id": "channel:UCw2DOzjwDgeXRiYHjtswnZg",
+      "type": "channel",
+      "label": "CBCtwo LiveStream",
+      "url": "https://www.youtube.com/channel/UCw2DOzjwDgeXRiYHjtswnZg",
+      "firstSeenAt": "2026-10-13T14:08:24.072Z"
     }
   ],
   "recentItems": []

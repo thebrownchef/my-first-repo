@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCd2KNtfphz8HvYzM4pwtHmg",
   "title": "triple j",
   "thumb": "https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.65,
   "sources": [
@@ -29,6 +29,41 @@
       "label": "2 Meter Sessions",
       "url": "https://www.youtube.com/channel/UCQVjF5myESp1ZUENwBz4CMQ",
       "firstSeenAt": "2026-09-12T10:43:16.148Z"
+    },
+    {
+      "id": "channel:UCd2KNtfphz8HvYzM4pwtHmg",
+      "type": "channel",
+      "label": "triple j",
+      "url": "https://www.youtube.com/channel/UCd2KNtfphz8HvYzM4pwtHmg",
+      "firstSeenAt": "2026-10-13T14:08:26.313Z"
+    },
+    {
+      "id": "channel:UC5iLnYoF4Ryb63YdGD9RfWQ",
+      "type": "channel",
+      "label": "ABC Australia",
+      "url": "https://www.youtube.com/channel/UC5iLnYoF4Ryb63YdGD9RfWQ",
+      "firstSeenAt": "2026-10-13T14:08:26.609Z"
+    },
+    {
+      "id": "channel:UCSS7tKTxrtZp35DaoCIe0rQ",
+      "type": "channel",
+      "label": "ABC Entertainment",
+      "url": "https://www.youtube.com/channel/UCSS7tKTxrtZp35DaoCIe0rQ",
+      "firstSeenAt": "2026-10-13T14:08:26.919Z"
+    },
+    {
+      "id": "channel:UC6Sq_majkP19J5YGjhMndtg",
+      "type": "channel",
+      "label": "ABC中文",
+      "url": "https://www.youtube.com/channel/UC6Sq_majkP19J5YGjhMndtg",
+      "firstSeenAt": "2026-10-13T14:08:27.134Z"
+    },
+    {
+      "id": "channel:UCx6ECeM2io2sEyg2pB2uU5Q",
+      "type": "channel",
+      "label": "ABC Music",
+      "url": "https://www.youtube.com/channel/UCx6ECeM2io2sEyg2pB2uU5Q",
+      "firstSeenAt": "2026-10-13T14:08:27.544Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "id": "UCwBUwaTxztTPuSzIi2cjimw",
+  "title": "Charlie Rose",
+  "thumb": "https://yt3.ggpht.com/Fk5fZh862tfzc_E1pKFiuOYE4cEqASXELYVFlIFMLXyCbmXoyjK0zpzOG_3zaAsn4VcKIQKKjw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.41,
+  "sources": [
+    {
+      "id": "wiki:Charlie Rose (talk show)",
+      "type": "wikipedia",
+      "label": "Charlie Rose (talk show)",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Rose_(talk_show)",
+      "firstSeenAt": "2026-10-03T11:38:14.450Z"
+    },
+    {
+      "id": "wiki:Charlie Rose",
+      "type": "wikipedia",
+      "label": "Charlie Rose",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Rose",
+      "firstSeenAt": "2026-10-13T14:07:53.660Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "id": "UC3LqW4ijMoENQ2Wv17ZrFJA",
+  "title": "PBS Idea Channel",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_l-nRJBS4wc0PJA2z9cchYWvKmpepflmtIRdQGdAu__JQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.07,
+  "sources": [
+    {
+      "id": "channel:UC_NaA2HkWDT6dliWVcvnkuQ",
+      "type": "channel",
+      "label": "Creators",
+      "url": "https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ",
+      "firstSeenAt": "2026-10-13T14:08:17.021Z"
+    },
+    {
+      "id": "channel:UC7_gcs09iThXybpVgjHZ_7g",
+      "type": "channel",
+      "label": "PBS Space Time",
+      "url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g",
+      "firstSeenAt": "2026-10-13T14:08:20.521Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCaLfMkkHhSA_LaCta0BzyhQ",
   "title": "Munchies",
   "thumb": "https://yt3.ggpht.com/YI7KRAO1YT4SZGn319o908cHt2eY2-xOuzKRhEc2ybxpGjsJGA350QAZgOoCRWXcj_kuE7aw0Xw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "VICE Life",
       "url": "https://www.youtube.com/channel/UCfQDD-pbllOCXHYwiXxjJxA",
       "firstSeenAt": "2026-09-30T12:31:08.937Z"
+    },
+    {
+      "id": "channel:UC_NaA2HkWDT6dliWVcvnkuQ",
+      "type": "channel",
+      "label": "Creators",
+      "url": "https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ",
+      "firstSeenAt": "2026-10-13T14:08:17.020Z"
     }
   ],
   "recentItems": []

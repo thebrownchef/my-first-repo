@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCIzXayRP7-P0ANpq-nD-h5g",
   "title": "The Sun",
   "thumb": "https://yt3.ggpht.com/Lno6v8lhLRCARERkAK6zTwyUFLCIy_wNjCaT0uxdcMF7AURQXWuYjhkX3OU2ZEqZNAqCfQA8Ut4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 4.64,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The US Sun",
       "url": "https://www.youtube.com/channel/UCHmb7OFncrZ7BRpMxTzsP4g",
       "firstSeenAt": "2026-09-24T11:42:40.811Z"
+    },
+    {
+      "id": "channel:UCm0yTweyAa0PwEIp0l3N_gA",
+      "type": "channel",
+      "label": "TalkTV",
+      "url": "https://www.youtube.com/channel/UCm0yTweyAa0PwEIp0l3N_gA",
+      "firstSeenAt": "2026-10-13T14:08:12.938Z"
     }
   ],
   "recentItems": []

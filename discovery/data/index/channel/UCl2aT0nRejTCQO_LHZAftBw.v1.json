@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCl2aT0nRejTCQO_LHZAftBw",
   "title": "UNIVERSAL MUSIC JAPAN",
   "thumb": "https://yt3.ggpht.com/yH850lOJjx0xRC7r69WxylQITd9m2RKE11ihqbToi19NTacCjlJKkKUyv2jl27o7tEZ-RtHxFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 1.17,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Zock On!",
       "url": "https://en.wikipedia.org/wiki/Zock_On!",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:One 4 U",
+      "type": "wikipedia",
+      "label": "One 4 U",
+      "url": "https://en.wikipedia.org/wiki/One_4_U",
+      "firstSeenAt": "2026-10-13T14:07:55.894Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCkozSCYe1posLlfjUhaJOkw",
   "title": "Magic Secrets Revealed",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nV-B_txkP_Wf50w_32ZPRkqAkGRF6GS3fv8L6u-IoLpMk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "ScreamFactoryTV",
       "url": "https://www.youtube.com/channel/UCs7MJ_T5OH1g4TmmkoG2aVw",
       "firstSeenAt": "2026-10-02T12:30:30.706Z"
+    },
+    {
+      "id": "channel:UCkozSCYe1posLlfjUhaJOkw",
+      "type": "channel",
+      "label": "Magic Secrets Revealed",
+      "url": "https://www.youtube.com/channel/UCkozSCYe1posLlfjUhaJOkw",
+      "firstSeenAt": "2026-10-13T14:08:17.973Z"
     }
   ],
   "recentItems": []

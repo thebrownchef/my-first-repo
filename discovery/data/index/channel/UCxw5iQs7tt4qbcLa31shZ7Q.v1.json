@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "id": "UCxw5iQs7tt4qbcLa31shZ7Q",
+  "title": "Sky TV",
+  "thumb": "https://yt3.ggpht.com/NnpLpyVrcoHYjrNNOO11yOhjAHNEzxddkm2JhCPjtQPiIHXJ9GnG13p_PlLv5a-ArTlG2xZrvA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.52,
+  "sources": [
+    {
+      "id": "channel:UCN5Bw2dVHHok-OxHfIj0jZA",
+      "type": "channel",
+      "label": "British Stuff TV",
+      "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
+      "firstSeenAt": "2026-09-06T10:53:26.527Z"
+    },
+    {
+      "id": "channel:UCnwaU7j34C92ywMHXJahHRA",
+      "type": "channel",
+      "label": "NOW",
+      "url": "https://www.youtube.com/channel/UCnwaU7j34C92ywMHXJahHRA",
+      "firstSeenAt": "2026-10-13T14:08:13.314Z"
+    }
+  ],
+  "recentItems": []
+}

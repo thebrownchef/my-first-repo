@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "id": "UCVTVQqzVjSoj52d4OGIhlSw",
+  "title": "A-JAX",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lZTOCkRc6UVWYK9D2tJyMJQ4gUw8SkbYAr1SXnyfBZ-w=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "channel:UCgHmY5dcJghV7ZI3U6rh_Wg",
+      "type": "channel",
+      "label": "Rainbow Official",
+      "url": "https://www.youtube.com/channel/UCgHmY5dcJghV7ZI3U6rh_Wg",
+      "firstSeenAt": "2026-10-11T12:45:53.696Z"
+    },
+    {
+      "id": "wiki:One 4 U",
+      "type": "wikipedia",
+      "label": "One 4 U",
+      "url": "https://en.wikipedia.org/wiki/One_4_U",
+      "firstSeenAt": "2026-10-13T14:07:54.217Z"
+    },
+    {
+      "id": "wiki:Hot Game (song)",
+      "type": "wikipedia",
+      "label": "Hot Game (song)",
+      "url": "https://en.wikipedia.org/wiki/Hot_Game_(song)",
+      "firstSeenAt": "2026-10-13T14:07:55.894Z"
+    }
+  ],
+  "recentItems": []
+}

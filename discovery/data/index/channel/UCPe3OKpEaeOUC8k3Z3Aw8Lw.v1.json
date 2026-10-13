@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "id": "UCPe3OKpEaeOUC8k3Z3Aw8Lw",
+  "title": "ABC Classic",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mAg_6jJDV4ci6B7xjQZY8KMz2enEgMCzGpDzS3h3tNyTA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.12,
+  "sources": [
+    {
+      "id": "channel:UCSS7tKTxrtZp35DaoCIe0rQ",
+      "type": "channel",
+      "label": "ABC Entertainment",
+      "url": "https://www.youtube.com/channel/UCSS7tKTxrtZp35DaoCIe0rQ",
+      "firstSeenAt": "2026-10-13T14:08:26.919Z"
+    },
+    {
+      "id": "channel:UCx6ECeM2io2sEyg2pB2uU5Q",
+      "type": "channel",
+      "label": "ABC Music",
+      "url": "https://www.youtube.com/channel/UCx6ECeM2io2sEyg2pB2uU5Q",
+      "firstSeenAt": "2026-10-13T14:08:27.543Z"
+    }
+  ],
+  "recentItems": []
+}

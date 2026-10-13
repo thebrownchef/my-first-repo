@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UC8IHAQMuiJdY6ALuhG7iU8Q",
   "title": "FilmRise Movies",
   "thumb": "https://yt3.ggpht.com/YAjylvuPTsEscTN1pbejOkR9Hu34AzwOg0qjl7vnH6hpzrbgL_2G7xtVsc9zGKe6HTFVxjTAZg8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 1,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -120,9 +120,25 @@
       "label": "ScreamFactoryTV",
       "url": "https://www.youtube.com/channel/UCs7MJ_T5OH1g4TmmkoG2aVw",
       "firstSeenAt": "2026-10-02T12:30:30.705Z"
+    },
+    {
+      "id": "channel:UCigBBfWRC05eW9_5DjJLq_Q",
+      "type": "channel",
+      "label": "FilmRise Releasing",
+      "url": "https://www.youtube.com/channel/UCigBBfWRC05eW9_5DjJLq_Q",
+      "firstSeenAt": "2026-10-13T14:08:17.765Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "8d7ct2tMZog",
+      "title": "Puppet Master 4 | Full Movie",
+      "publishedAt": "2026-10-12T22:54:10Z",
+      "durationSec": 4754,
+      "thumb": "https://i.ytimg.com/vi/8d7ct2tMZog/mqdefault.jpg",
+      "description": "A young scientist and his friends, upon being attacked by demons, are protected by a gang of animated puppets.\n\nPresented By Radial Entertainment",
+      "chapters": []
+    },
     {
       "id": "hpSYf_AxyoI",
       "title": "The Stuff | Full Movie",
@@ -220,15 +236,6 @@
       "durationSec": 5711,
       "thumb": "https://i.ytimg.com/vi/xvwtsSfFjbY/mqdefault.jpg",
       "description": "Rick Harding is a former Marines officer, now working in the FBI as a chemical weapons designer. While packing up for the night, a group of armed soldiers led by wanted criminal Carlos Gruber, break into the FBI research lab.\n\nPresented By Radial Entertainment",
-      "chapters": []
-    },
-    {
-      "id": "shhH7cY9pJg",
-      "title": "Operator | Full Movie",
-      "publishedAt": "2026-09-11T17:00:23Z",
-      "durationSec": 5462,
-      "thumb": "https://i.ytimg.com/vi/shhH7cY9pJg/mqdefault.jpg",
-      "description": "Joe, a programmer and obsessive self-quantifier, and Emily, a budding comedy performer, are happily married until they decide to use one another in their work.\n\nPresented By Radial Entertainment",
       "chapters": []
     }
   ]

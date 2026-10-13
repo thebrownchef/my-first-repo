@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCX6b17PVsYBQ0ip5gyeme-Q",
   "title": "CrashCourse",
   "thumb": "https://yt3.ggpht.com/E454zI2spNFZsN_wgJPTHjMsqs1fFqb_qp4PYanWuyaXQJp98wKEV1kIQYlR57epaweO5P8v=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -64,6 +64,27 @@
       "label": "minutephysics",
       "url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
       "firstSeenAt": "2026-10-01T13:10:03.069Z"
+    },
+    {
+      "id": "channel:UCH4BNI0-FOK2dMXoFtViWHw",
+      "type": "channel",
+      "label": "Be Smart",
+      "url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
+      "firstSeenAt": "2026-10-13T14:08:20.236Z"
+    },
+    {
+      "id": "channel:UCzR-rom72PHN9Zg7RML9EbA",
+      "type": "channel",
+      "label": "PBS Eons",
+      "url": "https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA",
+      "firstSeenAt": "2026-10-13T14:08:20.423Z"
+    },
+    {
+      "id": "channel:UCiB8h9jD2Mlxx96ZFnGDSJw",
+      "type": "channel",
+      "label": "PBS Origins ",
+      "url": "https://www.youtube.com/channel/UCiB8h9jD2Mlxx96ZFnGDSJw",
+      "firstSeenAt": "2026-10-13T14:08:20.783Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCzR-rom72PHN9Zg7RML9EbA",
   "title": "PBS Eons",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mmvovTBJJo3ZSQa7kYLAjJFZlBidpTHfKfPOXe4xrG-y4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Journey to the Microcosmos",
       "url": "https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g",
       "firstSeenAt": "2026-09-16T11:29:13.814Z"
+    },
+    {
+      "id": "channel:UCiB8h9jD2Mlxx96ZFnGDSJw",
+      "type": "channel",
+      "label": "PBS Origins ",
+      "url": "https://www.youtube.com/channel/UCiB8h9jD2Mlxx96ZFnGDSJw",
+      "firstSeenAt": "2026-10-13T14:08:20.782Z"
     }
   ],
   "recentItems": []

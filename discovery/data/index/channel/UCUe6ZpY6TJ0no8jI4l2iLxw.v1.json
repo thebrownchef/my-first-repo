@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCUe6ZpY6TJ0no8jI4l2iLxw",
   "title": "Nick Jr.",
   "thumb": "https://yt3.ggpht.com/5Oe6GeP0RS7YYXlcSqCoBCyzYYtoxSgmN0K_FXQTBOY9tutzr5G1mXjfSmi76YAE3Q8WZXNByQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 1.32,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Nickelodeon France",
       "url": "https://www.youtube.com/channel/UCeGvSi1Tb8OV78ue3_tux1A",
       "firstSeenAt": "2026-09-20T11:20:10.548Z"
+    },
+    {
+      "id": "channel:UCs1eMvIJbUfcknGziUrB3Cg",
+      "type": "channel",
+      "label": "Paramount+ Global",
+      "url": "https://www.youtube.com/channel/UCs1eMvIJbUfcknGziUrB3Cg",
+      "firstSeenAt": "2026-10-13T14:08:14.935Z"
     }
   ],
   "recentItems": []

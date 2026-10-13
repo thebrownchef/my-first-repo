@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "id": "UCsv4YOF2RBYh0NQ1vuHQ-hg",
+  "title": "Comedy Central UK",
+  "thumb": "https://yt3.ggpht.com/1HGOvvI--1EnVx9ST22XczX2RYrHcg2YbKwzDe8Gw3X4hvNZVaKfI6zTFTXB78dTPNZmFpe-=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 2.33,
+  "sources": [
+    {
+      "id": "channel:UCnwaU7j34C92ywMHXJahHRA",
+      "type": "channel",
+      "label": "NOW",
+      "url": "https://www.youtube.com/channel/UCnwaU7j34C92ywMHXJahHRA",
+      "firstSeenAt": "2026-10-13T14:08:13.314Z"
+    },
+    {
+      "id": "channel:UCs1eMvIJbUfcknGziUrB3Cg",
+      "type": "channel",
+      "label": "Paramount+ Global",
+      "url": "https://www.youtube.com/channel/UCs1eMvIJbUfcknGziUrB3Cg",
+      "firstSeenAt": "2026-10-13T14:08:14.935Z"
+    }
+  ],
+  "recentItems": []
+}

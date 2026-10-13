@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCtESv1e7ntJaLJYKIO1FoYw",
   "title": "Periodic Videos",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mVnp1Lc31B0TPILH30sz-eIQqX9ZML3ORtONYjcoNiQP4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Objectivity",
       "url": "https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg",
       "firstSeenAt": "2026-09-28T13:50:17.020Z"
+    },
+    {
+      "id": "channel:UCdJ9oJ2GUF8Vmb-G63ldGWg",
+      "type": "channel",
+      "label": "Reactions",
+      "url": "https://www.youtube.com/channel/UCdJ9oJ2GUF8Vmb-G63ldGWg",
+      "firstSeenAt": "2026-10-13T14:08:20.072Z"
     }
   ],
   "recentItems": []

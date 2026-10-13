@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCq6OAftTQOuUBRdtUDq5SUA",
   "title": "PBS Documentaries",
   "thumb": "https://yt3.ggpht.com/UglPE8DyhlC8i0lUqVauVXeBejJto7vn9e0OsjWwdBxquuGDcshrb9fP74D_l7lZHObwNieCqx8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "West Virginia Public Broadcasting",
       "url": "https://www.youtube.com/channel/UCsMiZpxCtO4TU45rDYHi7yA",
       "firstSeenAt": "2026-10-03T11:38:36.036Z"
+    },
+    {
+      "id": "channel:UCzR-rom72PHN9Zg7RML9EbA",
+      "type": "channel",
+      "label": "PBS Eons",
+      "url": "https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA",
+      "firstSeenAt": "2026-10-13T14:08:20.422Z"
+    },
+    {
+      "id": "channel:UC7_gcs09iThXybpVgjHZ_7g",
+      "type": "channel",
+      "label": "PBS Space Time",
+      "url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g",
+      "firstSeenAt": "2026-10-13T14:08:20.520Z"
+    },
+    {
+      "id": "channel:UCiB8h9jD2Mlxx96ZFnGDSJw",
+      "type": "channel",
+      "label": "PBS Origins ",
+      "url": "https://www.youtube.com/channel/UCiB8h9jD2Mlxx96ZFnGDSJw",
+      "firstSeenAt": "2026-10-13T14:08:20.782Z"
     }
   ],
   "recentItems": []

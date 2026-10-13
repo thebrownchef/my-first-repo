@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "title": "NASA",
   "thumb": "https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.93,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "NASA recovery ship",
       "url": "https://en.wikipedia.org/wiki/NASA_recovery_ship",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "channel:UC7_gcs09iThXybpVgjHZ_7g",
+      "type": "channel",
+      "label": "PBS Space Time",
+      "url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g",
+      "firstSeenAt": "2026-10-13T14:08:20.522Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCoKXb95K5h3sME3c9OCBaeA",
   "title": "モーニング娘。",
   "thumb": "https://yt3.ggpht.com/OVFC8Odl8kyPuIItG7ibp1f95XiBxucD0yUjcFShnXgmKzfQ_Ok0xfl2gYI658VDT_60RyvIJA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Berryz工房",
       "url": "https://www.youtube.com/channel/UCWBTV02MVmyLqNPWRGDrl6A",
       "firstSeenAt": "2026-10-11T12:46:10.922Z"
+    },
+    {
+      "id": "wiki:Mizuki Fukumura",
+      "type": "wikipedia",
+      "label": "Mizuki Fukumura",
+      "url": "https://en.wikipedia.org/wiki/Mizuki_Fukumura",
+      "firstSeenAt": "2026-10-13T14:07:55.127Z"
     }
   ],
   "recentItems": []

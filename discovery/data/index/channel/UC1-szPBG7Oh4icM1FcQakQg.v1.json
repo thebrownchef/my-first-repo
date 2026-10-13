@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UC1-szPBG7Oh4icM1FcQakQg",
   "title": "Fleur DeForce",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ntI8kYrv022nSaRLE7fpIiY56vHyIQyKYhEcedk_aMY0E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.22,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ingrid Nilsen",
       "url": "https://www.youtube.com/channel/UC5zSySQab9SA6Wz569WDgqw",
       "firstSeenAt": "2026-09-21T12:44:48.605Z"
+    },
+    {
+      "id": "channel:UCOYTXGVqi_SKtbO6X6-baJQ",
+      "type": "channel",
+      "label": "Sainsbury's Food",
+      "url": "https://www.youtube.com/channel/UCOYTXGVqi_SKtbO6X6-baJQ",
+      "firstSeenAt": "2026-10-13T14:08:17.636Z"
     }
   ],
   "recentItems": []

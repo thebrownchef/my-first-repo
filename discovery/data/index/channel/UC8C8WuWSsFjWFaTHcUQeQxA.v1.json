@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UC8C8WuWSsFjWFaTHcUQeQxA",
   "title": "VICE Sports",
   "thumb": "https://yt3.ggpht.com/oL3vfwZ7sZSZqGjAioewFP3u1FSmp9vWMK9NL51k6jh6I-zPGCsRMO3ArypEWybPJUwLwec6ek8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "VICE Life",
       "url": "https://www.youtube.com/channel/UCfQDD-pbllOCXHYwiXxjJxA",
       "firstSeenAt": "2026-09-30T12:31:08.938Z"
+    },
+    {
+      "id": "channel:UC_NaA2HkWDT6dliWVcvnkuQ",
+      "type": "channel",
+      "label": "Creators",
+      "url": "https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ",
+      "firstSeenAt": "2026-10-13T14:08:17.019Z"
     }
   ],
   "recentItems": []

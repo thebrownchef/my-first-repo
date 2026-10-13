@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCE97AW7eR8VVbVPBy4cCLKg",
   "title": "Soccer AM",
   "thumb": "https://yt3.ggpht.com/Dq3Ljuz-WzQza92fmarYjUyh62UP5zPGqtGTd8ZGUfFCp6s9G1sFMJz2wmJ8GsHcMRZdEsexew=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Sky Sports",
       "url": "https://www.youtube.com/channel/UCTU_wC79Dgi9rh4e9-baTqA",
       "firstSeenAt": "2026-09-20T11:20:11.902Z"
+    },
+    {
+      "id": "channel:UCnwaU7j34C92ywMHXJahHRA",
+      "type": "channel",
+      "label": "NOW",
+      "url": "https://www.youtube.com/channel/UCnwaU7j34C92ywMHXJahHRA",
+      "firstSeenAt": "2026-10-13T14:08:13.315Z"
     }
   ],
   "recentItems": []

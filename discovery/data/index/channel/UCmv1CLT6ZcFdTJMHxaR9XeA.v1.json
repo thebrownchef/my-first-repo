@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCmv1CLT6ZcFdTJMHxaR9XeA",
   "title": "Pentatonix",
   "thumb": "https://yt3.ggpht.com/mOPw7LayH33vrQC36RaTi6IK0BuRVPM18NgERoOTeGBioJhLxO1l_LAZmc8bAVEG0smtvs2V9Ks=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "kirstin (\"Kirstie\")",
       "url": "https://www.youtube.com/channel/UCmi9oIEpa68sYsBA70prfxQ",
       "firstSeenAt": "2026-09-24T11:42:41.823Z"
+    },
+    {
+      "id": "channel:UCc0hgnKESv5XZpI9S-uDR8A",
+      "type": "channel",
+      "label": "jonhuertas",
+      "url": "https://www.youtube.com/channel/UCc0hgnKESv5XZpI9S-uDR8A",
+      "firstSeenAt": "2026-10-13T14:08:08.942Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "id": "UCN5Bw2dVHHok-OxHfIj0jZA",
+  "title": "British Stuff TV",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxQY1PrfBAajqpj1SAJT7Qi7pLVIym79cXexMWtNU=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.1,
+  "sources": [
+    {
+      "id": "wiki:Halo (TV series)",
+      "type": "wikipedia",
+      "label": "Halo (TV series)",
+      "url": "https://en.wikipedia.org/wiki/Halo_(TV_series)",
+      "firstSeenAt": "2026-08-31T13:44:47.158Z"
+    },
+    {
+      "id": "channel:UC8SVROq9CQAn1OI-_W3RuUw",
+      "type": "channel",
+      "label": "British Stuff Extra",
+      "url": "https://www.youtube.com/channel/UC8SVROq9CQAn1OI-_W3RuUw",
+      "firstSeenAt": "2026-10-13T14:08:13.864Z"
+    },
+    {
+      "id": "channel:UCaxizNmXywQwiyYTlO9gAqQ",
+      "type": "channel",
+      "label": "Royal Stuff TV",
+      "url": "https://www.youtube.com/channel/UCaxizNmXywQwiyYTlO9gAqQ",
+      "firstSeenAt": "2026-10-13T14:08:14.991Z"
+    }
+  ],
+  "recentItems": []
+}

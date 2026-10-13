@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "id": "UCgY-h0zGG5EOa3f_k22wMJg",
+  "title": "Sainsbury's",
+  "thumb": "https://yt3.ggpht.com/CA64RzVJs0bJzbNgSxEid7_bsb10BrA83swdaotgjvnd0dFfZ0KEaF8IlqAxHmV4fcZ0AtoRAg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.07,
+  "sources": [
+    {
+      "id": "wiki:Asda",
+      "type": "wikipedia",
+      "label": "Asda",
+      "url": "https://en.wikipedia.org/wiki/Asda",
+      "firstSeenAt": "2026-08-31T13:44:47.158Z"
+    },
+    {
+      "id": "channel:UCOYTXGVqi_SKtbO6X6-baJQ",
+      "type": "channel",
+      "label": "Sainsbury's Food",
+      "url": "https://www.youtube.com/channel/UCOYTXGVqi_SKtbO6X6-baJQ",
+      "firstSeenAt": "2026-10-13T14:08:17.636Z"
+    }
+  ],
+  "recentItems": []
+}

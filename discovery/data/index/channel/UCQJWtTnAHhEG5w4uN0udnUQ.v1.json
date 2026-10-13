@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCQJWtTnAHhEG5w4uN0udnUQ",
   "title": "Prime Video",
   "thumb": "https://yt3.ggpht.com/9rJFaLKur-UDrYil-QVJ5VVmg6fDl4wtW_aIiGjYpwzt0f6OWGXQM5WRIKZAq0mxjyREHYqnpto=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 1.65,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "BEYONDoriginals",
       "url": "https://www.youtube.com/channel/UCxtzhKGdXeMv3stgMbYcyDg",
       "firstSeenAt": "2026-09-30T12:31:15.362Z"
+    },
+    {
+      "id": "channel:UCwSIJCMWZC5GDM59wj7pMsg",
+      "type": "channel",
+      "label": "Amazon Prime Video UK & IE",
+      "url": "https://www.youtube.com/channel/UCwSIJCMWZC5GDM59wj7pMsg",
+      "firstSeenAt": "2026-10-13T14:08:13.485Z"
     }
   ],
   "recentItems": []

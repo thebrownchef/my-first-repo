@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T15:20:03.695Z",
+  "generatedAt": "2026-10-13T14:09:50.199Z",
   "id": "UCt_t6FwNsqr3WWoL6dFqG9w",
   "title": "BrainCraft",
   "thumb": "https://yt3.ggpht.com/Jjl8__22NuuwUkVgtbEG1aisqMbrr1PJKz84v9t8hra5wplPxhMcQZipZJcx3BB2FXuXNYprdw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "SciShow Psych",
       "url": "https://www.youtube.com/channel/UCUdettijNYvLAm4AixZv4RA",
       "firstSeenAt": "2026-09-16T11:29:13.544Z"
+    },
+    {
+      "id": "channel:UCdJ9oJ2GUF8Vmb-G63ldGWg",
+      "type": "channel",
+      "label": "Reactions",
+      "url": "https://www.youtube.com/channel/UCdJ9oJ2GUF8Vmb-G63ldGWg",
+      "firstSeenAt": "2026-10-13T14:08:20.074Z"
+    },
+    {
+      "id": "channel:UCH4BNI0-FOK2dMXoFtViWHw",
+      "type": "channel",
+      "label": "Be Smart",
+      "url": "https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw",
+      "firstSeenAt": "2026-10-13T14:08:20.235Z"
+    },
+    {
+      "id": "channel:UCzR-rom72PHN9Zg7RML9EbA",
+      "type": "channel",
+      "label": "PBS Eons",
+      "url": "https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA",
+      "firstSeenAt": "2026-10-13T14:08:20.423Z"
+    },
+    {
+      "id": "channel:UC7_gcs09iThXybpVgjHZ_7g",
+      "type": "channel",
+      "label": "PBS Space Time",
+      "url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g",
+      "firstSeenAt": "2026-10-13T14:08:20.522Z"
     }
   ],
   "recentItems": []
