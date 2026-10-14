@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCx-KWLTKlB83hDI6UKECtJQ",
   "title": "HBO Max",
   "thumb": "https://yt3.ggpht.com/kYn7K474j78lLU-DZm3IzFMhJIgiEEr4XS-F1d4ODdC08k5PAf2dc-ItGWvDp9YNFfIiIkkvGA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 113.17,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "HBO Max Family",
       "url": "https://www.youtube.com/channel/UCyMHfMKnckbmYHgAqhM5IUw",
       "firstSeenAt": "2026-10-02T12:30:44.546Z"
+    },
+    {
+      "id": "channel:UCgKkNPU2Ib7_TcyAl8M2S-w",
+      "type": "channel",
+      "label": "Warner Bros. Entertainment",
+      "url": "https://www.youtube.com/channel/UCgKkNPU2Ib7_TcyAl8M2S-w",
+      "firstSeenAt": "2026-10-14T11:48:46.662Z"
     }
   ],
   "recentItems": []

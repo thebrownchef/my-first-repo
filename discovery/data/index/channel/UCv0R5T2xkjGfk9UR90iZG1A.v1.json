@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "id": "UCv0R5T2xkjGfk9UR90iZG1A",
+  "title": "Turner Classic Movies",
+  "thumb": "https://yt3.ggpht.com/AWot40-Rq48CWqxJtV6erf6brpeU1eKftuKRrl3KVCQs0Wg4W1ztAqzwZ2GY8UPWNlTXYBt5Yw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.22,
+  "sources": [
+    {
+      "id": "channel:UC1DZpQ2DDExws9Zvl7UcSkg",
+      "type": "channel",
+      "label": "TNT",
+      "url": "https://www.youtube.com/channel/UC1DZpQ2DDExws9Zvl7UcSkg",
+      "firstSeenAt": "2026-09-09T11:20:01.094Z"
+    },
+    {
+      "id": "channel:UCU0rIMU3k_AsVA8d6N1B03w",
+      "type": "channel",
+      "label": "Warner Bros. Classics",
+      "url": "https://www.youtube.com/channel/UCU0rIMU3k_AsVA8d6N1B03w",
+      "firstSeenAt": "2026-10-14T11:48:46.854Z"
+    }
+  ],
+  "recentItems": []
+}

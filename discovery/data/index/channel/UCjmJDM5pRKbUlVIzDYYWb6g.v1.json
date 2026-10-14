@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCjmJDM5pRKbUlVIzDYYWb6g",
   "title": "Warner Bros.",
   "thumb": "https://yt3.ggpht.com/yVXKYrUI8hckCQdyUuOWf5ZJk2keT8WO3TV2b8RYk3RKgjz5Rh8v1UsH7Yz2j_hbDQRk32rZ_rM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.53,
   "sources": [
@@ -50,6 +50,41 @@
       "label": "HBO Max Family",
       "url": "https://www.youtube.com/channel/UCyMHfMKnckbmYHgAqhM5IUw",
       "firstSeenAt": "2026-10-02T12:30:44.546Z"
+    },
+    {
+      "id": "channel:UCgKkNPU2Ib7_TcyAl8M2S-w",
+      "type": "channel",
+      "label": "Warner Bros. Entertainment",
+      "url": "https://www.youtube.com/channel/UCgKkNPU2Ib7_TcyAl8M2S-w",
+      "firstSeenAt": "2026-10-14T11:48:46.660Z"
+    },
+    {
+      "id": "channel:UC5V8MdQsT_gLlw8rTyf7jVQ",
+      "type": "channel",
+      "label": "ClipZone: Comedy Callbacks",
+      "url": "https://www.youtube.com/channel/UC5V8MdQsT_gLlw8rTyf7jVQ",
+      "firstSeenAt": "2026-10-14T11:48:46.726Z"
+    },
+    {
+      "id": "channel:UCU0rIMU3k_AsVA8d6N1B03w",
+      "type": "channel",
+      "label": "Warner Bros. Classics",
+      "url": "https://www.youtube.com/channel/UCU0rIMU3k_AsVA8d6N1B03w",
+      "firstSeenAt": "2026-10-14T11:48:46.854Z"
+    },
+    {
+      "id": "channel:UCIiywCyB-X7AQgI0WnU0aLA",
+      "type": "channel",
+      "label": "ClipZone: Horrorscapes",
+      "url": "https://www.youtube.com/channel/UCIiywCyB-X7AQgI0WnU0aLA",
+      "firstSeenAt": "2026-10-14T11:48:46.930Z"
+    },
+    {
+      "id": "channel:UCQt7Z-GE0wF8AzFNvQEqjvg",
+      "type": "channel",
+      "label": "ClipZone: Heroes & Villains",
+      "url": "https://www.youtube.com/channel/UCQt7Z-GE0wF8AzFNvQEqjvg",
+      "firstSeenAt": "2026-10-14T11:48:47.075Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCTTBHIoKPIWLAxxTNTiQ9vA",
   "title": "XL Recordings",
   "thumb": "https://yt3.ggpht.com/gP8D0w3gzgFRcn_K7SzINas-mplHf_xSv-hntr68ZnzLqCfwNMkMklRbVOnfTfvMltrPuNZ22g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Second, Minute or Hour",
       "url": "https://en.wikipedia.org/wiki/Second%2C_Minute_or_Hour",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "channel:UCXWY-FG0IvCKrj_lqQdGLOQ",
+      "type": "channel",
+      "label": "Beggars Banquet Records",
+      "url": "https://www.youtube.com/channel/UCXWY-FG0IvCKrj_lqQdGLOQ",
+      "firstSeenAt": "2026-10-14T11:48:44.899Z"
     }
   ],
   "recentItems": []

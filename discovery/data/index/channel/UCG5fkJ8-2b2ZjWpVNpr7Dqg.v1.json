@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCG5fkJ8-2b2ZjWpVNpr7Dqg",
   "title": "whitneyhoustonVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mMpYur_Ra_AHgeLM2wRAVbky1_IXRLAE05Mm0Ee_ZtnXg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "The Greatest Love of All",
       "url": "https://en.wikipedia.org/wiki/The_Greatest_Love_of_All",
       "firstSeenAt": "2026-10-12T15:18:28.761Z"
+    },
+    {
+      "id": "wiki:Fine (Whitney Houston song)",
+      "type": "wikipedia",
+      "label": "Fine (Whitney Houston song)",
+      "url": "https://en.wikipedia.org/wiki/Fine_(Whitney_Houston_song)",
+      "firstSeenAt": "2026-10-14T11:48:18.583Z"
     }
   ],
   "recentItems": []

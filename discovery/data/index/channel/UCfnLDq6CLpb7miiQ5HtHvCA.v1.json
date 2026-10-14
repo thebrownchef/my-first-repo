@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCfnLDq6CLpb7miiQ5HtHvCA",
   "title": "PalomaFaithVEVO",
   "thumb": "https://yt3.ggpht.com/82_nCHgW71fGZxkGaXrnup7w1Nuh3_FqmbrDJWorWfwjv8mfUozwSDq6ghGqEKUY9qZVmjf9EdA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Upside Down (Paloma Faith song)",
       "url": "https://en.wikipedia.org/wiki/Upside_Down_(Paloma_Faith_song)",
       "firstSeenAt": "2026-10-13T14:07:54.217Z"
+    },
+    {
+      "id": "wiki:30 Minute Love Affair",
+      "type": "wikipedia",
+      "label": "30 Minute Love Affair",
+      "url": "https://en.wikipedia.org/wiki/30_Minute_Love_Affair",
+      "firstSeenAt": "2026-10-14T11:48:18.583Z"
     }
   ],
   "recentItems": []

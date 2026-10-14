@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCz8FPpkJMwayyReSDLTX8IQ",
   "title": "Nickelback",
   "thumb": "https://yt3.ggpht.com/kjPoMfjh6uz6WDwOLFU51DrnKTPUny5g_lrbsdRpFUl92NMinj1_N_vC-U5wB1lTFba0w1oMAvc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "When We Stand Together",
       "url": "https://en.wikipedia.org/wiki/When_We_Stand_Together",
       "firstSeenAt": "2026-10-13T14:07:55.127Z"
+    },
+    {
+      "id": "wiki:Photograph (Nickelback song)",
+      "type": "wikipedia",
+      "label": "Photograph (Nickelback song)",
+      "url": "https://en.wikipedia.org/wiki/Photograph_(Nickelback_song)",
+      "firstSeenAt": "2026-10-14T11:48:17.920Z"
     }
   ],
   "recentItems": []

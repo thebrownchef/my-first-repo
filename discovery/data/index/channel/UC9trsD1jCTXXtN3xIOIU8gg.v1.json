@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UC9trsD1jCTXXtN3xIOIU8gg",
   "title": "WB Kids",
   "thumb": "https://yt3.ggpht.com/R2KYxsEnGbM3nEp_VzD0dA8zkn_APB6Kil0TOCWQpNR5RcfcSOt9DYnT0MgbckxWfeNEpj3CvA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.71,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "HBO Max Family",
       "url": "https://www.youtube.com/channel/UCyMHfMKnckbmYHgAqhM5IUw",
       "firstSeenAt": "2026-10-02T12:30:44.546Z"
+    },
+    {
+      "id": "channel:UCgKkNPU2Ib7_TcyAl8M2S-w",
+      "type": "channel",
+      "label": "Warner Bros. Entertainment",
+      "url": "https://www.youtube.com/channel/UCgKkNPU2Ib7_TcyAl8M2S-w",
+      "firstSeenAt": "2026-10-14T11:48:46.661Z"
     }
   ],
   "recentItems": []

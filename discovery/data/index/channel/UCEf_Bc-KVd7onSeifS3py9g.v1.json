@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCEf_Bc-KVd7onSeifS3py9g",
   "title": "SMTOWN",
   "thumb": "https://yt3.ggpht.com/42gxi39XmaHVEYxeuzdXitmJ_ig7QGPHczWLt2oPLG0g7AzuIWnNhYzSBXxAaQmPiVSM7Fi6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -134,6 +134,20 @@
       "label": "One More Chance (The Grace song)",
       "url": "https://en.wikipedia.org/wiki/One_More_Chance_(The_Grace_song)",
       "firstSeenAt": "2026-10-13T14:07:54.217Z"
+    },
+    {
+      "id": "wiki:Sexy, Free & Single (song)",
+      "type": "wikipedia",
+      "label": "Sexy, Free & Single (song)",
+      "url": "https://en.wikipedia.org/wiki/Sexy%2C_Free_%26_Single_(song)",
+      "firstSeenAt": "2026-10-14T11:48:17.920Z"
+    },
+    {
+      "id": "wiki:Spy (Super Junior song)",
+      "type": "wikipedia",
+      "label": "Spy (Super Junior song)",
+      "url": "https://en.wikipedia.org/wiki/Spy_(Super_Junior_song)",
+      "firstSeenAt": "2026-10-14T11:48:18.583Z"
     }
   ],
   "recentItems": [

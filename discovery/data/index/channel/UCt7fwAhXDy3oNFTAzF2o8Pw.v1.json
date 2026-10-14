@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCt7fwAhXDy3oNFTAzF2o8Pw",
   "title": "theneedledrop",
   "thumb": "https://yt3.ggpht.com/p60m-2Z8bPTuhMaU4yfsOIpTz3NfrUbrcUx7gUko3vvoUU-MTB3Ra_PUEtPPg0D7dnKwjQB-Fw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.82,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hickey (album)",
       "url": "https://en.wikipedia.org/wiki/Hickey_(album)",
       "firstSeenAt": "2026-09-06T10:53:22.168Z"
+    },
+    {
+      "id": "channel:UC2o1iAy4jB1HmDqJUZwjTeA",
+      "type": "channel",
+      "label": "SeagreenSerenade",
+      "url": "https://www.youtube.com/channel/UC2o1iAy4jB1HmDqJUZwjTeA",
+      "firstSeenAt": "2026-10-14T11:48:44.518Z"
     }
   ],
   "recentItems": []

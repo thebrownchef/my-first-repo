@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCsOcrfhLz6EHQj8EiZPuS_w",
   "title": "Channel 10",
   "thumb": "https://yt3.ggpht.com/cVMClwtkH_b7TNm7oWlmU6yfdgOe4ZMe-BotjHZizkP6lMyeCd9xgZwYk9eakh30hwykasefA2Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 4.22,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "I'm A Celebrity Get Me Out Of Here!",
       "url": "https://www.youtube.com/channel/UCWssVARcq2TiH3WJRFhx5wA",
       "firstSeenAt": "2026-09-19T10:55:47.306Z"
+    },
+    {
+      "id": "channel:UCb3yrc1Szf5kzIXKlEVo30A",
+      "type": "channel",
+      "label": "TENVideoHits",
+      "url": "https://www.youtube.com/channel/UCb3yrc1Szf5kzIXKlEVo30A",
+      "firstSeenAt": "2026-10-14T11:48:29.423Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCqC_GY2ZiENFz2pwL0cSfAw",
   "title": "Green Day",
   "thumb": "https://yt3.ggpht.com/NEt7WZ2Uua_dd2h_TZZzApAn87beUhIUapBH15lMc1PblAsTz2AzXEIfsWUktgXzPKrOFDL2Vg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "21 Guns (song)",
       "url": "https://en.wikipedia.org/wiki/21_Guns_(song)",
       "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "wiki:Oh Love",
+      "type": "wikipedia",
+      "label": "Oh Love",
+      "url": "https://en.wikipedia.org/wiki/Oh_Love",
+      "firstSeenAt": "2026-10-14T11:48:17.150Z"
     }
   ],
   "recentItems": []

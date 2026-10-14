@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UC64A-bbH15b5kN5A32CErOA",
   "title": "10 News",
   "thumb": "https://yt3.ggpht.com/V_c8P14bBWl6PwLw5ZRP3Fk93ZRTozUpUzkReWLSRRj1w4iUfFUj-_77YArnGdF4C35xaY-9zQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 5.07,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Studio 10",
       "url": "https://www.youtube.com/channel/UCLCUbvRrQnApZldY6CTquTA",
       "firstSeenAt": "2026-09-19T10:55:47.192Z"
+    },
+    {
+      "id": "channel:UCb3yrc1Szf5kzIXKlEVo30A",
+      "type": "channel",
+      "label": "TENVideoHits",
+      "url": "https://www.youtube.com/channel/UCb3yrc1Szf5kzIXKlEVo30A",
+      "firstSeenAt": "2026-10-14T11:48:29.424Z"
     }
   ],
   "recentItems": []

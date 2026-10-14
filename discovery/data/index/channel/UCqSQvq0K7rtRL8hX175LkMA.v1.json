@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCqSQvq0K7rtRL8hX175LkMA",
   "title": "PearljamVEVO",
   "thumb": "https://yt3.ggpht.com/XaYTV-4MB-3jmOdRiPh-lgDNam8C6WnFafLSuNmn_O0G46SwTKJEvNl0F1wZ3vtUcSR1PdPOVg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Jeremy (song)",
       "url": "https://en.wikipedia.org/wiki/Jeremy_(song)",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:Do the Evolution",
+      "type": "wikipedia",
+      "label": "Do the Evolution",
+      "url": "https://en.wikipedia.org/wiki/Do_the_Evolution",
+      "firstSeenAt": "2026-10-14T11:48:17.150Z"
     }
   ],
   "recentItems": []

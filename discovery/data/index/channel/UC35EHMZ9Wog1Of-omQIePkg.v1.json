@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "id": "UC35EHMZ9Wog1Of-omQIePkg",
+  "title": "tv100 Digital",
+  "thumb": "https://yt3.ggpht.com/BFrZKmmaHIXtRPdSWPbW8Dy8e-KCiKEwZZkO8jrnmonv7O_Ez7vCtYuOyX5W94TQMaszSYFLeAI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.17,
+  "sources": [
+    {
+      "id": "channel:UCndsdUW_oPLqpQJY9J8oIRg",
+      "type": "channel",
+      "label": "TV100",
+      "url": "https://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg",
+      "firstSeenAt": "2026-09-06T10:53:37.249Z"
+    },
+    {
+      "id": "channel:UCS0Uu8WRagWU11Sjd40JIqA",
+      "type": "channel",
+      "label": "Kale Arkası",
+      "url": "https://www.youtube.com/channel/UCS0Uu8WRagWU11Sjd40JIqA",
+      "firstSeenAt": "2026-10-14T11:48:45.516Z"
+    }
+  ],
+  "recentItems": []
+}

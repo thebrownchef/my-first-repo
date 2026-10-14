@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UC6wE1QldDPmYWwGyuudy3Tg",
   "title": "Zee Music Gujarati",
   "thumb": "https://yt3.ggpht.com/dJUIbiD78Vc1PU3CialaYaTRo4SPxO4DmbMJQ7WMnok0E1bnclA6uy5-Pjm7mqo33kotDGYarA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.88,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Zee Music Bhojpuri",
       "url": "https://www.youtube.com/channel/UC3mMTXPmOZS89QtTbg7ckog",
       "firstSeenAt": "2026-09-20T11:20:18.380Z"
+    },
+    {
+      "id": "channel:UCwEkcBLtPMy2i-sGfT1p41A",
+      "type": "channel",
+      "label": "India Shayari Project",
+      "url": "https://www.youtube.com/channel/UCwEkcBLtPMy2i-sGfT1p41A",
+      "firstSeenAt": "2026-10-14T11:48:38.381Z"
     }
   ],
   "recentItems": []

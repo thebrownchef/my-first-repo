@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCYarz4T8PmArBY3f5vsa7LA",
   "title": "TheDappyVEVO",
   "thumb": "https://yt3.ggpht.com/ltFM1JdPSvyRoDLo0vHfi8dEcNdC-uXISMzB1nS19hIKh--PgNBbWSEqimZqbfG56tPUK-M__w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "N-Dubz Offiical",
       "url": "https://www.youtube.com/channel/UCe_sa3BqP-75yNKAbtt8etQ",
       "firstSeenAt": "2026-10-09T13:13:14.791Z"
+    },
+    {
+      "id": "wiki:Rockstar (Dappy song)",
+      "type": "wikipedia",
+      "label": "Rockstar (Dappy song)",
+      "url": "https://en.wikipedia.org/wiki/Rockstar_(Dappy_song)",
+      "firstSeenAt": "2026-10-14T11:48:17.150Z"
     }
   ],
   "recentItems": []

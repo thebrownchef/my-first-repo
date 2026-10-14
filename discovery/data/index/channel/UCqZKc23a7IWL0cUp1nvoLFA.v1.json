@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UCqZKc23a7IWL0cUp1nvoLFA",
   "title": "SteveAATW",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leSGlAt22L_Rrcwgy8So3KzG_14LSC6lvKR97-WtquIAs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Barbra Streisand (song)",
       "url": "https://en.wikipedia.org/wiki/Barbra_Streisand_(song)",
       "firstSeenAt": "2026-10-10T12:28:22.161Z"
+    },
+    {
+      "id": "wiki:Take You There (Jodie Connor song)",
+      "type": "wikipedia",
+      "label": "Take You There (Jodie Connor song)",
+      "url": "https://en.wikipedia.org/wiki/Take_You_There_(Jodie_Connor_song)",
+      "firstSeenAt": "2026-10-14T11:48:17.920Z"
     }
   ],
   "recentItems": []

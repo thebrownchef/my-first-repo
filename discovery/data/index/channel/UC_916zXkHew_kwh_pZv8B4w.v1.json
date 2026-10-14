@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T14:09:50.199Z",
+  "generatedAt": "2026-10-14T11:49:54.528Z",
   "id": "UC_916zXkHew_kwh_pZv8B4w",
   "title": "Universal Records Philippines",
   "thumb": "https://yt3.ggpht.com/kUs7_oh4QdtUEvdn11VMOFnwOpSzZmY9jUs9YMMkuigcKxTsII4z4ZwnOskBrPgz99EGji55TDU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.9,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Forever Young (EP)",
       "url": "https://en.wikipedia.org/wiki/Forever_Young_(EP)",
       "firstSeenAt": "2026-10-13T14:07:55.127Z"
+    },
+    {
+      "id": "wiki:Sirena (song)",
+      "type": "wikipedia",
+      "label": "Sirena (song)",
+      "url": "https://en.wikipedia.org/wiki/Sirena_(song)",
+      "firstSeenAt": "2026-10-14T11:48:18.583Z"
     }
   ],
   "recentItems": []
