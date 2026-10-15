@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCX6b17PVsYBQ0ip5gyeme-Q",
   "title": "CrashCourse",
   "thumb": "https://yt3.ggpht.com/E454zI2spNFZsN_wgJPTHjMsqs1fFqb_qp4PYanWuyaXQJp98wKEV1kIQYlR57epaweO5P8v=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "PBS Origins ",
       "url": "https://www.youtube.com/channel/UCiB8h9jD2Mlxx96ZFnGDSJw",
       "firstSeenAt": "2026-10-13T14:08:20.783Z"
+    },
+    {
+      "id": "channel:UCgyeJxD05YnoDquRMNBfBqw",
+      "type": "channel",
+      "label": "PBS",
+      "url": "https://www.youtube.com/channel/UCgyeJxD05YnoDquRMNBfBqw",
+      "firstSeenAt": "2026-10-15T11:25:19.312Z"
     }
   ],
   "recentItems": []

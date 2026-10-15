@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "id": "UClESv5hi1S52cmNtzQUj1BQ",
+  "title": "Penguin Platform",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kzg275QFoGNJP5706L-0IiZ9j6csU8NuBWswqA8eYD02c=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.08,
+  "sources": [
+    {
+      "id": "channel:UChTmMMt5nuRBEdmCItFHmAw",
+      "type": "channel",
+      "label": "Penguin Books UK",
+      "url": "https://www.youtube.com/channel/UChTmMMt5nuRBEdmCItFHmAw",
+      "firstSeenAt": "2026-09-07T12:28:22.228Z"
+    },
+    {
+      "id": "channel:UCSgdtV5-OMx8lCtnnrMMXYg",
+      "type": "channel",
+      "label": "Penguin Random House UK",
+      "url": "https://www.youtube.com/channel/UCSgdtV5-OMx8lCtnnrMMXYg",
+      "firstSeenAt": "2026-10-15T11:25:23.887Z"
+    }
+  ],
+  "recentItems": []
+}

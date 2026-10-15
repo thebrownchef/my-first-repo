@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC7_gcs09iThXybpVgjHZ_7g",
   "title": "PBS Space Time",
   "thumb": "https://yt3.ggpht.com/A7npG37dOJQffCnkUAyHI8wxnYhWA2q9SQY58AJ_bZUgKv30RtKD9sz5FQs4fs9-xWCg9S0P5jw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "PBS Eons",
       "url": "https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA",
       "firstSeenAt": "2026-10-13T14:08:20.421Z"
+    },
+    {
+      "id": "channel:UCgyeJxD05YnoDquRMNBfBqw",
+      "type": "channel",
+      "label": "PBS",
+      "url": "https://www.youtube.com/channel/UCgyeJxD05YnoDquRMNBfBqw",
+      "firstSeenAt": "2026-10-15T11:25:19.314Z"
     }
   ],
   "recentItems": []

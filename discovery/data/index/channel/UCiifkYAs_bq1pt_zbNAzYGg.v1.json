@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCiifkYAs_bq1pt_zbNAzYGg",
   "title": "DC",
   "thumb": "https://yt3.ggpht.com/GLBLiS_Dd64NNpz32lxypzrSGWoZLBhj6phKhi_zJG-cO1EsucmEBKFWvdqNGwJJDehGFxKR4A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Warner Bros. Entertainment",
       "url": "https://www.youtube.com/channel/UCgKkNPU2Ib7_TcyAl8M2S-w",
       "firstSeenAt": "2026-10-14T11:48:46.660Z"
+    },
+    {
+      "id": "channel:UCZ0o1IeuSSceEixZbSATWtw",
+      "type": "channel",
+      "label": "Warner Bros. France",
+      "url": "https://www.youtube.com/channel/UCZ0o1IeuSSceEixZbSATWtw",
+      "firstSeenAt": "2026-10-15T11:25:24.012Z"
     }
   ],
   "recentItems": []

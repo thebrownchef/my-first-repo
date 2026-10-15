@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "id": "UCIUB2qLdKSWYmpANz8WCnCA",
+  "title": "Puffin Books",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mfmoIQSzOhmf6pgzgUZqzNCI7fYK4mn4p2R4_ewK5K_g=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.07,
+  "sources": [
+    {
+      "id": "channel:UChTmMMt5nuRBEdmCItFHmAw",
+      "type": "channel",
+      "label": "Penguin Books UK",
+      "url": "https://www.youtube.com/channel/UChTmMMt5nuRBEdmCItFHmAw",
+      "firstSeenAt": "2026-09-07T12:28:22.228Z"
+    },
+    {
+      "id": "channel:UCSgdtV5-OMx8lCtnnrMMXYg",
+      "type": "channel",
+      "label": "Penguin Random House UK",
+      "url": "https://www.youtube.com/channel/UCSgdtV5-OMx8lCtnnrMMXYg",
+      "firstSeenAt": "2026-10-15T11:25:23.886Z"
+    }
+  ],
+  "recentItems": []
+}

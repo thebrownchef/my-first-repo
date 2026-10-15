@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCGWpjrgMylyGVRIKQdazrPA",
   "title": "Warner Music Group",
   "thumb": "https://yt3.ggpht.com/1OBJ0pUHIrcm4QslhHeeBSSvLpuQ-ab48hLQbwyn7bNkGKBXVhzdElNQZQagIIJX81SzUF3HkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "워너뮤직코리아 (Warner Music Korea)",
       "url": "https://www.youtube.com/channel/UCLvhr40dgoBcV4XBlOhauNw",
       "firstSeenAt": "2026-10-11T12:45:51.572Z"
+    },
+    {
+      "id": "channel:UC1SeYJBhNX48ksKnO9JzAMA",
+      "type": "channel",
+      "label": "Alejandro Sanz Catálogo",
+      "url": "https://www.youtube.com/channel/UC1SeYJBhNX48ksKnO9JzAMA",
+      "firstSeenAt": "2026-10-15T11:25:04.847Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCx-KWLTKlB83hDI6UKECtJQ",
   "title": "HBO Max",
   "thumb": "https://yt3.ggpht.com/kYn7K474j78lLU-DZm3IzFMhJIgiEEr4XS-F1d4ODdC08k5PAf2dc-ItGWvDp9YNFfIiIkkvGA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 113.17,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Warner Bros. Entertainment",
       "url": "https://www.youtube.com/channel/UCgKkNPU2Ib7_TcyAl8M2S-w",
       "firstSeenAt": "2026-10-14T11:48:46.662Z"
+    },
+    {
+      "id": "channel:UCQzdMyuz0Lf4zo4uGcEujFw",
+      "type": "channel",
+      "label": "GameofThrones",
+      "url": "https://www.youtube.com/channel/UCQzdMyuz0Lf4zo4uGcEujFw",
+      "firstSeenAt": "2026-10-15T11:25:13.754Z"
+    },
+    {
+      "id": "channel:UCGkQCAeRjyP9BpNwVFMaJaw",
+      "type": "channel",
+      "label": "WaterTower Music",
+      "url": "https://www.youtube.com/channel/UCGkQCAeRjyP9BpNwVFMaJaw",
+      "firstSeenAt": "2026-10-15T11:25:24.584Z"
     }
   ],
   "recentItems": []

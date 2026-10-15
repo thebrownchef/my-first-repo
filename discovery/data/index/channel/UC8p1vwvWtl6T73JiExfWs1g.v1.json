@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC8p1vwvWtl6T73JiExfWs1g",
   "title": "CBS News",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niBFv49gSx4rr1afMZU_Pv7SeuPKO2SMHvv0Ar7OKxM4o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 21.24,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "CBS",
       "url": "https://www.youtube.com/channel/UClzCn8DxRSCuMFv_WfzkcrQ",
       "firstSeenAt": "2026-09-29T12:49:35.716Z"
+    },
+    {
+      "id": "channel:UC1dVGItBqV4w-4xQHoX1UDg",
+      "type": "channel",
+      "label": "CBS 17",
+      "url": "https://www.youtube.com/channel/UC1dVGItBqV4w-4xQHoX1UDg",
+      "firstSeenAt": "2026-10-15T11:25:22.813Z"
     }
   ],
   "recentItems": []

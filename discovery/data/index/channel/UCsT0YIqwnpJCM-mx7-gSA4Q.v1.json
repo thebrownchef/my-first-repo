@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
   "title": "TEDx Talks",
   "thumb": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 42.9,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Portland Youth Philharmonic",
       "url": "https://en.wikipedia.org/wiki/Portland_Youth_Philharmonic",
       "firstSeenAt": "2026-10-12T15:18:28.761Z"
+    },
+    {
+      "id": "wiki:The Great Stagnation",
+      "type": "wikipedia",
+      "label": "The Great Stagnation",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Stagnation",
+      "firstSeenAt": "2026-10-15T11:24:51.738Z"
     }
   ],
   "recentItems": []

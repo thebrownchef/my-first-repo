@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCf5CjDJvsFvtVIhkfmKAwAA",
   "title": "Amazon MGM Studios",
   "thumb": "https://yt3.ggpht.com/gbgXJkk-7J69aBTaDN4wHvm9cqe6TuI77ZtnQfXlKexL17Kn2AhomvckJgHwl1bo86R8j72A0A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.33,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Prime Video",
       "url": "https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ",
       "firstSeenAt": "2026-09-01T11:37:35.765Z"
+    },
+    {
+      "id": "channel:UC5w5rFxcZ4UL_IJSOFWo9OQ",
+      "type": "channel",
+      "label": "Paternity Court",
+      "url": "https://www.youtube.com/channel/UC5w5rFxcZ4UL_IJSOFWo9OQ",
+      "firstSeenAt": "2026-10-15T11:25:18.959Z"
     }
   ],
   "recentItems": []

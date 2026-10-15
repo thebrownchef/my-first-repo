@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCyd8nl1opqfEVwJer32vURA",
   "title": "Kylie Minogue",
   "thumb": "https://yt3.ggpht.com/lzhOaieFxpduBtl1rKZr-kd9E0LS1Sx49m3HqJFlU_NE5ZwpLgLTjZM7MvPLvviPkDzGLgG7Pt4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Better than Today",
       "url": "https://en.wikipedia.org/wiki/Better_than_Today",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Flower (Kylie Minogue song)",
+      "type": "wikipedia",
+      "label": "Flower (Kylie Minogue song)",
+      "url": "https://en.wikipedia.org/wiki/Flower_(Kylie_Minogue_song)",
+      "firstSeenAt": "2026-10-15T11:24:53.710Z"
     }
   ],
   "recentItems": []

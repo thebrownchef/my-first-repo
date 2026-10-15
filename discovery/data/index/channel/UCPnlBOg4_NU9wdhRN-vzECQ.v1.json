@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "id": "UCPnlBOg4_NU9wdhRN-vzECQ",
+  "title": "trueblood",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mej61KyXv2qaWXXGoB0JgAvT2nN3FwoZvOLoaUdM-9nw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "channel:UCQzdMyuz0Lf4zo4uGcEujFw",
+      "type": "channel",
+      "label": "GameofThrones",
+      "url": "https://www.youtube.com/channel/UCQzdMyuz0Lf4zo4uGcEujFw",
+      "firstSeenAt": "2026-10-15T11:25:13.754Z"
+    },
+    {
+      "id": "channel:UCy6kyFxaMqGtpE3pQTflK8A",
+      "type": "channel",
+      "label": "Real Time with Bill Maher",
+      "url": "https://www.youtube.com/channel/UCy6kyFxaMqGtpE3pQTflK8A",
+      "firstSeenAt": "2026-10-15T11:25:14.553Z"
+    },
+    {
+      "id": "channel:UCZ0o1IeuSSceEixZbSATWtw",
+      "type": "channel",
+      "label": "Warner Bros. France",
+      "url": "https://www.youtube.com/channel/UCZ0o1IeuSSceEixZbSATWtw",
+      "firstSeenAt": "2026-10-15T11:25:24.014Z"
+    }
+  ],
+  "recentItems": []
+}

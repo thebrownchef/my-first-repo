@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCgwv23FVv3lqh567yagXfNg",
   "title": "DisneyMusicVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvNHhhb5UzdKLCer4xytxAB8bki4wJ5Kxr7oRanaGZsbU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.57,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "TTYLXOX",
       "url": "https://en.wikipedia.org/wiki/TTYLXOX",
       "firstSeenAt": "2026-10-11T12:45:39.931Z"
+    },
+    {
+      "id": "wiki:Something to Dance For",
+      "type": "wikipedia",
+      "label": "Something to Dance For",
+      "url": "https://en.wikipedia.org/wiki/Something_to_Dance_For",
+      "firstSeenAt": "2026-10-15T11:24:53.710Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "id": "UCRH49DSFyl8oPwsiHyZ9O0g",
+  "title": "DSNY Newscast",
+  "thumb": "https://yt3.ggpht.com/TSHo7zUcC4ZuvM8sCyuqQjMS0LAIJezQl1aNvE71JrjimuwHD8euHF3xRaJxKIlPuGmE8dl29w=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.16,
+  "sources": [
+    {
+      "id": "channel:UCBBG8oFhRp_OxXfmvj-5P7Q",
+      "type": "channel",
+      "label": "Theme Park 101",
+      "url": "https://www.youtube.com/channel/UCBBG8oFhRp_OxXfmvj-5P7Q",
+      "firstSeenAt": "2026-10-15T11:25:20.051Z"
+    },
+    {
+      "id": "channel:UCeqwjbVfwiPVg75sNPZvxmw",
+      "type": "channel",
+      "label": "Disney Dan",
+      "url": "https://www.youtube.com/channel/UCeqwjbVfwiPVg75sNPZvxmw",
+      "firstSeenAt": "2026-10-15T11:25:21.448Z"
+    }
+  ],
+  "recentItems": []
+}

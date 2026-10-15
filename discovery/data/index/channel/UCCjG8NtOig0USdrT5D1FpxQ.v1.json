@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCCjG8NtOig0USdrT5D1FpxQ",
   "title": "NewsNation",
   "thumb": "https://yt3.ggpht.com/tWgKmMIT4YwdmT0z5S1MN2bIvoFN8_RvIsAWZbLwQVIpq21RO-_Y4sDzVdpj9l6wWRRz8YeUSg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 37.98,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "List of Republicans who opposed the Donald Trump 2024 presidential campaign",
       "url": "https://en.wikipedia.org/wiki/List_of_Republicans_who_opposed_the_Donald_Trump_2024_presidential_campaign",
       "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    },
+    {
+      "id": "channel:UC1dVGItBqV4w-4xQHoX1UDg",
+      "type": "channel",
+      "label": "CBS 17",
+      "url": "https://www.youtube.com/channel/UC1dVGItBqV4w-4xQHoX1UDg",
+      "firstSeenAt": "2026-10-15T11:25:22.813Z"
     }
   ],
   "recentItems": []

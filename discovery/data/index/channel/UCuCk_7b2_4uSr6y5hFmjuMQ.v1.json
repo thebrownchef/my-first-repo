@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCuCk_7b2_4uSr6y5hFmjuMQ",
   "title": "CBR",
   "thumb": "https://yt3.ggpht.com/3fI0gdpp086rdVemgJUR0LjtvznBL_4dFfmMWmiDvLU4L1riBqvkrECSm4N-rR5eR9CVOZwbIA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.88,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.745Z"
+    },
+    {
+      "id": "channel:UC2iUwfYi_1FCGGqhOUNx-iA",
+      "type": "channel",
+      "label": "ScreenRant",
+      "url": "https://www.youtube.com/channel/UC2iUwfYi_1FCGGqhOUNx-iA",
+      "firstSeenAt": "2026-10-15T11:25:16.649Z"
     }
   ],
   "recentItems": []

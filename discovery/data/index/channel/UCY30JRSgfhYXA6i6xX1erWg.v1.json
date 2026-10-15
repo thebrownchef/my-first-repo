@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCY30JRSgfhYXA6i6xX1erWg",
   "title": "Smosh",
   "thumb": "https://yt3.ggpht.com/7WiYNRhekvu81d3UeA1LUmuUmpkienqw-Kfsh7tvCEqWARB6ozpqs4XhZ5w-RdPGcaopLK7KYw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Smosh Alike",
       "url": "https://www.youtube.com/channel/UCPJHQ5_DLtxZ1gzBvZE99_g",
       "firstSeenAt": "2026-09-13T11:48:35.390Z"
+    },
+    {
+      "id": "channel:UCYJPby9DRCteedh5tfxVbrw",
+      "type": "channel",
+      "label": "Smosh Pit",
+      "url": "https://www.youtube.com/channel/UCYJPby9DRCteedh5tfxVbrw",
+      "firstSeenAt": "2026-10-15T11:25:18.322Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UChvAV3_iEHsbt8bIL1wYc0g",
   "title": "leonalewisVEVO",
   "thumb": "https://yt3.ggpht.com/4A6-ZS8qIKhzPSKCtQp6GZoGigHrQ449vTQm20owkGlqfDO2NdQQqKmzvzIAOo1PTKVafirh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Better in Time",
       "url": "https://en.wikipedia.org/wiki/Better_in_Time",
       "firstSeenAt": "2026-10-12T15:18:29.861Z"
+    },
+    {
+      "id": "wiki:Trouble (Leona Lewis song)",
+      "type": "wikipedia",
+      "label": "Trouble (Leona Lewis song)",
+      "url": "https://en.wikipedia.org/wiki/Trouble_(Leona_Lewis_song)",
+      "firstSeenAt": "2026-10-15T11:24:52.679Z"
     }
   ],
   "recentItems": []

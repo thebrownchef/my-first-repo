@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCoKXb95K5h3sME3c9OCBaeA",
   "title": "モーニング娘。",
   "thumb": "https://yt3.ggpht.com/OVFC8Odl8kyPuIItG7ibp1f95XiBxucD0yUjcFShnXgmKzfQ_Ok0xfl2gYI658VDT_60RyvIJA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Osaka Koi no Uta",
       "url": "https://en.wikipedia.org/wiki/Osaka_Koi_no_Uta",
       "firstSeenAt": "2026-10-14T11:48:17.920Z"
+    },
+    {
+      "id": "wiki:Sakura Oda",
+      "type": "wikipedia",
+      "label": "Sakura Oda",
+      "url": "https://en.wikipedia.org/wiki/Sakura_Oda",
+      "firstSeenAt": "2026-10-15T11:24:53.710Z"
     }
   ],
   "recentItems": []

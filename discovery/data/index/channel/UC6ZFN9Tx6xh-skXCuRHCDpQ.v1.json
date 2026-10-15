@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
   "title": "PBS NewsHour",
   "thumb": "https://yt3.ggpht.com/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 10.25,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.753Z"
+    },
+    {
+      "id": "channel:UCgyeJxD05YnoDquRMNBfBqw",
+      "type": "channel",
+      "label": "PBS",
+      "url": "https://www.youtube.com/channel/UCgyeJxD05YnoDquRMNBfBqw",
+      "firstSeenAt": "2026-10-15T11:25:19.313Z"
     }
   ],
   "recentItems": []

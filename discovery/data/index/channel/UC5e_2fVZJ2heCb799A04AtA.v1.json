@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC5e_2fVZJ2heCb799A04AtA",
   "title": "TrainVEVO",
   "thumb": "https://yt3.ggpht.com/Q6Gu7w-KUfHd_sKohMFnhVXgJOu82fWKQ5DM0S8UPE6pfMxm9Y6gu0nJqYzBCQUkcCO7E8Id=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "If It's Love (Train song)",
       "url": "https://en.wikipedia.org/wiki/If_It's_Love_(Train_song)",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Cab (song)",
+      "type": "wikipedia",
+      "label": "Cab (song)",
+      "url": "https://en.wikipedia.org/wiki/Cab_(song)",
+      "firstSeenAt": "2026-10-15T11:24:52.679Z"
     }
   ],
   "recentItems": []

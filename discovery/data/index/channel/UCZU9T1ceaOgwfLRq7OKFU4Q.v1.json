@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCZU9T1ceaOgwfLRq7OKFU4Q",
   "title": "Linkin Park",
   "thumb": "https://yt3.ggpht.com/OtUf050j6w6iRPUmGgmzblD2saluxUusxiVmo0-SMUnWiNKwR89JL_-xJ6JvIEram8UbPT_zDA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 2,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Waiting for the End",
       "url": "https://en.wikipedia.org/wiki/Waiting_for_the_End",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "channel:UCbOmdGuNF-dUQsIN_BO9JTw",
+      "type": "channel",
+      "label": "WOW TV",
+      "url": "https://www.youtube.com/channel/UCbOmdGuNF-dUQsIN_BO9JTw",
+      "firstSeenAt": "2026-10-15T11:25:06.463Z"
     }
   ],
   "recentItems": []

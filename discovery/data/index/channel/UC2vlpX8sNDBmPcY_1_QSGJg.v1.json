@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC2vlpX8sNDBmPcY_1_QSGJg",
   "title": "tlc uk",
   "thumb": "https://yt3.ggpht.com/qh04jvob2p3Elc04AhmPd8WMkaX1HEqZZQNbIHOug09XyB3KhNxs05d8RKxxSfxdvPOVsI-5Cw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Food Network UK",
       "url": "https://www.youtube.com/channel/UCzYZk4bZ07yJeK7Zd_z37Cw",
       "firstSeenAt": "2026-10-01T13:11:04.841Z"
+    },
+    {
+      "id": "channel:UCqf2gzmKtH3PaAbt-qgFFsw",
+      "type": "channel",
+      "label": "TLC",
+      "url": "https://www.youtube.com/channel/UCqf2gzmKtH3PaAbt-qgFFsw",
+      "firstSeenAt": "2026-10-15T11:25:20.975Z"
     }
   ],
   "recentItems": []

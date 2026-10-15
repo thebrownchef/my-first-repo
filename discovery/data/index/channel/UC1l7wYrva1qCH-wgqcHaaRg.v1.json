@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC1l7wYrva1qCH-wgqcHaaRg",
   "title": "David Guetta",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKPoGkfw44ICB715GPlzNDsmqZdlwewB1QGa9K4vD94o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Memories (David Guetta song)",
       "url": "https://en.wikipedia.org/wiki/Memories_(David_Guetta_song)",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "channel:UCbOmdGuNF-dUQsIN_BO9JTw",
+      "type": "channel",
+      "label": "WOW TV",
+      "url": "https://www.youtube.com/channel/UCbOmdGuNF-dUQsIN_BO9JTw",
+      "firstSeenAt": "2026-10-15T11:25:06.461Z"
     }
   ],
   "recentItems": []

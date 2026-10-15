@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCEuOwB9vSL1oPKGNdONB4ig",
   "title": "Red Hot Chili Peppers",
   "thumb": "https://yt3.ggpht.com/O-ftbUQoWe32VfOlIme0zZes00iU3YnlD9vj1eAzjIP95XR2mllLRumLW-zyDidEHGDF9rwu=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -71,6 +71,20 @@
       "label": "Look Around (song)",
       "url": "https://en.wikipedia.org/wiki/Look_Around_(song)",
       "firstSeenAt": "2026-10-08T13:25:13.275Z"
+    },
+    {
+      "id": "wiki:Brendan's Death Song",
+      "type": "wikipedia",
+      "label": "Brendan's Death Song",
+      "url": "https://en.wikipedia.org/wiki/Brendan's_Death_Song",
+      "firstSeenAt": "2026-10-15T11:24:51.738Z"
+    },
+    {
+      "id": "wiki:Snow (Hey Oh)",
+      "type": "wikipedia",
+      "label": "Snow (Hey Oh)",
+      "url": "https://en.wikipedia.org/wiki/Snow_(Hey_Oh)",
+      "firstSeenAt": "2026-10-15T11:24:52.679Z"
     }
   ],
   "recentItems": []

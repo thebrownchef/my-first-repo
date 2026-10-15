@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC0C-w0YjGpqDXGB8IHb662A",
   "title": "Ed Sheeran",
   "thumb": "https://yt3.ggpht.com/pZQ5JMD4EOI8TcNYAPTzMexe_fC0CKnb_hYlV4rPfIzmDidF239fH1XKmzkeT30XSg7fxNwc_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Absolute Radio",
       "url": "https://www.youtube.com/channel/UCphyqKNSQIbR5ZMUN1J8Gxg",
       "firstSeenAt": "2026-09-04T11:15:34.189Z"
+    },
+    {
+      "id": "channel:UCbOmdGuNF-dUQsIN_BO9JTw",
+      "type": "channel",
+      "label": "WOW TV",
+      "url": "https://www.youtube.com/channel/UCbOmdGuNF-dUQsIN_BO9JTw",
+      "firstSeenAt": "2026-10-15T11:25:06.460Z"
     }
   ],
   "recentItems": []

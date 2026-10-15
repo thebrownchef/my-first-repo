@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "id": "UC5MO283Cnyd-rRYrv0Z6K1Q",
+  "title": "Disney On Broadway",
+  "thumb": "https://yt3.ggpht.com/9AVJM-Xc6MVH8QQ0pm_4Aj-8WCyWroE6g74sex_sSpFGwp0wP9kYjtGEbMnzvJ-3Nk6tWojW0A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.11,
+  "sources": [
+    {
+      "id": "wiki:George Asprey",
+      "type": "wikipedia",
+      "label": "George Asprey",
+      "url": "https://en.wikipedia.org/wiki/George_Asprey",
+      "firstSeenAt": "2026-08-30T11:52:30.517Z"
+    },
+    {
+      "id": "channel:UCfCnkH0vIMVcPUmbgeBdryg",
+      "type": "channel",
+      "label": "Disney On Ice",
+      "url": "https://www.youtube.com/channel/UCfCnkH0vIMVcPUmbgeBdryg",
+      "firstSeenAt": "2026-10-15T11:25:21.260Z"
+    }
+  ],
+  "recentItems": []
+}

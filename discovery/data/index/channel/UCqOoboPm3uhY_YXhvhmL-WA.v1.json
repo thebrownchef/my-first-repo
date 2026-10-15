@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCqOoboPm3uhY_YXhvhmL-WA",
   "title": "Discovery",
   "thumb": "https://yt3.ggpht.com/ehrDmn6oT-04uDOu7Gsq6xx-G1vLpMXH02Jw9K6aTFFxec8_L_jvhk8DMcq1VkIRXOnLU6vbgQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 1.28,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "HBO Max",
       "url": "https://www.youtube.com/channel/UCx-KWLTKlB83hDI6UKECtJQ",
       "firstSeenAt": "2026-10-02T12:30:44.498Z"
+    },
+    {
+      "id": "channel:UCqf2gzmKtH3PaAbt-qgFFsw",
+      "type": "channel",
+      "label": "TLC",
+      "url": "https://www.youtube.com/channel/UCqf2gzmKtH3PaAbt-qgFFsw",
+      "firstSeenAt": "2026-10-15T11:25:20.972Z"
     }
   ],
   "recentItems": []

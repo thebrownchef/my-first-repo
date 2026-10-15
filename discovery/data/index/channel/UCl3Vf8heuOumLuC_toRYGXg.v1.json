@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCl3Vf8heuOumLuC_toRYGXg",
   "title": "ClipZone: Beyond Infinity",
   "thumb": "https://yt3.ggpht.com/aB8wnlBpZLBTkOVBS5poGDhf-0mM5ZTk1UqaQHwzLg05gYESxYjD0hCRNdhFnvUB6agtNFw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
-  "hop": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
     {
@@ -22,6 +22,13 @@
       "label": "ClipZone: High Octane Hits",
       "url": "https://www.youtube.com/channel/UCwXgxPwky2cyU7iNXeV75LA",
       "firstSeenAt": "2026-10-14T11:48:47.305Z"
+    },
+    {
+      "id": "wiki:H+: The Digital Series",
+      "type": "wikipedia",
+      "label": "H+: The Digital Series",
+      "url": "https://en.wikipedia.org/wiki/H%2B%3A_The_Digital_Series",
+      "firstSeenAt": "2026-10-15T11:24:52.058Z"
     }
   ],
   "recentItems": []

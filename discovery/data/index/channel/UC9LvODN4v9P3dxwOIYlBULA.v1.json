@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC9LvODN4v9P3dxwOIYlBULA",
   "title": "Random House Kids",
   "thumb": "https://yt3.ggpht.com/DAQacaITX0Zswxojr1PIIbB3KPs1Kj4O24E2LJH0iSrwppWg5tOBdJZn0Y5CgvhMzp3b_x7ioQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Berenstain Bears",
       "url": "https://www.youtube.com/channel/UCmMXY8ySC2DjyREryV11HBw",
       "firstSeenAt": "2026-09-07T12:28:43.680Z"
+    },
+    {
+      "id": "channel:UC4OnzY1OgwUE0XPAHpqlcvQ",
+      "type": "channel",
+      "label": "Penguin Random House",
+      "url": "https://www.youtube.com/channel/UC4OnzY1OgwUE0XPAHpqlcvQ",
+      "firstSeenAt": "2026-10-15T11:25:23.454Z"
     }
   ],
   "recentItems": []

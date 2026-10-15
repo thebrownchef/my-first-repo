@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "id": "UChTmMMt5nuRBEdmCItFHmAw",
+  "title": "Penguin Books UK",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mj_Zn7pMMj5b3RsN5_Nc5SpQrHS5VB7Hk-g-JdPwwdFUg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.14,
+  "sources": [
+    {
+      "id": "wiki:Malcolm Gaskill",
+      "type": "wikipedia",
+      "label": "Malcolm Gaskill",
+      "url": "https://en.wikipedia.org/wiki/Malcolm_Gaskill",
+      "firstSeenAt": "2026-08-31T13:44:50.068Z"
+    },
+    {
+      "id": "channel:UCSgdtV5-OMx8lCtnnrMMXYg",
+      "type": "channel",
+      "label": "Penguin Random House UK",
+      "url": "https://www.youtube.com/channel/UCSgdtV5-OMx8lCtnnrMMXYg",
+      "firstSeenAt": "2026-10-15T11:25:23.886Z"
+    }
+  ],
+  "recentItems": []
+}

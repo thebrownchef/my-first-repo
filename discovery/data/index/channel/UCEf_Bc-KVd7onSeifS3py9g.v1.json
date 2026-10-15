@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCEf_Bc-KVd7onSeifS3py9g",
   "title": "SMTOWN",
   "thumb": "https://yt3.ggpht.com/42gxi39XmaHVEYxeuzdXitmJ_ig7QGPHczWLt2oPLG0g7AzuIWnNhYzSBXxAaQmPiVSM7Fi6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 23,
+  "distinctSourceCount": 23,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -148,6 +148,27 @@
       "label": "Spy (Super Junior song)",
       "url": "https://en.wikipedia.org/wiki/Spy_(Super_Junior_song)",
       "firstSeenAt": "2026-10-14T11:48:18.583Z"
+    },
+    {
+      "id": "wiki:Mr. Taxi",
+      "type": "wikipedia",
+      "label": "Mr. Taxi",
+      "url": "https://en.wikipedia.org/wiki/Mr._Taxi",
+      "firstSeenAt": "2026-10-15T11:24:52.679Z"
+    },
+    {
+      "id": "wiki:Paparazzi (Girls' Generation song)",
+      "type": "wikipedia",
+      "label": "Paparazzi (Girls' Generation song)",
+      "url": "https://en.wikipedia.org/wiki/Paparazzi_(Girls'_Generation_song)",
+      "firstSeenAt": "2026-10-15T11:24:53.710Z"
+    },
+    {
+      "id": "wiki:Catch Me (TVXQ song)",
+      "type": "wikipedia",
+      "label": "Catch Me (TVXQ song)",
+      "url": "https://en.wikipedia.org/wiki/Catch_Me_(TVXQ_song)",
+      "firstSeenAt": "2026-10-15T11:24:53.710Z"
     }
   ],
   "recentItems": [

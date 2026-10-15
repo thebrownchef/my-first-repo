@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UC2sJZ3e3DYvAwCCsrr34S7w",
   "title": "American Foundation for Equal Rights",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nMHzKcqFqu_AHj2V20sp8xhaOWSiL2iqFmgelCNy1ll88=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "Bob Balaban",
       "url": "https://en.wikipedia.org/wiki/Bob_Balaban",
       "firstSeenAt": "2026-10-10T12:28:21.299Z"
+    },
+    {
+      "id": "wiki:Kevin Bacon",
+      "type": "wikipedia",
+      "label": "Kevin Bacon",
+      "url": "https://en.wikipedia.org/wiki/Kevin_Bacon",
+      "firstSeenAt": "2026-10-15T11:24:53.710Z"
+    },
+    {
+      "id": "wiki:Jamie Lee Curtis",
+      "type": "wikipedia",
+      "label": "Jamie Lee Curtis",
+      "url": "https://en.wikipedia.org/wiki/Jamie_Lee_Curtis",
+      "firstSeenAt": "2026-10-15T11:24:53.710Z"
     }
   ],
   "recentItems": []

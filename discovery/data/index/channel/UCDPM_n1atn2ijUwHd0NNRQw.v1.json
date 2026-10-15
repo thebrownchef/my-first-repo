@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCDPM_n1atn2ijUwHd0NNRQw",
   "title": "Coldplay",
   "thumb": "https://yt3.ggpht.com/vWWn3HO1emNl2iGb08UuY4q_OtqXwUUWJMjMDr6bBPpuCBoWg-dE_Gu-yoMQNrBqb2gMzA3wLQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Princess of China",
       "url": "https://en.wikipedia.org/wiki/Princess_of_China",
       "firstSeenAt": "2026-10-13T14:07:54.217Z"
+    },
+    {
+      "id": "channel:UCbOmdGuNF-dUQsIN_BO9JTw",
+      "type": "channel",
+      "label": "WOW TV",
+      "url": "https://www.youtube.com/channel/UCbOmdGuNF-dUQsIN_BO9JTw",
+      "firstSeenAt": "2026-10-15T11:25:06.462Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:49:54.528Z",
+  "generatedAt": "2026-10-15T11:26:45.420Z",
   "id": "UCVTQuK2CaWaTgSsoNkn5AiQ",
   "title": "HBO",
   "thumb": "https://yt3.ggpht.com/xrXPx6zj9lXDumnGmxo1BMS3NhyOjHaO3io8FXK1yqbojj3eMJpbJ-b92ODieH2hsY8KYuXs_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.43,
   "sources": [
@@ -36,6 +36,27 @@
       "label": "HBO Max",
       "url": "https://www.youtube.com/channel/UCx-KWLTKlB83hDI6UKECtJQ",
       "firstSeenAt": "2026-10-02T12:30:44.497Z"
+    },
+    {
+      "id": "channel:UCQzdMyuz0Lf4zo4uGcEujFw",
+      "type": "channel",
+      "label": "GameofThrones",
+      "url": "https://www.youtube.com/channel/UCQzdMyuz0Lf4zo4uGcEujFw",
+      "firstSeenAt": "2026-10-15T11:25:13.753Z"
+    },
+    {
+      "id": "channel:UCy6kyFxaMqGtpE3pQTflK8A",
+      "type": "channel",
+      "label": "Real Time with Bill Maher",
+      "url": "https://www.youtube.com/channel/UCy6kyFxaMqGtpE3pQTflK8A",
+      "firstSeenAt": "2026-10-15T11:25:14.552Z"
+    },
+    {
+      "id": "channel:UCGkQCAeRjyP9BpNwVFMaJaw",
+      "type": "channel",
+      "label": "WaterTower Music",
+      "url": "https://www.youtube.com/channel/UCGkQCAeRjyP9BpNwVFMaJaw",
+      "firstSeenAt": "2026-10-15T11:25:24.584Z"
     }
   ],
   "recentItems": []
