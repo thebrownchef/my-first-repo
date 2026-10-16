@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCgB7A457ULlgm5c3948vr-w",
   "title": "BTOB 비투비 (Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lRZlsGii0S7kA-gUquyU_I_K3OXKpVwfXwdF0vAivz6-U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "G.NA 지나 (Official YouTube Channel)",
       "url": "https://www.youtube.com/channel/UCKAAKPx4BLiwmQwC0DJ2x1w",
       "firstSeenAt": "2026-10-11T12:45:50.419Z"
+    },
+    {
+      "id": "wiki:Press Play (BtoB EP)",
+      "type": "wikipedia",
+      "label": "Press Play (BtoB EP)",
+      "url": "https://en.wikipedia.org/wiki/Press_Play_(BtoB_EP)",
+      "firstSeenAt": "2026-10-16T11:19:26.089Z"
     }
   ],
   "recentItems": []

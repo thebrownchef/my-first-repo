@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCm1dsgJNnhaLkY3uAdqN4mA",
   "title": "ChrisBrownVEVO",
   "thumb": "https://yt3.ggpht.com/LQZxBlTRHDjVmcGbzUZqwwRmZ9ebU-XU8frGW6SEgcllooaoqnvL4bd_dTrraTZirHtuT1epKg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "Wall to Wall (song)",
       "url": "https://en.wikipedia.org/wiki/Wall_to_Wall_(song)",
       "firstSeenAt": "2026-10-12T15:18:29.861Z"
+    },
+    {
+      "id": "wiki:Don't Judge Me",
+      "type": "wikipedia",
+      "label": "Don't Judge Me",
+      "url": "https://en.wikipedia.org/wiki/Don't_Judge_Me",
+      "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "wiki:Don't Wake Me Up (Chris Brown song)",
+      "type": "wikipedia",
+      "label": "Don't Wake Me Up (Chris Brown song)",
+      "url": "https://en.wikipedia.org/wiki/Don't_Wake_Me_Up_(Chris_Brown_song)",
+      "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "wiki:Till I Die (Chris Brown song)",
+      "type": "wikipedia",
+      "label": "Till I Die (Chris Brown song)",
+      "url": "https://en.wikipedia.org/wiki/Till_I_Die_(Chris_Brown_song)",
+      "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "wiki:Sweet Love (Chris Brown song)",
+      "type": "wikipedia",
+      "label": "Sweet Love (Chris Brown song)",
+      "url": "https://en.wikipedia.org/wiki/Sweet_Love_(Chris_Brown_song)",
+      "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "wiki:Turn Up the Music (Chris Brown song)",
+      "type": "wikipedia",
+      "label": "Turn Up the Music (Chris Brown song)",
+      "url": "https://en.wikipedia.org/wiki/Turn_Up_the_Music_(Chris_Brown_song)",
+      "firstSeenAt": "2026-10-16T11:19:22.905Z"
     }
   ],
   "recentItems": []

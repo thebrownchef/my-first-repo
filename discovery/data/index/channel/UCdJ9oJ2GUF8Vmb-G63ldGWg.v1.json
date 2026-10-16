@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCdJ9oJ2GUF8Vmb-G63ldGWg",
   "title": "Reactions",
   "thumb": "https://yt3.ggpht.com/aVU3CnEQgfmvvZYgccnOM3j9eBD6Z3xreQISu4YwaCcnDwnZDrGHZmFMUKgREqYYn2E19HgNrg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "PBS Eons",
       "url": "https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA",
       "firstSeenAt": "2026-10-13T14:08:20.423Z"
+    },
+    {
+      "id": "channel:UCd8Fy98IB7WcI4r7qDbJi7A",
+      "type": "channel",
+      "label": "PBS Digital Studios",
+      "url": "https://www.youtube.com/channel/UCd8Fy98IB7WcI4r7qDbJi7A",
+      "firstSeenAt": "2026-10-16T11:19:48.776Z"
     }
   ],
   "recentItems": []

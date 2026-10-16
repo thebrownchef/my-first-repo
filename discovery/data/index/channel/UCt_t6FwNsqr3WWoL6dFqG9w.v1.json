@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCt_t6FwNsqr3WWoL6dFqG9w",
   "title": "BrainCraft",
   "thumb": "https://yt3.ggpht.com/Jjl8__22NuuwUkVgtbEG1aisqMbrr1PJKz84v9t8hra5wplPxhMcQZipZJcx3BB2FXuXNYprdw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "PBS Space Time",
       "url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g",
       "firstSeenAt": "2026-10-13T14:08:20.522Z"
+    },
+    {
+      "id": "channel:UCs4aHmggTfFrpkPcWSaBN9g",
+      "type": "channel",
+      "label": "PBS Infinite Series",
+      "url": "https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g",
+      "firstSeenAt": "2026-10-16T11:19:51.418Z"
     }
   ],
   "recentItems": []

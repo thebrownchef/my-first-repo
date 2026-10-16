@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCcVqCJ_9owb1zM43vqswMNQ",
   "title": "BETNetworks",
   "thumb": "https://yt3.ggpht.com/d9Gzuc-6l20S18HMAWSR9Zb92ZeiIx65SBorrEVCxQK65UBh-URJIR859NWerbyNY8zYxeSHyQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 1.86,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Key & Peele",
       "url": "https://www.youtube.com/channel/UCdN4aXTrHAtfgbVG9HjBmxQ",
       "firstSeenAt": "2026-09-28T13:49:59.918Z"
+    },
+    {
+      "id": "channel:UCKehNLhUKygfBjrsdIKB6iQ",
+      "type": "channel",
+      "label": "Paramount",
+      "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
+      "firstSeenAt": "2026-10-16T11:19:55.251Z"
     }
   ],
   "recentItems": []

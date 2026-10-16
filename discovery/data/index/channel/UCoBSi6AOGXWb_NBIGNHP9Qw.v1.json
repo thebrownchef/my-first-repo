@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCoBSi6AOGXWb_NBIGNHP9Qw",
   "title": "Yellowstone Universe",
   "thumb": "https://yt3.ggpht.com/DllFeK6vky1oETO2MtXh-cLcjsb7llRmc2i90z5ob7-vm4Vpz-Gyg7GNAizCxIKYSZ0mrUMi9w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Smithsonian Channel Aviation Nation",
       "url": "https://www.youtube.com/channel/UC0QXWw0OiMnagIhdBn_fVPg",
       "firstSeenAt": "2026-09-28T13:50:06.754Z"
+    },
+    {
+      "id": "channel:UCgChUBhjz676-JXJNF_yjig",
+      "type": "channel",
+      "label": "Paramount Network",
+      "url": "https://www.youtube.com/channel/UCgChUBhjz676-JXJNF_yjig",
+      "firstSeenAt": "2026-10-16T11:19:52.260Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCzR-rom72PHN9Zg7RML9EbA",
   "title": "PBS Eons",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mmvovTBJJo3ZSQa7kYLAjJFZlBidpTHfKfPOXe4xrG-y4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "PBS Origins ",
       "url": "https://www.youtube.com/channel/UCiB8h9jD2Mlxx96ZFnGDSJw",
       "firstSeenAt": "2026-10-13T14:08:20.782Z"
+    },
+    {
+      "id": "channel:UCd8Fy98IB7WcI4r7qDbJi7A",
+      "type": "channel",
+      "label": "PBS Digital Studios",
+      "url": "https://www.youtube.com/channel/UCd8Fy98IB7WcI4r7qDbJi7A",
+      "firstSeenAt": "2026-10-16T11:19:48.773Z"
+    },
+    {
+      "id": "channel:UCtnFS8kY2D3VLaEtt_Jk2ZA",
+      "type": "channel",
+      "label": "PBS Wisconsin",
+      "url": "https://www.youtube.com/channel/UCtnFS8kY2D3VLaEtt_Jk2ZA",
+      "firstSeenAt": "2026-10-16T11:19:51.355Z"
     }
   ],
   "recentItems": []

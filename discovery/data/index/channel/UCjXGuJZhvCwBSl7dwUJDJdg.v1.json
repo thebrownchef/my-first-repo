@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCjXGuJZhvCwBSl7dwUJDJdg",
   "title": "アップフロントチャンネル",
   "thumb": "https://yt3.ggpht.com/UGcaf6WIFp_xv0ZzpOYosX87ndWbs_taJG7jYa8BxnngN_bWyGVSx2DSEidO3LWFN0RPDht0neA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Berryz工房",
       "url": "https://www.youtube.com/channel/UCWBTV02MVmyLqNPWRGDrl6A",
       "firstSeenAt": "2026-10-11T12:46:10.925Z"
+    },
+    {
+      "id": "wiki:Ai wa Katsu",
+      "type": "wikipedia",
+      "label": "Ai wa Katsu",
+      "url": "https://en.wikipedia.org/wiki/Ai_wa_Katsu",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
     }
   ],
   "recentItems": []

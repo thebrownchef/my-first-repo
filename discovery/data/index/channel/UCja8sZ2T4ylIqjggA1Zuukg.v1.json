@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCja8sZ2T4ylIqjggA1Zuukg",
   "title": "CBS Sports",
   "thumb": "https://yt3.ggpht.com/jnGO8vkeg1R9IAaIHIej_SS9tzYXtyk54KwbHovEq2No3HfvV6mw2CYVIoFg2ThbFTnkUiSIBw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 5.73,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "CBS",
       "url": "https://www.youtube.com/channel/UClzCn8DxRSCuMFv_WfzkcrQ",
       "firstSeenAt": "2026-09-29T12:49:35.717Z"
+    },
+    {
+      "id": "channel:UCET00YnetHT7tOpu12v8jxg",
+      "type": "channel",
+      "label": "CBS Sports Golazo",
+      "url": "https://www.youtube.com/channel/UCET00YnetHT7tOpu12v8jxg",
+      "firstSeenAt": "2026-10-16T11:19:46.408Z"
+    },
+    {
+      "id": "channel:UCKehNLhUKygfBjrsdIKB6iQ",
+      "type": "channel",
+      "label": "Paramount",
+      "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
+      "firstSeenAt": "2026-10-16T11:19:55.250Z"
     }
   ],
   "recentItems": []

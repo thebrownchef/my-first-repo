@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCBR8-60-B28hp2BmDPdntcQ",
   "title": "YouTube",
   "thumb": "https://yt3.ggpht.com/3s6evpqAiDU9tQR4sC2siJippbH2RWVPnwHgyl4V0th2iuQz0VDQZbUhQBGmsxLYo-mjG6TqZQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "jonhuertas",
       "url": "https://www.youtube.com/channel/UCc0hgnKESv5XZpI9S-uDR8A",
       "firstSeenAt": "2026-10-13T14:08:08.942Z"
+    },
+    {
+      "id": "channel:UCXappTIt4qeY2f9VJAQ7nDA",
+      "type": "channel",
+      "label": "moooksta",
+      "url": "https://www.youtube.com/channel/UCXappTIt4qeY2f9VJAQ7nDA",
+      "firstSeenAt": "2026-10-16T11:19:43.897Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UC3LqW4ijMoENQ2Wv17ZrFJA",
   "title": "PBS Idea Channel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l-nRJBS4wc0PJA2z9cchYWvKmpepflmtIRdQGdAu__JQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "PBS Space Time",
       "url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g",
       "firstSeenAt": "2026-10-13T14:08:20.521Z"
+    },
+    {
+      "id": "channel:UCs4aHmggTfFrpkPcWSaBN9g",
+      "type": "channel",
+      "label": "PBS Infinite Series",
+      "url": "https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g",
+      "firstSeenAt": "2026-10-16T11:19:51.418Z"
     }
   ],
   "recentItems": []

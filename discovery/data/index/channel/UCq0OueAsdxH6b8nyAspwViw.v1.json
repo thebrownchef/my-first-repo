@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCq0OueAsdxH6b8nyAspwViw",
   "title": "Universal Pictures",
   "thumb": "https://yt3.ggpht.com/PzIajPyy9_HJ-LR5S6q86JV9o2GjabXF54QJnr3PeHpOiGOXtroatGM3mB2QxQa_vkF5yuyu9hs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.48,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "The Fast Saga",
       "url": "https://www.youtube.com/channel/UCJCx8aQrdx_ueXPmxTD2odQ",
       "firstSeenAt": "2026-09-16T11:29:09.184Z"
+    },
+    {
+      "id": "channel:UCIHg3K4EaY-ziWc5CyzWAzQ",
+      "type": "channel",
+      "label": "Universal Pictures At Home",
+      "url": "https://www.youtube.com/channel/UCIHg3K4EaY-ziWc5CyzWAzQ",
+      "firstSeenAt": "2026-10-16T11:19:56.245Z"
     }
   ],
   "recentItems": []

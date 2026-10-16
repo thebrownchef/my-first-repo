@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UC2xskkQVFEpLcGFnNSLQY0A",
   "title": "RihannaVEVO",
   "thumb": "https://yt3.ggpht.com/qMCGjRaKKRar82KzcIWdUoLbJ03aW2K2sEf-m4GaB7JwLshoHOZHvkxLRXsZVgpKvqCXVhKCWg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,41 @@
       "label": "We Found Love",
       "url": "https://en.wikipedia.org/wiki/We_Found_Love",
       "firstSeenAt": "2026-10-14T11:48:17.920Z"
+    },
+    {
+      "id": "wiki:Take a Bow (Rihanna song)",
+      "type": "wikipedia",
+      "label": "Take a Bow (Rihanna song)",
+      "url": "https://en.wikipedia.org/wiki/Take_a_Bow_(Rihanna_song)",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Rude Boy (Rihanna song)",
+      "type": "wikipedia",
+      "label": "Rude Boy (Rihanna song)",
+      "url": "https://en.wikipedia.org/wiki/Rude_Boy_(Rihanna_song)",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:S&M (song)",
+      "type": "wikipedia",
+      "label": "S&M (song)",
+      "url": "https://en.wikipedia.org/wiki/S%26M_(song)",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Where Have You Been",
+      "type": "wikipedia",
+      "label": "Where Have You Been",
+      "url": "https://en.wikipedia.org/wiki/Where_Have_You_Been",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Cheers (Drink to That)",
+      "type": "wikipedia",
+      "label": "Cheers (Drink to That)",
+      "url": "https://en.wikipedia.org/wiki/Cheers_(Drink_to_That)",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
     }
   ],
   "recentItems": []

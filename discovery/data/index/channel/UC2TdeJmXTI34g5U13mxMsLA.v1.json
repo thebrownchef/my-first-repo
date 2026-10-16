@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UC2TdeJmXTI34g5U13mxMsLA",
   "title": "Vevo Italia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mK0J_m1eUtgAGDkp3Shk4L0XebraYhR__RoxOp9vGqOmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "NinaZilliVEVO",
       "url": "https://www.youtube.com/channel/UC5-7Y5ebV3vjE3k2dXahSdg",
       "firstSeenAt": "2026-10-12T15:18:44.027Z"
+    },
+    {
+      "id": "channel:UCD7az0lWDtKSc8QIKFOnFRA",
+      "type": "channel",
+      "label": "ErosRamazzottiVEVO",
+      "url": "https://www.youtube.com/channel/UCD7az0lWDtKSc8QIKFOnFRA",
+      "firstSeenAt": "2026-10-16T11:19:43.840Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCO6nDCimkF79NZRRb8YiDcA",
   "title": "Storied",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_moVR2ifzjohk2pPPD7cMOnfsLsbF3vQnQXFruVtm7QnQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "PBS Origins ",
       "url": "https://www.youtube.com/channel/UCiB8h9jD2Mlxx96ZFnGDSJw",
       "firstSeenAt": "2026-10-13T14:08:20.783Z"
+    },
+    {
+      "id": "channel:UCPQErRghCrtrbWOYiJA3okw",
+      "type": "channel",
+      "label": "PBS Food",
+      "url": "https://www.youtube.com/channel/UCPQErRghCrtrbWOYiJA3okw",
+      "firstSeenAt": "2026-10-16T11:19:48.125Z"
+    },
+    {
+      "id": "channel:UCd8Fy98IB7WcI4r7qDbJi7A",
+      "type": "channel",
+      "label": "PBS Digital Studios",
+      "url": "https://www.youtube.com/channel/UCd8Fy98IB7WcI4r7qDbJi7A",
+      "firstSeenAt": "2026-10-16T11:19:48.771Z"
     }
   ],
   "recentItems": []

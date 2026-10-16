@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCc3_ZthcYkMidoyly5kr83w",
   "title": "SpiceGirlsVEVO",
   "thumb": "https://yt3.ggpht.com/D3XSKx1oyNtpay6vVQW0rYKoCwepFH8teVva7fX_AeCt4Dhqw-AGOoXlPTOHr32-5hMDhLFd=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Stop (Spice Girls song)",
       "url": "https://en.wikipedia.org/wiki/Stop_(Spice_Girls_song)",
       "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Let Love Lead the Way",
+      "type": "wikipedia",
+      "label": "Let Love Lead the Way",
+      "url": "https://en.wikipedia.org/wiki/Let_Love_Lead_the_Way",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Headlines (Friendship Never Ends)",
+      "type": "wikipedia",
+      "label": "Headlines (Friendship Never Ends)",
+      "url": "https://en.wikipedia.org/wiki/Headlines_(Friendship_Never_Ends)",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
     }
   ],
   "recentItems": []

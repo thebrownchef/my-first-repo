@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCLeuoGy_hUDTBf5Hk0ynrpQ",
   "title": "Disney Club UK",
   "thumb": "https://yt3.ggpht.com/JuK4Vpv_984LBwTPMJAhLHRlV8i2HtC1WdULdNOdlWBal8dkTtpRGVgMUOc9sPwlS2v-oNOD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.72,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "NOW",
       "url": "https://www.youtube.com/channel/UCnwaU7j34C92ywMHXJahHRA",
       "firstSeenAt": "2026-10-13T14:08:13.315Z"
+    },
+    {
+      "id": "channel:UCTLBJ_2dg5G109qFR34wRRA",
+      "type": "channel",
+      "label": "Disney Kids Italia",
+      "url": "https://www.youtube.com/channel/UCTLBJ_2dg5G109qFR34wRRA",
+      "firstSeenAt": "2026-10-16T11:19:52.813Z"
+    },
+    {
+      "id": "channel:UCSrRbwgmEx9cMH06pJ4Spkg",
+      "type": "channel",
+      "label": "Disney Kids Belgique",
+      "url": "https://www.youtube.com/channel/UCSrRbwgmEx9cMH06pJ4Spkg",
+      "firstSeenAt": "2026-10-16T11:19:56.717Z"
     }
   ],
   "recentItems": []

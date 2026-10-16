@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCsOcrfhLz6EHQj8EiZPuS_w",
   "title": "Channel 10",
   "thumb": "https://yt3.ggpht.com/cVMClwtkH_b7TNm7oWlmU6yfdgOe4ZMe-BotjHZizkP6lMyeCd9xgZwYk9eakh30hwykasefA2Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 4.22,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "TENVideoHits",
       "url": "https://www.youtube.com/channel/UCb3yrc1Szf5kzIXKlEVo30A",
       "firstSeenAt": "2026-10-14T11:48:29.423Z"
+    },
+    {
+      "id": "channel:UCKehNLhUKygfBjrsdIKB6iQ",
+      "type": "channel",
+      "label": "Paramount",
+      "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
+      "firstSeenAt": "2026-10-16T11:19:55.252Z"
     }
   ],
   "recentItems": []

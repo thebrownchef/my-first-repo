@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCtwMWJr2BFPkuJTnSvCESSQ",
   "title": "SHOWTIME",
   "thumb": "https://yt3.ggpht.com/xgvNOuy58zLtTMICuyW0-G_lUGDyjvcDduIkVHgtV_baygPDmcUtCpQ_FSllsKLWrfwl8xsb6A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 5.06,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Paramount+ Global",
       "url": "https://www.youtube.com/channel/UCs1eMvIJbUfcknGziUrB3Cg",
       "firstSeenAt": "2026-10-13T14:08:14.936Z"
+    },
+    {
+      "id": "channel:UCKehNLhUKygfBjrsdIKB6iQ",
+      "type": "channel",
+      "label": "Paramount",
+      "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
+      "firstSeenAt": "2026-10-16T11:19:55.249Z"
     }
   ],
   "recentItems": []

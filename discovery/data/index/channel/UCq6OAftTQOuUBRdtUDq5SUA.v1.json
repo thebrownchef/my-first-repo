@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCq6OAftTQOuUBRdtUDq5SUA",
   "title": "PBS Documentaries",
   "thumb": "https://yt3.ggpht.com/UglPE8DyhlC8i0lUqVauVXeBejJto7vn9e0OsjWwdBxquuGDcshrb9fP74D_l7lZHObwNieCqx8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -57,6 +57,34 @@
       "label": "PBS",
       "url": "https://www.youtube.com/channel/UCgyeJxD05YnoDquRMNBfBqw",
       "firstSeenAt": "2026-10-15T11:25:19.308Z"
+    },
+    {
+      "id": "channel:UCPQErRghCrtrbWOYiJA3okw",
+      "type": "channel",
+      "label": "PBS Food",
+      "url": "https://www.youtube.com/channel/UCPQErRghCrtrbWOYiJA3okw",
+      "firstSeenAt": "2026-10-16T11:19:48.125Z"
+    },
+    {
+      "id": "channel:UCd8Fy98IB7WcI4r7qDbJi7A",
+      "type": "channel",
+      "label": "PBS Digital Studios",
+      "url": "https://www.youtube.com/channel/UCd8Fy98IB7WcI4r7qDbJi7A",
+      "firstSeenAt": "2026-10-16T11:19:48.772Z"
+    },
+    {
+      "id": "channel:UCs4aHmggTfFrpkPcWSaBN9g",
+      "type": "channel",
+      "label": "PBS Infinite Series",
+      "url": "https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g",
+      "firstSeenAt": "2026-10-16T11:19:51.416Z"
+    },
+    {
+      "id": "channel:UCBPQeP5lWGVwFhxbiEjnZFw",
+      "type": "channel",
+      "label": "PBS Presidents",
+      "url": "https://www.youtube.com/channel/UCBPQeP5lWGVwFhxbiEjnZFw",
+      "firstSeenAt": "2026-10-16T11:19:51.973Z"
     }
   ],
   "recentItems": []

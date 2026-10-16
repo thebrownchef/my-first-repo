@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCgyeJxD05YnoDquRMNBfBqw",
   "title": "PBS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbFFUNXtl50QGZiihGQlYmXWR7JpTh3E5wUg_uq9o7Ux8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -36,6 +36,55 @@
       "label": "PBS Documentaries",
       "url": "https://www.youtube.com/channel/UCq6OAftTQOuUBRdtUDq5SUA",
       "firstSeenAt": "2026-10-13T14:08:20.687Z"
+    },
+    {
+      "id": "channel:UCfxmAPP9r2I_FjFONgX6mug",
+      "type": "channel",
+      "label": "PBS Utah",
+      "url": "https://www.youtube.com/channel/UCfxmAPP9r2I_FjFONgX6mug",
+      "firstSeenAt": "2026-10-16T11:19:47.183Z"
+    },
+    {
+      "id": "channel:UCPQErRghCrtrbWOYiJA3okw",
+      "type": "channel",
+      "label": "PBS Food",
+      "url": "https://www.youtube.com/channel/UCPQErRghCrtrbWOYiJA3okw",
+      "firstSeenAt": "2026-10-16T11:19:48.124Z"
+    },
+    {
+      "id": "channel:UCrNnk0wFBnCS1awGjq_ijGQ",
+      "type": "channel",
+      "label": "PBS KIDS",
+      "url": "https://www.youtube.com/channel/UCrNnk0wFBnCS1awGjq_ijGQ",
+      "firstSeenAt": "2026-10-16T11:19:49.797Z"
+    },
+    {
+      "id": "channel:UCtnFS8kY2D3VLaEtt_Jk2ZA",
+      "type": "channel",
+      "label": "PBS Wisconsin",
+      "url": "https://www.youtube.com/channel/UCtnFS8kY2D3VLaEtt_Jk2ZA",
+      "firstSeenAt": "2026-10-16T11:19:51.351Z"
+    },
+    {
+      "id": "channel:UC745-nOt9K9c1mCeeRUiYHw",
+      "type": "channel",
+      "label": "PBS Reno",
+      "url": "https://www.youtube.com/channel/UC745-nOt9K9c1mCeeRUiYHw",
+      "firstSeenAt": "2026-10-16T11:19:51.624Z"
+    },
+    {
+      "id": "channel:UCuKgGov3NifIuVhS3U3ZDbw",
+      "type": "channel",
+      "label": "PBS KIDS for Parents",
+      "url": "https://www.youtube.com/channel/UCuKgGov3NifIuVhS3U3ZDbw",
+      "firstSeenAt": "2026-10-16T11:19:51.694Z"
+    },
+    {
+      "id": "channel:UCBPQeP5lWGVwFhxbiEjnZFw",
+      "type": "channel",
+      "label": "PBS Presidents",
+      "url": "https://www.youtube.com/channel/UCBPQeP5lWGVwFhxbiEjnZFw",
+      "firstSeenAt": "2026-10-16T11:19:51.973Z"
     }
   ],
   "recentItems": []

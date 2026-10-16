@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "id": "UC7jxQ3qqvy-1tQoJ3ZRv0Aw",
+  "title": "MASTERPIECE PBS",
+  "thumb": "https://yt3.ggpht.com/tkfwiAIonqdtIzuU1Ej5JddBC_XsonGzcggtxiVwbr89kR-Tml1V2DO6V_ZMBBmm80VbLKUOJug=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.46,
+  "sources": [
+    {
+      "id": "channel:UCgyeJxD05YnoDquRMNBfBqw",
+      "type": "channel",
+      "label": "PBS",
+      "url": "https://www.youtube.com/channel/UCgyeJxD05YnoDquRMNBfBqw",
+      "firstSeenAt": "2026-10-15T11:25:19.308Z"
+    },
+    {
+      "id": "channel:UCfxmAPP9r2I_FjFONgX6mug",
+      "type": "channel",
+      "label": "PBS Utah",
+      "url": "https://www.youtube.com/channel/UCfxmAPP9r2I_FjFONgX6mug",
+      "firstSeenAt": "2026-10-16T11:19:47.188Z"
+    },
+    {
+      "id": "channel:UC745-nOt9K9c1mCeeRUiYHw",
+      "type": "channel",
+      "label": "PBS Reno",
+      "url": "https://www.youtube.com/channel/UC745-nOt9K9c1mCeeRUiYHw",
+      "firstSeenAt": "2026-10-16T11:19:51.628Z"
+    }
+  ],
+  "recentItems": []
+}

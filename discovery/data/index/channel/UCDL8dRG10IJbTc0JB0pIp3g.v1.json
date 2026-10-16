@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCDL8dRG10IJbTc0JB0pIp3g",
   "title": "KarminVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lRCSW4CZPwzoMIPt8-4Fl_jh0hpxN-cBPhdp29jRRh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "I Told You So (Karmin song)",
       "url": "https://en.wikipedia.org/wiki/I_Told_You_So_(Karmin_song)",
       "firstSeenAt": "2026-10-13T14:07:54.217Z"
+    },
+    {
+      "id": "wiki:Hello (Karmin song)",
+      "type": "wikipedia",
+      "label": "Hello (Karmin song)",
+      "url": "https://en.wikipedia.org/wiki/Hello_(Karmin_song)",
+      "firstSeenAt": "2026-10-16T11:19:24.460Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCUsN5ZwHx2kILm84-jPDeXw",
   "title": "Comedy Central",
   "thumb": "https://yt3.ggpht.com/kENjxM3Q5B0rgBE2kTPlzRYpbT8xc7gMYuhQRz7NVz6B-O9pTndDZt8UhOneZAOBjFInk-XbAw4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 0,
   "uploadsPerDay": 0.9,
   "sources": [
@@ -120,9 +120,34 @@
       "label": "BEYONDcomedy",
       "url": "https://www.youtube.com/channel/UCyqTvR9RNkOPvyQKwtbP4xQ",
       "firstSeenAt": "2026-09-30T12:31:16.414Z"
+    },
+    {
+      "id": "channel:UCKehNLhUKygfBjrsdIKB6iQ",
+      "type": "channel",
+      "label": "Paramount",
+      "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
+      "firstSeenAt": "2026-10-16T11:19:55.250Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "EetMvVOthdI",
+      "title": "tv deals.mp4",
+      "publishedAt": "2026-10-15T20:30:44Z",
+      "durationSec": 129,
+      "thumb": "https://i.ytimg.com/vi/EetMvVOthdI/mqdefault.jpg",
+      "description": "There's a strict dress code. #NathanForYou #nathanfielder",
+      "chapters": []
+    },
+    {
+      "id": "vBmJT1RWxxo",
+      "title": "Never-before-seen footage, courtesy of Beavis and Butt-Head.",
+      "publishedAt": "2026-10-15T18:23:10Z",
+      "durationSec": 81,
+      "thumb": "https://i.ytimg.com/vi/vBmJT1RWxxo/mqdefault.jpg",
+      "description": "Brand new episodes out Wednesdays at 10:30/9:30c. #BeavisandButtHead",
+      "chapters": []
+    },
     {
       "id": "K6c34kw9kPs",
       "title": "We've got just a few questions. #Reno911",
@@ -183,15 +208,6 @@
       "publishedAt": "2026-10-07T16:02:44Z",
       "durationSec": 70,
       "thumb": "https://i.ytimg.com/vi/2YtOSLo1Vik/mqdefault.jpg",
-      "description": "",
-      "chapters": []
-    },
-    {
-      "id": "ku5dpFqRrog",
-      "title": "Are we doing this? #Reno911",
-      "publishedAt": "2026-10-06T18:45:06Z",
-      "durationSec": 110,
-      "thumb": "https://i.ytimg.com/vi/ku5dpFqRrog/mqdefault.jpg",
       "description": "",
       "chapters": []
     }

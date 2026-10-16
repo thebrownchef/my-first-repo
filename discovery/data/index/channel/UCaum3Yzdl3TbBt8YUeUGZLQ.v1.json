@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCaum3Yzdl3TbBt8YUeUGZLQ",
   "title": "NickiMinajAtVEVO",
   "thumb": "https://yt3.ggpht.com/50YeejQslEmP9_pNJHm3SGYRHRuVMuGafgsyrm2AjRNOE8P0bcIsDMA371xebxsd2zMQedm0TA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "NasVEVO",
       "url": "https://www.youtube.com/channel/UCATuR6v6DRf0tz0ww6V66LA",
       "firstSeenAt": "2026-10-04T12:19:04.489Z"
+    },
+    {
+      "id": "wiki:Right Thru Me",
+      "type": "wikipedia",
+      "label": "Right Thru Me",
+      "url": "https://en.wikipedia.org/wiki/Right_Thru_Me",
+      "firstSeenAt": "2026-10-16T11:19:26.090Z"
+    },
+    {
+      "id": "wiki:Moment 4 Life",
+      "type": "wikipedia",
+      "label": "Moment 4 Life",
+      "url": "https://en.wikipedia.org/wiki/Moment_4_Life",
+      "firstSeenAt": "2026-10-16T11:19:26.090Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCgwv23FVv3lqh567yagXfNg",
   "title": "DisneyMusicVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvNHhhb5UzdKLCer4xytxAB8bki4wJ5Kxr7oRanaGZsbU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.57,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Something to Dance For",
       "url": "https://en.wikipedia.org/wiki/Something_to_Dance_For",
       "firstSeenAt": "2026-10-15T11:24:53.710Z"
+    },
+    {
+      "id": "wiki:Frankenweenie (soundtrack)",
+      "type": "wikipedia",
+      "label": "Frankenweenie (soundtrack)",
+      "url": "https://en.wikipedia.org/wiki/Frankenweenie_(soundtrack)",
+      "firstSeenAt": "2026-10-16T11:19:22.905Z"
     }
   ],
   "recentItems": []

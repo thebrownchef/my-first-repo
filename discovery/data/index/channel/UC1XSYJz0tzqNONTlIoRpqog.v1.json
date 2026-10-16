@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UC1XSYJz0tzqNONTlIoRpqog",
   "title": "Channel 5",
   "thumb": "https://yt3.ggpht.com/UU_E0F6gc9-g3zVn07zzDOxc0gzNDWOdv12a0zjpFzkq7auTeMw_M2Zu7FC1J4l5sgKtN74E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "5 News",
       "url": "https://www.youtube.com/channel/UCsAKRVq2n1vcHBzNu1ZikgA",
       "firstSeenAt": "2026-10-13T14:08:15.255Z"
+    },
+    {
+      "id": "channel:UCKehNLhUKygfBjrsdIKB6iQ",
+      "type": "channel",
+      "label": "Paramount",
+      "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
+      "firstSeenAt": "2026-10-16T11:19:55.252Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "id": "UCdnJJ2_mzqHwKIX_SmCVHTA",
+  "title": "Antiques Roadshow PBS",
+  "thumb": "https://yt3.ggpht.com/oWj0OJ2LeOEilalTLviJH3A1DaE2xMHwH9a6Uev2bK_StnrmFsxuyvNpj2QvGrkTLS7fADDvGQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.18,
+  "sources": [
+    {
+      "id": "channel:UCgyeJxD05YnoDquRMNBfBqw",
+      "type": "channel",
+      "label": "PBS",
+      "url": "https://www.youtube.com/channel/UCgyeJxD05YnoDquRMNBfBqw",
+      "firstSeenAt": "2026-10-15T11:25:19.310Z"
+    },
+    {
+      "id": "channel:UCfxmAPP9r2I_FjFONgX6mug",
+      "type": "channel",
+      "label": "PBS Utah",
+      "url": "https://www.youtube.com/channel/UCfxmAPP9r2I_FjFONgX6mug",
+      "firstSeenAt": "2026-10-16T11:19:47.185Z"
+    }
+  ],
+  "recentItems": []
+}

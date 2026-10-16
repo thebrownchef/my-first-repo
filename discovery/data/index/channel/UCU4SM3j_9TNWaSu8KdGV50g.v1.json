@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:26:45.420Z",
+  "generatedAt": "2026-10-16T11:21:18.520Z",
   "id": "UCU4SM3j_9TNWaSu8KdGV50g",
   "title": "Focus Features",
   "thumb": "https://yt3.ggpht.com/RvRVJEORQyRUZ5xXFXw4wDos56z8ffIMP_K60hx2UXB6v8qdmS3q2uZr_93E5VqYmHerhqECSg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.34,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Peacock",
       "url": "https://www.youtube.com/channel/UCPgMAS8woHJ_o_OZdTR7kcQ",
       "firstSeenAt": "2026-09-16T11:29:08.594Z"
+    },
+    {
+      "id": "channel:UCIHg3K4EaY-ziWc5CyzWAzQ",
+      "type": "channel",
+      "label": "Universal Pictures At Home",
+      "url": "https://www.youtube.com/channel/UCIHg3K4EaY-ziWc5CyzWAzQ",
+      "firstSeenAt": "2026-10-16T11:19:56.246Z"
     }
   ],
   "recentItems": []
