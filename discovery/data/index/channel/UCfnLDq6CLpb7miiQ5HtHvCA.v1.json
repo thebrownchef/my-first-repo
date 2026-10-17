@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCfnLDq6CLpb7miiQ5HtHvCA",
   "title": "PalomaFaithVEVO",
   "thumb": "https://yt3.ggpht.com/82_nCHgW71fGZxkGaXrnup7w1Nuh3_FqmbrDJWorWfwjv8mfUozwSDq6ghGqEKUY9qZVmjf9EdA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "30 Minute Love Affair",
       "url": "https://en.wikipedia.org/wiki/30_Minute_Love_Affair",
       "firstSeenAt": "2026-10-14T11:48:18.583Z"
+    },
+    {
+      "id": "wiki:Just Be (Paloma Faith song)",
+      "type": "wikipedia",
+      "label": "Just Be (Paloma Faith song)",
+      "url": "https://en.wikipedia.org/wiki/Just_Be_(Paloma_Faith_song)",
+      "firstSeenAt": "2026-10-17T10:39:51.978Z"
     }
   ],
   "recentItems": []

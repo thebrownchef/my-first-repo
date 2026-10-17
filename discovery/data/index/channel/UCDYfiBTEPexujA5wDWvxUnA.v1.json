@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCDYfiBTEPexujA5wDWvxUnA",
   "title": "FlorenceMachineVEVO",
   "thumb": "https://yt3.ggpht.com/IK7aKr50CXeYuOKhdi_HgOWkiJ-Jv6m9hE9fM_9hblQ6HOrEq7OjXEoTtGhaVkO0XYYe8uLw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "No Light, No Light",
       "url": "https://en.wikipedia.org/wiki/No_Light%2C_No_Light",
       "firstSeenAt": "2026-10-05T14:32:47.590Z"
+    },
+    {
+      "id": "wiki:What the Water Gave Me (song)",
+      "type": "wikipedia",
+      "label": "What the Water Gave Me (song)",
+      "url": "https://en.wikipedia.org/wiki/What_the_Water_Gave_Me_(song)",
+      "firstSeenAt": "2026-10-17T10:39:49.194Z"
+    },
+    {
+      "id": "wiki:Never Let Me Go (Florence and the Machine song)",
+      "type": "wikipedia",
+      "label": "Never Let Me Go (Florence and the Machine song)",
+      "url": "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(Florence_and_the_Machine_song)",
+      "firstSeenAt": "2026-10-17T10:39:49.194Z"
     }
   ],
   "recentItems": []

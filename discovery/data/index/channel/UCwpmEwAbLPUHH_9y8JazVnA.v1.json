@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCwpmEwAbLPUHH_9y8JazVnA",
   "title": "BEAST 비스트 (Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k4e06spdh74aLdau4OgnwcsNwe6_E_Co0v_6P3bTho3oU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "G.NA 지나 (Official YouTube Channel)",
       "url": "https://www.youtube.com/channel/UCKAAKPx4BLiwmQwC0DJ2x1w",
       "firstSeenAt": "2026-10-11T12:45:50.418Z"
+    },
+    {
+      "id": "wiki:The First Collage",
+      "type": "wikipedia",
+      "label": "The First Collage",
+      "url": "https://en.wikipedia.org/wiki/The_First_Collage",
+      "firstSeenAt": "2026-10-17T10:39:53.134Z"
     }
   ],
   "recentItems": []

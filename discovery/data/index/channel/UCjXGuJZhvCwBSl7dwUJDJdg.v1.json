@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCjXGuJZhvCwBSl7dwUJDJdg",
   "title": "アップフロントチャンネル",
   "thumb": "https://yt3.ggpht.com/UGcaf6WIFp_xv0ZzpOYosX87ndWbs_taJG7jYa8BxnngN_bWyGVSx2DSEidO3LWFN0RPDht0neA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Ai wa Katsu",
       "url": "https://en.wikipedia.org/wiki/Ai_wa_Katsu",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "channel:UCfqZbR2ReqINXkx6aRkkSWg",
+      "type": "channel",
+      "label": "youkikkawa",
+      "url": "https://www.youtube.com/channel/UCfqZbR2ReqINXkx6aRkkSWg",
+      "firstSeenAt": "2026-10-17T10:40:04.393Z"
     }
   ],
   "recentItems": []

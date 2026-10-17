@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCccjdJEay2hpb5scz61zY6Q",
   "title": "NBC",
   "thumb": "https://yt3.ggpht.com/Lh3IR3_DCVkvF5xsFkGk6KhQcYmp0gplmeQR145r0rcu2VdrAPhIMef3yvgqZ4QIaldVSou53o4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.47,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Late Night with Seth Meyers",
       "url": "https://www.youtube.com/channel/UCVTyTA7-g9nopHeHbeuvpRA",
       "firstSeenAt": "2026-10-01T13:10:04.410Z"
+    },
+    {
+      "id": "channel:UCsefBCbI7P5Xr-edSOpbF4A",
+      "type": "channel",
+      "label": "WBIR Channel 10",
+      "url": "https://www.youtube.com/channel/UCsefBCbI7P5Xr-edSOpbF4A",
+      "firstSeenAt": "2026-10-17T10:40:22.388Z"
     }
   ],
   "recentItems": []

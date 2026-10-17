@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCSJfjbTHLKj1H2-oqi6jN8Q",
   "title": "AllAmericanRjctsVEVO",
   "thumb": "https://yt3.ggpht.com/WsTNLw2epsDSQxWlC1zkBgGzUbId9ywDV6luWXeW7YivsDEoMVwd8OYQ3ichv6IEfczPSAorbw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "HotChelleRaeVEVO",
       "url": "https://www.youtube.com/channel/UCVbeVJ8Nb1VgHjgDLZQPzLA",
       "firstSeenAt": "2026-10-10T12:28:40.796Z"
+    },
+    {
+      "id": "wiki:Swing, Swing",
+      "type": "wikipedia",
+      "label": "Swing, Swing",
+      "url": "https://en.wikipedia.org/wiki/Swing%2C_Swing",
+      "firstSeenAt": "2026-10-17T10:39:53.134Z"
+    },
+    {
+      "id": "wiki:The Last Song (The All-American Rejects song)",
+      "type": "wikipedia",
+      "label": "The Last Song (The All-American Rejects song)",
+      "url": "https://en.wikipedia.org/wiki/The_Last_Song_(The_All-American_Rejects_song)",
+      "firstSeenAt": "2026-10-17T10:39:53.134Z"
     }
   ],
   "recentItems": []

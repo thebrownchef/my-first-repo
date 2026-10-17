@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UChvAV3_iEHsbt8bIL1wYc0g",
   "title": "leonalewisVEVO",
   "thumb": "https://yt3.ggpht.com/4A6-ZS8qIKhzPSKCtQp6GZoGigHrQ449vTQm20owkGlqfDO2NdQQqKmzvzIAOo1PTKVafirh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Trouble (Leona Lewis song)",
       "url": "https://en.wikipedia.org/wiki/Trouble_(Leona_Lewis_song)",
       "firstSeenAt": "2026-10-15T11:24:52.679Z"
+    },
+    {
+      "id": "wiki:Forgive Me (Leona Lewis song)",
+      "type": "wikipedia",
+      "label": "Forgive Me (Leona Lewis song)",
+      "url": "https://en.wikipedia.org/wiki/Forgive_Me_(Leona_Lewis_song)",
+      "firstSeenAt": "2026-10-17T10:39:49.194Z"
     }
   ],
   "recentItems": []

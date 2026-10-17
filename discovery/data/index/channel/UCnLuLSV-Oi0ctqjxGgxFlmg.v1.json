@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCnLuLSV-Oi0ctqjxGgxFlmg",
   "title": "Sony Pictures Animation",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ky8LvnMs6mkCZUAUW-fAhZYUn_17wpqvGK0rxSTL7ZYwk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Sony Pictures Entertainment",
       "url": "https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw",
       "firstSeenAt": "2026-09-20T11:20:21.911Z"
+    },
+    {
+      "id": "channel:UCVjS9AuBloqJJjhsy3vIfug",
+      "type": "channel",
+      "label": "Sony",
+      "url": "https://www.youtube.com/channel/UCVjS9AuBloqJJjhsy3vIfug",
+      "firstSeenAt": "2026-10-17T10:40:15.390Z"
+    },
+    {
+      "id": "channel:UCqH2YMSzMaGN92Vc3VkhWnQ",
+      "type": "channel",
+      "label": "Sony Pics at Home",
+      "url": "https://www.youtube.com/channel/UCqH2YMSzMaGN92Vc3VkhWnQ",
+      "firstSeenAt": "2026-10-17T10:40:17.119Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCEylSvWoZcchH76QB8onYwQ",
   "title": "DJ MAM'S OFFICIAL",
   "thumb": "https://yt3.ggpht.com/wW367CEAkS8aKiIoYJuMFoI4E2Qp45ShrQCRaMsS1XkkCFjq5m4PcYXuh14NUsvZP4wFlXL98g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Zumba He Zumba Ha",
       "url": "https://en.wikipedia.org/wiki/Zumba_He_Zumba_Ha",
       "firstSeenAt": "2026-10-13T14:07:54.217Z"
+    },
+    {
+      "id": "wiki:Fiesta Buena",
+      "type": "wikipedia",
+      "label": "Fiesta Buena",
+      "url": "https://en.wikipedia.org/wiki/Fiesta_Buena",
+      "firstSeenAt": "2026-10-17T10:39:53.134Z"
     }
   ],
   "recentItems": []

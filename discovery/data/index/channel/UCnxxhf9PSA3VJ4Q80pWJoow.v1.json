@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCnxxhf9PSA3VJ4Q80pWJoow",
   "title": "Jeopardy!",
   "thumb": "https://yt3.ggpht.com/4_bJCiJ2ChzbmNSpW9Wf5mVO9CXm_04nxH6xy43lctGkyXczbVRGGE5O1gPd5rXy6eBp5IYn0hs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.69,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sony Pictures Entertainment",
       "url": "https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw",
       "firstSeenAt": "2026-09-20T11:20:21.912Z"
+    },
+    {
+      "id": "channel:UCsefBCbI7P5Xr-edSOpbF4A",
+      "type": "channel",
+      "label": "WBIR Channel 10",
+      "url": "https://www.youtube.com/channel/UCsefBCbI7P5Xr-edSOpbF4A",
+      "firstSeenAt": "2026-10-17T10:40:22.389Z"
     }
   ],
   "recentItems": []

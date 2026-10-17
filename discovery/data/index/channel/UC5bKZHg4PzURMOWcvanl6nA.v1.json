@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "id": "UC5bKZHg4PzURMOWcvanl6nA",
+  "title": "FOX 13 Seattle",
+  "thumb": "https://yt3.ggpht.com/Mnq9rMhBuD2CXJGwtD4UidPT_SimXN1K-tDg0rRVNp2F49R8NFpfl2QdieCM2-eL1_7dcWY6=s88-c-k-c0x00ffffff-no-rj",
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 0,
+  "uploadsPerDay": 6.05,
+  "sources": [
+    {
+      "id": "wiki:I Corps Band",
+      "type": "wikipedia",
+      "label": "I Corps Band",
+      "url": "https://en.wikipedia.org/wiki/I_Corps_Band",
+      "firstSeenAt": "2026-08-29T12:40:10.328Z"
+    },
+    {
+      "id": "channel:UCJg9wBPyKMNA5sRDnvzmkdg",
+      "type": "channel",
+      "label": "LiveNOW from FOX",
+      "url": "https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg",
+      "firstSeenAt": "2026-10-17T10:40:12.785Z"
+    },
+    {
+      "id": "channel:UCHLyP4MuA-JAFBCwxXOEDdA",
+      "type": "channel",
+      "label": "FOX 5 Washington DC",
+      "url": "https://www.youtube.com/channel/UCHLyP4MuA-JAFBCwxXOEDdA",
+      "firstSeenAt": "2026-10-17T10:40:16.415Z"
+    },
+    {
+      "id": "channel:UCuXT13wiqK56NR7QSfDWpvg",
+      "type": "channel",
+      "label": "FOX 35 Orlando",
+      "url": "https://www.youtube.com/channel/UCuXT13wiqK56NR7QSfDWpvg",
+      "firstSeenAt": "2026-10-17T10:40:16.980Z"
+    }
+  ],
+  "recentItems": []
+}

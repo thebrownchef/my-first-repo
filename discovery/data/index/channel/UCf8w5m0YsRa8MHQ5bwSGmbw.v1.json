@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCf8w5m0YsRa8MHQ5bwSGmbw",
   "title": "asianetnews",
   "thumb": "https://yt3.ggpht.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 72.68,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ambika Pillai",
       "url": "https://en.wikipedia.org/wiki/Ambika_Pillai",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "wiki:Chettayees",
+      "type": "wikipedia",
+      "label": "Chettayees",
+      "url": "https://en.wikipedia.org/wiki/Chettayees",
+      "firstSeenAt": "2026-10-17T10:39:53.134Z"
     }
   ],
   "recentItems": []

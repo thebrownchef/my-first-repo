@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
   "title": "PlayStation",
   "thumb": "https://yt3.ggpht.com/uiQh9JC7wAmCl63jhNilJvAcqNbwnMmUf5FUCQBecipe6yGmUWpPvAMVixALEt6xpPOVbsouzw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 3.72,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sony Pictures Entertainment",
       "url": "https://www.youtube.com/channel/UCz97F7dMxBNOfGYu3rx8aCw",
       "firstSeenAt": "2026-09-20T11:20:21.911Z"
+    },
+    {
+      "id": "channel:UCVjS9AuBloqJJjhsy3vIfug",
+      "type": "channel",
+      "label": "Sony",
+      "url": "https://www.youtube.com/channel/UCVjS9AuBloqJJjhsy3vIfug",
+      "firstSeenAt": "2026-10-17T10:40:15.386Z"
     }
   ],
   "recentItems": []

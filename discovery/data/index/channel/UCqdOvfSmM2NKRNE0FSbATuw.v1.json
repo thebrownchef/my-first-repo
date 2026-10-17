@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "id": "UCqdOvfSmM2NKRNE0FSbATuw",
+  "title": "FOX 29 Philadelphia",
+  "thumb": "https://yt3.ggpht.com/oQr3dtTTU34nCKdmchDMN-pW7dAwPc4WLDVPVXhqL61BslzYWJxh5WDPEb3StAkXYu9_Rlbgyg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 1,
+  "uploadsPerDay": 2.62,
+  "sources": [
+    {
+      "id": "channel:UCHfF8wFnipMeDpJf8OmMxDg",
+      "type": "channel",
+      "label": "FOX 11 Los Angeles",
+      "url": "https://www.youtube.com/channel/UCHfF8wFnipMeDpJf8OmMxDg",
+      "firstSeenAt": "2026-09-15T11:41:57.626Z"
+    },
+    {
+      "id": "channel:UCJg9wBPyKMNA5sRDnvzmkdg",
+      "type": "channel",
+      "label": "LiveNOW from FOX",
+      "url": "https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg",
+      "firstSeenAt": "2026-10-17T10:40:12.782Z"
+    },
+    {
+      "id": "channel:UCHLyP4MuA-JAFBCwxXOEDdA",
+      "type": "channel",
+      "label": "FOX 5 Washington DC",
+      "url": "https://www.youtube.com/channel/UCHLyP4MuA-JAFBCwxXOEDdA",
+      "firstSeenAt": "2026-10-17T10:40:16.413Z"
+    },
+    {
+      "id": "channel:UCuXT13wiqK56NR7QSfDWpvg",
+      "type": "channel",
+      "label": "FOX 35 Orlando",
+      "url": "https://www.youtube.com/channel/UCuXT13wiqK56NR7QSfDWpvg",
+      "firstSeenAt": "2026-10-17T10:40:16.978Z"
+    }
+  ],
+  "recentItems": []
+}

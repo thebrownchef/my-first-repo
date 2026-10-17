@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCVTVQqzVjSoj52d4OGIhlSw",
   "title": "A-JAX",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lZTOCkRc6UVWYK9D2tJyMJQ4gUw8SkbYAr1SXnyfBZ-w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Hot Game (song)",
       "url": "https://en.wikipedia.org/wiki/Hot_Game_(song)",
       "firstSeenAt": "2026-10-13T14:07:55.894Z"
+    },
+    {
+      "id": "wiki:2MYX",
+      "type": "wikipedia",
+      "label": "2MYX",
+      "url": "https://en.wikipedia.org/wiki/2MYX",
+      "firstSeenAt": "2026-10-17T10:39:51.978Z"
     }
   ],
   "recentItems": []

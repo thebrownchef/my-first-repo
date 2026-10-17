@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UC56gTxNs4f9xZ7Pa2i5xNzg",
   "title": "Sony Music India",
   "thumb": "https://yt3.ggpht.com/42o3XIW1j5zmzsFeZs3ND4QwaXXrnpK9vqftcEuEdbgNhPbltXRktcSmyJ12-gSRqKch93Ir=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 2.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Neethaane En Ponvasantham (soundtrack)",
       "url": "https://en.wikipedia.org/wiki/Neethaane_En_Ponvasantham_(soundtrack)",
       "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "channel:UC_1lxHcoT6cvnXdA3vukqKw",
+      "type": "channel",
+      "label": "Sony India",
+      "url": "https://www.youtube.com/channel/UC_1lxHcoT6cvnXdA3vukqKw",
+      "firstSeenAt": "2026-10-17T10:40:15.904Z"
     }
   ],
   "recentItems": []

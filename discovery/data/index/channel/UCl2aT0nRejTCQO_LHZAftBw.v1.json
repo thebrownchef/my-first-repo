@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCl2aT0nRejTCQO_LHZAftBw",
   "title": "UNIVERSAL MUSIC JAPAN",
   "thumb": "https://yt3.ggpht.com/yH850lOJjx0xRC7r69WxylQITd9m2RKE11ihqbToi19NTacCjlJKkKUyv2jl27o7tEZ-RtHxFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 1.17,
   "sources": [
@@ -85,6 +85,20 @@
       "label": "Electric Boy",
       "url": "https://en.wikipedia.org/wiki/Electric_Boy",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Heat (Kim Hyun-joong song)",
+      "type": "wikipedia",
+      "label": "Heat (Kim Hyun-joong song)",
+      "url": "https://en.wikipedia.org/wiki/Heat_(Kim_Hyun-joong_song)",
+      "firstSeenAt": "2026-10-17T10:39:50.953Z"
+    },
+    {
+      "id": "wiki:Kiss Kiss / Lucky Guy",
+      "type": "wikipedia",
+      "label": "Kiss Kiss / Lucky Guy",
+      "url": "https://en.wikipedia.org/wiki/Kiss_Kiss_%2F_Lucky_Guy",
+      "firstSeenAt": "2026-10-17T10:39:51.187Z"
     }
   ],
   "recentItems": []

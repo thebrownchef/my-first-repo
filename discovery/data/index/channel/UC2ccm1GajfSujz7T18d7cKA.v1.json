@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UC2ccm1GajfSujz7T18d7cKA",
   "title": "BBC Studios",
   "thumb": "https://yt3.ggpht.com/eJvbR6DJpYIzNu5K9NXr3JHc_c0-8ds7W9CnZ0xywzZQfOTKC9GoMFfEeFMNXKAp9LL9DeaiwOM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Pigeon photography",
       "url": "https://en.wikipedia.org/wiki/Pigeon_photography",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Vervet monkey",
+      "type": "wikipedia",
+      "label": "Vervet monkey",
+      "url": "https://en.wikipedia.org/wiki/Vervet_monkey",
+      "firstSeenAt": "2026-10-17T10:39:53.134Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCYlQTBDMJvQwYMYLljp6GUw",
   "title": "guysebastianVEVO",
   "thumb": "https://yt3.ggpht.com/z8khux6zoAtDa1staq_svZzNlW7_49OhgnODwCQpHYX1rxMw43mJWHmvmoRYfLao2GEqWgZYKA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Don't Worry Be Happy (Guy Sebastian song)",
       "url": "https://en.wikipedia.org/wiki/Don't_Worry_Be_Happy_(Guy_Sebastian_song)",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Get Along (Guy Sebastian song)",
+      "type": "wikipedia",
+      "label": "Get Along (Guy Sebastian song)",
+      "url": "https://en.wikipedia.org/wiki/Get_Along_(Guy_Sebastian_song)",
+      "firstSeenAt": "2026-10-17T10:39:53.133Z"
     }
   ],
   "recentItems": []

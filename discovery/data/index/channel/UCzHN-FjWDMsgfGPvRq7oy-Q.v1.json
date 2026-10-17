@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "id": "UCzHN-FjWDMsgfGPvRq7oy-Q",
+  "title": "FOX6 News Milwaukee",
+  "thumb": "https://yt3.ggpht.com/99unnDx1I4pviRyFwDFKwXcMQu1KoW4cHBQmgoNjLqZpgBdb4X59hj4c0i_mLsGnOF4KdouqHQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 5.77,
+  "sources": [
+    {
+      "id": "channel:UCJg9wBPyKMNA5sRDnvzmkdg",
+      "type": "channel",
+      "label": "LiveNOW from FOX",
+      "url": "https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg",
+      "firstSeenAt": "2026-10-17T10:40:12.786Z"
+    },
+    {
+      "id": "channel:UCuXT13wiqK56NR7QSfDWpvg",
+      "type": "channel",
+      "label": "FOX 35 Orlando",
+      "url": "https://www.youtube.com/channel/UCuXT13wiqK56NR7QSfDWpvg",
+      "firstSeenAt": "2026-10-17T10:40:16.980Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCxhuB4y_UbTAfgmKuLBF0sA",
   "title": "IRTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2XOmuCF_AWp1NA4uQC1Kt4YP5U93WmSQMSgGfnHvtYJU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Moche, Trujillo",
       "url": "https://en.wikipedia.org/wiki/Moche%2C_Trujillo",
       "firstSeenAt": "2026-10-16T11:19:26.090Z"
+    },
+    {
+      "id": "wiki:Moche Valley",
+      "type": "wikipedia",
+      "label": "Moche Valley",
+      "url": "https://en.wikipedia.org/wiki/Moche_Valley",
+      "firstSeenAt": "2026-10-17T10:39:53.134Z"
     }
   ],
   "recentItems": []

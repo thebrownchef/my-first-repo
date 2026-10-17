@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCvdBQY1AvNjh7nexxgnhkmQ",
   "title": "BBC Asian Network",
   "thumb": "https://yt3.ggpht.com/Elm2pDZHQoo3BEpFJ9-HxjoD1Ow5Mdko5cbefCptHLbE1mrJSca4cR4U0i1XJcVFwzBaoLGk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "BBC",
       "url": "https://www.youtube.com/channel/UCCj956IF62FbT7Gouszaj9w",
       "firstSeenAt": "2026-09-02T11:15:24.115Z"
+    },
+    {
+      "id": "channel:UC0I7vqXBpjRfRr9lmm_FGRQ",
+      "type": "channel",
+      "label": "JoiSoundSystematTairona",
+      "url": "https://www.youtube.com/channel/UC0I7vqXBpjRfRr9lmm_FGRQ",
+      "firstSeenAt": "2026-10-17T10:40:04.668Z"
     }
   ],
   "recentItems": []

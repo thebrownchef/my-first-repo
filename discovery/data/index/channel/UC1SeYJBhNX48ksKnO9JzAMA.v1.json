@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UC1SeYJBhNX48ksKnO9JzAMA",
   "title": "Alejandro Sanz Catálogo",
   "thumb": "https://yt3.ggpht.com/WcV_hJVkOGR5_QoLdbaGyaTXsRkBj6xEYv_HGe4WQVQpm2eyjZsmTbDV3nDQOwA--2VLbOODg4g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Y, ¿Si Fuera Ella?",
       "url": "https://en.wikipedia.org/wiki/Y%2C_%C2%BFSi_Fuera_Ella%3F",
       "firstSeenAt": "2026-10-15T11:24:53.710Z"
+    },
+    {
+      "id": "wiki:Nuestro Amor Será Leyenda",
+      "type": "wikipedia",
+      "label": "Nuestro Amor Será Leyenda",
+      "url": "https://en.wikipedia.org/wiki/Nuestro_Amor_Ser%C3%A1_Leyenda",
+      "firstSeenAt": "2026-10-17T10:39:49.194Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCbochVIwBCzJb9I2lLGXGjQ",
   "title": "Rhett & Link",
   "thumb": "https://yt3.ggpht.com/9nxp2XuopHQ5hBCdUONWlfRCFNIvNlZi4Gknou_ZJESTCoj2BYVW98dbbDf-yFOzSdkEASjE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "A Hot Dog Is A Sandwich",
       "url": "https://www.youtube.com/channel/UCgcVfgkzo4oBgSdPCB0B2Cg",
       "firstSeenAt": "2026-10-13T14:08:10.364Z"
+    },
+    {
+      "id": "channel:UCKEXu8aCjrudFNx2jq9FfQw",
+      "type": "channel",
+      "label": "FRED",
+      "url": "https://www.youtube.com/channel/UCKEXu8aCjrudFNx2jq9FfQw",
+      "firstSeenAt": "2026-10-17T10:40:07.202Z"
     }
   ],
   "recentItems": []

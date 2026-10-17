@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCd4b1gxOxjl3cD6DEBeo6dw",
   "title": "FOX Soul",
   "thumb": "https://yt3.ggpht.com/Vvn3-d3BniLJWdT4oeOzRLZBDQ4sEiX3Y2cNy7UvssHjb4GU4BFkD81Y7obw7BW2FIMFpd6j_Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 3.11,
   "sources": [
@@ -22,6 +22,62 @@
       "label": "FOX 11 Los Angeles",
       "url": "https://www.youtube.com/channel/UCHfF8wFnipMeDpJf8OmMxDg",
       "firstSeenAt": "2026-09-15T11:41:57.626Z"
+    },
+    {
+      "id": "channel:UCJg9wBPyKMNA5sRDnvzmkdg",
+      "type": "channel",
+      "label": "LiveNOW from FOX",
+      "url": "https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg",
+      "firstSeenAt": "2026-10-17T10:40:12.780Z"
+    },
+    {
+      "id": "channel:UCFmofUYwZd1Ibf_O3PF71jg",
+      "type": "channel",
+      "label": "FOX 32 Chicago",
+      "url": "https://www.youtube.com/channel/UCFmofUYwZd1Ibf_O3PF71jg",
+      "firstSeenAt": "2026-10-17T10:40:13.654Z"
+    },
+    {
+      "id": "channel:UCjHWv2DU5-HLpogAAr386DQ",
+      "type": "channel",
+      "label": "FOX 5 Atlanta",
+      "url": "https://www.youtube.com/channel/UCjHWv2DU5-HLpogAAr386DQ",
+      "firstSeenAt": "2026-10-17T10:40:14.282Z"
+    },
+    {
+      "id": "channel:UClwddNv0Cr6SIEGkzVK886w",
+      "type": "channel",
+      "label": "FOX 9 Minneapolis-St. Paul",
+      "url": "https://www.youtube.com/channel/UClwddNv0Cr6SIEGkzVK886w",
+      "firstSeenAt": "2026-10-17T10:40:16.123Z"
+    },
+    {
+      "id": "channel:UC5maSolHQX9er0BOxrzjMwA",
+      "type": "channel",
+      "label": "FOX 7 Austin",
+      "url": "https://www.youtube.com/channel/UC5maSolHQX9er0BOxrzjMwA",
+      "firstSeenAt": "2026-10-17T10:40:16.329Z"
+    },
+    {
+      "id": "channel:UCHLyP4MuA-JAFBCwxXOEDdA",
+      "type": "channel",
+      "label": "FOX 5 Washington DC",
+      "url": "https://www.youtube.com/channel/UCHLyP4MuA-JAFBCwxXOEDdA",
+      "firstSeenAt": "2026-10-17T10:40:16.410Z"
+    },
+    {
+      "id": "channel:UCuXT13wiqK56NR7QSfDWpvg",
+      "type": "channel",
+      "label": "FOX 35 Orlando",
+      "url": "https://www.youtube.com/channel/UCuXT13wiqK56NR7QSfDWpvg",
+      "firstSeenAt": "2026-10-17T10:40:16.975Z"
+    },
+    {
+      "id": "channel:UCNjfNLnQYbjBEvnS8KFuyGQ",
+      "type": "channel",
+      "label": "FOX 10 Phoenix",
+      "url": "https://www.youtube.com/channel/UCNjfNLnQYbjBEvnS8KFuyGQ",
+      "firstSeenAt": "2026-10-17T10:40:17.514Z"
     }
   ],
   "recentItems": []

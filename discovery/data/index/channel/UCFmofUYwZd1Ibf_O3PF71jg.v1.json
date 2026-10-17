@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCFmofUYwZd1Ibf_O3PF71jg",
   "title": "FOX 32 Chicago",
   "thumb": "https://yt3.ggpht.com/UqOZlBKAIxa8ATiVV_p_ojdDwVD7OI8DgD6J3qjfqCZL-25FttvVibbxergjdJQ8eLRbwy5G=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 7.11,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "FOX 11 Los Angeles",
       "url": "https://www.youtube.com/channel/UCHfF8wFnipMeDpJf8OmMxDg",
       "firstSeenAt": "2026-09-15T11:41:57.626Z"
+    },
+    {
+      "id": "channel:UCJg9wBPyKMNA5sRDnvzmkdg",
+      "type": "channel",
+      "label": "LiveNOW from FOX",
+      "url": "https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg",
+      "firstSeenAt": "2026-10-17T10:40:12.782Z"
+    },
+    {
+      "id": "channel:UCHLyP4MuA-JAFBCwxXOEDdA",
+      "type": "channel",
+      "label": "FOX 5 Washington DC",
+      "url": "https://www.youtube.com/channel/UCHLyP4MuA-JAFBCwxXOEDdA",
+      "firstSeenAt": "2026-10-17T10:40:16.414Z"
+    },
+    {
+      "id": "channel:UCuXT13wiqK56NR7QSfDWpvg",
+      "type": "channel",
+      "label": "FOX 35 Orlando",
+      "url": "https://www.youtube.com/channel/UCuXT13wiqK56NR7QSfDWpvg",
+      "firstSeenAt": "2026-10-17T10:40:16.979Z"
     }
   ],
   "recentItems": []

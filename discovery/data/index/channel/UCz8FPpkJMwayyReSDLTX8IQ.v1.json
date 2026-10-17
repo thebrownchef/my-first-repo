@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCz8FPpkJMwayyReSDLTX8IQ",
   "title": "Nickelback",
   "thumb": "https://yt3.ggpht.com/kjPoMfjh6uz6WDwOLFU51DrnKTPUny5g_lrbsdRpFUl92NMinj1_N_vC-U5wB1lTFba0w1oMAvc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Photograph (Nickelback song)",
       "url": "https://en.wikipedia.org/wiki/Photograph_(Nickelback_song)",
       "firstSeenAt": "2026-10-14T11:48:17.920Z"
+    },
+    {
+      "id": "wiki:If Everyone Cared",
+      "type": "wikipedia",
+      "label": "If Everyone Cared",
+      "url": "https://en.wikipedia.org/wiki/If_Everyone_Cared",
+      "firstSeenAt": "2026-10-17T10:39:49.194Z"
     }
   ],
   "recentItems": []

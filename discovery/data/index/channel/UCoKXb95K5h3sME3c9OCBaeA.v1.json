@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCoKXb95K5h3sME3c9OCBaeA",
   "title": "モーニング娘。",
   "thumb": "https://yt3.ggpht.com/OVFC8Odl8kyPuIItG7ibp1f95XiBxucD0yUjcFShnXgmKzfQ_Ok0xfl2gYI658VDT_60RyvIJA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Sakura Oda",
       "url": "https://en.wikipedia.org/wiki/Sakura_Oda",
       "firstSeenAt": "2026-10-15T11:24:53.710Z"
+    },
+    {
+      "id": "channel:UCfqZbR2ReqINXkx6aRkkSWg",
+      "type": "channel",
+      "label": "youkikkawa",
+      "url": "https://www.youtube.com/channel/UCfqZbR2ReqINXkx6aRkkSWg",
+      "firstSeenAt": "2026-10-17T10:40:04.399Z"
     }
   ],
   "recentItems": []

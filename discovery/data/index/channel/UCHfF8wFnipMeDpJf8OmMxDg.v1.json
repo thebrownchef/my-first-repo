@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCHfF8wFnipMeDpJf8OmMxDg",
   "title": "FOX 11 Los Angeles",
   "thumb": "https://yt3.ggpht.com/FASPUSNqAlmqrE3OOuipEtDk3RpQm5FzG4Ho2tMd7bnYvm_Bwp-qK1Sp830At6kLxq2H04Bi=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 6.74,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.760Z"
+    },
+    {
+      "id": "channel:UCJg9wBPyKMNA5sRDnvzmkdg",
+      "type": "channel",
+      "label": "LiveNOW from FOX",
+      "url": "https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg",
+      "firstSeenAt": "2026-10-17T10:40:12.781Z"
+    },
+    {
+      "id": "channel:UC5maSolHQX9er0BOxrzjMwA",
+      "type": "channel",
+      "label": "FOX 7 Austin",
+      "url": "https://www.youtube.com/channel/UC5maSolHQX9er0BOxrzjMwA",
+      "firstSeenAt": "2026-10-17T10:40:16.332Z"
+    },
+    {
+      "id": "channel:UCHLyP4MuA-JAFBCwxXOEDdA",
+      "type": "channel",
+      "label": "FOX 5 Washington DC",
+      "url": "https://www.youtube.com/channel/UCHLyP4MuA-JAFBCwxXOEDdA",
+      "firstSeenAt": "2026-10-17T10:40:16.413Z"
+    },
+    {
+      "id": "channel:UCuXT13wiqK56NR7QSfDWpvg",
+      "type": "channel",
+      "label": "FOX 35 Orlando",
+      "url": "https://www.youtube.com/channel/UCuXT13wiqK56NR7QSfDWpvg",
+      "firstSeenAt": "2026-10-17T10:40:16.977Z"
     }
   ],
   "recentItems": []

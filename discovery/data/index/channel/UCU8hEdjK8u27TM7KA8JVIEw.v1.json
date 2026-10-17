@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCU8hEdjK8u27TM7KA8JVIEw",
   "title": "UsherVEVO",
   "thumb": "https://yt3.ggpht.com/QPlXRtzY8qQtePXQAZXvMlwSLdvxEA6yyY8iwnZ2EahjqUmypc_BOfbcFIduJ6sdWLrM2u4b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Lemme See",
       "url": "https://en.wikipedia.org/wiki/Lemme_See",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Scream (Usher song)",
+      "type": "wikipedia",
+      "label": "Scream (Usher song)",
+      "url": "https://en.wikipedia.org/wiki/Scream_(Usher_song)",
+      "firstSeenAt": "2026-10-17T10:39:49.194Z"
+    },
+    {
+      "id": "wiki:Dive (Usher song)",
+      "type": "wikipedia",
+      "label": "Dive (Usher song)",
+      "url": "https://en.wikipedia.org/wiki/Dive_(Usher_song)",
+      "firstSeenAt": "2026-10-17T10:39:49.194Z"
     }
   ],
   "recentItems": []

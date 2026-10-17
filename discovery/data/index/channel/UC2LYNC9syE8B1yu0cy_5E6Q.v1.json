@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UC2LYNC9syE8B1yu0cy_5E6Q",
   "title": "The Backyardigans - Official",
   "thumb": "https://yt3.ggpht.com/nUoOn-1etijgutty6I-c31P3VZU1rBRBa-jsc9m7fZ1wths5tYy3nxBVvRtBXBYDy1ITsWviug=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 2,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "Nick Jr.",
       "url": "https://www.youtube.com/channel/UCUe6ZpY6TJ0no8jI4l2iLxw",
       "firstSeenAt": "2026-09-20T11:20:09.861Z"
+    },
+    {
+      "id": "channel:UCoEx2PlHPo4V6Dwr7-dnPCw",
+      "type": "channel",
+      "label": "Treehouse Direct Brasil",
+      "url": "https://www.youtube.com/channel/UCoEx2PlHPo4V6Dwr7-dnPCw",
+      "firstSeenAt": "2026-10-17T10:40:13.874Z"
+    },
+    {
+      "id": "channel:UCcJT_hEkkQ03NAzp_6NEBiw",
+      "type": "channel",
+      "label": "Treehouse Direct",
+      "url": "https://www.youtube.com/channel/UCcJT_hEkkQ03NAzp_6NEBiw",
+      "firstSeenAt": "2026-10-17T10:40:14.242Z"
+    },
+    {
+      "id": "channel:UC7cp-jYEghpOXqBx4NhAb-Q",
+      "type": "channel",
+      "label": "Treehouse Direct 한국 (Korean)",
+      "url": "https://www.youtube.com/channel/UC7cp-jYEghpOXqBx4NhAb-Q",
+      "firstSeenAt": "2026-10-17T10:40:15.468Z"
+    },
+    {
+      "id": "channel:UCAnkuJOgyhfPrmMqla_0PSA",
+      "type": "channel",
+      "label": "Treehouse Direct Español",
+      "url": "https://www.youtube.com/channel/UCAnkuJOgyhfPrmMqla_0PSA",
+      "firstSeenAt": "2026-10-17T10:40:16.160Z"
+    },
+    {
+      "id": "channel:UCsi-_xGuc5S9Efh0D1jjvwA",
+      "type": "channel",
+      "label": "Treehouse Direct Français",
+      "url": "https://www.youtube.com/channel/UCsi-_xGuc5S9Efh0D1jjvwA",
+      "firstSeenAt": "2026-10-17T10:40:17.180Z"
     }
   ],
   "recentItems": []

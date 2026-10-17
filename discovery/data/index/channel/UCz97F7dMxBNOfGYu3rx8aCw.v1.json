@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCz97F7dMxBNOfGYu3rx8aCw",
   "title": "Sony Pictures Entertainment",
   "thumb": "https://yt3.ggpht.com/Kv_B3VAb1rzA-qu3JxxxV1QFJNhg_DMHpMsSpaMgJHEC8WhuU2Y1ijyG75n0gMJeMq7twfYE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.74,
   "sources": [
@@ -36,6 +36,34 @@
       "label": "Set the Fire to the Third Bar",
       "url": "https://en.wikipedia.org/wiki/Set_the_Fire_to_the_Third_Bar",
       "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "channel:UCsmJ-6uyV8HDxO0BmPWk-kQ",
+      "type": "channel",
+      "label": "Sony Europe",
+      "url": "https://www.youtube.com/channel/UCsmJ-6uyV8HDxO0BmPWk-kQ",
+      "firstSeenAt": "2026-10-17T10:40:14.058Z"
+    },
+    {
+      "id": "channel:UCVjS9AuBloqJJjhsy3vIfug",
+      "type": "channel",
+      "label": "Sony",
+      "url": "https://www.youtube.com/channel/UCVjS9AuBloqJJjhsy3vIfug",
+      "firstSeenAt": "2026-10-17T10:40:15.387Z"
+    },
+    {
+      "id": "channel:UCnLuLSV-Oi0ctqjxGgxFlmg",
+      "type": "channel",
+      "label": "Sony Pictures Animation",
+      "url": "https://www.youtube.com/channel/UCnLuLSV-Oi0ctqjxGgxFlmg",
+      "firstSeenAt": "2026-10-17T10:40:15.665Z"
+    },
+    {
+      "id": "channel:UCqH2YMSzMaGN92Vc3VkhWnQ",
+      "type": "channel",
+      "label": "Sony Pics at Home",
+      "url": "https://www.youtube.com/channel/UCqH2YMSzMaGN92Vc3VkhWnQ",
+      "firstSeenAt": "2026-10-17T10:40:17.117Z"
     }
   ],
   "recentItems": []

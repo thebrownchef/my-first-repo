@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UC0wr07HyxMwJdtTbNIyKdAQ",
   "title": "TheGiPiM",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kAyfh8jLxciq0W8VYxzBzOQ0-mxNfQ37nqsT-48YuAdw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -43,6 +43,34 @@
       "label": "Huanchaco",
       "url": "https://en.wikipedia.org/wiki/Huanchaco",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Víctor Felipe Calderón Valeriano",
+      "type": "wikipedia",
+      "label": "Víctor Felipe Calderón Valeriano",
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Felipe_Calder%C3%B3n_Valeriano",
+      "firstSeenAt": "2026-10-17T10:39:53.133Z"
+    },
+    {
+      "id": "wiki:Trujillo Spring Festival",
+      "type": "wikipedia",
+      "label": "Trujillo Spring Festival",
+      "url": "https://en.wikipedia.org/wiki/Trujillo_Spring_Festival",
+      "firstSeenAt": "2026-10-17T10:39:53.133Z"
+    },
+    {
+      "id": "wiki:Trujillo Marinera Festival",
+      "type": "wikipedia",
+      "label": "Trujillo Marinera Festival",
+      "url": "https://en.wikipedia.org/wiki/Trujillo_Marinera_Festival",
+      "firstSeenAt": "2026-10-17T10:39:53.133Z"
+    },
+    {
+      "id": "wiki:El Milagro, Peru",
+      "type": "wikipedia",
+      "label": "El Milagro, Peru",
+      "url": "https://en.wikipedia.org/wiki/El_Milagro%2C_Peru",
+      "firstSeenAt": "2026-10-17T10:39:53.133Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCEkv1hU_NpLPcw4HK5Y_iYw",
   "title": "12NewsNow",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mft4s85XCN8n-E2hhH8vxuboOyLK5n2QbjFFb4tczL8rZr=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 9.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "10 Tampa Bay News",
       "url": "https://www.youtube.com/channel/UCMYlXK0jyerVnc3dmz-vjCA",
       "firstSeenAt": "2026-09-07T12:28:18.066Z"
+    },
+    {
+      "id": "channel:UCPjgzQgWuPsrYDSuP_CENOw",
+      "type": "channel",
+      "label": "KIII 3 News",
+      "url": "https://www.youtube.com/channel/UCPjgzQgWuPsrYDSuP_CENOw",
+      "firstSeenAt": "2026-10-17T10:40:19.569Z"
     }
   ],
   "recentItems": []

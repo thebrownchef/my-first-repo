@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T11:21:18.520Z",
+  "generatedAt": "2026-10-17T10:41:34.394Z",
   "id": "UCupvZG-5ko_eiXAupbDfxWw",
   "title": "CNN",
   "thumb": "https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 24.38,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Russian warship, go fuck yourself",
       "url": "https://en.wikipedia.org/wiki/Russian_warship%2C_go_fuck_yourself",
       "firstSeenAt": "2026-09-02T11:15:12.106Z"
+    },
+    {
+      "id": "wiki:2012 United States House of Representatives elections in Hawaii",
+      "type": "wikipedia",
+      "label": "2012 United States House of Representatives elections in Hawaii",
+      "url": "https://en.wikipedia.org/wiki/2012_United_States_House_of_Representatives_elections_in_Hawaii",
+      "firstSeenAt": "2026-10-17T10:39:53.133Z"
     }
   ],
   "recentItems": []
