@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCLVuFalKwJ51pGQKivb-MZQ",
   "title": "sinetur",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l_TZhKjmXodS7HdpKEGi1Ku8trB9gXowBzp3TO-zz3rg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -50,6 +50,55 @@
       "label": "El Milagro, Peru",
       "url": "https://en.wikipedia.org/wiki/El_Milagro%2C_Peru",
       "firstSeenAt": "2026-10-17T10:39:53.133Z"
+    },
+    {
+      "id": "wiki:PLANDET",
+      "type": "wikipedia",
+      "label": "PLANDET",
+      "url": "https://en.wikipedia.org/wiki/PLANDET",
+      "firstSeenAt": "2026-10-18T11:00:36.405Z"
+    },
+    {
+      "id": "wiki:Open Plaza Los Jardines",
+      "type": "wikipedia",
+      "label": "Open Plaza Los Jardines",
+      "url": "https://en.wikipedia.org/wiki/Open_Plaza_Los_Jardines",
+      "firstSeenAt": "2026-10-18T11:00:36.405Z"
+    },
+    {
+      "id": "wiki:Paseo de Aguas, Trujillo",
+      "type": "wikipedia",
+      "label": "Paseo de Aguas, Trujillo",
+      "url": "https://en.wikipedia.org/wiki/Paseo_de_Aguas%2C_Trujillo",
+      "firstSeenAt": "2026-10-18T11:00:36.405Z"
+    },
+    {
+      "id": "wiki:Plazuela El Recreo",
+      "type": "wikipedia",
+      "label": "Plazuela El Recreo",
+      "url": "https://en.wikipedia.org/wiki/Plazuela_El_Recreo",
+      "firstSeenAt": "2026-10-18T11:00:36.405Z"
+    },
+    {
+      "id": "wiki:Caja Trujillo",
+      "type": "wikipedia",
+      "label": "Caja Trujillo",
+      "url": "https://en.wikipedia.org/wiki/Caja_Trujillo",
+      "firstSeenAt": "2026-10-18T11:00:36.406Z"
+    },
+    {
+      "id": "wiki:Paseo Pizarro",
+      "type": "wikipedia",
+      "label": "Paseo Pizarro",
+      "url": "https://en.wikipedia.org/wiki/Paseo_Pizarro",
+      "firstSeenAt": "2026-10-18T11:00:36.406Z"
+    },
+    {
+      "id": "wiki:Mansiche Sports Complex",
+      "type": "wikipedia",
+      "label": "Mansiche Sports Complex",
+      "url": "https://en.wikipedia.org/wiki/Mansiche_Sports_Complex",
+      "firstSeenAt": "2026-10-18T11:00:36.406Z"
     }
   ],
   "recentItems": []

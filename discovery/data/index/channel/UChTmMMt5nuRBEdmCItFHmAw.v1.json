@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UChTmMMt5nuRBEdmCItFHmAw",
   "title": "Penguin Books UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mj_Zn7pMMj5b3RsN5_Nc5SpQrHS5VB7Hk-g-JdPwwdFUg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Penguin Random House UK",
       "url": "https://www.youtube.com/channel/UCSgdtV5-OMx8lCtnnrMMXYg",
       "firstSeenAt": "2026-10-15T11:25:23.886Z"
+    },
+    {
+      "id": "channel:UCU54pVtpIN2sTJF3BHv46MA",
+      "type": "channel",
+      "label": "Transworld Books",
+      "url": "https://www.youtube.com/channel/UCU54pVtpIN2sTJF3BHv46MA",
+      "firstSeenAt": "2026-10-18T11:01:13.666Z"
+    },
+    {
+      "id": "channel:UCYqleO64PBNL9HzwV-g5S4w",
+      "type": "channel",
+      "label": "The Happy Foodie",
+      "url": "https://www.youtube.com/channel/UCYqleO64PBNL9HzwV-g5S4w",
+      "firstSeenAt": "2026-10-18T11:01:13.833Z"
     }
   ],
   "recentItems": []

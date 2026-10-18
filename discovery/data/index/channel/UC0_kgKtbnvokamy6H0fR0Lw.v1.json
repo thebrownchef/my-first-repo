@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UC0_kgKtbnvokamy6H0fR0Lw",
   "title": "MRT Comedy",
   "thumb": "https://yt3.ggpht.com/47uzZd2i-neRccYENf21_C2QK98SdFunwL9o2hwBDsyM9W_giBTwe4lOnnYvkDEhDWcpu2Fd9Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,55 @@
       "label": "MRT Music - Kannada",
       "url": "https://www.youtube.com/channel/UCNzMau0ZRL_k8vUWWTE_gVA",
       "firstSeenAt": "2026-09-09T11:19:56.939Z"
+    },
+    {
+      "id": "channel:UCl9dnfze_NhNQx7AlOr608Q",
+      "type": "channel",
+      "label": "MRT Music - Carnatic Classical",
+      "url": "https://www.youtube.com/channel/UCl9dnfze_NhNQx7AlOr608Q",
+      "firstSeenAt": "2026-10-18T11:01:11.891Z"
+    },
+    {
+      "id": "channel:UCT9NRsQ0_K-2PDZIgDGQYhg",
+      "type": "channel",
+      "label": "MRT Music - Bhakthi Sagara",
+      "url": "https://www.youtube.com/channel/UCT9NRsQ0_K-2PDZIgDGQYhg",
+      "firstSeenAt": "2026-10-18T11:01:11.957Z"
+    },
+    {
+      "id": "channel:UCVOxHOenLYD2ri-58aTHhHw",
+      "type": "channel",
+      "label": "MRT Music - Malayalam",
+      "url": "https://www.youtube.com/channel/UCVOxHOenLYD2ri-58aTHhHw",
+      "firstSeenAt": "2026-10-18T11:01:12.351Z"
+    },
+    {
+      "id": "channel:UC4y7kFjt7rPzfljHMsebafw",
+      "type": "channel",
+      "label": "MRT Music - Telugu Folk",
+      "url": "https://www.youtube.com/channel/UC4y7kFjt7rPzfljHMsebafw",
+      "firstSeenAt": "2026-10-18T11:01:12.414Z"
+    },
+    {
+      "id": "channel:UCyvSN-Hw7dQ3IwV_w9NL5RA",
+      "type": "channel",
+      "label": "MRT Music",
+      "url": "https://www.youtube.com/channel/UCyvSN-Hw7dQ3IwV_w9NL5RA",
+      "firstSeenAt": "2026-10-18T11:01:12.471Z"
+    },
+    {
+      "id": "channel:UCnUz9N0JlUXiS1BWgpDNKYw",
+      "type": "channel",
+      "label": "MRT Music - Podcast",
+      "url": "https://www.youtube.com/channel/UCnUz9N0JlUXiS1BWgpDNKYw",
+      "firstSeenAt": "2026-10-18T11:01:12.531Z"
+    },
+    {
+      "id": "channel:UCADyYg574jxQL__LtTZhypQ",
+      "type": "channel",
+      "label": "MRT Music - Tamil",
+      "url": "https://www.youtube.com/channel/UCADyYg574jxQL__LtTZhypQ",
+      "firstSeenAt": "2026-10-18T11:01:12.589Z"
     }
   ],
   "recentItems": []

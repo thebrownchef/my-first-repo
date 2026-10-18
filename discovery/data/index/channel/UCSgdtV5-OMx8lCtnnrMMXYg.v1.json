@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCSgdtV5-OMx8lCtnnrMMXYg",
   "title": "Penguin Random House UK",
   "thumb": "https://yt3.ggpht.com/s47WKFLrNkeLX_bN306vhlLGz6IwgjO6MG2VO9AMRkiTwW3wt-HrpyB72DHGHgkeH-4Gx6AYtQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Penguin Books UK",
       "url": "https://www.youtube.com/channel/UChTmMMt5nuRBEdmCItFHmAw",
       "firstSeenAt": "2026-09-07T12:28:22.228Z"
+    },
+    {
+      "id": "channel:UCU54pVtpIN2sTJF3BHv46MA",
+      "type": "channel",
+      "label": "Transworld Books",
+      "url": "https://www.youtube.com/channel/UCU54pVtpIN2sTJF3BHv46MA",
+      "firstSeenAt": "2026-10-18T11:01:13.667Z"
     }
   ],
   "recentItems": []

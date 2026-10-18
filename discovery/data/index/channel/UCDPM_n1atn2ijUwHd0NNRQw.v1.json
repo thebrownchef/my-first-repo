@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCDPM_n1atn2ijUwHd0NNRQw",
   "title": "Coldplay",
   "thumb": "https://yt3.ggpht.com/vWWn3HO1emNl2iGb08UuY4q_OtqXwUUWJMjMDr6bBPpuCBoWg-dE_Gu-yoMQNrBqb2gMzA3wLQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "WOW TV",
       "url": "https://www.youtube.com/channel/UCbOmdGuNF-dUQsIN_BO9JTw",
       "firstSeenAt": "2026-10-15T11:25:06.462Z"
+    },
+    {
+      "id": "wiki:Hurts Like Heaven",
+      "type": "wikipedia",
+      "label": "Hurts Like Heaven",
+      "url": "https://en.wikipedia.org/wiki/Hurts_Like_Heaven",
+      "firstSeenAt": "2026-10-18T11:00:36.405Z"
     }
   ],
   "recentItems": []

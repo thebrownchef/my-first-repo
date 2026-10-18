@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCl2aT0nRejTCQO_LHZAftBw",
   "title": "UNIVERSAL MUSIC JAPAN",
   "thumb": "https://yt3.ggpht.com/yH850lOJjx0xRC7r69WxylQITd9m2RKE11ihqbToi19NTacCjlJKkKUyv2jl27o7tEZ-RtHxFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 1.17,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Kiss Kiss / Lucky Guy",
       "url": "https://en.wikipedia.org/wiki/Kiss_Kiss_%2F_Lucky_Guy",
       "firstSeenAt": "2026-10-17T10:39:51.187Z"
+    },
+    {
+      "id": "wiki:Unlimited (Kim Hyun-joong album)",
+      "type": "wikipedia",
+      "label": "Unlimited (Kim Hyun-joong album)",
+      "url": "https://en.wikipedia.org/wiki/Unlimited_(Kim_Hyun-joong_album)",
+      "firstSeenAt": "2026-10-18T11:00:35.730Z"
     }
   ],
   "recentItems": []

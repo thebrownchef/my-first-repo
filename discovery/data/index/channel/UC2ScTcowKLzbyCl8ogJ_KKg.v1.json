@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UC2ScTcowKLzbyCl8ogJ_KKg",
   "title": "laurapausinitv",
   "thumb": "https://yt3.ggpht.com/3Glz2RL13txCrjqKMS5BUtB9VN1wRFIa12bvfwbKv3zGIqXwjfAPKH9vpT935QH17h0wcS_laA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Celeste (song)",
       "url": "https://en.wikipedia.org/wiki/Celeste_(song)",
       "firstSeenAt": "2026-10-17T10:39:51.977Z"
+    },
+    {
+      "id": "wiki:Troppo tempo",
+      "type": "wikipedia",
+      "label": "Troppo tempo",
+      "url": "https://en.wikipedia.org/wiki/Troppo_tempo",
+      "firstSeenAt": "2026-10-18T11:00:39.492Z"
     }
   ],
   "recentItems": []

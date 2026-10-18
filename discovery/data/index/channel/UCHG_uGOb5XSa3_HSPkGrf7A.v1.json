@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCHG_uGOb5XSa3_HSPkGrf7A",
   "title": "Universal Parks News Today",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l9Nh3cEU7m1USOmYSKAYUFcq8FsIUIXl66YwsgjJNjmw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.6,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "WDW News Today",
       "url": "https://www.youtube.com/channel/UCRIVd5Ci1bTQqJB_T4q_Jgg",
       "firstSeenAt": "2026-09-13T11:48:39.201Z"
+    },
+    {
+      "id": "channel:UCTt_EAG6rhMLY4gRHini7fg",
+      "type": "channel",
+      "label": "WDWNT POV",
+      "url": "https://www.youtube.com/channel/UCTt_EAG6rhMLY4gRHini7fg",
+      "firstSeenAt": "2026-10-18T11:01:10.962Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UC_HGeTTgbwYjNRbr4Y7RRgg",
   "title": "TV IMEDI",
   "thumb": "https://yt3.ggpht.com/BrnNi-nMLOOwAZA58ccaU5-a3m7kSQwWxY094uzug8yzwVvPkhURkWZUGPGEBSWvab5iIVKOhg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 23.18,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Free People's Party (Georgia)",
       "url": "https://en.wikipedia.org/wiki/Free_People's_Party_(Georgia)",
       "firstSeenAt": "2026-09-24T11:42:39.152Z"
+    },
+    {
+      "id": "wiki:Party of The Free",
+      "type": "wikipedia",
+      "label": "Party of The Free",
+      "url": "https://en.wikipedia.org/wiki/Party_of_The_Free",
+      "firstSeenAt": "2026-10-18T11:00:58.969Z"
     }
   ],
   "recentItems": []

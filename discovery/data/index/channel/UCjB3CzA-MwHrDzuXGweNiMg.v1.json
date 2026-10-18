@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCjB3CzA-MwHrDzuXGweNiMg",
   "title": "TheKillersVEVO",
   "thumb": "https://yt3.ggpht.com/rNQz_e_0TaX5nIR2815xJVxiPTD-LHS3horyD2q2B6-WNMpXCLYrd6dQIAdiunLOoi9SFuWTtZE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Runaways (The Killers song)",
       "url": "https://en.wikipedia.org/wiki/Runaways_(The_Killers_song)",
       "firstSeenAt": "2026-10-14T11:48:17.150Z"
+    },
+    {
+      "id": "wiki:I Feel It in My Bones",
+      "type": "wikipedia",
+      "label": "I Feel It in My Bones",
+      "url": "https://en.wikipedia.org/wiki/I_Feel_It_in_My_Bones",
+      "firstSeenAt": "2026-10-18T11:00:36.405Z"
+    },
+    {
+      "id": "wiki:Miss Atomic Bomb",
+      "type": "wikipedia",
+      "label": "Miss Atomic Bomb",
+      "url": "https://en.wikipedia.org/wiki/Miss_Atomic_Bomb",
+      "firstSeenAt": "2026-10-18T11:00:39.492Z"
     }
   ],
   "recentItems": []

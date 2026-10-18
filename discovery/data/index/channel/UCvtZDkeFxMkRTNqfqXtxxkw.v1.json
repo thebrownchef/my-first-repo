@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCvtZDkeFxMkRTNqfqXtxxkw",
   "title": "systemofadownVEVO",
   "thumb": "https://yt3.ggpht.com/3TOlXUEWAO0l7C4EBm21seW0gf898RB3QKW_YTWUtK37jdy_PuoM1MFru_dr2zMBiG_w3lmd=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Lonely Day",
       "url": "https://en.wikipedia.org/wiki/Lonely_Day",
       "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Aerials (song)",
+      "type": "wikipedia",
+      "label": "Aerials (song)",
+      "url": "https://en.wikipedia.org/wiki/Aerials_(song)",
+      "firstSeenAt": "2026-10-18T11:00:39.492Z"
     }
   ],
   "recentItems": []

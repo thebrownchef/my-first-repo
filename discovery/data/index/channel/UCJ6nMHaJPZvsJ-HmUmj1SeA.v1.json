@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
   "title": "Lionsgate Movies",
   "thumb": "https://yt3.ggpht.com/GV6IoQRuKN2anaXInjyB9EX1s8YN2XuG3GVW-SMMxTSU7gsSskMSJxmQO0IFCrGo9I8GG0WEyAs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.45,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "LionsgateTV",
       "url": "https://www.youtube.com/channel/UCl0dDlnsHaWtviWyncxEwWg",
       "firstSeenAt": "2026-10-01T13:11:08.140Z"
+    },
+    {
+      "id": "wiki:The Expendables (2010 film)",
+      "type": "wikipedia",
+      "label": "The Expendables (2010 film)",
+      "url": "https://en.wikipedia.org/wiki/The_Expendables_(2010_film)",
+      "firstSeenAt": "2026-10-18T11:00:39.492Z"
     }
   ],
   "recentItems": []

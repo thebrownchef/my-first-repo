@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCsiY9eX1oL0a-_yWoYtkbQA",
   "title": "KidCudiVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lUH8fBmm9p8ET44shFFanXPhhlsIjjOGxiXywwiPXhGPw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Just What I Am",
       "url": "https://en.wikipedia.org/wiki/Just_What_I_Am",
       "firstSeenAt": "2026-10-17T10:39:51.977Z"
+    },
+    {
+      "id": "wiki:King Wizard",
+      "type": "wikipedia",
+      "label": "King Wizard",
+      "url": "https://en.wikipedia.org/wiki/King_Wizard",
+      "firstSeenAt": "2026-10-18T11:00:42.648Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCob3R7e0FpnLvbjlJLeOtag",
   "title": "The Parkhive",
   "thumb": "https://yt3.ggpht.com/9hlvdl0Ro7WkAv5ReuQGlTRFRShh40BGXaa_EL0aef585iIwtu3BWeR8zbpGt004TOvdU2VwRs0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "WDW News Today",
       "url": "https://www.youtube.com/channel/UCRIVd5Ci1bTQqJB_T4q_Jgg",
       "firstSeenAt": "2026-09-13T11:48:39.201Z"
+    },
+    {
+      "id": "channel:UCTt_EAG6rhMLY4gRHini7fg",
+      "type": "channel",
+      "label": "WDWNT POV",
+      "url": "https://www.youtube.com/channel/UCTt_EAG6rhMLY4gRHini7fg",
+      "firstSeenAt": "2026-10-18T11:01:10.962Z"
     }
   ],
   "recentItems": []

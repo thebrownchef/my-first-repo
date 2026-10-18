@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCtGzco00YRL-LUZfx4hCpdg",
   "title": "Collective Soul",
   "thumb": "https://yt3.ggpht.com/5i4IBItTnE6AANNwJ-RylHdTuAsOtnKLKLy_IdGk3YGLBEBNFsSLdBe3ly140ZFc6b-4AXSJsw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Blame (Collective Soul song)",
       "url": "https://en.wikipedia.org/wiki/Blame_(Collective_Soul_song)",
       "firstSeenAt": "2026-10-17T10:39:53.134Z"
+    },
+    {
+      "id": "wiki:Smashing Young Man",
+      "type": "wikipedia",
+      "label": "Smashing Young Man",
+      "url": "https://en.wikipedia.org/wiki/Smashing_Young_Man",
+      "firstSeenAt": "2026-10-18T11:00:36.406Z"
     }
   ],
   "recentItems": []

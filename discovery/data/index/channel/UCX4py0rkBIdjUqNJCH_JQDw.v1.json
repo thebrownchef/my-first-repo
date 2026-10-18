@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCX4py0rkBIdjUqNJCH_JQDw",
   "title": "No Comment TV",
   "thumb": "https://yt3.ggpht.com/GneUNLVw0ERDrskq81mnzw-LbfgCCLsN11LQ_Npc3O7tSHcfU1x5eLDRFAt4vW4x55TZWMm0iw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "2010 Northern Hemisphere heat waves",
       "url": "https://en.wikipedia.org/wiki/2010_Northern_Hemisphere_heat_waves",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:April 2009 Moldovan parliamentary election protests",
+      "type": "wikipedia",
+      "label": "April 2009 Moldovan parliamentary election protests",
+      "url": "https://en.wikipedia.org/wiki/April_2009_Moldovan_parliamentary_election_protests",
+      "firstSeenAt": "2026-10-18T11:00:42.648Z"
     }
   ],
   "recentItems": []

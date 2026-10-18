@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "id": "UC4StuGL25quko--BddwzyFA",
+  "title": "ETV Events",
+  "thumb": "https://yt3.ggpht.com/fMzl3LNYP7IciQ84Y1G1oh6PH8ie61UMbB48ouj9DHRPsX-Ls4AmwmV9jO2fN3gpF_VJjqbS7Q=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.26,
+  "sources": [
+    {
+      "id": "channel:UCrhHQd5lAQZz3xRLaCJmitA",
+      "type": "channel",
+      "label": "ETV Originals",
+      "url": "https://www.youtube.com/channel/UCrhHQd5lAQZz3xRLaCJmitA",
+      "firstSeenAt": "2026-10-18T11:01:14.821Z"
+    },
+    {
+      "id": "channel:UCoY_p16GEbOQPgES1-wXpYg",
+      "type": "channel",
+      "label": "ETV Dhee",
+      "url": "https://www.youtube.com/channel/UCoY_p16GEbOQPgES1-wXpYg",
+      "firstSeenAt": "2026-10-18T11:01:14.950Z"
+    },
+    {
+      "id": "channel:UCnoqvTW4YZExfDeq7_Wmd-w",
+      "type": "channel",
+      "label": "ETV Jabardasth",
+      "url": "https://www.youtube.com/channel/UCnoqvTW4YZExfDeq7_Wmd-w",
+      "firstSeenAt": "2026-10-18T11:01:15.589Z"
+    }
+  ],
+  "recentItems": []
+}

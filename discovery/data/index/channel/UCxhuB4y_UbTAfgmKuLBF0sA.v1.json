@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCxhuB4y_UbTAfgmKuLBF0sA",
   "title": "IRTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2XOmuCF_AWp1NA4uQC1Kt4YP5U93WmSQMSgGfnHvtYJU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Moche Valley",
       "url": "https://en.wikipedia.org/wiki/Moche_Valley",
       "firstSeenAt": "2026-10-17T10:39:53.134Z"
+    },
+    {
+      "id": "wiki:Moche River",
+      "type": "wikipedia",
+      "label": "Moche River",
+      "url": "https://en.wikipedia.org/wiki/Moche_River",
+      "firstSeenAt": "2026-10-18T11:00:36.405Z"
     }
   ],
   "recentItems": []

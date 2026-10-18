@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "id": "UCjUcFh_3XIenEFtEukl1_vA",
+  "title": "ComicHeroNews",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mJK6r7Wqu6Yp0vgrn3Kx_1T05PW8YR9fhfX6OsLoU=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "wiki:Young Justice",
+      "type": "wikipedia",
+      "label": "Young Justice",
+      "url": "https://en.wikipedia.org/wiki/Young_Justice",
+      "firstSeenAt": "2026-10-06T13:16:11.490Z"
+    },
+    {
+      "id": "wiki:List of Young Justice characters",
+      "type": "wikipedia",
+      "label": "List of Young Justice characters",
+      "url": "https://en.wikipedia.org/wiki/List_of_Young_Justice_characters",
+      "firstSeenAt": "2026-10-18T11:00:39.492Z"
+    }
+  ],
+  "recentItems": []
+}

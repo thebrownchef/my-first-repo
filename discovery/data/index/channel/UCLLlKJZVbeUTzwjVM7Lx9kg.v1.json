@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCLLlKJZVbeUTzwjVM7Lx9kg",
   "title": "TSENT2008",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m33TCrQNxYHMPcDuNv9l8OS5OT5oXnmi_dOJOU73KCPkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Secret Love (B.A.P song)",
       "url": "https://en.wikipedia.org/wiki/Secret_Love_(B.A.P_song)",
       "firstSeenAt": "2026-10-11T12:45:39.931Z"
+    },
+    {
+      "id": "wiki:Talk That (Secret song)",
+      "type": "wikipedia",
+      "label": "Talk That (Secret song)",
+      "url": "https://en.wikipedia.org/wiki/Talk_That_(Secret_song)",
+      "firstSeenAt": "2026-10-18T11:00:39.492Z"
     }
   ],
   "recentItems": []

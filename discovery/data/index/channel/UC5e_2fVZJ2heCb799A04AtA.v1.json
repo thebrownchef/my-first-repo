@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UC5e_2fVZJ2heCb799A04AtA",
   "title": "TrainVEVO",
   "thumb": "https://yt3.ggpht.com/Q6Gu7w-KUfHd_sKohMFnhVXgJOu82fWKQ5DM0S8UPE6pfMxm9Y6gu0nJqYzBCQUkcCO7E8Id=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Cab (song)",
       "url": "https://en.wikipedia.org/wiki/Cab_(song)",
       "firstSeenAt": "2026-10-15T11:24:52.679Z"
+    },
+    {
+      "id": "channel:UCj5GuFig1ergXwriEnrxCqQ",
+      "type": "channel",
+      "label": "NeonTreesVEVO",
+      "url": "https://www.youtube.com/channel/UCj5GuFig1ergXwriEnrxCqQ",
+      "firstSeenAt": "2026-10-18T11:01:00.262Z"
     }
   ],
   "recentItems": []

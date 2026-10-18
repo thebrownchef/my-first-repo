@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
   "title": "PlayStation",
   "thumb": "https://yt3.ggpht.com/uiQh9JC7wAmCl63jhNilJvAcqNbwnMmUf5FUCQBecipe6yGmUWpPvAMVixALEt6xpPOVbsouzw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 3.72,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Sony",
       "url": "https://www.youtube.com/channel/UCVjS9AuBloqJJjhsy3vIfug",
       "firstSeenAt": "2026-10-17T10:40:15.386Z"
+    },
+    {
+      "id": "channel:UCyUC4yjmMXvaHoq4lxWYAGw",
+      "type": "channel",
+      "label": "gaikai",
+      "url": "https://www.youtube.com/channel/UCyUC4yjmMXvaHoq4lxWYAGw",
+      "firstSeenAt": "2026-10-18T11:01:07.390Z"
     }
   ],
   "recentItems": []

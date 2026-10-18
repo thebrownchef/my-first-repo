@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCOpcACMWblDls9Z6GERVi1A",
   "title": "Screen Junkies",
   "thumb": "https://yt3.ggpht.com/ipqt0YXs_vHVOy6f8B_2fnwuWj8ZdOPse_IEbPrjrpkAk-NYUkX9re9D4ybfdUo5_6G3xKAd=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Brave New Hollywood",
       "url": "https://www.youtube.com/channel/UCKh2uxneD3Bpr5kSWx_NpHQ",
       "firstSeenAt": "2026-09-20T11:20:21.754Z"
+    },
+    {
+      "id": "channel:UCbu2SsF-Or3Rsn3NxqODImw",
+      "type": "channel",
+      "label": "GameSpot",
+      "url": "https://www.youtube.com/channel/UCbu2SsF-Or3Rsn3NxqODImw",
+      "firstSeenAt": "2026-10-18T11:01:00.680Z"
     }
   ],
   "recentItems": []

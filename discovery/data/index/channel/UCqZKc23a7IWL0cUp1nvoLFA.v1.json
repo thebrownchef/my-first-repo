@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCqZKc23a7IWL0cUp1nvoLFA",
   "title": "SteveAATW",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leSGlAt22L_Rrcwgy8So3KzG_14LSC6lvKR97-WtquIAs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Take You There (Jodie Connor song)",
       "url": "https://en.wikipedia.org/wiki/Take_You_There_(Jodie_Connor_song)",
       "firstSeenAt": "2026-10-14T11:48:17.920Z"
+    },
+    {
+      "id": "wiki:Come with Me (Dappy song)",
+      "type": "wikipedia",
+      "label": "Come with Me (Dappy song)",
+      "url": "https://en.wikipedia.org/wiki/Come_with_Me_(Dappy_song)",
+      "firstSeenAt": "2026-10-18T11:00:42.648Z"
     }
   ],
   "recentItems": []

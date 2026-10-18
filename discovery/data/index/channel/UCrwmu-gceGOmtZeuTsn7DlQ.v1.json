@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCrwmu-gceGOmtZeuTsn7DlQ",
   "title": "BlackEyedPeasVEVO",
   "thumb": "https://yt3.ggpht.com/c0h6NaxPAWezfzqoVgqqeuBHJJE8KGxO21Alpi6w0i9MyMkauAjZir1yuGpX4Ed1rx9KkdzuWA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Don't Phunk with My Heart",
       "url": "https://en.wikipedia.org/wiki/Don't_Phunk_with_My_Heart",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Shut Up (Black Eyed Peas song)",
+      "type": "wikipedia",
+      "label": "Shut Up (Black Eyed Peas song)",
+      "url": "https://en.wikipedia.org/wiki/Shut_Up_(Black_Eyed_Peas_song)",
+      "firstSeenAt": "2026-10-18T11:00:36.406Z"
     }
   ],
   "recentItems": []

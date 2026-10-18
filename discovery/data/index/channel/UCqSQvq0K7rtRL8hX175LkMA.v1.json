@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCqSQvq0K7rtRL8hX175LkMA",
   "title": "PearljamVEVO",
   "thumb": "https://yt3.ggpht.com/XaYTV-4MB-3jmOdRiPh-lgDNam8C6WnFafLSuNmn_O0G46SwTKJEvNl0F1wZ3vtUcSR1PdPOVg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Do the Evolution",
       "url": "https://en.wikipedia.org/wiki/Do_the_Evolution",
       "firstSeenAt": "2026-10-14T11:48:17.150Z"
+    },
+    {
+      "id": "channel:UCTSuGVPcfBRSZSdP3xQASqg",
+      "type": "channel",
+      "label": "SoundgardenVEVO",
+      "url": "https://www.youtube.com/channel/UCTSuGVPcfBRSZSdP3xQASqg",
+      "firstSeenAt": "2026-10-18T11:01:15.878Z"
     }
   ],
   "recentItems": []

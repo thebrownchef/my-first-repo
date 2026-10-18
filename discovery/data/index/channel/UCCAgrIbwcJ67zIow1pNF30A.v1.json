@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCCAgrIbwcJ67zIow1pNF30A",
   "title": "nottinghamscience",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ldlSd54K3R_a1vobJrir2PmwpSrzcm6S8IiJTKgbryuw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "DeepSkyVideos",
       "url": "https://www.youtube.com/channel/UCo-3ThNQmPmQSQL_L6Lx1_w",
       "firstSeenAt": "2026-09-28T13:50:16.939Z"
+    },
+    {
+      "id": "wiki:Hornbeam",
+      "type": "wikipedia",
+      "label": "Hornbeam",
+      "url": "https://en.wikipedia.org/wiki/Hornbeam",
+      "firstSeenAt": "2026-10-18T11:00:36.405Z"
     }
   ],
   "recentItems": []

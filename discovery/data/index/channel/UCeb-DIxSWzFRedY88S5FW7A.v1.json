@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCeb-DIxSWzFRedY88S5FW7A",
   "title": "Ladybird Books",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l5jwW85pRqGQjdnpCbTnDcd5bnrbcRM0p4t5Ag7ybqijU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Penguin Random House UK",
       "url": "https://www.youtube.com/channel/UCSgdtV5-OMx8lCtnnrMMXYg",
       "firstSeenAt": "2026-10-15T11:25:23.887Z"
+    },
+    {
+      "id": "channel:UCIUB2qLdKSWYmpANz8WCnCA",
+      "type": "channel",
+      "label": "Puffin Books",
+      "url": "https://www.youtube.com/channel/UCIUB2qLdKSWYmpANz8WCnCA",
+      "firstSeenAt": "2026-10-18T11:01:13.541Z"
     }
   ],
   "recentItems": []

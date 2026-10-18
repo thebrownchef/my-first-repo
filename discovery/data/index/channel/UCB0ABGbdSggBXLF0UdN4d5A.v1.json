@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "id": "UCB0ABGbdSggBXLF0UdN4d5A",
+  "title": "The Muppets",
+  "thumb": "https://yt3.ggpht.com/dHjZUctpFp65l6PzqFxEi7IIDVRD9N9i3vpzkzEd0y-AH6EjK7hgOgBtkqIBwBUYCicqHMWmYA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "channel:UC_5niPa-d35gg88HaS7RrIw",
+      "type": "channel",
+      "label": "Disney",
+      "url": "https://www.youtube.com/channel/UC_5niPa-d35gg88HaS7RrIw",
+      "firstSeenAt": "2026-09-10T11:16:13.586Z"
+    },
+    {
+      "id": "wiki:List of Bohemian Rhapsody cover versions",
+      "type": "wikipedia",
+      "label": "List of Bohemian Rhapsody cover versions",
+      "url": "https://en.wikipedia.org/wiki/List_of_Bohemian_Rhapsody_cover_versions",
+      "firstSeenAt": "2026-10-18T11:00:39.492Z"
+    }
+  ],
+  "recentItems": []
+}

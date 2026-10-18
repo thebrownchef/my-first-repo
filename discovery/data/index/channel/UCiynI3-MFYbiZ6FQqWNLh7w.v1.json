@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:41:34.394Z",
+  "generatedAt": "2026-10-18T11:02:29.484Z",
   "id": "UCiynI3-MFYbiZ6FQqWNLh7w",
   "title": "Joe Satriani",
   "thumb": "https://yt3.ggpht.com/eJ5j-Mnk1-vo3fMtmpNJL1ywWuYuq04-4GEN1oMs24Y1SHrfmzmUJIU2jzR7K_BoKahC7FYe1g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "earMUSIC",
       "url": "https://www.youtube.com/channel/UCzKNn1SxrLobzWemQ9HItNA",
       "firstSeenAt": "2026-10-14T11:48:31.047Z"
+    },
+    {
+      "id": "channel:UChFONkdHg3zrt3zaHmx1bKA",
+      "type": "channel",
+      "label": "Deep Purple Official",
+      "url": "https://www.youtube.com/channel/UChFONkdHg3zrt3zaHmx1bKA",
+      "firstSeenAt": "2026-10-18T11:01:16.368Z"
     }
   ],
   "recentItems": []

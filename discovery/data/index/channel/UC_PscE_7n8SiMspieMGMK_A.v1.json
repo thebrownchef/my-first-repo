@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "id": "UC_PscE_7n8SiMspieMGMK_A",
+  "title": "Paste Magazine",
+  "thumb": "https://yt3.ggpht.com/g0jBL1pjlj_WHJpQkEOx9SqTiWCzgg-z8zn90HmyzIrF4vtunk_iNnDg989m_SpzWe0EsOauYw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 0,
+  "uploadsPerDay": 3.32,
+  "sources": [
+    {
+      "id": "wiki:Nick Rattigan",
+      "type": "wikipedia",
+      "label": "Nick Rattigan",
+      "url": "https://en.wikipedia.org/wiki/Nick_Rattigan",
+      "firstSeenAt": "2026-08-31T13:44:50.068Z"
+    },
+    {
+      "id": "channel:UCI4iIRZltBUQITyvCXz_PZg",
+      "type": "channel",
+      "label": "Jezebel",
+      "url": "https://www.youtube.com/channel/UCI4iIRZltBUQITyvCXz_PZg",
+      "firstSeenAt": "2026-10-18T11:01:11.024Z"
+    },
+    {
+      "id": "channel:UCsDdQUPa4NvPvf2f00E5zfw",
+      "type": "channel",
+      "label": "The A.V. Club",
+      "url": "https://www.youtube.com/channel/UCsDdQUPa4NvPvf2f00E5zfw",
+      "firstSeenAt": "2026-10-18T11:01:11.092Z"
+    },
+    {
+      "id": "channel:UCNCIPlHNNqEHw3Ac1CqEZEg",
+      "type": "channel",
+      "label": "daytrotter",
+      "url": "https://www.youtube.com/channel/UCNCIPlHNNqEHw3Ac1CqEZEg",
+      "firstSeenAt": "2026-10-18T11:01:11.219Z"
+    }
+  ],
+  "recentItems": []
+}
