@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCkR0GY0ue02aMyM-oxwgg9g",
   "title": "Rotten Tomatoes Coming Soon",
   "thumb": "https://yt3.ggpht.com/FEpStjMGgxz4SGbwWQ7ITqPvvZV-Tkxby2I6uyOnA-XaDL0moHb2j1VMdt9G9-hk3NfikDzY0Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 4.51,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Fandango (Stream)",
       "url": "https://www.youtube.com/channel/UC4l6ZhkOzxIxvCSzDr4HKqg",
       "firstSeenAt": "2026-09-17T11:38:53.705Z"
+    },
+    {
+      "id": "wiki:Hansel & Gretel: Witch Hunters",
+      "type": "wikipedia",
+      "label": "Hansel & Gretel: Witch Hunters",
+      "url": "https://en.wikipedia.org/wiki/Hansel_%26_Gretel%3A_Witch_Hunters",
+      "firstSeenAt": "2026-10-19T13:08:27.521Z"
     }
   ],
   "recentItems": []

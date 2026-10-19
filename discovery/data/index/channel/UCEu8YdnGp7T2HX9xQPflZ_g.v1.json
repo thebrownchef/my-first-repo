@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCEu8YdnGp7T2HX9xQPflZ_g",
   "title": "Peace Bisquit",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mmdPw2c0OWGUMbH5uEp7dfHLXTfj0fyS-3CQyGKAjCRyg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Amanda Lepore",
       "url": "https://en.wikipedia.org/wiki/Amanda_Lepore",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Ladyfag",
+      "type": "wikipedia",
+      "label": "Ladyfag",
+      "url": "https://en.wikipedia.org/wiki/Ladyfag",
+      "firstSeenAt": "2026-10-19T13:08:27.521Z"
     }
   ],
   "recentItems": []

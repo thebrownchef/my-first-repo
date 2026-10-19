@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "id": "UC3BGlwmI-Vk6PWyMt15dKGw",
+  "title": "O'Reilly",
+  "thumb": "https://yt3.ggpht.com/9mXgCo6oQkKHVGnZDNo4WiBreYPeY4m5kpE0IrNQCbEowMGQE5vo9BVvujqIQ4KeYmXmKogDJck=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.01,
+  "sources": [
+    {
+      "id": "wiki:Apache Hive",
+      "type": "wikipedia",
+      "label": "Apache Hive",
+      "url": "https://en.wikipedia.org/wiki/Apache_Hive",
+      "firstSeenAt": "2026-10-14T11:48:18.583Z"
+    },
+    {
+      "id": "wiki:Linda Y. Cureton",
+      "type": "wikipedia",
+      "label": "Linda Y. Cureton",
+      "url": "https://en.wikipedia.org/wiki/Linda_Y._Cureton",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCq8ZAAsI89IoJ-fn1gYpO3g",
   "title": "Nightshift – Kurzgesagt After Dark",
   "thumb": "https://yt3.ggpht.com/eXEBNg6ggwrJopuwMkvxi-ZZhlTOAo8juTk5FBWDoE8qvoLPXWInWKtVKJN5SKiOpheZyudT=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Kurzgesagt – In a Nutshell",
       "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
       "firstSeenAt": "2026-10-13T14:08:21.204Z"
+    },
+    {
+      "id": "channel:UCZcvCpFcLxOKGbMocVgLjEA",
+      "type": "channel",
+      "label": "En Pocas Palabras – Kurzgesagt",
+      "url": "https://www.youtube.com/channel/UCZcvCpFcLxOKGbMocVgLjEA",
+      "firstSeenAt": "2026-10-19T13:08:57.032Z"
+    },
+    {
+      "id": "channel:UCzMHLUJ8xTqDq6xsk0N5IdQ",
+      "type": "channel",
+      "label": "Tout Simplement – Kurzgesagt",
+      "url": "https://www.youtube.com/channel/UCzMHLUJ8xTqDq6xsk0N5IdQ",
+      "firstSeenAt": "2026-10-19T13:08:57.204Z"
+    },
+    {
+      "id": "channel:UCCYb8bp7v9maNk5n3nfw-Lg",
+      "type": "channel",
+      "label": "Em Poucas Palavras – Kurzgesagt",
+      "url": "https://www.youtube.com/channel/UCCYb8bp7v9maNk5n3nfw-Lg",
+      "firstSeenAt": "2026-10-19T13:08:57.436Z"
+    },
+    {
+      "id": "channel:UC8rKCy_tipwTEY3RdkNCKmw",
+      "type": "channel",
+      "label": "한눈에 보는 세상 – Kurzgesagt",
+      "url": "https://www.youtube.com/channel/UC8rKCy_tipwTEY3RdkNCKmw",
+      "firstSeenAt": "2026-10-19T13:08:57.532Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
   "title": "TED",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Donald Sadoway",
       "url": "https://en.wikipedia.org/wiki/Donald_Sadoway",
       "firstSeenAt": "2026-10-10T12:28:21.299Z"
+    },
+    {
+      "id": "wiki:Paul Romer",
+      "type": "wikipedia",
+      "label": "Paul Romer",
+      "url": "https://en.wikipedia.org/wiki/Paul_Romer",
+      "firstSeenAt": "2026-10-19T13:08:24.289Z"
     }
   ],
   "recentItems": []

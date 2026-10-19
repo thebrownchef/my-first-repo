@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCfIXdjDQH9Fau7y99_Orpjw",
   "title": "Gorillaz",
   "thumb": "https://yt3.ggpht.com/4dzF1bVcaSuwNOsa63GprfaUnpmkCecoS9NYUM_QHIRwcpxfTUtZdAVAa5ic45Wh7kXPwl7y8g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "WOW TV",
       "url": "https://www.youtube.com/channel/UCbOmdGuNF-dUQsIN_BO9JTw",
       "firstSeenAt": "2026-10-15T11:25:06.463Z"
+    },
+    {
+      "id": "wiki:Rock the House (Gorillaz song)",
+      "type": "wikipedia",
+      "label": "Rock the House (Gorillaz song)",
+      "url": "https://en.wikipedia.org/wiki/Rock_the_House_(Gorillaz_song)",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    },
+    {
+      "id": "wiki:Dare (song)",
+      "type": "wikipedia",
+      "label": "Dare (song)",
+      "url": "https://en.wikipedia.org/wiki/Dare_(song)",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    },
+    {
+      "id": "wiki:Phoner to Arizona",
+      "type": "wikipedia",
+      "label": "Phoner to Arizona",
+      "url": "https://en.wikipedia.org/wiki/Phoner_to_Arizona",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    },
+    {
+      "id": "wiki:Superfast Jellyfish",
+      "type": "wikipedia",
+      "label": "Superfast Jellyfish",
+      "url": "https://en.wikipedia.org/wiki/Superfast_Jellyfish",
+      "firstSeenAt": "2026-10-19T13:08:27.520Z"
     }
   ],
   "recentItems": []

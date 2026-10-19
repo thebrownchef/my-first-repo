@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "id": "UC4czmSY7dsAiLFseD313tKA",
+  "title": "House Republicans",
+  "thumb": "https://yt3.ggpht.com/ax775ZpjfduPFjGtz1-Ap1sZsFBL5ThnA8MD_B1z8PlTrEXdBuptPnrIPGKQvT_60NjREAxbcw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.36,
+  "sources": [
+    {
+      "id": "wiki:Weekly Republican Address",
+      "type": "wikipedia",
+      "label": "Weekly Republican Address",
+      "url": "https://en.wikipedia.org/wiki/Weekly_Republican_Address",
+      "firstSeenAt": "2026-10-19T13:08:25.821Z"
+    },
+    {
+      "id": "channel:UCK7Jy7Dsb2bO1uhv8peZRUg",
+      "type": "channel",
+      "label": "TheNRCC",
+      "url": "https://www.youtube.com/channel/UCK7Jy7Dsb2bO1uhv8peZRUg",
+      "firstSeenAt": "2026-10-19T13:08:47.812Z"
+    },
+    {
+      "id": "channel:UCOKW-o3oYdFmrMNcTLVuaoA",
+      "type": "channel",
+      "label": "gopweeklyaddress",
+      "url": "https://www.youtube.com/channel/UCOKW-o3oYdFmrMNcTLVuaoA",
+      "firstSeenAt": "2026-10-19T13:08:48.845Z"
+    }
+  ],
+  "recentItems": []
+}

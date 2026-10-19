@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 37,
-  "distinctSourceCount": 37,
+  "score": 38,
+  "distinctSourceCount": 38,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -267,6 +267,13 @@
       "label": "Maroon5VEVO",
       "url": "https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw",
       "firstSeenAt": "2026-10-18T11:01:05.717Z"
+    },
+    {
+      "id": "channel:UCHkj014U2CQ2Nv0UZeYpE_A",
+      "type": "channel",
+      "label": "JustinBieberVEVO",
+      "url": "https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A",
+      "firstSeenAt": "2026-10-19T13:08:41.456Z"
     }
   ],
   "recentItems": []

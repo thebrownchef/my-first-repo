@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UC0iwHRFpv2_fpojZgQhElEQ",
   "title": "Noisey",
   "thumb": "https://yt3.ggpht.com/9NdoHEWQKAba3mRcPZuDKazQ0qW0wIwws1Wwo6hNbgzX3DtkjecqcV9M9ABi38sPtdVtN2MXbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Creators",
       "url": "https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ",
       "firstSeenAt": "2026-10-13T14:08:17.019Z"
+    },
+    {
+      "id": "wiki:Orcas (duo)",
+      "type": "wikipedia",
+      "label": "Orcas (duo)",
+      "url": "https://en.wikipedia.org/wiki/Orcas_(duo)",
+      "firstSeenAt": "2026-10-19T13:08:24.289Z"
     }
   ],
   "recentItems": []

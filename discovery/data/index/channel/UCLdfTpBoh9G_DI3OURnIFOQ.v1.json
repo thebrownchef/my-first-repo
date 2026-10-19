@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCLdfTpBoh9G_DI3OURnIFOQ",
   "title": "Blur",
   "thumb": "https://yt3.ggpht.com/zDqC_Z4g_Pslq4IFdlGTkslL2BBuNiqHkyu2Ne5FEA6zZ2hVnlDuC4EmvFCiFND9i55oQXIS=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 23,
+  "distinctSourceCount": 23,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -148,6 +148,27 @@
       "label": "Out of Time (Blur song)",
       "url": "https://en.wikipedia.org/wiki/Out_of_Time_(Blur_song)",
       "firstSeenAt": "2026-10-11T12:45:39.931Z"
+    },
+    {
+      "id": "wiki:Beetlebum",
+      "type": "wikipedia",
+      "label": "Beetlebum",
+      "url": "https://en.wikipedia.org/wiki/Beetlebum",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    },
+    {
+      "id": "wiki:Under the Westway",
+      "type": "wikipedia",
+      "label": "Under the Westway",
+      "url": "https://en.wikipedia.org/wiki/Under_the_Westway",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    },
+    {
+      "id": "wiki:The Puritan (song)",
+      "type": "wikipedia",
+      "label": "The Puritan (song)",
+      "url": "https://en.wikipedia.org/wiki/The_Puritan_(song)",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
     }
   ],
   "recentItems": []

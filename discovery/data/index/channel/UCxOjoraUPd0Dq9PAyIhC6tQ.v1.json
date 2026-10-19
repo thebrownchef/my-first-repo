@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCxOjoraUPd0Dq9PAyIhC6tQ",
   "title": "Perfume",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nORiN9cWGy9-DgCc3L_CPSlUBHYtPRaUY80hS26Sg1Nw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Love the World (album)",
       "url": "https://en.wikipedia.org/wiki/Love_the_World_(album)",
       "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "wiki:Spending All My Time",
+      "type": "wikipedia",
+      "label": "Spending All My Time",
+      "url": "https://en.wikipedia.org/wiki/Spending_All_My_Time",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
     }
   ],
   "recentItems": []

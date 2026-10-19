@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCtXKDgv1AVoG88PLl8nGXmw",
   "title": "Google TechTalks",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_np5QbjchJOQKKpyqO3Uo7sg3YUaFx2EWN1kCQ0N7HRrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Memory ordering",
       "url": "https://en.wikipedia.org/wiki/Memory_ordering",
       "firstSeenAt": "2026-10-11T12:45:42.051Z"
+    },
+    {
+      "id": "wiki:Get Lamp",
+      "type": "wikipedia",
+      "label": "Get Lamp",
+      "url": "https://en.wikipedia.org/wiki/Get_Lamp",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
     }
   ],
   "recentItems": []

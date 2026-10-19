@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
   "title": "TEDx Talks",
   "thumb": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 42.9,
   "sources": [
@@ -106,7 +106,123 @@
       "label": "Body hacking",
       "url": "https://en.wikipedia.org/wiki/Body_hacking",
       "firstSeenAt": "2026-10-18T11:00:39.492Z"
+    },
+    {
+      "id": "wiki:Linda Y. Cureton",
+      "type": "wikipedia",
+      "label": "Linda Y. Cureton",
+      "url": "https://en.wikipedia.org/wiki/Linda_Y._Cureton",
+      "firstSeenAt": "2026-10-19T13:08:25.822Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "o7cJk2K7aCI",
+      "title": "Why do cities make us lonely? | Craige Hoover | TEDxFranklin",
+      "publishedAt": "2026-10-18T13:30:38Z",
+      "durationSec": 707,
+      "thumb": "https://i.ytimg.com/vi/o7cJk2K7aCI/mqdefault.jpg",
+      "description": "There are deeper issues to consider when we discuss the lack of housing in our society.  Craige Hoover is a real estate developer, advisor, and placemaker focused on creating walkable, community-centered environments across small towns, suburbs, and ex-urban settings. Over the past two decades, he has worked on mixed-use neighborhoods, town centers, and farm-based communities throughout the Southeast.\n \nHe is currently leading the development of Armistead, a farm-forward, mixed-use community in Franklin, Tennessee, where he is actively exploring how housing diversity, walkability, and working land can coexist in a modern American town. His work sits at the intersection of housing, land use, and human behavior—translating complex economic and regulatory systems into places that support daily life, connection, and long-term resilience.\" \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "EuB0ogbX_Fw",
+      "title": "How encrypted immunotherapy could fight cancer | Blaise Kimmel | TEDxOhioStateUniversity",
+      "publishedAt": "2026-10-17T13:30:01Z",
+      "durationSec": 843,
+      "thumb": "https://i.ytimg.com/vi/EuB0ogbX_Fw/mqdefault.jpg",
+      "description": "In plenty of cancer stories, the scariest part isn’t always the diagnosis; it’s the treatment. After a phone call with a friend whose metastatic cancer returned, immune engineer Dr. Blaise Kimmel explores why today’s best tools can still feel like “controlled poison,” and why that reality makes care inaccessible for so many patients. He suggests a new approach: “encrypting” immune system messages so they activate only at the tumor site, teaching immune cells to eliminate cancer while protecting healthy tissue and quality of life.\n\nDr. Blaise Kimmel is an Assistant Professor in the Department of Chemical and Biomolecular Engineering. His work focuses on developing “smart” immunotherapies and medicines for cancer and rare diseases. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "KnS0nhftLQY",
+      "title": "How to tell if you’re using AI too much | Terrence \"TJ\" Nealy | TEDxCharlotte",
+      "publishedAt": "2026-10-16T17:00:11Z",
+      "durationSec": 547,
+      "thumb": "https://i.ytimg.com/vi/KnS0nhftLQY/mqdefault.jpg",
+      "description": "What if the most advanced technology in your workflow is quietly making you less of yourself?\n\nCreative Technologist TJ Nealy opens up about a pattern he didn’t notice until it was already happening — defaulting to AI before trusting his own instincts. From sorting 400 family videos to abandoning a bold design idea he never even tested, TJ traces the subtle ways AI can shift from a tool into the voice we trust most.\n\nThis isn’t an anti-AI talk. It’s a wake-up call.\n\nIn this talk, TJ introduces the concept of Creative Sovereignty — a framework for using AI critically and ethically without surrendering your perspective, your instincts, or your creative identity. You’ll learn how to distinguish between cloud and local AI models, define your own creative non-negotiables, and why practicing deliberate inefficiency might be the most productive thing you can do.\n\nIf you’ve ever accepted an AI suggestion without knowing exactly why — this one’s for you. Terrence “TJ” Nealy is a creative technologist who leads at the intersection of storytelling and emerging technology. Over the past decade, he's directed creative and marketing teams for organizations ranging from The Walt Disney Company to community development centers, earning W3, Telly, and Webby Awards for work that demonstrates how technology amplifies—rather than replaces—human creativity.\n\nAs Owner/Creative Director of MODD Creative Agency, Nealy has pioneered AI integration frameworks and innovated internal systems for small startups and fortune 500 companies. Beyond his agency work, he teaches STEM and digital literacy to 200+ underrepresented youth annually, bridging the digital divide and cultivating the next generation of creative technologists. Rooted in Charlotte, North Carolina, Nealy's work is driven by a clear conviction: when story, strategy, and technology are aligned, they create opportunities that transform lives and communities. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "2XhSGjQhuVA",
+      "title": "Pediatric Cancer: From Geometry to Community | Kyle MacQuarrie | TEDxNorthwesternU",
+      "publishedAt": "2026-10-16T15:38:11Z",
+      "durationSec": 666,
+      "thumb": "https://i.ytimg.com/vi/2XhSGjQhuVA/mqdefault.jpg",
+      "description": "Pediatric cancer affects 14,000 children every year in the United States alone. Just as children aren't small adults, pediatric cancer isn't just a small version of adult cancer. Caring for children with pediatric cancer involves not just addressing the unique biology, but through efforts as a community. Even seemingly small actions taken by members of the public can have important impacts for the better on pediatric cancer patients. Dr. MacQuarrie is a pediatric oncologist and physician-scientist with Ann & Robert H. Lurie Children’s Hospital of Chicago and an assistant professor of pediatrics at Northwestern’s Feinberg School of Medicine. Both his clinical and research interests focus on children with solid tumors, in particular those with sarcomas. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "QwZi0WLd3pc",
+      "title": "Why Colour Matters | Lily Hammond | TEDxUniversity of Suffolk",
+      "publishedAt": "2026-10-16T15:30:24Z",
+      "durationSec": 774,
+      "thumb": "https://i.ytimg.com/vi/QwZi0WLd3pc/mqdefault.jpg",
+      "description": "Colour and creativity have the power to shape how we feel, think, and connect with the world around us. Drawing on experience as an illustrator and research into colour psychology, this talk explores how colour can influence mood, wellbeing, and aspiration. Too often, the spaces we live, work, and learn in prioritise function over inspiration, affecting our sense of possibility. This talk argues that colour and creativity are not luxuries but essential tools for building healthier, more connected communities. Through public art, education, and thoughtful design, we can create environments that inspire confidence, support mental wellbeing, and foster creativity. For Suffolk, investing in creative expression means strengthening community identity, inspiring future generations, and creating places people are proud to call home. Lily Hammond is a Suffolk-based illustrator and the founder of Uwu Studio ( meaning colourful studio in her grandmothers native tongue) , known for her bold, colourful work that celebrates pattern, nature, and the beauty of everyday details. \n \nAfter graduating with a First Class Honours degree in Illustration in 2020, Lily has spent over five years working as a professional artist, collaborating with organisations including the BBC, Amnesty International, and the Migration Museum, as well as local theatres, libraries, and educational institutions. \n \nAlongside her creative practice, Lily has a particular interest in the relationship between colour and wellbeing, exploring how art can positively impact mood, confidence, and community. Through murals, workshops, and public engagement, she aims to bring more colour, creativity, and joy into everyday spaces across Suffolk and beyond. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "z94tprbTWrk",
+      "title": "The end of one-size-fits-all medicine | Georgina Marsh | TEDxUniversity of Suffolk",
+      "publishedAt": "2026-10-16T15:30:15Z",
+      "durationSec": 1011,
+      "thumb": "https://i.ytimg.com/vi/z94tprbTWrk/mqdefault.jpg",
+      "description": "Pharmaceutical 3D printing has the potential to transform healthcare by replacing the traditional “one-size-fits-all” approach with truly personalised medicine. Instead of standard doses, medicines can be tailored to each patient’s age, health conditions, genetics, and treatment needs, improving safety, effectiveness, and adherence. The technology can also combine multiple medications into a single tablet and work alongside digital healthcare systems to create smarter, more efficient care. For Suffolk, where an ageing population, rural healthcare challenges, and increasing pressure on NHS services are growing concerns, personalised medicine could improve access to treatment, reduce medication-related hospital admissions, and bring care closer to home. This talk explores how innovation can help create a more patient-centred and resilient healthcare system. Dr Georgina Marsh is a UK-registered pharmacist and academic leading the development of the Department of Pharmacy at the University of Suffolk. She holds a PhD from the University of Nottingham and specialises in pharmaceutical 3D printing, researching how engineered surface structures can influence particle adhesion, microbial viability, and drug delivery.\n\nHer work explores innovative dosage forms tailored to individual patient needs, with the aim of improving therapeutic outcomes through personalised medicine. Georgina's research combines pharmaceutical science, materials engineering, and emerging technologies to advance patient-centred healthcare.\n\nAlongside her academic career, Georgina has worked as a Senior Formulation Scientist at AstraZeneca, an Assistant Professor at the University of Nottingham Malaysia, and a Senior Lecturer at Swansea University. She is passionate about shaping the future of digitally enabled pharmacy through research, innovation, and education. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "QRkfZDCMtlc",
+      "title": "Construction Within the Void | Elif Ülger Yalçın | TEDxNecmettin Erbakan University",
+      "publishedAt": "2026-10-16T15:28:52Z",
+      "durationSec": 1273,
+      "thumb": "https://i.ytimg.com/vi/QRkfZDCMtlc/mqdefault.jpg",
+      "description": "In architecture, what truly defines a structure is not its facade, but the void it organizes and the unseen structural system that supports it. In this compelling talk, Elif Ülger Yalçın draws parallels between architecture, entrepreneurship, and personal transformation. Sharing her journey of founding a brand from scratch, navigating crisis during the pandemic, and driving social impact, she demonstrates how real strength comes from adaptability, shared leadership, and building authentic inner foundations rather than superficial facades. Elif Ülger Yalçın is a accomplished business figure who integrates architecture, design, and entrepreneurship. A graduate of Eskişehir Osmangazi University, Department of Architecture, Yalçın continues her professional work through 2Dsign Architecture and Design Studio, and co-founded Arabica Coffee House in 2014 alongside Attorney Sertaç Yalçın. She is also a member of the TOBB Women Entrepreneurs Council.\n\nToday, Arabica Coffee House continues its path as a strong domestic brand growing across more than 65 cities with over 200 branches. Diversifying its expansion through brands and production setups in various sectors—such as Tastopia, Bonfesta, Maestro, and Arabica Kitchen Fit—the enterprise continues to invest in many fields ranging from production to technology.\n\nArabica Coffee House stands out not only as a brand, but also as an organization that contributes to society. It makes significant contributions to sports through sponsorships, including serving as an Official Sponsor of National Teams, title sponsor for the Women's and Men's 1st Leagues, and main sponsor for the Turkish National Paralympic Committee. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "pA9f15SW3vM",
+      "title": "Being Me | Aşkın Keser | TEDxNecmettin Erbakan University",
+      "publishedAt": "2026-10-16T15:28:39Z",
+      "durationSec": 1193,
+      "thumb": "https://i.ytimg.com/vi/pA9f15SW3vM/mqdefault.jpg",
+      "description": "True success is not merely defined by titles or external validation, but by finding your own rhythm and staying true to your authentic self. In this inspiring talk, Prof. Dr. Aşkın Keser reflects on his personal journey from selling simit and working in tourism as a young boy in Muğla to becoming a professor. Interweaving his life experiences with psychological theories—such as Frankl's search for meaning and Dweck's growth mindset—he demonstrates how what we often perceive as coincidences are actually the result of continuous preparation and discipline. He encourages us to focus on the journey rather than just outcomes and to discover the 'chemistry of intentions' Prof. Dr. Aşkın Keser completed his undergraduate and postgraduate education at Uludağ University, Department of Labour Economics and Industrial Relations, and the Graduate School of Social Sciences. He worked as a research assistant at Uludağ University between 1996 and 2005; he was appointed as Assistant Professor at Kocaeli University in 2005, Associate Professor at Uludağ University in 2011, and Full Professor in 2014. Currently continuing his duties at Bursa Uludağ University, Keser has also served as a visiting academic at Jalal-Abad University of Economy and Enterprise in Kyrgyzstan, the University of Otago in New Zealand, and Justus Liebig University in Germany.\n\nSpecializing in fields such as work psychology, job satisfaction, burnout, and remote work, Aşkın Keser has authored six books (two as editor) and a total of six articles indexed in Web of Science, including 1 Q1, 2 Q2, and 3 Q3 publications. Keser serves on the scientific and advisory boards of the Labour Economics and Industrial Relations Congress, the Organizational Behavior Congress, and the Industrial and Organizational Psychology Congress, and is also a member of the Association of Work, Employment, and Organizational Psychology. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "SjmobyblwBs",
+      "title": "从音乐创作到AI对话，如何成为自己的语境工程师？ | 润泽 叶 | TEDxNanshan Salon",
+      "publishedAt": "2026-10-16T15:28:25Z",
+      "durationSec": 667,
+      "thumb": "https://i.ytimg.com/vi/SjmobyblwBs/mqdefault.jpg",
+      "description": "音乐创作可以是一种表达，也可以是一次对自我的提问。\n作为深耕湖湘文化与嘻哈音乐的创作者，叶润泽分享了他如何通过音乐重新认识自己的文化和语境；也分享了如何用AI工具与自我对话，突破信息茧房，扩展思维边界。\n他鼓励我们在快节奏的判断中停一下，去理解隐藏在缝隙里的另一种可能性，找到自己判断的来源与答案，也在这个过程中让新的声音进入我们的世界。\n这是一场探索标准、自我与改变的演讲。他相信，分类是别人给的，而缝隙才是我们自己的。 音乐唱作人\n湖湘说唱代表人物 This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "BxSlnyW8s_E",
+      "title": "空隙里的答案：生活如何化为舞台的灵感？ | 沈员 胡 | TEDxNanshan Salon",
+      "publishedAt": "2026-10-16T15:28:07Z",
+      "durationSec": 890,
+      "thumb": "https://i.ytimg.com/vi/BxSlnyW8s_E/mqdefault.jpg",
+      "description": "灯光下的舞台，是胡沈员的职业世界；门外的生活日常，是他创作的灵感之源。\n作为一个摸爬滚打在排练厅十二小时的舞者，那些稀松平常的生活一瞬——母亲在站台摆手告别、深夜公交上疲惫的表情、历史小人物在沙漠中跋涉的一步，都成为舞蹈最鲜活的生命力。\n他相信，真正动人的表达，不在高难度技巧中，而在专业与生活的空隙里：留白、看见、选择。这份空隙，让艺术更真切，也让人心更柔软。 中国青年舞蹈艺术家、编导 \n深圳当代舞团创始人、艺术总监 This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "FopBexMLfjs",
+      "title": "The Mind's Illusion or the Heart's Truth? | Murad Asiltürk | TEDxNecmettin Erbakan University",
+      "publishedAt": "2026-10-16T15:27:12Z",
+      "durationSec": 1266,
+      "thumb": "https://i.ytimg.com/vi/FopBexMLfjs/mqdefault.jpg",
+      "description": "While neuroscience can map trillions of neural connections and explain how information is processed, it falls short of capturing the subjective experience of consciousness and feeling. In this talk, the concepts of thought, consciousness, knowing, and feeling are explored through the lens of modern neuroscience, the 'filter/modem' brain hypothesis of William James and Henri Bergson, and the philosophical framework of Al-Ghazali. While the brain analyzes and generates options, the heart guides our orientation, values, and choices. The speaker highlights the crucial balance between mind and heart, where knowledge transforms not into pride, but into humility and moral wisdom Associate Professor Murad Asiltürk, MD, graduated from Ankara Anatolian High School. He received his medical degree from Hacettepe University Faculty of Medicine in 1992. He completed his residency at Bakırköy Mazhar Osman Mental Health and Neurological Diseases Training and Research Hospital, becoming a Specialist in Neurosurgery in 1998. He received training in microvascular anatomy and microvascular dissection at the University of Zurich laboratory, as well as microsurgery and cadaver dissection training in various anatomy laboratories. He served as an observer surgeon on three separate occasions at the Department of Neurosurgery at Helsinki University. Earning the title of Associate Professor in 2000, Dr. Murad Asiltürk currently practices at Medicana Ataköy Hospital in Bakırköy, Istanbul. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
+    {
+      "id": "6Z6wZNYVamM",
+      "title": "Data is the New Addiction | Dr. Kunal Sarkar | TEDxIEM Salt Lake",
+      "publishedAt": "2026-10-16T15:26:54Z",
+      "durationSec": 1082,
+      "thumb": "https://i.ytimg.com/vi/6Z6wZNYVamM/mqdefault.jpg",
+      "description": "Are we trading genuine human connection for a constant stream of digital notifications? In this talk, a heart surgeon compares modern data addiction to historic epidemics like tobacco and drug abuse, warning that isolation in the digital age poses a severe threat to our physical and mental well-being. He emphasizes that despite living in a hyper-connected world, true companionship and judicious data consumption are essential to navigate an increasingly isolated, AI-driven future. With over three decades of experience in cardiovascular and thoracic surgery, Dr. Kunal Sarkar is one of India’s leading cardiac surgeons, having performed over 40,000 heart surgeries, including more than 32,000 bypass procedures. A Fellow of the Royal Colleges of Surgeons of Edinburgh and Glasgow, he has also served as President of the Indian Association of Cardiovascular & Thoracic Surgeons. His expertise spans complex coronary surgery, minimally invasive cardiac surgery and advanced cardiovascular care. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    }
+  ]
 }

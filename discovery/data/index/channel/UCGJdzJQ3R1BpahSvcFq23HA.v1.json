@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "워너뮤직코리아 (Warner Music Korea)",
       "url": "https://www.youtube.com/channel/UCLvhr40dgoBcV4XBlOhauNw",
       "firstSeenAt": "2026-10-11T12:45:51.573Z"
+    },
+    {
+      "id": "channel:UCe4LM_eKc9ywRmVuBm5pjQg",
+      "type": "channel",
+      "label": "Atlantic Records",
+      "url": "https://www.youtube.com/channel/UCe4LM_eKc9ywRmVuBm5pjQg",
+      "firstSeenAt": "2026-10-19T13:09:02.858Z"
     }
   ],
   "recentItems": []

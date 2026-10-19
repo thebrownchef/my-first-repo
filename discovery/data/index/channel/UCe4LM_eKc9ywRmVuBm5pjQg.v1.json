@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCe4LM_eKc9ywRmVuBm5pjQg",
   "title": "Atlantic Records",
   "thumb": "https://yt3.ggpht.com/6W-mb2efMopcsFp2LcQV2kbp9H_L3CmdOUGfWAsRG21B_AKurkfNk-aM0ZkcPSoGOJ0w0VKAxuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "PliesWorld",
       "url": "https://www.youtube.com/channel/UCNFOCainfQUP0PE2O--j2LQ",
       "firstSeenAt": "2026-10-06T13:17:05.101Z"
+    },
+    {
+      "id": "wiki:Just the Girl",
+      "type": "wikipedia",
+      "label": "Just the Girl",
+      "url": "https://en.wikipedia.org/wiki/Just_the_Girl",
+      "firstSeenAt": "2026-10-19T13:08:24.288Z"
     }
   ],
   "recentItems": []

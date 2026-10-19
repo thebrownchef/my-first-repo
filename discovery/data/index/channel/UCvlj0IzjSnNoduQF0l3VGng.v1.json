@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "id": "UCvlj0IzjSnNoduQF0l3VGng",
+  "title": "Some More News",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m_Cu96UUP-JF3NEL0jxvAUnnhXDplEEQr7IWO8NKG3-g=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.27,
+  "sources": [
+    {
+      "id": "wiki:Cracked.com",
+      "type": "wikipedia",
+      "label": "Cracked.com",
+      "url": "https://en.wikipedia.org/wiki/Cracked.com",
+      "firstSeenAt": "2026-08-31T13:44:50.380Z"
+    },
+    {
+      "id": "channel:UCKRDTjKiNyYrTNX3gIlL8IQ",
+      "type": "channel",
+      "label": "Some Some More News Clips",
+      "url": "https://www.youtube.com/channel/UCKRDTjKiNyYrTNX3gIlL8IQ",
+      "firstSeenAt": "2026-10-19T13:08:54.633Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCCj956IF62FbT7Gouszaj9w",
   "title": "BBC",
   "thumb": "https://yt3.ggpht.com/2kUet1z3iIsuYaUEPuW0uMDVt9tRAzciL-N_pgy4bAvMazAfAgbJPrGrR3k8MhnGp-GGwy3O=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 4.24,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "moooksta",
       "url": "https://www.youtube.com/channel/UCXappTIt4qeY2f9VJAQ7nDA",
       "firstSeenAt": "2026-10-16T11:19:43.898Z"
+    },
+    {
+      "id": "channel:UCQ38BO3MSPCzmWESXuUyXyw",
+      "type": "channel",
+      "label": "Waterloo Road",
+      "url": "https://www.youtube.com/channel/UCQ38BO3MSPCzmWESXuUyXyw",
+      "firstSeenAt": "2026-10-19T13:08:55.193Z"
     }
   ],
   "recentItems": []

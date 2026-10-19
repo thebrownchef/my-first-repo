@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCBRFlde39a2U4nAkmGqJwAQ",
   "title": "Flo Rida",
   "thumb": "https://yt3.ggpht.com/CcX6WfKEG3Jb74XBcjoBw19VT2PMT1N6jq8aF3taRBkN7Yu3VDmUJmiyeKv0rftvUGmd7cuh5A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Club Can't Handle Me",
       "url": "https://en.wikipedia.org/wiki/Club_Can't_Handle_Me",
       "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "wiki:Low (Flo Rida song)",
+      "type": "wikipedia",
+      "label": "Low (Flo Rida song)",
+      "url": "https://en.wikipedia.org/wiki/Low_(Flo_Rida_song)",
+      "firstSeenAt": "2026-10-19T13:08:27.520Z"
     }
   ],
   "recentItems": []

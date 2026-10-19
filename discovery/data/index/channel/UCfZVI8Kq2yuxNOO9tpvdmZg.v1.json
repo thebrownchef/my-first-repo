@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UCfZVI8Kq2yuxNOO9tpvdmZg",
   "title": "240252",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kZk0McKv8o0e6o_w_KuizH42NznpEkExPIwqJXPLvObQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.55,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "KistoDreams",
       "url": "https://www.youtube.com/channel/UCWUymlPHZJjS1Jc6Ia5UDqA",
       "firstSeenAt": "2026-10-01T13:10:08.076Z"
+    },
+    {
+      "id": "wiki:Stanisław Barcewicz",
+      "type": "wikipedia",
+      "label": "Stanisław Barcewicz",
+      "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Barcewicz",
+      "firstSeenAt": "2026-10-19T13:08:24.289Z"
     }
   ],
   "recentItems": []

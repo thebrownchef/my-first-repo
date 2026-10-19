@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:02:29.484Z",
+  "generatedAt": "2026-10-19T13:10:23.637Z",
   "id": "UChSYQS0A6GO8wvSKAbaskQg",
   "title": "BadMeetsEvilVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mU-xhQ1jt1NxrUqSiOXWnKfIaBOFRO60NHlTtE5RXwlQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Lighters (song)",
       "url": "https://en.wikipedia.org/wiki/Lighters_(song)",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Hell: The Sequel",
+      "type": "wikipedia",
+      "label": "Hell: The Sequel",
+      "url": "https://en.wikipedia.org/wiki/Hell%3A_The_Sequel",
+      "firstSeenAt": "2026-10-19T13:08:24.289Z"
     }
   ],
   "recentItems": []
