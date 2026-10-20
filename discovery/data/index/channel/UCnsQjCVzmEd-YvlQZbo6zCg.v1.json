@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UCnsQjCVzmEd-YvlQZbo6zCg",
   "title": "2NE1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lwXHGkKYaKPhLyktT2heO_iTUNmNRxj7j37l6zfpf1u2Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "I Am the Best",
       "url": "https://en.wikipedia.org/wiki/I_Am_the_Best",
       "firstSeenAt": "2026-10-13T14:07:55.127Z"
+    },
+    {
+      "id": "wiki:I Love You (2NE1 song)",
+      "type": "wikipedia",
+      "label": "I Love You (2NE1 song)",
+      "url": "https://en.wikipedia.org/wiki/I_Love_You_(2NE1_song)",
+      "firstSeenAt": "2026-10-20T11:32:04.543Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
   "title": "ABC News",
   "thumb": "https://yt3.ggpht.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 16.24,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Jonathan M. Katz",
       "url": "https://en.wikipedia.org/wiki/Jonathan_M._Katz",
       "firstSeenAt": "2026-10-19T13:08:24.288Z"
+    },
+    {
+      "id": "wiki:Tanning dependence",
+      "type": "wikipedia",
+      "label": "Tanning dependence",
+      "url": "https://en.wikipedia.org/wiki/Tanning_dependence",
+      "firstSeenAt": "2026-10-20T11:32:06.612Z"
     }
   ],
   "recentItems": []

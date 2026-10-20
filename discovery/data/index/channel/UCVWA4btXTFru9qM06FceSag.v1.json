@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UCVWA4btXTFru9qM06FceSag",
   "title": "PitbullVEVO",
   "thumb": "https://yt3.ggpht.com/Hj7bnKk6Zh4ko81EBLWquLl-a6_-LQqISsxR2wHpEauEAw8u4sj8onUFTvIKjeRxgaU4hGrHow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Give Me Everything",
       "url": "https://en.wikipedia.org/wiki/Give_Me_Everything",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Get It Started",
+      "type": "wikipedia",
+      "label": "Get It Started",
+      "url": "https://en.wikipedia.org/wiki/Get_It_Started",
+      "firstSeenAt": "2026-10-20T11:32:08.128Z"
+    },
+    {
+      "id": "wiki:Don't Stop the Party (Pitbull song)",
+      "type": "wikipedia",
+      "label": "Don't Stop the Party (Pitbull song)",
+      "url": "https://en.wikipedia.org/wiki/Don't_Stop_the_Party_(Pitbull_song)",
+      "firstSeenAt": "2026-10-20T11:32:08.128Z"
+    },
+    {
+      "id": "wiki:Back in Time (Pitbull song)",
+      "type": "wikipedia",
+      "label": "Back in Time (Pitbull song)",
+      "url": "https://en.wikipedia.org/wiki/Back_in_Time_(Pitbull_song)",
+      "firstSeenAt": "2026-10-20T11:32:08.128Z"
+    },
+    {
+      "id": "wiki:International Love",
+      "type": "wikipedia",
+      "label": "International Love",
+      "url": "https://en.wikipedia.org/wiki/International_Love",
+      "firstSeenAt": "2026-10-20T11:32:08.128Z"
     }
   ],
   "recentItems": []

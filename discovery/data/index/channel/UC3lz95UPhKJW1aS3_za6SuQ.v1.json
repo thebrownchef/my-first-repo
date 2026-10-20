@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UC3lz95UPhKJW1aS3_za6SuQ",
   "title": "United CUBE (CUBE Entertainment Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/XUJmuh82OeRpLEuahv6_OZNSKKS4Rr32eYjuhXHJRFWFb5A5lfkL7XHy7g7SSdlXq1hoTk6XgA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.33,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Press Play (BtoB EP)",
       "url": "https://en.wikipedia.org/wiki/Press_Play_(BtoB_EP)",
       "firstSeenAt": "2026-10-16T11:19:26.089Z"
+    },
+    {
+      "id": "wiki:The Next Big Thing (EP)",
+      "type": "wikipedia",
+      "label": "The Next Big Thing (EP)",
+      "url": "https://en.wikipedia.org/wiki/The_Next_Big_Thing_(EP)",
+      "firstSeenAt": "2026-10-20T11:32:04.543Z"
     }
   ],
   "recentItems": []

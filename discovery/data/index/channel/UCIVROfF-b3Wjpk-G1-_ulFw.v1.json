@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UCIVROfF-b3Wjpk-G1-_ulFw",
   "title": "Billy Talent",
   "thumb": "https://yt3.ggpht.com/cK0eOn3NXDY4IMyBw4-_6_OwNlpr8fDeq8TzisVuV7sHC_SZm_ol3R9simPYeX3RLytaJDK5qg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Saint Veronika",
       "url": "https://en.wikipedia.org/wiki/Saint_Veronika",
       "firstSeenAt": "2026-10-14T11:48:17.150Z"
+    },
+    {
+      "id": "wiki:Billy Talent discography",
+      "type": "wikipedia",
+      "label": "Billy Talent discography",
+      "url": "https://en.wikipedia.org/wiki/Billy_Talent_discography",
+      "firstSeenAt": "2026-10-20T11:32:04.543Z"
     }
   ],
   "recentItems": []

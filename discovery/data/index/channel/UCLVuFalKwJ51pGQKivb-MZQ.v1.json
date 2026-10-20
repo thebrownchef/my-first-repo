@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UCLVuFalKwJ51pGQKivb-MZQ",
   "title": "sinetur",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l_TZhKjmXodS7HdpKEGi1Ku8trB9gXowBzp3TO-zz3rg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Mansiche Sports Complex",
       "url": "https://en.wikipedia.org/wiki/Mansiche_Sports_Complex",
       "firstSeenAt": "2026-10-18T11:00:36.406Z"
+    },
+    {
+      "id": "wiki:Trujillo, Peru",
+      "type": "wikipedia",
+      "label": "Trujillo, Peru",
+      "url": "https://en.wikipedia.org/wiki/Trujillo%2C_Peru",
+      "firstSeenAt": "2026-10-20T11:32:04.543Z"
     }
   ],
   "recentItems": []

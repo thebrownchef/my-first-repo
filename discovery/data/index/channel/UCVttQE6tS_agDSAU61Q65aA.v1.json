@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UCVttQE6tS_agDSAU61Q65aA",
   "title": "EnriqueIglesiasVEVO",
   "thumb": "https://yt3.ggpht.com/kYe56za0VurtSHjxdg7tH8SaKQDtRxZdnOGlXp_ijCGMUZHIPQjsR57OGP6Npgj7XK_8UEZTTw8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tonight (I'm Lovin' You)",
       "url": "https://en.wikipedia.org/wiki/Tonight_(I'm_Lovin'_You)",
       "firstSeenAt": "2026-10-07T13:18:51.083Z"
+    },
+    {
+      "id": "wiki:Do You Know? (The Ping Pong Song)",
+      "type": "wikipedia",
+      "label": "Do You Know? (The Ping Pong Song)",
+      "url": "https://en.wikipedia.org/wiki/Do_You_Know%3F_(The_Ping_Pong_Song)",
+      "firstSeenAt": "2026-10-20T11:32:08.128Z"
     }
   ],
   "recentItems": []

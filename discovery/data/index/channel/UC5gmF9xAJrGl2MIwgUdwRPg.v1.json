@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UC5gmF9xAJrGl2MIwgUdwRPg",
   "title": "SupIds Radio Archive",
   "thumb": "https://yt3.ggpht.com/-W-ZC2PFW0tUteT9NSm0owpz3L53tCq2faIz3HihWASzWfx-3XE6Q8TvDotPt-StJe4qdHCYHw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.55,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "Susquehanna's Radio Archive",
       "url": "https://www.youtube.com/channel/UCuGdYTMLZUhnEsStVlI_ueA",
       "firstSeenAt": "2026-09-08T11:15:51.998Z"
+    },
+    {
+      "id": "channel:UCXakrxvcr8Hl2bB30wGPDrQ",
+      "type": "channel",
+      "label": "Dax009",
+      "url": "https://www.youtube.com/channel/UCXakrxvcr8Hl2bB30wGPDrQ",
+      "firstSeenAt": "2026-10-20T11:32:25.343Z"
+    },
+    {
+      "id": "channel:UC1Y9LGuNG7rElEWBLLvnhzw",
+      "type": "channel",
+      "label": "Ashman887",
+      "url": "https://www.youtube.com/channel/UC1Y9LGuNG7rElEWBLLvnhzw",
+      "firstSeenAt": "2026-10-20T11:32:25.531Z"
+    },
+    {
+      "id": "channel:UCb5PlYiCd9CNdwsNJIBWf1Q",
+      "type": "channel",
+      "label": "kev996",
+      "url": "https://www.youtube.com/channel/UCb5PlYiCd9CNdwsNJIBWf1Q",
+      "firstSeenAt": "2026-10-20T11:32:25.932Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UCe3I9BAVCzf9oACYU1EtrxA",
   "title": "FallOutBoyVEVO",
   "thumb": "https://yt3.ggpht.com/mk9UokDVHJaFTFNPLX_uXQL0DJRLtaK2L9e8HhbtviVKw8cTH4rWRZL9K6Rm6pEZot8T9yB8pQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "This Ain't a Scene, It's an Arms Race",
       "url": "https://en.wikipedia.org/wiki/This_Ain't_a_Scene%2C_It's_an_Arms_Race",
       "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:My Songs Know What You Did in the Dark (Light Em Up)",
+      "type": "wikipedia",
+      "label": "My Songs Know What You Did in the Dark (Light Em Up)",
+      "url": "https://en.wikipedia.org/wiki/My_Songs_Know_What_You_Did_in_the_Dark_(Light_Em_Up)",
+      "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "channel:UCUmC7gXciukRv73CQRQ5QGQ",
+      "type": "channel",
+      "label": "BMTHOfficialVEVO",
+      "url": "https://www.youtube.com/channel/UCUmC7gXciukRv73CQRQ5QGQ",
+      "firstSeenAt": "2026-10-20T11:32:24.654Z"
     }
   ],
   "recentItems": []

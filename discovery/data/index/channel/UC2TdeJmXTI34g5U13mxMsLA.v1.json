@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UC2TdeJmXTI34g5U13mxMsLA",
   "title": "Vevo Italia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mK0J_m1eUtgAGDkp3Shk4L0XebraYhR__RoxOp9vGqOmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "ErosRamazzottiVEVO",
       "url": "https://www.youtube.com/channel/UCD7az0lWDtKSc8QIKFOnFRA",
       "firstSeenAt": "2026-10-16T11:19:43.840Z"
+    },
+    {
+      "id": "channel:UC3s58ASfc9ouNtRWxfj97OA",
+      "type": "channel",
+      "label": "MarcoMengoniVEVO",
+      "url": "https://www.youtube.com/channel/UC3s58ASfc9ouNtRWxfj97OA",
+      "firstSeenAt": "2026-10-20T11:32:20.852Z"
     }
   ],
   "recentItems": []

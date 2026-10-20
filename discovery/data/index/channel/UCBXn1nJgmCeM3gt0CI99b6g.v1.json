@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T13:10:23.637Z",
+  "generatedAt": "2026-10-20T11:33:27.040Z",
   "id": "UCBXn1nJgmCeM3gt0CI99b6g",
   "title": "Crunchyroll Presents",
   "thumb": "https://yt3.ggpht.com/R41OgHC2AlvE7w1312YVugJDo4vbtK7rwoIlIBnC54qwM-SMru6aK78uRSABD0GaZjrsi479IQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Crunchyroll Extras",
       "url": "https://www.youtube.com/channel/UCkmQtnPJqb3qyWLna6ct4qw",
       "firstSeenAt": "2026-09-18T11:11:08.178Z"
+    },
+    {
+      "id": "channel:UCT_kLaqWLfnplRuBvgTFznw",
+      "type": "channel",
+      "label": "Fairy Tail Podcast",
+      "url": "https://www.youtube.com/channel/UCT_kLaqWLfnplRuBvgTFznw",
+      "firstSeenAt": "2026-10-20T11:32:23.217Z"
     }
   ],
   "recentItems": []
