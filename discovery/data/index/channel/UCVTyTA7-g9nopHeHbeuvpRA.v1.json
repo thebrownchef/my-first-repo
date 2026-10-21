@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCVTyTA7-g9nopHeHbeuvpRA",
   "title": "Late Night with Seth Meyers",
   "thumb": "https://yt3.ggpht.com/WBu8T1H91hDyJntgg_Pgynfix-rHzHYUisk0e82HWKxte-c29w4BYXNscZm_kBzjvbahbsKc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 1.47,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "A Little Late With Lilly Singh",
       "url": "https://www.youtube.com/channel/UC2gzy_aI-luPtEpL-GzQP6w",
       "firstSeenAt": "2026-10-01T13:10:04.236Z"
+    },
+    {
+      "id": "channel:UCQMELFlXQL38KPm8kM-4Adg",
+      "type": "channel",
+      "label": "Jay Leno's Garage",
+      "url": "https://www.youtube.com/channel/UCQMELFlXQL38KPm8kM-4Adg",
+      "firstSeenAt": "2026-10-21T11:44:59.602Z"
     }
   ],
   "recentItems": []

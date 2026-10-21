@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UC8I0Y4C-VoAId0DvlbpOUqg",
   "title": "31 Rewind",
   "thumb": "https://yt3.ggpht.com/sVawPZapW1uSvELj8sWK3Bqsrx-e8w0NYG_PeQMIXBz2RT_c9lkk25PJmcGXtrfjUwa2oxNZCD0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "The AVTB Archives",
       "url": "https://www.youtube.com/channel/UCSQAe0hQ6XT333tx8o8z_jg",
       "firstSeenAt": "2026-09-27T11:59:32.336Z"
+    },
+    {
+      "id": "channel:UChV2KwmKYRTWd8nQCA4qamw",
+      "type": "channel",
+      "label": "RetroJello",
+      "url": "https://www.youtube.com/channel/UChV2KwmKYRTWd8nQCA4qamw",
+      "firstSeenAt": "2026-10-21T11:45:13.823Z"
+    },
+    {
+      "id": "channel:UCAWfIwDL4rhrK9gxKWQSthA",
+      "type": "channel",
+      "label": "redtekki",
+      "url": "https://www.youtube.com/channel/UCAWfIwDL4rhrK9gxKWQSthA",
+      "firstSeenAt": "2026-10-21T11:45:14.321Z"
     }
   ],
   "recentItems": []

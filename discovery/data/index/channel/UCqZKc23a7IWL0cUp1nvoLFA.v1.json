@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCqZKc23a7IWL0cUp1nvoLFA",
   "title": "SteveAATW",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leSGlAt22L_Rrcwgy8So3KzG_14LSC6lvKR97-WtquIAs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Come with Me (Dappy song)",
       "url": "https://en.wikipedia.org/wiki/Come_with_Me_(Dappy_song)",
       "firstSeenAt": "2026-10-18T11:00:42.648Z"
+    },
+    {
+      "id": "wiki:On My Way (Charlie Brown song)",
+      "type": "wikipedia",
+      "label": "On My Way (Charlie Brown song)",
+      "url": "https://en.wikipedia.org/wiki/On_My_Way_(Charlie_Brown_song)",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
     }
   ],
   "recentItems": []

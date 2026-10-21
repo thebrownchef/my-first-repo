@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCdx0f0EGk5tJTwbhFQwnFog",
   "title": "ZBSX - Chicago-ish News Archive",
   "thumb": "https://yt3.ggpht.com/8IyCjNaZCBoOiYKenvDsBZoTDmJm1W5ZE7X4hGeBbE_OzO1zLv9wWrnIB7xGPfVOHhy6QI0EsMs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Studio 31 Media Archive",
       "url": "https://www.youtube.com/channel/UC7ZI3TfebzaiOaXIkEx5IzA",
       "firstSeenAt": "2026-09-14T12:42:23.998Z"
+    },
+    {
+      "id": "channel:UC6wuBTZV-S_IrKX-3GGo6Vw",
+      "type": "channel",
+      "label": "TopicalTVArchives",
+      "url": "https://www.youtube.com/channel/UC6wuBTZV-S_IrKX-3GGo6Vw",
+      "firstSeenAt": "2026-10-21T11:45:13.892Z"
+    },
+    {
+      "id": "channel:UCAWfIwDL4rhrK9gxKWQSthA",
+      "type": "channel",
+      "label": "redtekki",
+      "url": "https://www.youtube.com/channel/UCAWfIwDL4rhrK9gxKWQSthA",
+      "firstSeenAt": "2026-10-21T11:45:14.324Z"
     }
   ],
   "recentItems": []

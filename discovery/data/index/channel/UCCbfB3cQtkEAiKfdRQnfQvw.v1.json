@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCCbfB3cQtkEAiKfdRQnfQvw",
   "title": "Jesse Cox",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_limgxA3eK8ilEgq4pQUtX5IHmdgPk3WZgEz4MDoDg0VOs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 1.15,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "AngryJoeShow",
       "url": "https://www.youtube.com/channel/UCsgv2QHkT2ljEixyulzOnUQ",
       "firstSeenAt": "2026-09-24T11:42:45.511Z"
+    },
+    {
+      "id": "channel:UCaBf1a-dpIsw8OxqH4ki2Kg",
+      "type": "channel",
+      "label": "Geek & Sundry",
+      "url": "https://www.youtube.com/channel/UCaBf1a-dpIsw8OxqH4ki2Kg",
+      "firstSeenAt": "2026-10-21T11:44:56.276Z"
+    },
+    {
+      "id": "channel:UCy1Ms_5qBTawC-k7PVjHXKQ",
+      "type": "channel",
+      "label": "TotalBiscuit",
+      "url": "https://www.youtube.com/channel/UCy1Ms_5qBTawC-k7PVjHXKQ",
+      "firstSeenAt": "2026-10-21T11:44:58.631Z"
     }
   ],
   "recentItems": []

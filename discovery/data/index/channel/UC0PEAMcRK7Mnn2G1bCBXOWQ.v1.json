@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UC0PEAMcRK7Mnn2G1bCBXOWQ",
   "title": "American Ninja Warrior",
   "thumb": "https://yt3.ggpht.com/I7-ftUa76_oZu1y2uuD-tyBXfAOkw0_hiQqLuV9ahTRHxotCGFVFnVlArF_3_0E7EDzr_rGI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "NBC",
       "url": "https://www.youtube.com/channel/UCccjdJEay2hpb5scz61zY6Q",
       "firstSeenAt": "2026-10-01T13:10:03.824Z"
+    },
+    {
+      "id": "channel:UCQMELFlXQL38KPm8kM-4Adg",
+      "type": "channel",
+      "label": "Jay Leno's Garage",
+      "url": "https://www.youtube.com/channel/UCQMELFlXQL38KPm8kM-4Adg",
+      "firstSeenAt": "2026-10-21T11:44:59.598Z"
     }
   ],
   "recentItems": []

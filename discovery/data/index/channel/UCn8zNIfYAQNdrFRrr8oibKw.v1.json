@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCn8zNIfYAQNdrFRrr8oibKw",
   "title": "VICE",
   "thumb": "https://yt3.ggpht.com/9AgWUnohXk3gFYvmvAZemlr1q6yd7NxHozeEqrPpJhYf9Crjrvqml0ulZ4PL4v38I4XDoLEhaw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Creators",
       "url": "https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ",
       "firstSeenAt": "2026-10-13T14:08:17.018Z"
+    },
+    {
+      "id": "wiki:Koos Van Den Akker",
+      "type": "wikipedia",
+      "label": "Koos Van Den Akker",
+      "url": "https://en.wikipedia.org/wiki/Koos_Van_Den_Akker",
+      "firstSeenAt": "2026-10-21T11:44:42.678Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCoQIdt0bWPv3-_xuybJvTjQ",
   "title": "woolliment",
   "thumb": "https://yt3.ggpht.com/jf2nwkavgbYjogGSQeOBAApe0RX5-eTzLZHaUAhh7aqqjV0LZvcBt5C4NTNQIdrW1KIZ2RWj=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "She's Back (song)",
       "url": "https://en.wikipedia.org/wiki/She's_Back_(song)",
       "firstSeenAt": "2026-10-14T11:48:17.150Z"
+    },
+    {
+      "id": "wiki:New Challenge",
+      "type": "wikipedia",
+      "label": "New Challenge",
+      "url": "https://en.wikipedia.org/wiki/New_Challenge",
+      "firstSeenAt": "2026-10-21T11:44:40.898Z"
     }
   ],
   "recentItems": []

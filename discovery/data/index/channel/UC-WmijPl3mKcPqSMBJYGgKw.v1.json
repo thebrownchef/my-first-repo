@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UC-WmijPl3mKcPqSMBJYGgKw",
   "title": "Treehouse Direct Polska",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN3hMSLOr8OdPtlyaUsq4hBPU6KcUk2IMrPpz2YNz8FfY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Treehouse Direct Français",
       "url": "https://www.youtube.com/channel/UCsi-_xGuc5S9Efh0D1jjvwA",
       "firstSeenAt": "2026-10-17T10:40:17.178Z"
+    },
+    {
+      "id": "channel:UCGtFbbGApG0s_8mMuJd-zKg",
+      "type": "channel",
+      "label": "The Berenstain Bears - Official",
+      "url": "https://www.youtube.com/channel/UCGtFbbGApG0s_8mMuJd-zKg",
+      "firstSeenAt": "2026-10-21T11:45:09.437Z"
     }
   ],
   "recentItems": []

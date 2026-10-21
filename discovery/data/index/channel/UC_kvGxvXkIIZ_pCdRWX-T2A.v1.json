@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UC_kvGxvXkIIZ_pCdRWX-T2A",
   "title": "Kafkanishian",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kcMNwTP-s872qh7tMEEfJkxSxHOSO1a-xO5cXH0FnnKA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Heckler & Koch PSG1",
       "url": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_PSG1",
       "firstSeenAt": "2026-10-07T13:18:51.083Z"
+    },
+    {
+      "id": "wiki:Stechkin automatic pistol",
+      "type": "wikipedia",
+      "label": "Stechkin automatic pistol",
+      "url": "https://en.wikipedia.org/wiki/Stechkin_automatic_pistol",
+      "firstSeenAt": "2026-10-21T11:44:40.897Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCqFMzb-4AUf6WAIbl132QKA",
   "title": "NHL",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lmoSnNwqVQXXQmdpb29k1jUpvCEdI1T6qR0w8EOJ2-o7GW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 6.19,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "2008 NHL Winter Classic",
       "url": "https://en.wikipedia.org/wiki/2008_NHL_Winter_Classic",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "channel:UCstaC6a8DcIaPuLStHTc0xg",
+      "type": "channel",
+      "label": "mahones95",
+      "url": "https://www.youtube.com/channel/UCstaC6a8DcIaPuLStHTc0xg",
+      "firstSeenAt": "2026-10-21T11:45:05.023Z"
     }
   ],
   "recentItems": []

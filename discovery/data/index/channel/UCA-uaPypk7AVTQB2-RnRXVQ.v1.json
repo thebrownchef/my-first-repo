@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCA-uaPypk7AVTQB2-RnRXVQ",
   "title": "Broadcast Bulletin",
   "thumb": "https://yt3.ggpht.com/qJEsCyvVgQVGpc5irXGOdHE1bsL-M75rlN5R4v_WtPnvzQyRrrDmtiw-czjLuCmKbxEQScRB=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Studio 31 Media Archive",
       "url": "https://www.youtube.com/channel/UC7ZI3TfebzaiOaXIkEx5IzA",
       "firstSeenAt": "2026-09-14T12:42:23.997Z"
+    },
+    {
+      "id": "channel:UChV2KwmKYRTWd8nQCA4qamw",
+      "type": "channel",
+      "label": "RetroJello",
+      "url": "https://www.youtube.com/channel/UChV2KwmKYRTWd8nQCA4qamw",
+      "firstSeenAt": "2026-10-21T11:45:13.824Z"
+    },
+    {
+      "id": "channel:UCAWfIwDL4rhrK9gxKWQSthA",
+      "type": "channel",
+      "label": "redtekki",
+      "url": "https://www.youtube.com/channel/UCAWfIwDL4rhrK9gxKWQSthA",
+      "firstSeenAt": "2026-10-21T11:45:14.322Z"
     }
   ],
   "recentItems": []

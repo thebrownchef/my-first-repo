@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "title": "NASA",
   "thumb": "https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.93,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "PBS Space Time",
       "url": "https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g",
       "firstSeenAt": "2026-10-13T14:08:20.522Z"
+    },
+    {
+      "id": "wiki:Antares A-ONE",
+      "type": "wikipedia",
+      "label": "Antares A-ONE",
+      "url": "https://en.wikipedia.org/wiki/Antares_A-ONE",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
     }
   ],
   "recentItems": []

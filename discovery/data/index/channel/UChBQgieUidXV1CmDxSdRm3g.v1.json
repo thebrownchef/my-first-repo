@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UChBQgieUidXV1CmDxSdRm3g",
   "title": "Citizen TV Kenya",
   "thumb": "https://yt3.ggpht.com/wj5XPSPtxg2oy9kdzdfRFRtyebgfB5mirkM8QmLR0TFqdzxga7iSWImBZo0DyQQ16zUvmDHr=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 34.45,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "2026 Utumishi Girls' Academy fire",
       "url": "https://en.wikipedia.org/wiki/2026_Utumishi_Girls'_Academy_fire",
       "firstSeenAt": "2026-09-06T10:53:20.279Z"
+    },
+    {
+      "id": "wiki:Wakoli Bifwoli",
+      "type": "wikipedia",
+      "label": "Wakoli Bifwoli",
+      "url": "https://en.wikipedia.org/wiki/Wakoli_Bifwoli",
+      "firstSeenAt": "2026-10-21T11:44:40.897Z"
+    },
+    {
+      "id": "wiki:Abdul Rahim Dawood",
+      "type": "wikipedia",
+      "label": "Abdul Rahim Dawood",
+      "url": "https://en.wikipedia.org/wiki/Abdul_Rahim_Dawood",
+      "firstSeenAt": "2026-10-21T11:44:42.678Z"
     }
   ],
   "recentItems": []

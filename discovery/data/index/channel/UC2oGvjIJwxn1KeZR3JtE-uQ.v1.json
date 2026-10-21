@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UC2oGvjIJwxn1KeZR3JtE-uQ",
   "title": "hromadske",
   "thumb": "https://yt3.ggpht.com/8aDBY2dOkMwBFz6Y0IvSldN3HcdV41n-2DBcuG_7zQVZTfmIPvmBz80bQQHFj6y1vJ0y407TaA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 4.65,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Borys Filatov",
       "url": "https://en.wikipedia.org/wiki/Borys_Filatov",
       "firstSeenAt": "2026-09-01T11:37:12.179Z"
+    },
+    {
+      "id": "channel:UCWSlfK2OPmsJ4NrVZQiMbow",
+      "type": "channel",
+      "label": "hromadske.зміст",
+      "url": "https://www.youtube.com/channel/UCWSlfK2OPmsJ4NrVZQiMbow",
+      "firstSeenAt": "2026-10-21T11:45:09.497Z"
+    },
+    {
+      "id": "channel:UCpxXjZGmWWP8jLCrLhBvxSA",
+      "type": "channel",
+      "label": "hromadske_talk",
+      "url": "https://www.youtube.com/channel/UCpxXjZGmWWP8jLCrLhBvxSA",
+      "firstSeenAt": "2026-10-21T11:45:09.561Z"
     }
   ],
   "recentItems": []

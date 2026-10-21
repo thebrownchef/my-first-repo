@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCKq6HJlBXf8ISjBx6de3_pA",
   "title": "Ken Ramage",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lMparFo2UfYTRfM_3smb9b8Hh19jSwi43MjGNevFZbjuo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Hamhung",
       "url": "https://en.wikipedia.org/wiki/Hamhung",
       "firstSeenAt": "2026-08-29T12:40:12.182Z"
+    },
+    {
+      "id": "wiki:Grand People's Study House",
+      "type": "wikipedia",
+      "label": "Grand People's Study House",
+      "url": "https://en.wikipedia.org/wiki/Grand_People's_Study_House",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
+    },
+    {
+      "id": "wiki:Mount Kumgang",
+      "type": "wikipedia",
+      "label": "Mount Kumgang",
+      "url": "https://en.wikipedia.org/wiki/Mount_Kumgang",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
     }
   ],
   "recentItems": []

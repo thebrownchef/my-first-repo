@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCe3I9BAVCzf9oACYU1EtrxA",
   "title": "FallOutBoyVEVO",
   "thumb": "https://yt3.ggpht.com/mk9UokDVHJaFTFNPLX_uXQL0DJRLtaK2L9e8HhbtviVKw8cTH4rWRZL9K6Rm6pEZot8T9yB8pQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "BMTHOfficialVEVO",
       "url": "https://www.youtube.com/channel/UCUmC7gXciukRv73CQRQ5QGQ",
       "firstSeenAt": "2026-10-20T11:32:24.654Z"
+    },
+    {
+      "id": "wiki:The Phoenix (Fall Out Boy song)",
+      "type": "wikipedia",
+      "label": "The Phoenix (Fall Out Boy song)",
+      "url": "https://en.wikipedia.org/wiki/The_Phoenix_(Fall_Out_Boy_song)",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCySxS2h-V0WeazLC1HyZ1RA",
   "title": "ntropolis",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lUuabHlL-5MdLrZdBDwT0BXJj8lKqJelQvwqynMDPXAQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "The AVTB Archives",
       "url": "https://www.youtube.com/channel/UCSQAe0hQ6XT333tx8o8z_jg",
       "firstSeenAt": "2026-09-27T11:59:32.334Z"
+    },
+    {
+      "id": "channel:UC6wuBTZV-S_IrKX-3GGo6Vw",
+      "type": "channel",
+      "label": "TopicalTVArchives",
+      "url": "https://www.youtube.com/channel/UC6wuBTZV-S_IrKX-3GGo6Vw",
+      "firstSeenAt": "2026-10-21T11:45:13.892Z"
+    },
+    {
+      "id": "channel:UCAWfIwDL4rhrK9gxKWQSthA",
+      "type": "channel",
+      "label": "redtekki",
+      "url": "https://www.youtube.com/channel/UCAWfIwDL4rhrK9gxKWQSthA",
+      "firstSeenAt": "2026-10-21T11:45:14.324Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "id": "UC7E-LYc1wivk33iyt5bR5zQ",
+  "title": "Vatican News",
+  "thumb": "https://yt3.ggpht.com/bQuLzosJJsDRO5I7Bz04Dq1V_fTdZeelLz9DkINH6nwdzi9qWKjxjZXt8Xv111oLVnbLXIQq=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 1.19,
+  "sources": [
+    {
+      "id": "wiki:Antonios Naguib",
+      "type": "wikipedia",
+      "label": "Antonios Naguib",
+      "url": "https://en.wikipedia.org/wiki/Antonios_Naguib",
+      "firstSeenAt": "2026-10-21T11:44:40.897Z"
+    },
+    {
+      "id": "wiki:Bechara Boutros al-Rahi",
+      "type": "wikipedia",
+      "label": "Bechara Boutros al-Rahi",
+      "url": "https://en.wikipedia.org/wiki/Bechara_Boutros_al-Rahi",
+      "firstSeenAt": "2026-10-21T11:44:40.897Z"
+    },
+    {
+      "id": "wiki:Inauguration of Pope Francis",
+      "type": "wikipedia",
+      "label": "Inauguration of Pope Francis",
+      "url": "https://en.wikipedia.org/wiki/Inauguration_of_Pope_Francis",
+      "firstSeenAt": "2026-10-21T11:44:40.898Z"
+    }
+  ],
+  "recentItems": []
+}

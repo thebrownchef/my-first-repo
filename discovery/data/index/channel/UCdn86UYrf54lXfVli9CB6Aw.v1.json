@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "id": "UCdn86UYrf54lXfVli9CB6Aw",
+  "title": "Barack Obama",
+  "thumb": "https://yt3.ggpht.com/Nk08bfKqYHzaOG4nmgFTQLHCyMgdNLjuLPeT1tAvXYKj6C6U_yzRD9kTcgWayyg2pNFHMnvY-Q=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.41,
+  "sources": [
+    {
+      "id": "wiki:Kal Penn",
+      "type": "wikipedia",
+      "label": "Kal Penn",
+      "url": "https://en.wikipedia.org/wiki/Kal_Penn",
+      "firstSeenAt": "2026-10-15T11:24:52.679Z"
+    },
+    {
+      "id": "wiki:Sandy Newman",
+      "type": "wikipedia",
+      "label": "Sandy Newman",
+      "url": "https://en.wikipedia.org/wiki/Sandy_Newman",
+      "firstSeenAt": "2026-10-21T11:44:40.898Z"
+    }
+  ],
+  "recentItems": []
+}

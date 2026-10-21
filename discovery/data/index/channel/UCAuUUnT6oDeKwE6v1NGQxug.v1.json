@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
   "title": "TED",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Sergiu Brega",
       "url": "https://www.youtube.com/channel/UCFdI38niBOh-z5bd8y5N9fQ",
       "firstSeenAt": "2026-10-20T11:32:21.612Z"
+    },
+    {
+      "id": "wiki:Mass amateurization",
+      "type": "wikipedia",
+      "label": "Mass amateurization",
+      "url": "https://en.wikipedia.org/wiki/Mass_amateurization",
+      "firstSeenAt": "2026-10-21T11:44:40.897Z"
     }
   ],
   "recentItems": []

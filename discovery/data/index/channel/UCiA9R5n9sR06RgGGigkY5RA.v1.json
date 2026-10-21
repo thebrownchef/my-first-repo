@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCiA9R5n9sR06RgGGigkY5RA",
   "title": "ThePussycatDollsVEVO",
   "thumb": "https://yt3.ggpht.com/DjwmK8owmyguMuYfIQk7fDLyMIJlN5QC4_sU7H-dOBrpYISCq9iqzbrCyT8xLGHkHWlJTzUG=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "When I Grow Up (The Pussycat Dolls song)",
       "url": "https://en.wikipedia.org/wiki/When_I_Grow_Up_(The_Pussycat_Dolls_song)",
       "firstSeenAt": "2026-10-13T14:07:55.127Z"
+    },
+    {
+      "id": "wiki:Don't Cha",
+      "type": "wikipedia",
+      "label": "Don't Cha",
+      "url": "https://en.wikipedia.org/wiki/Don't_Cha",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
     }
   ],
   "recentItems": []

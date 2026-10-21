@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCHqQruhGENdmWy_oeH1f8QA",
   "title": "Michael Bublé",
   "thumb": "https://yt3.ggpht.com/BIbMb6Bt7DZmTJc7-rtjqv6O59VwHZoQFXzimz3F5u_4Qm9qmvklKfEXCuYmyV2T-k_bkpjnZg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Feeling Good",
       "url": "https://en.wikipedia.org/wiki/Feeling_Good",
       "firstSeenAt": "2026-10-12T15:18:28.761Z"
+    },
+    {
+      "id": "wiki:It's a Beautiful Day (Michael Bublé song)",
+      "type": "wikipedia",
+      "label": "It's a Beautiful Day (Michael Bublé song)",
+      "url": "https://en.wikipedia.org/wiki/It's_a_Beautiful_Day_(Michael_Bubl%C3%A9_song)",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
     }
   ],
   "recentItems": []

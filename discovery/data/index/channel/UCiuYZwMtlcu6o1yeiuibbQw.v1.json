@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCiuYZwMtlcu6o1yeiuibbQw",
   "title": "b2mysofficial",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lthbvsr58AiEm9C5TNuKlgl6bMEosN2srCx2orhzO9qw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "b2mkjofficial",
       "url": "https://www.youtube.com/channel/UCecgqWctRCiyzhvjTix5xuQ",
       "firstSeenAt": "2026-10-17T10:40:04.142Z"
+    },
+    {
+      "id": "wiki:Life (EP)",
+      "type": "wikipedia",
+      "label": "Life (EP)",
+      "url": "https://en.wikipedia.org/wiki/Life_(EP)",
+      "firstSeenAt": "2026-10-21T11:44:40.084Z"
     }
   ],
   "recentItems": []

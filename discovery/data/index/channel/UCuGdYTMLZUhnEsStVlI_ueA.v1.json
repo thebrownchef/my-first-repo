@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCuGdYTMLZUhnEsStVlI_ueA",
   "title": "Susquehanna's Radio Archive",
   "thumb": "https://yt3.ggpht.com/QnLKwECYZ3TNcXW0vO_8rDGt5X-vO7H7meQtQ7v9unrclIe97AzI2aBnW-5ET0Tj1s0IUl4DbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -71,6 +71,41 @@
       "label": "SupIds Radio Archive",
       "url": "https://www.youtube.com/channel/UC5gmF9xAJrGl2MIwgUdwRPg",
       "firstSeenAt": "2026-10-20T11:32:26.057Z"
+    },
+    {
+      "id": "channel:UChV2KwmKYRTWd8nQCA4qamw",
+      "type": "channel",
+      "label": "RetroJello",
+      "url": "https://www.youtube.com/channel/UChV2KwmKYRTWd8nQCA4qamw",
+      "firstSeenAt": "2026-10-21T11:45:13.820Z"
+    },
+    {
+      "id": "channel:UC6wuBTZV-S_IrKX-3GGo6Vw",
+      "type": "channel",
+      "label": "TopicalTVArchives",
+      "url": "https://www.youtube.com/channel/UC6wuBTZV-S_IrKX-3GGo6Vw",
+      "firstSeenAt": "2026-10-21T11:45:13.888Z"
+    },
+    {
+      "id": "channel:UCAWfIwDL4rhrK9gxKWQSthA",
+      "type": "channel",
+      "label": "redtekki",
+      "url": "https://www.youtube.com/channel/UCAWfIwDL4rhrK9gxKWQSthA",
+      "firstSeenAt": "2026-10-21T11:45:14.329Z"
+    },
+    {
+      "id": "channel:UCq9MZ1_vPM6gQMLSj2JvEcQ",
+      "type": "channel",
+      "label": "Susquehanna - EAS and More",
+      "url": "https://www.youtube.com/channel/UCq9MZ1_vPM6gQMLSj2JvEcQ",
+      "firstSeenAt": "2026-10-21T11:45:14.465Z"
+    },
+    {
+      "id": "channel:UClWrE8PqCobjKfKqTYynj4g",
+      "type": "channel",
+      "label": "Susquehanna's Television Archive",
+      "url": "https://www.youtube.com/channel/UClWrE8PqCobjKfKqTYynj4g",
+      "firstSeenAt": "2026-10-21T11:45:14.567Z"
     }
   ],
   "recentItems": []

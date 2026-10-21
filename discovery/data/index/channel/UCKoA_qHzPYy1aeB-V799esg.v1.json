@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCKoA_qHzPYy1aeB-V799esg",
   "title": "Broadcast News & Sports Time Capsule",
   "thumb": "https://yt3.ggpht.com/WxlaOZ7G5lOLJyaUBoAjMEUKUGIvL3cpq5JPiBZIbxukZDZsC_CNBRY68D9LJ8Z9gShUw5GmifA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.69,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Studio 31 Media Archive",
       "url": "https://www.youtube.com/channel/UC7ZI3TfebzaiOaXIkEx5IzA",
       "firstSeenAt": "2026-09-14T12:42:23.997Z"
+    },
+    {
+      "id": "channel:UCAWfIwDL4rhrK9gxKWQSthA",
+      "type": "channel",
+      "label": "redtekki",
+      "url": "https://www.youtube.com/channel/UCAWfIwDL4rhrK9gxKWQSthA",
+      "firstSeenAt": "2026-10-21T11:45:14.322Z"
     }
   ],
   "recentItems": []

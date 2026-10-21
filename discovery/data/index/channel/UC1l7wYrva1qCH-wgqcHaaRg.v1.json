@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UC1l7wYrva1qCH-wgqcHaaRg",
   "title": "David Guetta",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKPoGkfw44ICB715GPlzNDsmqZdlwewB1QGa9K4vD94o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "WOW TV",
       "url": "https://www.youtube.com/channel/UCbOmdGuNF-dUQsIN_BO9JTw",
       "firstSeenAt": "2026-10-15T11:25:06.461Z"
+    },
+    {
+      "id": "wiki:One Love (David Guetta album)",
+      "type": "wikipedia",
+      "label": "One Love (David Guetta album)",
+      "url": "https://en.wikipedia.org/wiki/One_Love_(David_Guetta_album)",
+      "firstSeenAt": "2026-10-21T11:44:40.898Z"
     }
   ],
   "recentItems": []

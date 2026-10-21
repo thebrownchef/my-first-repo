@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCm1dsgJNnhaLkY3uAdqN4mA",
   "title": "ChrisBrownVEVO",
   "thumb": "https://yt3.ggpht.com/LQZxBlTRHDjVmcGbzUZqwwRmZ9ebU-XU8frGW6SEgcllooaoqnvL4bd_dTrraTZirHtuT1epKg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Turn Up the Music (Chris Brown song)",
       "url": "https://en.wikipedia.org/wiki/Turn_Up_the_Music_(Chris_Brown_song)",
       "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "wiki:Fine China (Chris Brown song)",
+      "type": "wikipedia",
+      "label": "Fine China (Chris Brown song)",
+      "url": "https://en.wikipedia.org/wiki/Fine_China_(Chris_Brown_song)",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
     }
   ],
   "recentItems": []

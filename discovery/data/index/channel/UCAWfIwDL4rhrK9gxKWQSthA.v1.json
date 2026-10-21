@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCAWfIwDL4rhrK9gxKWQSthA",
   "title": "redtekki",
   "thumb": "https://yt3.ggpht.com/2O9dAbuqT5A_SiX_hX2TYQTUdxpYuqwrSVnH_AiZQicz5SjrN_5glkwbaCnoWmGVlbAwOqGsXEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Studio 31 Media Archive",
       "url": "https://www.youtube.com/channel/UC7ZI3TfebzaiOaXIkEx5IzA",
       "firstSeenAt": "2026-09-14T12:42:23.998Z"
+    },
+    {
+      "id": "channel:UChV2KwmKYRTWd8nQCA4qamw",
+      "type": "channel",
+      "label": "RetroJello",
+      "url": "https://www.youtube.com/channel/UChV2KwmKYRTWd8nQCA4qamw",
+      "firstSeenAt": "2026-10-21T11:45:13.818Z"
+    },
+    {
+      "id": "channel:UClWrE8PqCobjKfKqTYynj4g",
+      "type": "channel",
+      "label": "Susquehanna's Television Archive",
+      "url": "https://www.youtube.com/channel/UClWrE8PqCobjKfKqTYynj4g",
+      "firstSeenAt": "2026-10-21T11:45:14.569Z"
     }
   ],
   "recentItems": []

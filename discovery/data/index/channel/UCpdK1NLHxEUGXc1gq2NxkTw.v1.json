@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCpdK1NLHxEUGXc1gq2NxkTw",
   "title": "The Voice",
   "thumb": "https://yt3.ggpht.com/gXzjSqpS261i2wPryOtuAv2GSZnKcNPMbZL-NkgrRGMdOJ7c4A3aFhehYXDrzeLg620zXcfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.51,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "WBIR Channel 10",
       "url": "https://www.youtube.com/channel/UCsefBCbI7P5Xr-edSOpbF4A",
       "firstSeenAt": "2026-10-17T10:40:22.389Z"
+    },
+    {
+      "id": "channel:UCQMELFlXQL38KPm8kM-4Adg",
+      "type": "channel",
+      "label": "Jay Leno's Garage",
+      "url": "https://www.youtube.com/channel/UCQMELFlXQL38KPm8kM-4Adg",
+      "firstSeenAt": "2026-10-21T11:44:59.596Z"
     }
   ],
   "recentItems": []

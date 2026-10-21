@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCXfbQAimgtbk4RAUHtIAUww",
   "title": "The Lizzie Bennet Diaries",
   "thumb": "https://yt3.ggpht.com/DoJC3iUtUDA1Fdkky69tDqb_XIrMaXSGLaIl7-twWfFyDlGfKK8NEJ-cWpVaZbpRfV-nYqNz_kM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Art Assignment",
       "url": "https://www.youtube.com/channel/UCmQThz1OLYt8mb2PU540LOA",
       "firstSeenAt": "2026-09-16T11:29:14.083Z"
+    },
+    {
+      "id": "channel:UCXhqBz0Zxpj7372XDWcTvLA",
+      "type": "channel",
+      "label": "Squaresville",
+      "url": "https://www.youtube.com/channel/UCXhqBz0Zxpj7372XDWcTvLA",
+      "firstSeenAt": "2026-10-21T11:45:02.450Z"
     }
   ],
   "recentItems": []

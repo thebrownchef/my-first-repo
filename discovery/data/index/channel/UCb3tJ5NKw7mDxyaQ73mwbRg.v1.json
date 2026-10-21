@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:33:27.040Z",
+  "generatedAt": "2026-10-21T11:46:37.879Z",
   "id": "UCb3tJ5NKw7mDxyaQ73mwbRg",
   "title": "Kontor.TV",
   "thumb": "https://yt3.ggpht.com/qC8-d_KikP-g-z4qnHBDkHdS7vqokQet13K6JgqQYhARF8kjlMylGci_V8_fuY2o6cNFVemPew=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "Ma Chérie",
       "url": "https://en.wikipedia.org/wiki/Ma_Ch%C3%A9rie",
       "firstSeenAt": "2026-10-16T11:19:26.090Z"
+    },
+    {
+      "id": "wiki:Living in Stereo",
+      "type": "wikipedia",
+      "label": "Living in Stereo",
+      "url": "https://en.wikipedia.org/wiki/Living_in_Stereo",
+      "firstSeenAt": "2026-10-21T11:44:42.678Z"
+    },
+    {
+      "id": "wiki:ItaloBrothers",
+      "type": "wikipedia",
+      "label": "ItaloBrothers",
+      "url": "https://en.wikipedia.org/wiki/ItaloBrothers",
+      "firstSeenAt": "2026-10-21T11:44:44.335Z"
     }
   ],
   "recentItems": []
