@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCryGec9PdUCLjpJW2mgCuLw",
   "title": "NASA Jet Propulsion Laboratory",
   "thumb": "https://yt3.ggpht.com/Qc8LKJsm3lqSGkKSb9kkJbJWW4PXBgt25eLVwWuMFZiSRl6RHptXnC2MwfmSl2kddj4Fhb3yQw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "KISSCaltech",
       "url": "https://www.youtube.com/channel/UCTuKkbnhdaX07Lp6LS3Ob6A",
       "firstSeenAt": "2026-10-01T13:11:05.527Z"
+    },
+    {
+      "id": "channel:UCVTomc35agH1SM6kCKzwW_g",
+      "type": "channel",
+      "label": "VideoFromSpace",
+      "url": "https://www.youtube.com/channel/UCVTomc35agH1SM6kCKzwW_g",
+      "firstSeenAt": "2026-10-22T11:48:01.125Z"
     }
   ],
   "recentItems": []

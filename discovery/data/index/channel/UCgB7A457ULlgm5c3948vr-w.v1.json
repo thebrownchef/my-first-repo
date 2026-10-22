@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCgB7A457ULlgm5c3948vr-w",
   "title": "BTOB 비투비 (Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lRZlsGii0S7kA-gUquyU_I_K3OXKpVwfXwdF0vAivz6-U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Press Play (BtoB EP)",
       "url": "https://en.wikipedia.org/wiki/Press_Play_(BtoB_EP)",
       "firstSeenAt": "2026-10-16T11:19:26.089Z"
+    },
+    {
+      "id": "wiki:2nd Confession",
+      "type": "wikipedia",
+      "label": "2nd Confession",
+      "url": "https://en.wikipedia.org/wiki/2nd_Confession",
+      "firstSeenAt": "2026-10-22T11:47:45.725Z"
     }
   ],
   "recentItems": []

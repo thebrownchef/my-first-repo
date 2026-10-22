@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCqk3CdGN_j8IR9z4uBbVPSg",
   "title": "Lana Del Rey",
   "thumb": "https://yt3.ggpht.com/v7FFBCqWHtvh-_wLtWV2vOrgBI7p7puXjiZgZJ1bOcwdGUkP8DjHVdt6U-QvSDjEMtYa0aSw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Burning Desire (song)",
       "url": "https://en.wikipedia.org/wiki/Burning_Desire_(song)",
       "firstSeenAt": "2026-10-21T11:44:44.335Z"
+    },
+    {
+      "id": "channel:UCyjrJ9uJuxmkkYXbV7xW_yQ",
+      "type": "channel",
+      "label": "Aquila",
+      "url": "https://www.youtube.com/channel/UCyjrJ9uJuxmkkYXbV7xW_yQ",
+      "firstSeenAt": "2026-10-22T11:48:05.179Z"
     }
   ],
   "recentItems": []

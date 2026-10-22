@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UC7E-LYc1wivk33iyt5bR5zQ",
   "title": "Vatican News",
   "thumb": "https://yt3.ggpht.com/bQuLzosJJsDRO5I7Bz04Dq1V_fTdZeelLz9DkINH6nwdzi9qWKjxjZXt8Xv111oLVnbLXIQq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.19,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Inauguration of Pope Francis",
       "url": "https://en.wikipedia.org/wiki/Inauguration_of_Pope_Francis",
       "firstSeenAt": "2026-10-21T11:44:40.898Z"
+    },
+    {
+      "id": "wiki:Anthony Olubunmi Okogie",
+      "type": "wikipedia",
+      "label": "Anthony Olubunmi Okogie",
+      "url": "https://en.wikipedia.org/wiki/Anthony_Olubunmi_Okogie",
+      "firstSeenAt": "2026-10-22T11:47:47.034Z"
     }
   ],
   "recentItems": []

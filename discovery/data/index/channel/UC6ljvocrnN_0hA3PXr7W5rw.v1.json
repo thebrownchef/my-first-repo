@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UC6ljvocrnN_0hA3PXr7W5rw",
   "title": "ThirtySecondsToMarsVEVO",
   "thumb": "https://yt3.ggpht.com/cPykTn6HtmBwtLB8Hf1qmNcCO9O_Oow6xAzbmjXNHhLHKZ6XhBLDANQMRIfjAusaYN21dslVKw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "This Is War (Thirty Seconds to Mars song)",
       "url": "https://en.wikipedia.org/wiki/This_Is_War_(Thirty_Seconds_to_Mars_song)",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:Up in the Air (song)",
+      "type": "wikipedia",
+      "label": "Up in the Air (song)",
+      "url": "https://en.wikipedia.org/wiki/Up_in_the_Air_(song)",
+      "firstSeenAt": "2026-10-22T11:47:45.726Z"
     }
   ],
   "recentItems": []

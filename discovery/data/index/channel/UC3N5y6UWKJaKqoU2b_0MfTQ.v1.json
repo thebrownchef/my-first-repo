@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UC3N5y6UWKJaKqoU2b_0MfTQ",
   "title": "LanaDelReyVEVO",
   "thumb": "https://yt3.ggpht.com/v7FFBCqWHtvh-_wLtWV2vOrgBI7p7puXjiZgZJ1bOcwdGUkP8DjHVdt6U-QvSDjEMtYa0aSw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Lana Del Rey",
       "url": "https://www.youtube.com/channel/UCqk3CdGN_j8IR9z4uBbVPSg",
       "firstSeenAt": "2026-10-17T10:40:08.813Z"
+    },
+    {
+      "id": "wiki:Young and Beautiful (Lana Del Rey song)",
+      "type": "wikipedia",
+      "label": "Young and Beautiful (Lana Del Rey song)",
+      "url": "https://en.wikipedia.org/wiki/Young_and_Beautiful_(Lana_Del_Rey_song)",
+      "firstSeenAt": "2026-10-22T11:47:48.411Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCqyku6Kofy1nV86yh9R8n8A",
   "title": "Alex",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l-fOSAmaipf42omYKVoQ8_wOTAULp01RYV0xslGp_TxnE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "ChartJackersProject",
       "url": "https://www.youtube.com/channel/UCKGfVsvT0mIQQxvRiZb7NtQ",
       "firstSeenAt": "2026-10-08T13:25:48.362Z"
+    },
+    {
+      "id": "wiki:Epigrams and Interludes",
+      "type": "wikipedia",
+      "label": "Epigrams and Interludes",
+      "url": "https://en.wikipedia.org/wiki/Epigrams_and_Interludes",
+      "firstSeenAt": "2026-10-22T11:47:45.725Z"
     }
   ],
   "recentItems": []

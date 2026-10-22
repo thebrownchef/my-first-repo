@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UChpJbg7zMbi5jx9Gdjaxa9g",
   "title": "KanyeWestVEVO",
   "thumb": "https://yt3.ggpht.com/jh05JitmhiTaAuBp7AAtTETeO3Zl7bDa-KwcSnZYymMpNF984oQ4k3ZQq1KBPhoKOXHS8B761WM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 22,
-  "distinctSourceCount": 22,
+  "score": 23,
+  "distinctSourceCount": 23,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -162,6 +162,13 @@
       "label": "No Church in the Wild",
       "url": "https://en.wikipedia.org/wiki/No_Church_in_the_Wild",
       "firstSeenAt": "2026-10-19T13:08:24.289Z"
+    },
+    {
+      "id": "wiki:Can't Tell Me Nothing",
+      "type": "wikipedia",
+      "label": "Can't Tell Me Nothing",
+      "url": "https://en.wikipedia.org/wiki/Can't_Tell_Me_Nothing",
+      "firstSeenAt": "2026-10-22T11:47:48.411Z"
     }
   ],
   "recentItems": [

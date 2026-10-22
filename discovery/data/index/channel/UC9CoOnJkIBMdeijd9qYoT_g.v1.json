@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UC9CoOnJkIBMdeijd9qYoT_g",
   "title": "Ariana Grande",
   "thumb": "https://yt3.ggpht.com/hK5f1t-mCu2WrNg3WPSrS5rySMl-wT0z3wNZuIWvC3gPtM4glWNszP0LthUxBcZVxgWVs6rq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Universal Music Spain",
       "url": "https://www.youtube.com/channel/UCk9T30SlKa4S0OlLE3oK9FA",
       "firstSeenAt": "2026-10-04T12:18:57.709Z"
+    },
+    {
+      "id": "wiki:The Way (Ariana Grande song)",
+      "type": "wikipedia",
+      "label": "The Way (Ariana Grande song)",
+      "url": "https://en.wikipedia.org/wiki/The_Way_(Ariana_Grande_song)",
+      "firstSeenAt": "2026-10-22T11:47:47.034Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UC8T81Q-rEobLa-YuQKj8L1A",
   "title": "Ministry of Sound",
   "thumb": "https://yt3.ggpht.com/cskYl8jAZXw3UEGPIhLqHsboTPNZybVpvV4canNFCqs9vsaVSq3Xb7ueQV0fFYlZ0BEuZlfE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "DJ Fresh",
       "url": "https://www.youtube.com/channel/UC0y8P5OjTKLTpnDt62WJzCA",
       "firstSeenAt": "2026-10-11T12:46:11.952Z"
+    },
+    {
+      "id": "wiki:Easy (Mat Zo and Porter Robinson song)",
+      "type": "wikipedia",
+      "label": "Easy (Mat Zo and Porter Robinson song)",
+      "url": "https://en.wikipedia.org/wiki/Easy_(Mat_Zo_and_Porter_Robinson_song)",
+      "firstSeenAt": "2026-10-22T11:47:45.726Z"
     }
   ],
   "recentItems": []

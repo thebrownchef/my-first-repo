@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCKTgj8r-wp80wJgDxhc6jpA",
   "title": "carrieunderwoodVEVO",
   "thumb": "https://yt3.ggpht.com/LjavUxwZPNDU3c3MaIwrWnafZFK08l403o2z9tLHDUvTyZ7rfKErrF0pbROw6U8cFsln4RvN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Mama's Song",
       "url": "https://en.wikipedia.org/wiki/Mama's_Song",
       "firstSeenAt": "2026-10-19T13:08:24.288Z"
+    },
+    {
+      "id": "wiki:Two Black Cadillacs",
+      "type": "wikipedia",
+      "label": "Two Black Cadillacs",
+      "url": "https://en.wikipedia.org/wiki/Two_Black_Cadillacs",
+      "firstSeenAt": "2026-10-22T11:47:48.411Z"
     }
   ],
   "recentItems": []

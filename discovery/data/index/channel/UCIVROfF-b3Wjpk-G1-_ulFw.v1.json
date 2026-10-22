@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCIVROfF-b3Wjpk-G1-_ulFw",
   "title": "Billy Talent",
   "thumb": "https://yt3.ggpht.com/cK0eOn3NXDY4IMyBw4-_6_OwNlpr8fDeq8TzisVuV7sHC_SZm_ol3R9simPYeX3RLytaJDK5qg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Billy Talent discography",
       "url": "https://en.wikipedia.org/wiki/Billy_Talent_discography",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:Stand Up and Run",
+      "type": "wikipedia",
+      "label": "Stand Up and Run",
+      "url": "https://en.wikipedia.org/wiki/Stand_Up_and_Run",
+      "firstSeenAt": "2026-10-22T11:47:47.034Z"
     }
   ],
   "recentItems": []

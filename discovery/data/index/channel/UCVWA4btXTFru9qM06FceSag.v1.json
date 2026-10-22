@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCVWA4btXTFru9qM06FceSag",
   "title": "PitbullVEVO",
   "thumb": "https://yt3.ggpht.com/Hj7bnKk6Zh4ko81EBLWquLl-a6_-LQqISsxR2wHpEauEAw8u4sj8onUFTvIKjeRxgaU4hGrHow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Rain Over Me",
       "url": "https://en.wikipedia.org/wiki/Rain_Over_Me",
       "firstSeenAt": "2026-10-21T11:44:42.678Z"
+    },
+    {
+      "id": "wiki:Tu Cuerpo",
+      "type": "wikipedia",
+      "label": "Tu Cuerpo",
+      "url": "https://en.wikipedia.org/wiki/Tu_Cuerpo",
+      "firstSeenAt": "2026-10-22T11:47:48.411Z"
     }
   ],
   "recentItems": []

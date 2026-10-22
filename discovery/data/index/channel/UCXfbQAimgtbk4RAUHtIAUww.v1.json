@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCXfbQAimgtbk4RAUHtIAUww",
   "title": "The Lizzie Bennet Diaries",
   "thumb": "https://yt3.ggpht.com/DoJC3iUtUDA1Fdkky69tDqb_XIrMaXSGLaIl7-twWfFyDlGfKK8NEJ-cWpVaZbpRfV-nYqNz_kM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Squaresville",
       "url": "https://www.youtube.com/channel/UCXhqBz0Zxpj7372XDWcTvLA",
       "firstSeenAt": "2026-10-21T11:45:02.450Z"
+    },
+    {
+      "id": "channel:UCklAXL2kUeJp0zO0YscuubA",
+      "type": "channel",
+      "label": "Maria Lu",
+      "url": "https://www.youtube.com/channel/UCklAXL2kUeJp0zO0YscuubA",
+      "firstSeenAt": "2026-10-22T11:48:03.309Z"
     }
   ],
   "recentItems": []

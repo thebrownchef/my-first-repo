@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "title": "Google",
   "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Haiku (operating system)",
       "url": "https://en.wikipedia.org/wiki/Haiku_(operating_system)",
       "firstSeenAt": "2026-10-11T12:45:40.965Z"
+    },
+    {
+      "id": "wiki:Saul Bass",
+      "type": "wikipedia",
+      "label": "Saul Bass",
+      "url": "https://en.wikipedia.org/wiki/Saul_Bass",
+      "firstSeenAt": "2026-10-22T11:47:48.411Z"
     }
   ],
   "recentItems": []

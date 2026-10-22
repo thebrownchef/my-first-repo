@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCC6XuDtfec7DxZdUa7ClFBQ",
   "title": "AvrilLavigneVEVO",
   "thumb": "https://yt3.ggpht.com/o4u-Su2zOrLmPhxLJgbv0U210sPb1DjBbvoKRU6ilU1hieKyaVBMmnRY7MVBiNhsgu6gggIlc5E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "The Best Damn Thing (song)",
       "url": "https://en.wikipedia.org/wiki/The_Best_Damn_Thing_(song)",
       "firstSeenAt": "2026-10-12T15:18:29.861Z"
+    },
+    {
+      "id": "wiki:He Wasn't",
+      "type": "wikipedia",
+      "label": "He Wasn't",
+      "url": "https://en.wikipedia.org/wiki/He_Wasn't",
+      "firstSeenAt": "2026-10-22T11:47:45.725Z"
     }
   ],
   "recentItems": []

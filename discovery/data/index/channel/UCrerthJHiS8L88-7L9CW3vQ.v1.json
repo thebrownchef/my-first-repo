@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCrerthJHiS8L88-7L9CW3vQ",
   "title": "NSTMF",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koGedwetWyijZkw2h2rF8VIALr3i7XywT9zYDzREy4xQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Sallie W. Chisholm",
       "url": "https://en.wikipedia.org/wiki/Sallie_W._Chisholm",
       "firstSeenAt": "2026-10-21T11:44:44.335Z"
+    },
+    {
+      "id": "wiki:Barry Mazur",
+      "type": "wikipedia",
+      "label": "Barry Mazur",
+      "url": "https://en.wikipedia.org/wiki/Barry_Mazur",
+      "firstSeenAt": "2026-10-22T11:47:47.034Z"
     }
   ],
   "recentItems": []

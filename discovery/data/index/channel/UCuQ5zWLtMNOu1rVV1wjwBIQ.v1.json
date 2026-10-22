@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "id": "UCuQ5zWLtMNOu1rVV1wjwBIQ",
+  "title": "Radiodiffusion Télévision Ivoirienne",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_ktZdgEmiAYssIkrxi5yUO2bbby3JAK5ND4zZFOgNpeFg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 2.81,
+  "sources": [
+    {
+      "id": "channel:UCxeb7KlVQpmMzQ0sPyk4GGQ",
+      "type": "channel",
+      "label": "RTI ",
+      "url": "https://www.youtube.com/channel/UCxeb7KlVQpmMzQ0sPyk4GGQ",
+      "firstSeenAt": "2026-09-10T11:16:12.920Z"
+    },
+    {
+      "id": "channel:UCLLwppOML5BQRseKUxe9Z4Q",
+      "type": "channel",
+      "label": "Abidjan.netTV",
+      "url": "https://www.youtube.com/channel/UCLLwppOML5BQRseKUxe9Z4Q",
+      "firstSeenAt": "2026-10-22T11:47:58.754Z"
+    }
+  ],
+  "recentItems": []
+}

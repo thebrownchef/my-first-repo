@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
   "title": "BeyoncéVEVO",
   "thumb": "https://yt3.ggpht.com/4UxYRy4fJ0Fo54TRPkw19_W6uCCnzTBSkzm75vGIiEObg4IgY5Ie1BIsNcflFNqofAjxEpTRcQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Love On Top",
       "url": "https://en.wikipedia.org/wiki/Love_On_Top",
       "firstSeenAt": "2026-10-12T15:18:29.861Z"
+    },
+    {
+      "id": "wiki:Diva (Beyoncé song)",
+      "type": "wikipedia",
+      "label": "Diva (Beyoncé song)",
+      "url": "https://en.wikipedia.org/wiki/Diva_(Beyonc%C3%A9_song)",
+      "firstSeenAt": "2026-10-22T11:47:48.411Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:46:37.879Z",
+  "generatedAt": "2026-10-22T11:49:34.646Z",
   "id": "UCfcp9irZM4H1ISMjnK_auMA",
   "title": "HurtsVEVO",
   "thumb": "https://yt3.ggpht.com/NEDie0-De-KRujLGd394qpaWWXm9NJVTtgyBeSMyTeFoIwBZPxOvywPjEvGY2XfQ2Gkz4LNo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Miracle (Hurts song)",
       "url": "https://en.wikipedia.org/wiki/Miracle_(Hurts_song)",
       "firstSeenAt": "2026-10-21T11:44:42.678Z"
+    },
+    {
+      "id": "wiki:Blind (Hurts song)",
+      "type": "wikipedia",
+      "label": "Blind (Hurts song)",
+      "url": "https://en.wikipedia.org/wiki/Blind_(Hurts_song)",
+      "firstSeenAt": "2026-10-22T11:47:45.725Z"
+    },
+    {
+      "id": "channel:UCyjrJ9uJuxmkkYXbV7xW_yQ",
+      "type": "channel",
+      "label": "Aquila",
+      "url": "https://www.youtube.com/channel/UCyjrJ9uJuxmkkYXbV7xW_yQ",
+      "firstSeenAt": "2026-10-22T11:48:05.179Z"
     }
   ],
   "recentItems": []
