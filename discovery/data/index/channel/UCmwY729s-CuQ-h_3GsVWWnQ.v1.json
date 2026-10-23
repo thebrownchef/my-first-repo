@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCmwY729s-CuQ-h_3GsVWWnQ",
   "title": "YeahYeahYeahsVEVO",
   "thumb": "https://yt3.ggpht.com/cuO74JjPV0Vf_GDKlJ-gIaDe_Pse1BG8PQ1CMpdlsH_ZJbDWowxBtMBhHw8wPUEgsrWBosye=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Heads Will Roll (song)",
       "url": "https://en.wikipedia.org/wiki/Heads_Will_Roll_(song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Sacrilege (song)",
+      "type": "wikipedia",
+      "label": "Sacrilege (song)",
+      "url": "https://en.wikipedia.org/wiki/Sacrilege_(song)",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []

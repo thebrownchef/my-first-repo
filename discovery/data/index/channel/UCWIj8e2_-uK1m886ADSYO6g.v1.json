@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCWIj8e2_-uK1m886ADSYO6g",
   "title": "The Drew Barrymore Show",
   "thumb": "https://yt3.ggpht.com/tu1YWIKd7ohmLfx6aAfGLTtR0L3Nf0ZccQjBw6Xjuzs6sOpuZsK3VSN0YSZ8BtNXSrBtUgg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 2.54,
   "sources": [
@@ -22,6 +22,41 @@
       "label": "Megan Fox",
       "url": "https://en.wikipedia.org/wiki/Megan_Fox",
       "firstSeenAt": "2026-09-01T11:37:09.153Z"
+    },
+    {
+      "id": "channel:UCK1W7n3S3FewVxxq4cX2taQ",
+      "type": "channel",
+      "label": "Beverly Hills 90210",
+      "url": "https://www.youtube.com/channel/UCK1W7n3S3FewVxxq4cX2taQ",
+      "firstSeenAt": "2026-10-23T11:34:59.876Z"
+    },
+    {
+      "id": "channel:UCEkwdEYYcTBtavhEZ8T1ydw",
+      "type": "channel",
+      "label": "Sabrina The Teenage Witch",
+      "url": "https://www.youtube.com/channel/UCEkwdEYYcTBtavhEZ8T1ydw",
+      "firstSeenAt": "2026-10-23T11:34:59.915Z"
+    },
+    {
+      "id": "channel:UCtbkymRCxreyNHb_ON2FCsQ",
+      "type": "channel",
+      "label": "Rachael Ray Show",
+      "url": "https://www.youtube.com/channel/UCtbkymRCxreyNHb_ON2FCsQ",
+      "firstSeenAt": "2026-10-23T11:35:00.126Z"
+    },
+    {
+      "id": "channel:UCdtXPiqI2cLorKaPrfpKc4g",
+      "type": "channel",
+      "label": "Entertainment Tonight",
+      "url": "https://www.youtube.com/channel/UCdtXPiqI2cLorKaPrfpKc4g",
+      "firstSeenAt": "2026-10-23T11:35:00.166Z"
+    },
+    {
+      "id": "channel:UCISglu-JC04IuYH13mfYHzw",
+      "type": "channel",
+      "label": "Vintage TV Club",
+      "url": "https://www.youtube.com/channel/UCISglu-JC04IuYH13mfYHzw",
+      "firstSeenAt": "2026-10-23T11:35:00.272Z"
     }
   ],
   "recentItems": []

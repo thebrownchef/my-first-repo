@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCVW1RiWXTQL-G-3KcoRy-_g",
   "title": "SurvivorOnCBS",
   "thumb": "https://yt3.ggpht.com/ef0gkLfLUtGB8YGoO6YGYO4Zb3hQUQw76W2v_ae80PAWLhgnPYCxTMFWk1kY-ho23Ro_VZ2s=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "CBS",
       "url": "https://www.youtube.com/channel/UClzCn8DxRSCuMFv_WfzkcrQ",
       "firstSeenAt": "2026-09-29T12:49:35.715Z"
+    },
+    {
+      "id": "channel:UCdtXPiqI2cLorKaPrfpKc4g",
+      "type": "channel",
+      "label": "Entertainment Tonight",
+      "url": "https://www.youtube.com/channel/UCdtXPiqI2cLorKaPrfpKc4g",
+      "firstSeenAt": "2026-10-23T11:35:00.166Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCPS-SY0UvQVRpEGdt0MxwIQ",
   "title": "Celeste Buckingham",
   "thumb": "https://yt3.ggpht.com/w9a6e_YYauBmu3k48jsSw2mEA3naLxn1hcqyfC12fBZuzmcQ843yGdYBeYtxFHPnBpvlMKBZZQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Nobody Knows (Celeste Buckingham song)",
       "url": "https://en.wikipedia.org/wiki/Nobody_Knows_(Celeste_Buckingham_song)",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:Never Be You (Celeste Buckingham song)",
+      "type": "wikipedia",
+      "label": "Never Be You (Celeste Buckingham song)",
+      "url": "https://en.wikipedia.org/wiki/Never_Be_You_(Celeste_Buckingham_song)",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "id": "UC-yTB2bUcin9mmah36sXiYA",
+  "title": "TEDxYouth",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_l0mLEfxbDWYmEPTS2AgvJDNz_LRmGxvmcfhwNZo_X3vw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.76,
+  "sources": [
+    {
+      "id": "channel:UCsT0YIqwnpJCM-mx7-gSA4Q",
+      "type": "channel",
+      "label": "TEDx Talks",
+      "url": "https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q",
+      "firstSeenAt": "2026-08-27T07:14:21.101Z"
+    },
+    {
+      "id": "wiki:Stacey Ferreira",
+      "type": "wikipedia",
+      "label": "Stacey Ferreira",
+      "url": "https://en.wikipedia.org/wiki/Stacey_Ferreira",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    }
+  ],
+  "recentItems": []
+}

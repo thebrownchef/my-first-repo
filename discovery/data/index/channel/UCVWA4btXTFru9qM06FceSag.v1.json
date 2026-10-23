@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCVWA4btXTFru9qM06FceSag",
   "title": "PitbullVEVO",
   "thumb": "https://yt3.ggpht.com/Hj7bnKk6Zh4ko81EBLWquLl-a6_-LQqISsxR2wHpEauEAw8u4sj8onUFTvIKjeRxgaU4hGrHow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -71,6 +71,41 @@
       "label": "Tu Cuerpo",
       "url": "https://en.wikipedia.org/wiki/Tu_Cuerpo",
       "firstSeenAt": "2026-10-22T11:47:48.411Z"
+    },
+    {
+      "id": "wiki:Hotel Room Service",
+      "type": "wikipedia",
+      "label": "Hotel Room Service",
+      "url": "https://en.wikipedia.org/wiki/Hotel_Room_Service",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Shut It Down (song)",
+      "type": "wikipedia",
+      "label": "Shut It Down (song)",
+      "url": "https://en.wikipedia.org/wiki/Shut_It_Down_(song)",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Maldito Alcohol",
+      "type": "wikipedia",
+      "label": "Maldito Alcohol",
+      "url": "https://en.wikipedia.org/wiki/Maldito_Alcohol",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Watagatapitusberry",
+      "type": "wikipedia",
+      "label": "Watagatapitusberry",
+      "url": "https://en.wikipedia.org/wiki/Watagatapitusberry",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Krazy (Pitbull song)",
+      "type": "wikipedia",
+      "label": "Krazy (Pitbull song)",
+      "url": "https://en.wikipedia.org/wiki/Krazy_(Pitbull_song)",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
     }
   ],
   "recentItems": []

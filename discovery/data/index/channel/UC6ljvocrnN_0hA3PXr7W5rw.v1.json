@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UC6ljvocrnN_0hA3PXr7W5rw",
   "title": "ThirtySecondsToMarsVEVO",
   "thumb": "https://yt3.ggpht.com/cPykTn6HtmBwtLB8Hf1qmNcCO9O_Oow6xAzbmjXNHhLHKZ6XhBLDANQMRIfjAusaYN21dslVKw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Up in the Air (song)",
       "url": "https://en.wikipedia.org/wiki/Up_in_the_Air_(song)",
       "firstSeenAt": "2026-10-22T11:47:45.726Z"
+    },
+    {
+      "id": "wiki:Edge of the Earth (Thirty Seconds to Mars song)",
+      "type": "wikipedia",
+      "label": "Edge of the Earth (Thirty Seconds to Mars song)",
+      "url": "https://en.wikipedia.org/wiki/Edge_of_the_Earth_(Thirty_Seconds_to_Mars_song)",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []

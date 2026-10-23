@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCYkW00cPFkp1UzYON7XZB2A",
   "title": "EurythmicsVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nb2YQLI-X9sOJrKT7xbgahicDbD7j6m4M3Q8lRsT-j_OY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Beethoven (I Love to Listen To)",
       "url": "https://en.wikipedia.org/wiki/Beethoven_(I_Love_to_Listen_To)",
       "firstSeenAt": "2026-10-09T13:13:04.342Z"
+    },
+    {
+      "id": "wiki:When Tomorrow Comes",
+      "type": "wikipedia",
+      "label": "When Tomorrow Comes",
+      "url": "https://en.wikipedia.org/wiki/When_Tomorrow_Comes",
+      "firstSeenAt": "2026-10-23T11:34:40.281Z"
     }
   ],
   "recentItems": []

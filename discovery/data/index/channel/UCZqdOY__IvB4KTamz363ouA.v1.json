@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCZqdOY__IvB4KTamz363ouA",
   "title": "Toronto Argonauts",
   "thumb": "https://yt3.ggpht.com/X8WPUD5y-8LpBW7xQSWLMdBKiYUqBxctbgDBQ8yDghTTHXXSazUmONGf3Q972VwPKSBc0hstLKg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "CFL",
       "url": "https://www.youtube.com/channel/UC7u88nvWn2TfoGq2QBNXB7w",
       "firstSeenAt": "2026-10-05T14:33:11.710Z"
+    },
+    {
+      "id": "wiki:Jordan Younger",
+      "type": "wikipedia",
+      "label": "Jordan Younger",
+      "url": "https://en.wikipedia.org/wiki/Jordan_Younger",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
     }
   ],
   "recentItems": []

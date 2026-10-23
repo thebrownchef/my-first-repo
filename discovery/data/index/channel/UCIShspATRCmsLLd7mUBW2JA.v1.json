@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "id": "UCIShspATRCmsLLd7mUBW2JA",
+  "title": "Cape Of Good Films",
+  "thumb": "https://yt3.ggpht.com/sn2UAfN9dCEPie7xB7cY7md71J5G5Go3X8bYCO17TFc_P0fiFgqxtqx9x3GPWv4HjEsNJfVo=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "wiki:Cape of Good Films",
+      "type": "wikipedia",
+      "label": "Cape of Good Films",
+      "url": "https://en.wikipedia.org/wiki/Cape_of_Good_Films",
+      "firstSeenAt": "2026-09-01T11:37:06.188Z"
+    },
+    {
+      "id": "channel:UCm7tfcbcEhHssjNZf3kAzVQ",
+      "type": "channel",
+      "label": "Rohit Shetty Picturez",
+      "url": "https://www.youtube.com/channel/UCm7tfcbcEhHssjNZf3kAzVQ",
+      "firstSeenAt": "2026-10-23T11:34:58.959Z"
+    },
+    {
+      "id": "channel:UCdfXaARoko58ZraSegLA-4A",
+      "type": "channel",
+      "label": "AA Films",
+      "url": "https://www.youtube.com/channel/UCdfXaARoko58ZraSegLA-4A",
+      "firstSeenAt": "2026-10-23T11:34:59.200Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCT-LpxQVr4JlrC_mYwJGJ3Q",
   "title": "Theme Park Review",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kr1ymsR7uvgufmCMRrvEWkNQBjstDN8haaS1x_DyC3Dc0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.48,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Hollywood Dream – The Ride",
       "url": "https://en.wikipedia.org/wiki/Hollywood_Dream_%E2%80%93_The_Ride",
       "firstSeenAt": "2026-10-22T11:47:48.410Z"
+    },
+    {
+      "id": "wiki:Antarctica: Empire of the Penguin",
+      "type": "wikipedia",
+      "label": "Antarctica: Empire of the Penguin",
+      "url": "https://en.wikipedia.org/wiki/Antarctica%3A_Empire_of_the_Penguin",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
     }
   ],
   "recentItems": []

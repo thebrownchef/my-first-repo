@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCWJ2lWNubArHWmf3FIHbfcQ",
   "title": "NBA",
   "thumb": "https://yt3.ggpht.com/eGmO8yk_eHvLzEywzlPwRV_-7RiDayDLeXWWBVExMLN4qXA7z7fD6ldPXatXZiQOvgW4--jzNA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 10.49,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "2007 NBA All-Star Game",
       "url": "https://en.wikipedia.org/wiki/2007_NBA_All-Star_Game",
       "firstSeenAt": "2026-10-20T11:32:06.611Z"
+    },
+    {
+      "id": "wiki:Jameer Nelson",
+      "type": "wikipedia",
+      "label": "Jameer Nelson",
+      "url": "https://en.wikipedia.org/wiki/Jameer_Nelson",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
     }
   ],
   "recentItems": []

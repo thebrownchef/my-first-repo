@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "id": "UCAmt29QykFXnuIqQoEEnEFg",
+  "title": "Sigur Rós",
+  "thumb": "https://yt3.ggpht.com/GJ7Xvuf3-X2uNQSUabnCsRK45Z9yHe6lORQ9dCiZ7ZzmunXZuxSyZB-g-SAx9lrfJNFwZHrV78A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "channel:UCTTBHIoKPIWLAxxTNTiQ9vA",
+      "type": "channel",
+      "label": "XL Recordings",
+      "url": "https://www.youtube.com/channel/UCTTBHIoKPIWLAxxTNTiQ9vA",
+      "firstSeenAt": "2026-10-03T11:38:44.702Z"
+    },
+    {
+      "id": "wiki:Varúð",
+      "type": "wikipedia",
+      "label": "Varúð",
+      "url": "https://en.wikipedia.org/wiki/Var%C3%BA%C3%B0",
+      "firstSeenAt": "2026-10-23T11:34:40.282Z"
+    },
+    {
+      "id": "wiki:Viðrar vel til loftárása",
+      "type": "wikipedia",
+      "label": "Viðrar vel til loftárása",
+      "url": "https://en.wikipedia.org/wiki/Vi%C3%B0rar_vel_til_loft%C3%A1r%C3%A1sa",
+      "firstSeenAt": "2026-10-23T11:34:40.282Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "id": "UCk8gzAOGprcGAFMWGzZ2zQw",
+  "title": "ESPN UK",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfCG0CVqC5NjaNnt1hrMeiAG3n51V4LKW9Px9u6nyODg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 3.29,
+  "sources": [
+    {
+      "id": "channel:UCiWLfSweyRNmLpgEHekhoAg",
+      "type": "channel",
+      "label": "ESPN",
+      "url": "https://www.youtube.com/channel/UCiWLfSweyRNmLpgEHekhoAg",
+      "firstSeenAt": "2026-09-19T10:55:44.978Z"
+    },
+    {
+      "id": "channel:UCIIKPy27YWW5yhc0qvr4KnA",
+      "type": "channel",
+      "label": "Malika Andrews - ESPN",
+      "url": "https://www.youtube.com/channel/UCIIKPy27YWW5yhc0qvr4KnA",
+      "firstSeenAt": "2026-10-23T11:34:47.693Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCXLFs5gTV3rjGPFkgxFoDxQ",
   "title": "Regina Spektor",
   "thumb": "https://yt3.ggpht.com/2vENsPZKQWWCgHVc7pKxulo-eGY66a3_934hf3Qgu9cebUPejm1QxUekx1bXtRXVEubhiAwJbaI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Laughing With",
       "url": "https://en.wikipedia.org/wiki/Laughing_With",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:All the Rowboats",
+      "type": "wikipedia",
+      "label": "All the Rowboats",
+      "url": "https://en.wikipedia.org/wiki/All_the_Rowboats",
+      "firstSeenAt": "2026-10-23T11:34:40.281Z"
     }
   ],
   "recentItems": []

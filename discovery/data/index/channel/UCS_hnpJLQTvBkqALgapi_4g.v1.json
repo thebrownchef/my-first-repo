@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCS_hnpJLQTvBkqALgapi_4g",
   "title": "SBSKPOP X INKIGAYO",
   "thumb": "https://yt3.ggpht.com/GqzNZfMlBCgXYpAA74wuCs9HTEJ7ePtImt6QpXwk2qt6LJEIrZ8hEdPHeLPusnCCqoEGJb1pEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
-  "uploadsPerDay": 7.42,
+  "uploadsPerDay": 7.44,
   "sources": [
     {
       "id": "wiki:Down (Jessi song)",
@@ -92,6 +92,13 @@
       "label": "런닝맨 - 스브스 공식 채널",
       "url": "https://www.youtube.com/channel/UCaKod3X1Tn4c7Ci0iUKcvzQ",
       "firstSeenAt": "2026-09-26T11:21:53.637Z"
+    },
+    {
+      "id": "wiki:Inkigayo",
+      "type": "wikipedia",
+      "label": "Inkigayo",
+      "url": "https://en.wikipedia.org/wiki/Inkigayo",
+      "firstSeenAt": "2026-10-23T11:34:39.515Z"
     }
   ],
   "recentItems": []

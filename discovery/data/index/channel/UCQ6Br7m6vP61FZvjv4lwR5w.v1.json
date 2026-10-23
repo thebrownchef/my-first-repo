@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCQ6Br7m6vP61FZvjv4lwR5w",
   "title": "私立恵比寿中学",
   "thumb": "https://yt3.ggpht.com/Oha5GgVpqwruVmPKKGdnS1QuofQn7tMrC3f4VyFonyVnPVlT9mxXOTUiAXS9fIWhu8NzR808=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Karikeiyaku no Cinderella",
       "url": "https://en.wikipedia.org/wiki/Karikeiyaku_no_Cinderella",
       "firstSeenAt": "2026-10-19T13:08:27.521Z"
+    },
+    {
+      "id": "wiki:Te o Tsunagō / Kindan no Karma",
+      "type": "wikipedia",
+      "label": "Te o Tsunagō / Kindan no Karma",
+      "url": "https://en.wikipedia.org/wiki/Te_o_Tsunag%C5%8D_%2F_Kindan_no_Karma",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []

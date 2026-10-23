@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCl2aT0nRejTCQO_LHZAftBw",
   "title": "UNIVERSAL MUSIC JAPAN",
   "thumb": "https://yt3.ggpht.com/yH850lOJjx0xRC7r69WxylQITd9m2RKE11ihqbToi19NTacCjlJKkKUyv2jl27o7tEZ-RtHxFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 1.17,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Unlimited (Kim Hyun-joong album)",
       "url": "https://en.wikipedia.org/wiki/Unlimited_(Kim_Hyun-joong_album)",
       "firstSeenAt": "2026-10-18T11:00:35.730Z"
+    },
+    {
+      "id": "wiki:Tonight (Kim Hyun-joong song)",
+      "type": "wikipedia",
+      "label": "Tonight (Kim Hyun-joong song)",
+      "url": "https://en.wikipedia.org/wiki/Tonight_(Kim_Hyun-joong_song)",
+      "firstSeenAt": "2026-10-23T11:34:39.151Z"
     }
   ],
   "recentItems": []

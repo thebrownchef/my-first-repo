@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UClx2ih2Nx8enGmsMsA6C3BQ",
   "title": "CAguileraVEVO",
   "thumb": "https://yt3.ggpht.com/C2TsAUo9xCXFETdU0Uha3zSz3lsd3XE3s6V_K9KNT3LjD8lbxhWcmFe-hE_qvDWmpAeIqBA6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Your Body (Christina Aguilera song)",
       "url": "https://en.wikipedia.org/wiki/Your_Body_(Christina_Aguilera_song)",
       "firstSeenAt": "2026-10-16T11:19:26.089Z"
+    },
+    {
+      "id": "wiki:Beautiful (Christina Aguilera song)",
+      "type": "wikipedia",
+      "label": "Beautiful (Christina Aguilera song)",
+      "url": "https://en.wikipedia.org/wiki/Beautiful_(Christina_Aguilera_song)",
+      "firstSeenAt": "2026-10-23T11:34:40.282Z"
     }
   ],
   "recentItems": []

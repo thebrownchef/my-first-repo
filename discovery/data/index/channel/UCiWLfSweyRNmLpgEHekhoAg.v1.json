@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCiWLfSweyRNmLpgEHekhoAg",
   "title": "ESPN",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mjPkMeFcQxySKuGOn-eSPaOaTK55KKtjF7LTkkwidfCP1D=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 14.92,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "ESPN",
       "url": "https://www.youtube.com/channel/UCiWLfSweyRNmLpgEHekhoAg",
       "firstSeenAt": "2026-09-19T10:55:44.977Z"
+    },
+    {
+      "id": "channel:UCIIKPy27YWW5yhc0qvr4KnA",
+      "type": "channel",
+      "label": "Malika Andrews - ESPN",
+      "url": "https://www.youtube.com/channel/UCIIKPy27YWW5yhc0qvr4KnA",
+      "firstSeenAt": "2026-10-23T11:34:47.689Z"
     }
   ],
   "recentItems": []

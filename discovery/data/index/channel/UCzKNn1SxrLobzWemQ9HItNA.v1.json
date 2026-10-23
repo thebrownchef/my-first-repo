@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCzKNn1SxrLobzWemQ9HItNA",
   "title": "earMUSIC",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m02CRClrl_IZ89q8oh9HRrg6DE17YX6azLK2t9xIsnOKo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Deep Purple Official",
       "url": "https://www.youtube.com/channel/UChFONkdHg3zrt3zaHmx1bKA",
       "firstSeenAt": "2026-10-18T11:01:16.369Z"
+    },
+    {
+      "id": "wiki:Treat Me Like a Woman",
+      "type": "wikipedia",
+      "label": "Treat Me Like a Woman",
+      "url": "https://en.wikipedia.org/wiki/Treat_Me_Like_a_Woman",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []

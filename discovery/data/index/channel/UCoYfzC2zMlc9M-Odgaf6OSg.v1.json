@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCoYfzC2zMlc9M-Odgaf6OSg",
   "title": "KendrickLamarVEVO",
   "thumb": "https://yt3.ggpht.com/j1szYhuen1uT1D1icpjxHMFyBc0xINWK1eMtSzrB0TL5jliB7t3JB_wJ6UA9twV7VelxpKEc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Poetic Justice (song)",
       "url": "https://en.wikipedia.org/wiki/Poetic_Justice_(song)",
       "firstSeenAt": "2026-10-20T11:32:08.128Z"
+    },
+    {
+      "id": "wiki:Backseat Freestyle",
+      "type": "wikipedia",
+      "label": "Backseat Freestyle",
+      "url": "https://en.wikipedia.org/wiki/Backseat_Freestyle",
+      "firstSeenAt": "2026-10-23T11:34:40.281Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UChvAV3_iEHsbt8bIL1wYc0g",
   "title": "leonalewisVEVO",
   "thumb": "https://yt3.ggpht.com/4A6-ZS8qIKhzPSKCtQp6GZoGigHrQ449vTQm20owkGlqfDO2NdQQqKmzvzIAOo1PTKVafirh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Run (Snow Patrol song)",
       "url": "https://en.wikipedia.org/wiki/Run_(Snow_Patrol_song)",
       "firstSeenAt": "2026-10-21T11:44:44.335Z"
+    },
+    {
+      "id": "wiki:Lovebird (song)",
+      "type": "wikipedia",
+      "label": "Lovebird (song)",
+      "url": "https://en.wikipedia.org/wiki/Lovebird_(song)",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []

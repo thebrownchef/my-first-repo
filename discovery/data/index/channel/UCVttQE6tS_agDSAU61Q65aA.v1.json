@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCVttQE6tS_agDSAU61Q65aA",
   "title": "EnriqueIglesiasVEVO",
   "thumb": "https://yt3.ggpht.com/kYe56za0VurtSHjxdg7tH8SaKQDtRxZdnOGlXp_ijCGMUZHIPQjsR57OGP6Npgj7XK_8UEZTTw8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Do You Know? (The Ping Pong Song)",
       "url": "https://en.wikipedia.org/wiki/Do_You_Know%3F_(The_Ping_Pong_Song)",
       "firstSeenAt": "2026-10-20T11:32:08.128Z"
+    },
+    {
+      "id": "wiki:I Like It (Enrique Iglesias song)",
+      "type": "wikipedia",
+      "label": "I Like It (Enrique Iglesias song)",
+      "url": "https://en.wikipedia.org/wiki/I_Like_It_(Enrique_Iglesias_song)",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
     }
   ],
   "recentItems": []

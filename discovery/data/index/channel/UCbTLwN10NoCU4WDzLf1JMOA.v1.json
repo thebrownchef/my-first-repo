@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCbTLwN10NoCU4WDzLf1JMOA",
   "title": "YRF",
   "thumb": "https://yt3.ggpht.com/ukiLOR2xcRjb4vEfv_DvcTU-5WgGyhwL3w1jQxvTBVdMbBlrtDopxKwg8Scs66C8nFgXu-cl=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.69,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "War 2 (soundtrack)",
       "url": "https://en.wikipedia.org/wiki/War_2_(soundtrack)",
       "firstSeenAt": "2026-09-03T11:10:55.702Z"
+    },
+    {
+      "id": "channel:UCdfXaARoko58ZraSegLA-4A",
+      "type": "channel",
+      "label": "AA Films",
+      "url": "https://www.youtube.com/channel/UCdfXaARoko58ZraSegLA-4A",
+      "firstSeenAt": "2026-10-23T11:34:59.199Z"
     }
   ],
   "recentItems": []

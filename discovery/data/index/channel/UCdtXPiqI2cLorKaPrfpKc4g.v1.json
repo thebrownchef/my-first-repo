@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCdtXPiqI2cLorKaPrfpKc4g",
   "title": "Entertainment Tonight",
   "thumb": "https://yt3.ggpht.com/S5zL6006xzkCow0nmOZqBKY9Yf5XyDb48ohlJVz6mnaR3wu2EJqU7IHs-csnaUKO2m0oNF6s9Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 8.07,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "The Late Late Show with James Corden",
       "url": "https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg",
       "firstSeenAt": "2026-09-29T12:49:35.651Z"
+    },
+    {
+      "id": "channel:UCK1W7n3S3FewVxxq4cX2taQ",
+      "type": "channel",
+      "label": "Beverly Hills 90210",
+      "url": "https://www.youtube.com/channel/UCK1W7n3S3FewVxxq4cX2taQ",
+      "firstSeenAt": "2026-10-23T11:34:59.876Z"
+    },
+    {
+      "id": "channel:UCEkwdEYYcTBtavhEZ8T1ydw",
+      "type": "channel",
+      "label": "Sabrina The Teenage Witch",
+      "url": "https://www.youtube.com/channel/UCEkwdEYYcTBtavhEZ8T1ydw",
+      "firstSeenAt": "2026-10-23T11:34:59.915Z"
+    },
+    {
+      "id": "channel:UCtbkymRCxreyNHb_ON2FCsQ",
+      "type": "channel",
+      "label": "Rachael Ray Show",
+      "url": "https://www.youtube.com/channel/UCtbkymRCxreyNHb_ON2FCsQ",
+      "firstSeenAt": "2026-10-23T11:35:00.127Z"
+    },
+    {
+      "id": "channel:UCISglu-JC04IuYH13mfYHzw",
+      "type": "channel",
+      "label": "Vintage TV Club",
+      "url": "https://www.youtube.com/channel/UCISglu-JC04IuYH13mfYHzw",
+      "firstSeenAt": "2026-10-23T11:35:00.271Z"
     }
   ],
   "recentItems": []

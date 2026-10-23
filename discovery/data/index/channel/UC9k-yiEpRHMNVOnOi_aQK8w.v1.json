@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UC9k-yiEpRHMNVOnOi_aQK8w",
   "title": "Inside Edition",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ktuZGxgQyNlCBkn28UE_anSGsF7hRHn9V9uxZ7ECFW5w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 7.34,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "The Drew Barrymore Show",
       "url": "https://www.youtube.com/channel/UCWIj8e2_-uK1m886ADSYO6g",
       "firstSeenAt": "2026-09-08T11:15:57.541Z"
+    },
+    {
+      "id": "channel:UCEkwdEYYcTBtavhEZ8T1ydw",
+      "type": "channel",
+      "label": "Sabrina The Teenage Witch",
+      "url": "https://www.youtube.com/channel/UCEkwdEYYcTBtavhEZ8T1ydw",
+      "firstSeenAt": "2026-10-23T11:34:59.915Z"
+    },
+    {
+      "id": "channel:UCtbkymRCxreyNHb_ON2FCsQ",
+      "type": "channel",
+      "label": "Rachael Ray Show",
+      "url": "https://www.youtube.com/channel/UCtbkymRCxreyNHb_ON2FCsQ",
+      "firstSeenAt": "2026-10-23T11:35:00.127Z"
+    },
+    {
+      "id": "channel:UCdtXPiqI2cLorKaPrfpKc4g",
+      "type": "channel",
+      "label": "Entertainment Tonight",
+      "url": "https://www.youtube.com/channel/UCdtXPiqI2cLorKaPrfpKc4g",
+      "firstSeenAt": "2026-10-23T11:35:00.166Z"
+    },
+    {
+      "id": "channel:UCISglu-JC04IuYH13mfYHzw",
+      "type": "channel",
+      "label": "Vintage TV Club",
+      "url": "https://www.youtube.com/channel/UCISglu-JC04IuYH13mfYHzw",
+      "firstSeenAt": "2026-10-23T11:35:00.273Z"
     }
   ],
   "recentItems": []

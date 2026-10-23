@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UC5T7D-Dh1eDGtsAFCuwv_Sw",
   "title": "7NEWS Australia",
   "thumb": "https://yt3.ggpht.com/eTOHswAlFNk-JMYzioSQNUap8yUZjWXAliypCuKyJrgX4OiL3NkrC7FofmRrAVMiHNj0Lx8kUg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 6.22,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Australia–Israel relations",
       "url": "https://en.wikipedia.org/wiki/Australia%E2%80%93Israel_relations",
       "firstSeenAt": "2026-09-05T10:32:37.097Z"
+    },
+    {
+      "id": "channel:UCMRq9ADyETX-Touo4Srph5g",
+      "type": "channel",
+      "label": "Sunrise",
+      "url": "https://www.youtube.com/channel/UCMRq9ADyETX-Touo4Srph5g",
+      "firstSeenAt": "2026-10-23T11:35:01.137Z"
+    },
+    {
+      "id": "channel:UCSgeCjcPYYZXR62Cykv43sA",
+      "type": "channel",
+      "label": "7 News Spotlight",
+      "url": "https://www.youtube.com/channel/UCSgeCjcPYYZXR62Cykv43sA",
+      "firstSeenAt": "2026-10-23T11:35:01.180Z"
     }
   ],
   "recentItems": []

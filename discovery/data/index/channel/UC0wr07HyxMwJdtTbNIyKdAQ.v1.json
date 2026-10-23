@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UC0wr07HyxMwJdtTbNIyKdAQ",
   "title": "TheGiPiM",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kAyfh8jLxciq0W8VYxzBzOQ0-mxNfQ37nqsT-48YuAdw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -127,6 +127,20 @@
       "label": "Trujillo, Peru",
       "url": "https://en.wikipedia.org/wiki/Trujillo%2C_Peru",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:Foundation of Trujillo, Peru",
+      "type": "wikipedia",
+      "label": "Foundation of Trujillo, Peru",
+      "url": "https://en.wikipedia.org/wiki/Foundation_of_Trujillo%2C_Peru",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Municipality of Trujillo",
+      "type": "wikipedia",
+      "label": "Municipality of Trujillo",
+      "url": "https://en.wikipedia.org/wiki/Municipality_of_Trujillo",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
     }
   ],
   "recentItems": [

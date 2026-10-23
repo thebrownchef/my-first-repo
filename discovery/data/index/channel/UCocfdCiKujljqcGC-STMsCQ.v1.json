@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCocfdCiKujljqcGC-STMsCQ",
   "title": "Stone Temple Pilots",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_krufwZ5ACXnzsp3jck5LS30yh79TIKmJF6rnBEFjzcmw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Between the Lines (Stone Temple Pilots song)",
       "url": "https://en.wikipedia.org/wiki/Between_the_Lines_(Stone_Temple_Pilots_song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Vasoline",
+      "type": "wikipedia",
+      "label": "Vasoline",
+      "url": "https://en.wikipedia.org/wiki/Vasoline",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []

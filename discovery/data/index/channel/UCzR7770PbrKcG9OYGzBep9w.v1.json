@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCzR7770PbrKcG9OYGzBep9w",
   "title": "Bollywood Hungama",
   "thumb": "https://yt3.ggpht.com/JlU4zHh7qMMRDbieAWyPH9IMS2sa_-Xz7bVyVXiLdm17ajLkMBKqQt0s7mv7R2TYYkBsS6uu9Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 4.79,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Bollywood Hungama",
       "url": "https://www.youtube.com/channel/UCzR7770PbrKcG9OYGzBep9w",
       "firstSeenAt": "2026-09-08T11:16:03.541Z"
+    },
+    {
+      "id": "wiki:John Day (film)",
+      "type": "wikipedia",
+      "label": "John Day (film)",
+      "url": "https://en.wikipedia.org/wiki/John_Day_(film)",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCeA38jYPEzkE4TbUHiC5CLw",
   "title": "LisaStansfieldVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mO8dqZ3-c3nYlqXiXK00MAdd6Sz2_v_omUGF-arQc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,48 @@
       "label": "Let's Just Call It Love",
       "url": "https://en.wikipedia.org/wiki/Let's_Just_Call_It_Love",
       "firstSeenAt": "2026-10-22T11:47:48.411Z"
+    },
+    {
+      "id": "wiki:In All the Right Places",
+      "type": "wikipedia",
+      "label": "In All the Right Places",
+      "url": "https://en.wikipedia.org/wiki/In_All_the_Right_Places",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:So Natural (song)",
+      "type": "wikipedia",
+      "label": "So Natural (song)",
+      "url": "https://en.wikipedia.org/wiki/So_Natural_(song)",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Dream Away (Babyface and Lisa Stansfield song)",
+      "type": "wikipedia",
+      "label": "Dream Away (Babyface and Lisa Stansfield song)",
+      "url": "https://en.wikipedia.org/wiki/Dream_Away_(Babyface_and_Lisa_Stansfield_song)",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:What Did I Do to You?",
+      "type": "wikipedia",
+      "label": "What Did I Do to You?",
+      "url": "https://en.wikipedia.org/wiki/What_Did_I_Do_to_You%3F",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:You Can't Deny It",
+      "type": "wikipedia",
+      "label": "You Can't Deny It",
+      "url": "https://en.wikipedia.org/wiki/You_Can't_Deny_It",
+      "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:All Around the World (Lisa Stansfield song)",
+      "type": "wikipedia",
+      "label": "All Around the World (Lisa Stansfield song)",
+      "url": "https://en.wikipedia.org/wiki/All_Around_the_World_(Lisa_Stansfield_song)",
+      "firstSeenAt": "2026-10-23T11:34:40.281Z"
     }
   ],
   "recentItems": []

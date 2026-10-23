@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:49:34.646Z",
+  "generatedAt": "2026-10-23T11:36:09.128Z",
   "id": "UCbObxjfi3W9YKnDS0PgadNA",
   "title": "Library of Congress",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOJbHFN3q1yVKn2jGy5hM_Dj4jkq1BibwRl9reUyyDZo4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.08,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "John Earl Haynes",
       "url": "https://en.wikipedia.org/wiki/John_Earl_Haynes",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Thomas B. Allen (author)",
+      "type": "wikipedia",
+      "label": "Thomas B. Allen (author)",
+      "url": "https://en.wikipedia.org/wiki/Thomas_B._Allen_(author)",
+      "firstSeenAt": "2026-10-23T11:34:37.693Z"
     }
   ],
   "recentItems": []
