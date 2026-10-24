@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC7pcI9Im0frl_CLmVLxZIUQ",
   "title": "GriefTourist",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nuSbDdch_nwfC_8Iattzfd_NCGAYCePrDRyC3qLwx3AA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "List of musician and band name etymologies",
       "url": "https://en.wikipedia.org/wiki/List_of_musician_and_band_name_etymologies",
       "firstSeenAt": "2026-09-06T10:53:22.169Z"
+    },
+    {
+      "id": "wiki:Two Sisters from Boston",
+      "type": "wikipedia",
+      "label": "Two Sisters from Boston",
+      "url": "https://en.wikipedia.org/wiki/Two_Sisters_from_Boston",
+      "firstSeenAt": "2026-10-24T10:54:50.877Z"
     }
   ],
   "recentItems": []

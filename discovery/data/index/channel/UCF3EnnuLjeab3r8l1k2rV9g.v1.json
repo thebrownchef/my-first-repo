@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCF3EnnuLjeab3r8l1k2rV9g",
   "title": "OffspringVEVO",
   "thumb": "https://yt3.ggpht.com/3vb_tknGdGz-fkE0bFBkjEodBrqdtRmmghUKne_lK6CWa0yK0PsoDufiTFm5S3HGdXwCzzSW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "All I Want (The Offspring song)",
       "url": "https://en.wikipedia.org/wiki/All_I_Want_(The_Offspring_song)",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:The Meaning of Life (The Offspring song)",
+      "type": "wikipedia",
+      "label": "The Meaning of Life (The Offspring song)",
+      "url": "https://en.wikipedia.org/wiki/The_Meaning_of_Life_(The_Offspring_song)",
+      "firstSeenAt": "2026-10-24T10:54:53.694Z"
+    },
+    {
+      "id": "wiki:Original Prankster",
+      "type": "wikipedia",
+      "label": "Original Prankster",
+      "url": "https://en.wikipedia.org/wiki/Original_Prankster",
+      "firstSeenAt": "2026-10-24T10:54:53.695Z"
     }
   ],
   "recentItems": []

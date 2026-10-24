@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCk0IUODXaAFr5gEFlZDbzmw",
   "title": "ponycanyon",
   "thumb": "https://yt3.ggpht.com/XB7jbrpJIMxJbhLJzVNxpUNuyzPca7LwpC47CbqWTCaUEW4oWWn_Npyy9GCzlvgiZmNWrW39=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Memories to You",
       "url": "https://en.wikipedia.org/wiki/Memories_to_You",
       "firstSeenAt": "2026-10-23T11:34:39.720Z"
+    },
+    {
+      "id": "wiki:Heo Young-saeng discography",
+      "type": "wikipedia",
+      "label": "Heo Young-saeng discography",
+      "url": "https://en.wikipedia.org/wiki/Heo_Young-saeng_discography",
+      "firstSeenAt": "2026-10-24T10:54:49.098Z"
     }
   ],
   "recentItems": []

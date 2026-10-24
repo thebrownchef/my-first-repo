@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCn17aVOwiGK9DlZR5F16QaQ",
   "title": "evrythngevrythngVEVO",
   "thumb": "https://yt3.ggpht.com/egfD4le-oLvnz9anpuOm3OzvZHQSqObZ7wnsGEOGCng8Cstll9l2_3LNnnBWYdXccQhzIdhz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Kemosabe (song)",
       "url": "https://en.wikipedia.org/wiki/Kemosabe_(song)",
       "firstSeenAt": "2026-10-19T13:08:25.821Z"
+    },
+    {
+      "id": "wiki:Duet (Everything Everything song)",
+      "type": "wikipedia",
+      "label": "Duet (Everything Everything song)",
+      "url": "https://en.wikipedia.org/wiki/Duet_(Everything_Everything_song)",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
+    },
+    {
+      "id": "wiki:Don't Try (Everything Everything song)",
+      "type": "wikipedia",
+      "label": "Don't Try (Everything Everything song)",
+      "url": "https://en.wikipedia.org/wiki/Don't_Try_(Everything_Everything_song)",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

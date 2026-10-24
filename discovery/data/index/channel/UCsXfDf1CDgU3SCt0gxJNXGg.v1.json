@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCsXfDf1CDgU3SCt0gxJNXGg",
   "title": "justintimberlakeVEVO",
   "thumb": "https://yt3.ggpht.com/FxjAZ42xkJ0N8SZ7x5xxCruQDmLwoHRjx-8O6-48UG0TIlOV4gc6D6E9sl5bowPl0aTrXaBF=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Rock Your Body",
       "url": "https://en.wikipedia.org/wiki/Rock_Your_Body",
       "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Tunnel Vision (Justin Timberlake song)",
+      "type": "wikipedia",
+      "label": "Tunnel Vision (Justin Timberlake song)",
+      "url": "https://en.wikipedia.org/wiki/Tunnel_Vision_(Justin_Timberlake_song)",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

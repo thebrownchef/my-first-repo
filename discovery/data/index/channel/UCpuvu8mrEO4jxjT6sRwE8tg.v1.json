@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCpuvu8mrEO4jxjT6sRwE8tg",
   "title": "B.o.B",
   "thumb": "https://yt3.ggpht.com/Sn2wNKD9Wncs3MiYtfcgnqqB756DznX-Zv5PorzHMf23cMCi6jGUX1cVfAyZpsW7zQL_wgMo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Out of My Mind (B.o.B song)",
       "url": "https://en.wikipedia.org/wiki/Out_of_My_Mind_(B.o.B_song)",
       "firstSeenAt": "2026-10-15T11:24:51.738Z"
+    },
+    {
+      "id": "wiki:Headband (song)",
+      "type": "wikipedia",
+      "label": "Headband (song)",
+      "url": "https://en.wikipedia.org/wiki/Headband_(song)",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

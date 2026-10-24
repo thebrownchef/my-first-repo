@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC93DEJOBeet3XXZlJy2uJuA",
   "title": "Young Hollywood",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mNS-Rd7x4PYRLdgZzgIVOXuG46KLntl13u992LKM-knbI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.7,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Younger Hollywood",
       "url": "https://www.youtube.com/channel/UCflN-aE4_f6r7NafY9zbRnA",
       "firstSeenAt": "2026-10-02T12:30:46.687Z"
+    },
+    {
+      "id": "channel:UCYU0rjeVvqOg-JmBHSvOVQA",
+      "type": "channel",
+      "label": "The YOMYOMF Network",
+      "url": "https://www.youtube.com/channel/UCYU0rjeVvqOg-JmBHSvOVQA",
+      "firstSeenAt": "2026-10-24T10:55:02.913Z"
     }
   ],
   "recentItems": []

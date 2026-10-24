@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "id": "UC_kRDKYrUlrbtrSiyu5Tflg",
+  "title": "Daft Punk",
+  "thumb": "https://yt3.ggpht.com/_PRcwn8VqgteNAiU9btPy1mOUnZYD5QuBBGUX-PumwmuwytIHIlIvccS8BOUun7T6JjsYERD=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.04,
+  "sources": [
+    {
+      "id": "wiki:Something About Us (Daft Punk song)",
+      "type": "wikipedia",
+      "label": "Something About Us (Daft Punk song)",
+      "url": "https://en.wikipedia.org/wiki/Something_About_Us_(Daft_Punk_song)",
+      "firstSeenAt": "2026-10-24T10:54:53.695Z"
+    },
+    {
+      "id": "wiki:The Prime Time of Your Life",
+      "type": "wikipedia",
+      "label": "The Prime Time of Your Life",
+      "url": "https://en.wikipedia.org/wiki/The_Prime_Time_of_Your_Life",
+      "firstSeenAt": "2026-10-24T10:54:53.695Z"
+    },
+    {
+      "id": "wiki:Face to Face (Daft Punk song)",
+      "type": "wikipedia",
+      "label": "Face to Face (Daft Punk song)",
+      "url": "https://en.wikipedia.org/wiki/Face_to_Face_(Daft_Punk_song)",
+      "firstSeenAt": "2026-10-24T10:54:53.695Z"
+    }
+  ],
+  "recentItems": []
+}

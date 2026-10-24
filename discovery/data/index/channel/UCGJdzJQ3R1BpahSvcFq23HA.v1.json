@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Atlantic Records",
       "url": "https://www.youtube.com/channel/UCe4LM_eKc9ywRmVuBm5pjQg",
       "firstSeenAt": "2026-10-19T13:09:02.858Z"
+    },
+    {
+      "id": "channel:UCZ4lL740aLgbW9-bbfK1diA",
+      "type": "channel",
+      "label": "MMG",
+      "url": "https://www.youtube.com/channel/UCZ4lL740aLgbW9-bbfK1diA",
+      "firstSeenAt": "2026-10-24T10:55:03.282Z"
     }
   ],
   "recentItems": []

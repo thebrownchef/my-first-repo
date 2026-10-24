@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCEu8YdnGp7T2HX9xQPflZ_g",
   "title": "Peace Bisquit",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mmdPw2c0OWGUMbH5uEp7dfHLXTfj0fyS-3CQyGKAjCRyg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Ladyfag",
       "url": "https://en.wikipedia.org/wiki/Ladyfag",
       "firstSeenAt": "2026-10-19T13:08:27.521Z"
+    },
+    {
+      "id": "wiki:Ice Cream Truck (song)",
+      "type": "wikipedia",
+      "label": "Ice Cream Truck (song)",
+      "url": "https://en.wikipedia.org/wiki/Ice_Cream_Truck_(song)",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

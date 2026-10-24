@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCGWpjrgMylyGVRIKQdazrPA",
   "title": "Warner Music Group",
   "thumb": "https://yt3.ggpht.com/1OBJ0pUHIrcm4QslhHeeBSSvLpuQ-ab48hLQbwyn7bNkGKBXVhzdElNQZQagIIJX81SzUF3HkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Atlantic Records",
       "url": "https://www.youtube.com/channel/UCe4LM_eKc9ywRmVuBm5pjQg",
       "firstSeenAt": "2026-10-19T13:09:02.858Z"
+    },
+    {
+      "id": "channel:UCZ4lL740aLgbW9-bbfK1diA",
+      "type": "channel",
+      "label": "MMG",
+      "url": "https://www.youtube.com/channel/UCZ4lL740aLgbW9-bbfK1diA",
+      "firstSeenAt": "2026-10-24T10:55:03.281Z"
     }
   ],
   "recentItems": []

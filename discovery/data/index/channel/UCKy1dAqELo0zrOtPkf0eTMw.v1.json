@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCKy1dAqELo0zrOtPkf0eTMw",
   "title": "IGN",
   "thumb": "https://yt3.ggpht.com/4jRpju9vRtgoIA6SxuIomVcCmjub6ydA1TzGRHts853ZzxRITi41gxP50jTuGBdUlvAgehZJK8Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 25.18,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Batman: The Dark Knight Returns (film)",
       "url": "https://en.wikipedia.org/wiki/Batman%3A_The_Dark_Knight_Returns_(film)",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Ken Lobb",
+      "type": "wikipedia",
+      "label": "Ken Lobb",
+      "url": "https://en.wikipedia.org/wiki/Ken_Lobb",
+      "firstSeenAt": "2026-10-24T10:54:50.877Z"
     }
   ],
   "recentItems": []

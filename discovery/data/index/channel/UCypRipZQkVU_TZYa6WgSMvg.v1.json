@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCypRipZQkVU_TZYa6WgSMvg",
   "title": "CiaraVEVO",
   "thumb": "https://yt3.ggpht.com/HdT6s1mAxBppRlXgNg524X3qemFP3LdV2NyWJ2RMbNn4-ZdxsiziWvS4bonzbl-1yw3PHD56JGo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Work (Ciara song)",
       "url": "https://en.wikipedia.org/wiki/Work_(Ciara_song)",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:I'm Out",
+      "type": "wikipedia",
+      "label": "I'm Out",
+      "url": "https://en.wikipedia.org/wiki/I'm_Out",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

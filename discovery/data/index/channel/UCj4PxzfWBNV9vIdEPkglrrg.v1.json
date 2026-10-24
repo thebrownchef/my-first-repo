@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCj4PxzfWBNV9vIdEPkglrrg",
   "title": "FoundationINTERVIEWS",
   "thumb": "https://yt3.ggpht.com/upfgtJrTmgKsCwqUcvKvPSo9oubP96yMVPMB8TrV1MZ98B6XBzW-puwaM9387lHI-yPhW6Wqk7U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Bill Mumy",
       "url": "https://en.wikipedia.org/wiki/Bill_Mumy",
       "firstSeenAt": "2026-08-30T11:52:28.533Z"
+    },
+    {
+      "id": "wiki:Reception of The Simpsons",
+      "type": "wikipedia",
+      "label": "Reception of The Simpsons",
+      "url": "https://en.wikipedia.org/wiki/Reception_of_The_Simpsons",
+      "firstSeenAt": "2026-10-24T10:54:50.878Z"
     }
   ],
   "recentItems": []

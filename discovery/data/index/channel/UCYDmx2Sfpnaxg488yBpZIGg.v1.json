@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCYDmx2Sfpnaxg488yBpZIGg",
   "title": "STARSHIP",
   "thumb": "https://yt3.ggpht.com/k6p06Jx1N1ItWTjYjdDhDPadzWvIRFPdbqqtM-81QuHF9bzqCj4yy_ZVc40AaFsRvtjwd7ex=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Love Style",
       "url": "https://en.wikipedia.org/wiki/Love_Style",
       "firstSeenAt": "2026-10-15T11:24:52.679Z"
+    },
+    {
+      "id": "wiki:Give It to Me (album)",
+      "type": "wikipedia",
+      "label": "Give It to Me (album)",
+      "url": "https://en.wikipedia.org/wiki/Give_It_to_Me_(album)",
+      "firstSeenAt": "2026-10-24T10:54:50.878Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCrerthJHiS8L88-7L9CW3vQ",
   "title": "NSTMF",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koGedwetWyijZkw2h2rF8VIALr3i7XywT9zYDzREy4xQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -71,6 +71,20 @@
       "label": "Barry Mazur",
       "url": "https://en.wikipedia.org/wiki/Barry_Mazur",
       "firstSeenAt": "2026-10-22T11:47:47.034Z"
+    },
+    {
+      "id": "wiki:Susan Lindquist",
+      "type": "wikipedia",
+      "label": "Susan Lindquist",
+      "url": "https://en.wikipedia.org/wiki/Susan_Lindquist",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
+    },
+    {
+      "id": "wiki:Joanna Fowler",
+      "type": "wikipedia",
+      "label": "Joanna Fowler",
+      "url": "https://en.wikipedia.org/wiki/Joanna_Fowler",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

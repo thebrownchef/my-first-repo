@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC2xskkQVFEpLcGFnNSLQY0A",
   "title": "RihannaVEVO",
   "thumb": "https://yt3.ggpht.com/qMCGjRaKKRar82KzcIWdUoLbJ03aW2K2sEf-m4GaB7JwLshoHOZHvkxLRXsZVgpKvqCXVhKCWg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Diamonds (Rihanna song)",
       "url": "https://en.wikipedia.org/wiki/Diamonds_(Rihanna_song)",
       "firstSeenAt": "2026-10-17T10:39:51.977Z"
+    },
+    {
+      "id": "wiki:What's My Name? (Rihanna song)",
+      "type": "wikipedia",
+      "label": "What's My Name? (Rihanna song)",
+      "url": "https://en.wikipedia.org/wiki/What's_My_Name%3F_(Rihanna_song)",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

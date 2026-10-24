@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UComP_epzeKzvBX156r6pm1Q",
   "title": "AdeleVEVO",
   "thumb": "https://yt3.ggpht.com/BkJSG0gIJTKyUziqxJOdtJSjXbPNtOelrBBFjRoOaa_xcFgaptqm8hvHxbh46P4uZc4lV3f4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Skyfall (song)",
       "url": "https://en.wikipedia.org/wiki/Skyfall_(song)",
       "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "channel:UC9w5SrgKiJltG4Zds2MqdOw",
+      "type": "channel",
+      "label": "lauramvulaVEVO",
+      "url": "https://www.youtube.com/channel/UC9w5SrgKiJltG4Zds2MqdOw",
+      "firstSeenAt": "2026-10-24T10:55:02.486Z"
     }
   ],
   "recentItems": []

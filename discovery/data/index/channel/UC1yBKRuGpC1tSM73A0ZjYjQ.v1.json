@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
   "title": "The Young Turks",
   "thumb": "https://yt3.ggpht.com/GaZdiTH19-g6JFMUkh2UzeulwgtnSiz-4fRbgrEW2tSFzFUUyTFFNrPChP5Ens5v5f-JpTybAg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 9.7,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Current TV",
       "url": "https://en.wikipedia.org/wiki/Current_TV",
       "firstSeenAt": "2026-10-19T13:08:24.289Z"
+    },
+    {
+      "id": "wiki:Michael Hastings (journalist)",
+      "type": "wikipedia",
+      "label": "Michael Hastings (journalist)",
+      "url": "https://en.wikipedia.org/wiki/Michael_Hastings_(journalist)",
+      "firstSeenAt": "2026-10-24T10:54:50.878Z"
     }
   ],
   "recentItems": []

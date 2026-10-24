@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCvtZDkeFxMkRTNqfqXtxxkw",
   "title": "systemofadownVEVO",
   "thumb": "https://yt3.ggpht.com/3TOlXUEWAO0l7C4EBm21seW0gf898RB3QKW_YTWUtK37jdy_PuoM1MFru_dr2zMBiG_w3lmd=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Aerials (song)",
       "url": "https://en.wikipedia.org/wiki/Aerials_(song)",
       "firstSeenAt": "2026-10-18T11:00:39.492Z"
+    },
+    {
+      "id": "wiki:Chop Suey!",
+      "type": "wikipedia",
+      "label": "Chop Suey!",
+      "url": "https://en.wikipedia.org/wiki/Chop_Suey!",
+      "firstSeenAt": "2026-10-24T10:54:50.878Z"
     }
   ],
   "recentItems": []

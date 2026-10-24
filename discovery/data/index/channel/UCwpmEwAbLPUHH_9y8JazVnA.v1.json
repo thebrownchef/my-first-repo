@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCwpmEwAbLPUHH_9y8JazVnA",
   "title": "BEAST 비스트 (Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k4e06spdh74aLdau4OgnwcsNwe6_E_Co0v_6P3bTho3oU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "The First Collage",
       "url": "https://en.wikipedia.org/wiki/The_First_Collage",
       "firstSeenAt": "2026-10-17T10:39:53.134Z"
+    },
+    {
+      "id": "wiki:Hard to Love, How to Love",
+      "type": "wikipedia",
+      "label": "Hard to Love, How to Love",
+      "url": "https://en.wikipedia.org/wiki/Hard_to_Love%2C_How_to_Love",
+      "firstSeenAt": "2026-10-24T10:54:53.695Z"
     }
   ],
   "recentItems": []

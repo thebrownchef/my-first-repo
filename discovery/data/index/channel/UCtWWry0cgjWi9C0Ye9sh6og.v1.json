@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "id": "UCtWWry0cgjWi9C0Ye9sh6og",
+  "title": "news.com.au",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lk-x6K8lzQqHr0VMLhyUy6dfX5GFQn2lFb9zjpq4Pv9FA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 7.32,
+  "sources": [
+    {
+      "id": "wiki:List of air rage incidents",
+      "type": "wikipedia",
+      "label": "List of air rage incidents",
+      "url": "https://en.wikipedia.org/wiki/List_of_air_rage_incidents",
+      "firstSeenAt": "2026-09-01T11:37:09.152Z"
+    },
+    {
+      "id": "channel:UCS1W973Zmbk6FK1Z4w0xCOg",
+      "type": "channel",
+      "label": "Body+Soul ",
+      "url": "https://www.youtube.com/channel/UCS1W973Zmbk6FK1Z4w0xCOg",
+      "firstSeenAt": "2026-10-24T10:55:08.173Z"
+    },
+    {
+      "id": "channel:UCBljcgplGabCXo_z5r3pRjA",
+      "type": "channel",
+      "label": "The Newsroom Explains",
+      "url": "https://www.youtube.com/channel/UCBljcgplGabCXo_z5r3pRjA",
+      "firstSeenAt": "2026-10-24T10:55:08.233Z"
+    }
+  ],
+  "recentItems": []
+}

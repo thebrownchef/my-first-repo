@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC8dnBi4WUErqYQHZ4PfsLTg",
   "title": "TV9 Kannada",
   "thumb": "https://yt3.ggpht.com/EfBMNrivdn1cZ7cJ_yN-Z7pxgx9RCnHUiYBUE2I0yHdxj8Vtf57NUbaQzHlQQqnjOY_D4Apq558=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 91.97,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Tv9 Nimma Doctor",
       "url": "https://www.youtube.com/channel/UC1soS3R3rE_4wZKHroZCh9w",
       "firstSeenAt": "2026-09-30T12:31:09.514Z"
+    },
+    {
+      "id": "wiki:Madayi Kavu",
+      "type": "wikipedia",
+      "label": "Madayi Kavu",
+      "url": "https://en.wikipedia.org/wiki/Madayi_Kavu",
+      "firstSeenAt": "2026-10-24T10:54:56.738Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCvR5MZC5dVA6_MIcGHhZQYQ",
   "title": "junusofficialtv",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m6RCYJfZYXUm07hBC1WNrtlRN8pqQ8Bhvf7HSf5NRakQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Long Night (Kim Hyung-jun song)",
       "url": "https://en.wikipedia.org/wiki/Long_Night_(Kim_Hyung-jun_song)",
       "firstSeenAt": "2026-10-17T10:39:50.455Z"
+    },
+    {
+      "id": "wiki:Kim Hyung-jun discography",
+      "type": "wikipedia",
+      "label": "Kim Hyung-jun discography",
+      "url": "https://en.wikipedia.org/wiki/Kim_Hyung-jun_discography",
+      "firstSeenAt": "2026-10-24T10:54:49.586Z"
     }
   ],
   "recentItems": []

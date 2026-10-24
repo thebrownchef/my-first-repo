@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC16niRr50-MSBwiO3YDb3RA",
   "title": "BBC News",
   "thumb": "https://yt3.ggpht.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 4.39,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "BBC Ideas",
       "url": "https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg",
       "firstSeenAt": "2026-09-25T11:48:19.368Z"
+    },
+    {
+      "id": "wiki:Shakahola Forest incident",
+      "type": "wikipedia",
+      "label": "Shakahola Forest incident",
+      "url": "https://en.wikipedia.org/wiki/Shakahola_Forest_incident",
+      "firstSeenAt": "2026-10-24T10:54:56.738Z"
     }
   ],
   "recentItems": []

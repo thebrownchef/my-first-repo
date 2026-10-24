@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC0t9HSnAFStdSrlHs5K7raA",
   "title": "Vevo France",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kpQmHUM_KySLsX4_lorhvIhcWo9gifv4mOGsdSu8gbeTc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "NadiyaVEVO",
       "url": "https://www.youtube.com/channel/UCYkxFzJ1u6kJ51s9KKUK2IQ",
       "firstSeenAt": "2026-10-08T13:25:38.871Z"
+    },
+    {
+      "id": "channel:UCPhHY7VJ5KvxFpiDJ3pZ_TA",
+      "type": "channel",
+      "label": "FlavelNetoVEVO",
+      "url": "https://www.youtube.com/channel/UCPhHY7VJ5KvxFpiDJ3pZ_TA",
+      "firstSeenAt": "2026-10-24T10:55:00.954Z"
     }
   ],
   "recentItems": []

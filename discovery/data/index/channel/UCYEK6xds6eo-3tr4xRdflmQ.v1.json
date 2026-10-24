@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCYEK6xds6eo-3tr4xRdflmQ",
   "title": "deadmau5",
   "thumb": "https://yt3.ggpht.com/gsIYpmjIShe3KyxlMqYlTeX9lL8_jRq3jPqVX4pxfkEBpKH3ePDsC5pKBH6jy00l8deAuo2LgQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "mau5trap",
       "url": "https://www.youtube.com/channel/UCCbpTuRINyfjtwFkjHuII1w",
       "firstSeenAt": "2026-10-18T11:01:02.070Z"
+    },
+    {
+      "id": "wiki:Stereosonic",
+      "type": "wikipedia",
+      "label": "Stereosonic",
+      "url": "https://en.wikipedia.org/wiki/Stereosonic",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

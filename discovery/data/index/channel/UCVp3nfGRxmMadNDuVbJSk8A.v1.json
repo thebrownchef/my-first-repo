@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCVp3nfGRxmMadNDuVbJSk8A",
   "title": "Wiz Khalifa",
   "thumb": "https://yt3.ggpht.com/LZwX8hX3grUXHDAbNxoMmsCqHUUAmfhKRbAJQbIcuHxdZ6SHVa7rKxZe9nDTVGCl8vxzj5zWkw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "PliesWorld",
       "url": "https://www.youtube.com/channel/UCNFOCainfQUP0PE2O--j2LQ",
       "firstSeenAt": "2026-10-06T13:17:05.098Z"
+    },
+    {
+      "id": "channel:UCZ4lL740aLgbW9-bbfK1diA",
+      "type": "channel",
+      "label": "MMG",
+      "url": "https://www.youtube.com/channel/UCZ4lL740aLgbW9-bbfK1diA",
+      "firstSeenAt": "2026-10-24T10:55:03.283Z"
     }
   ],
   "recentItems": []

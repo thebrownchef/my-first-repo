@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC_pwIXKXNm5KGhdEVzmY60A",
   "title": "STONE MUSIC",
   "thumb": "https://yt3.ggpht.com/zSffq8rm458GQ4M59e82ORKqtLaYSgJJO3srCDJkkY7y3QCR8U_F2dszJpY-VQlA9-CXDsgzaA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.62,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Beautiful (Park Jung-min song)",
       "url": "https://en.wikipedia.org/wiki/Beautiful_(Park_Jung-min_song)",
       "firstSeenAt": "2026-10-17T10:39:50.260Z"
+    },
+    {
+      "id": "wiki:The One Like You",
+      "type": "wikipedia",
+      "label": "The One Like You",
+      "url": "https://en.wikipedia.org/wiki/The_One_Like_You",
+      "firstSeenAt": "2026-10-24T10:54:52.443Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCCFs35_Ey5FXLh5L8eN08hg",
   "title": "TheGameVEVO",
   "thumb": "https://yt3.ggpht.com/fd2xQjQdvM3TgmV3qqh2cfeOjCjfYbp2FtzYuKac1q7hx-ADImWhdaf1SGrP4SLFsciZhgU4Fss=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "My Life (The Game song)",
       "url": "https://en.wikipedia.org/wiki/My_Life_(The_Game_song)",
       "firstSeenAt": "2026-10-04T12:18:41.502Z"
+    },
+    {
+      "id": "wiki:Celebration (The Game song)",
+      "type": "wikipedia",
+      "label": "Celebration (The Game song)",
+      "url": "https://en.wikipedia.org/wiki/Celebration_(The_Game_song)",
+      "firstSeenAt": "2026-10-24T10:54:50.878Z"
     }
   ],
   "recentItems": []

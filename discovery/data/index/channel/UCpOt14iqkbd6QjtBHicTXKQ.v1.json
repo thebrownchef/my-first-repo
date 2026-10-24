@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UCpOt14iqkbd6QjtBHicTXKQ",
   "title": "MiguelVEVO",
   "thumb": "https://yt3.ggpht.com/vYKdCNTfrMab17FJlGgbFSaknyKyNBO-_q0rAn4QCrBI7SkNyyWQJbzllx6GUQzLp-_5u13P=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Do You... (Miguel song)",
       "url": "https://en.wikipedia.org/wiki/Do_You..._(Miguel_song)",
       "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    },
+    {
+      "id": "wiki:How Many Drinks?",
+      "type": "wikipedia",
+      "label": "How Many Drinks?",
+      "url": "https://en.wikipedia.org/wiki/How_Many_Drinks%3F",
+      "firstSeenAt": "2026-10-24T10:54:52.442Z"
     }
   ],
   "recentItems": []

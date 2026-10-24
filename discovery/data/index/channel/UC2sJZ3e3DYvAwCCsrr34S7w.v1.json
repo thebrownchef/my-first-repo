@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:36:09.128Z",
+  "generatedAt": "2026-10-24T10:56:25.256Z",
   "id": "UC2sJZ3e3DYvAwCCsrr34S7w",
   "title": "American Foundation for Equal Rights",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nMHzKcqFqu_AHj2V20sp8xhaOWSiL2iqFmgelCNy1ll88=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "George Takei",
       "url": "https://en.wikipedia.org/wiki/George_Takei",
       "firstSeenAt": "2026-10-17T10:39:51.978Z"
+    },
+    {
+      "id": "wiki:Jesse Tyler Ferguson",
+      "type": "wikipedia",
+      "label": "Jesse Tyler Ferguson",
+      "url": "https://en.wikipedia.org/wiki/Jesse_Tyler_Ferguson",
+      "firstSeenAt": "2026-10-24T10:54:53.694Z"
     }
   ],
   "recentItems": []
