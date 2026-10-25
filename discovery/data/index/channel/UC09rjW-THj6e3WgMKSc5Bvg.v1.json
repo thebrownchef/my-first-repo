@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC09rjW-THj6e3WgMKSc5Bvg",
   "title": "kingsofleonVEVO",
   "thumb": "https://yt3.ggpht.com/OndXxy9yVHl-7_XsXIAZfElCyogp085N1HWsUqP4zyUHCLMdyCjAqFf2I7sWNz96UaOC8gpi_A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Notion (Kings of Leon song)",
       "url": "https://en.wikipedia.org/wiki/Notion_(Kings_of_Leon_song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Supersoaker (song)",
+      "type": "wikipedia",
+      "label": "Supersoaker (song)",
+      "url": "https://en.wikipedia.org/wiki/Supersoaker_(song)",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
     }
   ],
   "recentItems": []

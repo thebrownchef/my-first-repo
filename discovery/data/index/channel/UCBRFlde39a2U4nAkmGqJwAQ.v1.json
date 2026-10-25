@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCBRFlde39a2U4nAkmGqJwAQ",
   "title": "Flo Rida",
   "thumb": "https://yt3.ggpht.com/CcX6WfKEG3Jb74XBcjoBw19VT2PMT1N6jq8aF3taRBkN7Yu3VDmUJmiyeKv0rftvUGmd7cuh5A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Good Feeling (song)",
       "url": "https://en.wikipedia.org/wiki/Good_Feeling_(song)",
       "firstSeenAt": "2026-10-20T11:32:06.611Z"
+    },
+    {
+      "id": "wiki:Can't Believe It (Flo Rida song)",
+      "type": "wikipedia",
+      "label": "Can't Believe It (Flo Rida song)",
+      "url": "https://en.wikipedia.org/wiki/Can't_Believe_It_(Flo_Rida_song)",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
     }
   ],
   "recentItems": []

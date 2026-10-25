@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC26RQOz3k6hnrjpxNUS_aSw",
   "title": "iDream Women",
   "thumb": "https://yt3.ggpht.com/yBCjzqi-ZjA9RkOJwKKMsEySGRofW9QrXYliJjP4lTTVzygnWwqvXiDocYexYzIfL2J82468ZrA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 4.09,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "iDream Health Talks",
       "url": "https://www.youtube.com/channel/UC3t8NHsv6GELrIwOaINqW8Q",
       "firstSeenAt": "2026-10-14T11:48:35.722Z"
+    },
+    {
+      "id": "channel:UC563CYwnJEAPcj-Hqwg-9sA",
+      "type": "channel",
+      "label": "iDream Clips",
+      "url": "https://www.youtube.com/channel/UC563CYwnJEAPcj-Hqwg-9sA",
+      "firstSeenAt": "2026-10-25T11:22:28.282Z"
+    },
+    {
+      "id": "channel:UC26RQOz3k6hnrjpxNUS_aSw",
+      "type": "channel",
+      "label": "iDream Women",
+      "url": "https://www.youtube.com/channel/UC26RQOz3k6hnrjpxNUS_aSw",
+      "firstSeenAt": "2026-10-25T11:22:28.777Z"
     }
   ],
   "recentItems": []

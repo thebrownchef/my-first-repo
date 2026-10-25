@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC7oEnVbu_lWsd-ch0z9eDHg",
   "title": "iDream Mahila",
   "thumb": "https://yt3.ggpht.com/FNqZZV_GR-DQi8ljMJCUGykNuuY0Ydx3a1jeIC2eTkcWBjT2i0Pk4pkv7kyeZC5zq6XTjUO7=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 3.79,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "iDream TV",
       "url": "https://www.youtube.com/channel/UCL_lnIfPBuEOdxehwG-h_Gw",
       "firstSeenAt": "2026-10-14T11:48:33.994Z"
+    },
+    {
+      "id": "channel:UC563CYwnJEAPcj-Hqwg-9sA",
+      "type": "channel",
+      "label": "iDream Clips",
+      "url": "https://www.youtube.com/channel/UC563CYwnJEAPcj-Hqwg-9sA",
+      "firstSeenAt": "2026-10-25T11:22:28.282Z"
+    },
+    {
+      "id": "channel:UCkLgOqdG1cPRxa8gZABn-_w",
+      "type": "channel",
+      "label": "iDream Trending",
+      "url": "https://www.youtube.com/channel/UCkLgOqdG1cPRxa8gZABn-_w",
+      "firstSeenAt": "2026-10-25T11:22:28.688Z"
     }
   ],
   "recentItems": []

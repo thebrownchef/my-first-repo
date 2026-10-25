@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC9HnKwLco0wfmmHJT4KOjJw",
   "title": "keshaVEVO",
   "thumb": "https://yt3.ggpht.com/2iorVhEtL5A2FnitQBqFziaNVpAAnwIm4Jpx6dxQIbdMY_6jqK-tWc3rTnOxU5cebwa9JUXaOg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Die Young",
       "url": "https://en.wikipedia.org/wiki/Die_Young",
       "firstSeenAt": "2026-10-18T11:00:36.405Z"
+    },
+    {
+      "id": "wiki:Crazy Kids",
+      "type": "wikipedia",
+      "label": "Crazy Kids",
+      "url": "https://en.wikipedia.org/wiki/Crazy_Kids",
+      "firstSeenAt": "2026-10-25T11:22:05.903Z"
     }
   ],
   "recentItems": []

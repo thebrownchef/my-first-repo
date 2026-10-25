@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Google TechTalks",
       "url": "https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw",
       "firstSeenAt": "2026-10-05T14:33:17.342Z"
+    },
+    {
+      "id": "wiki:Bruce Schneier",
+      "type": "wikipedia",
+      "label": "Bruce Schneier",
+      "url": "https://en.wikipedia.org/wiki/Bruce_Schneier",
+      "firstSeenAt": "2026-10-25T11:22:08.238Z"
     }
   ],
   "recentItems": []

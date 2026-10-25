@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCFac7Oc-34UvLTDkcKtKMxA",
   "title": "Sri Sravanthi Movies",
   "thumb": "https://yt3.ggpht.com/J2au1qJ-I3W1H9nAUeYUa9egT3358ihJomXNr1_cuH179UHtC9OEwJjqQ0nhkfQc4AJXL9XRzw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "StoneMediaFilms",
       "url": "https://www.youtube.com/channel/UCifw3NFsTDODn53N6r4uNYQ",
       "firstSeenAt": "2026-10-14T11:48:36.844Z"
+    },
+    {
+      "id": "channel:UCCPkGrDqGEdIi2rKrtLdVEQ",
+      "type": "channel",
+      "label": "iDream Health",
+      "url": "https://www.youtube.com/channel/UCCPkGrDqGEdIi2rKrtLdVEQ",
+      "firstSeenAt": "2026-10-25T11:22:28.338Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCnsQjCVzmEd-YvlQZbo6zCg",
   "title": "2NE1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lwXHGkKYaKPhLyktT2heO_iTUNmNRxj7j37l6zfpf1u2Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 2,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Falling in Love (2NE1 song)",
       "url": "https://en.wikipedia.org/wiki/Falling_in_Love_(2NE1_song)",
       "firstSeenAt": "2026-10-24T10:54:52.443Z"
+    },
+    {
+      "id": "wiki:Do You Love Me (2NE1 song)",
+      "type": "wikipedia",
+      "label": "Do You Love Me (2NE1 song)",
+      "url": "https://en.wikipedia.org/wiki/Do_You_Love_Me_(2NE1_song)",
+      "firstSeenAt": "2026-10-25T11:22:08.238Z"
     }
   ],
   "recentItems": []

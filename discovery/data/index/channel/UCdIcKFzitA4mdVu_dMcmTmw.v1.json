@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCdIcKFzitA4mdVu_dMcmTmw",
   "title": "BridgitMendlerVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nZU2AM3Jv4TXyL2VMp1TCNr8PRdQxkQbB-QAT0kkMhxZ4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "hayleykiyoko",
       "url": "https://www.youtube.com/channel/UC3PukLUyh241Bz2mFgZGDUg",
       "firstSeenAt": "2026-10-15T11:25:03.662Z"
+    },
+    {
+      "id": "wiki:Top of the World (Bridgit Mendler song)",
+      "type": "wikipedia",
+      "label": "Top of the World (Bridgit Mendler song)",
+      "url": "https://en.wikipedia.org/wiki/Top_of_the_World_(Bridgit_Mendler_song)",
+      "firstSeenAt": "2026-10-25T11:22:07.150Z"
     }
   ],
   "recentItems": []

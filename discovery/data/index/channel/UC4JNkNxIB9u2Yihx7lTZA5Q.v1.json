@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC4JNkNxIB9u2Yihx7lTZA5Q",
   "title": "SharpTone Records",
   "thumb": "https://yt3.ggpht.com/RcksU4fYYX-ln6C_OU2keZrHt518q5A92E90SMAW55IAs9_D4qEYsTJkC9Uu0qcfffCX3wNGCW4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.44,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Currents (band)",
       "url": "https://en.wikipedia.org/wiki/Currents_(band)",
       "firstSeenAt": "2026-09-04T11:15:18.823Z"
+    },
+    {
+      "id": "channel:UCLemmOzGbJqOz_pSVVPAMaA",
+      "type": "channel",
+      "label": "Believe",
+      "url": "https://www.youtube.com/channel/UCLemmOzGbJqOz_pSVVPAMaA",
+      "firstSeenAt": "2026-10-25T11:22:25.772Z"
     }
   ],
   "recentItems": []

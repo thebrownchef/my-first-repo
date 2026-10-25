@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCSJfjbTHLKj1H2-oqi6jN8Q",
   "title": "AllAmericanRjctsVEVO",
   "thumb": "https://yt3.ggpht.com/WsTNLw2epsDSQxWlC1zkBgGzUbId9ywDV6luWXeW7YivsDEoMVwd8OYQ3ichv6IEfczPSAorbw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,27 @@
       "label": "Time Stands Still (The All-American Rejects song)",
       "url": "https://en.wikipedia.org/wiki/Time_Stands_Still_(The_All-American_Rejects_song)",
       "firstSeenAt": "2026-10-18T11:00:36.406Z"
+    },
+    {
+      "id": "wiki:I Wanna (The All-American Rejects song)",
+      "type": "wikipedia",
+      "label": "I Wanna (The All-American Rejects song)",
+      "url": "https://en.wikipedia.org/wiki/I_Wanna_(The_All-American_Rejects_song)",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:Beekeeper's Daughter",
+      "type": "wikipedia",
+      "label": "Beekeeper's Daughter",
+      "url": "https://en.wikipedia.org/wiki/Beekeeper's_Daughter",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:Kids in the Street (song)",
+      "type": "wikipedia",
+      "label": "Kids in the Street (song)",
+      "url": "https://en.wikipedia.org/wiki/Kids_in_the_Street_(song)",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
     }
   ],
   "recentItems": []

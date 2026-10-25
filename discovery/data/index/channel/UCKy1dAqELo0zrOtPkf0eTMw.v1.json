@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCKy1dAqELo0zrOtPkf0eTMw",
   "title": "IGN",
   "thumb": "https://yt3.ggpht.com/4jRpju9vRtgoIA6SxuIomVcCmjub6ydA1TzGRHts853ZzxRITi41gxP50jTuGBdUlvAgehZJK8Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 25.18,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Ken Lobb",
       "url": "https://en.wikipedia.org/wiki/Ken_Lobb",
       "firstSeenAt": "2026-10-24T10:54:50.877Z"
+    },
+    {
+      "id": "wiki:Killer Instinct (2013 video game)",
+      "type": "wikipedia",
+      "label": "Killer Instinct (2013 video game)",
+      "url": "https://en.wikipedia.org/wiki/Killer_Instinct_(2013_video_game)",
+      "firstSeenAt": "2026-10-25T11:22:05.903Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC_JnlnBEy6F7CuwIQ-KSGBg",
   "title": "thestrokesVEVO",
   "thumb": "https://yt3.ggpht.com/8bVqvwv_8ElFKvKcDZx5Y9N2WFXVR9-Nk88cFpR7O_If_9qrIJRa6MI0DYgAbU9Uk2F56Hkz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Under Cover of Darkness",
       "url": "https://en.wikipedia.org/wiki/Under_Cover_of_Darkness",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Last Nite",
+      "type": "wikipedia",
+      "label": "Last Nite",
+      "url": "https://en.wikipedia.org/wiki/Last_Nite",
+      "firstSeenAt": "2026-10-25T11:22:07.149Z"
     }
   ],
   "recentItems": []

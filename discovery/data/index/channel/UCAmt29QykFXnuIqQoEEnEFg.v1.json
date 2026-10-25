@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCAmt29QykFXnuIqQoEEnEFg",
   "title": "Sigur Rós",
   "thumb": "https://yt3.ggpht.com/GJ7Xvuf3-X2uNQSUabnCsRK45Z9yHe6lORQ9dCiZ7ZzmunXZuxSyZB-g-SAx9lrfJNFwZHrV78A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Viðrar vel til loftárása",
       "url": "https://en.wikipedia.org/wiki/Vi%C3%B0rar_vel_til_loft%C3%A1r%C3%A1sa",
       "firstSeenAt": "2026-10-23T11:34:40.282Z"
+    },
+    {
+      "id": "wiki:Kveikur (song)",
+      "type": "wikipedia",
+      "label": "Kveikur (song)",
+      "url": "https://en.wikipedia.org/wiki/Kveikur_(song)",
+      "firstSeenAt": "2026-10-25T11:22:05.903Z"
     }
   ],
   "recentItems": []

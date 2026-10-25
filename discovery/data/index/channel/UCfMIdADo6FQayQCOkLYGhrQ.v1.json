@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCfMIdADo6FQayQCOkLYGhrQ",
   "title": "JAXA | 宇宙航空研究開発機構",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kDcqDMGaTyjo_zZbl-u5-PrW_PyLj9SdmtYfrncWhFIQ0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Kounotori 3",
       "url": "https://en.wikipedia.org/wiki/Kounotori_3",
       "firstSeenAt": "2026-10-13T14:07:55.127Z"
+    },
+    {
+      "id": "wiki:Kounotori 4",
+      "type": "wikipedia",
+      "label": "Kounotori 4",
+      "url": "https://en.wikipedia.org/wiki/Kounotori_4",
+      "firstSeenAt": "2026-10-25T11:22:07.150Z"
     }
   ],
   "recentItems": []

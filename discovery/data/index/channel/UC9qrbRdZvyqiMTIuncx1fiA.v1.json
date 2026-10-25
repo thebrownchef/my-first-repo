@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC9qrbRdZvyqiMTIuncx1fiA",
   "title": "TVCHOSUN DRAMA",
   "thumb": "https://yt3.ggpht.com/9LYDMifKW9pGRaqrVIWc1sg_Uf5bnamqI5Xf9U9q1a_dBHkIYNlTkUNGGNTo167F7OFtYuGc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.72,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "TVCHOSUN FOOD",
       "url": "https://www.youtube.com/channel/UCtQZCFX4trYiFc3d3psq0KA",
       "firstSeenAt": "2026-10-24T10:55:13.190Z"
+    },
+    {
+      "id": "channel:UC2Zi06YjNBM37g8d0IkHPMA",
+      "type": "channel",
+      "label": "TVCHOSUN STAR",
+      "url": "https://www.youtube.com/channel/UC2Zi06YjNBM37g8d0IkHPMA",
+      "firstSeenAt": "2026-10-25T11:22:22.442Z"
+    },
+    {
+      "id": "channel:UCb5ymSxGa41rYAMDvh22I2Q",
+      "type": "channel",
+      "label": "TVCHOSUN LIFE",
+      "url": "https://www.youtube.com/channel/UCb5ymSxGa41rYAMDvh22I2Q",
+      "firstSeenAt": "2026-10-25T11:22:22.831Z"
     }
   ],
   "recentItems": []

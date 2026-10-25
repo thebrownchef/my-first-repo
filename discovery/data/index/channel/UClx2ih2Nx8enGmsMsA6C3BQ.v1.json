@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UClx2ih2Nx8enGmsMsA6C3BQ",
   "title": "CAguileraVEVO",
   "thumb": "https://yt3.ggpht.com/C2TsAUo9xCXFETdU0Uha3zSz3lsd3XE3s6V_K9KNT3LjD8lbxhWcmFe-hE_qvDWmpAeIqBA6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Candyman (Christina Aguilera song)",
       "url": "https://en.wikipedia.org/wiki/Candyman_(Christina_Aguilera_song)",
       "firstSeenAt": "2026-10-24T10:54:50.877Z"
+    },
+    {
+      "id": "wiki:The Voice Within",
+      "type": "wikipedia",
+      "label": "The Voice Within",
+      "url": "https://en.wikipedia.org/wiki/The_Voice_Within",
+      "firstSeenAt": "2026-10-25T11:22:07.149Z"
     }
   ],
   "recentItems": []

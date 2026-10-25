@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCVWA4btXTFru9qM06FceSag",
   "title": "PitbullVEVO",
   "thumb": "https://yt3.ggpht.com/Hj7bnKk6Zh4ko81EBLWquLl-a6_-LQqISsxR2wHpEauEAw8u4sj8onUFTvIKjeRxgaU4hGrHow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Krazy (Pitbull song)",
       "url": "https://en.wikipedia.org/wiki/Krazy_(Pitbull_song)",
       "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Outta Nowhere",
+      "type": "wikipedia",
+      "label": "Outta Nowhere",
+      "url": "https://en.wikipedia.org/wiki/Outta_Nowhere",
+      "firstSeenAt": "2026-10-25T11:22:07.149Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCrSczPA0uxFM-PgWOeDX-ew",
   "title": "NellyFurtadoVEVO",
   "thumb": "https://yt3.ggpht.com/kR10qBTgfsT08zHDZTCZOvJgiJwWZDdsBYraFJ-lLUAU4ilXE4oJ3L0c7JXETpACgVrRMNzI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Say It Right",
       "url": "https://en.wikipedia.org/wiki/Say_It_Right",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Waiting for the Night",
+      "type": "wikipedia",
+      "label": "Waiting for the Night",
+      "url": "https://en.wikipedia.org/wiki/Waiting_for_the_Night",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:Parking Lot (Nelly Furtado song)",
+      "type": "wikipedia",
+      "label": "Parking Lot (Nelly Furtado song)",
+      "url": "https://en.wikipedia.org/wiki/Parking_Lot_(Nelly_Furtado_song)",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:Spirit Indestructible",
+      "type": "wikipedia",
+      "label": "Spirit Indestructible",
+      "url": "https://en.wikipedia.org/wiki/Spirit_Indestructible",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:Big Hoops (Bigger the Better)",
+      "type": "wikipedia",
+      "label": "Big Hoops (Bigger the Better)",
+      "url": "https://en.wikipedia.org/wiki/Big_Hoops_(Bigger_the_Better)",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
     }
   ],
   "recentItems": []

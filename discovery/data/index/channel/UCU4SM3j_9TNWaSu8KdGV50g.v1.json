@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCU4SM3j_9TNWaSu8KdGV50g",
   "title": "Focus Features",
   "thumb": "https://yt3.ggpht.com/RvRVJEORQyRUZ5xXFXw4wDos56z8ffIMP_K60hx2UXB6v8qdmS3q2uZr_93E5VqYmHerhqECSg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.34,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Universal Pictures At Home",
       "url": "https://www.youtube.com/channel/UCIHg3K4EaY-ziWc5CyzWAzQ",
       "firstSeenAt": "2026-10-16T11:19:56.246Z"
+    },
+    {
+      "id": "wiki:The Boat That Rocked",
+      "type": "wikipedia",
+      "label": "The Boat That Rocked",
+      "url": "https://en.wikipedia.org/wiki/The_Boat_That_Rocked",
+      "firstSeenAt": "2026-10-25T11:22:05.903Z"
     }
   ],
   "recentItems": []

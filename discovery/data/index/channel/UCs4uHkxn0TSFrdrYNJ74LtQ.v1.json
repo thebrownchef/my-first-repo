@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCs4uHkxn0TSFrdrYNJ74LtQ",
   "title": "CP Music Group",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n2ISFjGHbwLE_KMp6IEYVN0wlaCikVNSS7xz5Oz0Bxttg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hit Me Up (Danny Fernandes song)",
       "url": "https://en.wikipedia.org/wiki/Hit_Me_Up_(Danny_Fernandes_song)",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:Fly Again (Broken Wings)",
+      "type": "wikipedia",
+      "label": "Fly Again (Broken Wings)",
+      "url": "https://en.wikipedia.org/wiki/Fly_Again_(Broken_Wings)",
+      "firstSeenAt": "2026-10-25T11:22:08.239Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC52X5wxOL_s5yw0dQk7NtgA",
   "title": "Associated Press",
   "thumb": "https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 27.9,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Hall of Game Awards",
       "url": "https://en.wikipedia.org/wiki/Hall_of_Game_Awards",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:New York v. Strauss-Kahn",
+      "type": "wikipedia",
+      "label": "New York v. Strauss-Kahn",
+      "url": "https://en.wikipedia.org/wiki/New_York_v._Strauss-Kahn",
+      "firstSeenAt": "2026-10-25T11:22:08.238Z"
     }
   ],
   "recentItems": []

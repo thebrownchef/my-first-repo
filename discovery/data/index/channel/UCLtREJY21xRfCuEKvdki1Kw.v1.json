@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCLtREJY21xRfCuEKvdki1Kw",
   "title": "H3 Podcast",
   "thumb": "https://yt3.ggpht.com/pAs36K_9aufyo8lveD9vjh02dRWPbsiZovqp6gxcIM6jIusLhwS2eU1VOMHlLyOT8UJ2FPKG6-I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.55,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "h3h3Productions",
       "url": "https://www.youtube.com/channel/UCDWIvJwLJsE4LG1Atne2blQ",
       "firstSeenAt": "2026-10-15T11:25:15.086Z"
+    },
+    {
+      "id": "channel:UC7pp40MU_6rLK5pvJYG3d0Q",
+      "type": "channel",
+      "label": "Hila Klein",
+      "url": "https://www.youtube.com/channel/UC7pp40MU_6rLK5pvJYG3d0Q",
+      "firstSeenAt": "2026-10-25T11:22:24.925Z"
     }
   ],
   "recentItems": []

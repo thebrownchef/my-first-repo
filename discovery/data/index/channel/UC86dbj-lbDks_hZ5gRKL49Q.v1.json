@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC86dbj-lbDks_hZ5gRKL49Q",
   "title": "AFP News Agency",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kUhmA2lfpvTaae-mHvsBOGez1u0ZoH-7GIH2tCCfiHAm_e=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 14.53,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "List of heritage sites damaged during the Syrian civil war",
       "url": "https://en.wikipedia.org/wiki/List_of_heritage_sites_damaged_during_the_Syrian_civil_war",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Verax (film)",
+      "type": "wikipedia",
+      "label": "Verax (film)",
+      "url": "https://en.wikipedia.org/wiki/Verax_(film)",
+      "firstSeenAt": "2026-10-25T11:22:05.903Z"
     }
   ],
   "recentItems": []

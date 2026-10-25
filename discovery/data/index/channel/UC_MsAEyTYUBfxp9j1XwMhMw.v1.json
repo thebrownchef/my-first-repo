@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC_MsAEyTYUBfxp9j1XwMhMw",
   "title": "Blanco y Negro Music",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l44hqbBrSDo4-l0AoewDyppIy4wcO-RWh3ZEKMN2OEZ7Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.85,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Caliente (Jay Santos song)",
       "url": "https://en.wikipedia.org/wiki/Caliente_(Jay_Santos_song)",
       "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Vem Dançar Kuduro",
+      "type": "wikipedia",
+      "label": "Vem Dançar Kuduro",
+      "url": "https://en.wikipedia.org/wiki/Vem_Dan%C3%A7ar_Kuduro",
+      "firstSeenAt": "2026-10-25T11:22:05.903Z"
+    },
+    {
+      "id": "channel:UC7e3sjAWgZhPf2LWb387Veg",
+      "type": "channel",
+      "label": "Saifam Music",
+      "url": "https://www.youtube.com/channel/UC7e3sjAWgZhPf2LWb387Veg",
+      "firstSeenAt": "2026-10-25T11:22:26.992Z"
     }
   ],
   "recentItems": []

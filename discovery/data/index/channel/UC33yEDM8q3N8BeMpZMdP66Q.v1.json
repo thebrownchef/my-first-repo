@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC33yEDM8q3N8BeMpZMdP66Q",
   "title": "TVCHOSUN MUSIC",
   "thumb": "https://yt3.ggpht.com/zoRFYD94755BA3MJFAXwybz4SHhyR7dhmSnrM4burWHYQg7f-S-qIjWXTy_HmYCoV2LMG4zh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 7.34,
   "sources": [
@@ -43,6 +43,27 @@
       "label": "TVCHOSUN FOOD",
       "url": "https://www.youtube.com/channel/UCtQZCFX4trYiFc3d3psq0KA",
       "firstSeenAt": "2026-10-24T10:55:13.191Z"
+    },
+    {
+      "id": "channel:UC2Zi06YjNBM37g8d0IkHPMA",
+      "type": "channel",
+      "label": "TVCHOSUN STAR",
+      "url": "https://www.youtube.com/channel/UC2Zi06YjNBM37g8d0IkHPMA",
+      "firstSeenAt": "2026-10-25T11:22:22.444Z"
+    },
+    {
+      "id": "channel:UCskIKQGpjI5sG2ZLtWLYSmw",
+      "type": "channel",
+      "label": "미스&미스터트롯",
+      "url": "https://www.youtube.com/channel/UCskIKQGpjI5sG2ZLtWLYSmw",
+      "firstSeenAt": "2026-10-25T11:22:22.540Z"
+    },
+    {
+      "id": "channel:UCb5ymSxGa41rYAMDvh22I2Q",
+      "type": "channel",
+      "label": "TVCHOSUN LIFE",
+      "url": "https://www.youtube.com/channel/UCb5ymSxGa41rYAMDvh22I2Q",
+      "firstSeenAt": "2026-10-25T11:22:22.829Z"
     }
   ],
   "recentItems": []

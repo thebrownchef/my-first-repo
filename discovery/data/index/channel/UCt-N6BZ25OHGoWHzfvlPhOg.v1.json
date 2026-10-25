@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "id": "UCt-N6BZ25OHGoWHzfvlPhOg",
+  "title": "GoogleTalksArchive",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lNY-d8EjVkeCcYpt7B7dykT9vgwL8a6La3x94lxRE=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.1,
+  "sources": [
+    {
+      "id": "channel:UCtXKDgv1AVoG88PLl8nGXmw",
+      "type": "channel",
+      "label": "Google TechTalks",
+      "url": "https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw",
+      "firstSeenAt": "2026-10-05T14:33:17.342Z"
+    },
+    {
+      "id": "wiki:DTrace",
+      "type": "wikipedia",
+      "label": "DTrace",
+      "url": "https://en.wikipedia.org/wiki/DTrace",
+      "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    }
+  ],
+  "recentItems": []
+}

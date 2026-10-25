@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "id": "UC736ropsqGan0ezGMQDx-Zg",
+  "title": "Example",
+  "thumb": "https://yt3.ggpht.com/fN9mHcpLMtOCotLHsQyRyYBMA3S3uBUlxtZkwrQPpEpnn-x7fKOsfOs-XGBVKw1Grv3lBfqH6w=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "channel:UC0y8P5OjTKLTpnDt62WJzCA",
+      "type": "channel",
+      "label": "DJ Fresh",
+      "url": "https://www.youtube.com/channel/UC0y8P5OjTKLTpnDt62WJzCA",
+      "firstSeenAt": "2026-10-11T12:46:11.953Z"
+    },
+    {
+      "id": "wiki:Stay Awake (Example song)",
+      "type": "wikipedia",
+      "label": "Stay Awake (Example song)",
+      "url": "https://en.wikipedia.org/wiki/Stay_Awake_(Example_song)",
+      "firstSeenAt": "2026-10-25T11:22:05.903Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCe3yZzUwpmy2eKKmF9svX0Q",
   "title": "Jason Derulo",
   "thumb": "https://yt3.ggpht.com/IghFAuWuRuClXClC4624ESpJEftVbSVga1tRPAw07xH2gXwXCazs922F0b57qSJg24iE5NuEag=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.95,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Whatcha Say",
       "url": "https://en.wikipedia.org/wiki/Whatcha_Say",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:The Other Side (Jason Derulo song)",
+      "type": "wikipedia",
+      "label": "The Other Side (Jason Derulo song)",
+      "url": "https://en.wikipedia.org/wiki/The_Other_Side_(Jason_Derulo_song)",
+      "firstSeenAt": "2026-10-25T11:22:05.903Z"
     }
   ],
   "recentItems": []

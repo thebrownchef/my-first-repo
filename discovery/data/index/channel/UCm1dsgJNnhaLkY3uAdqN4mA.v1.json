@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCm1dsgJNnhaLkY3uAdqN4mA",
   "title": "ChrisBrownVEVO",
   "thumb": "https://yt3.ggpht.com/LQZxBlTRHDjVmcGbzUZqwwRmZ9ebU-XU8frGW6SEgcllooaoqnvL4bd_dTrraTZirHtuT1epKg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Fine China (Chris Brown song)",
       "url": "https://en.wikipedia.org/wiki/Fine_China_(Chris_Brown_song)",
       "firstSeenAt": "2026-10-21T11:44:44.335Z"
+    },
+    {
+      "id": "wiki:Don't Think They Know",
+      "type": "wikipedia",
+      "label": "Don't Think They Know",
+      "url": "https://en.wikipedia.org/wiki/Don't_Think_They_Know",
+      "firstSeenAt": "2026-10-25T11:22:07.149Z"
     }
   ],
   "recentItems": []

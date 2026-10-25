@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCdkAfTtNN2b4JAXKKrxjsHg",
   "title": "Rough Trade Records",
   "thumb": "https://yt3.ggpht.com/ibG1MeRkBxVzvbNyDsR6sUTGfUNBMO07gPMjHNfSnOe4Pypz0MBdAZcA8gXsKOBav6TghnqLpQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Beggars Banquet Records",
       "url": "https://www.youtube.com/channel/UCXWY-FG0IvCKrj_lqQdGLOQ",
       "firstSeenAt": "2026-10-14T11:48:44.900Z"
+    },
+    {
+      "id": "channel:UCLemmOzGbJqOz_pSVVPAMaA",
+      "type": "channel",
+      "label": "Believe",
+      "url": "https://www.youtube.com/channel/UCLemmOzGbJqOz_pSVVPAMaA",
+      "firstSeenAt": "2026-10-25T11:22:25.769Z"
     }
   ],
   "recentItems": []

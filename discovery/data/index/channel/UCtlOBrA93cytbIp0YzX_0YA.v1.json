@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UCtlOBrA93cytbIp0YzX_0YA",
   "title": "Bharat Today",
   "thumb": "https://yt3.ggpht.com/fsBIfmbXojbku7WhI0Xw8WKxq38t0dZVhAJevMzlk2WC1pGZum-2EcOkQBiScbQyXGq8z70Pew=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 2,
   "uploadsPerDay": 22.56,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "StoneMediaFilms",
       "url": "https://www.youtube.com/channel/UCifw3NFsTDODn53N6r4uNYQ",
       "firstSeenAt": "2026-10-14T11:48:36.839Z"
+    },
+    {
+      "id": "channel:UCCPkGrDqGEdIi2rKrtLdVEQ",
+      "type": "channel",
+      "label": "iDream Health",
+      "url": "https://www.youtube.com/channel/UCCPkGrDqGEdIi2rKrtLdVEQ",
+      "firstSeenAt": "2026-10-25T11:22:28.329Z"
     }
   ],
   "recentItems": []

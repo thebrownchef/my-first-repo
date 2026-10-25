@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UChjsZqMdbo_VJx1mQ9rWv-A",
   "title": "DJQuikVEVO",
   "thumb": "https://yt3.ggpht.com/ewzGVsUIbWDps1X8rIMsv8bwSBCygkL5BUaKaD0iGpxQ3UmkYGcQRzi5weY7XO4u2QQUa7CIUw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tonite (DJ Quik song)",
       "url": "https://en.wikipedia.org/wiki/Tonite_(DJ_Quik_song)",
       "firstSeenAt": "2026-10-19T13:08:27.520Z"
+    },
+    {
+      "id": "wiki:Pitch In on a Party",
+      "type": "wikipedia",
+      "label": "Pitch In on a Party",
+      "url": "https://en.wikipedia.org/wiki/Pitch_In_on_a_Party",
+      "firstSeenAt": "2026-10-25T11:22:07.149Z"
     }
   ],
   "recentItems": []

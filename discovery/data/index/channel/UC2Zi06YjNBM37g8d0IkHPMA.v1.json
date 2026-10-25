@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:56:25.256Z",
+  "generatedAt": "2026-10-25T11:23:24.362Z",
   "id": "UC2Zi06YjNBM37g8d0IkHPMA",
   "title": "TVCHOSUN STAR",
   "thumb": "https://yt3.ggpht.com/Zoskc13t259DS6Hk8DePbWUgjj2Q_3ul5b79Iqkm4X33ZXf_vXGa2hD0Z3LGIdC_OcdDjZPyRw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 2.98,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "TVCHOSUN FOOD",
       "url": "https://www.youtube.com/channel/UCtQZCFX4trYiFc3d3psq0KA",
       "firstSeenAt": "2026-10-24T10:55:13.191Z"
+    },
+    {
+      "id": "channel:UCb5ymSxGa41rYAMDvh22I2Q",
+      "type": "channel",
+      "label": "TVCHOSUN LIFE",
+      "url": "https://www.youtube.com/channel/UCb5ymSxGa41rYAMDvh22I2Q",
+      "firstSeenAt": "2026-10-25T11:22:22.830Z"
     }
   ],
   "recentItems": []

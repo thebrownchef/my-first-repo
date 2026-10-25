@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "id": "UC56WwNsqpbjme7r-URpl3OA",
+  "title": "JewishNewsOne",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nerXBmZoDpvWlZH-0CWizCr8yh_JtOI_ekSunyWmkcKQw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 2.72,
+  "sources": [
+    {
+      "id": "wiki:Apostolic blessing",
+      "type": "wikipedia",
+      "label": "Apostolic blessing",
+      "url": "https://en.wikipedia.org/wiki/Apostolic_blessing",
+      "firstSeenAt": "2026-10-21T11:44:40.898Z"
+    },
+    {
+      "id": "wiki:Jewish News One",
+      "type": "wikipedia",
+      "label": "Jewish News One",
+      "url": "https://en.wikipedia.org/wiki/Jewish_News_One",
+      "firstSeenAt": "2026-10-25T11:22:07.414Z"
+    }
+  ],
+  "recentItems": []
+}
