@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCBbnbBWJtwsf0jLGUwX5Q3g",
   "title": "Journey to the Microcosmos",
   "thumb": "https://yt3.ggpht.com/vK_NzEZ6ct2GGtsVJVVLOujgFQtvwosp0RfsI0RqwiJ1PdwjUPxS6Vdj6NMFn4g5MlSZJ-qs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "CrashCourse",
       "url": "https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q",
       "firstSeenAt": "2026-09-16T11:29:13.644Z"
+    },
+    {
+      "id": "channel:UC03JkcIx6jNK5IviHK6dT2A",
+      "type": "channel",
+      "label": "LibertyInOurTime",
+      "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
+      "firstSeenAt": "2026-10-26T12:57:00.819Z"
     }
   ],
   "recentItems": []

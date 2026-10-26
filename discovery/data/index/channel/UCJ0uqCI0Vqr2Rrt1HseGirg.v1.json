@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCJ0uqCI0Vqr2Rrt1HseGirg",
   "title": "The Late Late Show with James Corden",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m9vIaaeucAbNzjVv31EWyUB0eO1EvwU9lhpXNcTxkb3kw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "After Midnight",
       "url": "https://www.youtube.com/channel/UCG9DuXf3RCqOHgaLEEFhcCw",
       "firstSeenAt": "2026-09-29T12:49:35.574Z"
+    },
+    {
+      "id": "wiki:March for Our Lives (demonstration)",
+      "type": "wikipedia",
+      "label": "March for Our Lives (demonstration)",
+      "url": "https://en.wikipedia.org/wiki/March_for_Our_Lives_(demonstration)",
+      "firstSeenAt": "2026-10-26T12:56:46.272Z"
     }
   ],
   "recentItems": []

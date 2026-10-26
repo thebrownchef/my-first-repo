@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC6ljvocrnN_0hA3PXr7W5rw",
   "title": "ThirtySecondsToMarsVEVO",
   "thumb": "https://yt3.ggpht.com/cPykTn6HtmBwtLB8Hf1qmNcCO9O_Oow6xAzbmjXNHhLHKZ6XhBLDANQMRIfjAusaYN21dslVKw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Edge of the Earth (Thirty Seconds to Mars song)",
       "url": "https://en.wikipedia.org/wiki/Edge_of_the_Earth_(Thirty_Seconds_to_Mars_song)",
       "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Conquistador (Thirty Seconds to Mars song)",
+      "type": "wikipedia",
+      "label": "Conquistador (Thirty Seconds to Mars song)",
+      "url": "https://en.wikipedia.org/wiki/Conquistador_(Thirty_Seconds_to_Mars_song)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

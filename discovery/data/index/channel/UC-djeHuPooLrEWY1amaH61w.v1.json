@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC-djeHuPooLrEWY1amaH61w",
   "title": "Alpha M",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncRcNil3ksRWa4U1eGyV-CJjvqkTeq0qAh313Th-V8Sfs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Moscow Clad in Snow",
       "url": "https://en.wikipedia.org/wiki/Moscow_Clad_in_Snow",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:In the Steppes of Central Asia",
+      "type": "wikipedia",
+      "label": "In the Steppes of Central Asia",
+      "url": "https://en.wikipedia.org/wiki/In_the_Steppes_of_Central_Asia",
+      "firstSeenAt": "2026-10-26T12:56:39.133Z"
     }
   ],
   "recentItems": []

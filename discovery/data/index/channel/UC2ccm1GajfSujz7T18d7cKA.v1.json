@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC2ccm1GajfSujz7T18d7cKA",
   "title": "BBC Studios",
   "thumb": "https://yt3.ggpht.com/eJvbR6DJpYIzNu5K9NXr3JHc_c0-8ds7W9CnZ0xywzZQfOTKC9GoMFfEeFMNXKAp9LL9DeaiwOM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Vervet monkey",
       "url": "https://en.wikipedia.org/wiki/Vervet_monkey",
       "firstSeenAt": "2026-10-17T10:39:53.134Z"
+    },
+    {
+      "id": "wiki:Goodbyeee",
+      "type": "wikipedia",
+      "label": "Goodbyeee",
+      "url": "https://en.wikipedia.org/wiki/Goodbyeee",
+      "firstSeenAt": "2026-10-26T12:56:39.133Z"
     }
   ],
   "recentItems": []

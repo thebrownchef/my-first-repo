@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UClx2ih2Nx8enGmsMsA6C3BQ",
   "title": "CAguileraVEVO",
   "thumb": "https://yt3.ggpht.com/C2TsAUo9xCXFETdU0Uha3zSz3lsd3XE3s6V_K9KNT3LjD8lbxhWcmFe-hE_qvDWmpAeIqBA6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "The Voice Within",
       "url": "https://en.wikipedia.org/wiki/The_Voice_Within",
       "firstSeenAt": "2026-10-25T11:22:07.149Z"
+    },
+    {
+      "id": "wiki:You Lost Me",
+      "type": "wikipedia",
+      "label": "You Lost Me",
+      "url": "https://en.wikipedia.org/wiki/You_Lost_Me",
+      "firstSeenAt": "2026-10-26T12:56:37.390Z"
     }
   ],
   "recentItems": []

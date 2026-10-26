@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC18sv5SX_L9LTAkFpUQBAHA",
   "title": "Classic GAA Videos & Clips",
   "thumb": "https://yt3.ggpht.com/ArJQFir33CSY7TlV1blT7RraiP6N6Yt3kfWEHT-iXC1ciP6mU5vCAcdC2QTVbvtKWO5iR6-euQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "1993 All-Ireland Senior Football Championship final",
       "url": "https://en.wikipedia.org/wiki/1993_All-Ireland_Senior_Football_Championship_final",
       "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    },
+    {
+      "id": "wiki:1995 All-Ireland Senior Hurling Championship final",
+      "type": "wikipedia",
+      "label": "1995 All-Ireland Senior Hurling Championship final",
+      "url": "https://en.wikipedia.org/wiki/1995_All-Ireland_Senior_Hurling_Championship_final",
+      "firstSeenAt": "2026-10-26T12:56:37.390Z"
+    },
+    {
+      "id": "wiki:1975 All-Ireland Senior Hurling Championship final",
+      "type": "wikipedia",
+      "label": "1975 All-Ireland Senior Hurling Championship final",
+      "url": "https://en.wikipedia.org/wiki/1975_All-Ireland_Senior_Hurling_Championship_final",
+      "firstSeenAt": "2026-10-26T12:56:37.390Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC-P24gdQprBEs4jClRoX-wA",
   "title": "StereophonicsVEVO",
   "thumb": "https://yt3.ggpht.com/_zS9utYq847fYNz9e5m0HF_DBxFvxA8OCJk67kczaBocnGHz6qg52SLuVqlnYd4O-b9B-Lroo0A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Graffiti on the Train (song)",
       "url": "https://en.wikipedia.org/wiki/Graffiti_on_the_Train_(song)",
       "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:Violins and Tambourines",
+      "type": "wikipedia",
+      "label": "Violins and Tambourines",
+      "url": "https://en.wikipedia.org/wiki/Violins_and_Tambourines",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

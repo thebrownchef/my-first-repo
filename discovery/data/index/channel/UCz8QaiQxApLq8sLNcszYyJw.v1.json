@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCz8QaiQxApLq8sLNcszYyJw",
   "title": "Firstpost",
   "thumb": "https://yt3.ggpht.com/xq1lZeHKTfCkr-6yw8OvRqOhZKM651oTJEJZiMD-5ObuT8eR29wktPwLZW6R2ZAFHOvba-W6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 38.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "HISTORY TV18",
       "url": "https://www.youtube.com/channel/UCh0Ob3N4miyi773toqSYj-A",
       "firstSeenAt": "2026-09-08T11:16:08.727Z"
+    },
+    {
+      "id": "channel:UCwVbHnywQAv6NtmVjMMF-lg",
+      "type": "channel",
+      "label": "FYI TV18.",
+      "url": "https://www.youtube.com/channel/UCwVbHnywQAv6NtmVjMMF-lg",
+      "firstSeenAt": "2026-10-26T12:57:04.305Z"
     }
   ],
   "recentItems": []

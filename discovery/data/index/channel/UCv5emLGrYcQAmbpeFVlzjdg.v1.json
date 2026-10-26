@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCv5emLGrYcQAmbpeFVlzjdg",
   "title": "Warner Records Vault",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kwhxgCaoiEuCoR9h7xBgEYPfPBsql-eTHazbiTVHm0OQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Been Caught Stealing",
       "url": "https://en.wikipedia.org/wiki/Been_Caught_Stealing",
       "firstSeenAt": "2026-10-05T14:32:40.424Z"
+    },
+    {
+      "id": "wiki:Downtown (Neil Young song)",
+      "type": "wikipedia",
+      "label": "Downtown (Neil Young song)",
+      "url": "https://en.wikipedia.org/wiki/Downtown_(Neil_Young_song)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

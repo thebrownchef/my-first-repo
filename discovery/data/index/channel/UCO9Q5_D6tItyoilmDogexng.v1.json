@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCO9Q5_D6tItyoilmDogexng",
   "title": "PublicResourceOrg",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN8msoL_nLAxHUy2pwTKFRXZjHhPiX76565DKcqbvUhw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.88,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Battle of St. Vith",
       "url": "https://en.wikipedia.org/wiki/Battle_of_St._Vith",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:Inno delle nazioni",
+      "type": "wikipedia",
+      "label": "Inno delle nazioni",
+      "url": "https://en.wikipedia.org/wiki/Inno_delle_nazioni",
+      "firstSeenAt": "2026-10-26T12:56:39.133Z"
     }
   ],
   "recentItems": []

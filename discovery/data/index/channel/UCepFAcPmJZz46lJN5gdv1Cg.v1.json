@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCepFAcPmJZz46lJN5gdv1Cg",
   "title": "Brown Eyed Girls",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kMnzzpAOPpvP2hroxIgJj7axdUoVcTLqryAfwgzed3FQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Black Box (Brown Eyed Girls album)",
       "url": "https://en.wikipedia.org/wiki/Black_Box_(Brown_Eyed_Girls_album)",
       "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    },
+    {
+      "id": "wiki:Sound-G",
+      "type": "wikipedia",
+      "label": "Sound-G",
+      "url": "https://en.wikipedia.org/wiki/Sound-G",
+      "firstSeenAt": "2026-10-26T12:56:37.390Z"
     }
   ],
   "recentItems": []

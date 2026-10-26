@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC-3SbfTPJsL8fJAPKiVqBLg",
   "title": "Deep Look",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mx3yOxwr87E2MXEa66ePQWzG9bUNDl1zG4FgiK1kIJGZU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "PBS Digital Studios",
       "url": "https://www.youtube.com/channel/UCd8Fy98IB7WcI4r7qDbJi7A",
       "firstSeenAt": "2026-10-16T11:19:48.773Z"
+    },
+    {
+      "id": "channel:UC03JkcIx6jNK5IviHK6dT2A",
+      "type": "channel",
+      "label": "LibertyInOurTime",
+      "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
+      "firstSeenAt": "2026-10-26T12:57:00.821Z"
     }
   ],
   "recentItems": []

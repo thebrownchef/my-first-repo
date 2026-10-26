@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCfiwzLy-8yKzIbsmZTzxDgw",
   "title": "AlJazeera Arabic  قناة الجزيرة",
   "thumb": "https://yt3.ggpht.com/oN_i26ADOuQ4PdypHo8yjVXh6QSXZ1kMeYzaRH3hNOlQE1uEUUQ-gkCh0o1rUQ2PM7Qx6QvY2g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 45.5,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Killing of Hamza Ali al-Khateeb",
       "url": "https://en.wikipedia.org/wiki/Killing_of_Hamza_Ali_al-Khateeb",
       "firstSeenAt": "2026-10-04T12:18:41.500Z"
+    },
+    {
+      "id": "wiki:2012–2013 Egyptian protests",
+      "type": "wikipedia",
+      "label": "2012–2013 Egyptian protests",
+      "url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Egyptian_protests",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

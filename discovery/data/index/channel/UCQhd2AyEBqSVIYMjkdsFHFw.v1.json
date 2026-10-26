@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCQhd2AyEBqSVIYMjkdsFHFw",
   "title": "Africa Sway",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n-f1wiSSZqLfP4qjjrF8crv2Q8Iw_6p0fHMHvYTeYKf_k=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Alejandro Sanz Catálogo",
       "url": "https://www.youtube.com/channel/UC1SeYJBhNX48ksKnO9JzAMA",
       "firstSeenAt": "2026-10-15T11:25:04.847Z"
+    },
+    {
+      "id": "channel:UCpmD3iT-8TQzRuygIiS9bAw",
+      "type": "channel",
+      "label": "Conor Maynard",
+      "url": "https://www.youtube.com/channel/UCpmD3iT-8TQzRuygIiS9bAw",
+      "firstSeenAt": "2026-10-26T12:56:58.825Z"
     }
   ],
   "recentItems": []

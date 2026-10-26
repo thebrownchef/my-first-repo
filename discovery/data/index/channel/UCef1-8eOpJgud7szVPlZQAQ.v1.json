@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "id": "UCef1-8eOpJgud7szVPlZQAQ",
+  "title": "CNN-News18",
+  "thumb": "https://yt3.ggpht.com/SHQE0Y5rb996mAAUmkQZbJdSWj_rcce07GwKk4LTYkf9PKABaWtCEc_a6SjzZPqOgM8pP4kByXE=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 41.38,
+  "sources": [
+    {
+      "id": "channel:UCh0Ob3N4miyi773toqSYj-A",
+      "type": "channel",
+      "label": "HISTORY TV18",
+      "url": "https://www.youtube.com/channel/UCh0Ob3N4miyi773toqSYj-A",
+      "firstSeenAt": "2026-09-08T11:16:08.726Z"
+    },
+    {
+      "id": "channel:UCwVbHnywQAv6NtmVjMMF-lg",
+      "type": "channel",
+      "label": "FYI TV18.",
+      "url": "https://www.youtube.com/channel/UCwVbHnywQAv6NtmVjMMF-lg",
+      "firstSeenAt": "2026-10-26T12:57:04.303Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCbv3gsBXzIwotCt2JGySfJA",
   "title": "ISU Junior Grand Prix",
   "thumb": "https://yt3.ggpht.com/bcmbgzMnfzIVkoxQXNAatWByAA3_6VGHWj7jmEkFCWg_F2z7-9BrG3z49VUTZwnruqqes6ZUYEk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
-  "uploadsPerDay": 2.67,
+  "uploadsPerDay": 2.66,
   "sources": [
     {
       "id": "wiki:Mao Shimada",
@@ -22,6 +22,13 @@
       "label": "2012–13 ISU Junior Grand Prix",
       "url": "https://en.wikipedia.org/wiki/2012%E2%80%9313_ISU_Junior_Grand_Prix",
       "firstSeenAt": "2026-10-15T11:24:51.026Z"
+    },
+    {
+      "id": "wiki:2013–14 ISU Junior Grand Prix",
+      "type": "wikipedia",
+      "label": "2013–14 ISU Junior Grand Prix",
+      "url": "https://en.wikipedia.org/wiki/2013%E2%80%9314_ISU_Junior_Grand_Prix",
+      "firstSeenAt": "2026-10-26T12:56:36.661Z"
     }
   ],
   "recentItems": []

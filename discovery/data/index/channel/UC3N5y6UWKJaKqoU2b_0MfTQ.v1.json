@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC3N5y6UWKJaKqoU2b_0MfTQ",
   "title": "LanaDelReyVEVO",
   "thumb": "https://yt3.ggpht.com/v7FFBCqWHtvh-_wLtWV2vOrgBI7p7puXjiZgZJ1bOcwdGUkP8DjHVdt6U-QvSDjEMtYa0aSw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Young and Beautiful (Lana Del Rey song)",
       "url": "https://en.wikipedia.org/wiki/Young_and_Beautiful_(Lana_Del_Rey_song)",
       "firstSeenAt": "2026-10-22T11:47:48.411Z"
+    },
+    {
+      "id": "wiki:Blue Jeans (Lana Del Rey song)",
+      "type": "wikipedia",
+      "label": "Blue Jeans (Lana Del Rey song)",
+      "url": "https://en.wikipedia.org/wiki/Blue_Jeans_(Lana_Del_Rey_song)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

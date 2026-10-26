@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCY_Bq1AF0xvPUjaAqV7kweA",
   "title": "SBS Dateline",
   "thumb": "https://yt3.ggpht.com/cJFm-76MoVSLW4-PELtOaonkWQmt0Zh0-kkcxH6VyQGvYlAcAoB49vAMDFsuXVZS06lyRBHjxQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "SBS News",
       "url": "https://www.youtube.com/channel/UCuuTCooIMbBFHNbPcSS70uw",
       "firstSeenAt": "2026-09-21T12:44:45.319Z"
+    },
+    {
+      "id": "channel:UC03JkcIx6jNK5IviHK6dT2A",
+      "type": "channel",
+      "label": "LibertyInOurTime",
+      "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
+      "firstSeenAt": "2026-10-26T12:57:00.825Z"
     }
   ],
   "recentItems": []

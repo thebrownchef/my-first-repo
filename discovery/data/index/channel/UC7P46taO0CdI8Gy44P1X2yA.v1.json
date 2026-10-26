@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC7P46taO0CdI8Gy44P1X2yA",
   "title": "Ben Howard",
   "thumb": "https://yt3.ggpht.com/aRNn5jbQkGQmku-dktGTsjAQeJG17_ckCmRRCJhT_GYdCCSc7qgZIpcWC7u_dfs_BDi2ecarbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Island Records UK",
       "url": "https://www.youtube.com/channel/UCz1Qgep1tgFYOO8BK6xGwnA",
       "firstSeenAt": "2026-10-07T13:19:16.943Z"
+    },
+    {
+      "id": "channel:UCHcgFneOU0qvJZB_Sh8wgFw",
+      "type": "channel",
+      "label": "Daughter",
+      "url": "https://www.youtube.com/channel/UCHcgFneOU0qvJZB_Sh8wgFw",
+      "firstSeenAt": "2026-10-26T12:57:02.730Z"
     }
   ],
   "recentItems": []

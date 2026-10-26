@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCQi67q4kGdmnJaRzX81uK5g",
   "title": "YG ENTERTAINMENT",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncnsFrs9NNi0n9retd_cyfFkZO0ICOOQ_q1f7lG1wFSlo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Lollipop (BigBang and 2NE1 song)",
       "url": "https://en.wikipedia.org/wiki/Lollipop_(BigBang_and_2NE1_song)",
       "firstSeenAt": "2026-10-20T11:32:08.128Z"
+    },
+    {
+      "id": "wiki:Try to Follow Me",
+      "type": "wikipedia",
+      "label": "Try to Follow Me",
+      "url": "https://en.wikipedia.org/wiki/Try_to_Follow_Me",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC4eYXhJI4-7wSWc8UNRwD4A",
   "title": "NPR Music",
   "thumb": "https://yt3.ggpht.com/IXJZjJSYR9kfnUcHwIzAYjunIfovC2QYOOAseZxrDHBwvCKQEHBNcdC6PmNxn8EALE357U3vvhE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.44,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Danielle de Niese",
       "url": "https://en.wikipedia.org/wiki/Danielle_de_Niese",
       "firstSeenAt": "2026-10-22T11:47:45.726Z"
+    },
+    {
+      "id": "channel:UCLr9Gs9fSHO9zWzgkFY23kw",
+      "type": "channel",
+      "label": "Helado Negro",
+      "url": "https://www.youtube.com/channel/UCLr9Gs9fSHO9zWzgkFY23kw",
+      "firstSeenAt": "2026-10-26T12:57:02.272Z"
     }
   ],
   "recentItems": []

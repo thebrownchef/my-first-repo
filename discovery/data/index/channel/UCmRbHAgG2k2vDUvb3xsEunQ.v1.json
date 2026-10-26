@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "id": "UCmRbHAgG2k2vDUvb3xsEunQ",
+  "title": "CNBC-TV18",
+  "thumb": "https://yt3.ggpht.com/Lx0d55mPtYcBtRL9EkvtT2HOAZLLpk2-FrRmyajJuf4NVwWH5Qm5pw0GcPGCqGAfwOKWZBgJ9A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 35.98,
+  "sources": [
+    {
+      "id": "channel:UCh0Ob3N4miyi773toqSYj-A",
+      "type": "channel",
+      "label": "HISTORY TV18",
+      "url": "https://www.youtube.com/channel/UCh0Ob3N4miyi773toqSYj-A",
+      "firstSeenAt": "2026-09-08T11:16:08.726Z"
+    },
+    {
+      "id": "channel:UCwVbHnywQAv6NtmVjMMF-lg",
+      "type": "channel",
+      "label": "FYI TV18.",
+      "url": "https://www.youtube.com/channel/UCwVbHnywQAv6NtmVjMMF-lg",
+      "firstSeenAt": "2026-10-26T12:57:04.304Z"
+    }
+  ],
+  "recentItems": []
+}

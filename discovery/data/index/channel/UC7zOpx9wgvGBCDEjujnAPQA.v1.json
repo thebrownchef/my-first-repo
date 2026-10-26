@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC7zOpx9wgvGBCDEjujnAPQA",
   "title": "BigSeanVEVO",
   "thumb": "https://yt3.ggpht.com/kFu24sB63_HpwV8zDvHMQafJA5-5sZ9vx-CvqBhmrhsFo4kqRyXIDH9tA16sP85ZY7MrvMl5yA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "TheJuicyJVEVO",
       "url": "https://www.youtube.com/channel/UCqeu4irsmkYm5ZeVOg9_ieQ",
       "firstSeenAt": "2026-10-25T11:22:17.195Z"
+    },
+    {
+      "id": "wiki:Fire (Big Sean song)",
+      "type": "wikipedia",
+      "label": "Fire (Big Sean song)",
+      "url": "https://en.wikipedia.org/wiki/Fire_(Big_Sean_song)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Beware (Big Sean song)",
+      "type": "wikipedia",
+      "label": "Beware (Big Sean song)",
+      "url": "https://en.wikipedia.org/wiki/Beware_(Big_Sean_song)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCUPvo-jwM02Fp-vigFEiG2A",
   "title": "LimpBizkitVEVO",
   "thumb": "https://yt3.ggpht.com/3sNwGkXaHWJNTq_gzrr2XGChzjeI8nJCLQSoC4GlW6P5U8PULB64c1PHy96kyg1HFEcRnaj0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "KornVEVO",
       "url": "https://www.youtube.com/channel/UCTGbDM6lZnKFctFA5GOU0Kg",
       "firstSeenAt": "2026-10-04T12:18:58.955Z"
+    },
+    {
+      "id": "wiki:Ready to Go (Limp Bizkit song)",
+      "type": "wikipedia",
+      "label": "Ready to Go (Limp Bizkit song)",
+      "url": "https://en.wikipedia.org/wiki/Ready_to_Go_(Limp_Bizkit_song)",
+      "firstSeenAt": "2026-10-26T12:56:39.133Z"
     }
   ],
   "recentItems": []

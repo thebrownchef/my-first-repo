@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCzGrGrvf9g8CVVzh_LvGf-g",
   "title": "NirvanaVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nEzankJ2oekN31HOpZjk5u-eEyCyLcxEjvL1bWrYjyv5M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -64,6 +64,20 @@
       "label": "SoundgardenVEVO",
       "url": "https://www.youtube.com/channel/UCTSuGVPcfBRSZSdP3xQASqg",
       "firstSeenAt": "2026-10-18T11:01:15.878Z"
+    },
+    {
+      "id": "wiki:Heart-Shaped Box",
+      "type": "wikipedia",
+      "label": "Heart-Shaped Box",
+      "url": "https://en.wikipedia.org/wiki/Heart-Shaped_Box",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Lithium (Nirvana song)",
+      "type": "wikipedia",
+      "label": "Lithium (Nirvana song)",
+      "url": "https://en.wikipedia.org/wiki/Lithium_(Nirvana_song)",
+      "firstSeenAt": "2026-10-26T12:56:39.133Z"
     }
   ],
   "recentItems": []

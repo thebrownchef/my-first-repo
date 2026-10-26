@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCnsQjCVzmEd-YvlQZbo6zCg",
   "title": "2NE1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lwXHGkKYaKPhLyktT2heO_iTUNmNRxj7j37l6zfpf1u2Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 2,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -57,6 +57,34 @@
       "label": "Do You Love Me (2NE1 song)",
       "url": "https://en.wikipedia.org/wiki/Do_You_Love_Me_(2NE1_song)",
       "firstSeenAt": "2026-10-25T11:22:08.238Z"
+    },
+    {
+      "id": "wiki:Can't Nobody (2NE1 song)",
+      "type": "wikipedia",
+      "label": "Can't Nobody (2NE1 song)",
+      "url": "https://en.wikipedia.org/wiki/Can't_Nobody_(2NE1_song)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Clap Your Hands (2NE1 song)",
+      "type": "wikipedia",
+      "label": "Clap Your Hands (2NE1 song)",
+      "url": "https://en.wikipedia.org/wiki/Clap_Your_Hands_(2NE1_song)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Go Away (2NE1 song)",
+      "type": "wikipedia",
+      "label": "Go Away (2NE1 song)",
+      "url": "https://en.wikipedia.org/wiki/Go_Away_(2NE1_song)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:It Hurts (Slow)",
+      "type": "wikipedia",
+      "label": "It Hurts (Slow)",
+      "url": "https://en.wikipedia.org/wiki/It_Hurts_(Slow)",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

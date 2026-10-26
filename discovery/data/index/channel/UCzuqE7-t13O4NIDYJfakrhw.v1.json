@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCzuqE7-t13O4NIDYJfakrhw",
   "title": "Democracy Now!",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k13evyGyej3TcaRYOEUzR4OSYdCEHnHeQipbK0lJZOs5o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.66,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sepideh Farsi",
       "url": "https://en.wikipedia.org/wiki/Sepideh_Farsi",
       "firstSeenAt": "2026-09-02T11:15:15.308Z"
+    },
+    {
+      "id": "wiki:Nâzım Hikmet",
+      "type": "wikipedia",
+      "label": "Nâzım Hikmet",
+      "url": "https://en.wikipedia.org/wiki/N%C3%A2z%C4%B1m_Hikmet",
+      "firstSeenAt": "2026-10-26T12:56:39.133Z"
     }
   ],
   "recentItems": []

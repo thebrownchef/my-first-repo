@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCIBaDdAbGlFDeS33shmlD0A",
   "title": "European Space Agency, ESA",
   "thumb": "https://yt3.ggpht.com/pvp0P35jE_uZ8mf4b0ihGj0xJVId7-457KtfsNJnO9mE14OqNJMqbTcBYbLaAGwjBSjI055x=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.71,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "VideoFromSpace",
       "url": "https://www.youtube.com/channel/UCVTomc35agH1SM6kCKzwW_g",
       "firstSeenAt": "2026-10-22T11:48:01.125Z"
+    },
+    {
+      "id": "wiki:Intermediate eXperimental Vehicle",
+      "type": "wikipedia",
+      "label": "Intermediate eXperimental Vehicle",
+      "url": "https://en.wikipedia.org/wiki/Intermediate_eXperimental_Vehicle",
+      "firstSeenAt": "2026-10-26T12:56:37.390Z"
     }
   ],
   "recentItems": []

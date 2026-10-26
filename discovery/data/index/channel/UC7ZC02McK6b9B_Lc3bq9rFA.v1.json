@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UC7ZC02McK6b9B_Lc3bq9rFA",
   "title": "JenniVartiainen",
   "thumb": "https://yt3.ggpht.com/2df59FP1yDQbsC27-mHq5zbcJE5PpbhPPZ6-vFJ6Aa7xcom1fxCR5pRrX6YPciuRnEoulWDI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ihmisten edessä (song)",
       "url": "https://en.wikipedia.org/wiki/Ihmisten_edess%C3%A4_(song)",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:Junat ja naiset",
+      "type": "wikipedia",
+      "label": "Junat ja naiset",
+      "url": "https://en.wikipedia.org/wiki/Junat_ja_naiset",
+      "firstSeenAt": "2026-10-26T12:56:36.093Z"
     }
   ],
   "recentItems": []

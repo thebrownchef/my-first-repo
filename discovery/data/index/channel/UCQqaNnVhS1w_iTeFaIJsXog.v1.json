@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCQqaNnVhS1w_iTeFaIJsXog",
   "title": "Channel 4 Comedy",
   "thumb": "https://yt3.ggpht.com/i8At2snbDz7RYQP7goa9Tr0dhsR-xAyjImPa9J31F6ZPbsmMcC38FxveEDnrAl3r0dGS5kmdXUc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.33,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Film4",
       "url": "https://www.youtube.com/channel/UCnmDn3QFyDe4WJ44CsiSiiw",
       "firstSeenAt": "2026-09-18T11:11:11.161Z"
+    },
+    {
+      "id": "channel:UCPRY-0jDlHBuJvhrNLBj6oA",
+      "type": "channel",
+      "label": "chattymanc4",
+      "url": "https://www.youtube.com/channel/UCPRY-0jDlHBuJvhrNLBj6oA",
+      "firstSeenAt": "2026-10-26T12:56:50.910Z"
     }
   ],
   "recentItems": []

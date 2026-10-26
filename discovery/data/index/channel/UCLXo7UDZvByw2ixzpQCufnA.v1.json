@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCLXo7UDZvByw2ixzpQCufnA",
   "title": "Vox",
   "thumb": "https://yt3.ggpht.com/iak9xjDjDoQHn9UNWSvkobPuxAzK1ApefjPH7HGObwo71AbaiEqdafMjmUJCgOoBFWNKPS2t2eI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.52,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "BBC Ideas",
       "url": "https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg",
       "firstSeenAt": "2026-09-25T11:48:19.372Z"
+    },
+    {
+      "id": "channel:UC03JkcIx6jNK5IviHK6dT2A",
+      "type": "channel",
+      "label": "LibertyInOurTime",
+      "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
+      "firstSeenAt": "2026-10-26T12:57:00.816Z"
     }
   ],
   "recentItems": []

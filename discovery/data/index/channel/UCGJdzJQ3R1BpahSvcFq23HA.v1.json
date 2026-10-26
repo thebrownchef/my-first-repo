@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:23:24.362Z",
+  "generatedAt": "2026-10-26T12:58:15.186Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "MMG",
       "url": "https://www.youtube.com/channel/UCZ4lL740aLgbW9-bbfK1diA",
       "firstSeenAt": "2026-10-24T10:55:03.282Z"
+    },
+    {
+      "id": "channel:UCpmD3iT-8TQzRuygIiS9bAw",
+      "type": "channel",
+      "label": "Conor Maynard",
+      "url": "https://www.youtube.com/channel/UCpmD3iT-8TQzRuygIiS9bAw",
+      "firstSeenAt": "2026-10-26T12:56:58.825Z"
     }
   ],
   "recentItems": []
