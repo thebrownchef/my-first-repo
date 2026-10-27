@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCrZ0y934oVlOZkJaQDD19dQ",
   "title": "B2Ment",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l7sPM01N7si_URuA6mW6QEOTQvCRkhESyYLNN8QdBXPA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Kim Kyu-jong discography",
       "url": "https://en.wikipedia.org/wiki/Kim_Kyu-jong_discography",
       "firstSeenAt": "2026-10-24T10:54:49.720Z"
+    },
+    {
+      "id": "wiki:Monochrome (Lee Hyori album)",
+      "type": "wikipedia",
+      "label": "Monochrome (Lee Hyori album)",
+      "url": "https://en.wikipedia.org/wiki/Monochrome_(Lee_Hyori_album)",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
     }
   ],
   "recentItems": []

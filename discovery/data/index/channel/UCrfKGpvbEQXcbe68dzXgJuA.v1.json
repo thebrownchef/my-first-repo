@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCrfKGpvbEQXcbe68dzXgJuA",
   "title": "Forgotten Weapons",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mIW03OQQgHpn-qTwn2hjwhDEf22q41reXpvfYs0hkDPSo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.82,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Krummlauf",
       "url": "https://en.wikipedia.org/wiki/Krummlauf",
       "firstSeenAt": "2026-08-30T11:52:30.517Z"
+    },
+    {
+      "id": "wiki:Leader Dynamics Series T2 MK5",
+      "type": "wikipedia",
+      "label": "Leader Dynamics Series T2 MK5",
+      "url": "https://en.wikipedia.org/wiki/Leader_Dynamics_Series_T2_MK5",
+      "firstSeenAt": "2026-10-27T12:06:51.025Z"
     }
   ],
   "recentItems": []

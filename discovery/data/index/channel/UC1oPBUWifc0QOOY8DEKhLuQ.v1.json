@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UC1oPBUWifc0QOOY8DEKhLuQ",
   "title": "avex",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLFKt5mP2Y88rd28rdk4oTwUZkQYAfjxAdIXKhFuxDU1c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 2.26,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Shortcake (Yuki Kashiwagi song)",
       "url": "https://en.wikipedia.org/wiki/Shortcake_(Yuki_Kashiwagi_song)",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:Tail of Hope",
+      "type": "wikipedia",
+      "label": "Tail of Hope",
+      "url": "https://en.wikipedia.org/wiki/Tail_of_Hope",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
     }
   ],
   "recentItems": []

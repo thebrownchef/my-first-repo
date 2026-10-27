@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCgwv23FVv3lqh567yagXfNg",
   "title": "DisneyMusicVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvNHhhb5UzdKLCer4xytxAB8bki4wJ5Kxr7oRanaGZsbU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.57,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Frankenweenie (soundtrack)",
       "url": "https://en.wikipedia.org/wiki/Frankenweenie_(soundtrack)",
       "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "wiki:Lemonade Mouth (film)",
+      "type": "wikipedia",
+      "label": "Lemonade Mouth (film)",
+      "url": "https://en.wikipedia.org/wiki/Lemonade_Mouth_(film)",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
     }
   ],
   "recentItems": []

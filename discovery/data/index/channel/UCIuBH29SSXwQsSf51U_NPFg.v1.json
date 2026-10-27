@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCIuBH29SSXwQsSf51U_NPFg",
   "title": "Ghetto Youths International",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k0AuT_t282FzUDyXq_N8LrmI8Lc1HB8iE2BZGfbC1V9tU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Julian Marley",
       "url": "https://www.youtube.com/channel/UC9JOSz9RW2J9VAviYXnA12w",
       "firstSeenAt": "2026-10-26T12:57:05.066Z"
+    },
+    {
+      "id": "channel:UCV0TnBGv6txr79Oiwtmsm-g",
+      "type": "channel",
+      "label": "Damian Marley",
+      "url": "https://www.youtube.com/channel/UCV0TnBGv6txr79Oiwtmsm-g",
+      "firstSeenAt": "2026-10-27T12:07:18.736Z"
     }
   ],
   "recentItems": []

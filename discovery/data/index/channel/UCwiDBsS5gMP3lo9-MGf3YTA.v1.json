@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCwiDBsS5gMP3lo9-MGf3YTA",
   "title": "MelanieBVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mtjf-YljVbgemoUQy_maGLSkfov4_FaYWlCTBsSFY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Feels So Good (Mel B song)",
       "url": "https://en.wikipedia.org/wiki/Feels_So_Good_(Mel_B_song)",
       "firstSeenAt": "2026-10-16T11:19:26.089Z"
+    },
+    {
+      "id": "wiki:For Once in My Life (Mel B song)",
+      "type": "wikipedia",
+      "label": "For Once in My Life (Mel B song)",
+      "url": "https://en.wikipedia.org/wiki/For_Once_in_My_Life_(Mel_B_song)",
+      "firstSeenAt": "2026-10-27T12:06:52.925Z"
     }
   ],
   "recentItems": []

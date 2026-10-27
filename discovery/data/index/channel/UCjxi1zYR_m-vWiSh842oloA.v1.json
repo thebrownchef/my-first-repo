@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCjxi1zYR_m-vWiSh842oloA",
   "title": "Emarsee",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mTNGL0XKXjQUB4NM_4vlMhn2T4i0nqIwuALfhOcr0TMw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Susquehanna's Television Archive",
       "url": "https://www.youtube.com/channel/UClWrE8PqCobjKfKqTYynj4g",
       "firstSeenAt": "2026-10-21T11:45:14.568Z"
+    },
+    {
+      "id": "channel:UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "type": "channel",
+      "label": "Archiva",
+      "url": "https://www.youtube.com/channel/UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "firstSeenAt": "2026-10-27T12:07:20.144Z"
     }
   ],
   "recentItems": []

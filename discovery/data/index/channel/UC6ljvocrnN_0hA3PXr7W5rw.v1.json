@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UC6ljvocrnN_0hA3PXr7W5rw",
   "title": "ThirtySecondsToMarsVEVO",
   "thumb": "https://yt3.ggpht.com/cPykTn6HtmBwtLB8Hf1qmNcCO9O_Oow6xAzbmjXNHhLHKZ6XhBLDANQMRIfjAusaYN21dslVKw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Conquistador (Thirty Seconds to Mars song)",
       "url": "https://en.wikipedia.org/wiki/Conquistador_(Thirty_Seconds_to_Mars_song)",
       "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:City of Angels (Thirty Seconds to Mars song)",
+      "type": "wikipedia",
+      "label": "City of Angels (Thirty Seconds to Mars song)",
+      "url": "https://en.wikipedia.org/wiki/City_of_Angels_(Thirty_Seconds_to_Mars_song)",
+      "firstSeenAt": "2026-10-27T12:06:52.925Z"
     }
   ],
   "recentItems": []

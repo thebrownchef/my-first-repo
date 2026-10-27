@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCbW18JZRgko_mOGm5er8Yzg",
   "title": "OneDirectionVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBZumWLg8HqCIAD4oHGTIIdD8DTz5eV_DgCXFu6KxNjj28=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Gotta Be You (One Direction song)",
       "url": "https://en.wikipedia.org/wiki/Gotta_Be_You_(One_Direction_song)",
       "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    },
+    {
+      "id": "wiki:What Makes You Beautiful",
+      "type": "wikipedia",
+      "label": "What Makes You Beautiful",
+      "url": "https://en.wikipedia.org/wiki/What_Makes_You_Beautiful",
+      "firstSeenAt": "2026-10-27T12:06:51.025Z"
     }
   ],
   "recentItems": []

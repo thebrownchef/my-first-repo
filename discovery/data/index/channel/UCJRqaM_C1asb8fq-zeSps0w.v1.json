@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCJRqaM_C1asb8fq-zeSps0w",
   "title": "TheNeighbourhoodVEVO",
   "thumb": "https://yt3.ggpht.com/fT0cWeffNCTBbA1BACjWP8qm-s6lTjTAbT2PewqpXuvhBMHlpv63IQUiony-dR_maJiHZ7DRHQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sweater Weather",
       "url": "https://en.wikipedia.org/wiki/Sweater_Weather",
       "firstSeenAt": "2026-10-23T11:34:40.282Z"
+    },
+    {
+      "id": "wiki:Afraid (The Neighbourhood song)",
+      "type": "wikipedia",
+      "label": "Afraid (The Neighbourhood song)",
+      "url": "https://en.wikipedia.org/wiki/Afraid_(The_Neighbourhood_song)",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
     }
   ],
   "recentItems": []

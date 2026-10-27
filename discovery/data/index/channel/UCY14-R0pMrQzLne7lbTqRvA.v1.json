@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -127,6 +127,27 @@
       "label": "littlemixVEVO",
       "url": "https://www.youtube.com/channel/UCssD3_aDYhaG44mwP53CO0w",
       "firstSeenAt": "2026-10-23T11:34:56.602Z"
+    },
+    {
+      "id": "channel:UCDgEglMcFTNpDbGEeQcummw",
+      "type": "channel",
+      "label": "ChvrchesVEVO",
+      "url": "https://www.youtube.com/channel/UCDgEglMcFTNpDbGEeQcummw",
+      "firstSeenAt": "2026-10-27T12:07:10.556Z"
+    },
+    {
+      "id": "channel:UCKlrn_i8L8F8gTilhc2kmEQ",
+      "type": "channel",
+      "label": "DizzeeRascalVEVO",
+      "url": "https://www.youtube.com/channel/UCKlrn_i8L8F8gTilhc2kmEQ",
+      "firstSeenAt": "2026-10-27T12:07:12.170Z"
+    },
+    {
+      "id": "channel:UCAK_sTVIqtJrcf6yMwtuy2Q",
+      "type": "channel",
+      "label": "FoxesVEVO",
+      "url": "https://www.youtube.com/channel/UCAK_sTVIqtJrcf6yMwtuy2Q",
+      "firstSeenAt": "2026-10-27T12:07:16.403Z"
     }
   ],
   "recentItems": [

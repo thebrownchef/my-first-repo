@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UC6KEU5-KSTszEOOnAl8ZwPQ",
   "title": "KING RECORDS",
   "thumb": "https://yt3.ggpht.com/pkMC5Ryn7pgWln4rUVEaaxe6PdhOt5CioZhVmzlMo3WXOd0EtT9NK6FCNjFDGuuJ8k17gNOM6w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.57,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "King Records (Japan)",
       "url": "https://en.wikipedia.org/wiki/King_Records_(Japan)",
       "firstSeenAt": "2026-10-23T11:34:38.099Z"
+    },
+    {
+      "id": "wiki:Time Machine Nante Iranai",
+      "type": "wikipedia",
+      "label": "Time Machine Nante Iranai",
+      "url": "https://en.wikipedia.org/wiki/Time_Machine_Nante_Iranai",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
     }
   ],
   "recentItems": []

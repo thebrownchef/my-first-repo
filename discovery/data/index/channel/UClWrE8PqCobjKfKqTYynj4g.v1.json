@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UClWrE8PqCobjKfKqTYynj4g",
   "title": "Susquehanna's Television Archive",
   "thumb": "https://yt3.ggpht.com/AyZau4Knhs6cx8U5q7Xnim4vF7vFznyNY8nBru83OvR_K0yT7b0-iSpMN6b5q63k8_YXhbVB2A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Susquehanna - EAS and More",
       "url": "https://www.youtube.com/channel/UCq9MZ1_vPM6gQMLSj2JvEcQ",
       "firstSeenAt": "2026-10-21T11:45:14.466Z"
+    },
+    {
+      "id": "channel:UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "type": "channel",
+      "label": "Archiva",
+      "url": "https://www.youtube.com/channel/UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "firstSeenAt": "2026-10-27T12:07:20.147Z"
     }
   ],
   "recentItems": []

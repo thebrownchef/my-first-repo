@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "id": "UCG6qdGwl4IOfi4RlYL3cFPw",
+  "title": "Wonderly",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kZWRTl6AqSnAQSz1V3NXNt0dUt3ZdnKpYXFvCTmhufnQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "channel:UCXhqBz0Zxpj7372XDWcTvLA",
+      "type": "channel",
+      "label": "Squaresville",
+      "url": "https://www.youtube.com/channel/UCXhqBz0Zxpj7372XDWcTvLA",
+      "firstSeenAt": "2026-10-21T11:45:02.445Z"
+    },
+    {
+      "id": "wiki:Edge of Normal",
+      "type": "wikipedia",
+      "label": "Edge of Normal",
+      "url": "https://en.wikipedia.org/wiki/Edge_of_Normal",
+      "firstSeenAt": "2026-10-27T12:06:51.301Z"
+    }
+  ],
+  "recentItems": []
+}

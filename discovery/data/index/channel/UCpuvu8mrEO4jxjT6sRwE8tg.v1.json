@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCpuvu8mrEO4jxjT6sRwE8tg",
   "title": "B.o.B",
   "thumb": "https://yt3.ggpht.com/Sn2wNKD9Wncs3MiYtfcgnqqB756DznX-Zv5PorzHMf23cMCi6jGUX1cVfAyZpsW7zQL_wgMo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "We Still in This Bitch",
       "url": "https://en.wikipedia.org/wiki/We_Still_in_This_Bitch",
       "firstSeenAt": "2026-10-25T11:22:05.903Z"
+    },
+    {
+      "id": "wiki:Ready (B.o.B song)",
+      "type": "wikipedia",
+      "label": "Ready (B.o.B song)",
+      "url": "https://en.wikipedia.org/wiki/Ready_(B.o.B_song)",
+      "firstSeenAt": "2026-10-27T12:06:52.925Z"
     }
   ],
   "recentItems": []

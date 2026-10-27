@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UC90vR_MFeheV3V6nmjvXIng",
   "title": "DepecheModeVEVO",
   "thumb": "https://yt3.ggpht.com/BaZBaDbMmP2f0FY0CP0ilcaO08sNmlGmoNpOvoQShSBd8u-z7t4qCGkqBJHIjnOyBs7x6qamKt0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Soothe My Soul",
       "url": "https://en.wikipedia.org/wiki/Soothe_My_Soul",
       "firstSeenAt": "2026-10-22T11:47:47.034Z"
+    },
+    {
+      "id": "wiki:Should Be Higher",
+      "type": "wikipedia",
+      "label": "Should Be Higher",
+      "url": "https://en.wikipedia.org/wiki/Should_Be_Higher",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
+    },
+    {
+      "id": "wiki:Suffer Well",
+      "type": "wikipedia",
+      "label": "Suffer Well",
+      "url": "https://en.wikipedia.org/wiki/Suffer_Well",
+      "firstSeenAt": "2026-10-27T12:06:52.924Z"
     }
   ],
   "recentItems": []

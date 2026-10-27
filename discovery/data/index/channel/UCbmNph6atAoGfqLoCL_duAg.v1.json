@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Bruce Schneier",
       "url": "https://en.wikipedia.org/wiki/Bruce_Schneier",
       "firstSeenAt": "2026-10-25T11:22:08.238Z"
+    },
+    {
+      "id": "wiki:Pandora's Promise",
+      "type": "wikipedia",
+      "label": "Pandora's Promise",
+      "url": "https://en.wikipedia.org/wiki/Pandora's_Promise",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
     }
   ],
   "recentItems": []

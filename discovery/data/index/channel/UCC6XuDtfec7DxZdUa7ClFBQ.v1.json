@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCC6XuDtfec7DxZdUa7ClFBQ",
   "title": "AvrilLavigneVEVO",
   "thumb": "https://yt3.ggpht.com/o4u-Su2zOrLmPhxLJgbv0U210sPb1DjBbvoKRU6ilU1hieKyaVBMmnRY7MVBiNhsgu6gggIlc5E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -85,6 +85,27 @@
       "label": "What the Hell",
       "url": "https://en.wikipedia.org/wiki/What_the_Hell",
       "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    },
+    {
+      "id": "wiki:Here's to Never Growing Up",
+      "type": "wikipedia",
+      "label": "Here's to Never Growing Up",
+      "url": "https://en.wikipedia.org/wiki/Here's_to_Never_Growing_Up",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
+    },
+    {
+      "id": "wiki:I'm with You (Avril Lavigne song)",
+      "type": "wikipedia",
+      "label": "I'm with You (Avril Lavigne song)",
+      "url": "https://en.wikipedia.org/wiki/I'm_with_You_(Avril_Lavigne_song)",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:Rock n Roll (Avril Lavigne song)",
+      "type": "wikipedia",
+      "label": "Rock n Roll (Avril Lavigne song)",
+      "url": "https://en.wikipedia.org/wiki/Rock_n_Roll_(Avril_Lavigne_song)",
+      "firstSeenAt": "2026-10-27T12:06:52.925Z"
     }
   ],
   "recentItems": []

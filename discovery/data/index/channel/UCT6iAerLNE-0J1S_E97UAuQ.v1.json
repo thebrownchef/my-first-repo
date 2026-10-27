@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCT6iAerLNE-0J1S_E97UAuQ",
   "title": "YongYea",
   "thumb": "https://yt3.ggpht.com/OZgy9IczIOHPocqw3bZ3TWcpV22Cf_0ZRzJeztV1MG8QmYrGEnM5Dzq6V4093GtVwfiuZuPf=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.81,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.746Z"
+    },
+    {
+      "id": "channel:UCHKTdgxwWLrjSAW6-qKvJVg",
+      "type": "channel",
+      "label": "Ruin",
+      "url": "https://www.youtube.com/channel/UCHKTdgxwWLrjSAW6-qKvJVg",
+      "firstSeenAt": "2026-10-27T12:07:19.082Z"
+    },
+    {
+      "id": "channel:UCdoGgnZ4A3Pe3ogaJe1EtzQ",
+      "type": "channel",
+      "label": "YongPlays",
+      "url": "https://www.youtube.com/channel/UCdoGgnZ4A3Pe3ogaJe1EtzQ",
+      "firstSeenAt": "2026-10-27T12:07:19.132Z"
     }
   ],
   "recentItems": []

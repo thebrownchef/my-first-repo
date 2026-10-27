@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCjB3CzA-MwHrDzuXGweNiMg",
   "title": "TheKillersVEVO",
   "thumb": "https://yt3.ggpht.com/rNQz_e_0TaX5nIR2815xJVxiPTD-LHS3horyD2q2B6-WNMpXCLYrd6dQIAdiunLOoi9SFuWTtZE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Here with Me (The Killers song)",
       "url": "https://en.wikipedia.org/wiki/Here_with_Me_(The_Killers_song)",
       "firstSeenAt": "2026-10-21T11:44:42.678Z"
+    },
+    {
+      "id": "wiki:Shot at the Night",
+      "type": "wikipedia",
+      "label": "Shot at the Night",
+      "url": "https://en.wikipedia.org/wiki/Shot_at_the_Night",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
     }
   ],
   "recentItems": []

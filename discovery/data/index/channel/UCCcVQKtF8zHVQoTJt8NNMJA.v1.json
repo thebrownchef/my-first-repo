@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 32,
-  "distinctSourceCount": 32,
+  "score": 35,
+  "distinctSourceCount": 35,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -232,6 +232,27 @@
       "label": "Family (The Secret Circle)",
       "url": "https://en.wikipedia.org/wiki/Family_(The_Secret_Circle)",
       "firstSeenAt": "2026-10-24T10:54:53.695Z"
+    },
+    {
+      "id": "wiki:I Know What You Did Last Summer (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "I Know What You Did Last Summer (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-27T12:06:51.025Z"
+    },
+    {
+      "id": "wiki:True Lies (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "True Lies (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/True_Lies_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:Original Sin (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Original Sin (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Original_Sin_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-27T12:06:52.924Z"
     }
   ],
   "recentItems": [

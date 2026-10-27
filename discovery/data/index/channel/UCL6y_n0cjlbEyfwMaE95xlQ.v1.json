@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCL6y_n0cjlbEyfwMaE95xlQ",
   "title": "Eliza Doolittle",
   "thumb": "https://yt3.ggpht.com/_Pjq6T9vMcwFPQNi-q-_VrTQ7ZhSXfU9OaRtLHGp3-JmojtBtrByXbNccx-an8UN8Z3FJvkyiQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Big When I Was Little",
       "url": "https://en.wikipedia.org/wiki/Big_When_I_Was_Little",
       "firstSeenAt": "2026-10-24T10:54:52.442Z"
+    },
+    {
+      "id": "wiki:Let It Rain (Eliza Doolittle song)",
+      "type": "wikipedia",
+      "label": "Let It Rain (Eliza Doolittle song)",
+      "url": "https://en.wikipedia.org/wiki/Let_It_Rain_(Eliza_Doolittle_song)",
+      "firstSeenAt": "2026-10-27T12:06:52.925Z"
     }
   ],
   "recentItems": []

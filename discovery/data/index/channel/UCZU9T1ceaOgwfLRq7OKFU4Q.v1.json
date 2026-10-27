@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCZU9T1ceaOgwfLRq7OKFU4Q",
   "title": "Linkin Park",
   "thumb": "https://yt3.ggpht.com/OtUf050j6w6iRPUmGgmzblD2saluxUusxiVmo0-SMUnWiNKwR89JL_-xJ6JvIEram8UbPT_zDA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 2,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "A Light That Never Comes",
       "url": "https://en.wikipedia.org/wiki/A_Light_That_Never_Comes",
       "firstSeenAt": "2026-10-26T12:56:39.133Z"
+    },
+    {
+      "id": "wiki:Breaking the Habit (song)",
+      "type": "wikipedia",
+      "label": "Breaking the Habit (song)",
+      "url": "https://en.wikipedia.org/wiki/Breaking_the_Habit_(song)",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
     }
   ],
   "recentItems": [

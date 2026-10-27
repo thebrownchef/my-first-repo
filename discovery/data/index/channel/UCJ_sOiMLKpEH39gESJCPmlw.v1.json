@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCJ_sOiMLKpEH39gESJCPmlw",
   "title": "9MUSES 나인뮤지스",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_na400JwdKQlhaiF9i4RK0hMLlsM70GFRPNtDHBfxFl9A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "jewelry0127",
       "url": "https://www.youtube.com/channel/UCbUprAQrminyRhZ6kkyBf5g",
       "firstSeenAt": "2026-10-16T11:19:35.921Z"
+    },
+    {
+      "id": "wiki:Prima Donna (Nine Muses album)",
+      "type": "wikipedia",
+      "label": "Prima Donna (Nine Muses album)",
+      "url": "https://en.wikipedia.org/wiki/Prima_Donna_(Nine_Muses_album)",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCuGdYTMLZUhnEsStVlI_ueA",
   "title": "Susquehanna's Radio Archive",
   "thumb": "https://yt3.ggpht.com/QnLKwECYZ3TNcXW0vO_8rDGt5X-vO7H7meQtQ7v9unrclIe97AzI2aBnW-5ET0Tj1s0IUl4DbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Susquehanna's Television Archive",
       "url": "https://www.youtube.com/channel/UClWrE8PqCobjKfKqTYynj4g",
       "firstSeenAt": "2026-10-21T11:45:14.567Z"
+    },
+    {
+      "id": "channel:UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "type": "channel",
+      "label": "Archiva",
+      "url": "https://www.youtube.com/channel/UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "firstSeenAt": "2026-10-27T12:07:20.152Z"
     }
   ],
   "recentItems": []

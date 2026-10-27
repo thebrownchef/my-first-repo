@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UC4rasfm9J-X4jNl9SvXp8xA",
   "title": "Ultra Records",
   "thumb": "https://yt3.ggpht.com/ljBJgg_2rIQIhglsv5Mg-sWCH3BuRGkoc0EdTNXOAszyapyAzdB5OHVwdFTzVQIo1u3001kjfg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Saifam Music",
       "url": "https://www.youtube.com/channel/UC7e3sjAWgZhPf2LWb387Veg",
       "firstSeenAt": "2026-10-25T11:22:26.993Z"
+    },
+    {
+      "id": "wiki:Playing with My Heart",
+      "type": "wikipedia",
+      "label": "Playing with My Heart",
+      "url": "https://en.wikipedia.org/wiki/Playing_with_My_Heart",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
     }
   ],
   "recentItems": []

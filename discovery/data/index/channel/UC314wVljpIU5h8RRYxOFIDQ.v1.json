@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UC314wVljpIU5h8RRYxOFIDQ",
   "title": "MarkAP",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mOmy8iBL-2lRtPCgpJBwLLKXvmQ2onEl-X8u3mvgEzCg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.61,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "redtekki",
       "url": "https://www.youtube.com/channel/UCAWfIwDL4rhrK9gxKWQSthA",
       "firstSeenAt": "2026-10-21T11:45:14.331Z"
+    },
+    {
+      "id": "channel:UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "type": "channel",
+      "label": "Archiva",
+      "url": "https://www.youtube.com/channel/UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "firstSeenAt": "2026-10-27T12:07:20.151Z"
     }
   ],
   "recentItems": []

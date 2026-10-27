@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCVp3nfGRxmMadNDuVbJSk8A",
   "title": "Wiz Khalifa",
   "thumb": "https://yt3.ggpht.com/LZwX8hX3grUXHDAbNxoMmsCqHUUAmfhKRbAJQbIcuHxdZ6SHVa7rKxZe9nDTVGCl8vxzj5zWkw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "MMG",
       "url": "https://www.youtube.com/channel/UCZ4lL740aLgbW9-bbfK1diA",
       "firstSeenAt": "2026-10-24T10:55:03.283Z"
+    },
+    {
+      "id": "wiki:Black and Yellow",
+      "type": "wikipedia",
+      "label": "Black and Yellow",
+      "url": "https://en.wikipedia.org/wiki/Black_and_Yellow",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
     }
   ],
   "recentItems": []

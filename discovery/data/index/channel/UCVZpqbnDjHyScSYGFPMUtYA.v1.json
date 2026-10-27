@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCVZpqbnDjHyScSYGFPMUtYA",
   "title": "Skating ISU",
   "thumb": "https://yt3.ggpht.com/CB9bi46WkzAzMTEnVhb84O3spqdvhLsneRIKRiEDSr1XgbQ9qXbxXf5k5uVmfXgJ0pewGesy=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 2.83,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "ISU Junior Grand Prix",
       "url": "https://www.youtube.com/channel/UCbv3gsBXzIwotCt2JGySfJA",
       "firstSeenAt": "2026-09-09T11:19:55.106Z"
+    },
+    {
+      "id": "channel:UC1h64oKbEku4ORjYnJGiGJw",
+      "type": "channel",
+      "label": "ISU Development Projects",
+      "url": "https://www.youtube.com/channel/UC1h64oKbEku4ORjYnJGiGJw",
+      "firstSeenAt": "2026-10-27T12:07:19.474Z"
     }
   ],
   "recentItems": []

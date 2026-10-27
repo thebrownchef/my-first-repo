@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCIGasZ-qHHDunXlqbhZMhZg",
   "title": "Geri Halliwell",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m4VIxR4uVNPyhfi7m9iFuFVb-VwS6eGSnMjwfdJT4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Ride It (Geri Halliwell song)",
       "url": "https://en.wikipedia.org/wiki/Ride_It_(Geri_Halliwell_song)",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:Half of Me (Geri Halliwell song)",
+      "type": "wikipedia",
+      "label": "Half of Me (Geri Halliwell song)",
+      "url": "https://en.wikipedia.org/wiki/Half_of_Me_(Geri_Halliwell_song)",
+      "firstSeenAt": "2026-10-27T12:06:52.925Z"
     }
   ],
   "recentItems": []

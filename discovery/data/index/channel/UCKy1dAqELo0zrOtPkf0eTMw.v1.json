@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCKy1dAqELo0zrOtPkf0eTMw",
   "title": "IGN",
   "thumb": "https://yt3.ggpht.com/4jRpju9vRtgoIA6SxuIomVcCmjub6ydA1TzGRHts853ZzxRITi41gxP50jTuGBdUlvAgehZJK8Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 25.18,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Killer Instinct (2013 video game)",
       "url": "https://en.wikipedia.org/wiki/Killer_Instinct_(2013_video_game)",
       "firstSeenAt": "2026-10-25T11:22:05.903Z"
+    },
+    {
+      "id": "wiki:Sonic Lost World",
+      "type": "wikipedia",
+      "label": "Sonic Lost World",
+      "url": "https://en.wikipedia.org/wiki/Sonic_Lost_World",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
     }
   ],
   "recentItems": []

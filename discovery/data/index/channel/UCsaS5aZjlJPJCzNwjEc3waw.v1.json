@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "id": "UCsaS5aZjlJPJCzNwjEc3waw",
+  "title": "Scotland National Team",
+  "thumb": "https://yt3.ggpht.com/2cKj6E5b9QZk0quV727BFjBIpDHeSdivZ9iYlwnK76tU-3SSd91i7Mww6zSURE3hTa1fH88x=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.43,
+  "sources": [
+    {
+      "id": "wiki:Ibane Bowat",
+      "type": "wikipedia",
+      "label": "Ibane Bowat",
+      "url": "https://en.wikipedia.org/wiki/Ibane_Bowat",
+      "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "channel:UClPCjayqAxV1ANqfACWdZqA",
+      "type": "channel",
+      "label": "Scottish Gas Scottish Cup",
+      "url": "https://www.youtube.com/channel/UClPCjayqAxV1ANqfACWdZqA",
+      "firstSeenAt": "2026-10-27T12:07:20.046Z"
+    },
+    {
+      "id": "channel:UChaFW_N-7dndut-HC4Exe-g",
+      "type": "channel",
+      "label": "Scottish FA",
+      "url": "https://www.youtube.com/channel/UChaFW_N-7dndut-HC4Exe-g",
+      "firstSeenAt": "2026-10-27T12:07:20.089Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UClx2ih2Nx8enGmsMsA6C3BQ",
   "title": "CAguileraVEVO",
   "thumb": "https://yt3.ggpht.com/C2TsAUo9xCXFETdU0Uha3zSz3lsd3XE3s6V_K9KNT3LjD8lbxhWcmFe-hE_qvDWmpAeIqBA6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "You Lost Me",
       "url": "https://en.wikipedia.org/wiki/You_Lost_Me",
       "firstSeenAt": "2026-10-26T12:56:37.390Z"
+    },
+    {
+      "id": "wiki:Not Myself Tonight",
+      "type": "wikipedia",
+      "label": "Not Myself Tonight",
+      "url": "https://en.wikipedia.org/wiki/Not_Myself_Tonight",
+      "firstSeenAt": "2026-10-27T12:06:49.119Z"
     }
   ],
   "recentItems": []

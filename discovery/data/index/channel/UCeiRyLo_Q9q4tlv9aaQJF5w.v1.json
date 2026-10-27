@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCeiRyLo_Q9q4tlv9aaQJF5w",
   "title": "The National",
   "thumb": "https://yt3.ggpht.com/Hp6ttOMVzwkcH9lmOl11RZRJXPr88qqgjm9HAHUkfzYnXBSMkzpM8HzyjG-hvX-mtx9BXEQt=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Daughter",
       "url": "https://www.youtube.com/channel/UCHcgFneOU0qvJZB_Sh8wgFw",
       "firstSeenAt": "2026-10-26T12:57:02.729Z"
+    },
+    {
+      "id": "wiki:Zvuki Mu",
+      "type": "wikipedia",
+      "label": "Zvuki Mu",
+      "url": "https://en.wikipedia.org/wiki/Zvuki_Mu",
+      "firstSeenAt": "2026-10-27T12:06:52.925Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "id": "UCelk6aHijZq-GJBBB9YpReA",
+  "title": "BBC News عربي",
+  "thumb": "https://yt3.ggpht.com/lNnHQPUKQCFpFV2bIMEfexakkowja2RCVOsRRV8eOCFslwk_a4tRR5oNwg_S67J9zyYP_wAw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 7.94,
+  "sources": [
+    {
+      "id": "wiki:2011 Egyptian constitutional referendum",
+      "type": "wikipedia",
+      "label": "2011 Egyptian constitutional referendum",
+      "url": "https://en.wikipedia.org/wiki/2011_Egyptian_constitutional_referendum",
+      "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "channel:UCUBIrDsIVzRpKsClMlSlTpQ",
+      "type": "channel",
+      "label": "BBC News Mundo",
+      "url": "https://www.youtube.com/channel/UCUBIrDsIVzRpKsClMlSlTpQ",
+      "firstSeenAt": "2026-10-27T12:07:19.711Z"
+    }
+  ],
+  "recentItems": []
+}

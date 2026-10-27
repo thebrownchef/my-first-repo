@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCt-N6BZ25OHGoWHzfvlPhOg",
   "title": "GoogleTalksArchive",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lNY-d8EjVkeCcYpt7B7dykT9vgwL8a6La3x94lxRE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "DTrace",
       "url": "https://en.wikipedia.org/wiki/DTrace",
       "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    },
+    {
+      "id": "wiki:Newsqueak",
+      "type": "wikipedia",
+      "label": "Newsqueak",
+      "url": "https://en.wikipedia.org/wiki/Newsqueak",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:58:15.186Z",
+  "generatedAt": "2026-10-27T12:08:38.623Z",
   "id": "UCjdAsj4Yaki6FZ3KaXwaQPQ",
   "title": "VHS Central",
   "thumb": "https://yt3.ggpht.com/lG50r_c1aJXjnDcyDjaiRDh4_tKlhoBL45rt6dV2lKegPmwJa2ZqZUyPbFG6q16hbgTg6BsYIg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "redtekki",
       "url": "https://www.youtube.com/channel/UCAWfIwDL4rhrK9gxKWQSthA",
       "firstSeenAt": "2026-10-21T11:45:14.328Z"
+    },
+    {
+      "id": "channel:UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "type": "channel",
+      "label": "Archiva",
+      "url": "https://www.youtube.com/channel/UCwjTxsjsqMQzVSq3o8aqUhQ",
+      "firstSeenAt": "2026-10-27T12:07:20.149Z"
     }
   ],
   "recentItems": []
