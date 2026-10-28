@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCfPk4gam9DDDGnjkWxYR6hg",
   "title": "hirudov",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n2LvQonXavjmKFxD30eG2wSLfZpmpsQUh_NQCnhxTHuYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 6.57,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Renault Caravelle",
       "url": "https://en.wikipedia.org/wiki/Renault_Caravelle",
       "firstSeenAt": "2026-10-27T12:06:52.925Z"
+    },
+    {
+      "id": "wiki:Citroën Berlingo",
+      "type": "wikipedia",
+      "label": "Citroën Berlingo",
+      "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo",
+      "firstSeenAt": "2026-10-28T12:49:23.108Z"
     }
   ],
   "recentItems": []

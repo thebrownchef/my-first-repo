@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCGWpjrgMylyGVRIKQdazrPA",
   "title": "Warner Music Group",
   "thumb": "https://yt3.ggpht.com/1OBJ0pUHIrcm4QslhHeeBSSvLpuQ-ab48hLQbwyn7bNkGKBXVhzdElNQZQagIIJX81SzUF3HkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Conor Maynard",
       "url": "https://www.youtube.com/channel/UCpmD3iT-8TQzRuygIiS9bAw",
       "firstSeenAt": "2026-10-26T12:56:58.823Z"
+    },
+    {
+      "id": "channel:UCKI33Zd-b17rDIcPSv9E_-w",
+      "type": "channel",
+      "label": "SimplePlan",
+      "url": "https://www.youtube.com/channel/UCKI33Zd-b17rDIcPSv9E_-w",
+      "firstSeenAt": "2026-10-28T12:50:02.753Z"
     }
   ],
   "recentItems": []

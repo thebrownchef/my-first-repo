@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "id": "UCF-aJUf_vFcltYdnTCTiuIQ",
+  "title": "crailtap",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mW4zrwGzIZjJdsz_Wzxa34_7Urka823X6htzHmjKjcMA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.16,
+  "sources": [
+    {
+      "id": "channel:UCstG-jFWTqdtCUq_7oStqIQ",
+      "type": "channel",
+      "label": "compazine",
+      "url": "https://www.youtube.com/channel/UCstG-jFWTqdtCUq_7oStqIQ",
+      "firstSeenAt": "2026-09-01T11:37:28.070Z"
+    },
+    {
+      "id": "wiki:Girl Distribution Company",
+      "type": "wikipedia",
+      "label": "Girl Distribution Company",
+      "url": "https://en.wikipedia.org/wiki/Girl_Distribution_Company",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
+    }
+  ],
+  "recentItems": []
+}

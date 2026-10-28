@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UC-7BJPPk_oQGTED1XQA_DTw",
   "title": "VevoDSCVR",
   "thumb": "https://yt3.ggpht.com/QptM65ixZFKTd-FtDVK-4MTnOcoOGNxDWGlw33kK9WOxy-adaJk1WFDCVX8ibNd1bf_QcI3D-I4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.3,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Vevo France",
       "url": "https://www.youtube.com/channel/UC0t9HSnAFStdSrlHs5K7raA",
       "firstSeenAt": "2026-09-27T11:59:17.471Z"
+    },
+    {
+      "id": "channel:UCAJrBz11GOrHOaX9zcsW2gg",
+      "type": "channel",
+      "label": "AMEofficialVEVO",
+      "url": "https://www.youtube.com/channel/UCAJrBz11GOrHOaX9zcsW2gg",
+      "firstSeenAt": "2026-10-28T12:49:53.002Z"
     }
   ],
   "recentItems": []

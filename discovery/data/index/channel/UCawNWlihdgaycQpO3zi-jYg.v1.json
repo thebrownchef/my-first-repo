@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCawNWlihdgaycQpO3zi-jYg",
   "title": "Israel Defense Forces",
   "thumb": "https://yt3.ggpht.com/N213Qz0nmgEBNNWzbFNUp8BFC7C-N4Tc1TGgODnKr35Vq8hbePwMU7uxHRft3Guhzm8ABVv5JA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Typhoon Weapon Station",
       "url": "https://en.wikipedia.org/wiki/Typhoon_Weapon_Station",
       "firstSeenAt": "2026-10-03T11:38:12.815Z"
+    },
+    {
+      "id": "channel:UCsL0SRpJuq7UF6hWIHD5e-g",
+      "type": "channel",
+      "label": "TinkiWinki62",
+      "url": "https://www.youtube.com/channel/UCsL0SRpJuq7UF6hWIHD5e-g",
+      "firstSeenAt": "2026-10-28T12:50:01.442Z"
     }
   ],
   "recentItems": []

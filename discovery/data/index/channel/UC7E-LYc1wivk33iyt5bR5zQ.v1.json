@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UC7E-LYc1wivk33iyt5bR5zQ",
   "title": "Vatican News",
   "thumb": "https://yt3.ggpht.com/bQuLzosJJsDRO5I7Bz04Dq1V_fTdZeelLz9DkINH6nwdzi9qWKjxjZXt8Xv111oLVnbLXIQq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.19,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Francesco Marchisano",
       "url": "https://en.wikipedia.org/wiki/Francesco_Marchisano",
       "firstSeenAt": "2026-10-27T12:06:52.925Z"
+    },
+    {
+      "id": "wiki:Papal inauguration",
+      "type": "wikipedia",
+      "label": "Papal inauguration",
+      "url": "https://en.wikipedia.org/wiki/Papal_inauguration",
+      "firstSeenAt": "2026-10-28T12:49:23.108Z"
     }
   ],
   "recentItems": []

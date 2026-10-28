@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UC2UIXt4VQnhQ-VZM4P1bUMQ",
   "title": "AVROTROS Klassiek",
   "thumb": "https://yt3.ggpht.com/Qd60rd7Afh2zfSFdFiicuUdzV8Rj8tXyyqqSHR45QJEfqUftOvliMvxzLJ1LsE587oYB_QCgYg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Mariam Batsashvili",
       "url": "https://www.youtube.com/channel/UC76sVYdDDZG53-DzPdgmvyA",
       "firstSeenAt": "2026-09-22T11:35:03.357Z"
+    },
+    {
+      "id": "wiki:Concerti grossi, Op. 6 (Handel)",
+      "type": "wikipedia",
+      "label": "Concerti grossi, Op. 6 (Handel)",
+      "url": "https://en.wikipedia.org/wiki/Concerti_grossi%2C_Op._6_(Handel)",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
     }
   ],
   "recentItems": []

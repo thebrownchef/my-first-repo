@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "id": "UCmdVfsLHu18lCkKYXSOGUxg",
+  "title": "中時新聞網",
+  "thumb": "https://yt3.ggpht.com/p2KDr9412K0jrHajCKPr6UBIzXoMmNocqjiRIdAFgSeOmpZ5VDH2I_Bn25R7jRV2ZEjlIBLwNw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 31.01,
+  "sources": [
+    {
+      "id": "wiki:List of shoe-throwing incidents",
+      "type": "wikipedia",
+      "label": "List of shoe-throwing incidents",
+      "url": "https://en.wikipedia.org/wiki/List_of_shoe-throwing_incidents",
+      "firstSeenAt": "2026-10-27T12:06:52.924Z"
+    },
+    {
+      "id": "wiki:Opinion polling for the 2012 Taiwanese presidential election",
+      "type": "wikipedia",
+      "label": "Opinion polling for the 2012 Taiwanese presidential election",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2012_Taiwanese_presidential_election",
+      "firstSeenAt": "2026-10-28T12:49:23.109Z"
+    }
+  ],
+  "recentItems": []
+}

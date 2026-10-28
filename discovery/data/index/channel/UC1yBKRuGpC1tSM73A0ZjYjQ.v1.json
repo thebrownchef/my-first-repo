@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
   "title": "The Young Turks",
   "thumb": "https://yt3.ggpht.com/GaZdiTH19-g6JFMUkh2UzeulwgtnSiz-4fRbgrEW2tSFzFUUyTFFNrPChP5Ens5v5f-JpTybAg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 9.7,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Michael Hastings (journalist)",
       "url": "https://en.wikipedia.org/wiki/Michael_Hastings_(journalist)",
       "firstSeenAt": "2026-10-24T10:54:50.878Z"
+    },
+    {
+      "id": "wiki:Jill Stein 2012 presidential campaign",
+      "type": "wikipedia",
+      "label": "Jill Stein 2012 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/Jill_Stein_2012_presidential_campaign",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
     }
   ],
   "recentItems": []

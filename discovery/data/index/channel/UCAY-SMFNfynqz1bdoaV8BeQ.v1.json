@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "id": "UCAY-SMFNfynqz1bdoaV8BeQ",
+  "title": "NASA Goddard",
+  "thumb": "https://yt3.ggpht.com/EJZ484Y7xcwd36EuhEch1x-nwH5I0YkQ3PSSDCxNOebH4N8zaiQtTI6h3fHAsNfTHiSzJ1uaVWg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.34,
+  "sources": [
+    {
+      "id": "channel:UCLA_DiR1FfKNvjuUpBHmylQ",
+      "type": "channel",
+      "label": "NASA",
+      "url": "https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ",
+      "firstSeenAt": "2026-09-19T10:55:41.160Z"
+    },
+    {
+      "id": "wiki:Nolan Gasser",
+      "type": "wikipedia",
+      "label": "Nolan Gasser",
+      "url": "https://en.wikipedia.org/wiki/Nolan_Gasser",
+      "firstSeenAt": "2026-10-28T12:49:23.108Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCgCIKgvFEyVI_B9b2HSbh8g",
   "title": "officialpsquare",
   "thumb": "https://yt3.ggpht.com/w7iLISI7oEtKnsW26DsQzZ5VXqgkt1kYMZnxxTBJNou3DU-W1CgJBunJzRpg1Ujm2KpS-Cw4Fg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Alingo",
       "url": "https://en.wikipedia.org/wiki/Alingo",
       "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Beautiful Onyinye",
+      "type": "wikipedia",
+      "label": "Beautiful Onyinye",
+      "url": "https://en.wikipedia.org/wiki/Beautiful_Onyinye",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
     }
   ],
   "recentItems": []

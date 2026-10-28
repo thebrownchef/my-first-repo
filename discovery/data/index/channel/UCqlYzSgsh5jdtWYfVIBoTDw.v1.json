@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "id": "UCqlYzSgsh5jdtWYfVIBoTDw",
+  "title": "Fox News Clips",
+  "thumb": "https://yt3.ggpht.com/83hVCF-08k0zkXGLIGAv8Joh9BQq04YfRmjt9Z-sY6dAY5uzEmJZ4EZBI77TNyUpkV5PaEiIMkU=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.75,
+  "sources": [
+    {
+      "id": "channel:UCXIJgqnII2ZOINSWNOGFThA",
+      "type": "channel",
+      "label": "Fox News",
+      "url": "https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA",
+      "firstSeenAt": "2026-08-29T12:40:36.354Z"
+    },
+    {
+      "id": "wiki:Herman Cain 2012 presidential campaign",
+      "type": "wikipedia",
+      "label": "Herman Cain 2012 presidential campaign",
+      "url": "https://en.wikipedia.org/wiki/Herman_Cain_2012_presidential_campaign",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
+    }
+  ],
+  "recentItems": []
+}

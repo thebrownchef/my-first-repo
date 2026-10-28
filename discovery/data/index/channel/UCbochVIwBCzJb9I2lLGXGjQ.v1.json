@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCbochVIwBCzJb9I2lLGXGjQ",
   "title": "Rhett & Link",
   "thumb": "https://yt3.ggpht.com/9nxp2XuopHQ5hBCdUONWlfRCFNIvNlZi4Gknou_ZJESTCoj2BYVW98dbbDf-yFOzSdkEASjE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "BaratsAndBereta",
       "url": "https://www.youtube.com/channel/UCiICWeJJWMYMiITpB_mFBjQ",
       "firstSeenAt": "2026-10-19T13:08:52.176Z"
+    },
+    {
+      "id": "wiki:List of films shown at Butt-Numb-A-Thon",
+      "type": "wikipedia",
+      "label": "List of films shown at Butt-Numb-A-Thon",
+      "url": "https://en.wikipedia.org/wiki/List_of_films_shown_at_Butt-Numb-A-Thon",
+      "firstSeenAt": "2026-10-28T12:49:25.517Z"
     }
   ],
   "recentItems": []

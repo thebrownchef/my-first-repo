@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCyl7zwI6giPG6zC3uC8GGVg",
   "title": "The Cato Institute",
   "thumb": "https://yt3.ggpht.com/ORvW0l9F-Nm6fDl2z0_03D5fzpUSj1wbOD-bRCCLoWW5YAHHM5xr2PpvtX4obbreYZvjXlFnKw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.773Z"
+    },
+    {
+      "id": "channel:UCcCicSfSLjc8AD46Zvo_zYA",
+      "type": "channel",
+      "label": "Libertarian Party",
+      "url": "https://www.youtube.com/channel/UCcCicSfSLjc8AD46Zvo_zYA",
+      "firstSeenAt": "2026-10-28T12:50:00.692Z"
     }
   ],
   "recentItems": []

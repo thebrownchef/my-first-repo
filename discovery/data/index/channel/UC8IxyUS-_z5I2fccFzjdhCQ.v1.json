@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "id": "UC8IxyUS-_z5I2fccFzjdhCQ",
+  "title": "Mike Mo Capaldi",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_loil12DiywOs5jBN4mltk_6d7lO7olUexlzqNnRGpGreo=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.04,
+  "sources": [
+    {
+      "id": "channel:UCaMguPMV2bWOa34vVvVmXNw",
+      "type": "channel",
+      "label": "mikendo",
+      "url": "https://www.youtube.com/channel/UCaMguPMV2bWOa34vVvVmXNw",
+      "firstSeenAt": "2026-09-29T12:49:26.519Z"
+    },
+    {
+      "id": "wiki:The Berrics",
+      "type": "wikipedia",
+      "label": "The Berrics",
+      "url": "https://en.wikipedia.org/wiki/The_Berrics",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
+    },
+    {
+      "id": "wiki:Girl Distribution Company",
+      "type": "wikipedia",
+      "label": "Girl Distribution Company",
+      "url": "https://en.wikipedia.org/wiki/Girl_Distribution_Company",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
+    }
+  ],
+  "recentItems": []
+}

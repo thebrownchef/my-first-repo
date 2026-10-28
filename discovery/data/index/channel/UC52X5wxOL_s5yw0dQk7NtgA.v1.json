@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UC52X5wxOL_s5yw0dQk7NtgA",
   "title": "Associated Press",
   "thumb": "https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 27.9,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "New York v. Strauss-Kahn",
       "url": "https://en.wikipedia.org/wiki/New_York_v._Strauss-Kahn",
       "firstSeenAt": "2026-10-25T11:22:08.238Z"
+    },
+    {
+      "id": "wiki:September 2009 Barack Obama speech to a joint session of Congress",
+      "type": "wikipedia",
+      "label": "September 2009 Barack Obama speech to a joint session of Congress",
+      "url": "https://en.wikipedia.org/wiki/September_2009_Barack_Obama_speech_to_a_joint_session_of_Congress",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
     }
   ],
   "recentItems": []

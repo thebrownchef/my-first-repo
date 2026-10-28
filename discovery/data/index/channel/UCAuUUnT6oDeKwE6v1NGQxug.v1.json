@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
   "title": "TED",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Mass amateurization",
       "url": "https://en.wikipedia.org/wiki/Mass_amateurization",
       "firstSeenAt": "2026-10-21T11:44:40.897Z"
+    },
+    {
+      "id": "wiki:Beardyman",
+      "type": "wikipedia",
+      "label": "Beardyman",
+      "url": "https://en.wikipedia.org/wiki/Beardyman",
+      "firstSeenAt": "2026-10-28T12:49:23.109Z"
     }
   ],
   "recentItems": []

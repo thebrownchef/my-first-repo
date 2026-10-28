@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCbObxjfi3W9YKnDS0PgadNA",
   "title": "Library of Congress",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOJbHFN3q1yVKn2jGy5hM_Dj4jkq1BibwRl9reUyyDZo4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.08,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Thomas B. Allen (author)",
       "url": "https://en.wikipedia.org/wiki/Thomas_B._Allen_(author)",
       "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Westinghouse Works, 1904",
+      "type": "wikipedia",
+      "label": "Westinghouse Works, 1904",
+      "url": "https://en.wikipedia.org/wiki/Westinghouse_Works%2C_1904",
+      "firstSeenAt": "2026-10-28T12:49:25.517Z"
     }
   ],
   "recentItems": []

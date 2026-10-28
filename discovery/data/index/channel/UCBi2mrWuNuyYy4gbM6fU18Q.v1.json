@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
   "title": "ABC News",
   "thumb": "https://yt3.ggpht.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 16.24,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Tanning dependence",
       "url": "https://en.wikipedia.org/wiki/Tanning_dependence",
       "firstSeenAt": "2026-10-20T11:32:06.612Z"
+    },
+    {
+      "id": "wiki:Nina Davuluri",
+      "type": "wikipedia",
+      "label": "Nina Davuluri",
+      "url": "https://en.wikipedia.org/wiki/Nina_Davuluri",
+      "firstSeenAt": "2026-10-28T12:49:23.109Z"
     }
   ],
   "recentItems": []

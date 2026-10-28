@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 35,
-  "distinctSourceCount": 35,
+  "score": 36,
+  "distinctSourceCount": 36,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -253,6 +253,13 @@
       "label": "Original Sin (The Vampire Diaries)",
       "url": "https://en.wikipedia.org/wiki/Original_Sin_(The_Vampire_Diaries)",
       "firstSeenAt": "2026-10-27T12:06:52.924Z"
+    },
+    {
+      "id": "wiki:Monster's Ball (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Monster's Ball (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Monster's_Ball_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-28T12:49:23.108Z"
     }
   ],
   "recentItems": [

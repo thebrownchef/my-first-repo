@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T12:08:38.623Z",
+  "generatedAt": "2026-10-28T12:51:26.665Z",
   "id": "UCdn86UYrf54lXfVli9CB6Aw",
   "title": "Barack Obama",
   "thumb": "https://yt3.ggpht.com/Nk08bfKqYHzaOG4nmgFTQLHCyMgdNLjuLPeT1tAvXYKj6C6U_yzRD9kTcgWayyg2pNFHMnvY-Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Sandy Newman",
       "url": "https://en.wikipedia.org/wiki/Sandy_Newman",
       "firstSeenAt": "2026-10-21T11:44:40.898Z"
+    },
+    {
+      "id": "wiki:Barack Obama 2008 presidential election victory speech",
+      "type": "wikipedia",
+      "label": "Barack Obama 2008 presidential election victory speech",
+      "url": "https://en.wikipedia.org/wiki/Barack_Obama_2008_presidential_election_victory_speech",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
+    },
+    {
+      "id": "wiki:David Axelrod",
+      "type": "wikipedia",
+      "label": "David Axelrod",
+      "url": "https://en.wikipedia.org/wiki/David_Axelrod",
+      "firstSeenAt": "2026-10-28T12:49:29.336Z"
     }
   ],
   "recentItems": []
