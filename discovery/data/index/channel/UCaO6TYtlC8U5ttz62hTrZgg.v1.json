@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCaO6TYtlC8U5ttz62hTrZgg",
   "title": "JYP Entertainment",
   "thumb": "https://yt3.ggpht.com/2gb_g-qmLOeU6ZC3xyEPFN-fxDqkOkqr44TapTNi6iKQfLL13nOK6kuPWtYVTMPuiyT2tcb64A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Grown (album)",
       "url": "https://en.wikipedia.org/wiki/Grown_(album)",
       "firstSeenAt": "2026-10-22T11:47:48.410Z"
+    },
+    {
+      "id": "channel:UCcy4IEqKHZeJ5wbs6yyLmJQ",
+      "type": "channel",
+      "label": "joojype",
+      "url": "https://www.youtube.com/channel/UCcy4IEqKHZeJ5wbs6yyLmJQ",
+      "firstSeenAt": "2026-10-29T12:56:45.338Z"
     }
   ],
   "recentItems": []

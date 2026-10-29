@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCX4py0rkBIdjUqNJCH_JQDw",
   "title": "No Comment TV",
   "thumb": "https://yt3.ggpht.com/GneUNLVw0ERDrskq81mnzw-LbfgCCLsN11LQ_Npc3O7tSHcfU1x5eLDRFAt4vW4x55TZWMm0iw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "April 2009 Moldovan parliamentary election protests",
       "url": "https://en.wikipedia.org/wiki/April_2009_Moldovan_parliamentary_election_protests",
       "firstSeenAt": "2026-10-18T11:00:42.648Z"
+    },
+    {
+      "id": "wiki:Laura Dekker",
+      "type": "wikipedia",
+      "label": "Laura Dekker",
+      "url": "https://en.wikipedia.org/wiki/Laura_Dekker",
+      "firstSeenAt": "2026-10-29T12:56:13.782Z"
     }
   ],
   "recentItems": []

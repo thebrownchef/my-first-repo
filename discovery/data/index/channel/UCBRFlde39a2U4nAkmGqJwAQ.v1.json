@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCBRFlde39a2U4nAkmGqJwAQ",
   "title": "Flo Rida",
   "thumb": "https://yt3.ggpht.com/CcX6WfKEG3Jb74XBcjoBw19VT2PMT1N6jq8aF3taRBkN7Yu3VDmUJmiyeKv0rftvUGmd7cuh5A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Can't Believe It (Flo Rida song)",
       "url": "https://en.wikipedia.org/wiki/Can't_Believe_It_(Flo_Rida_song)",
       "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "channel:UCqOCHkvl8XKjnorG8LZCYvw",
+      "type": "channel",
+      "label": "Brianna Perry",
+      "url": "https://www.youtube.com/channel/UCqOCHkvl8XKjnorG8LZCYvw",
+      "firstSeenAt": "2026-10-29T12:56:35.958Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UC3EKokt8lCDZm1F-VwPNliA",
   "title": "daughtryVEVO",
   "thumb": "https://yt3.ggpht.com/ovpOjXML2Fp61DsBO-iu0bECzUq1KXavW4C-f6rtTYwso75FmfwxnjJRM-9D2p9ijkc_5quwfQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "HoobastankVEVO",
       "url": "https://www.youtube.com/channel/UCRKwxkAaQWPhbLuE1KDbyeg",
       "firstSeenAt": "2026-10-11T12:46:08.026Z"
+    },
+    {
+      "id": "wiki:Thomas Dekker (actor)",
+      "type": "wikipedia",
+      "label": "Thomas Dekker (actor)",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Dekker_(actor)",
+      "firstSeenAt": "2026-10-29T12:56:22.197Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "id": "UC6HyKpYWmX4zsy6_bJZIK7A",
+  "title": "WXYZ-TV Detroit | Channel 7",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLbyPpB7ALaynL1C3_XqtUC4DrXT4YEqQ4RHVF7xpx1A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 20.2,
+  "sources": [
+    {
+      "id": "channel:UC0bCUnP5RrkJZUtd3bBz6Kw",
+      "type": "channel",
+      "label": "WPTV News - FL Palm Beaches and Treasure Coast",
+      "url": "https://www.youtube.com/channel/UC0bCUnP5RrkJZUtd3bBz6Kw",
+      "firstSeenAt": "2026-09-15T11:41:53.435Z"
+    },
+    {
+      "id": "wiki:Eric Gordon (American football)",
+      "type": "wikipedia",
+      "label": "Eric Gordon (American football)",
+      "url": "https://en.wikipedia.org/wiki/Eric_Gordon_(American_football)",
+      "firstSeenAt": "2026-10-29T12:56:22.197Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCmdVfsLHu18lCkKYXSOGUxg",
   "title": "中時新聞網",
   "thumb": "https://yt3.ggpht.com/p2KDr9412K0jrHajCKPr6UBIzXoMmNocqjiRIdAFgSeOmpZ5VDH2I_Bn25R7jRV2ZEjlIBLwNw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 31.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Opinion polling for the 2012 Taiwanese presidential election",
       "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2012_Taiwanese_presidential_election",
       "firstSeenAt": "2026-10-28T12:49:23.109Z"
+    },
+    {
+      "id": "wiki:Death of Hung Chung-chiu",
+      "type": "wikipedia",
+      "label": "Death of Hung Chung-chiu",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Hung_Chung-chiu",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
     }
   ],
   "recentItems": []

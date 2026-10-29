@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCIb2FkhwkigTabnuj6D7oew",
   "title": "TopNotch",
   "thumb": "https://yt3.ggpht.com/VlzfxOI2V2olFfpkon839UoIDA5U6Ys_N_dSYaqfzZTm_9-IV9ZObQUWbGcl_UqBnruoulcC5g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Broodje Bakpao",
       "url": "https://en.wikipedia.org/wiki/Broodje_Bakpao",
       "firstSeenAt": "2026-10-08T13:25:13.275Z"
+    },
+    {
+      "id": "wiki:Royston Drenthe",
+      "type": "wikipedia",
+      "label": "Royston Drenthe",
+      "url": "https://en.wikipedia.org/wiki/Royston_Drenthe",
+      "firstSeenAt": "2026-10-29T12:56:22.197Z"
     }
   ],
   "recentItems": []

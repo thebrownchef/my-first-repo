@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "id": "UCSh-dNnqe1agUSzPM01LgBA",
+  "title": "Yale University",
+  "thumb": "https://yt3.ggpht.com/OWYFEMjf4rwyd5lGiuyA_cA6Mq-PlOCsGaIU4zMgVi7jdFLkT0DAVwZ9ICPktJ8ia9agURG5lg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.55,
+  "sources": [
+    {
+      "id": "channel:UCx89bvvQfMADlkETZq5l4Ug",
+      "type": "channel",
+      "label": "Yale Press",
+      "url": "https://www.youtube.com/channel/UCx89bvvQfMADlkETZq5l4Ug",
+      "firstSeenAt": "2026-10-20T11:32:20.669Z"
+    },
+    {
+      "id": "wiki:Sam Tsui",
+      "type": "wikipedia",
+      "label": "Sam Tsui",
+      "url": "https://en.wikipedia.org/wiki/Sam_Tsui",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    }
+  ],
+  "recentItems": []
+}

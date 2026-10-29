@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCplkk3J5wrEl0TNrthHjq4Q",
   "title": "Kurt Hugo Schneider",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mn5X6nBefcZMw1SeqIykRM3l4DoUZOv05HnneRwNO3scg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Kurt Hugo Schneider",
       "url": "https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider",
       "firstSeenAt": "2026-10-05T14:32:40.784Z"
+    },
+    {
+      "id": "wiki:Christina Grimmie",
+      "type": "wikipedia",
+      "label": "Christina Grimmie",
+      "url": "https://en.wikipedia.org/wiki/Christina_Grimmie",
+      "firstSeenAt": "2026-10-29T12:56:13.782Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCybF_bgvjVTAPIm8HT-TNdQ",
   "title": "MaximoTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lVW9WWGOhSb4wYZIa2Tx-4bgjX8vkoLiNFz2LH4tAlP8c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 5.87,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Briana Evigan",
       "url": "https://en.wikipedia.org/wiki/Briana_Evigan",
       "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    },
+    {
+      "id": "wiki:Kenton Duty",
+      "type": "wikipedia",
+      "label": "Kenton Duty",
+      "url": "https://en.wikipedia.org/wiki/Kenton_Duty",
+      "firstSeenAt": "2026-10-29T12:56:09.242Z"
     }
   ],
   "recentItems": []

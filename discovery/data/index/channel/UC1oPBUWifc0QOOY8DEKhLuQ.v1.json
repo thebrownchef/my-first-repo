@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UC1oPBUWifc0QOOY8DEKhLuQ",
   "title": "avex",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLFKt5mP2Y88rd28rdk4oTwUZkQYAfjxAdIXKhFuxDU1c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 2.26,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Tail of Hope",
       "url": "https://en.wikipedia.org/wiki/Tail_of_Hope",
       "firstSeenAt": "2026-10-27T12:06:49.119Z"
+    },
+    {
+      "id": "wiki:Re:Name",
+      "type": "wikipedia",
+      "label": "Re:Name",
+      "url": "https://en.wikipedia.org/wiki/Re%3AName",
+      "firstSeenAt": "2026-10-29T12:56:22.197Z"
     }
   ],
   "recentItems": []

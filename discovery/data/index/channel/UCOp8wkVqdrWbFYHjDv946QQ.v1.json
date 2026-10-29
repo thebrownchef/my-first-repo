@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCOp8wkVqdrWbFYHjDv946QQ",
   "title": "TNA Wrestling",
   "thumb": "https://yt3.ggpht.com/3b2vHtN5EH8blDZ5Vr9xr52LIehQxFkheaPJOH8mziWZy1n8N3PvATrvwBwKunyg-9Ia8ydU7A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.93,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "FREE MATCH",
       "url": "https://www.youtube.com/channel/UCqkldfJ3lT2Ml6vrpSQrlfg",
       "firstSeenAt": "2026-09-08T11:15:55.228Z"
+    },
+    {
+      "id": "wiki:Alex Silva (wrestler)",
+      "type": "wikipedia",
+      "label": "Alex Silva (wrestler)",
+      "url": "https://en.wikipedia.org/wiki/Alex_Silva_(wrestler)",
+      "firstSeenAt": "2026-10-29T12:56:17.991Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "title": "Google",
   "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Saul Bass",
       "url": "https://en.wikipedia.org/wiki/Saul_Bass",
       "firstSeenAt": "2026-10-22T11:47:48.411Z"
+    },
+    {
+      "id": "wiki:Google Wave",
+      "type": "wikipedia",
+      "label": "Google Wave",
+      "url": "https://en.wikipedia.org/wiki/Google_Wave",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:Apache Subversion",
+      "type": "wikipedia",
+      "label": "Apache Subversion",
+      "url": "https://en.wikipedia.org/wiki/Apache_Subversion",
+      "firstSeenAt": "2026-10-29T12:56:17.993Z"
     }
   ],
   "recentItems": []

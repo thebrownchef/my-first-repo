@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCr4kaFJ16UqtDQRzadrVkzw",
   "title": "Guitar Center",
   "thumb": "https://yt3.ggpht.com/3bJ4Bhk5dlhaOhjTl8_scIjEkjXRhSqFDluYl4paE6z9v31HnzLB751IDw0rIVWjdyY5wqVrtCs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.6,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Filipino American music",
       "url": "https://en.wikipedia.org/wiki/Filipino_American_music",
       "firstSeenAt": "2026-09-01T11:37:12.180Z"
+    },
+    {
+      "id": "wiki:Joshua Ray",
+      "type": "wikipedia",
+      "label": "Joshua Ray",
+      "url": "https://en.wikipedia.org/wiki/Joshua_Ray",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Pandora's Promise",
       "url": "https://en.wikipedia.org/wiki/Pandora's_Promise",
       "firstSeenAt": "2026-10-27T12:06:49.119Z"
+    },
+    {
+      "id": "wiki:History of economic thought",
+      "type": "wikipedia",
+      "label": "History of economic thought",
+      "url": "https://en.wikipedia.org/wiki/History_of_economic_thought",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
     }
   ],
   "recentItems": []

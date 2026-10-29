@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCknLrEdhRCp1aegoMqRaCZg",
   "title": "DW News",
   "thumb": "https://yt3.ggpht.com/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 7.1,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "DW The 77 Percent",
       "url": "https://www.youtube.com/channel/UCNtUXiCqH6nUTFeTW4qLpqw",
       "firstSeenAt": "2026-09-18T11:11:04.990Z"
+    },
+    {
+      "id": "wiki:Philipp Riederle",
+      "type": "wikipedia",
+      "label": "Philipp Riederle",
+      "url": "https://en.wikipedia.org/wiki/Philipp_Riederle",
+      "firstSeenAt": "2026-10-29T12:56:13.782Z"
     }
   ],
   "recentItems": []

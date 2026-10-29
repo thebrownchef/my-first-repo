@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCcF7lkZqxzI2asePTbksVdA",
   "title": "IDJVideos.TV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLq0YWGDglDGIGBWeEBNklraJb8uhA_QBWiEGvV4KVO44=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NOVA S",
       "url": "https://www.youtube.com/channel/UCloa3CgQMtGSeqjLkpQlEFg",
       "firstSeenAt": "2026-09-09T11:20:05.928Z"
+    },
+    {
+      "id": "channel:UCwqUqBHlEPFRxoczFpomHVQ",
+      "type": "channel",
+      "label": "Bobi Mojsovski",
+      "url": "https://www.youtube.com/channel/UCwqUqBHlEPFRxoczFpomHVQ",
+      "firstSeenAt": "2026-10-29T12:56:35.741Z"
     }
   ],
   "recentItems": []

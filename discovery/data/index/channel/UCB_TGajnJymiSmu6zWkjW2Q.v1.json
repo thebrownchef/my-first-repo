@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "id": "UCB_TGajnJymiSmu6zWkjW2Q",
+  "title": "W Magazine",
+  "thumb": "https://yt3.ggpht.com/8iQc21udUFJJDNfkAHUzB-DQBDAL-wbOfPkdVQClU_uR5MA4IJp0vdJU6LRcEWEzIpgzW3s0KFg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.28,
+  "sources": [
+    {
+      "id": "wiki:Taylor Russell",
+      "type": "wikipedia",
+      "label": "Taylor Russell",
+      "url": "https://en.wikipedia.org/wiki/Taylor_Russell",
+      "firstSeenAt": "2026-09-01T11:37:09.152Z"
+    },
+    {
+      "id": "wiki:Mia Wasikowska",
+      "type": "wikipedia",
+      "label": "Mia Wasikowska",
+      "url": "https://en.wikipedia.org/wiki/Mia_Wasikowska",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    }
+  ],
+  "recentItems": []
+}

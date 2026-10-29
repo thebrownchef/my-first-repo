@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UC_yXEx3-Gk5drg9qhPzSQSg",
   "title": "Al Jazeera Balkans",
   "thumb": "https://yt3.ggpht.com/DqGlSE2MY1mqDaQvGL591bKA4N25pBEJHqEYGqU4a0Cx4bhwM6JB38-dWSrlG387q-CHKqvYCQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 17.55,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "AJB Video",
       "url": "https://www.youtube.com/channel/UCZCLDzI4h-KnFuyOH4l3bcg",
       "firstSeenAt": "2026-09-24T11:42:46.249Z"
+    },
+    {
+      "id": "wiki:Sead Hajrović",
+      "type": "wikipedia",
+      "label": "Sead Hajrović",
+      "url": "https://en.wikipedia.org/wiki/Sead_Hajrovi%C4%87",
+      "firstSeenAt": "2026-10-29T12:56:13.782Z"
     }
   ],
   "recentItems": []

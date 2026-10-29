@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCYbATPRc4EObXaajgdXFQ0g",
   "title": "Gabrielle Aplin",
   "thumb": "https://yt3.ggpht.com/hBq9vEoqE1hj9MU8Z9A1SUVgjSu4zdT6nhiBfPyzMUiEexTNNfzXqpDHk5v26WHHyYkxv3BNBA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "guitarcovers598",
       "url": "https://www.youtube.com/channel/UCMVtCZ3DsbLsDlXYDdL79pg",
       "firstSeenAt": "2026-09-16T11:29:15.580Z"
+    },
+    {
+      "id": "wiki:Gabrielle Aplin",
+      "type": "wikipedia",
+      "label": "Gabrielle Aplin",
+      "url": "https://en.wikipedia.org/wiki/Gabrielle_Aplin",
+      "firstSeenAt": "2026-10-29T12:56:13.783Z"
     }
   ],
   "recentItems": []

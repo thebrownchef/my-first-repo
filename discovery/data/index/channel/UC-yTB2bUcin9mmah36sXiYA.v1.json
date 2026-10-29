@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UC-yTB2bUcin9mmah36sXiYA",
   "title": "TEDxYouth",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l0mLEfxbDWYmEPTS2AgvJDNz_LRmGxvmcfhwNZo_X3vw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Stacey Ferreira",
       "url": "https://en.wikipedia.org/wiki/Stacey_Ferreira",
       "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Brian Wong",
+      "type": "wikipedia",
+      "label": "Brian Wong",
+      "url": "https://en.wikipedia.org/wiki/Brian_Wong",
+      "firstSeenAt": "2026-10-29T12:56:17.993Z"
     }
   ],
   "recentItems": []

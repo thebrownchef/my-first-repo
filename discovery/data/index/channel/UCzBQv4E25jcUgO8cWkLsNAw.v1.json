@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCzBQv4E25jcUgO8cWkLsNAw",
   "title": "SBTV: Music",
   "thumb": "https://yt3.ggpht.com/5t5fHno3gffXLYNgub2sjkUW-zSsOWtWV_MlRlXq1P_icN2QlnQRJRWLMnRvIO2oVgMNIQxN-A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.65,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "I'm Coming (Tarzan Part 2)",
       "url": "https://en.wikipedia.org/wiki/I'm_Coming_(Tarzan_Part_2)",
       "firstSeenAt": "2026-10-14T11:48:17.920Z"
+    },
+    {
+      "id": "wiki:Lunar C",
+      "type": "wikipedia",
+      "label": "Lunar C",
+      "url": "https://en.wikipedia.org/wiki/Lunar_C",
+      "firstSeenAt": "2026-10-29T12:56:13.784Z"
+    },
+    {
+      "id": "wiki:Maverick Sabre",
+      "type": "wikipedia",
+      "label": "Maverick Sabre",
+      "url": "https://en.wikipedia.org/wiki/Maverick_Sabre",
+      "firstSeenAt": "2026-10-29T12:56:17.991Z"
     }
   ],
   "recentItems": []

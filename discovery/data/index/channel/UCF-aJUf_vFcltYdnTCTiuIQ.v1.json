@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCF-aJUf_vFcltYdnTCTiuIQ",
   "title": "crailtap",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mW4zrwGzIZjJdsz_Wzxa34_7Urka823X6htzHmjKjcMA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Girl Distribution Company",
       "url": "https://en.wikipedia.org/wiki/Girl_Distribution_Company",
       "firstSeenAt": "2026-10-28T12:49:29.336Z"
+    },
+    {
+      "id": "wiki:Mike Mo Capaldi",
+      "type": "wikipedia",
+      "label": "Mike Mo Capaldi",
+      "url": "https://en.wikipedia.org/wiki/Mike_Mo_Capaldi",
+      "firstSeenAt": "2026-10-29T12:56:13.783Z"
     }
   ],
   "recentItems": []

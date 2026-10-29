@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCsOcrfhLz6EHQj8EiZPuS_w",
   "title": "Channel 10",
   "thumb": "https://yt3.ggpht.com/cVMClwtkH_b7TNm7oWlmU6yfdgOe4ZMe-BotjHZizkP6lMyeCd9xgZwYk9eakh30hwykasefA2Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 4.22,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Paramount",
       "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
       "firstSeenAt": "2026-10-16T11:19:55.252Z"
+    },
+    {
+      "id": "wiki:Zyzz",
+      "type": "wikipedia",
+      "label": "Zyzz",
+      "url": "https://en.wikipedia.org/wiki/Zyzz",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
     }
   ],
   "recentItems": []

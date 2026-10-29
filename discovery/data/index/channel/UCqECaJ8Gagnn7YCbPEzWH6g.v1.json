@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCqECaJ8Gagnn7YCbPEzWH6g",
   "title": "Taylor Swift",
   "thumb": "https://yt3.ggpht.com/jzrwZgK5o0Ng2GT7oA7Na-hay4abtEl13lByjSQm6FW-K-dBu_ruvVk6vVF2vM6igC2GTRLO=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Ours (song)",
       "url": "https://en.wikipedia.org/wiki/Ours_(song)",
       "firstSeenAt": "2026-10-20T11:32:06.611Z"
+    },
+    {
+      "id": "channel:UCqnWs-kX0mImRJEjDBC05tw",
+      "type": "channel",
+      "label": "rikke kempf",
+      "url": "https://www.youtube.com/channel/UCqnWs-kX0mImRJEjDBC05tw",
+      "firstSeenAt": "2026-10-29T12:56:44.582Z"
     }
   ],
   "recentItems": []

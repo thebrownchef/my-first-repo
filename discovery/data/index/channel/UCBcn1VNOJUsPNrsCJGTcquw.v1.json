@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCBcn1VNOJUsPNrsCJGTcquw",
   "title": "Harvard Law School",
   "thumb": "https://yt3.ggpht.com/agbTnMYAPzxQvpXmh3mbXggdx6RHOgwy_Lqd3jbVl16LxUSIvhjB52bFRw-IkxdY5ZL3xE4cuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "George Bemis (lawyer)",
       "url": "https://en.wikipedia.org/wiki/George_Bemis_(lawyer)",
       "firstSeenAt": "2026-10-22T11:47:45.725Z"
+    },
+    {
+      "id": "wiki:JSTOR",
+      "type": "wikipedia",
+      "label": "JSTOR",
+      "url": "https://en.wikipedia.org/wiki/JSTOR",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
     }
   ],
   "recentItems": []

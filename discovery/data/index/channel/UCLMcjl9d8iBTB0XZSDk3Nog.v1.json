@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCLMcjl9d8iBTB0XZSDk3Nog",
   "title": "Leucas O'Connell",
   "thumb": "https://yt3.ggpht.com/aQka5Ia3zqSf_pKuA7Zr8T63CDGF8_sS7C8B2LI3BY9iG2ZLY42EaTba7DybH9i_wl9hfD-qCg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
-  "hop": 1,
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
     {
@@ -22,6 +22,13 @@
       "label": "Jack Conte",
       "url": "https://www.youtube.com/channel/UCXuc4N_UKi5IXNGtHZY8qQA",
       "firstSeenAt": "2026-10-23T11:34:50.631Z"
+    },
+    {
+      "id": "wiki:Lauren O'Connell",
+      "type": "wikipedia",
+      "label": "Lauren O'Connell",
+      "url": "https://en.wikipedia.org/wiki/Lauren_O'Connell",
+      "firstSeenAt": "2026-10-29T12:56:18.693Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "id": "UC49ta0RHXJUiID5KWRkcySw",
+  "title": "SiriusXM",
+  "thumb": "https://yt3.ggpht.com/gxs1QWAarhhfR2t1N4K4rLsH2GWlCogcE1BHMloXB9p-5PqyrnSdDei2dxnBukzKgkwz0x8KFA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.38,
+  "sources": [
+    {
+      "id": "channel:UCuS96jkLKpTaGB_OWnwZV_A",
+      "type": "channel",
+      "label": "SWAY'S UNIVERSE",
+      "url": "https://www.youtube.com/channel/UCuS96jkLKpTaGB_OWnwZV_A",
+      "firstSeenAt": "2026-10-26T12:57:01.387Z"
+    },
+    {
+      "id": "channel:UCi7GJNg51C3jgmYTUwqoUXA",
+      "type": "channel",
+      "label": "Team Coco",
+      "url": "https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA",
+      "firstSeenAt": "2026-10-29T12:56:42.183Z"
+    }
+  ],
+  "recentItems": []
+}

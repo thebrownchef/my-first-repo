@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "id": "UC_gE-kg7JvuwCNlbZ1-shlA",
+  "title": "SourceFed",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_n0DmvX5e8VPC4KB0mUR7cbCR1vRSY1y65sLWzfmH8tPBo=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.84,
+  "sources": [
+    {
+      "id": "wiki:YouTube Comedy Week",
+      "type": "wikipedia",
+      "label": "YouTube Comedy Week",
+      "url": "https://en.wikipedia.org/wiki/YouTube_Comedy_Week",
+      "firstSeenAt": "2026-10-24T10:54:53.694Z"
+    },
+    {
+      "id": "wiki:Elliott Morgan",
+      "type": "wikipedia",
+      "label": "Elliott Morgan",
+      "url": "https://en.wikipedia.org/wiki/Elliott_Morgan",
+      "firstSeenAt": "2026-10-29T12:56:22.197Z"
+    }
+  ],
+  "recentItems": []
+}

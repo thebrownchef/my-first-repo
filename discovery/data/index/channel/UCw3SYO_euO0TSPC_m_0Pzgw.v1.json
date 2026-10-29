@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCw3SYO_euO0TSPC_m_0Pzgw",
   "title": "Los Angeles Times",
   "thumb": "https://yt3.ggpht.com/2hoRUHM9kVY7PjjpnbxLuv6VXawi0Plj-tG4R5HlXtOFPWwMIv20_RMZfEy3ogg2abrtBler=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 2.57,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Los Angeles Times Food",
       "url": "https://www.youtube.com/channel/UCnDaAs5_3WXEY_GF3MJ6lyA",
       "firstSeenAt": "2026-09-20T11:20:21.277Z"
+    },
+    {
+      "id": "wiki:Blake Griffin",
+      "type": "wikipedia",
+      "label": "Blake Griffin",
+      "url": "https://en.wikipedia.org/wiki/Blake_Griffin",
+      "firstSeenAt": "2026-10-29T12:56:17.992Z"
     }
   ],
   "recentItems": []

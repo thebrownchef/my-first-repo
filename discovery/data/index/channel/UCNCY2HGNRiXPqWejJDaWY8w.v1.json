@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCNCY2HGNRiXPqWejJDaWY8w",
   "title": "USA Gymnastics",
   "thumb": "https://yt3.ggpht.com/CXbV_BvNzC3FnaZmRgiQgU-DGmRQKtKXwfuCBgtJ6-e7YJnoT5YRISYUjIqeIFGRULUzYoDdbiQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 6.92,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Anastasia Kempf",
       "url": "https://en.wikipedia.org/wiki/Anastasia_Kempf",
       "firstSeenAt": "2026-08-31T13:44:50.067Z"
+    },
+    {
+      "id": "wiki:Gabrielle Jupp",
+      "type": "wikipedia",
+      "label": "Gabrielle Jupp",
+      "url": "https://en.wikipedia.org/wiki/Gabrielle_Jupp",
+      "firstSeenAt": "2026-10-29T12:56:13.782Z"
+    },
+    {
+      "id": "wiki:Samantha Shapiro",
+      "type": "wikipedia",
+      "label": "Samantha Shapiro",
+      "url": "https://en.wikipedia.org/wiki/Samantha_Shapiro",
+      "firstSeenAt": "2026-10-29T12:56:13.783Z"
+    },
+    {
+      "id": "wiki:John Orozco",
+      "type": "wikipedia",
+      "label": "John Orozco",
+      "url": "https://en.wikipedia.org/wiki/John_Orozco",
+      "firstSeenAt": "2026-10-29T12:56:13.783Z"
+    },
+    {
+      "id": "wiki:Carly Patterson",
+      "type": "wikipedia",
+      "label": "Carly Patterson",
+      "url": "https://en.wikipedia.org/wiki/Carly_Patterson",
+      "firstSeenAt": "2026-10-29T12:56:22.197Z"
     }
   ],
   "recentItems": []

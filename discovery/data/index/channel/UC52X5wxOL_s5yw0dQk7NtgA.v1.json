@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UC52X5wxOL_s5yw0dQk7NtgA",
   "title": "Associated Press",
   "thumb": "https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 27.9,
   "sources": [
@@ -78,6 +78,27 @@
       "label": "September 2009 Barack Obama speech to a joint session of Congress",
       "url": "https://en.wikipedia.org/wiki/September_2009_Barack_Obama_speech_to_a_joint_session_of_Congress",
       "firstSeenAt": "2026-10-28T12:49:29.336Z"
+    },
+    {
+      "id": "wiki:Victoria Justice",
+      "type": "wikipedia",
+      "label": "Victoria Justice",
+      "url": "https://en.wikipedia.org/wiki/Victoria_Justice",
+      "firstSeenAt": "2026-10-29T12:56:13.783Z"
+    },
+    {
+      "id": "wiki:Kevin Atlas",
+      "type": "wikipedia",
+      "label": "Kevin Atlas",
+      "url": "https://en.wikipedia.org/wiki/Kevin_Atlas",
+      "firstSeenAt": "2026-10-29T12:56:13.784Z"
+    },
+    {
+      "id": "wiki:Dev Patel",
+      "type": "wikipedia",
+      "label": "Dev Patel",
+      "url": "https://en.wikipedia.org/wiki/Dev_Patel",
+      "firstSeenAt": "2026-10-29T12:56:13.784Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCc68e8lhc1uFH5ht5DQsr8A",
   "title": "Miss World",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nmyuwpx5m_wdV7j2Dj9ip-cKOi9C0J45OmmiHKUn18djk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Mr World",
       "url": "https://www.youtube.com/channel/UCFBPzySSj-rZ0gHes2XYVNg",
       "firstSeenAt": "2026-09-27T11:59:32.148Z"
+    },
+    {
+      "id": "wiki:Maroua Kharbouch",
+      "type": "wikipedia",
+      "label": "Maroua Kharbouch",
+      "url": "https://en.wikipedia.org/wiki/Maroua_Kharbouch",
+      "firstSeenAt": "2026-10-29T12:56:13.784Z"
     }
   ],
   "recentItems": []

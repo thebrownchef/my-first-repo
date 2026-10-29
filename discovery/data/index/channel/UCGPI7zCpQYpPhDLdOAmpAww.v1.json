@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCGPI7zCpQYpPhDLdOAmpAww",
   "title": "rebecca",
   "thumb": "https://yt3.ggpht.com/1evJ70mRRugFRJgUGc10JGJGxNZWaNxsTzB6MGg427YWMKhKpX6GNriiZOh-yD0fdReWydoYOZs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "The DigiTour",
       "url": "https://www.youtube.com/channel/UClScyC5ox5R5N5aQI_1LIrA",
       "firstSeenAt": "2026-10-13T14:08:15.572Z"
+    },
+    {
+      "id": "wiki:Rebecca Black",
+      "type": "wikipedia",
+      "label": "Rebecca Black",
+      "url": "https://en.wikipedia.org/wiki/Rebecca_Black",
+      "firstSeenAt": "2026-10-29T12:56:09.075Z"
     }
   ],
   "recentItems": []

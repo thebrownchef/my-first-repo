@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCfb-Ly0RXaUGxglFJmPji1g",
   "title": "Warner Music Japan",
   "thumb": "https://yt3.ggpht.com/Ci65MZ0vW_N-FTskkQ76g-V-CZ-tKe7yQVv2Umvd6UfBc6_zsSM8-Kq-iQ5BCNQ6mvwfvQsk7Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Invader Invader",
       "url": "https://en.wikipedia.org/wiki/Invader_Invader",
       "firstSeenAt": "2026-10-22T11:47:48.410Z"
+    },
+    {
+      "id": "wiki:Akari Hayami",
+      "type": "wikipedia",
+      "label": "Akari Hayami",
+      "url": "https://en.wikipedia.org/wiki/Akari_Hayami",
+      "firstSeenAt": "2026-10-29T12:56:13.782Z"
     }
   ],
   "recentItems": []

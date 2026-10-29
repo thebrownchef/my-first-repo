@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCRKyjEHgw5mQ3OM-wq7e1aA",
   "title": "brisingrwings",
   "thumb": "https://yt3.ggpht.com/FS9Hj4eJ-HXlQIErNQSiwd9KS8K-hYJzly3gxLI8xFus8Mc866n2pQUSdvFdDkwNe9HLdYiji4E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Star Wars: Episode I – The Phantom Menace",
       "url": "https://en.wikipedia.org/wiki/Star_Wars%3A_Episode_I_%E2%80%93_The_Phantom_Menace",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "wiki:Michael Angarano",
+      "type": "wikipedia",
+      "label": "Michael Angarano",
+      "url": "https://en.wikipedia.org/wiki/Michael_Angarano",
+      "firstSeenAt": "2026-10-29T12:56:22.197Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T12:51:26.665Z",
+  "generatedAt": "2026-10-29T12:57:58.535Z",
   "id": "UCo3nWXH_6vVJ5-xbF3bKb3Q",
   "title": "Conan O'Brien",
   "thumb": "https://yt3.ggpht.com/fyDM8rna5nMP31rn0QSYWZcxOsr4OSURX06LBc4GBrSoEcLN8KBr3Zm0ovpEj9l_vhCkt8yiUQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.65,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Austin Powers (character)",
       "url": "https://en.wikipedia.org/wiki/Austin_Powers_(character)",
       "firstSeenAt": "2026-09-03T11:10:55.703Z"
+    },
+    {
+      "id": "channel:UCi7GJNg51C3jgmYTUwqoUXA",
+      "type": "channel",
+      "label": "Team Coco",
+      "url": "https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA",
+      "firstSeenAt": "2026-10-29T12:56:42.182Z"
     }
   ],
   "recentItems": []
