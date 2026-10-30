@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCM2YmsRUeIbRkqjgNm0eTGQ",
   "title": "Journeyman Pictures",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mywoXREECIyOkmTR2Oo7AfMZexcr2NEDXPizBtf5gSfwk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.29,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.804Z"
+    },
+    {
+      "id": "wiki:July 12, 2007, Baghdad airstrike",
+      "type": "wikipedia",
+      "label": "July 12, 2007, Baghdad airstrike",
+      "url": "https://en.wikipedia.org/wiki/July_12%2C_2007%2C_Baghdad_airstrike",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "id": "UCVyik4cnxEmbefInU7JnWyw",
+  "title": "Edmonton Journal",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nTQ2LEGj95d-IrnVvHDolKE2WMPKyl3sbIv_iNno4qMac=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.73,
+  "sources": [
+    {
+      "id": "wiki:Royal Canadian Artillery Band",
+      "type": "wikipedia",
+      "label": "Royal Canadian Artillery Band",
+      "url": "https://en.wikipedia.org/wiki/Royal_Canadian_Artillery_Band",
+      "firstSeenAt": "2026-08-29T12:40:10.329Z"
+    },
+    {
+      "id": "channel:UC5Vzc-I--guzURose4X6lKQ",
+      "type": "channel",
+      "label": "National Post",
+      "url": "https://www.youtube.com/channel/UC5Vzc-I--guzURose4X6lKQ",
+      "firstSeenAt": "2026-10-30T12:50:41.138Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCSS7tKTxrtZp35DaoCIe0rQ",
   "title": "ABC Entertainment",
   "thumb": "https://yt3.ggpht.com/L99aAg8P3D2mdSxFpILUsannSkoFeLVX44TJ27F5QmMjeUb1wMj0ttJsh1FycdFoGnFkiV6C-mg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 1.22,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "ABC Indigenous",
       "url": "https://www.youtube.com/channel/UCeL4bsWHfMBIoaPTlQDC64g",
       "firstSeenAt": "2026-10-13T14:08:27.393Z"
+    },
+    {
+      "id": "wiki:Nikki Webster",
+      "type": "wikipedia",
+      "label": "Nikki Webster",
+      "url": "https://en.wikipedia.org/wiki/Nikki_Webster",
+      "firstSeenAt": "2026-10-30T12:50:07.349Z"
     }
   ],
   "recentItems": []

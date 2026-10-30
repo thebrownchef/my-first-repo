@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCbochVIwBCzJb9I2lLGXGjQ",
   "title": "Rhett & Link",
   "thumb": "https://yt3.ggpht.com/9nxp2XuopHQ5hBCdUONWlfRCFNIvNlZi4Gknou_ZJESTCoj2BYVW98dbbDf-yFOzSdkEASjE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "List of films shown at Butt-Numb-A-Thon",
       "url": "https://en.wikipedia.org/wiki/List_of_films_shown_at_Butt-Numb-A-Thon",
       "firstSeenAt": "2026-10-28T12:49:25.517Z"
+    },
+    {
+      "id": "wiki:Joe Penna",
+      "type": "wikipedia",
+      "label": "Joe Penna",
+      "url": "https://en.wikipedia.org/wiki/Joe_Penna",
+      "firstSeenAt": "2026-10-30T12:50:07.348Z"
     }
   ],
   "recentItems": []

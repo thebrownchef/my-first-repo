@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCYDmx2Sfpnaxg488yBpZIGg",
   "title": "STARSHIP",
   "thumb": "https://yt3.ggpht.com/k6p06Jx1N1ItWTjYjdDhDPadzWvIRFPdbqqtM-81QuHF9bzqCj4yy_ZVc40AaFsRvtjwd7ex=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Give It to Me (album)",
       "url": "https://en.wikipedia.org/wiki/Give_It_to_Me_(album)",
       "firstSeenAt": "2026-10-24T10:54:50.878Z"
+    },
+    {
+      "id": "wiki:Love & Hate (Hyolyn album)",
+      "type": "wikipedia",
+      "label": "Love & Hate (Hyolyn album)",
+      "url": "https://en.wikipedia.org/wiki/Love_%26_Hate_(Hyolyn_album)",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
     }
   ],
   "recentItems": []

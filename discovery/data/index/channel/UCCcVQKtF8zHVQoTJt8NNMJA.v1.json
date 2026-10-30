@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 36,
-  "distinctSourceCount": 36,
+  "score": 39,
+  "distinctSourceCount": 39,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -260,6 +260,27 @@
       "label": "Monster's Ball (The Vampire Diaries)",
       "url": "https://en.wikipedia.org/wiki/Monster's_Ball_(The_Vampire_Diaries)",
       "firstSeenAt": "2026-10-28T12:49:23.108Z"
+    },
+    {
+      "id": "wiki:Handle with Care (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Handle with Care (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Handle_with_Care_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Death and the Maiden (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Death and the Maiden (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Death_and_the_Maiden_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:For Whom the Bell Tolls (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "For Whom the Bell Tolls (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": [

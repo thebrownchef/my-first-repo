@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
   "title": "Computer History Museum",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "IBM Watson",
       "url": "https://en.wikipedia.org/wiki/IBM_Watson",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:Robert Metcalfe",
+      "type": "wikipedia",
+      "label": "Robert Metcalfe",
+      "url": "https://en.wikipedia.org/wiki/Robert_Metcalfe",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:ILLIAC IV",
+      "type": "wikipedia",
+      "label": "ILLIAC IV",
+      "url": "https://en.wikipedia.org/wiki/ILLIAC_IV",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

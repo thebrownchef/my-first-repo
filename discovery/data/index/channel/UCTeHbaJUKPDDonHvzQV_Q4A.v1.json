@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCTeHbaJUKPDDonHvzQV_Q4A",
   "title": "DANNYFERNANDESTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nvrVIZ3kIVUkFhkSBfboUHF8_-zAURIVdqMRS6HGXW-LM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Curious (Danny Fernandes song)",
       "url": "https://en.wikipedia.org/wiki/Curious_(Danny_Fernandes_song)",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:Danny Fernandes",
+      "type": "wikipedia",
+      "label": "Danny Fernandes",
+      "url": "https://en.wikipedia.org/wiki/Danny_Fernandes",
+      "firstSeenAt": "2026-10-30T12:50:07.826Z"
     }
   ],
   "recentItems": []

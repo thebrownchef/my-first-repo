@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
   "title": "TED",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Beardyman",
       "url": "https://en.wikipedia.org/wiki/Beardyman",
       "firstSeenAt": "2026-10-28T12:49:23.109Z"
+    },
+    {
+      "id": "wiki:Lawrence Lessig",
+      "type": "wikipedia",
+      "label": "Lawrence Lessig",
+      "url": "https://en.wikipedia.org/wiki/Lawrence_Lessig",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
     }
   ],
   "recentItems": []

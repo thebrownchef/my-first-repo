@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UC-ULsqsUW_UB1F6i2rOo_uQ",
   "title": "Chris Van Vliet",
   "thumb": "https://yt3.ggpht.com/WphN4tFameSxlG6EmEO0Cbo-A02hHXByJSfO_iblIC20KC2rL2O5DNzbm1d_cvUAz1m18KaW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.38,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "CVV CLIPS",
       "url": "https://www.youtube.com/channel/UCmKjMXJbTeo1UJeZ3ug9xrw",
       "firstSeenAt": "2026-09-23T11:32:31.412Z"
+    },
+    {
+      "id": "wiki:Gregory Iron",
+      "type": "wikipedia",
+      "label": "Gregory Iron",
+      "url": "https://en.wikipedia.org/wiki/Gregory_Iron",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
     }
   ],
   "recentItems": []

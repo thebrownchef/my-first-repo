@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCAmt29QykFXnuIqQoEEnEFg",
   "title": "Sigur Rós",
   "thumb": "https://yt3.ggpht.com/GJ7Xvuf3-X2uNQSUabnCsRK45Z9yHe6lORQ9dCiZ7ZzmunXZuxSyZB-g-SAx9lrfJNFwZHrV78A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Daughter",
       "url": "https://www.youtube.com/channel/UCHcgFneOU0qvJZB_Sh8wgFw",
       "firstSeenAt": "2026-10-26T12:57:02.729Z"
+    },
+    {
+      "id": "wiki:Kveikur",
+      "type": "wikipedia",
+      "label": "Kveikur",
+      "url": "https://en.wikipedia.org/wiki/Kveikur",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

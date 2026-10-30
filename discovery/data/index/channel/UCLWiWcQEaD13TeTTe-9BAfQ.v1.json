@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "id": "UCLWiWcQEaD13TeTTe-9BAfQ",
+  "title": "Metropolitan Opera",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mHJRqjRfofeV8rGhTPapzOd5K3cDHEkyO05diXkc-Uyg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.3,
+  "sources": [
+    {
+      "id": "channel:UCwoudqXBqOdrfJXxW-RcZ4A",
+      "type": "channel",
+      "label": "Maria Callas",
+      "url": "https://www.youtube.com/channel/UCwoudqXBqOdrfJXxW-RcZ4A",
+      "firstSeenAt": "2026-09-22T11:35:04.108Z"
+    },
+    {
+      "id": "wiki:Piotr Beczała",
+      "type": "wikipedia",
+      "label": "Piotr Beczała",
+      "url": "https://en.wikipedia.org/wiki/Piotr_Becza%C5%82a",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCjB3CzA-MwHrDzuXGweNiMg",
   "title": "TheKillersVEVO",
   "thumb": "https://yt3.ggpht.com/rNQz_e_0TaX5nIR2815xJVxiPTD-LHS3horyD2q2B6-WNMpXCLYrd6dQIAdiunLOoi9SFuWTtZE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Shot at the Night",
       "url": "https://en.wikipedia.org/wiki/Shot_at_the_Night",
       "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:Just Another Girl (The Killers song)",
+      "type": "wikipedia",
+      "label": "Just Another Girl (The Killers song)",
+      "url": "https://en.wikipedia.org/wiki/Just_Another_Girl_(The_Killers_song)",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
     }
   ],
   "recentItems": []

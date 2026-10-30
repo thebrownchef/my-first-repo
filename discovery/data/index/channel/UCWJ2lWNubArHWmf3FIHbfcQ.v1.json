@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCWJ2lWNubArHWmf3FIHbfcQ",
   "title": "NBA",
   "thumb": "https://yt3.ggpht.com/eGmO8yk_eHvLzEywzlPwRV_-7RiDayDLeXWWBVExMLN4qXA7z7fD6ldPXatXZiQOvgW4--jzNA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 10.49,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Jameer Nelson",
       "url": "https://en.wikipedia.org/wiki/Jameer_Nelson",
       "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Mario Chalmers",
+      "type": "wikipedia",
+      "label": "Mario Chalmers",
+      "url": "https://en.wikipedia.org/wiki/Mario_Chalmers",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

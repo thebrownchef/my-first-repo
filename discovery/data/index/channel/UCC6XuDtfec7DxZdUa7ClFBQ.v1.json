@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCC6XuDtfec7DxZdUa7ClFBQ",
   "title": "AvrilLavigneVEVO",
   "thumb": "https://yt3.ggpht.com/o4u-Su2zOrLmPhxLJgbv0U210sPb1DjBbvoKRU6ilU1hieKyaVBMmnRY7MVBiNhsgu6gggIlc5E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Rock n Roll (Avril Lavigne song)",
       "url": "https://en.wikipedia.org/wiki/Rock_n_Roll_(Avril_Lavigne_song)",
       "firstSeenAt": "2026-10-27T12:06:52.925Z"
+    },
+    {
+      "id": "wiki:Avril Lavigne (album)",
+      "type": "wikipedia",
+      "label": "Avril Lavigne (album)",
+      "url": "https://en.wikipedia.org/wiki/Avril_Lavigne_(album)",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UC8T81Q-rEobLa-YuQKj8L1A",
   "title": "Ministry of Sound",
   "thumb": "https://yt3.ggpht.com/cskYl8jAZXw3UEGPIhLqHsboTPNZybVpvV4canNFCqs9vsaVSq3Xb7ueQV0fFYlZ0BEuZlfE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 2,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Saifam Music",
       "url": "https://www.youtube.com/channel/UC7e3sjAWgZhPf2LWb387Veg",
       "firstSeenAt": "2026-10-25T11:22:26.993Z"
+    },
+    {
+      "id": "wiki:Hooligans (song)",
+      "type": "wikipedia",
+      "label": "Hooligans (song)",
+      "url": "https://en.wikipedia.org/wiki/Hooligans_(song)",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
     }
   ],
   "recentItems": []

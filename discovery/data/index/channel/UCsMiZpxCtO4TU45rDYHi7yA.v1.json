@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "id": "UCsMiZpxCtO4TU45rDYHi7yA",
+  "title": "West Virginia Public Broadcasting",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lJtXQN6--fGyNysanDdEp9MH4P4ijooFcZkHgouv241fU=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.59,
+  "sources": [
+    {
+      "id": "wiki:Ice Mountain",
+      "type": "wikipedia",
+      "label": "Ice Mountain",
+      "url": "https://en.wikipedia.org/wiki/Ice_Mountain",
+      "firstSeenAt": "2026-10-03T11:38:12.814Z"
+    },
+    {
+      "id": "wiki:Jake Krack",
+      "type": "wikipedia",
+      "label": "Jake Krack",
+      "url": "https://en.wikipedia.org/wiki/Jake_Krack",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCsgEkEWaXKQwrhlLHFbcQFw",
   "title": "Sub Pop",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kaD6FuxSeY4TJ53io3868YCaM8Efk3tldqO5U1dp5ZXQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Lemonade (CocoRosie song)",
       "url": "https://en.wikipedia.org/wiki/Lemonade_(CocoRosie_song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:The Invisible Way",
+      "type": "wikipedia",
+      "label": "The Invisible Way",
+      "url": "https://en.wikipedia.org/wiki/The_Invisible_Way",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

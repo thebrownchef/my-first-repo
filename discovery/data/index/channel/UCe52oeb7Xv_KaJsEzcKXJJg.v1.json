@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCe52oeb7Xv_KaJsEzcKXJJg",
   "title": "MBCkpop",
   "thumb": "https://yt3.ggpht.com/lMLCpSdIgJNZ11RW-0hyfU3Xb4f-molFbQFPn_302s1BAjJUFL8298P4Sbz_W76YEWtwscXi-48=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 10.83,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Somin (singer)",
       "url": "https://en.wikipedia.org/wiki/Somin_(singer)",
       "firstSeenAt": "2026-08-30T11:52:26.129Z"
+    },
+    {
+      "id": "wiki:Modern Times (IU album)",
+      "type": "wikipedia",
+      "label": "Modern Times (IU album)",
+      "url": "https://en.wikipedia.org/wiki/Modern_Times_(IU_album)",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UC_wEFPo0aHFIAhkB7SC7PVw",
   "title": "VOA Africa",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nip7vFOIi-fyl7OHu06WdnKzXgyKZI81T4r-vD4HmqgKo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 4.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Bernard Membe",
       "url": "https://en.wikipedia.org/wiki/Bernard_Membe",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "channel:UCVSNOxehfALut52NbkfRBaA",
+      "type": "channel",
+      "label": "Voice of America",
+      "url": "https://www.youtube.com/channel/UCVSNOxehfALut52NbkfRBaA",
+      "firstSeenAt": "2026-10-30T12:50:49.385Z"
     }
   ],
   "recentItems": []

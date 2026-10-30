@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "id": "UC7McHNOsrUL2fRxTB_xvgRQ",
+  "title": "Johnny Carson",
+  "thumb": "https://yt3.ggpht.com/OGqz7R7tM3ZiZ8a017g_WH778H6pospWO8F-TBqlpDrhRGS_thl2nzaJqgE0YYkM1VAd33n1SLA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.11,
+  "sources": [
+    {
+      "id": "wiki:G. E. Smith",
+      "type": "wikipedia",
+      "label": "G. E. Smith",
+      "url": "https://en.wikipedia.org/wiki/G._E._Smith",
+      "firstSeenAt": "2026-09-03T11:10:56.627Z"
+    },
+    {
+      "id": "wiki:Myrtle Young",
+      "type": "wikipedia",
+      "label": "Myrtle Young",
+      "url": "https://en.wikipedia.org/wiki/Myrtle_Young",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    }
+  ],
+  "recentItems": []
+}

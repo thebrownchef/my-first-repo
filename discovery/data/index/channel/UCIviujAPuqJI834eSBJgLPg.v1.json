@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCIviujAPuqJI834eSBJgLPg",
   "title": "Caeremoniale Romanum",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mF0_FK_WW59Cz2eX81-6TIqIBTuoGJyTcL1NUxouZ0PJVs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Jorge Medina (cardinal)",
       "url": "https://en.wikipedia.org/wiki/Jorge_Medina_(cardinal)",
       "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:Protopriest of the College of Cardinals",
+      "type": "wikipedia",
+      "label": "Protopriest of the College of Cardinals",
+      "url": "https://en.wikipedia.org/wiki/Protopriest_of_the_College_of_Cardinals",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

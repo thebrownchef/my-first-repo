@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "id": "UCRltydLLPItnRicHmYUCeSg",
+  "title": "PiratenStreaming",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_ni0EDsfUuccor7OXEJCYmqearUal0etDVOZp9Thxk=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.09,
+  "sources": [
+    {
+      "id": "wiki:Pirate Party (Sweden)",
+      "type": "wikipedia",
+      "label": "Pirate Party (Sweden)",
+      "url": "https://en.wikipedia.org/wiki/Pirate_Party_(Sweden)",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Florian Hufsky",
+      "type": "wikipedia",
+      "label": "Florian Hufsky",
+      "url": "https://en.wikipedia.org/wiki/Florian_Hufsky",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    }
+  ],
+  "recentItems": []
+}

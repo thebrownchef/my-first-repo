@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCdxFg3dVeT50SsT1v3ptxTQ",
   "title": "Janelle Monáe",
   "thumb": "https://yt3.ggpht.com/efKXGxJT8IG76iq3Wjk7zzgQ6BosnWOO4rIvOQ1kQmi9RKoyd-OQRu-_h64aQxwpxk8C0-GFFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "PliesWorld",
       "url": "https://www.youtube.com/channel/UCNFOCainfQUP0PE2O--j2LQ",
       "firstSeenAt": "2026-10-06T13:17:05.099Z"
+    },
+    {
+      "id": "wiki:The Electric Lady",
+      "type": "wikipedia",
+      "label": "The Electric Lady",
+      "url": "https://en.wikipedia.org/wiki/The_Electric_Lady",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

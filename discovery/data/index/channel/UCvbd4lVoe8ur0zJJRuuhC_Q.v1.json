@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCvbd4lVoe8ur0zJJRuuhC_Q",
   "title": "Warp Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mx5zRNp8f-SUMtU_vG6wXhpz0Hbo1KPIWMn5w7n9OvdCM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Until the Quiet Comes",
       "url": "https://en.wikipedia.org/wiki/Until_the_Quiet_Comes",
       "firstSeenAt": "2026-10-17T10:39:49.194Z"
+    },
+    {
+      "id": "wiki:Jamie Lidell (album)",
+      "type": "wikipedia",
+      "label": "Jamie Lidell (album)",
+      "url": "https://en.wikipedia.org/wiki/Jamie_Lidell_(album)",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

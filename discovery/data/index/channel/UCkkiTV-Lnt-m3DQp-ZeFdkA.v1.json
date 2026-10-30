@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCkkiTV-Lnt-m3DQp-ZeFdkA",
   "title": "Moby",
   "thumb": "https://yt3.ggpht.com/fpFu27Gr2rxafASqUM1yaKjO5HSx0PptP1OmfnrDaGWFZTTZhfGtFBMvHSGfcVXHGwfJX4go=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Embassy One",
       "url": "https://www.youtube.com/channel/UC0YlEgUpFF3pepqyfGKN31Q",
       "firstSeenAt": "2026-10-11T12:46:02.230Z"
+    },
+    {
+      "id": "wiki:Innocents (Moby album)",
+      "type": "wikipedia",
+      "label": "Innocents (Moby album)",
+      "url": "https://en.wikipedia.org/wiki/Innocents_(Moby_album)",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

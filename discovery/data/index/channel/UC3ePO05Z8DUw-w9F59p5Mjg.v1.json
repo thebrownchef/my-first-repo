@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UC3ePO05Z8DUw-w9F59p5Mjg",
   "title": "Kimberley Chen",
   "thumb": "https://yt3.ggpht.com/hT4S6M_gXWSBoKT2nb0O3WXLoUq7jmj7Oa3-OTVnxwy2TPTs5sUyMOLQkU4CYJ0ZEsrJq8R2=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "ChynaHouse",
       "url": "https://www.youtube.com/channel/UCvElwlN8LxtQm4YUERxTs1w",
       "firstSeenAt": "2026-09-15T11:41:58.526Z"
+    },
+    {
+      "id": "wiki:Liljay",
+      "type": "wikipedia",
+      "label": "Liljay",
+      "url": "https://en.wikipedia.org/wiki/Liljay",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
     }
   ],
   "recentItems": []

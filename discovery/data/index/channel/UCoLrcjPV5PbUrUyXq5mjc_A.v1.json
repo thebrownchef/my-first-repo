@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCoLrcjPV5PbUrUyXq5mjc_A",
   "title": "MLB",
   "thumb": "https://yt3.ggpht.com/658nhCATwPt-TNMhFEaP0GY-jvLKK0ASvQuC7X8uSdodwus8NxTJWVFUsobIg5sf34sP3MWBbVg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 41.54,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Joe Carter",
       "url": "https://en.wikipedia.org/wiki/Joe_Carter",
       "firstSeenAt": "2026-10-27T12:06:52.925Z"
+    },
+    {
+      "id": "wiki:David Murphy (baseball)",
+      "type": "wikipedia",
+      "label": "David Murphy (baseball)",
+      "url": "https://en.wikipedia.org/wiki/David_Murphy_(baseball)",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCcS2E_TVMSwbN4Q5eH7F_oA",
   "title": "℃-ute",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k4EhH5397ZilSdyiWRCf7OLX0IS_Qh_6heugrTUrnLvFM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Maimi Yajima",
       "url": "https://en.wikipedia.org/wiki/Maimi_Yajima",
       "firstSeenAt": "2026-10-29T12:56:13.783Z"
+    },
+    {
+      "id": "wiki:8 Queen of J-pop",
+      "type": "wikipedia",
+      "label": "8 Queen of J-pop",
+      "url": "https://en.wikipedia.org/wiki/8_Queen_of_J-pop",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

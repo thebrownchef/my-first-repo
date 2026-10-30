@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCsOcrfhLz6EHQj8EiZPuS_w",
   "title": "Channel 10",
   "thumb": "https://yt3.ggpht.com/cVMClwtkH_b7TNm7oWlmU6yfdgOe4ZMe-BotjHZizkP6lMyeCd9xgZwYk9eakh30hwykasefA2Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 4.22,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Zyzz",
       "url": "https://en.wikipedia.org/wiki/Zyzz",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:Julia Gillard",
+      "type": "wikipedia",
+      "label": "Julia Gillard",
+      "url": "https://en.wikipedia.org/wiki/Julia_Gillard",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
     }
   ],
   "recentItems": []

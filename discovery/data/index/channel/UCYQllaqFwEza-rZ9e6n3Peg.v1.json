@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCYQllaqFwEza-rZ9e6n3Peg",
   "title": "user",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n92fbmrH5XqS_oNCeeGbHdV2rnXeUfk3KU1Ks4_Ko=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "scottishmotorman",
       "url": "https://www.youtube.com/channel/UCubWoram5O2GBqZjY7OEuRw",
       "firstSeenAt": "2026-10-27T12:07:16.970Z"
+    },
+    {
+      "id": "channel:UCTyDBZHV8ke5jsCj-U8bjGw",
+      "type": "channel",
+      "label": "LetThemPlayCharity",
+      "url": "https://www.youtube.com/channel/UCTyDBZHV8ke5jsCj-U8bjGw",
+      "firstSeenAt": "2026-10-30T12:50:44.963Z"
     }
   ],
   "recentItems": []

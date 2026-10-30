@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCt16NSYjauKclK67LCXvQyA",
   "title": "ThrasherMagazine",
   "thumb": "https://yt3.ggpht.com/CGfrL8nT3K9yG-hLEAYndaUCPgRqkNTNSvPj01xXCs1uxC3M_lD6pSEgCSTYF2LfBNZfgsQsGDg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.18,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Brandon Westgate",
       "url": "https://en.wikipedia.org/wiki/Brandon_Westgate",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:Shane Cross",
+      "type": "wikipedia",
+      "label": "Shane Cross",
+      "url": "https://en.wikipedia.org/wiki/Shane_Cross",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Leo Romero",
+      "type": "wikipedia",
+      "label": "Leo Romero",
+      "url": "https://en.wikipedia.org/wiki/Leo_Romero",
+      "firstSeenAt": "2026-10-30T12:50:07.351Z"
     }
   ],
   "recentItems": []

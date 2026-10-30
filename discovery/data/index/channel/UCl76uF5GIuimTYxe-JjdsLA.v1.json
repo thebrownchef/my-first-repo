@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "id": "UCl76uF5GIuimTYxe-JjdsLA",
+  "title": "Joe Friendly",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_m9fDVPU7G5WyYV95kjDg4uiRa-L_H8mVK1t9fEzV3aaA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.18,
+  "sources": [
+    {
+      "id": "channel:UCqkl7c_BE3t0sKbzjY7_ARQ",
+      "type": "channel",
+      "label": "bmstv",
+      "url": "https://www.youtube.com/channel/UCqkl7c_BE3t0sKbzjY7_ARQ",
+      "firstSeenAt": "2026-10-20T11:32:21.322Z"
+    },
+    {
+      "id": "wiki:Aaron Swartz",
+      "type": "wikipedia",
+      "label": "Aaron Swartz",
+      "url": "https://en.wikipedia.org/wiki/Aaron_Swartz",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    }
+  ],
+  "recentItems": []
+}

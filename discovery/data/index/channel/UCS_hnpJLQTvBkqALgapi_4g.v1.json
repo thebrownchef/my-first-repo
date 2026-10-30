@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCS_hnpJLQTvBkqALgapi_4g",
   "title": "SBSKPOP X INKIGAYO",
   "thumb": "https://yt3.ggpht.com/GqzNZfMlBCgXYpAA74wuCs9HTEJ7ePtImt6QpXwk2qt6LJEIrZ8hEdPHeLPusnCCqoEGJb1pEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 7.44,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Inkigayo",
       "url": "https://en.wikipedia.org/wiki/Inkigayo",
       "firstSeenAt": "2026-10-23T11:34:39.515Z"
+    },
+    {
+      "id": "wiki:Modern Times (IU album)",
+      "type": "wikipedia",
+      "label": "Modern Times (IU album)",
+      "url": "https://en.wikipedia.org/wiki/Modern_Times_(IU_album)",
+      "firstSeenAt": "2026-10-30T12:50:10.991Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCRpjHHu8ivVWs73uxHlWwFA",
   "title": "Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/Nbk9FOWmzYz-1eYlnqhnR1qT0ULJ2iQ0L4IR1eLx7silv-qETBsh_LjpUgnG0WvV6fZypNzCfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.2,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Andrius Pojavis",
       "url": "https://en.wikipedia.org/wiki/Andrius_Pojavis",
       "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Eurovision Song Contest 2013",
+      "type": "wikipedia",
+      "label": "Eurovision Song Contest 2013",
+      "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2013",
+      "firstSeenAt": "2026-10-30T12:50:08.496Z"
     }
   ],
   "recentItems": []

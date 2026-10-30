@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCzBQv4E25jcUgO8cWkLsNAw",
   "title": "SBTV: Music",
   "thumb": "https://yt3.ggpht.com/5t5fHno3gffXLYNgub2sjkUW-zSsOWtWV_MlRlXq1P_icN2QlnQRJRWLMnRvIO2oVgMNIQxN-A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.65,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Maverick Sabre",
       "url": "https://en.wikipedia.org/wiki/Maverick_Sabre",
       "firstSeenAt": "2026-10-29T12:56:17.991Z"
+    },
+    {
+      "id": "wiki:Kano (British musician)",
+      "type": "wikipedia",
+      "label": "Kano (British musician)",
+      "url": "https://en.wikipedia.org/wiki/Kano_(British_musician)",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
     }
   ],
   "recentItems": []

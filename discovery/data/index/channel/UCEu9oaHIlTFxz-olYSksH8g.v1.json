@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCEu9oaHIlTFxz-olYSksH8g",
   "title": "Ruddy Darter",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mDkK3a3_jR7AAeTZr4oBH7NKJ-DvTExLKTOt9E6iRrog=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Michael Leitch",
       "url": "https://en.wikipedia.org/wiki/Michael_Leitch",
       "firstSeenAt": "2026-10-29T12:56:22.197Z"
+    },
+    {
+      "id": "wiki:Kosei Ono",
+      "type": "wikipedia",
+      "label": "Kosei Ono",
+      "url": "https://en.wikipedia.org/wiki/Kosei_Ono",
+      "firstSeenAt": "2026-10-30T12:50:07.348Z"
+    },
+    {
+      "id": "wiki:Ayumu Goromaru",
+      "type": "wikipedia",
+      "label": "Ayumu Goromaru",
+      "url": "https://en.wikipedia.org/wiki/Ayumu_Goromaru",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
     }
   ],
   "recentItems": []

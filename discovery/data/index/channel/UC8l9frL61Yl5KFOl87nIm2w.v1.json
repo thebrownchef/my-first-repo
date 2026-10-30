@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UC8l9frL61Yl5KFOl87nIm2w",
   "title": "BlankTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncpfaMstuqfHF2SAsKzZ3hXmrNY-FiLYU2geOzuYEZC1U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 3.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Baskervilles (musical group)",
       "url": "https://en.wikipedia.org/wiki/Baskervilles_(musical_group)",
       "firstSeenAt": "2026-10-15T11:24:51.738Z"
+    },
+    {
+      "id": "wiki:Mams Taylor",
+      "type": "wikipedia",
+      "label": "Mams Taylor",
+      "url": "https://en.wikipedia.org/wiki/Mams_Taylor",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
     }
   ],
   "recentItems": []

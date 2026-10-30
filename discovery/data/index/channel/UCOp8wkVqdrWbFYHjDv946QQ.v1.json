@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T12:57:58.535Z",
+  "generatedAt": "2026-10-30T12:52:07.548Z",
   "id": "UCOp8wkVqdrWbFYHjDv946QQ",
   "title": "TNA Wrestling",
   "thumb": "https://yt3.ggpht.com/3b2vHtN5EH8blDZ5Vr9xr52LIehQxFkheaPJOH8mziWZy1n8N3PvATrvwBwKunyg-9Ia8ydU7A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.93,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Alex Silva (wrestler)",
       "url": "https://en.wikipedia.org/wiki/Alex_Silva_(wrestler)",
       "firstSeenAt": "2026-10-29T12:56:17.991Z"
+    },
+    {
+      "id": "wiki:Nick Aldis",
+      "type": "wikipedia",
+      "label": "Nick Aldis",
+      "url": "https://en.wikipedia.org/wiki/Nick_Aldis",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
     }
   ],
   "recentItems": []
