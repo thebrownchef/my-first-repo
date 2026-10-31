@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "id": "UC4a-Gbdw7vOaccHmFo40b9g",
+  "title": "Khan Academy",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_l3GggKOWViCBpDs9APIsK6MHB2Mu-ECo5dUEU-Vay2gg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.3,
+  "sources": [
+    {
+      "id": "channel:UCFdI38niBOh-z5bd8y5N9fQ",
+      "type": "channel",
+      "label": "Sergiu Brega",
+      "url": "https://www.youtube.com/channel/UCFdI38niBOh-z5bd8y5N9fQ",
+      "firstSeenAt": "2026-10-20T11:32:21.605Z"
+    },
+    {
+      "id": "wiki:Social impact of YouTube",
+      "type": "wikipedia",
+      "label": "Social impact of YouTube",
+      "url": "https://en.wikipedia.org/wiki/Social_impact_of_YouTube",
+      "firstSeenAt": "2026-10-31T12:22:03.260Z"
+    }
+  ],
+  "recentItems": []
+}

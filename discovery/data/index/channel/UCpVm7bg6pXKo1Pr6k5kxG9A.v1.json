@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
   "title": "National Geographic",
   "thumb": "https://yt3.ggpht.com/-FOFg8o1y4dAHDB2MvhORHnLMOaaOKnaNUNsrU-U57Eac6gjB5VO8sYJQC1KkULGQvKP2XpArA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.55,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.803Z"
+    },
+    {
+      "id": "wiki:Bait ball",
+      "type": "wikipedia",
+      "label": "Bait ball",
+      "url": "https://en.wikipedia.org/wiki/Bait_ball",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    },
+    {
+      "id": "wiki:Circumcision",
+      "type": "wikipedia",
+      "label": "Circumcision",
+      "url": "https://en.wikipedia.org/wiki/Circumcision",
+      "firstSeenAt": "2026-10-31T12:22:04.362Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCzRBOssI9G6VN6HNP--wGFA",
   "title": "DocsOnline",
   "thumb": "https://yt3.ggpht.com/YxEQdNPxymObpy5jC0CTnnIZbhFEuT-sp368JZDpRYTZjT2JUDHr-NymPzIFKknVgZ-6xlPmQw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Portraitist",
       "url": "https://en.wikipedia.org/wiki/The_Portraitist",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Domestic worker",
+      "type": "wikipedia",
+      "label": "Domestic worker",
+      "url": "https://en.wikipedia.org/wiki/Domestic_worker",
+      "firstSeenAt": "2026-10-31T12:21:59.961Z"
     }
   ],
   "recentItems": []

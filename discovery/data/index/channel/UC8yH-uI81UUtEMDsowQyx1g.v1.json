@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UC8yH-uI81UUtEMDsowQyx1g",
   "title": "SABC News",
   "thumb": "https://yt3.ggpht.com/kt7KGuaHi5CanLpbqBYAPjEPniZvUeg1DbmJFavd1H4OqmOVXZNogo3Qn9FPkiALMlp9EsGlP50=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 53.46,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "SABC",
       "url": "https://www.youtube.com/channel/UCHENUm6Z3ty8xPayJ5kNc5g",
       "firstSeenAt": "2026-10-10T12:28:37.383Z"
+    },
+    {
+      "id": "wiki:List of dignitaries at the memorial service of Nelson Mandela",
+      "type": "wikipedia",
+      "label": "List of dignitaries at the memorial service of Nelson Mandela",
+      "url": "https://en.wikipedia.org/wiki/List_of_dignitaries_at_the_memorial_service_of_Nelson_Mandela",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": []

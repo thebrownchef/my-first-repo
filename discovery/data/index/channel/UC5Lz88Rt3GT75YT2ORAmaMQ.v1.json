@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UC5Lz88Rt3GT75YT2ORAmaMQ",
   "title": "Cornell Lab of Ornithology",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mWyyMm1sh7Hi_KjbY3eC3ZWrdVs3eYUQld3XvU00ThzMw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Curl-crested manucode",
       "url": "https://en.wikipedia.org/wiki/Curl-crested_manucode",
       "firstSeenAt": "2026-10-21T11:44:42.678Z"
+    },
+    {
+      "id": "wiki:Sharp-tailed grouse",
+      "type": "wikipedia",
+      "label": "Sharp-tailed grouse",
+      "url": "https://en.wikipedia.org/wiki/Sharp-tailed_grouse",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": []

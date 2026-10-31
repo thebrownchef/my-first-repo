@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "id": "UCUiKhwDL_UU0j1KUB79EJ1Q",
+  "title": "Geek House",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mMswiWXrNp30aiOEIdGNewkvbt3_ZL6bMRMlb-rqsgEtY=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0,
+  "sources": [
+    {
+      "id": "wiki:Collision domain",
+      "type": "wikipedia",
+      "label": "Collision domain",
+      "url": "https://en.wikipedia.org/wiki/Collision_domain",
+      "firstSeenAt": "2026-10-31T12:22:02.268Z"
+    },
+    {
+      "id": "wiki:Broadcast domain",
+      "type": "wikipedia",
+      "label": "Broadcast domain",
+      "url": "https://en.wikipedia.org/wiki/Broadcast_domain",
+      "firstSeenAt": "2026-10-31T12:22:02.268Z"
+    }
+  ],
+  "recentItems": []
+}

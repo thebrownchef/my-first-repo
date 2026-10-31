@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UC0L0PDO9kUS46JC1wEjLEbg",
   "title": "Stones Throw",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mYWB29uQZXFwtt0FP75_H3Y-udrfxzRH9uXeC19mGPP1w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Yang Yang (song)",
       "url": "https://en.wikipedia.org/wiki/Yang_Yang_(song)",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Faden Away",
+      "type": "wikipedia",
+      "label": "Faden Away",
+      "url": "https://en.wikipedia.org/wiki/Faden_Away",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": []

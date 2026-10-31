@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "id": "UCblfuW_4rakIf2h6aqANefA",
+  "title": "Red Bull",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_k94J7kkxpmlJe3c2iDFJpHk8SAADPpf49cN7XjomXSzEE=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.97,
+  "sources": [
+    {
+      "id": "channel:UCFjxi3RutMPomt4HALGYrnA",
+      "type": "channel",
+      "label": "Damien LeRoy",
+      "url": "https://www.youtube.com/channel/UCFjxi3RutMPomt4HALGYrnA",
+      "firstSeenAt": "2026-10-11T12:45:58.675Z"
+    },
+    {
+      "id": "wiki:Danny MacAskill",
+      "type": "wikipedia",
+      "label": "Danny MacAskill",
+      "url": "https://en.wikipedia.org/wiki/Danny_MacAskill",
+      "firstSeenAt": "2026-10-31T12:22:04.362Z"
+    }
+  ],
+  "recentItems": []
+}

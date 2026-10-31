@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCpDJl2EmP7Oh90Vylx0dZtA",
   "title": "Spinnin' Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lAEdCN-f5liiRVIRudaJzXbIsroI3oe-4QoemUi6t8RqI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 1.93,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Booyah (song)",
       "url": "https://en.wikipedia.org/wiki/Booyah_(song)",
       "firstSeenAt": "2026-10-27T12:06:52.925Z"
+    },
+    {
+      "id": "wiki:Mandy Ventrice",
+      "type": "wikipedia",
+      "label": "Mandy Ventrice",
+      "url": "https://en.wikipedia.org/wiki/Mandy_Ventrice",
+      "firstSeenAt": "2026-10-31T12:21:59.961Z"
     }
   ],
   "recentItems": []

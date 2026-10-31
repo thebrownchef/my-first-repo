@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCWGr38XZqO5ng7SD9fyIYSw",
   "title": "Black Butter Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nc8d6A4mu434ydNzdhPbt2fdYyqGQcypdm1-kVB3suH7o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "P Money",
       "url": "https://en.wikipedia.org/wiki/P_Money",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:Intentions (Gorgon City song)",
+      "type": "wikipedia",
+      "label": "Intentions (Gorgon City song)",
+      "url": "https://en.wikipedia.org/wiki/Intentions_(Gorgon_City_song)",
+      "firstSeenAt": "2026-10-31T12:22:04.362Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCSh-dNnqe1agUSzPM01LgBA",
   "title": "Yale University",
   "thumb": "https://yt3.ggpht.com/OWYFEMjf4rwyd5lGiuyA_cA6Mq-PlOCsGaIU4zMgVi7jdFLkT0DAVwZ9ICPktJ8ia9agURG5lg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.55,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Sam Tsui",
       "url": "https://en.wikipedia.org/wiki/Sam_Tsui",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:Joel Primack",
+      "type": "wikipedia",
+      "label": "Joel Primack",
+      "url": "https://en.wikipedia.org/wiki/Joel_Primack",
+      "firstSeenAt": "2026-10-31T12:22:02.268Z"
+    },
+    {
+      "id": "channel:UCGF_z7NNup6feP3ry_mRxnA",
+      "type": "channel",
+      "label": "Yale University Channels",
+      "url": "https://www.youtube.com/channel/UCGF_z7NNup6feP3ry_mRxnA",
+      "firstSeenAt": "2026-10-31T12:22:33.912Z"
     }
   ],
   "recentItems": []

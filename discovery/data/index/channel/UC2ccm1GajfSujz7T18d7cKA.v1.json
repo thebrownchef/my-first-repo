@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UC2ccm1GajfSujz7T18d7cKA",
   "title": "BBC Studios",
   "thumb": "https://yt3.ggpht.com/eJvbR6DJpYIzNu5K9NXr3JHc_c0-8ds7W9CnZ0xywzZQfOTKC9GoMFfEeFMNXKAp9LL9DeaiwOM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 2,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Goodbyeee",
       "url": "https://en.wikipedia.org/wiki/Goodbyeee",
       "firstSeenAt": "2026-10-26T12:56:39.133Z"
+    },
+    {
+      "id": "wiki:Bait ball",
+      "type": "wikipedia",
+      "label": "Bait ball",
+      "url": "https://en.wikipedia.org/wiki/Bait_ball",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": []

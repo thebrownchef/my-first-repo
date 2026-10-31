@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 39,
-  "distinctSourceCount": 39,
+  "score": 42,
+  "distinctSourceCount": 42,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -281,6 +281,27 @@
       "label": "For Whom the Bell Tolls (The Vampire Diaries)",
       "url": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls_(The_Vampire_Diaries)",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Dead Man on Campus (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Dead Man on Campus (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Dead_Man_on_Campus_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:The Cell (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "The Cell (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/The_Cell_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-10-31T12:22:02.268Z"
+    },
+    {
+      "id": "wiki:Fifty Shades of Grayson",
+      "type": "wikipedia",
+      "label": "Fifty Shades of Grayson",
+      "url": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grayson",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": [

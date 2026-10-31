@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCSS7tKTxrtZp35DaoCIe0rQ",
   "title": "ABC Entertainment",
   "thumb": "https://yt3.ggpht.com/L99aAg8P3D2mdSxFpILUsannSkoFeLVX44TJ27F5QmMjeUb1wMj0ttJsh1FycdFoGnFkiV6C-mg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 1.22,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Nikki Webster",
       "url": "https://en.wikipedia.org/wiki/Nikki_Webster",
       "firstSeenAt": "2026-10-30T12:50:07.349Z"
+    },
+    {
+      "id": "wiki:Sled dog",
+      "type": "wikipedia",
+      "label": "Sled dog",
+      "url": "https://en.wikipedia.org/wiki/Sled_dog",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "id": "UCAfx-nLQ7dkiPqZgGBnnYdg",
+  "title": "James Madison",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lNpyqDz09k4KJew8GvhJvA29DdtDaDeNQA_UJs3WUpNA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "wiki:Government of Chicago",
+      "type": "wikipedia",
+      "label": "Government of Chicago",
+      "url": "https://en.wikipedia.org/wiki/Government_of_Chicago",
+      "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Law of Illinois",
+      "type": "wikipedia",
+      "label": "Law of Illinois",
+      "url": "https://en.wikipedia.org/wiki/Law_of_Illinois",
+      "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:Chicago City Council",
+      "type": "wikipedia",
+      "label": "Chicago City Council",
+      "url": "https://en.wikipedia.org/wiki/Chicago_City_Council",
+      "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCdOH6Ak82c81lR9LEQHCzqQ",
   "title": "FuelVEVO",
   "thumb": "https://yt3.ggpht.com/aHsKszD3ETHQcqsxXMbR6fB6wbInKW_wyghKvb7crfyuf5rOpHh84181vy5yN0oapEsoXyng6_M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Wasted Time (Fuel song)",
       "url": "https://en.wikipedia.org/wiki/Wasted_Time_(Fuel_song)",
       "firstSeenAt": "2026-10-12T15:18:29.861Z"
+    },
+    {
+      "id": "wiki:Innocent (Fuel song)",
+      "type": "wikipedia",
+      "label": "Innocent (Fuel song)",
+      "url": "https://en.wikipedia.org/wiki/Innocent_(Fuel_song)",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": []

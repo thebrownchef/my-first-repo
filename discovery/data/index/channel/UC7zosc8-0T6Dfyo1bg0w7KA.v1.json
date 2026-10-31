@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "id": "UC7zosc8-0T6Dfyo1bg0w7KA",
+  "title": "Natural History Museum",
+  "thumb": "https://yt3.ggpht.com/AR6fxVTfIecTD8U5pIggbeo7hF0xJ0WAOwQolCh_h6OyBToSHL7isZXC172TjbbhjhqubsUMAw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.22,
+  "sources": [
+    {
+      "id": "channel:UC03JkcIx6jNK5IviHK6dT2A",
+      "type": "channel",
+      "label": "LibertyInOurTime",
+      "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
+      "firstSeenAt": "2026-10-26T12:57:00.802Z"
+    },
+    {
+      "id": "wiki:Carl Linnaeus",
+      "type": "wikipedia",
+      "label": "Carl Linnaeus",
+      "url": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    }
+  ],
+  "recentItems": []
+}

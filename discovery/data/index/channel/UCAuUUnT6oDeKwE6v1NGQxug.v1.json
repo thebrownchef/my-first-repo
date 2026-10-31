@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
   "title": "TED",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -92,6 +92,20 @@
       "label": "Lawrence Lessig",
       "url": "https://en.wikipedia.org/wiki/Lawrence_Lessig",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Orgasm",
+      "type": "wikipedia",
+      "label": "Orgasm",
+      "url": "https://en.wikipedia.org/wiki/Orgasm",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    },
+    {
+      "id": "wiki:Dolphin",
+      "type": "wikipedia",
+      "label": "Dolphin",
+      "url": "https://en.wikipedia.org/wiki/Dolphin",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UC9KhB07HSEtWISy_LFWwHzw",
   "title": "johnmayerVEVO",
   "thumb": "https://yt3.ggpht.com/IrtssmU5WpTdgnAC3r-YNq_WDGujO8025uptIyQAj_qSL8I5w1NliNEGKvvtm9fWL3xVX6kmrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Half of My Heart",
       "url": "https://en.wikipedia.org/wiki/Half_of_My_Heart",
       "firstSeenAt": "2026-10-24T10:54:50.878Z"
+    },
+    {
+      "id": "wiki:Prancercise",
+      "type": "wikipedia",
+      "label": "Prancercise",
+      "url": "https://en.wikipedia.org/wiki/Prancercise",
+      "firstSeenAt": "2026-10-31T12:21:59.961Z"
     }
   ],
   "recentItems": []

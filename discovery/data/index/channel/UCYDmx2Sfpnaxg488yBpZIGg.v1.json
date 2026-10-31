@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCYDmx2Sfpnaxg488yBpZIGg",
   "title": "STARSHIP",
   "thumb": "https://yt3.ggpht.com/k6p06Jx1N1ItWTjYjdDhDPadzWvIRFPdbqqtM-81QuHF9bzqCj4yy_ZVc40AaFsRvtjwd7ex=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Love & Hate (Hyolyn album)",
       "url": "https://en.wikipedia.org/wiki/Love_%26_Hate_(Hyolyn_album)",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Stupid in Love (Soyou & Mad Clown song)",
+      "type": "wikipedia",
+      "label": "Stupid in Love (Soyou & Mad Clown song)",
+      "url": "https://en.wikipedia.org/wiki/Stupid_in_Love_(Soyou_%26_Mad_Clown_song)",
+      "firstSeenAt": "2026-10-31T12:22:04.362Z"
     }
   ],
   "recentItems": []

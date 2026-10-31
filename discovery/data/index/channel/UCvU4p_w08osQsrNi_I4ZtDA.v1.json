@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "id": "UCvU4p_w08osQsrNi_I4ZtDA",
+  "title": "European Parliament",
+  "thumb": "https://yt3.ggpht.com/y6I27yW5rcdKML5uWm2yuXD8KPbt9bjoDnSvPYaiLNFPs6uQzHCXMGsyvKSP1Y4Xxo_67Nb0jw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.68,
+  "sources": [
+    {
+      "id": "channel:UCMPaviJxybo1RTdzvYcU91A",
+      "type": "channel",
+      "label": "European Commission",
+      "url": "https://www.youtube.com/channel/UCMPaviJxybo1RTdzvYcU91A",
+      "firstSeenAt": "2026-10-08T13:25:42.985Z"
+    },
+    {
+      "id": "wiki:2014 European Parliament election",
+      "type": "wikipedia",
+      "label": "2014 European Parliament election",
+      "url": "https://en.wikipedia.org/wiki/2014_European_Parliament_election",
+      "firstSeenAt": "2026-10-31T12:22:04.362Z"
+    }
+  ],
+  "recentItems": []
+}

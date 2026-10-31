@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCsyZSg-iA7aN6C_jJ2hcLNw",
   "title": "Nikolay's Genetics Lessons",
   "thumb": "https://yt3.ggpht.com/fbdsllCMSn_aL4o1ELx6edkBAQWWljT62_4pdnPPhJJNN4aHbQzZcuLLt8uJs8ybfNVHxCObumA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.61,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Sense strand",
       "url": "https://en.wikipedia.org/wiki/Sense_strand",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Ploidy",
+      "type": "wikipedia",
+      "label": "Ploidy",
+      "url": "https://en.wikipedia.org/wiki/Ploidy",
+      "firstSeenAt": "2026-10-31T12:21:59.961Z"
     }
   ],
   "recentItems": []

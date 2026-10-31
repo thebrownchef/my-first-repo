@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UC1oPBUWifc0QOOY8DEKhLuQ",
   "title": "avex",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLFKt5mP2Y88rd28rdk4oTwUZkQYAfjxAdIXKhFuxDU1c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 2.25,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Maki Goto",
       "url": "https://en.wikipedia.org/wiki/Maki_Goto",
       "firstSeenAt": "2026-10-30T12:50:11.876Z"
+    },
+    {
+      "id": "wiki:Ocean (TVXQ song)",
+      "type": "wikipedia",
+      "label": "Ocean (TVXQ song)",
+      "url": "https://en.wikipedia.org/wiki/Ocean_(TVXQ_song)",
+      "firstSeenAt": "2026-10-31T12:22:04.363Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:07.548Z",
+  "generatedAt": "2026-10-31T12:24:04.542Z",
   "id": "UCzBQv4E25jcUgO8cWkLsNAw",
   "title": "SBTV: Music",
   "thumb": "https://yt3.ggpht.com/5t5fHno3gffXLYNgub2sjkUW-zSsOWtWV_MlRlXq1P_icN2QlnQRJRWLMnRvIO2oVgMNIQxN-A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.65,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Kano (British musician)",
       "url": "https://en.wikipedia.org/wiki/Kano_(British_musician)",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Demonstration (Tinie Tempah album)",
+      "type": "wikipedia",
+      "label": "Demonstration (Tinie Tempah album)",
+      "url": "https://en.wikipedia.org/wiki/Demonstration_(Tinie_Tempah_album)",
+      "firstSeenAt": "2026-10-31T12:22:02.269Z"
     }
   ],
   "recentItems": []
