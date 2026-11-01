@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCe4LM_eKc9ywRmVuBm5pjQg",
   "title": "Atlantic Records",
   "thumb": "https://yt3.ggpht.com/6W-mb2efMopcsFp2LcQV2kbp9H_L3CmdOUGfWAsRG21B_AKurkfNk-aM0ZkcPSoGOJ0w0VKAxuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "MMG",
       "url": "https://www.youtube.com/channel/UCZ4lL740aLgbW9-bbfK1diA",
       "firstSeenAt": "2026-10-24T10:55:03.283Z"
+    },
+    {
+      "id": "wiki:The Black Rob Report",
+      "type": "wikipedia",
+      "label": "The Black Rob Report",
+      "url": "https://en.wikipedia.org/wiki/The_Black_Rob_Report",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
     }
   ],
   "recentItems": []

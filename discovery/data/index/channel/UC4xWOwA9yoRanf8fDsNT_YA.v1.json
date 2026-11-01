@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC4xWOwA9yoRanf8fDsNT_YA",
   "title": "ANTI- Records",
   "thumb": "https://yt3.ggpht.com/xHq29rXWdZjoTmXfprGy0jBgWZ5_8W-a5sHoGY2GNViyBEsWAynGco0p9uChgRVgaIIWTDX2RA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Skyline (Yann Tiersen album)",
       "url": "https://en.wikipedia.org/wiki/Skyline_(Yann_Tiersen_album)",
       "firstSeenAt": "2026-10-11T12:45:41.514Z"
+    },
+    {
+      "id": "wiki:Bad as Me",
+      "type": "wikipedia",
+      "label": "Bad as Me",
+      "url": "https://en.wikipedia.org/wiki/Bad_as_Me",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Tassili (album)",
+      "type": "wikipedia",
+      "label": "Tassili (album)",
+      "url": "https://en.wikipedia.org/wiki/Tassili_(album)",
+      "firstSeenAt": "2026-11-01T13:17:27.897Z"
     }
   ],
   "recentItems": []

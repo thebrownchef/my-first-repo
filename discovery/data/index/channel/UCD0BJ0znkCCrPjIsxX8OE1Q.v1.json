@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCD0BJ0znkCCrPjIsxX8OE1Q",
   "title": "The Wanted",
   "thumb": "https://yt3.ggpht.com/TFmhhZeDyNrm7_iq7JhdmdnETF4BhMZSVidyPTcf4gUFKvjWH6PsxSY6hUO7wcianac1dIJoNQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "All Time Low (The Wanted song)",
       "url": "https://en.wikipedia.org/wiki/All_Time_Low_(The_Wanted_song)",
       "firstSeenAt": "2026-10-05T14:32:40.422Z"
+    },
+    {
+      "id": "wiki:Word of Mouth (The Wanted album)",
+      "type": "wikipedia",
+      "label": "Word of Mouth (The Wanted album)",
+      "url": "https://en.wikipedia.org/wiki/Word_of_Mouth_(The_Wanted_album)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

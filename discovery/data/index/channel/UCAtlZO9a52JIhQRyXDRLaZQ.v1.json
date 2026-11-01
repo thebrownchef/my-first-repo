@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCAtlZO9a52JIhQRyXDRLaZQ",
   "title": "SUMERIAN",
   "thumb": "https://yt3.ggpht.com/0wSYqaUVQchPTN_S7evpJxDf4ySZKZ1mdLfZv9wjKrO0xEMIy-xFquuB60IMXIB22JPSh6Huzc8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "From Death to Destiny",
       "url": "https://en.wikipedia.org/wiki/From_Death_to_Destiny",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Digital Renegade",
+      "type": "wikipedia",
+      "label": "Digital Renegade",
+      "url": "https://en.wikipedia.org/wiki/Digital_Renegade",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
     }
   ],
   "recentItems": []

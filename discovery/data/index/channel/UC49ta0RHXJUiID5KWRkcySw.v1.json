@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC49ta0RHXJUiID5KWRkcySw",
   "title": "SiriusXM",
   "thumb": "https://yt3.ggpht.com/gxs1QWAarhhfR2t1N4K4rLsH2GWlCogcE1BHMloXB9p-5PqyrnSdDei2dxnBukzKgkwz0x8KFA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 1.38,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Team Coco",
       "url": "https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA",
       "firstSeenAt": "2026-10-29T12:56:42.183Z"
+    },
+    {
+      "id": "wiki:Prism (Katy Perry album)",
+      "type": "wikipedia",
+      "label": "Prism (Katy Perry album)",
+      "url": "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

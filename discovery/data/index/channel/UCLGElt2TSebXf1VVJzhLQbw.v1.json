@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCLGElt2TSebXf1VVJzhLQbw",
   "title": "Matador Records",
   "thumb": "https://yt3.ggpht.com/2lDUvZzwS-H5BrawRZu4tGE5tJmkVpJnkARG31S2LADz1jhLuMU93zDmCH1Dym5dbTOQIwOjgQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Beggars Banquet Records",
       "url": "https://www.youtube.com/channel/UCXWY-FG0IvCKrj_lqQdGLOQ",
       "firstSeenAt": "2026-10-14T11:48:44.900Z"
+    },
+    {
+      "id": "wiki:Wash the Sins Not Only the Face",
+      "type": "wikipedia",
+      "label": "Wash the Sins Not Only the Face",
+      "url": "https://en.wikipedia.org/wiki/Wash_the_Sins_Not_Only_the_Face",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:David Comes to Life",
+      "type": "wikipedia",
+      "label": "David Comes to Life",
+      "url": "https://en.wikipedia.org/wiki/David_Comes_to_Life",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

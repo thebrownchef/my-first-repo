@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC8l9frL61Yl5KFOl87nIm2w",
   "title": "BlankTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncpfaMstuqfHF2SAsKzZ3hXmrNY-FiLYU2geOzuYEZC1U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 3.09,
   "sources": [
@@ -36,6 +36,27 @@
       "label": "Mams Taylor",
       "url": "https://en.wikipedia.org/wiki/Mams_Taylor",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Sam Sparro discography",
+      "type": "wikipedia",
+      "label": "Sam Sparro discography",
+      "url": "https://en.wikipedia.org/wiki/Sam_Sparro_discography",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
+    },
+    {
+      "id": "wiki:Hidden Vagenda",
+      "type": "wikipedia",
+      "label": "Hidden Vagenda",
+      "url": "https://en.wikipedia.org/wiki/Hidden_Vagenda",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
+    },
+    {
+      "id": "wiki:Automatic (The Stitches album)",
+      "type": "wikipedia",
+      "label": "Automatic (The Stitches album)",
+      "url": "https://en.wikipedia.org/wiki/Automatic_(The_Stitches_album)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

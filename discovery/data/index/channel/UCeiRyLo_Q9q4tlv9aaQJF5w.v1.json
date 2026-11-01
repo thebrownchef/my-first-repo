@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCeiRyLo_Q9q4tlv9aaQJF5w",
   "title": "The National",
   "thumb": "https://yt3.ggpht.com/Hp6ttOMVzwkcH9lmOl11RZRJXPr88qqgjm9HAHUkfzYnXBSMkzpM8HzyjG-hvX-mtx9BXEQt=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Zvuki Mu",
       "url": "https://en.wikipedia.org/wiki/Zvuki_Mu",
       "firstSeenAt": "2026-10-27T12:06:52.925Z"
+    },
+    {
+      "id": "wiki:Trouble Will Find Me",
+      "type": "wikipedia",
+      "label": "Trouble Will Find Me",
+      "url": "https://en.wikipedia.org/wiki/Trouble_Will_Find_Me",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

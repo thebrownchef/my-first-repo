@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UChvAV3_iEHsbt8bIL1wYc0g",
   "title": "leonalewisVEVO",
   "thumb": "https://yt3.ggpht.com/4A6-ZS8qIKhzPSKCtQp6GZoGigHrQ449vTQm20owkGlqfDO2NdQQqKmzvzIAOo1PTKVafirh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Lovebird (song)",
       "url": "https://en.wikipedia.org/wiki/Lovebird_(song)",
       "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Glassheart",
+      "type": "wikipedia",
+      "label": "Glassheart",
+      "url": "https://en.wikipedia.org/wiki/Glassheart",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
     }
   ],
   "recentItems": []

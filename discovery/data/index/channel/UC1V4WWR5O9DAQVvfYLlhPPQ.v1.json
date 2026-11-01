@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC1V4WWR5O9DAQVvfYLlhPPQ",
   "title": "The Museum of Contemporary Art",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l-X3zQm6J2Hql-P5g26zxQMk560kpJli7GjDQMM91YzO4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Creators",
       "url": "https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ",
       "firstSeenAt": "2026-10-13T14:08:17.021Z"
+    },
+    {
+      "id": "channel:UC9DkCKm4_VDztRRyge4mCJQ",
+      "type": "channel",
+      "label": "Amoeba",
+      "url": "https://www.youtube.com/channel/UC9DkCKm4_VDztRRyge4mCJQ",
+      "firstSeenAt": "2026-11-01T13:17:48.154Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC-J7gq2FY7k7_OPB9dIIs5Q",
   "title": "Chickenfoot",
   "thumb": "https://yt3.ggpht.com/ppzeTjZYPmu2eusiIuTYdzi4U3rmz5zvtjHPhygL2u0GXCgzsyVv6oBJq6qHxrnCaAXjQ5YAM8o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "earMUSIC",
       "url": "https://www.youtube.com/channel/UCzKNn1SxrLobzWemQ9HItNA",
       "firstSeenAt": "2026-10-14T11:48:31.051Z"
+    },
+    {
+      "id": "wiki:Chickenfoot III",
+      "type": "wikipedia",
+      "label": "Chickenfoot III",
+      "url": "https://en.wikipedia.org/wiki/Chickenfoot_III",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

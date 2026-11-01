@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCoEN65PAvCJkuxQXxSUmpzA",
   "title": "Matt Fishel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nRZsQce2bu-g2zlQExfItC9kMPY85kipIBmcU7BIh_y6Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Testament (song)",
       "url": "https://en.wikipedia.org/wiki/Testament_(song)",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:Not Thinking Straight (album)",
+      "type": "wikipedia",
+      "label": "Not Thinking Straight (album)",
+      "url": "https://en.wikipedia.org/wiki/Not_Thinking_Straight_(album)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

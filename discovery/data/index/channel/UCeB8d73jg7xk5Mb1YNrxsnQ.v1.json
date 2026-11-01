@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCeB8d73jg7xk5Mb1YNrxsnQ",
   "title": "Stone Sour",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kybJdh6k_D7EtSVUoVT-2fcF0lUlEQ8PQoUhTX0CGUYb4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "House of Gold & Bones – Part 2",
       "url": "https://en.wikipedia.org/wiki/House_of_Gold_%26_Bones_%E2%80%93_Part_2",
       "firstSeenAt": "2026-10-26T12:56:37.390Z"
+    },
+    {
+      "id": "wiki:House of Gold & Bones – Part 1",
+      "type": "wikipedia",
+      "label": "House of Gold & Bones – Part 1",
+      "url": "https://en.wikipedia.org/wiki/House_of_Gold_%26_Bones_%E2%80%93_Part_1",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
     }
   ],
   "recentItems": []

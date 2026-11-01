@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC1oPBUWifc0QOOY8DEKhLuQ",
   "title": "avex",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLFKt5mP2Y88rd28rdk4oTwUZkQYAfjxAdIXKhFuxDU1c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 2.25,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Ocean (TVXQ song)",
       "url": "https://en.wikipedia.org/wiki/Ocean_(TVXQ_song)",
       "firstSeenAt": "2026-10-31T12:22:04.363Z"
+    },
+    {
+      "id": "wiki:Tone (TVXQ album)",
+      "type": "wikipedia",
+      "label": "Tone (TVXQ album)",
+      "url": "https://en.wikipedia.org/wiki/Tone_(TVXQ_album)",
+      "firstSeenAt": "2026-11-01T13:17:27.897Z"
     }
   ],
   "recentItems": []

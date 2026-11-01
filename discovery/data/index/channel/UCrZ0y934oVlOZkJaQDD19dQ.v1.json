@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCrZ0y934oVlOZkJaQDD19dQ",
   "title": "B2Ment",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l7sPM01N7si_URuA6mW6QEOTQvCRkhESyYLNN8QdBXPA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -57,6 +57,34 @@
       "label": "Heo Young-saeng",
       "url": "https://en.wikipedia.org/wiki/Heo_Young-saeng",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Meet Me Again",
+      "type": "wikipedia",
+      "label": "Meet Me Again",
+      "url": "https://en.wikipedia.org/wiki/Meet_Me_Again",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Solo (EP)",
+      "type": "wikipedia",
+      "label": "Solo (EP)",
+      "url": "https://en.wikipedia.org/wiki/Solo_(EP)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Let It Go (EP)",
+      "type": "wikipedia",
+      "label": "Let It Go (EP)",
+      "url": "https://en.wikipedia.org/wiki/Let_It_Go_(EP)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Turn Me On (Kim Kyu-jong EP)",
+      "type": "wikipedia",
+      "label": "Turn Me On (Kim Kyu-jong EP)",
+      "url": "https://en.wikipedia.org/wiki/Turn_Me_On_(Kim_Kyu-jong_EP)",
+      "firstSeenAt": "2026-11-01T13:17:27.897Z"
     }
   ],
   "recentItems": []

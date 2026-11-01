@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCDGknzyQfNiThyt4vg4MlTQ",
   "title": "The Obama White House",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lDMNIxOLy185JOInu9TeQ5NilS0XBYrL8dIsnc_GYOZ57d=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.98,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Deborah Temkin",
       "url": "https://en.wikipedia.org/wiki/Deborah_Temkin",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:1985 Chicago Bears season",
+      "type": "wikipedia",
+      "label": "1985 Chicago Bears season",
+      "url": "https://en.wikipedia.org/wiki/1985_Chicago_Bears_season",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCiWLfSweyRNmLpgEHekhoAg",
   "title": "ESPN",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mjPkMeFcQxySKuGOn-eSPaOaTK55KKtjF7LTkkwidfCP1D=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 14.92,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Malika Andrews - ESPN",
       "url": "https://www.youtube.com/channel/UCIIKPy27YWW5yhc0qvr4KnA",
       "firstSeenAt": "2026-10-23T11:34:47.689Z"
+    },
+    {
+      "id": "channel:UCV-0wytm-vh-p92aJidWSkA",
+      "type": "channel",
+      "label": "Kohl's Kicking Camps",
+      "url": "https://www.youtube.com/channel/UCV-0wytm-vh-p92aJidWSkA",
+      "firstSeenAt": "2026-11-01T13:17:44.052Z"
+    },
+    {
+      "id": "channel:UCfIeBklSE7OqY1z1sC1HXHQ",
+      "type": "channel",
+      "label": "maloneypromotions",
+      "url": "https://www.youtube.com/channel/UCfIeBklSE7OqY1z1sC1HXHQ",
+      "firstSeenAt": "2026-11-01T13:17:48.869Z"
     }
   ],
   "recentItems": []

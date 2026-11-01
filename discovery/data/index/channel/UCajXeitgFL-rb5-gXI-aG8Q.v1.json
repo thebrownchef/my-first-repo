@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCajXeitgFL-rb5-gXI-aG8Q",
   "title": "Great Big Story",
   "thumb": "https://yt3.ggpht.com/jNeTB9OVcqD4QsRe3sbWkybRe-GKjRwttqtHNV_BurWxga_sKhwING5odp53QPU8g_krSF1KEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.85,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.824Z"
+    },
+    {
+      "id": "channel:UCe-4xQosMQGkIA8mT4sR98Q",
+      "type": "channel",
+      "label": "CNN Business",
+      "url": "https://www.youtube.com/channel/UCe-4xQosMQGkIA8mT4sR98Q",
+      "firstSeenAt": "2026-11-01T13:17:48.001Z"
     }
   ],
   "recentItems": []

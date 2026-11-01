@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCZU9T1ceaOgwfLRq7OKFU4Q",
   "title": "Linkin Park",
   "thumb": "https://yt3.ggpht.com/OtUf050j6w6iRPUmGgmzblD2saluxUusxiVmo0-SMUnWiNKwR89JL_-xJ6JvIEram8UbPT_zDA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 2,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "Breaking the Habit (song)",
       "url": "https://en.wikipedia.org/wiki/Breaking_the_Habit_(song)",
       "firstSeenAt": "2026-10-27T12:06:49.119Z"
+    },
+    {
+      "id": "wiki:Living Things (Linkin Park album)",
+      "type": "wikipedia",
+      "label": "Living Things (Linkin Park album)",
+      "url": "https://en.wikipedia.org/wiki/Living_Things_(Linkin_Park_album)",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
     }
   ],
   "recentItems": [

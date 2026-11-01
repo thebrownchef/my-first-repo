@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC7kI8WjpCfFoMSNDuRh_4lA",
   "title": "Pitchfork",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mkvaS3IB3M03HsGC2kQBx0BxA_vg2X0s86udkvv83DHgk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.46,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "English Electric (album)",
       "url": "https://en.wikipedia.org/wiki/English_Electric_(album)",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:Wash the Sins Not Only the Face",
+      "type": "wikipedia",
+      "label": "Wash the Sins Not Only the Face",
+      "url": "https://en.wikipedia.org/wiki/Wash_the_Sins_Not_Only_the_Face",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Spooky Action at a Distance",
+      "type": "wikipedia",
+      "label": "Spooky Action at a Distance",
+      "url": "https://en.wikipedia.org/wiki/Spooky_Action_at_a_Distance",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

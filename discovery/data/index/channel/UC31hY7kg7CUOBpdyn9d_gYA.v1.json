@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC31hY7kg7CUOBpdyn9d_gYA",
   "title": "KateBushMusic",
   "thumb": "https://yt3.ggpht.com/CYcdVmMeqjU15_yNycutnPlA37RfsvVTypar4ul58VrkylB5_PhLnNNqZe61grvXfCUuHnf1qw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Deeper Understanding",
       "url": "https://en.wikipedia.org/wiki/Deeper_Understanding",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Director's Cut (Kate Bush album)",
+      "type": "wikipedia",
+      "label": "Director's Cut (Kate Bush album)",
+      "url": "https://en.wikipedia.org/wiki/Director's_Cut_(Kate_Bush_album)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

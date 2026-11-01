@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC54U5gpKkaa_BpXRVNip2Dw",
   "title": "KCRW",
   "thumb": "https://yt3.ggpht.com/ASsCaTv3d6H9x02ULytfwKvyAVES4vRl0oSPLXpY83BBYBZw8Ju54hUKHbrAFndE3mE3olTCaQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "KCRW",
       "url": "https://www.youtube.com/channel/UC54U5gpKkaa_BpXRVNip2Dw",
       "firstSeenAt": "2026-09-16T11:29:07.866Z"
+    },
+    {
+      "id": "wiki:Here (Edward Sharpe album)",
+      "type": "wikipedia",
+      "label": "Here (Edward Sharpe album)",
+      "url": "https://en.wikipedia.org/wiki/Here_(Edward_Sharpe_album)",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Bella (album)",
+      "type": "wikipedia",
+      "label": "Bella (album)",
+      "url": "https://en.wikipedia.org/wiki/Bella_(album)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "channel:UC9DkCKm4_VDztRRyge4mCJQ",
+      "type": "channel",
+      "label": "Amoeba",
+      "url": "https://www.youtube.com/channel/UC9DkCKm4_VDztRRyge4mCJQ",
+      "firstSeenAt": "2026-11-01T13:17:48.152Z"
     }
   ],
   "recentItems": []

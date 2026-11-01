@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCRRxSTgPUY0q_YToaczc2BQ",
   "title": "Roadrunner Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l1XU_iZdJApWf0y_n3V9Z6M1rhiuL0GOP91lXKWLckLEM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 2,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -50,6 +50,27 @@
       "label": "Stone Sour",
       "url": "https://www.youtube.com/channel/UCeB8d73jg7xk5Mb1YNrxsnQ",
       "firstSeenAt": "2026-10-21T11:45:04.184Z"
+    },
+    {
+      "id": "wiki:As Daylight Dies",
+      "type": "wikipedia",
+      "label": "As Daylight Dies",
+      "url": "https://en.wikipedia.org/wiki/As_Daylight_Dies",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Enslaved (Soulfly album)",
+      "type": "wikipedia",
+      "label": "Enslaved (Soulfly album)",
+      "url": "https://en.wikipedia.org/wiki/Enslaved_(Soulfly_album)",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:A Dramatic Turn of Events",
+      "type": "wikipedia",
+      "label": "A Dramatic Turn of Events",
+      "url": "https://en.wikipedia.org/wiki/A_Dramatic_Turn_of_Events",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

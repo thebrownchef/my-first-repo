@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCu5jfQcpRLm9xhmlSd5S8xw",
   "title": "Armin van Buuren",
   "thumb": "https://yt3.ggpht.com/SjBd_IeV9mnOBxyYMiuKWmjBnarSlH_GkMX7OEWCr9ZYvYSqNMFPpK5PPj9gkXV-PLQX7sCcynA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Blanco y Negro Music",
       "url": "https://www.youtube.com/channel/UC_MsAEyTYUBfxp9j1XwMhMw",
       "firstSeenAt": "2026-10-07T13:19:19.921Z"
+    },
+    {
+      "id": "channel:UCK-INiAxSg27L8DQ6HIoHGQ",
+      "type": "channel",
+      "label": "ATB",
+      "url": "https://www.youtube.com/channel/UCK-INiAxSg27L8DQ6HIoHGQ",
+      "firstSeenAt": "2026-11-01T13:17:43.217Z"
     }
   ],
   "recentItems": []

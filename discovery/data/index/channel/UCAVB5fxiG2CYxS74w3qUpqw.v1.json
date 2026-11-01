@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCAVB5fxiG2CYxS74w3qUpqw",
   "title": "PeachesTV",
   "thumb": "https://yt3.ggpht.com/lG3gDJsQs_z_qDoaalNbC-I3UrC4r2522dCw0Dawh_LzuplISrachBG7pU9ORQMdHZi12VzFew=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Rock Show (Peaches song)",
       "url": "https://en.wikipedia.org/wiki/Rock_Show_(Peaches_song)",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:Fatherfucker",
+      "type": "wikipedia",
+      "label": "Fatherfucker",
+      "url": "https://en.wikipedia.org/wiki/Fatherfucker",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
     }
   ],
   "recentItems": []

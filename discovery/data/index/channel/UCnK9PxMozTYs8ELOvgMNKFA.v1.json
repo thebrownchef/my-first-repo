@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCnK9PxMozTYs8ELOvgMNKFA",
   "title": "Century Media Records",
   "thumb": "https://yt3.ggpht.com/EZexg-OOQs9OBMNTxC9EzCb0VHigKw4u8L2j8xYpF7ABF7k7S_dYXnprBaHuGVDiHyLl0Ys_JA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -64,6 +64,41 @@
       "label": "Habitual Levitations (Instilling Words with Tones)",
       "url": "https://en.wikipedia.org/wiki/Habitual_Levitations_(Instilling_Words_with_Tones)",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Mabool",
+      "type": "wikipedia",
+      "label": "Mabool",
+      "url": "https://en.wikipedia.org/wiki/Mabool",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
+    },
+    {
+      "id": "wiki:Putrid Death Sorcery",
+      "type": "wikipedia",
+      "label": "Putrid Death Sorcery",
+      "url": "https://en.wikipedia.org/wiki/Putrid_Death_Sorcery",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Queensrÿche (album)",
+      "type": "wikipedia",
+      "label": "Queensrÿche (album)",
+      "url": "https://en.wikipedia.org/wiki/Queensr%C3%BFche_(album)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:One for Sorrow (album)",
+      "type": "wikipedia",
+      "label": "One for Sorrow (album)",
+      "url": "https://en.wikipedia.org/wiki/One_for_Sorrow_(album)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Addicts: Black Meddle, Part II",
+      "type": "wikipedia",
+      "label": "Addicts: Black Meddle, Part II",
+      "url": "https://en.wikipedia.org/wiki/Addicts%3A_Black_Meddle%2C_Part_II",
+      "firstSeenAt": "2026-11-01T13:17:27.897Z"
     }
   ],
   "recentItems": []

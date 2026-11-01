@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCG5fkJ8-2b2ZjWpVNpr7Dqg",
   "title": "whitneyhoustonVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mMpYur_Ra_AHgeLM2wRAVbky1_IXRLAE05Mm0Ee_ZtnXg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "I Have Nothing",
       "url": "https://en.wikipedia.org/wiki/I_Have_Nothing",
       "firstSeenAt": "2026-10-31T12:22:02.268Z"
+    },
+    {
+      "id": "wiki:I Look to You (song)",
+      "type": "wikipedia",
+      "label": "I Look to You (song)",
+      "url": "https://en.wikipedia.org/wiki/I_Look_to_You_(song)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": [

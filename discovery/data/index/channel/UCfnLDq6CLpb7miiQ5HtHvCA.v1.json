@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCfnLDq6CLpb7miiQ5HtHvCA",
   "title": "PalomaFaithVEVO",
   "thumb": "https://yt3.ggpht.com/82_nCHgW71fGZxkGaXrnup7w1Nuh3_FqmbrDJWorWfwjv8mfUozwSDq6ghGqEKUY9qZVmjf9EdA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Just Be (Paloma Faith song)",
       "url": "https://en.wikipedia.org/wiki/Just_Be_(Paloma_Faith_song)",
       "firstSeenAt": "2026-10-17T10:39:51.978Z"
+    },
+    {
+      "id": "wiki:Fall to Grace",
+      "type": "wikipedia",
+      "label": "Fall to Grace",
+      "url": "https://en.wikipedia.org/wiki/Fall_to_Grace",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
     }
   ],
   "recentItems": []

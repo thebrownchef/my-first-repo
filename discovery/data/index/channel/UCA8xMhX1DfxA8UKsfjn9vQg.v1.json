@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCA8xMhX1DfxA8UKsfjn9vQg",
   "title": "Domino Recording Co.",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mGqDjNELH3SGFOAKWGSOK6JgyTEwJttA2zcxmA-DrA-w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "franzferdinandVEVO",
       "url": "https://www.youtube.com/channel/UCnTyZoYYkO7kVDFFUmqllBg",
       "firstSeenAt": "2026-10-24T10:55:04.046Z"
+    },
+    {
+      "id": "wiki:Centipede Hz",
+      "type": "wikipedia",
+      "label": "Centipede Hz",
+      "url": "https://en.wikipedia.org/wiki/Centipede_Hz",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC2ScTcowKLzbyCl8ogJ_KKg",
   "title": "laurapausinitv",
   "thumb": "https://yt3.ggpht.com/3Glz2RL13txCrjqKMS5BUtB9VN1wRFIa12bvfwbKv3zGIqXwjfAPKH9vpT935QH17h0wcS_laA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "La prospettiva di me",
       "url": "https://en.wikipedia.org/wiki/La_prospettiva_di_me",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:Limpido",
+      "type": "wikipedia",
+      "label": "Limpido",
+      "url": "https://en.wikipedia.org/wiki/Limpido",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
     }
   ],
   "recentItems": []

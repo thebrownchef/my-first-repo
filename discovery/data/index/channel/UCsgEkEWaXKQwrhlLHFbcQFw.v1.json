@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCsgEkEWaXKQwrhlLHFbcQFw",
   "title": "Sub Pop",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kaD6FuxSeY4TJ53io3868YCaM8Efk3tldqO5U1dp5ZXQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -92,6 +92,27 @@
       "label": "The Invisible Way",
       "url": "https://en.wikipedia.org/wiki/The_Invisible_Way",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Vanishing Point (Mudhoney album)",
+      "type": "wikipedia",
+      "label": "Vanishing Point (Mudhoney album)",
+      "url": "https://en.wikipedia.org/wiki/Vanishing_Point_(Mudhoney_album)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:C'mon (Low album)",
+      "type": "wikipedia",
+      "label": "C'mon (Low album)",
+      "url": "https://en.wikipedia.org/wiki/C'mon_(Low_album)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "channel:UC9DkCKm4_VDztRRyge4mCJQ",
+      "type": "channel",
+      "label": "Amoeba",
+      "url": "https://www.youtube.com/channel/UC9DkCKm4_VDztRRyge4mCJQ",
+      "firstSeenAt": "2026-11-01T13:17:48.155Z"
     }
   ],
   "recentItems": []

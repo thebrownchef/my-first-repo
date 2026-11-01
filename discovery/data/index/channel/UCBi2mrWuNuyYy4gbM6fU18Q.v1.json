@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
   "title": "ABC News",
   "thumb": "https://yt3.ggpht.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 16.24,
   "sources": [
@@ -85,6 +85,20 @@
       "label": "Ashton Kutcher",
       "url": "https://en.wikipedia.org/wiki/Ashton_Kutcher",
       "firstSeenAt": "2026-10-31T12:22:04.362Z"
+    },
+    {
+      "id": "wiki:Hurry Up, We're Dreaming",
+      "type": "wikipedia",
+      "label": "Hurry Up, We're Dreaming",
+      "url": "https://en.wikipedia.org/wiki/Hurry_Up%2C_We're_Dreaming",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Jeannie Leavitt",
+      "type": "wikipedia",
+      "label": "Jeannie Leavitt",
+      "url": "https://en.wikipedia.org/wiki/Jeannie_Leavitt",
+      "firstSeenAt": "2026-11-01T13:17:27.897Z"
     }
   ],
   "recentItems": []

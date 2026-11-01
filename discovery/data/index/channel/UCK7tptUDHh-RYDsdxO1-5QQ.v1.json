@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCK7tptUDHh-RYDsdxO1-5QQ",
   "title": "The Wall Street Journal",
   "thumb": "https://yt3.ggpht.com/zbPzRWTIiIg_sNPoAgBf4COWvAoac3vgbiTEu1dfpqH3YPDNvnxMjDtAGftuw5EPx8wfSjMzr2I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 4.12,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Killing of Trayvon Martin",
       "url": "https://en.wikipedia.org/wiki/Killing_of_Trayvon_Martin",
       "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    },
+    {
+      "id": "wiki:Murder of Menachem Stark",
+      "type": "wikipedia",
+      "label": "Murder of Menachem Stark",
+      "url": "https://en.wikipedia.org/wiki/Murder_of_Menachem_Stark",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

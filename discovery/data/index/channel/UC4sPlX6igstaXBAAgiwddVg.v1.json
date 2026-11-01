@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC4sPlX6igstaXBAAgiwddVg",
   "title": "Equal Vision Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mg5TYirdu-8Txqx-oTLwE3GuKXcAAcuIMwLGEDtX_6W_k=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.46,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "SetItOffVEVO",
       "url": "https://www.youtube.com/channel/UCFgpliUW3FInEG5aU1AvUeA",
       "firstSeenAt": "2026-09-17T11:38:51.443Z"
+    },
+    {
+      "id": "wiki:Tracing Back Roots",
+      "type": "wikipedia",
+      "label": "Tracing Back Roots",
+      "url": "https://en.wikipedia.org/wiki/Tracing_Back_Roots",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

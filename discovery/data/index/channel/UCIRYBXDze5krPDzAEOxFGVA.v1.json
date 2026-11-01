@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "id": "UCIRYBXDze5krPDzAEOxFGVA",
+  "title": "Guardian News",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nDo1i4jEe90wqB2OCDy57NjTMVUHo1o7vFBjLzVzLeBQI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 5.11,
+  "sources": [
+    {
+      "id": "channel:UC03JkcIx6jNK5IviHK6dT2A",
+      "type": "channel",
+      "label": "LibertyInOurTime",
+      "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
+      "firstSeenAt": "2026-10-26T12:57:00.824Z"
+    },
+    {
+      "id": "channel:UCHpw8xwDNhU9gdohEcJu4aA",
+      "type": "channel",
+      "label": "The Guardian",
+      "url": "https://www.youtube.com/channel/UCHpw8xwDNhU9gdohEcJu4aA",
+      "firstSeenAt": "2026-11-01T13:18:04.135Z"
+    }
+  ],
+  "recentItems": []
+}

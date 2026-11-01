@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCig8VXo12JBPN9MxB23rYYw",
   "title": "The EME Agency (& Banky W) ",
   "thumb": "https://yt3.ggpht.com/bxlgc_3EZuT151pItqbzJh3a8tCMGV_V1W3jaTDexX4xArGVVW7z9_H4hnGdKhmGuE1lbLUxlw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Jaiye Jaiye",
       "url": "https://en.wikipedia.org/wiki/Jaiye_Jaiye",
       "firstSeenAt": "2026-10-27T12:06:52.925Z"
+    },
+    {
+      "id": "wiki:Baddest Boy",
+      "type": "wikipedia",
+      "label": "Baddest Boy",
+      "url": "https://en.wikipedia.org/wiki/Baddest_Boy",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
     }
   ],
   "recentItems": []

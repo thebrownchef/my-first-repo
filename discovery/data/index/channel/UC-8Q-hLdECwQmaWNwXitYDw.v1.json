@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC-8Q-hLdECwQmaWNwXitYDw",
   "title": "KatyPerryVEVO",
   "thumb": "https://yt3.ggpht.com/At-OTmzPnkE8xcDw08lHdUxbGy9TP-jzB4f4EnvcnUVTMuHoLP-sE8WY3OkwK6DJdWN6OJII=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Dimensions London",
       "url": "https://www.youtube.com/channel/UCZW6KGdNIFXO0T-KjNlDbXg",
       "firstSeenAt": "2026-10-29T12:56:46.480Z"
+    },
+    {
+      "id": "wiki:Prism (Katy Perry album)",
+      "type": "wikipedia",
+      "label": "Prism (Katy Perry album)",
+      "url": "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

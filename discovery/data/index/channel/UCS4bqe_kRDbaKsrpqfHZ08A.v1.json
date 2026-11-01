@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCS4bqe_kRDbaKsrpqfHZ08A",
   "title": "SnowPatrolVEVO",
   "thumb": "https://yt3.ggpht.com/aOD5l9xMON_pkmUeVL6ZWebVqMFT1Cq_j3uTFhPzdjAa4sNw7ajY31SnJv4s2Wy6ghY97bvAhhc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Called Out in the Dark",
       "url": "https://en.wikipedia.org/wiki/Called_Out_in_the_Dark",
       "firstSeenAt": "2026-10-22T11:47:47.034Z"
+    },
+    {
+      "id": "wiki:Fallen Empires (album)",
+      "type": "wikipedia",
+      "label": "Fallen Empires (album)",
+      "url": "https://en.wikipedia.org/wiki/Fallen_Empires_(album)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

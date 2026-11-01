@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "id": "UC3I2GFN_F8WudD_2jUZbojA",
+  "title": "KEXP",
+  "thumb": "https://yt3.ggpht.com/cl8yKGTNMIspmtTvc0UJIiFzn3b0jH-eOlSBwd4ODVbXNkxUEZ-7JVlCZi2DRPw8qtIDv-jN2Gg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 2.93,
+  "sources": [
+    {
+      "id": "channel:UCQVjF5myESp1ZUENwBz4CMQ",
+      "type": "channel",
+      "label": "2 Meter Sessions",
+      "url": "https://www.youtube.com/channel/UCQVjF5myESp1ZUENwBz4CMQ",
+      "firstSeenAt": "2026-09-12T10:43:16.148Z"
+    },
+    {
+      "id": "wiki:Degeneration Street",
+      "type": "wikipedia",
+      "label": "Degeneration Street",
+      "url": "https://en.wikipedia.org/wiki/Degeneration_Street",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "channel:UC9DkCKm4_VDztRRyge4mCJQ",
+      "type": "channel",
+      "label": "Amoeba",
+      "url": "https://www.youtube.com/channel/UC9DkCKm4_VDztRRyge4mCJQ",
+      "firstSeenAt": "2026-11-01T13:17:48.153Z"
+    }
+  ],
+  "recentItems": []
+}

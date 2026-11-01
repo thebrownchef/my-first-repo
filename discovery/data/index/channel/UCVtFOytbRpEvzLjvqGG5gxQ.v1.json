@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCVtFOytbRpEvzLjvqGG5gxQ",
   "title": "KSI Music",
   "thumb": "https://yt3.ggpht.com/AWJwtk1q1fPYQC53SGs2KyPdFITyY7JpMj39aPh0XcUKfNnlqxjriBc6qQacwFhRj8V2t6Kj_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "BEYONDoriginals",
       "url": "https://www.youtube.com/channel/UCxtzhKGdXeMv3stgMbYcyDg",
       "firstSeenAt": "2026-09-30T12:31:15.364Z"
+    },
+    {
+      "id": "wiki:Wake Up (Sway EP)",
+      "type": "wikipedia",
+      "label": "Wake Up (Sway EP)",
+      "url": "https://en.wikipedia.org/wiki/Wake_Up_(Sway_EP)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": []

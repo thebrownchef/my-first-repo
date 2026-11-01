@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCRltydLLPItnRicHmYUCeSg",
   "title": "PiratenStreaming",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ni0EDsfUuccor7OXEJCYmqearUal0etDVOZp9Thxk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Florian Hufsky",
       "url": "https://en.wikipedia.org/wiki/Florian_Hufsky",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "channel:UCbS4N9zvB6flOYdNcJCSqbw",
+      "type": "channel",
+      "label": "Piratenpartei",
+      "url": "https://www.youtube.com/channel/UCbS4N9zvB6flOYdNcJCSqbw",
+      "firstSeenAt": "2026-11-01T13:17:59.498Z"
     }
   ],
   "recentItems": []

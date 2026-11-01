@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC278IKj0R4JBFb18Waw-tWA",
   "title": "Decca Records",
   "thumb": "https://yt3.ggpht.com/ETeKGLTh4MDa0AM2fdpjoqPrD3gImHbJyPaSLzQaTEX0mZRLcAcZoYCuxmAxnCBIvjvwXuc5rw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Mayhem (Imelda May song)",
       "url": "https://en.wikipedia.org/wiki/Mayhem_(Imelda_May_song)",
       "firstSeenAt": "2026-10-04T12:18:41.502Z"
+    },
+    {
+      "id": "wiki:Classic Christmas (Joe McElderry album)",
+      "type": "wikipedia",
+      "label": "Classic Christmas (Joe McElderry album)",
+      "url": "https://en.wikipedia.org/wiki/Classic_Christmas_(Joe_McElderry_album)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

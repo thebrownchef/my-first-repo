@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCWBTV02MVmyLqNPWRGDrl6A",
   "title": "Berryz工房",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m5zOok-cijFCUu5spdI4MrrjHX1Kktm-WOLmwvAA-kC1U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Berryz Mansion 9kai",
       "url": "https://en.wikipedia.org/wiki/Berryz_Mansion_9kai",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Dai 2 Seichōki",
+      "type": "wikipedia",
+      "label": "Dai 2 Seichōki",
+      "url": "https://en.wikipedia.org/wiki/Dai_2_Seich%C5%8Dki",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
+    },
+    {
+      "id": "wiki:7 Berryz Times",
+      "type": "wikipedia",
+      "label": "7 Berryz Times",
+      "url": "https://en.wikipedia.org/wiki/7_Berryz_Times",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:6th Otakebi Album",
+      "type": "wikipedia",
+      "label": "6th Otakebi Album",
+      "url": "https://en.wikipedia.org/wiki/6th_Otakebi_Album",
+      "firstSeenAt": "2026-11-01T13:17:27.897Z"
     }
   ],
   "recentItems": []

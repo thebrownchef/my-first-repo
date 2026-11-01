@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCphyqKNSQIbR5ZMUN1J8Gxg",
   "title": "Absolute Radio",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lPSbdpOLl8kB5AAwpZ69yqMr2D1xDeY7GRN8zqUetUy-o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.64,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ben Howard",
       "url": "https://en.wikipedia.org/wiki/Ben_Howard",
       "firstSeenAt": "2026-10-29T12:56:22.196Z"
+    },
+    {
+      "id": "wiki:The 2nd Law",
+      "type": "wikipedia",
+      "label": "The 2nd Law",
+      "url": "https://en.wikipedia.org/wiki/The_2nd_Law",
+      "firstSeenAt": "2026-11-01T13:17:24.371Z"
     }
   ],
   "recentItems": []

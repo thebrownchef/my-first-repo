@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCvu362oukLMN1miydXcLxGg",
   "title": "EllieGouldingVEVO",
   "thumb": "https://yt3.ggpht.com/-5vxMoklRmWZ9fxDUqDX5hc2dOAflJcnHcmHxko1SVfLgw5Emdrza5xRKG6pRcmuBrsqSpr1=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Anything Could Happen",
       "url": "https://en.wikipedia.org/wiki/Anything_Could_Happen",
       "firstSeenAt": "2026-10-26T12:56:37.390Z"
+    },
+    {
+      "id": "wiki:Goodness Gracious",
+      "type": "wikipedia",
+      "label": "Goodness Gracious",
+      "url": "https://en.wikipedia.org/wiki/Goodness_Gracious",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

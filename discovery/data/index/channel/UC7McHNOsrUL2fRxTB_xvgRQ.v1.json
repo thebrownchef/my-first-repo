@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UC7McHNOsrUL2fRxTB_xvgRQ",
   "title": "Johnny Carson",
   "thumb": "https://yt3.ggpht.com/OGqz7R7tM3ZiZ8a017g_WH778H6pospWO8F-TBqlpDrhRGS_thl2nzaJqgE0YYkM1VAd33n1SLA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Myrtle Young",
       "url": "https://en.wikipedia.org/wiki/Myrtle_Young",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Ed Shaughnessy",
+      "type": "wikipedia",
+      "label": "Ed Shaughnessy",
+      "url": "https://en.wikipedia.org/wiki/Ed_Shaughnessy",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
     }
   ],
   "recentItems": []

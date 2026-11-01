@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCDSX4RQN7fzIlZ1nSubwCcQ",
   "title": "TINIE TEMPAH",
   "thumb": "https://yt3.ggpht.com/NhgzT20Csgo6Phhf9CQAD3z0XlpLa4TkaZfRAHx_CGuLfETlJ8jZmpw7ubu5V--mnsnPYsuV=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Demonstration (Tinie Tempah album)",
       "url": "https://en.wikipedia.org/wiki/Demonstration_(Tinie_Tempah_album)",
       "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    },
+    {
+      "id": "wiki:Lover Not a Fighter",
+      "type": "wikipedia",
+      "label": "Lover Not a Fighter",
+      "url": "https://en.wikipedia.org/wiki/Lover_Not_a_Fighter",
+      "firstSeenAt": "2026-11-01T13:17:27.897Z"
     }
   ],
   "recentItems": []

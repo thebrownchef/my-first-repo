@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "id": "UCx6ECeM2io2sEyg2pB2uU5Q",
+  "title": "ABC Music",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kHNPc-AVILONw-gNm5byCBsCZpRW-FEDMuFkP_X8p-36M=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "channel:UCVgO39Bk5sMo66-6o6Spn6Q",
+      "type": "channel",
+      "label": "ABC News (Australia)",
+      "url": "https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q",
+      "firstSeenAt": "2026-09-06T10:53:34.042Z"
+    },
+    {
+      "id": "wiki:Thirty (album)",
+      "type": "wikipedia",
+      "label": "Thirty (album)",
+      "url": "https://en.wikipedia.org/wiki/Thirty_(album)",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    }
+  ],
+  "recentItems": []
+}

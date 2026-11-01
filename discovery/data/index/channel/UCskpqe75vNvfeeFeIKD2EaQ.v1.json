@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCskpqe75vNvfeeFeIKD2EaQ",
   "title": "Victory Records",
   "thumb": "https://yt3.ggpht.com/XUzPkcbnRB1qo8aoWMRhzBpMHvUOocOsvg1tsxqpHFOHYYSXf4a_DM2JaMg-4UGM609h3CmY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.27,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Speaker of the Dead",
       "url": "https://en.wikipedia.org/wiki/Speaker_of_the_Dead",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:Slave to the Game",
+      "type": "wikipedia",
+      "label": "Slave to the Game",
+      "url": "https://en.wikipedia.org/wiki/Slave_to_the_Game",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

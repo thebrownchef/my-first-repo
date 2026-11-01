@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "id": "UCm7p5rf-ZDPAGIbvjDJdMQg",
+  "title": "GoldfrappTV",
+  "thumb": "https://yt3.ggpht.com/0IHKLhaJGxcc-peen1oO8_e1aYTOyXoYjzFiShXUpB-aefWnhZxD1rZQGt_e-4Yq-hkioTBpJQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "channel:UCyZXZ0D0AfgfhwzJDHpwl3g",
+      "type": "channel",
+      "label": "Mute",
+      "url": "https://www.youtube.com/channel/UCyZXZ0D0AfgfhwzJDHpwl3g",
+      "firstSeenAt": "2026-10-12T15:18:36.785Z"
+    },
+    {
+      "id": "wiki:Tales of Us",
+      "type": "wikipedia",
+      "label": "Tales of Us",
+      "url": "https://en.wikipedia.org/wiki/Tales_of_Us",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCzKNn1SxrLobzWemQ9HItNA",
   "title": "earMUSIC",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m02CRClrl_IZ89q8oh9HRrg6DE17YX6azLK2t9xIsnOKo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Anette Olzon",
       "url": "https://en.wikipedia.org/wiki/Anette_Olzon",
       "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    },
+    {
+      "id": "wiki:Unisonic (album)",
+      "type": "wikipedia",
+      "label": "Unisonic (album)",
+      "url": "https://en.wikipedia.org/wiki/Unisonic_(album)",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []

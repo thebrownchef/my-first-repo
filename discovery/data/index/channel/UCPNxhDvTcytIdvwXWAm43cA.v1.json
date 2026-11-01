@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "id": "UCPNxhDvTcytIdvwXWAm43cA",
+  "title": "Selena Gomez",
+  "thumb": "https://yt3.ggpht.com/SdHhEkdZ78QM2SNYjgSRnJX_F-ulIdb-B001bxuTfzLX7rbfuEeO_GXaynLc2zp-LZQizNEB=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.03,
+  "sources": [
+    {
+      "id": "channel:UCqnWs-kX0mImRJEjDBC05tw",
+      "type": "channel",
+      "label": "rikke kempf",
+      "url": "https://www.youtube.com/channel/UCqnWs-kX0mImRJEjDBC05tw",
+      "firstSeenAt": "2026-10-29T12:56:44.580Z"
+    },
+    {
+      "id": "wiki:Birthday (Selena Gomez song)",
+      "type": "wikipedia",
+      "label": "Birthday (Selena Gomez song)",
+      "url": "https://en.wikipedia.org/wiki/Birthday_(Selena_Gomez_song)",
+      "firstSeenAt": "2026-11-01T13:17:20.883Z"
+    }
+  ],
+  "recentItems": []
+}

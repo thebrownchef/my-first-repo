@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCl2aT0nRejTCQO_LHZAftBw",
   "title": "UNIVERSAL MUSIC JAPAN",
   "thumb": "https://yt3.ggpht.com/yH850lOJjx0xRC7r69WxylQITd9m2RKE11ihqbToi19NTacCjlJKkKUyv2jl27o7tEZ-RtHxFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 0,
   "uploadsPerDay": 1.17,
   "sources": [
@@ -127,6 +127,13 @@
       "label": "3 2 1 (Shinee song)",
       "url": "https://en.wikipedia.org/wiki/3_2_1_(Shinee_song)",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:A Will",
+      "type": "wikipedia",
+      "label": "A Will",
+      "url": "https://en.wikipedia.org/wiki/A_Will",
+      "firstSeenAt": "2026-11-01T13:17:24.370Z"
     }
   ],
   "recentItems": [

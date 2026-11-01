@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:24:04.542Z",
+  "generatedAt": "2026-11-01T13:19:26.917Z",
   "id": "UCxjXU89x6owat9dA8Z-bzdw",
   "title": "AKB48",
   "thumb": "https://yt3.ggpht.com/gz2f-QKFrNBl4IYKCmMb5Z97cfQOzj_Y4My5lNYIYu8VVff88MKNzj-m5O7WEQNrvtkt-oIMoOQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "So Long! (AKB48 song)",
       "url": "https://en.wikipedia.org/wiki/So_Long!_(AKB48_song)",
       "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "wiki:Koko ni Ita Koto",
+      "type": "wikipedia",
+      "label": "Koko ni Ita Koto",
+      "url": "https://en.wikipedia.org/wiki/Koko_ni_Ita_Koto",
+      "firstSeenAt": "2026-11-01T13:17:27.896Z"
     }
   ],
   "recentItems": []
