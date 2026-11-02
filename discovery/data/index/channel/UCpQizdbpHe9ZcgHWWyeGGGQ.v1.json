@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCpQizdbpHe9ZcgHWWyeGGGQ",
   "title": "Dutch Docu Channel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n7wug5Wi-eZVfAzYiiH1gBsXWAg9SO8jD2HRMa-kQq41U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Dutch New Guinea",
       "url": "https://en.wikipedia.org/wiki/Dutch_New_Guinea",
       "firstSeenAt": "2026-10-21T11:44:40.897Z"
+    },
+    {
+      "id": "wiki:New Amsterdam",
+      "type": "wikipedia",
+      "label": "New Amsterdam",
+      "url": "https://en.wikipedia.org/wiki/New_Amsterdam",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

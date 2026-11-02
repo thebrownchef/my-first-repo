@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCkyrSWEcjZKpIwMxiPfOcgg",
   "title": "5 канал",
   "thumb": "https://yt3.ggpht.com/nC8MFAojCH-V-1WQ6GqqUxLz7dr8oCKnl4uAAw7z5CNYnuharnQtB2MISBzfxeKs8vZROSk9=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 24.55,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "OmTV UA",
       "url": "https://www.youtube.com/channel/UCOA1y6Wu0kug8rbOpvHFZEQ",
       "firstSeenAt": "2026-09-18T11:11:05.847Z"
+    },
+    {
+      "id": "wiki:2012 Ukrainian parliamentary election",
+      "type": "wikipedia",
+      "label": "2012 Ukrainian parliamentary election",
+      "url": "https://en.wikipedia.org/wiki/2012_Ukrainian_parliamentary_election",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
     }
   ],
   "recentItems": []

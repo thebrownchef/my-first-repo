@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCdRfLJl32UFWLx_XD-7WuCA",
   "title": "vortexva",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mHqwoOmj-6a48EdIMc9O_akD28X9lo6AoXfNQaGVvclQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "1990 Plainfield tornado",
       "url": "https://en.wikipedia.org/wiki/1990_Plainfield_tornado",
       "firstSeenAt": "2026-10-22T11:47:47.034Z"
+    },
+    {
+      "id": "wiki:David K. Hoadley",
+      "type": "wikipedia",
+      "label": "David K. Hoadley",
+      "url": "https://en.wikipedia.org/wiki/David_K._Hoadley",
+      "firstSeenAt": "2026-11-02T15:44:46.933Z"
     }
   ],
   "recentItems": []

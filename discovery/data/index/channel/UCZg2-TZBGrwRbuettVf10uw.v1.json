@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCZg2-TZBGrwRbuettVf10uw",
   "title": "BrunuhVille",
   "thumb": "https://yt3.ggpht.com/ZYHf8JkVDqma88F4O0FFxoRcq2pbuMi4OvvjKiY4IelMSJC2FWK7kJKqTkGiU4pXZCpw78Be=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Derek Fiechter's Music",
       "url": "https://www.youtube.com/channel/UCVRJdMxf_nuCR6C1ZMgn7Ug",
       "firstSeenAt": "2026-10-01T13:11:02.512Z"
+    },
+    {
+      "id": "channel:UCSeJA6az0GrNM4_-pl3HQSQ",
+      "type": "channel",
+      "label": "Adrian von Ziegler",
+      "url": "https://www.youtube.com/channel/UCSeJA6az0GrNM4_-pl3HQSQ",
+      "firstSeenAt": "2026-11-02T15:44:59.662Z"
     }
   ],
   "recentItems": []

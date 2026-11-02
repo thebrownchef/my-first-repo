@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCDGknzyQfNiThyt4vg4MlTQ",
   "title": "The Obama White House",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lDMNIxOLy185JOInu9TeQ5NilS0XBYrL8dIsnc_GYOZ57d=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.98,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "1985 Chicago Bears season",
       "url": "https://en.wikipedia.org/wiki/1985_Chicago_Bears_season",
       "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:The Problem We All Live With",
+      "type": "wikipedia",
+      "label": "The Problem We All Live With",
+      "url": "https://en.wikipedia.org/wiki/The_Problem_We_All_Live_With",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
+    },
+    {
+      "id": "wiki:Ruby Bridges",
+      "type": "wikipedia",
+      "label": "Ruby Bridges",
+      "url": "https://en.wikipedia.org/wiki/Ruby_Bridges",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
     }
   ],
   "recentItems": []

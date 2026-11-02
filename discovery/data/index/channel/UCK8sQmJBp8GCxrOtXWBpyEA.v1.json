@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "title": "Google",
   "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Van Jacobson",
       "url": "https://en.wikipedia.org/wiki/Van_Jacobson",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:D. Richard Hipp",
+      "type": "wikipedia",
+      "label": "D. Richard Hipp",
+      "url": "https://en.wikipedia.org/wiki/D._Richard_Hipp",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCXWY-FG0IvCKrj_lqQdGLOQ",
   "title": "Beggars Banquet Records",
   "thumb": "https://yt3.ggpht.com/VN9i3il75YyjqSVIhR6qChJu4ohhRCm4hM-gFp16GBhSz4R6yXK3cyBbXx8nauzvcEX0s7nI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Vibracobra23",
       "url": "https://www.youtube.com/channel/UCbJ7iwqdFYBQ3-ZjeFeEzMw",
       "firstSeenAt": "2026-10-14T11:48:43.433Z"
+    },
+    {
+      "id": "wiki:No Shouts, No Calls",
+      "type": "wikipedia",
+      "label": "No Shouts, No Calls",
+      "url": "https://en.wikipedia.org/wiki/No_Shouts%2C_No_Calls",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
     }
   ],
   "recentItems": []

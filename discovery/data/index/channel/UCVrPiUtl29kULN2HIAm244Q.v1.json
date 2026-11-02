@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCVrPiUtl29kULN2HIAm244Q",
   "title": "LordeVEVO",
   "thumb": "https://yt3.ggpht.com/ja0R4sbUZ7vXvGmrbZoCHAuJ5NEdM5xcarIL721Cfn_24InqoaJW_Bvv8TxU3rNOEmVYW6j1kg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Tennis Court (song)",
       "url": "https://en.wikipedia.org/wiki/Tennis_Court_(song)",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Bravado (song)",
+      "type": "wikipedia",
+      "label": "Bravado (song)",
+      "url": "https://en.wikipedia.org/wiki/Bravado_(song)",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
+    },
+    {
+      "id": "wiki:Team (Lorde song)",
+      "type": "wikipedia",
+      "label": "Team (Lorde song)",
+      "url": "https://en.wikipedia.org/wiki/Team_(Lorde_song)",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

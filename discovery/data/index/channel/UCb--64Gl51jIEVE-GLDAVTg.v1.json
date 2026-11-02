@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCb--64Gl51jIEVE-GLDAVTg",
   "title": "C-SPAN",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 2.13,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Lawrence Lessig",
       "url": "https://en.wikipedia.org/wiki/Lawrence_Lessig",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Question time",
+      "type": "wikipedia",
+      "label": "Question time",
+      "url": "https://en.wikipedia.org/wiki/Question_time",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

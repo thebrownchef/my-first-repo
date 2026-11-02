@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCXnlfWROIRrTySDGRaDujMg",
   "title": "ArtisanNewsService",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lxfyCkB6LEPlI84dXk_lE2owpZtHrqjfF9QdUlShzs6g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 1.27,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Time of My Life (3 Doors Down album)",
       "url": "https://en.wikipedia.org/wiki/Time_of_My_Life_(3_Doors_Down_album)",
       "firstSeenAt": "2026-11-01T13:17:27.897Z"
+    },
+    {
+      "id": "wiki:Another Animal (album)",
+      "type": "wikipedia",
+      "label": "Another Animal (album)",
+      "url": "https://en.wikipedia.org/wiki/Another_Animal_(album)",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
+    },
+    {
+      "id": "wiki:Lead Sails Paper Anchor",
+      "type": "wikipedia",
+      "label": "Lead Sails Paper Anchor",
+      "url": "https://en.wikipedia.org/wiki/Lead_Sails_Paper_Anchor",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
+    },
+    {
+      "id": "wiki:Fear Factory",
+      "type": "wikipedia",
+      "label": "Fear Factory",
+      "url": "https://en.wikipedia.org/wiki/Fear_Factory",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

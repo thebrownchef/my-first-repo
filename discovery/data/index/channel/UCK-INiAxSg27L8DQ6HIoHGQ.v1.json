@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCK-INiAxSg27L8DQ6HIoHGQ",
   "title": "ATB",
   "thumb": "https://yt3.ggpht.com/m_e5CXlQH_Ci20-XwmopK11NuxapYC_JzkuQ1SDJfI05Mi0Zf_K-V9IQZ8skAlYX4S0sLKsSew=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Distant Earth",
       "url": "https://en.wikipedia.org/wiki/Distant_Earth",
       "firstSeenAt": "2026-11-01T13:17:24.810Z"
+    },
+    {
+      "id": "wiki:Contact (ATB album)",
+      "type": "wikipedia",
+      "label": "Contact (ATB album)",
+      "url": "https://en.wikipedia.org/wiki/Contact_(ATB_album)",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
     }
   ],
   "recentItems": []

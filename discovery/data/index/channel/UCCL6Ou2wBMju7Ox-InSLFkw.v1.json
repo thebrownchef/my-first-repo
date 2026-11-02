@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCCL6Ou2wBMju7Ox-InSLFkw",
   "title": "Peter Crowley's Fantasy Dream",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLGr_DYdL3oUdPb7YMoHdMo8GYh7ZtiBlC77y7yB4H-Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "RealLifeVlog",
       "url": "https://www.youtube.com/channel/UCQC2NkkKMf0Oa5iV0ZGovgA",
       "firstSeenAt": "2026-10-02T12:30:45.860Z"
+    },
+    {
+      "id": "channel:UCSeJA6az0GrNM4_-pl3HQSQ",
+      "type": "channel",
+      "label": "Adrian von Ziegler",
+      "url": "https://www.youtube.com/channel/UCSeJA6az0GrNM4_-pl3HQSQ",
+      "firstSeenAt": "2026-11-02T15:44:59.660Z"
     }
   ],
   "recentItems": []

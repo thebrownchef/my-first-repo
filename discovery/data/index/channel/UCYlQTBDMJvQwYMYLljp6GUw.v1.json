@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCYlQTBDMJvQwYMYLljp6GUw",
   "title": "guysebastianVEVO",
   "thumb": "https://yt3.ggpht.com/z8khux6zoAtDa1staq_svZzNlW7_49OhgnODwCQpHYX1rxMw43mJWHmvmoRYfLao2GEqWgZYKA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Armageddon (Guy Sebastian album)",
       "url": "https://en.wikipedia.org/wiki/Armageddon_(Guy_Sebastian_album)",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:The Memphis Album",
+      "type": "wikipedia",
+      "label": "The Memphis Album",
+      "url": "https://en.wikipedia.org/wiki/The_Memphis_Album",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
     }
   ],
   "recentItems": []

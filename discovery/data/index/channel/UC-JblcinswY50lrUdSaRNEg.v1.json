@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC-JblcinswY50lrUdSaRNEg",
   "title": "Rolling Stone",
   "thumb": "https://yt3.ggpht.com/oY-Tiz6w7wRHgCrIh8tNV6KmxpWbhV3gci6aJ-bUVPboMph8_jeXK8GO9JmMJ0Rp9lNmYg1yuw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Radio X",
       "url": "https://www.youtube.com/channel/UC10DG3enEhKiOEmyu_eEzuA",
       "firstSeenAt": "2026-09-11T11:17:46.803Z"
+    },
+    {
+      "id": "wiki:Still Waiting...",
+      "type": "wikipedia",
+      "label": "Still Waiting...",
+      "url": "https://en.wikipedia.org/wiki/Still_Waiting...",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

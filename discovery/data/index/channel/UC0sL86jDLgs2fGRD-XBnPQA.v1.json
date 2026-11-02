@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC0sL86jDLgs2fGRD-XBnPQA",
   "title": "50CentVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUT2Zpl79457QkI-Fz0L-6_riVXpZFyZHQuMUllM56TYQV=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "We Up",
       "url": "https://en.wikipedia.org/wiki/We_Up",
       "firstSeenAt": "2026-10-22T11:47:45.725Z"
+    },
+    {
+      "id": "wiki:Wanksta",
+      "type": "wikipedia",
+      "label": "Wanksta",
+      "url": "https://en.wikipedia.org/wiki/Wanksta",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

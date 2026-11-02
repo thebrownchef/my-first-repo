@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCPpw6jRIL1B9nU0k7-GujOQ",
   "title": "UCLA",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN4gu9K-Llwlb09pGNVeTYkoiH5wFUaxB1uvPWtsgatw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.52,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Dustin Lance Black",
       "url": "https://en.wikipedia.org/wiki/Dustin_Lance_Black",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:UCLA Samueli School of Engineering",
+      "type": "wikipedia",
+      "label": "UCLA Samueli School of Engineering",
+      "url": "https://en.wikipedia.org/wiki/UCLA_Samueli_School_of_Engineering",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
     }
   ],
   "recentItems": []

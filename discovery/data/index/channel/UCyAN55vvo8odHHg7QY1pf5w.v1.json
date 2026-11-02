@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "id": "UCyAN55vvo8odHHg7QY1pf5w",
+  "title": "HLN",
+  "thumb": "https://yt3.ggpht.com/1wmag_dMNXRdSIIMR6jKvfrU1gFZpqfQxanZX4dwlBdWRYC8VV90lj43M2JFitSIK4QMT2FgawY=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 2.86,
+  "sources": [
+    {
+      "id": "channel:UCe-4xQosMQGkIA8mT4sR98Q",
+      "type": "channel",
+      "label": "CNN Business",
+      "url": "https://www.youtube.com/channel/UCe-4xQosMQGkIA8mT4sR98Q",
+      "firstSeenAt": "2026-11-01T13:17:48.000Z"
+    },
+    {
+      "id": "wiki:Donna Summer",
+      "type": "wikipedia",
+      "label": "Donna Summer",
+      "url": "https://en.wikipedia.org/wiki/Donna_Summer",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    }
+  ],
+  "recentItems": []
+}

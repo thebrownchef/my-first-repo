@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC8MPOWNoWA-B4MS_qv9i3PQ",
   "title": "TimWestwoodTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m3kquqH1JmwREvFiNdEHEDrsFwMbtmS9HLWeyZuwBqOCU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Oleku (song)",
       "url": "https://en.wikipedia.org/wiki/Oleku_(song)",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Tim Westwood",
+      "type": "wikipedia",
+      "label": "Tim Westwood",
+      "url": "https://en.wikipedia.org/wiki/Tim_Westwood",
+      "firstSeenAt": "2026-11-02T15:44:44.052Z"
     }
   ],
   "recentItems": []

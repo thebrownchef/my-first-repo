@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCaO6TYtlC8U5ttz62hTrZgg",
   "title": "JYP Entertainment",
   "thumb": "https://yt3.ggpht.com/2gb_g-qmLOeU6ZC3xyEPFN-fxDqkOkqr44TapTNi6iKQfLL13nOK6kuPWtYVTMPuiyT2tcb64A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "joojype",
       "url": "https://www.youtube.com/channel/UCcy4IEqKHZeJ5wbs6yyLmJQ",
       "firstSeenAt": "2026-10-29T12:56:45.338Z"
+    },
+    {
+      "id": "wiki:Got It?",
+      "type": "wikipedia",
+      "label": "Got It?",
+      "url": "https://en.wikipedia.org/wiki/Got_It%3F",
+      "firstSeenAt": "2026-11-02T15:44:43.064Z"
+    },
+    {
+      "id": "channel:UCCSqiAQFvOjjVtXkZgtKZ-g",
+      "type": "channel",
+      "label": "missA",
+      "url": "https://www.youtube.com/channel/UCCSqiAQFvOjjVtXkZgtKZ-g",
+      "firstSeenAt": "2026-11-02T15:45:13.971Z"
     }
   ],
   "recentItems": []

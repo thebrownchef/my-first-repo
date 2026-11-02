@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
   "title": "National Geographic",
   "thumb": "https://yt3.ggpht.com/-FOFg8o1y4dAHDB2MvhORHnLMOaaOKnaNUNsrU-U57Eac6gjB5VO8sYJQC1KkULGQvKP2XpArA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 1.55,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Circumcision",
       "url": "https://en.wikipedia.org/wiki/Circumcision",
       "firstSeenAt": "2026-10-31T12:22:04.362Z"
+    },
+    {
+      "id": "wiki:U2 3D",
+      "type": "wikipedia",
+      "label": "U2 3D",
+      "url": "https://en.wikipedia.org/wiki/U2_3D",
+      "firstSeenAt": "2026-11-02T15:44:46.933Z"
     }
   ],
   "recentItems": []

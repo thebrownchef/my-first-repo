@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCbPkNEaVjdD6UpqktaD8WgQ",
   "title": "ChristinaMilianVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lh__IxrRSZE5bVGKIx7p4awm87FWtbdapwOjD1RAUfqaE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Say I",
       "url": "https://en.wikipedia.org/wiki/Say_I",
       "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Whatever U Want",
+      "type": "wikipedia",
+      "label": "Whatever U Want",
+      "url": "https://en.wikipedia.org/wiki/Whatever_U_Want",
+      "firstSeenAt": "2026-11-02T15:44:49.635Z"
     }
   ],
   "recentItems": []

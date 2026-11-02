@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC8T81Q-rEobLa-YuQKj8L1A",
   "title": "Ministry of Sound",
   "thumb": "https://yt3.ggpht.com/cskYl8jAZXw3UEGPIhLqHsboTPNZybVpvV4canNFCqs9vsaVSq3Xb7ueQV0fFYlZ0BEuZlfE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 2,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Hooligans (song)",
       "url": "https://en.wikipedia.org/wiki/Hooligans_(song)",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Colour the World",
+      "type": "wikipedia",
+      "label": "Colour the World",
+      "url": "https://en.wikipedia.org/wiki/Colour_the_World",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
     }
   ],
   "recentItems": []

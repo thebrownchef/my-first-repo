@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCPk29gUc_ltOGQ6f3Lh5kCg",
   "title": "Reelblack One",
   "thumb": "https://yt3.ggpht.com/_gfv-UDBvEloSqFb6ygWfS44j3PGF5Au8AaKBad807A6OjRsPIInwK4kDGQbmCDbpweYt7nLIoU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.46,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "The AVTB Archives",
       "url": "https://www.youtube.com/channel/UCSQAe0hQ6XT333tx8o8z_jg",
       "firstSeenAt": "2026-09-27T11:59:32.332Z"
+    },
+    {
+      "id": "wiki:The Inevitable Rise and Liberation of NiggyTardust!",
+      "type": "wikipedia",
+      "label": "The Inevitable Rise and Liberation of NiggyTardust!",
+      "url": "https://en.wikipedia.org/wiki/The_Inevitable_Rise_and_Liberation_of_NiggyTardust!",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
+    },
+    {
+      "id": "wiki:Honeydripper (film)",
+      "type": "wikipedia",
+      "label": "Honeydripper (film)",
+      "url": "https://en.wikipedia.org/wiki/Honeydripper_(film)",
+      "firstSeenAt": "2026-11-02T15:44:43.064Z"
+    },
+    {
+      "id": "wiki:Illegal Tender (film)",
+      "type": "wikipedia",
+      "label": "Illegal Tender (film)",
+      "url": "https://en.wikipedia.org/wiki/Illegal_Tender_(film)",
+      "firstSeenAt": "2026-11-02T15:44:43.064Z"
     }
   ],
   "recentItems": []

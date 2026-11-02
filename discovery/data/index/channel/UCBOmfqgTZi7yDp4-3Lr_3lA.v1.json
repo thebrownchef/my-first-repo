@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
+  "title": "Shemaroo Movies",
+  "thumb": "https://yt3.ggpht.com/KVlNC_KbObRUn4n4h0q84p7ss4JY94H2jWXPj7kKBIuE-bpYus6JNDh6YtIWAK9F9tlu_Sh5lw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.69,
+  "sources": [
+    {
+      "id": "channel:UCF1JIbMUs6uqoZEY1Haw0GQ",
+      "type": "channel",
+      "label": "Shemaroo",
+      "url": "https://www.youtube.com/channel/UCF1JIbMUs6uqoZEY1Haw0GQ",
+      "firstSeenAt": "2026-09-09T11:19:59.525Z"
+    },
+    {
+      "id": "wiki:Kanchivaram",
+      "type": "wikipedia",
+      "label": "Kanchivaram",
+      "url": "https://en.wikipedia.org/wiki/Kanchivaram",
+      "firstSeenAt": "2026-11-02T15:44:46.933Z"
+    }
+  ],
+  "recentItems": []
+}

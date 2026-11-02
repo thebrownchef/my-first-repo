@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
   "title": "Vsauce",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mpYedipdXUXCKkwjQEeFrepFlDHZ0LiczqWeKyG0YmJvA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Sergiu Brega",
       "url": "https://www.youtube.com/channel/UCFdI38niBOh-z5bd8y5N9fQ",
       "firstSeenAt": "2026-10-20T11:32:21.610Z"
+    },
+    {
+      "id": "channel:UCEmCXnbNYz-MOtXi3lZ7W1Q",
+      "type": "channel",
+      "label": "The Key of Awesome",
+      "url": "https://www.youtube.com/channel/UCEmCXnbNYz-MOtXi3lZ7W1Q",
+      "firstSeenAt": "2026-11-02T15:45:00.508Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCyFTtat1sU29873mm4IwIiw",
   "title": "Persian Dutch Network",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kWaaJxqRJtZWakLaD_SoGHH03Lf55bULq-sZuQy5wM7A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Farah Karimi",
       "url": "https://en.wikipedia.org/wiki/Farah_Karimi",
       "firstSeenAt": "2026-10-31T12:22:04.362Z"
+    },
+    {
+      "id": "wiki:Sadeh",
+      "type": "wikipedia",
+      "label": "Sadeh",
+      "url": "https://en.wikipedia.org/wiki/Sadeh",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
     }
   ],
   "recentItems": []

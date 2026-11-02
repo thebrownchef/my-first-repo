@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCi_XQVMRd0hrj6Ka0yCnR3A",
   "title": "Fuse",
   "thumb": "https://yt3.ggpht.com/lvczsULAxMWGP8xSuEygQDPqMLSZMZn0vYRYwwbacP-PyAYY9UWsnTXRRLzqmNDR6S3n8-Ushg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Some Nights (album)",
       "url": "https://en.wikipedia.org/wiki/Some_Nights_(album)",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Linkin Park",
+      "type": "wikipedia",
+      "label": "Linkin Park",
+      "url": "https://en.wikipedia.org/wiki/Linkin_Park",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

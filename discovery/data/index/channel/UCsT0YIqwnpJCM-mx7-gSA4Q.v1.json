@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
   "title": "TEDx Talks",
   "thumb": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 23,
-  "distinctSourceCount": 23,
+  "score": 25,
+  "distinctSourceCount": 25,
   "hop": 0,
   "uploadsPerDay": 42.9,
   "sources": [
@@ -169,9 +169,32 @@
       "label": "Michelle Chamuel",
       "url": "https://en.wikipedia.org/wiki/Michelle_Chamuel",
       "firstSeenAt": "2026-10-31T12:22:04.362Z"
+    },
+    {
+      "id": "wiki:Murugashankari Leo",
+      "type": "wikipedia",
+      "label": "Murugashankari Leo",
+      "url": "https://en.wikipedia.org/wiki/Murugashankari_Leo",
+      "firstSeenAt": "2026-11-02T15:44:43.064Z"
+    },
+    {
+      "id": "wiki:Thomas H. Stoner Jr.",
+      "type": "wikipedia",
+      "label": "Thomas H. Stoner Jr.",
+      "url": "https://en.wikipedia.org/wiki/Thomas_H._Stoner_Jr.",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "c7mY3lsfGJM",
+      "title": "The flawed math that shapes American democracy | Ismar Volić | TEDxBrownU",
+      "publishedAt": "2026-11-01T14:30:15Z",
+      "durationSec": 823,
+      "thumb": "https://i.ytimg.com/vi/c7mY3lsfGJM/mqdefault.jpg",
+      "description": "In this talk titled “The Hidden Math that Shapes Democracy,” Professor Ismar Volić will reveal why before we talk about elections, maps, and representation, we need to talk about math.  \n\nIsmar Volić is a Professor of Mathematics and Director of the Institute for Mathematics and Democracy at Wellesley College whose work and writing, featured in outlets including TIME and The Hill, focus on how mathematics strengthens democratic systems. Author of Making Democracy Count, based on his popular course The Mathematics of Democracy, the Bosnia-born mathematician advocates for quantitative political literacy to help reimagine and improve democracy. \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+      "chapters": []
+    },
     {
       "id": "rAJXUWjhHt8",
       "title": "What the living can learn from the dead | Ida Kathrine Gravensteen | TEDxFredrikstad",
@@ -269,15 +292,6 @@
       "durationSec": 263,
       "thumb": "https://i.ytimg.com/vi/KvR9ZhwTS0s/mqdefault.jpg",
       "description": "An insight into living with a neuro divergent sibling, through sharing\nmy experience, the highs and the lows, I hope to create a more\ninclusive community. Student Saint Ignatius College Geelong This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
-      "chapters": []
-    },
-    {
-      "id": "565B-OVf7UM",
-      "title": "The Importance of the Arts  | Neave Halloran | | TEDxSaint Ignatius College Geelong Youth",
-      "publishedAt": "2026-10-30T16:19:42Z",
-      "durationSec": 349,
-      "thumb": "https://i.ytimg.com/vi/565B-OVf7UM/mqdefault.jpg",
-      "description": "In this TEDx Talk, I will be talking about the importance of the arts\nfor young people, and adults alike. I will also be explaining the\ndrastic differences between the funding for the arts and for sports/\nathletic activities. I have always been passionate about the arts\nand now I am glad I can share my insight on this topic, and show a\nstudent’s perspective.  Student Saint Ignatius College Geelong This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
       "chapters": []
     }
   ]

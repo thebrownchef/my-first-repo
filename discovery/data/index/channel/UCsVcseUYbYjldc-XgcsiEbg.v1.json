@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCsVcseUYbYjldc-XgcsiEbg",
   "title": "Billboard",
   "thumb": "https://yt3.ggpht.com/1XHRrQzHhh1wqc_O1fCKOz60axnwpoLiVa3CtsHsuMVY593bkTfuLirdh7ew4AJV-fRwTSUYAQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Stoned Immaculate",
       "url": "https://en.wikipedia.org/wiki/The_Stoned_Immaculate",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Night Visions",
+      "type": "wikipedia",
+      "label": "Night Visions",
+      "url": "https://en.wikipedia.org/wiki/Night_Visions",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
     }
   ],
   "recentItems": []

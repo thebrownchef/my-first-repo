@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
   "title": "BeyoncéVEVO",
   "thumb": "https://yt3.ggpht.com/4UxYRy4fJ0Fo54TRPkw19_W6uCCnzTBSkzm75vGIiEObg4IgY5Ie1BIsNcflFNqofAjxEpTRcQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 24,
-  "distinctSourceCount": 24,
+  "score": 25,
+  "distinctSourceCount": 25,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -176,6 +176,13 @@
       "label": "Countdown (Beyoncé song)",
       "url": "https://en.wikipedia.org/wiki/Countdown_(Beyonc%C3%A9_song)",
       "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:XO (song)",
+      "type": "wikipedia",
+      "label": "XO (song)",
+      "url": "https://en.wikipedia.org/wiki/XO_(song)",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": [

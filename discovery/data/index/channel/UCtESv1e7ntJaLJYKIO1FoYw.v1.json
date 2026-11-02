@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCtESv1e7ntJaLJYKIO1FoYw",
   "title": "Periodic Videos",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mVnp1Lc31B0TPILH30sz-eIQqX9ZML3ORtONYjcoNiQP4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Ytterby",
       "url": "https://en.wikipedia.org/wiki/Ytterby",
       "firstSeenAt": "2026-10-26T12:56:37.390Z"
+    },
+    {
+      "id": "wiki:Barking dog reaction",
+      "type": "wikipedia",
+      "label": "Barking dog reaction",
+      "url": "https://en.wikipedia.org/wiki/Barking_dog_reaction",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
     }
   ],
   "recentItems": []

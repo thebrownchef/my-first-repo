@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCP4R4OAJXEwnNOE28P8ophw",
   "title": "Nuclear Vault",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nFT69tcVTa_gywUvgbd5V8wor_3wE73KarM4yFsJY-ug=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "The Day Called 'X'",
       "url": "https://en.wikipedia.org/wiki/The_Day_Called_'X'",
       "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Nuclear artillery",
+      "type": "wikipedia",
+      "label": "Nuclear artillery",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_artillery",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

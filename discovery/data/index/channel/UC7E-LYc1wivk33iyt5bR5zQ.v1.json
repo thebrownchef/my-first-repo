@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC7E-LYc1wivk33iyt5bR5zQ",
   "title": "Vatican News",
   "thumb": "https://yt3.ggpht.com/bQuLzosJJsDRO5I7Bz04Dq1V_fTdZeelLz9DkINH6nwdzi9qWKjxjZXt8Xv111oLVnbLXIQq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 1.19,
   "sources": [
@@ -78,6 +78,20 @@
       "label": "Jozef Tomko",
       "url": "https://en.wikipedia.org/wiki/Jozef_Tomko",
       "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    },
+    {
+      "id": "wiki:Antonio María Rouco Varela",
+      "type": "wikipedia",
+      "label": "Antonio María Rouco Varela",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Mar%C3%ADa_Rouco_Varela",
+      "firstSeenAt": "2026-11-02T15:44:43.062Z"
+    },
+    {
+      "id": "wiki:Conclave",
+      "type": "wikipedia",
+      "label": "Conclave",
+      "url": "https://en.wikipedia.org/wiki/Conclave",
+      "firstSeenAt": "2026-11-02T15:44:46.933Z"
     }
   ],
   "recentItems": []

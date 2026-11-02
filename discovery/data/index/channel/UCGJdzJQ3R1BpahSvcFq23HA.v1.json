@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Conor Maynard",
       "url": "https://www.youtube.com/channel/UCpmD3iT-8TQzRuygIiS9bAw",
       "firstSeenAt": "2026-10-26T12:56:58.825Z"
+    },
+    {
+      "id": "channel:UC2lF51-X_-Ow03T4R6RpD_Q",
+      "type": "channel",
+      "label": "Boyzone",
+      "url": "https://www.youtube.com/channel/UC2lF51-X_-Ow03T4R6RpD_Q",
+      "firstSeenAt": "2026-11-02T15:45:09.436Z"
     }
   ],
   "recentItems": []

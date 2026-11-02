@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC_kvGxvXkIIZ_pCdRWX-T2A",
   "title": "Kafkanishian",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kcMNwTP-s872qh7tMEEfJkxSxHOSO1a-xO5cXH0FnnKA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Stechkin automatic pistol",
       "url": "https://en.wikipedia.org/wiki/Stechkin_automatic_pistol",
       "firstSeenAt": "2026-10-21T11:44:40.897Z"
+    },
+    {
+      "id": "wiki:FN FAL",
+      "type": "wikipedia",
+      "label": "FN FAL",
+      "url": "https://en.wikipedia.org/wiki/FN_FAL",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC86dbj-lbDks_hZ5gRKL49Q",
   "title": "AFP News Agency",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kUhmA2lfpvTaae-mHvsBOGez1u0ZoH-7GIH2tCCfiHAm_e=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 14.53,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Verax (film)",
       "url": "https://en.wikipedia.org/wiki/Verax_(film)",
       "firstSeenAt": "2026-10-25T11:22:05.903Z"
+    },
+    {
+      "id": "wiki:Children of the Stars",
+      "type": "wikipedia",
+      "label": "Children of the Stars",
+      "url": "https://en.wikipedia.org/wiki/Children_of_the_Stars",
+      "firstSeenAt": "2026-11-02T15:44:43.064Z"
     }
   ],
   "recentItems": []

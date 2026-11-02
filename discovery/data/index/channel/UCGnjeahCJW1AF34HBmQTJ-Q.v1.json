@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCGnjeahCJW1AF34HBmQTJ-Q",
   "title": "shakiraVEVO",
   "thumb": "https://yt3.ggpht.com/FhrbXrCCkXlRFrTlJR6uZMzZO0PvnUoQdqK2b920BF6IjDsScsYwixMcLQHtwDy-CnWAWB0yiD4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Un Poco de Amor",
       "url": "https://en.wikipedia.org/wiki/Un_Poco_de_Amor",
       "firstSeenAt": "2026-10-11T12:45:40.965Z"
+    },
+    {
+      "id": "wiki:Addicted to You (Shakira song)",
+      "type": "wikipedia",
+      "label": "Addicted to You (Shakira song)",
+      "url": "https://en.wikipedia.org/wiki/Addicted_to_You_(Shakira_song)",
+      "firstSeenAt": "2026-11-02T15:44:43.062Z"
     }
   ],
   "recentItems": []

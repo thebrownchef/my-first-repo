@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCu8lvJQswJsMvlzthXWr7pg",
   "title": "Nadia Ali",
   "thumb": "https://yt3.ggpht.com/Jp6dzBjZHGdI6qq4DoF7k8eZcSXbjKfkS__iEB57A_wFSeCcArcqy_N2LiJuJDjJkwB9Dk3sjtI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Fantasy (Nadia Ali song)",
       "url": "https://en.wikipedia.org/wiki/Fantasy_(Nadia_Ali_song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Nadia Ali (singer)",
+      "type": "wikipedia",
+      "label": "Nadia Ali (singer)",
+      "url": "https://en.wikipedia.org/wiki/Nadia_Ali_(singer)",
+      "firstSeenAt": "2026-11-02T15:44:43.062Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
   "title": "CBS",
   "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 25,
-  "distinctSourceCount": 25,
+  "score": 26,
+  "distinctSourceCount": 26,
   "hop": 1,
   "uploadsPerDay": 2.85,
   "sources": [
@@ -183,6 +183,13 @@
       "label": "Taylor Mays",
       "url": "https://en.wikipedia.org/wiki/Taylor_Mays",
       "firstSeenAt": "2026-10-29T12:56:22.197Z"
+    },
+    {
+      "id": "wiki:Mahmoud Ahmadinejad",
+      "type": "wikipedia",
+      "label": "Mahmoud Ahmadinejad",
+      "url": "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad",
+      "firstSeenAt": "2026-11-02T15:44:43.063Z"
     }
   ],
   "recentItems": [
@@ -223,15 +230,6 @@
           "label": "The Great Coffee Debate"
         }
       ]
-    },
-    {
-      "id": "YvVxkHsxr8s",
-      "title": "Cupertino: Season 1 Episode 3 | Full Episode | CBS",
-      "publishedAt": "2026-10-24T10:00:26Z",
-      "durationSec": 2599,
-      "thumb": "https://i.ytimg.com/vi/YvVxkHsxr8s/mqdefault.jpg",
-      "description": "Watch on CBS | Stream on Paramount+ #CupertinoCBS\nFollow Cupertino on Instagram HERE: https://www.instagram.com/cupertinocbs\nLike Cupertino on Facebook HERE: https://www.facebook.com/cupertinocbs\n\nCUPERTINO is a David vs. Goliath legal drama set in the heart of Silicon Valley. A lawyer (Mike Colter) is cheated out of his stock options by his former employer, a tech start-up. Refusing to back down, he joins forces with another recently fired attorney (Rachel Keller) to represent those taken advantage of by the tech elite and help them fight back in a high-stakes battle against the Goliaths controlling Silicon Valley.",
-      "chapters": []
     }
   ]
 }

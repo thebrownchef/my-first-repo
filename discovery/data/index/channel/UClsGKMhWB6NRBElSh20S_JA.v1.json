@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "id": "UClsGKMhWB6NRBElSh20S_JA",
+  "title": "ElgarRareMovies",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lNrAfGH-RSuF_T1PJKewebdjDHHk-7CAWUtJiwL2Tb3A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0,
+  "sources": [
+    {
+      "id": "channel:UCGPlEG0L5hBnyfafQ3gnmsw",
+      "type": "channel",
+      "label": "Jack Gibbons",
+      "url": "https://www.youtube.com/channel/UCGPlEG0L5hBnyfafQ3gnmsw",
+      "firstSeenAt": "2026-10-23T11:34:53.079Z"
+    },
+    {
+      "id": "wiki:Pomp and Circumstance Marches",
+      "type": "wikipedia",
+      "label": "Pomp and Circumstance Marches",
+      "url": "https://en.wikipedia.org/wiki/Pomp_and_Circumstance_Marches",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    }
+  ],
+  "recentItems": []
+}

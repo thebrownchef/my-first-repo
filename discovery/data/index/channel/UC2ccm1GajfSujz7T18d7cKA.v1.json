@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC2ccm1GajfSujz7T18d7cKA",
   "title": "BBC Studios",
   "thumb": "https://yt3.ggpht.com/eJvbR6DJpYIzNu5K9NXr3JHc_c0-8ds7W9CnZ0xywzZQfOTKC9GoMFfEeFMNXKAp9LL9DeaiwOM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Bait ball",
       "url": "https://en.wikipedia.org/wiki/Bait_ball",
       "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    },
+    {
+      "id": "wiki:Daniel Ilabaca",
+      "type": "wikipedia",
+      "label": "Daniel Ilabaca",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Ilabaca",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UCf2WBemooP2gBBx3lrraNQw",
   "title": "blink182VEVO",
   "thumb": "https://yt3.ggpht.com/LibG3wCv6pzHURjVeCmLEXZ07NF9vBk3GobIYdCOA734aG3QObFaMnnVGwoeDpfMxh_V2dU6WR4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -71,6 +71,34 @@
       "label": "M+M's",
       "url": "https://en.wikipedia.org/wiki/M%2BM's",
       "firstSeenAt": "2026-10-26T12:56:37.390Z"
+    },
+    {
+      "id": "wiki:First Date (Blink-182 song)",
+      "type": "wikipedia",
+      "label": "First Date (Blink-182 song)",
+      "url": "https://en.wikipedia.org/wiki/First_Date_(Blink-182_song)",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Stay Together for the Kids",
+      "type": "wikipedia",
+      "label": "Stay Together for the Kids",
+      "url": "https://en.wikipedia.org/wiki/Stay_Together_for_the_Kids",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Adam's Song",
+      "type": "wikipedia",
+      "label": "Adam's Song",
+      "url": "https://en.wikipedia.org/wiki/Adam's_Song",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:The Rock Show",
+      "type": "wikipedia",
+      "label": "The Rock Show",
+      "url": "https://en.wikipedia.org/wiki/The_Rock_Show",
+      "firstSeenAt": "2026-11-02T15:44:46.934Z"
     }
   ],
   "recentItems": []

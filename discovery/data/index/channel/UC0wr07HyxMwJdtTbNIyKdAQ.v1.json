@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T13:19:26.917Z",
+  "generatedAt": "2026-11-02T15:46:43.906Z",
   "id": "UC0wr07HyxMwJdtTbNIyKdAQ",
   "title": "TheGiPiM",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kAyfh8jLxciq0W8VYxzBzOQ0-mxNfQ37nqsT-48YuAdw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "Municipality of Trujillo",
       "url": "https://en.wikipedia.org/wiki/Municipality_of_Trujillo",
       "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Trujillo metropolitan area (Peru)",
+      "type": "wikipedia",
+      "label": "Trujillo metropolitan area (Peru)",
+      "url": "https://en.wikipedia.org/wiki/Trujillo_metropolitan_area_(Peru)",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
     }
   ],
   "recentItems": [
