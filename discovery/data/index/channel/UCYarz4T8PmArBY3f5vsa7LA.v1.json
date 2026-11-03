@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCYarz4T8PmArBY3f5vsa7LA",
   "title": "TheDappyVEVO",
   "thumb": "https://yt3.ggpht.com/ltFM1JdPSvyRoDLo0vHfi8dEcNdC-uXISMzB1nS19hIKh--PgNBbWSEqimZqbfG56tPUK-M__w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Rockstar (Dappy song)",
       "url": "https://en.wikipedia.org/wiki/Rockstar_(Dappy_song)",
       "firstSeenAt": "2026-10-14T11:48:17.150Z"
+    },
+    {
+      "id": "wiki:Bad Intentions (album)",
+      "type": "wikipedia",
+      "label": "Bad Intentions (album)",
+      "url": "https://en.wikipedia.org/wiki/Bad_Intentions_(album)",
+      "firstSeenAt": "2026-11-03T14:08:07.874Z"
     }
   ],
   "recentItems": []

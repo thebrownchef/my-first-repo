@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC0iwHRFpv2_fpojZgQhElEQ",
   "title": "Noisey",
   "thumb": "https://yt3.ggpht.com/9NdoHEWQKAba3mRcPZuDKazQ0qW0wIwws1Wwo6hNbgzX3DtkjecqcV9M9ABi38sPtdVtN2MXbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -127,6 +127,13 @@
       "label": "Amoeba",
       "url": "https://www.youtube.com/channel/UC9DkCKm4_VDztRRyge4mCJQ",
       "firstSeenAt": "2026-11-01T13:17:48.153Z"
+    },
+    {
+      "id": "wiki:Ghost (Swedish band)",
+      "type": "wikipedia",
+      "label": "Ghost (Swedish band)",
+      "url": "https://en.wikipedia.org/wiki/Ghost_(Swedish_band)",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
     }
   ],
   "recentItems": [

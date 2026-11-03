@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCa35yNiTFwMoGnbIIOs8Ryw",
   "title": "Eric Wareheim",
   "thumb": "https://yt3.ggpht.com/kj8YKAUTFwYK9w0cvxYiNDCfCEfI-KlSkD6KeIgUM1YIjByEi-yEosfnxjyHA8Yqtr3cwYje=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tim Heidecker",
       "url": "https://www.youtube.com/channel/UCIA8TCSZ-BaBX-aJv92tpRQ",
       "firstSeenAt": "2026-10-17T10:40:06.722Z"
+    },
+    {
+      "id": "wiki:Pon de Floor",
+      "type": "wikipedia",
+      "label": "Pon de Floor",
+      "url": "https://en.wikipedia.org/wiki/Pon_de_Floor",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

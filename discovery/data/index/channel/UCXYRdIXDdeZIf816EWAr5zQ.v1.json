@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCXYRdIXDdeZIf816EWAr5zQ",
   "title": "Macklemore",
   "thumb": "https://yt3.ggpht.com/Fpympcm8Yt_qWAkofXu8pcI58e47EMlHPOKzZoVTeK6hU0MUtfKmzayadIaCZzJAXVfY-nDD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "The Heist (album)",
       "url": "https://en.wikipedia.org/wiki/The_Heist_(album)",
       "firstSeenAt": "2026-11-02T15:44:43.063Z"
+    },
+    {
+      "id": "wiki:Same Love",
+      "type": "wikipedia",
+      "label": "Same Love",
+      "url": "https://en.wikipedia.org/wiki/Same_Love",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

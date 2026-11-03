@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCaO6TYtlC8U5ttz62hTrZgg",
   "title": "JYP Entertainment",
   "thumb": "https://yt3.ggpht.com/2gb_g-qmLOeU6ZC3xyEPFN-fxDqkOkqr44TapTNi6iKQfLL13nOK6kuPWtYVTMPuiyT2tcb64A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "missA",
       "url": "https://www.youtube.com/channel/UCCSqiAQFvOjjVtXkZgtKZ-g",
       "firstSeenAt": "2026-11-02T15:45:13.971Z"
+    },
+    {
+      "id": "wiki:Full Moon (Sunmi EP)",
+      "type": "wikipedia",
+      "label": "Full Moon (Sunmi EP)",
+      "url": "https://en.wikipedia.org/wiki/Full_Moon_(Sunmi_EP)",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

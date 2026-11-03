@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC278IKj0R4JBFb18Waw-tWA",
   "title": "Decca Records",
   "thumb": "https://yt3.ggpht.com/ETeKGLTh4MDa0AM2fdpjoqPrD3gImHbJyPaSLzQaTEX0mZRLcAcZoYCuxmAxnCBIvjvwXuc5rw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Classic Christmas (Joe McElderry album)",
       "url": "https://en.wikipedia.org/wiki/Classic_Christmas_(Joe_McElderry_album)",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Nobody's Tune",
+      "type": "wikipedia",
+      "label": "Nobody's Tune",
+      "url": "https://en.wikipedia.org/wiki/Nobody's_Tune",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Wonderland (Faryl Smith album)",
+      "type": "wikipedia",
+      "label": "Wonderland (Faryl Smith album)",
+      "url": "https://en.wikipedia.org/wiki/Wonderland_(Faryl_Smith_album)",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
     }
   ],
   "recentItems": []

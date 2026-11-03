@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC8cYDHoMlLvnoViNU1K9yKA",
   "title": "Crash Test Dummies",
   "thumb": "https://yt3.ggpht.com/6wE7o-bMw9I6jrCdPwE_s7awT1eO3zHlxFiiAEwWgbomjqf_fp5v0RkVqzNMxXRq40dOb10=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Oooh La La! (Crash Test Dummies album)",
       "url": "https://en.wikipedia.org/wiki/Oooh_La_La!_(Crash_Test_Dummies_album)",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:And It's Beautiful",
+      "type": "wikipedia",
+      "label": "And It's Beautiful",
+      "url": "https://en.wikipedia.org/wiki/And_It's_Beautiful",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

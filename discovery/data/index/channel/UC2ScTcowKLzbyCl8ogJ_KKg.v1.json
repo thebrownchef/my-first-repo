@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC2ScTcowKLzbyCl8ogJ_KKg",
   "title": "laurapausinitv",
   "thumb": "https://yt3.ggpht.com/3Glz2RL13txCrjqKMS5BUtB9VN1wRFIa12bvfwbKv3zGIqXwjfAPKH9vpT935QH17h0wcS_laA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Limpido",
       "url": "https://en.wikipedia.org/wiki/Limpido",
       "firstSeenAt": "2026-11-01T13:17:20.883Z"
+    },
+    {
+      "id": "wiki:Ascolta il tuo cuore",
+      "type": "wikipedia",
+      "label": "Ascolta il tuo cuore",
+      "url": "https://en.wikipedia.org/wiki/Ascolta_il_tuo_cuore",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCmheCYT4HlbFi943lpH009Q",
   "title": "NASA Johnson",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZm4AjJJK7KaImYoO0j_J5i39p8UarnoItT8KQ5dzSJlc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.57,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "VideoFromSpace",
       "url": "https://www.youtube.com/channel/UCVTomc35agH1SM6kCKzwW_g",
       "firstSeenAt": "2026-10-22T11:48:01.126Z"
+    },
+    {
+      "id": "channel:UCKt6dYzHqHfpcp1lgj4bl1A",
+      "type": "channel",
+      "label": "NASA Science",
+      "url": "https://www.youtube.com/channel/UCKt6dYzHqHfpcp1lgj4bl1A",
+      "firstSeenAt": "2026-11-03T14:08:34.415Z"
     }
   ],
   "recentItems": []

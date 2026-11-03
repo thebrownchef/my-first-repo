@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC-VvQ2UlKhffyZGBb-0qL5w",
   "title": "DionneBromfieldVEVO",
   "thumb": "https://yt3.ggpht.com/P9TZCyosLBKoaBb3DRFYBQDx9nWXQryU7cym5T9xB9bT3zdpPs9YDOX3ac4ZZEzv5B7hko9Hvw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Yeah Right (Dionne Bromfield song)",
       "url": "https://en.wikipedia.org/wiki/Yeah_Right_(Dionne_Bromfield_song)",
       "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:Introducing Dionne Bromfield",
+      "type": "wikipedia",
+      "label": "Introducing Dionne Bromfield",
+      "url": "https://en.wikipedia.org/wiki/Introducing_Dionne_Bromfield",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC3zEXUkyhl9VihehWpLlE2Q",
   "title": "IndustryOfficial",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ktQ6GHqdjmQpxZ_GTnfvpEttpKpLir8vLr50g7nY0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Lee Hutton",
       "url": "https://en.wikipedia.org/wiki/Lee_Hutton",
       "firstSeenAt": "2026-10-29T12:56:22.197Z"
+    },
+    {
+      "id": "wiki:My Baby's Waiting",
+      "type": "wikipedia",
+      "label": "My Baby's Waiting",
+      "url": "https://en.wikipedia.org/wiki/My_Baby's_Waiting",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

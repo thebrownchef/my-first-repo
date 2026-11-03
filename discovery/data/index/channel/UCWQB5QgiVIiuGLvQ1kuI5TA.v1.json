@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCWQB5QgiVIiuGLvQ1kuI5TA",
   "title": "MNRK Music Group",
   "thumb": "https://yt3.ggpht.com/kf_eOjONP7I4vy77y3yvV85PIi--m4bLNu6FPK71LMOZjRzGBo2KnCd8_ZHOhDXTRiLko7wsbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Blow Ya Mind",
       "url": "https://en.wikipedia.org/wiki/Blow_Ya_Mind",
       "firstSeenAt": "2026-10-20T11:32:08.128Z"
+    },
+    {
+      "id": "wiki:C.A.S.H. (album)",
+      "type": "wikipedia",
+      "label": "C.A.S.H. (album)",
+      "url": "https://en.wikipedia.org/wiki/C.A.S.H._(album)",
+      "firstSeenAt": "2026-11-03T14:08:07.874Z"
     }
   ],
   "recentItems": []

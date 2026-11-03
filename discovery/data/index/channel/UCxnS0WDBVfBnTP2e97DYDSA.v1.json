@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCxnS0WDBVfBnTP2e97DYDSA",
   "title": "riserecords",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nU6_yPbHlwf2K5uwf_CIUXpiXKXXBR-EaY51SOxol6VIQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.7,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Cameron Mizell",
       "url": "https://en.wikipedia.org/wiki/Cameron_Mizell",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Challenger (Memphis May Fire album)",
+      "type": "wikipedia",
+      "label": "Challenger (Memphis May Fire album)",
+      "url": "https://en.wikipedia.org/wiki/Challenger_(Memphis_May_Fire_album)",
+      "firstSeenAt": "2026-11-03T14:08:07.874Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCBLAoqCQyz6a0OvwXWzKZag",
   "title": "Frontiers Music srl",
   "thumb": "https://yt3.ggpht.com/xp2c0tq0ZK5hDZ4hstcllDGAUmBFDvm5Bp6LqPVdgAn_sDeQ4AkaI4dTAb7PWyajsKABSdqB=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.73,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Kicking & Screaming (Sebastian Bach album)",
       "url": "https://en.wikipedia.org/wiki/Kicking_%26_Screaming_(Sebastian_Bach_album)",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Streets of Fire (Place Vendome album)",
+      "type": "wikipedia",
+      "label": "Streets of Fire (Place Vendome album)",
+      "url": "https://en.wikipedia.org/wiki/Streets_of_Fire_(Place_Vendome_album)",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Kiske/Somerville (album)",
+      "type": "wikipedia",
+      "label": "Kiske/Somerville (album)",
+      "url": "https://en.wikipedia.org/wiki/Kiske%2FSomerville_(album)",
+      "firstSeenAt": "2026-11-03T14:08:07.874Z"
+    },
+    {
+      "id": "wiki:Non Stop Rock'n Roll",
+      "type": "wikipedia",
+      "label": "Non Stop Rock'n Roll",
+      "url": "https://en.wikipedia.org/wiki/Non_Stop_Rock'n_Roll",
+      "firstSeenAt": "2026-11-03T14:08:07.874Z"
     }
   ],
   "recentItems": []

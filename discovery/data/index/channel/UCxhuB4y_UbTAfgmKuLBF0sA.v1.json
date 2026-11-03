@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCxhuB4y_UbTAfgmKuLBF0sA",
   "title": "IRTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2XOmuCF_AWp1NA4uQC1Kt4YP5U93WmSQMSgGfnHvtYJU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Moche River",
       "url": "https://en.wikipedia.org/wiki/Moche_River",
       "firstSeenAt": "2026-10-18T11:00:36.405Z"
+    },
+    {
+      "id": "wiki:Countryside of Moche",
+      "type": "wikipedia",
+      "label": "Countryside of Moche",
+      "url": "https://en.wikipedia.org/wiki/Countryside_of_Moche",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

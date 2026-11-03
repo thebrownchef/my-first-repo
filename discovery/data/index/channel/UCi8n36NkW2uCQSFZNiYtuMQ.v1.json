@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCi8n36NkW2uCQSFZNiYtuMQ",
   "title": "Paralympic Games",
   "thumb": "https://yt3.ggpht.com/rde27VRRp6j9xJ9NHAm11W4Fj7g5rWkxTFGubm-fC2zog9qz1NbkKZ3g_zqV3Yz6oa2FhYOu7wY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 3.55,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "El Amin Chentouf",
       "url": "https://en.wikipedia.org/wiki/El_Amin_Chentouf",
       "firstSeenAt": "2026-10-30T12:50:14.637Z"
+    },
+    {
+      "id": "wiki:1960 Summer Paralympics",
+      "type": "wikipedia",
+      "label": "1960 Summer Paralympics",
+      "url": "https://en.wikipedia.org/wiki/1960_Summer_Paralympics",
+      "firstSeenAt": "2026-11-03T14:08:03.894Z"
+    },
+    {
+      "id": "channel:UC963TWXoZB0FI2pbtEY4J_Q",
+      "type": "channel",
+      "label": "London 2012",
+      "url": "https://www.youtube.com/channel/UC963TWXoZB0FI2pbtEY4J_Q",
+      "firstSeenAt": "2026-11-03T14:08:19.725Z"
     }
   ],
   "recentItems": []

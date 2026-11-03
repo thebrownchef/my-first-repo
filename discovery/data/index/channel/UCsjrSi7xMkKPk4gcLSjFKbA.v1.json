@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCsjrSi7xMkKPk4gcLSjFKbA",
   "title": "asapfergVEVO",
   "thumb": "https://yt3.ggpht.com/SaMGk5yG1dUbbq2ML2SsFBM6jQbuAjrBpZUQYpRR358Ii8XPFSNmRjOfTcY6V3W7q9RmJVMa=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "ASAP Ferg discography",
       "url": "https://en.wikipedia.org/wiki/ASAP_Ferg_discography",
       "firstSeenAt": "2026-08-30T11:52:26.129Z"
+    },
+    {
+      "id": "wiki:Shabba Ranks",
+      "type": "wikipedia",
+      "label": "Shabba Ranks",
+      "url": "https://en.wikipedia.org/wiki/Shabba_Ranks",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

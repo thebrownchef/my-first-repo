@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCzOwRLQp7Jgzb_6MEDVzzJg",
   "title": "CASCADA",
   "thumb": "https://yt3.ggpht.com/OjO6v-FwYiwt3Co0huPgo7wJ-DARzvqDjoJ2_RzUZ0PRa1p-c3JxTM3yQ62KIDXnYGR9ePkjPg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Original Me",
       "url": "https://en.wikipedia.org/wiki/Original_Me",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Back on the Dancefloor",
+      "type": "wikipedia",
+      "label": "Back on the Dancefloor",
+      "url": "https://en.wikipedia.org/wiki/Back_on_the_Dancefloor",
+      "firstSeenAt": "2026-11-03T14:08:07.874Z"
     }
   ],
   "recentItems": []

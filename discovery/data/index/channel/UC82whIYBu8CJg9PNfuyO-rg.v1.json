@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC82whIYBu8CJg9PNfuyO-rg",
   "title": "TheTragicallyHipVEVO",
   "thumb": "https://yt3.ggpht.com/0MNGdwpEQpzQHoRrtV_djPcadyhGa5I15lT64amWeF_9tOnGBmSzNdqeD5oTMoNRr97-D83YnR4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "My Music at Work",
       "url": "https://en.wikipedia.org/wiki/My_Music_at_Work",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Grace, Too",
+      "type": "wikipedia",
+      "label": "Grace, Too",
+      "url": "https://en.wikipedia.org/wiki/Grace%2C_Too",
+      "firstSeenAt": "2026-11-03T14:08:03.894Z"
     }
   ],
   "recentItems": []

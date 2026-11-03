@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCXnlfWROIRrTySDGRaDujMg",
   "title": "ArtisanNewsService",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lxfyCkB6LEPlI84dXk_lE2owpZtHrqjfF9QdUlShzs6g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.27,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Fear Factory",
       "url": "https://en.wikipedia.org/wiki/Fear_Factory",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:The Oracle (Godsmack album)",
+      "type": "wikipedia",
+      "label": "The Oracle (Godsmack album)",
+      "url": "https://en.wikipedia.org/wiki/The_Oracle_(Godsmack_album)",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
     }
   ],
   "recentItems": []

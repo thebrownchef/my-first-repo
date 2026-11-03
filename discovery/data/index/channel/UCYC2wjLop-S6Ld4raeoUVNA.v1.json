@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCYC2wjLop-S6Ld4raeoUVNA",
   "title": "Angry Birds",
   "thumb": "https://yt3.ggpht.com/bEPHEjqwTYIfyDvZ8WEP5pL3N_5Te_w505L1Ssj05BFsFpB0_7HwoV8Uba6ExYKbyaBQrVqGLg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.55,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Piggy Tales",
       "url": "https://en.wikipedia.org/wiki/Piggy_Tales",
       "firstSeenAt": "2026-09-02T11:15:12.106Z"
+    },
+    {
+      "id": "channel:UCWfXR0-F7MI-TbqikgEdJcQ",
+      "type": "channel",
+      "label": "SEGA",
+      "url": "https://www.youtube.com/channel/UCWfXR0-F7MI-TbqikgEdJcQ",
+      "firstSeenAt": "2026-11-03T14:08:22.863Z"
     }
   ],
   "recentItems": []

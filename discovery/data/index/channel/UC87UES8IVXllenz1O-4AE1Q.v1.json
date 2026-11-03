@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC87UES8IVXllenz1O-4AE1Q",
   "title": "olympicvancouver2010",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kb7a2S5IXOk7SBdPEzacWy1olyDuKZMzvdrSjpBP88Ow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "2010 Winter Olympics opening ceremony",
       "url": "https://en.wikipedia.org/wiki/2010_Winter_Olympics_opening_ceremony",
       "firstSeenAt": "2026-10-20T11:32:06.612Z"
+    },
+    {
+      "id": "channel:UC963TWXoZB0FI2pbtEY4J_Q",
+      "type": "channel",
+      "label": "London 2012",
+      "url": "https://www.youtube.com/channel/UC963TWXoZB0FI2pbtEY4J_Q",
+      "firstSeenAt": "2026-11-03T14:08:19.726Z"
     }
   ],
   "recentItems": []

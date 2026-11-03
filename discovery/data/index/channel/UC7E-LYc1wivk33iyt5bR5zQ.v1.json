@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC7E-LYc1wivk33iyt5bR5zQ",
   "title": "Vatican News",
   "thumb": "https://yt3.ggpht.com/bQuLzosJJsDRO5I7Bz04Dq1V_fTdZeelLz9DkINH6nwdzi9qWKjxjZXt8Xv111oLVnbLXIQq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 1.19,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Conclave",
       "url": "https://en.wikipedia.org/wiki/Conclave",
       "firstSeenAt": "2026-11-02T15:44:46.933Z"
+    },
+    {
+      "id": "wiki:Cappella Paolina",
+      "type": "wikipedia",
+      "label": "Cappella Paolina",
+      "url": "https://en.wikipedia.org/wiki/Cappella_Paolina",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

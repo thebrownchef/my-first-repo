@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC_TVqp_SyG6j5hG-xVRy95A",
   "title": "Skrillex",
   "thumb": "https://yt3.ggpht.com/oFk7ugmFloQvjIEREi2vsuRuTF30L4Z28t4X7kfAXJFjQsgeRnzJVfQlBmgcWVPB4WJPXiNRtw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Breakn' a Sweat",
       "url": "https://en.wikipedia.org/wiki/Breakn'_a_Sweat",
       "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Skrillex",
+      "type": "wikipedia",
+      "label": "Skrillex",
+      "url": "https://en.wikipedia.org/wiki/Skrillex",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

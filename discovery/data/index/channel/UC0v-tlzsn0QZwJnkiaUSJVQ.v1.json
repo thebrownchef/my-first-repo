@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC0v-tlzsn0QZwJnkiaUSJVQ",
   "title": "REACT",
   "thumb": "https://yt3.ggpht.com/gArfrWy0dYo1JMgBhA8HofkvOImzx6DpdTfA5BMNC9n9rOsfCif-aTM6vtD3B-Q-4sm-_FD1ybw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Lee Newton",
       "url": "https://en.wikipedia.org/wiki/Lee_Newton",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:Rejected",
+      "type": "wikipedia",
+      "label": "Rejected",
+      "url": "https://en.wikipedia.org/wiki/Rejected",
+      "firstSeenAt": "2026-11-03T14:08:01.517Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
   "title": "Rotten Tomatoes Classic Trailers",
   "thumb": "https://yt3.ggpht.com/pVvKWiwE7Q3lFc9IJDIlOCIt0fgc-27QMsUzl5E4SZ4dA5cJPw0TW5bhPYVvnEkiOCabXxNHtw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 1,
   "uploadsPerDay": 0.85,
   "sources": [
@@ -99,6 +99,20 @@
       "label": "Fandango (Stream)",
       "url": "https://www.youtube.com/channel/UC4l6ZhkOzxIxvCSzDr4HKqg",
       "firstSeenAt": "2026-09-17T11:38:53.705Z"
+    },
+    {
+      "id": "wiki:Casa de los babys",
+      "type": "wikipedia",
+      "label": "Casa de los babys",
+      "url": "https://en.wikipedia.org/wiki/Casa_de_los_babys",
+      "firstSeenAt": "2026-11-03T14:08:01.515Z"
+    },
+    {
+      "id": "wiki:Maximilian Schell",
+      "type": "wikipedia",
+      "label": "Maximilian Schell",
+      "url": "https://en.wikipedia.org/wiki/Maximilian_Schell",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

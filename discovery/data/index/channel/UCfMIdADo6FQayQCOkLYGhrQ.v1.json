@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCfMIdADo6FQayQCOkLYGhrQ",
   "title": "JAXA | 宇宙航空研究開発機構",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kDcqDMGaTyjo_zZbl-u5-PrW_PyLj9SdmtYfrncWhFIQ0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Kounotori 4",
       "url": "https://en.wikipedia.org/wiki/Kounotori_4",
       "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    },
+    {
+      "id": "wiki:H-II Transfer Vehicle",
+      "type": "wikipedia",
+      "label": "H-II Transfer Vehicle",
+      "url": "https://en.wikipedia.org/wiki/H-II_Transfer_Vehicle",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

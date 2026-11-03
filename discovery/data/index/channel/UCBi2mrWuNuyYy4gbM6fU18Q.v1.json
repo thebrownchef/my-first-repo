@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
   "title": "ABC News",
   "thumb": "https://yt3.ggpht.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 16.24,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Jeannie Leavitt",
       "url": "https://en.wikipedia.org/wiki/Jeannie_Leavitt",
       "firstSeenAt": "2026-11-01T13:17:27.897Z"
+    },
+    {
+      "id": "wiki:Crystal Lee",
+      "type": "wikipedia",
+      "label": "Crystal Lee",
+      "url": "https://en.wikipedia.org/wiki/Crystal_Lee",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

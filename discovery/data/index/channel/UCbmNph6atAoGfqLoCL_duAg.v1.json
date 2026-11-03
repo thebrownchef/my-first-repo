@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Gray's Anatomy",
       "url": "https://en.wikipedia.org/wiki/Gray's_Anatomy",
       "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    },
+    {
+      "id": "wiki:Steven Levy",
+      "type": "wikipedia",
+      "label": "Steven Levy",
+      "url": "https://en.wikipedia.org/wiki/Steven_Levy",
+      "firstSeenAt": "2026-11-03T14:08:01.517Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "id": "UCezH4cD1a1lzgjEJNcrn35w",
+  "title": "KNKX Public Radio",
+  "thumb": "https://yt3.ggpht.com/zQELQobTDsRjkqIBw2KutAb0OF6y7VklSQpCZQTsZ1hlwN-5D1QHNmWhlIihPOHWiFUMRPxlAQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.24,
+  "sources": [
+    {
+      "id": "channel:UC4eYXhJI4-7wSWc8UNRwD4A",
+      "type": "channel",
+      "label": "NPR Music",
+      "url": "https://www.youtube.com/channel/UC4eYXhJI4-7wSWc8UNRwD4A",
+      "firstSeenAt": "2026-08-27T07:14:12.191Z"
+    },
+    {
+      "id": "channel:UCNqbnkQhWHJpf4X5dOBMXjA",
+      "type": "channel",
+      "label": "JazzTimesVideos",
+      "url": "https://www.youtube.com/channel/UCNqbnkQhWHJpf4X5dOBMXjA",
+      "firstSeenAt": "2026-11-03T14:08:33.934Z"
+    }
+  ],
+  "recentItems": []
+}

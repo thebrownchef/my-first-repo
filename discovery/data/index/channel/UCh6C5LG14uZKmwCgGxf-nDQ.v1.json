@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCh6C5LG14uZKmwCgGxf-nDQ",
   "title": "CelineDionVEVO",
   "thumb": "https://yt3.ggpht.com/pN_7uiDWSc6Qsm2sjGrPeJHgQKrP7JTh0KhwjEi9onXlcx7hvf91ahlI65yhP0IN2LssUuznnw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Incredible (Celine Dion and Ne-Yo song)",
       "url": "https://en.wikipedia.org/wiki/Incredible_(Celine_Dion_and_Ne-Yo_song)",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:Water and a Flame",
+      "type": "wikipedia",
+      "label": "Water and a Flame",
+      "url": "https://en.wikipedia.org/wiki/Water_and_a_Flame",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

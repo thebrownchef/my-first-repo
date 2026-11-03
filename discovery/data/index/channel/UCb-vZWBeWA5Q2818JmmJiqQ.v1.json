@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCb-vZWBeWA5Q2818JmmJiqQ",
   "title": "Oscars",
   "thumb": "https://yt3.ggpht.com/NpO5ACfL4GyjGF4jE6OZwHNatbPnVXIzwzl9gp3bU-avVqygYJXiLzjrLz_hLmbOr2AHV4qyO3o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 22,
-  "distinctSourceCount": 22,
+  "score": 23,
+  "distinctSourceCount": 23,
   "hop": 0,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -162,6 +162,13 @@
       "label": "Vic Flick",
       "url": "https://en.wikipedia.org/wiki/Vic_Flick",
       "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:Maximilian Schell",
+      "type": "wikipedia",
+      "label": "Maximilian Schell",
+      "url": "https://en.wikipedia.org/wiki/Maximilian_Schell",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": [

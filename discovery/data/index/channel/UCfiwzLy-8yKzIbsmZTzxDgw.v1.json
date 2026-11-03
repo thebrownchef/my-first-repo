@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCfiwzLy-8yKzIbsmZTzxDgw",
   "title": "AlJazeera Arabic  قناة الجزيرة",
   "thumb": "https://yt3.ggpht.com/oN_i26ADOuQ4PdypHo8yjVXh6QSXZ1kMeYzaRH3hNOlQE1uEUUQ-gkCh0o1rUQ2PM7Qx6QvY2g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 45.5,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "2012–2013 Egyptian protests",
       "url": "https://en.wikipedia.org/wiki/2012%E2%80%932013_Egyptian_protests",
       "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Abbas Messaadi",
+      "type": "wikipedia",
+      "label": "Abbas Messaadi",
+      "url": "https://en.wikipedia.org/wiki/Abbas_Messaadi",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Mohamed Ababou",
+      "type": "wikipedia",
+      "label": "Mohamed Ababou",
+      "url": "https://en.wikipedia.org/wiki/Mohamed_Ababou",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

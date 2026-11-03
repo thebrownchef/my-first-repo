@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "id": "UCKiEnIovMkpblQkBcuPxUNQ",
+  "title": "BuenCineDVD",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_l-BbgF0ddPBCVHyqRa3v0QjDv3CT5SXXtKWr56cAxuDA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "wiki:Good Life Delivery",
+      "type": "wikipedia",
+      "label": "Good Life Delivery",
+      "url": "https://en.wikipedia.org/wiki/Good_Life_Delivery",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:25 Watts",
+      "type": "wikipedia",
+      "label": "25 Watts",
+      "url": "https://en.wikipedia.org/wiki/25_Watts",
+      "firstSeenAt": "2026-11-03T14:08:01.517Z"
+    },
+    {
+      "id": "wiki:Waiting for the Messiah",
+      "type": "wikipedia",
+      "label": "Waiting for the Messiah",
+      "url": "https://en.wikipedia.org/wiki/Waiting_for_the_Messiah",
+      "firstSeenAt": "2026-11-03T14:08:01.517Z"
+    }
+  ],
+  "recentItems": []
+}

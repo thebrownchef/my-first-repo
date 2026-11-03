@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCwCGWxVCEu7qI98HNUTo-Fw",
   "title": "Wanda Kaluza",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kl9dZYGUOzMOygYvr4y75JEHxn239H8_vMiJEGFkE2dbPN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Rose Valley, Pennsylvania",
       "url": "https://en.wikipedia.org/wiki/Rose_Valley%2C_Pennsylvania",
       "firstSeenAt": "2026-10-22T11:47:47.034Z"
+    },
+    {
+      "id": "wiki:Gov. William H. Ross House",
+      "type": "wikipedia",
+      "label": "Gov. William H. Ross House",
+      "url": "https://en.wikipedia.org/wiki/Gov._William_H._Ross_House",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
     }
   ],
   "recentItems": []

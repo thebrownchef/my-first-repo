@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UC3lz95UPhKJW1aS3_za6SuQ",
   "title": "United CUBE (CUBE Entertainment Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/XUJmuh82OeRpLEuahv6_OZNSKKS4Rr32eYjuhXHJRFWFb5A5lfkL7XHy7g7SSdlXq1hoTk6XgA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.33,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "The Next Big Thing (EP)",
       "url": "https://en.wikipedia.org/wiki/The_Next_Big_Thing_(EP)",
       "firstSeenAt": "2026-10-20T11:32:04.543Z"
+    },
+    {
+      "id": "wiki:A Song for You (Roh Ji-hoon song)",
+      "type": "wikipedia",
+      "label": "A Song for You (Roh Ji-hoon song)",
+      "url": "https://en.wikipedia.org/wiki/A_Song_for_You_(Roh_Ji-hoon_song)",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCWBTV02MVmyLqNPWRGDrl6A",
   "title": "Berryz工房",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m5zOok-cijFCUu5spdI4MrrjHX1Kktm-WOLmwvAA-kC1U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "6th Otakebi Album",
       "url": "https://en.wikipedia.org/wiki/6th_Otakebi_Album",
       "firstSeenAt": "2026-11-01T13:17:27.897Z"
+    },
+    {
+      "id": "wiki:5 (Berryz Kobo album)",
+      "type": "wikipedia",
+      "label": "5 (Berryz Kobo album)",
+      "url": "https://en.wikipedia.org/wiki/5_(Berryz_Kobo_album)",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
     }
   ],
   "recentItems": []

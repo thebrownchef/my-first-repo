@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCiTFwf4VFGMyfg3cQlXP9JQ",
   "title": "NME",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxTw8oq-ZV536CcRVzApEaEkW70s8wmQsv11KyrBXKpgc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 1.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Libertines",
       "url": "https://www.youtube.com/channel/UCATDZ9YHc9cOIKbnD1yiY5g",
       "firstSeenAt": "2026-09-13T11:48:36.323Z"
+    },
+    {
+      "id": "wiki:Third (Portishead album)",
+      "type": "wikipedia",
+      "label": "Third (Portishead album)",
+      "url": "https://en.wikipedia.org/wiki/Third_(Portishead_album)",
+      "firstSeenAt": "2026-11-03T14:08:07.873Z"
     }
   ],
   "recentItems": []

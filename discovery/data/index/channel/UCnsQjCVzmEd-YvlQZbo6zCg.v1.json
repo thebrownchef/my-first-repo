@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCnsQjCVzmEd-YvlQZbo6zCg",
   "title": "2NE1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lwXHGkKYaKPhLyktT2heO_iTUNmNRxj7j37l6zfpf1u2Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 2,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "It Hurts (Slow)",
       "url": "https://en.wikipedia.org/wiki/It_Hurts_(Slow)",
       "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Hate You (2NE1 song)",
+      "type": "wikipedia",
+      "label": "Hate You (2NE1 song)",
+      "url": "https://en.wikipedia.org/wiki/Hate_You_(2NE1_song)",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

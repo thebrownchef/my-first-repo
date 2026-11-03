@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCTeHbaJUKPDDonHvzQV_Q4A",
   "title": "DANNYFERNANDESTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nvrVIZ3kIVUkFhkSBfboUHF8_-zAURIVdqMRS6HGXW-LM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Danny Fernandes",
       "url": "https://en.wikipedia.org/wiki/Danny_Fernandes",
       "firstSeenAt": "2026-10-30T12:50:07.826Z"
+    },
+    {
+      "id": "wiki:Never Again (Danny Fernandes song)",
+      "type": "wikipedia",
+      "label": "Never Again (Danny Fernandes song)",
+      "url": "https://en.wikipedia.org/wiki/Never_Again_(Danny_Fernandes_song)",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

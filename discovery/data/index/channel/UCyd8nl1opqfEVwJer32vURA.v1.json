@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCyd8nl1opqfEVwJer32vURA",
   "title": "Kylie Minogue",
   "thumb": "https://yt3.ggpht.com/lzhOaieFxpduBtl1rKZr-kd9E0LS1Sx49m3HqJFlU_NE5ZwpLgLTjZM7MvPLvviPkDzGLgG7Pt4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Breathe (Kylie Minogue song)",
       "url": "https://en.wikipedia.org/wiki/Breathe_(Kylie_Minogue_song)",
       "firstSeenAt": "2026-10-17T10:39:49.194Z"
+    },
+    {
+      "id": "wiki:Into the Blue (Kylie Minogue song)",
+      "type": "wikipedia",
+      "label": "Into the Blue (Kylie Minogue song)",
+      "url": "https://en.wikipedia.org/wiki/Into_the_Blue_(Kylie_Minogue_song)",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
     }
   ],
   "recentItems": []

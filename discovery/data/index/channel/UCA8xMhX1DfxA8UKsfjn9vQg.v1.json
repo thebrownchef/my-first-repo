@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCA8xMhX1DfxA8UKsfjn9vQg",
   "title": "Domino Recording Co.",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mGqDjNELH3SGFOAKWGSOK6JgyTEwJttA2zcxmA-DrA-w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Centipede Hz",
       "url": "https://en.wikipedia.org/wiki/Centipede_Hz",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Coconut (Archie Bronson Outfit album)",
+      "type": "wikipedia",
+      "label": "Coconut (Archie Bronson Outfit album)",
+      "url": "https://en.wikipedia.org/wiki/Coconut_(Archie_Bronson_Outfit_album)",
+      "firstSeenAt": "2026-11-03T14:08:07.874Z"
     }
   ],
   "recentItems": []

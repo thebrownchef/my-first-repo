@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCi8e0iOVk1fEOogdfu4YgfA",
   "title": "Rotten Tomatoes Trailers",
   "thumb": "https://yt3.ggpht.com/Cl5Kc-X9mgoghyYlK2D4kIJFbTuIPbbr7YCy27t3et3IcxlLPPlc1Y8VbNA2EMSAPBV_XYOvHw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 2.4,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Fandango (Stream)",
       "url": "https://www.youtube.com/channel/UC4l6ZhkOzxIxvCSzDr4HKqg",
       "firstSeenAt": "2026-09-17T11:38:53.705Z"
+    },
+    {
+      "id": "wiki:Crane World",
+      "type": "wikipedia",
+      "label": "Crane World",
+      "url": "https://en.wikipedia.org/wiki/Crane_World",
+      "firstSeenAt": "2026-11-03T14:08:01.517Z"
     }
   ],
   "recentItems": []

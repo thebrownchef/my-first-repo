@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UClx2ih2Nx8enGmsMsA6C3BQ",
   "title": "CAguileraVEVO",
   "thumb": "https://yt3.ggpht.com/C2TsAUo9xCXFETdU0Uha3zSz3lsd3XE3s6V_K9KNT3LjD8lbxhWcmFe-hE_qvDWmpAeIqBA6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -85,6 +85,20 @@
       "label": "Falsas Esperanzas",
       "url": "https://en.wikipedia.org/wiki/Falsas_Esperanzas",
       "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:Can't Hold Us Down",
+      "type": "wikipedia",
+      "label": "Can't Hold Us Down",
+      "url": "https://en.wikipedia.org/wiki/Can't_Hold_Us_Down",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Fighter (Christina Aguilera song)",
+      "type": "wikipedia",
+      "label": "Fighter (Christina Aguilera song)",
+      "url": "https://en.wikipedia.org/wiki/Fighter_(Christina_Aguilera_song)",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []

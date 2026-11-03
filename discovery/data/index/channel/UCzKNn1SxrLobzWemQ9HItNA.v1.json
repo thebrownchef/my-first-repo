@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:46:43.906Z",
+  "generatedAt": "2026-11-03T14:09:55.205Z",
   "id": "UCzKNn1SxrLobzWemQ9HItNA",
   "title": "earMUSIC",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m02CRClrl_IZ89q8oh9HRrg6DE17YX6azLK2t9xIsnOKo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -50,6 +50,55 @@
       "label": "Unisonic (album)",
       "url": "https://en.wikipedia.org/wiki/Unisonic_(album)",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Into the Sun (Tarja song)",
+      "type": "wikipedia",
+      "label": "Into the Sun (Tarja song)",
+      "url": "https://en.wikipedia.org/wiki/Into_the_Sun_(Tarja_song)",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:500 Letters",
+      "type": "wikipedia",
+      "label": "500 Letters",
+      "url": "https://en.wikipedia.org/wiki/500_Letters",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Victim of Ritual",
+      "type": "wikipedia",
+      "label": "Victim of Ritual",
+      "url": "https://en.wikipedia.org/wiki/Victim_of_Ritual",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Never Enough (Tarja song)",
+      "type": "wikipedia",
+      "label": "Never Enough (Tarja song)",
+      "url": "https://en.wikipedia.org/wiki/Never_Enough_(Tarja_song)",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Shine (Anette Olzon album)",
+      "type": "wikipedia",
+      "label": "Shine (Anette Olzon album)",
+      "url": "https://en.wikipedia.org/wiki/Shine_(Anette_Olzon_album)",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
+    },
+    {
+      "id": "wiki:Carry On (Lisa Stansfield song)",
+      "type": "wikipedia",
+      "label": "Carry On (Lisa Stansfield song)",
+      "url": "https://en.wikipedia.org/wiki/Carry_On_(Lisa_Stansfield_song)",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
+    },
+    {
+      "id": "wiki:Seven (Lisa Stansfield album)",
+      "type": "wikipedia",
+      "label": "Seven (Lisa Stansfield album)",
+      "url": "https://en.wikipedia.org/wiki/Seven_(Lisa_Stansfield_album)",
+      "firstSeenAt": "2026-11-03T14:08:03.893Z"
     }
   ],
   "recentItems": []
