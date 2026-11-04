@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCe4LM_eKc9ywRmVuBm5pjQg",
   "title": "Atlantic Records",
   "thumb": "https://yt3.ggpht.com/6W-mb2efMopcsFp2LcQV2kbp9H_L3CmdOUGfWAsRG21B_AKurkfNk-aM0ZkcPSoGOJ0w0VKAxuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "The Black Rob Report",
       "url": "https://en.wikipedia.org/wiki/The_Black_Rob_Report",
       "firstSeenAt": "2026-11-01T13:17:20.883Z"
+    },
+    {
+      "id": "wiki:I See You (Theme from Avatar)",
+      "type": "wikipedia",
+      "label": "I See You (Theme from Avatar)",
+      "url": "https://en.wikipedia.org/wiki/I_See_You_(Theme_from_Avatar)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

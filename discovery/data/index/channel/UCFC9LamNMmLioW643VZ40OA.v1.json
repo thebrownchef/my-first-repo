@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCFC9LamNMmLioW643VZ40OA",
   "title": "Gotye",
   "thumb": "https://yt3.ggpht.com/uMOpT-hsqXnyxHGVHZfM2zRS70BMZQmSuLyUy-jSSlNo3bXU1TbGkbV8fCN6S9JC7e38R_UBudg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Making Mirrors",
       "url": "https://en.wikipedia.org/wiki/Making_Mirrors",
       "firstSeenAt": "2026-10-15T11:24:52.679Z"
+    },
+    {
+      "id": "wiki:Save Me (Gotye song)",
+      "type": "wikipedia",
+      "label": "Save Me (Gotye song)",
+      "url": "https://en.wikipedia.org/wiki/Save_Me_(Gotye_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

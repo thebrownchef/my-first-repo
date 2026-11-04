@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCr8RbU-D7iSvpy0ZO-AasoQ",
   "title": "INNA",
   "thumb": "https://yt3.ggpht.com/3zkun1w1mzqDc6GqaNooYgUOVCbIQ7PLqn06-WHl3Eab4KGMXnwBKZ9VkyPNJALSw09GuEzN9f4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Believe",
       "url": "https://www.youtube.com/channel/UCLemmOzGbJqOz_pSVVPAMaA",
       "firstSeenAt": "2026-10-25T11:22:25.764Z"
+    },
+    {
+      "id": "wiki:In Your Eyes (Inna song)",
+      "type": "wikipedia",
+      "label": "In Your Eyes (Inna song)",
+      "url": "https://en.wikipedia.org/wiki/In_Your_Eyes_(Inna_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCocfdCiKujljqcGC-STMsCQ",
   "title": "Stone Temple Pilots",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_krufwZ5ACXnzsp3jck5LS30yh79TIKmJF6rnBEFjzcmw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Vasoline",
       "url": "https://en.wikipedia.org/wiki/Vasoline",
       "firstSeenAt": "2026-10-23T11:34:37.693Z"
+    },
+    {
+      "id": "channel:UCih7nCKnTgG3ptlHjMIeSFw",
+      "type": "channel",
+      "label": "creaseFL",
+      "url": "https://www.youtube.com/channel/UCih7nCKnTgG3ptlHjMIeSFw",
+      "firstSeenAt": "2026-11-04T14:28:39.167Z"
     }
   ],
   "recentItems": []

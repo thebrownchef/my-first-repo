@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCbW18JZRgko_mOGm5er8Yzg",
   "title": "OneDirectionVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBZumWLg8HqCIAD4oHGTIIdD8DTz5eV_DgCXFu6KxNjj28=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "What Makes You Beautiful",
       "url": "https://en.wikipedia.org/wiki/What_Makes_You_Beautiful",
       "firstSeenAt": "2026-10-27T12:06:51.025Z"
+    },
+    {
+      "id": "wiki:Kiss You",
+      "type": "wikipedia",
+      "label": "Kiss You",
+      "url": "https://en.wikipedia.org/wiki/Kiss_You",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:More than This (One Direction song)",
+      "type": "wikipedia",
+      "label": "More than This (One Direction song)",
+      "url": "https://en.wikipedia.org/wiki/More_than_This_(One_Direction_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

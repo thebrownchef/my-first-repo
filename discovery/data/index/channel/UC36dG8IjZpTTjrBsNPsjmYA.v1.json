@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC36dG8IjZpTTjrBsNPsjmYA",
   "title": "JLSVEVO",
   "thumb": "https://yt3.ggpht.com/2mMHyIoyKtXp9lNBdAjMIapUTpREFj5MNtAGlWPk3YRtz08KjrVFDEZURC99TU6h0o_yA-e0hg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Billion Lights",
       "url": "https://en.wikipedia.org/wiki/Billion_Lights",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:She Makes Me Wanna",
+      "type": "wikipedia",
+      "label": "She Makes Me Wanna",
+      "url": "https://en.wikipedia.org/wiki/She_Makes_Me_Wanna",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

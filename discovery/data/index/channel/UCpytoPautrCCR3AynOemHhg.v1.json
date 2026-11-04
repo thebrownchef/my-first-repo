@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCpytoPautrCCR3AynOemHhg",
   "title": "LudacrisVEVO",
   "thumb": "https://yt3.ggpht.com/SrNi0hWVXpL9AfeHeypIEd-Oe0AZxj_Y-0vF6c_gSdkcFytnV1UIJFV2XAMfaMGt9J3NHG0besg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "Undisputed (song)",
       "url": "https://en.wikipedia.org/wiki/Undisputed_(song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Rest of My Life (Ludacris song)",
+      "type": "wikipedia",
+      "label": "Rest of My Life (Ludacris song)",
+      "url": "https://en.wikipedia.org/wiki/Rest_of_My_Life_(Ludacris_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": [

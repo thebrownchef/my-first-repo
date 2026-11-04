@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC8p1vwvWtl6T73JiExfWs1g",
   "title": "CBS News",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niBFv49gSx4rr1afMZU_Pv7SeuPKO2SMHvv0Ar7OKxM4o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 1,
   "uploadsPerDay": 21.24,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Paramount",
       "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
       "firstSeenAt": "2026-10-16T11:19:55.250Z"
+    },
+    {
+      "id": "wiki:Morning Glory (2010 film)",
+      "type": "wikipedia",
+      "label": "Morning Glory (2010 film)",
+      "url": "https://en.wikipedia.org/wiki/Morning_Glory_(2010_film)",
+      "firstSeenAt": "2026-11-04T14:28:02.598Z"
     }
   ],
   "recentItems": []

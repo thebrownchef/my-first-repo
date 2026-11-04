@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC3EKokt8lCDZm1F-VwPNliA",
   "title": "daughtryVEVO",
   "thumb": "https://yt3.ggpht.com/ovpOjXML2Fp61DsBO-iu0bECzUq1KXavW4C-f6rtTYwso75FmfwxnjJRM-9D2p9ijkc_5quwfQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Thomas Dekker (actor)",
       "url": "https://en.wikipedia.org/wiki/Thomas_Dekker_(actor)",
       "firstSeenAt": "2026-10-29T12:56:22.197Z"
+    },
+    {
+      "id": "wiki:Waiting for Superman (song)",
+      "type": "wikipedia",
+      "label": "Waiting for Superman (song)",
+      "url": "https://en.wikipedia.org/wiki/Waiting_for_Superman_(song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

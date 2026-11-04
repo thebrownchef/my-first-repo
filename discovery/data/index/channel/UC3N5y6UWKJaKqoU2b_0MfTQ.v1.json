@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC3N5y6UWKJaKqoU2b_0MfTQ",
   "title": "LanaDelReyVEVO",
   "thumb": "https://yt3.ggpht.com/v7FFBCqWHtvh-_wLtWV2vOrgBI7p7puXjiZgZJ1bOcwdGUkP8DjHVdt6U-QvSDjEMtYa0aSw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Blue Jeans (Lana Del Rey song)",
       "url": "https://en.wikipedia.org/wiki/Blue_Jeans_(Lana_Del_Rey_song)",
       "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Bel Air (Lana Del Rey song)",
+      "type": "wikipedia",
+      "label": "Bel Air (Lana Del Rey song)",
+      "url": "https://en.wikipedia.org/wiki/Bel_Air_(Lana_Del_Rey_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
     }
   ],
   "recentItems": []

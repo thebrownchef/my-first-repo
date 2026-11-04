@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC-8Q-hLdECwQmaWNwXitYDw",
   "title": "KatyPerryVEVO",
   "thumb": "https://yt3.ggpht.com/At-OTmzPnkE8xcDw08lHdUxbGy9TP-jzB4f4EnvcnUVTMuHoLP-sE8WY3OkwK6DJdWN6OJII=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "Prism (Katy Perry album)",
       "url": "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)",
       "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:E.T. (song)",
+      "type": "wikipedia",
+      "label": "E.T. (song)",
+      "url": "https://en.wikipedia.org/wiki/E.T._(song)",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Teenage Dream (Katy Perry song)",
+      "type": "wikipedia",
+      "label": "Teenage Dream (Katy Perry song)",
+      "url": "https://en.wikipedia.org/wiki/Teenage_Dream_(Katy_Perry_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
     }
   ],
   "recentItems": []

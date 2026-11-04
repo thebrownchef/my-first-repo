@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC8-bckedpx1A3hF-bNEfsAA",
   "title": "TROPFEST Arabia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2xS0Q091j32NvUzuTahLqTaAT7odcm5jq7eDXHAcIMXg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tropfest Arabia",
       "url": "https://en.wikipedia.org/wiki/Tropfest_Arabia",
       "firstSeenAt": "2026-10-24T10:54:51.418Z"
+    },
+    {
+      "id": "wiki:Emirates Novel Award",
+      "type": "wikipedia",
+      "label": "Emirates Novel Award",
+      "url": "https://en.wikipedia.org/wiki/Emirates_Novel_Award",
+      "firstSeenAt": "2026-11-04T14:27:59.694Z"
     }
   ],
   "recentItems": []

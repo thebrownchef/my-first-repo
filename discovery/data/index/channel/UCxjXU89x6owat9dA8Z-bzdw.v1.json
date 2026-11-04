@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCxjXU89x6owat9dA8Z-bzdw",
   "title": "AKB48",
   "thumb": "https://yt3.ggpht.com/gz2f-QKFrNBl4IYKCmMb5Z97cfQOzj_Y4My5lNYIYu8VVff88MKNzj-m5O7WEQNrvtkt-oIMoOQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Koko ni Ita Koto",
       "url": "https://en.wikipedia.org/wiki/Koko_ni_Ita_Koto",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Heavy Rotation (song)",
+      "type": "wikipedia",
+      "label": "Heavy Rotation (song)",
+      "url": "https://en.wikipedia.org/wiki/Heavy_Rotation_(song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:River (AKB48 song)",
+      "type": "wikipedia",
+      "label": "River (AKB48 song)",
+      "url": "https://en.wikipedia.org/wiki/River_(AKB48_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "channel:UCudBYIpfOI2SORZB3UxYrQQ",
+      "type": "channel",
+      "label": "WarotaOfficial",
+      "url": "https://www.youtube.com/channel/UCudBYIpfOI2SORZB3UxYrQQ",
+      "firstSeenAt": "2026-11-04T14:28:34.137Z"
     }
   ],
   "recentItems": []

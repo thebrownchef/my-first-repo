@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCvC4D8onUfXzvjTOM-dBfEA",
   "title": "Marvel Entertainment",
   "thumb": "https://yt3.ggpht.com/k7BhK-hm9_MbJbaKznHPhir6e4pWXbm1ppAHoseLIzRgoAPBMmH1IIhYKlXbGono25RD1OQwHQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 1.37,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Disney Plus",
       "url": "https://www.youtube.com/channel/UCIrgJInjLS2BhlHOMDW7v0g",
       "firstSeenAt": "2026-09-21T12:44:49.756Z"
+    },
+    {
+      "id": "channel:UCFQI1-YjyUGcxqU54xcDGlg",
+      "type": "channel",
+      "label": "Sapphire Studios",
+      "url": "https://www.youtube.com/channel/UCFQI1-YjyUGcxqU54xcDGlg",
+      "firstSeenAt": "2026-11-04T14:28:32.887Z"
     }
   ],
   "recentItems": []

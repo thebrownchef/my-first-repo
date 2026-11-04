@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCN3Jj2sU9LNFQplsjsdxdrw",
   "title": "RebelTaxi",
   "thumb": "https://yt3.ggpht.com/I4PqyAQE2bieE9yZ2iq8NSWXD7zAwQsoo9zNBSGWvy1BeATFX2hGJl8aGZhyetoVItyLyYHTaQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "ArtistIzzy",
       "url": "https://www.youtube.com/channel/UCG3IS8mRWsd-xP1UzBlw4mw",
       "firstSeenAt": "2026-10-01T13:10:05.579Z"
+    },
+    {
+      "id": "channel:UCVavh25yuXxP0kjoS07zHJw",
+      "type": "channel",
+      "label": "HangoverUncensored",
+      "url": "https://www.youtube.com/channel/UCVavh25yuXxP0kjoS07zHJw",
+      "firstSeenAt": "2026-11-04T14:28:26.204Z"
     }
   ],
   "recentItems": []

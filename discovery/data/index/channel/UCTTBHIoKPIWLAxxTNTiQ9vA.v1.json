@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCTTBHIoKPIWLAxxTNTiQ9vA",
   "title": "XL Recordings",
   "thumb": "https://yt3.ggpht.com/gP8D0w3gzgFRcn_K7SzINas-mplHf_xSv-hntr68ZnzLqCfwNMkMklRbVOnfTfvMltrPuNZ22g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Beggars Banquet Records",
       "url": "https://www.youtube.com/channel/UCXWY-FG0IvCKrj_lqQdGLOQ",
       "firstSeenAt": "2026-10-14T11:48:44.899Z"
+    },
+    {
+      "id": "wiki:Default (Atoms for Peace song)",
+      "type": "wikipedia",
+      "label": "Default (Atoms for Peace song)",
+      "url": "https://en.wikipedia.org/wiki/Default_(Atoms_for_Peace_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Judge, Jury and Executioner",
+      "type": "wikipedia",
+      "label": "Judge, Jury and Executioner",
+      "url": "https://en.wikipedia.org/wiki/Judge%2C_Jury_and_Executioner",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

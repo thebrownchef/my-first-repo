@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC9KhB07HSEtWISy_LFWwHzw",
   "title": "johnmayerVEVO",
   "thumb": "https://yt3.ggpht.com/IrtssmU5WpTdgnAC3r-YNq_WDGujO8025uptIyQAj_qSL8I5w1NliNEGKvvtm9fWL3xVX6kmrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Prancercise",
       "url": "https://en.wikipedia.org/wiki/Prancercise",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:Who You Love",
+      "type": "wikipedia",
+      "label": "Who You Love",
+      "url": "https://en.wikipedia.org/wiki/Who_You_Love",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

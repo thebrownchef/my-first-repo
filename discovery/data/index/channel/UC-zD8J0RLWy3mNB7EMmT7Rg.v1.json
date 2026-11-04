@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC-zD8J0RLWy3mNB7EMmT7Rg",
   "title": "Lupe Fiasco",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lMasGy08q5HzNLyhsV38hms-MyoUpJjfDH-hCH2VzJK2o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Battle Scars",
       "url": "https://en.wikipedia.org/wiki/Battle_Scars",
       "firstSeenAt": "2026-10-16T11:19:24.460Z"
+    },
+    {
+      "id": "wiki:I'm Beamin'",
+      "type": "wikipedia",
+      "label": "I'm Beamin'",
+      "url": "https://en.wikipedia.org/wiki/I'm_Beamin'",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

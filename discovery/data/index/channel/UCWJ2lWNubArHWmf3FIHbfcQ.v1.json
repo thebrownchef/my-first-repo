@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCWJ2lWNubArHWmf3FIHbfcQ",
   "title": "NBA",
   "thumb": "https://yt3.ggpht.com/eGmO8yk_eHvLzEywzlPwRV_-7RiDayDLeXWWBVExMLN4qXA7z7fD6ldPXatXZiQOvgW4--jzNA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 10.49,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "2007 NBA Finals",
       "url": "https://en.wikipedia.org/wiki/2007_NBA_Finals",
       "firstSeenAt": "2026-11-03T14:08:03.894Z"
+    },
+    {
+      "id": "wiki:Kevin Love",
+      "type": "wikipedia",
+      "label": "Kevin Love",
+      "url": "https://en.wikipedia.org/wiki/Kevin_Love",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

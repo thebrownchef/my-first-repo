@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCCxKPNMqjnqbxVEt1tyDUsA",
   "title": "kermodeandmayo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ks6dEmEkAImF_CZKA2ou92K3XWGrURDSlU25bAH3QGsg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Good Vibrations (film)",
       "url": "https://en.wikipedia.org/wiki/Good_Vibrations_(film)",
       "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:Chico and Rita",
+      "type": "wikipedia",
+      "label": "Chico and Rita",
+      "url": "https://en.wikipedia.org/wiki/Chico_and_Rita",
+      "firstSeenAt": "2026-11-04T14:28:02.598Z"
+    },
+    {
+      "id": "wiki:Eat Pray Love",
+      "type": "wikipedia",
+      "label": "Eat Pray Love",
+      "url": "https://en.wikipedia.org/wiki/Eat_Pray_Love",
+      "firstSeenAt": "2026-11-04T14:28:02.598Z"
     }
   ],
   "recentItems": []

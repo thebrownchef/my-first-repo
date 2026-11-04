@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCsgEkEWaXKQwrhlLHFbcQFw",
   "title": "Sub Pop",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kaD6FuxSeY4TJ53io3868YCaM8Efk3tldqO5U1dp5ZXQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Amoeba",
       "url": "https://www.youtube.com/channel/UC9DkCKm4_VDztRRyge4mCJQ",
       "firstSeenAt": "2026-11-01T13:17:48.155Z"
+    },
+    {
+      "id": "wiki:Into the Blue Again",
+      "type": "wikipedia",
+      "label": "Into the Blue Again",
+      "url": "https://en.wikipedia.org/wiki/Into_the_Blue_Again",
+      "firstSeenAt": "2026-11-04T14:28:02.597Z"
     }
   ],
   "recentItems": []

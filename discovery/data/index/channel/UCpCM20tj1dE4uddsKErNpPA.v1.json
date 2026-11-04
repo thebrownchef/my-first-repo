@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCpCM20tj1dE4uddsKErNpPA",
   "title": "AceHoodVEVO",
   "thumb": "https://yt3.ggpht.com/12TQgsaTNNyVCk5npahVq0GA-z-JvFwufZOI_Yrk6y633zGNu8mP7DI_l3yVWfEKDOPVOoh4cCI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "We Outchea",
       "url": "https://en.wikipedia.org/wiki/We_Outchea",
       "firstSeenAt": "2026-10-26T12:56:37.390Z"
+    },
+    {
+      "id": "wiki:Go n Get It",
+      "type": "wikipedia",
+      "label": "Go n Get It",
+      "url": "https://en.wikipedia.org/wiki/Go_n_Get_It",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
     }
   ],
   "recentItems": []

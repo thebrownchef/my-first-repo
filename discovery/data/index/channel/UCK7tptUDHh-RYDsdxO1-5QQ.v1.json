@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCK7tptUDHh-RYDsdxO1-5QQ",
   "title": "The Wall Street Journal",
   "thumb": "https://yt3.ggpht.com/zbPzRWTIiIg_sNPoAgBf4COWvAoac3vgbiTEu1dfpqH3YPDNvnxMjDtAGftuw5EPx8wfSjMzr2I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 4.12,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Murder of Menachem Stark",
       "url": "https://en.wikipedia.org/wiki/Murder_of_Menachem_Stark",
       "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Replay (Zendaya song)",
+      "type": "wikipedia",
+      "label": "Replay (Zendaya song)",
+      "url": "https://en.wikipedia.org/wiki/Replay_(Zendaya_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

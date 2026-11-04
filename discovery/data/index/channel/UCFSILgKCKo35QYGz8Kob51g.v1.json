@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCFSILgKCKo35QYGz8Kob51g",
   "title": "StudiocanalUK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kEkaRgMMea1ykKSkDsY78cvu6zoSzsvIEZMIeqwKPnsqQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "British Stuff TV",
       "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
       "firstSeenAt": "2026-09-06T10:53:26.528Z"
+    },
+    {
+      "id": "wiki:Love, Marilyn",
+      "type": "wikipedia",
+      "label": "Love, Marilyn",
+      "url": "https://en.wikipedia.org/wiki/Love%2C_Marilyn",
+      "firstSeenAt": "2026-11-04T14:28:02.598Z"
     }
   ],
   "recentItems": []

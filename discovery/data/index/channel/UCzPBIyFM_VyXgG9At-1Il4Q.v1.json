@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCzPBIyFM_VyXgG9At-1Il4Q",
   "title": "MISIA",
   "thumb": "https://yt3.ggpht.com/JEEMOeYLa9_S1lVHiqZRyAt3oxL7D6O4CruuqHP0fIbiw9kGn3J7Lqcf11RSNNyAbC-VNwGU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Yakusoku no Tsubasa",
       "url": "https://en.wikipedia.org/wiki/Yakusoku_no_Tsubasa",
       "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:Kioku (Misia song)",
+      "type": "wikipedia",
+      "label": "Kioku (Misia song)",
+      "url": "https://en.wikipedia.org/wiki/Kioku_(Misia_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

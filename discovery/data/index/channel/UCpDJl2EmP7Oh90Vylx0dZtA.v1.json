@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCpDJl2EmP7Oh90Vylx0dZtA",
   "title": "Spinnin' Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lAEdCN-f5liiRVIRudaJzXbIsroI3oe-4QoemUi6t8RqI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 1.93,
   "sources": [
@@ -92,6 +92,27 @@
       "label": "Mandy Ventrice",
       "url": "https://en.wikipedia.org/wiki/Mandy_Ventrice",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:The Night Out",
+      "type": "wikipedia",
+      "label": "The Night Out",
+      "url": "https://en.wikipedia.org/wiki/The_Night_Out",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:In da Name of Love",
+      "type": "wikipedia",
+      "label": "In da Name of Love",
+      "url": "https://en.wikipedia.org/wiki/In_da_Name_of_Love",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Hey Now (Martin Solveig song)",
+      "type": "wikipedia",
+      "label": "Hey Now (Martin Solveig song)",
+      "url": "https://en.wikipedia.org/wiki/Hey_Now_(Martin_Solveig_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

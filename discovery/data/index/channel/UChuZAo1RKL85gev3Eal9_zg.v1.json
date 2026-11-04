@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UChuZAo1RKL85gev3Eal9_zg",
   "title": "AfrojackVEVO",
   "thumb": "https://yt3.ggpht.com/0yX4ELRx2BUIm6Yw-Jd9cn4jBzF6Cr_Oel3KZNevMbiKVMLOg-yGSxDfiLkT589USXKU5OymIw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "As Your Friend",
       "url": "https://en.wikipedia.org/wiki/As_Your_Friend",
       "firstSeenAt": "2026-10-24T10:54:50.878Z"
+    },
+    {
+      "id": "wiki:Ten Feet Tall",
+      "type": "wikipedia",
+      "label": "Ten Feet Tall",
+      "url": "https://en.wikipedia.org/wiki/Ten_Feet_Tall",
+      "firstSeenAt": "2026-11-04T14:28:02.597Z"
     }
   ],
   "recentItems": []

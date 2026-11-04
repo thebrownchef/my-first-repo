@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCA8xMhX1DfxA8UKsfjn9vQg",
   "title": "Domino Recording Co.",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mGqDjNELH3SGFOAKWGSOK6JgyTEwJttA2zcxmA-DrA-w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Coconut (Archie Bronson Outfit album)",
       "url": "https://en.wikipedia.org/wiki/Coconut_(Archie_Bronson_Outfit_album)",
       "firstSeenAt": "2026-11-03T14:08:07.874Z"
+    },
+    {
+      "id": "wiki:Brianstorm",
+      "type": "wikipedia",
+      "label": "Brianstorm",
+      "url": "https://en.wikipedia.org/wiki/Brianstorm",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

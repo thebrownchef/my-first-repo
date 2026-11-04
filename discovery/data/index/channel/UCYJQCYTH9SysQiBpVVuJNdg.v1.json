@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCYJQCYTH9SysQiBpVVuJNdg",
   "title": "JakeBuggVEVO",
   "thumb": "https://yt3.ggpht.com/U_vOVr7Qrbd0pVfGHaqNA8fCMDrIrkzpzwPp4qiNIbaJGsRsPYK61h3f71_0xfcgXzd1TXaiLRU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,34 @@
       "label": "Slumville Sunrise",
       "url": "https://en.wikipedia.org/wiki/Slumville_Sunrise",
       "firstSeenAt": "2026-11-03T14:08:03.893Z"
+    },
+    {
+      "id": "wiki:Broken (Jake Bugg song)",
+      "type": "wikipedia",
+      "label": "Broken (Jake Bugg song)",
+      "url": "https://en.wikipedia.org/wiki/Broken_(Jake_Bugg_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Seen It All (Jake Bugg song)",
+      "type": "wikipedia",
+      "label": "Seen It All (Jake Bugg song)",
+      "url": "https://en.wikipedia.org/wiki/Seen_It_All_(Jake_Bugg_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Taste It (Jake Bugg song)",
+      "type": "wikipedia",
+      "label": "Taste It (Jake Bugg song)",
+      "url": "https://en.wikipedia.org/wiki/Taste_It_(Jake_Bugg_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Two Fingers",
+      "type": "wikipedia",
+      "label": "Two Fingers",
+      "url": "https://en.wikipedia.org/wiki/Two_Fingers",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

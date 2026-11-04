@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCaHeKVMEpI6cTi6RozW6UZQ",
   "title": "Universal Music Sweden",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lGZ2TfBBuUFfbnRiNx0iXw-JVdmrj45qWgUyB8fej3ow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Colonia (A Camp album)",
       "url": "https://en.wikipedia.org/wiki/Colonia_(A_Camp_album)",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Phresh Out the Runway",
+      "type": "wikipedia",
+      "label": "Phresh Out the Runway",
+      "url": "https://en.wikipedia.org/wiki/Phresh_Out_the_Runway",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Sergels torg (song)",
+      "type": "wikipedia",
+      "label": "Sergels torg (song)",
+      "url": "https://en.wikipedia.org/wiki/Sergels_torg_(song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

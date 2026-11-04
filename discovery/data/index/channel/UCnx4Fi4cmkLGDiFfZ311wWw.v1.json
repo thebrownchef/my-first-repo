@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCnx4Fi4cmkLGDiFfZ311wWw",
   "title": "스브스 예능맛집",
   "thumb": "https://yt3.ggpht.com/N4ISELzK2JUX9a82XoRDipAAZWLozCQR0d9IORLfS9yzJqtA4_M1h6jvre7OI9zH1y4ouLenIa0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
-  "hop": 1,
-  "uploadsPerDay": 1,
+  "score": 10,
+  "distinctSourceCount": 10,
+  "hop": 0,
+  "uploadsPerDay": 1.02,
   "sources": [
     {
       "id": "channel:UCS_hnpJLQTvBkqALgapi_4g",
@@ -71,6 +71,13 @@
       "label": "런닝맨 - 스브스 공식 채널",
       "url": "https://www.youtube.com/channel/UCaKod3X1Tn4c7Ci0iUKcvzQ",
       "firstSeenAt": "2026-09-26T11:21:53.636Z"
+    },
+    {
+      "id": "wiki:K-pop Star 3",
+      "type": "wikipedia",
+      "label": "K-pop Star 3",
+      "url": "https://en.wikipedia.org/wiki/K-pop_Star_3",
+      "firstSeenAt": "2026-11-04T14:28:06.791Z"
     }
   ],
   "recentItems": []

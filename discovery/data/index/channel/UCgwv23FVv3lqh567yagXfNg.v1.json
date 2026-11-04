@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCgwv23FVv3lqh567yagXfNg",
   "title": "DisneyMusicVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvNHhhb5UzdKLCer4xytxAB8bki4wJ5Kxr7oRanaGZsbU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.57,
   "sources": [
@@ -71,6 +71,20 @@
       "label": "Lemonade Mouth (film)",
       "url": "https://en.wikipedia.org/wiki/Lemonade_Mouth_(film)",
       "firstSeenAt": "2026-10-27T12:06:49.119Z"
+    },
+    {
+      "id": "wiki:(I Can't) Forget About You",
+      "type": "wikipedia",
+      "label": "(I Can't) Forget About You",
+      "url": "https://en.wikipedia.org/wiki/(I_Can't)_Forget_About_You",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Amigas Cheetahs",
+      "type": "wikipedia",
+      "label": "Amigas Cheetahs",
+      "url": "https://en.wikipedia.org/wiki/Amigas_Cheetahs",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

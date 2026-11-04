@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
   "title": "BeyoncéVEVO",
   "thumb": "https://yt3.ggpht.com/4UxYRy4fJ0Fo54TRPkw19_W6uCCnzTBSkzm75vGIiEObg4IgY5Ie1BIsNcflFNqofAjxEpTRcQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 25,
-  "distinctSourceCount": 25,
+  "score": 28,
+  "distinctSourceCount": 28,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -183,6 +183,27 @@
       "label": "XO (song)",
       "url": "https://en.wikipedia.org/wiki/XO_(song)",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Best Thing I Never Had",
+      "type": "wikipedia",
+      "label": "Best Thing I Never Had",
+      "url": "https://en.wikipedia.org/wiki/Best_Thing_I_Never_Had",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Dance for You",
+      "type": "wikipedia",
+      "label": "Dance for You",
+      "url": "https://en.wikipedia.org/wiki/Dance_for_You",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:I Was Here (song)",
+      "type": "wikipedia",
+      "label": "I Was Here (song)",
+      "url": "https://en.wikipedia.org/wiki/I_Was_Here_(song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": [

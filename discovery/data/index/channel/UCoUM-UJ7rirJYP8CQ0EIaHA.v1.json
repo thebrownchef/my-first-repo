@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCoUM-UJ7rirJYP8CQ0EIaHA",
   "title": "Bruno Mars",
   "thumb": "https://yt3.ggpht.com/dxwzp4IYsNJKDcwNYgF0UGdw9vCWSMqkHaLtC08VVKg8eybNs69pbdTaGdoaKQYHVQjFyeybzA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Gorilla (song)",
       "url": "https://en.wikipedia.org/wiki/Gorilla_(song)",
       "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:Just the Way You Are (Bruno Mars song)",
+      "type": "wikipedia",
+      "label": "Just the Way You Are (Bruno Mars song)",
+      "url": "https://en.wikipedia.org/wiki/Just_the_Way_You_Are_(Bruno_Mars_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:The Lazy Song",
+      "type": "wikipedia",
+      "label": "The Lazy Song",
+      "url": "https://en.wikipedia.org/wiki/The_Lazy_Song",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

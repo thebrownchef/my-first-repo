@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCoEN65PAvCJkuxQXxSUmpzA",
   "title": "Matt Fishel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nRZsQce2bu-g2zlQExfItC9kMPY85kipIBmcU7BIh_y6Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,34 @@
       "label": "Not Thinking Straight (album)",
       "url": "https://en.wikipedia.org/wiki/Not_Thinking_Straight_(album)",
       "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Radio-Friendly Pop Song",
+      "type": "wikipedia",
+      "label": "Radio-Friendly Pop Song",
+      "url": "https://en.wikipedia.org/wiki/Radio-Friendly_Pop_Song",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:When Boy Meets Boy",
+      "type": "wikipedia",
+      "label": "When Boy Meets Boy",
+      "url": "https://en.wikipedia.org/wiki/When_Boy_Meets_Boy",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Football Song (song)",
+      "type": "wikipedia",
+      "label": "Football Song (song)",
+      "url": "https://en.wikipedia.org/wiki/Football_Song_(song)",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:The First Time (Matt Fishel song)",
+      "type": "wikipedia",
+      "label": "The First Time (Matt Fishel song)",
+      "url": "https://en.wikipedia.org/wiki/The_First_Time_(Matt_Fishel_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

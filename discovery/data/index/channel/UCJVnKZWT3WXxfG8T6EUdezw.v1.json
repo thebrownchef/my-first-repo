@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCJVnKZWT3WXxfG8T6EUdezw",
   "title": "Disney Channel Music",
   "thumb": "https://yt3.ggpht.com/0m1xxfd0rAziBkYmlOC_QEs1FhwKhOm2jtZiu6jEniDyECiKkeJks7bhErBxS34ZtlekMizH=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.44,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Disney Jr. ",
       "url": "https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg",
       "firstSeenAt": "2026-09-11T11:18:01.902Z"
+    },
+    {
+      "id": "wiki:Gonna Get This",
+      "type": "wikipedia",
+      "label": "Gonna Get This",
+      "url": "https://en.wikipedia.org/wiki/Gonna_Get_This",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
     }
   ],
   "recentItems": []

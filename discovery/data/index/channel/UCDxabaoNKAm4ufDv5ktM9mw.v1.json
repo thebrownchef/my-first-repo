@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCDxabaoNKAm4ufDv5ktM9mw",
   "title": "TomOdellVEVO",
   "thumb": "https://yt3.ggpht.com/uxDtPD6RfbduWW4pBJ0F8uDBI76EWuFlz-ttKzaCgDg6tmHHubmCxRWVyDqoAacuW3Arfk9mvQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hold Me (Tom Odell song)",
       "url": "https://en.wikipedia.org/wiki/Hold_Me_(Tom_Odell_song)",
       "firstSeenAt": "2026-10-21T11:44:44.335Z"
+    },
+    {
+      "id": "wiki:Another Love (Tom Odell song)",
+      "type": "wikipedia",
+      "label": "Another Love (Tom Odell song)",
+      "url": "https://en.wikipedia.org/wiki/Another_Love_(Tom_Odell_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCeQAnhVwklc7uo0cpMGqBiA",
   "title": "NineInchNailsVEVO",
   "thumb": "https://yt3.ggpht.com/py2_v7BpBz3dkrVSMPcvt7jF8qJ8jeugBFPTtX2LQTqO1Nm8a2ev-H5hkC3yO-LbuK4InfJF8Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Survivalism (song)",
       "url": "https://en.wikipedia.org/wiki/Survivalism_(song)",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:Came Back Haunted",
+      "type": "wikipedia",
+      "label": "Came Back Haunted",
+      "url": "https://en.wikipedia.org/wiki/Came_Back_Haunted",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
     }
   ],
   "recentItems": []

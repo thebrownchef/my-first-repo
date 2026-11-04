@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCor9rW6PgxSQ9vUPWQdnaYQ",
   "title": "SearchlightPictures",
   "thumb": "https://yt3.ggpht.com/NJLifmPzxlxslQCFAGS0qnp8knDuBDvOa1xkULJzWkOYcZmzZJUpT1WVDSharUIGhNKx3KXWpw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Fantastic Mr. Fox (film)",
       "url": "https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_(film)",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Cedar Rapids (film)",
+      "type": "wikipedia",
+      "label": "Cedar Rapids (film)",
+      "url": "https://en.wikipedia.org/wiki/Cedar_Rapids_(film)",
+      "firstSeenAt": "2026-11-04T14:28:02.598Z"
     }
   ],
   "recentItems": []

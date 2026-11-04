@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC-OO324clObi3H-U0bP77dw",
   "title": "SnoopDoggTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k6PWW7EXW2PdUnGdVoo1KeHwMtJO6b7bAU5AAKUz-RJ_c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Doggumentary",
       "url": "https://en.wikipedia.org/wiki/Doggumentary",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "channel:UC11s0NO8BIezjBjNCZAQZUQ",
+      "type": "channel",
+      "label": "classifiedmusic",
+      "url": "https://www.youtube.com/channel/UC11s0NO8BIezjBjNCZAQZUQ",
+      "firstSeenAt": "2026-11-04T14:28:30.264Z"
     }
   ],
   "recentItems": []

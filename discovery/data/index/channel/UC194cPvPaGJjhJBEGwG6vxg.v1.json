@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC194cPvPaGJjhJBEGwG6vxg",
   "title": "OK Go",
   "thumb": "https://yt3.ggpht.com/e9anBZ_7WkCj1F2KDGiqN3pwWIt5VCgR58knJmrgtd0XojiV2hgkzvqQ1M3sSwj5JQXOOymM_g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Mario (goose)",
       "url": "https://en.wikipedia.org/wiki/Mario_(goose)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:Needing/Getting",
+      "type": "wikipedia",
+      "label": "Needing/Getting",
+      "url": "https://en.wikipedia.org/wiki/Needing%2FGetting",
+      "firstSeenAt": "2026-11-04T14:28:09.027Z"
     }
   ],
   "recentItems": []

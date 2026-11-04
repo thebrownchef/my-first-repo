@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "id": "UCUi-2UQydc8Ws5NgsnwkhFQ",
+  "title": "Belinda",
+  "thumb": "https://yt3.ggpht.com/ebG9xPfRMQnmWnLte8AU6r1EY7-EAfDEo5TOr7EZbU_xTtuUySl2bo4MTArDrEj9WeVFI5QxiQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "channel:UCP1b9jYyEqiNhJi4GqYdovw",
+      "type": "channel",
+      "label": "Warner Music México",
+      "url": "https://www.youtube.com/channel/UCP1b9jYyEqiNhJi4GqYdovw",
+      "firstSeenAt": "2026-09-17T11:38:52.310Z"
+    },
+    {
+      "id": "wiki:Dopamina",
+      "type": "wikipedia",
+      "label": "Dopamina",
+      "url": "https://en.wikipedia.org/wiki/Dopamina",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Nada (Belinda Peregrín song)",
+      "type": "wikipedia",
+      "label": "Nada (Belinda Peregrín song)",
+      "url": "https://en.wikipedia.org/wiki/Nada_(Belinda_Peregr%C3%ADn_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    }
+  ],
+  "recentItems": []
+}

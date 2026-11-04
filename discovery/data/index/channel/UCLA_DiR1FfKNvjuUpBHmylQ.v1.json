@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "title": "NASA",
   "thumb": "https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.93,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "NASA Science",
       "url": "https://www.youtube.com/channel/UCKt6dYzHqHfpcp1lgj4bl1A",
       "firstSeenAt": "2026-11-03T14:08:34.410Z"
+    },
+    {
+      "id": "channel:UChBkWI3nPxsT7h-vI78NPQw",
+      "type": "channel",
+      "label": "NASA Multimedia Science",
+      "url": "https://www.youtube.com/channel/UChBkWI3nPxsT7h-vI78NPQw",
+      "firstSeenAt": "2026-11-04T14:28:39.247Z"
     }
   ],
   "recentItems": []

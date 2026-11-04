@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "id": "UC2KVzFsoMYTulvyABSJfrnQ",
+  "title": "Muhammad Ali",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nPBxfWsMAMJj65G1qw0NBIt2SZl9BmxNZ_KmBWnhOmEQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "wiki:Alvin Lewis (boxer)",
+      "type": "wikipedia",
+      "label": "Alvin Lewis (boxer)",
+      "url": "https://en.wikipedia.org/wiki/Alvin_Lewis_(boxer)",
+      "firstSeenAt": "2026-11-01T13:17:27.897Z"
+    },
+    {
+      "id": "wiki:When Ali Came to Ireland",
+      "type": "wikipedia",
+      "label": "When Ali Came to Ireland",
+      "url": "https://en.wikipedia.org/wiki/When_Ali_Came_to_Ireland",
+      "firstSeenAt": "2026-11-04T14:28:02.598Z"
+    }
+  ],
+  "recentItems": []
+}

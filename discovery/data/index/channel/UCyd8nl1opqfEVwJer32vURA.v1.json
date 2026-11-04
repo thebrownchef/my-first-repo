@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCyd8nl1opqfEVwJer32vURA",
   "title": "Kylie Minogue",
   "thumb": "https://yt3.ggpht.com/lzhOaieFxpduBtl1rKZr-kd9E0LS1Sx49m3HqJFlU_NE5ZwpLgLTjZM7MvPLvviPkDzGLgG7Pt4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Into the Blue (Kylie Minogue song)",
       "url": "https://en.wikipedia.org/wiki/Into_the_Blue_(Kylie_Minogue_song)",
       "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Skirt (song)",
+      "type": "wikipedia",
+      "label": "Skirt (song)",
+      "url": "https://en.wikipedia.org/wiki/Skirt_(song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

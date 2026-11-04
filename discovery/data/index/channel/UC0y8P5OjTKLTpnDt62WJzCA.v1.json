@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC0y8P5OjTKLTpnDt62WJzCA",
   "title": "DJ Fresh",
   "thumb": "https://yt3.ggpht.com/4jm6kaICqJT30gvuHtShmPwF3aZQQGoVOseeukXozHUHH5APWHzNRY_rFpJLcJZfO9yGXsRNdA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Power (DJ Fresh song)",
       "url": "https://en.wikipedia.org/wiki/The_Power_(DJ_Fresh_song)",
       "firstSeenAt": "2026-10-11T12:45:40.965Z"
+    },
+    {
+      "id": "wiki:Earthquake (DJ Fresh and Diplo song)",
+      "type": "wikipedia",
+      "label": "Earthquake (DJ Fresh and Diplo song)",
+      "url": "https://en.wikipedia.org/wiki/Earthquake_(DJ_Fresh_and_Diplo_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

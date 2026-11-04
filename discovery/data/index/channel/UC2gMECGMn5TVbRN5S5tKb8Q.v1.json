@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC2gMECGMn5TVbRN5S5tKb8Q",
   "title": "Christina Perri",
   "thumb": "https://yt3.ggpht.com/S_Psf4fVxUTgGPgH6NAvJOSmw74bYEt_sZ-gMLWGx9wrw6jsDfNlgQZ0qS-m_Q9V7XKlgFxqQA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Arms (song)",
       "url": "https://en.wikipedia.org/wiki/Arms_(song)",
       "firstSeenAt": "2026-10-11T12:45:42.051Z"
+    },
+    {
+      "id": "wiki:A Thousand Years",
+      "type": "wikipedia",
+      "label": "A Thousand Years",
+      "url": "https://en.wikipedia.org/wiki/A_Thousand_Years",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
     }
   ],
   "recentItems": []

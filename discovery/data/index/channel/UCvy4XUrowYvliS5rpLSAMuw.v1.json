@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCvy4XUrowYvliS5rpLSAMuw",
   "title": "stardustdigital",
   "thumb": "https://yt3.ggpht.com/i60pPadqeHoiDrKNFQ3b4P1jXiM1Jx1BOtHLN5op0idq0Ydi4Qr5-95scOpeo2w47h6mTIQUvw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Battle and Romance",
       "url": "https://en.wikipedia.org/wiki/Battle_and_Romance",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Gounn",
+      "type": "wikipedia",
+      "label": "Gounn",
+      "url": "https://en.wikipedia.org/wiki/Gounn",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Mirai Bowl / Chai Maxx",
+      "type": "wikipedia",
+      "label": "Mirai Bowl / Chai Maxx",
+      "url": "https://en.wikipedia.org/wiki/Mirai_Bowl_%2F_Chai_Maxx",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

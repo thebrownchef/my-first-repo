@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC81VD6eeuLLSfyY_D-N8sVw",
   "title": "Madonna",
   "thumb": "https://yt3.ggpht.com/N9-5OOHM8mPIG7Yw5xlOWhh4GYVOhYR1tkk6RgP_fVbVcWOgUYbTNRMofCtEvjT580WJ4uNl=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "워너뮤직코리아 (Warner Music Korea)",
       "url": "https://www.youtube.com/channel/UCLvhr40dgoBcV4XBlOhauNw",
       "firstSeenAt": "2026-10-11T12:45:51.574Z"
+    },
+    {
+      "id": "wiki:Vogue (song)",
+      "type": "wikipedia",
+      "label": "Vogue (song)",
+      "url": "https://en.wikipedia.org/wiki/Vogue_(song)",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
     }
   ],
   "recentItems": []

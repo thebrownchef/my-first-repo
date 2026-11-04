@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCGZXYc32ri4D0gSLPf2pZXQ",
   "title": "Armada Music TV",
   "thumb": "https://yt3.ggpht.com/-5P3p8rEXiE5hqjsJ6KiHlf4ToVRHl7Gor15bhIFgw73aUSlA1KjMqrx3PWYcBvNg9PJYXA02A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 2.17,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Saifam Music",
       "url": "https://www.youtube.com/channel/UC7e3sjAWgZhPf2LWb387Veg",
       "firstSeenAt": "2026-10-25T11:22:26.993Z"
+    },
+    {
+      "id": "wiki:This Is What It Feels Like",
+      "type": "wikipedia",
+      "label": "This Is What It Feels Like",
+      "url": "https://en.wikipedia.org/wiki/This_Is_What_It_Feels_Like",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

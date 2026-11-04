@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC7tiuptCKrRGZNDQJ53Q11w",
   "title": "Warner Music Spain",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mdPBWfhY5FhOLQCUtj3TJ6qiIhjoiwK6m2H53gy-O6xq0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Miguel Bosé",
       "url": "https://www.youtube.com/channel/UCpt6OaDIQ8YEXXF0Hl2v6VA",
       "firstSeenAt": "2026-10-19T13:08:40.541Z"
+    },
+    {
+      "id": "wiki:El Sueño de Morfeo (album)",
+      "type": "wikipedia",
+      "label": "El Sueño de Morfeo (album)",
+      "url": "https://en.wikipedia.org/wiki/El_Sue%C3%B1o_de_Morfeo_(album)",
+      "firstSeenAt": "2026-11-04T14:28:02.597Z"
+    },
+    {
+      "id": "wiki:Habibi I Love You",
+      "type": "wikipedia",
+      "label": "Habibi I Love You",
+      "url": "https://en.wikipedia.org/wiki/Habibi_I_Love_You",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

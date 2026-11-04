@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCJQL1Fai-9GlVunsbP4x8Pg",
   "title": "MyHarto",
   "thumb": "https://yt3.ggpht.com/JCGVD4sg8Iuoqm7_LCffw1GbB6Fs2N-juxQlY_UVfJWHdKSUiMWzobqMFFZlOYr-NKDwknUtMZM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Mamrie Hart",
       "url": "https://en.wikipedia.org/wiki/Mamrie_Hart",
       "firstSeenAt": "2026-10-31T12:22:04.362Z"
+    },
+    {
+      "id": "channel:UCIgROm26GDN1Qu4PPvGCB6Q",
+      "type": "channel",
+      "label": "DailyYou",
+      "url": "https://www.youtube.com/channel/UCIgROm26GDN1Qu4PPvGCB6Q",
+      "firstSeenAt": "2026-11-04T14:28:37.125Z"
     }
   ],
   "recentItems": []

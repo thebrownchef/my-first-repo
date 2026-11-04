@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCRpjHHu8ivVWs73uxHlWwFA",
   "title": "Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/Nbk9FOWmzYz-1eYlnqhnR1qT0ULJ2iQ0L4IR1eLx7silv-qETBsh_LjpUgnG0WvV6fZypNzCfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 1.2,
   "sources": [
@@ -64,6 +64,20 @@
       "label": "miramar4u2",
       "url": "https://www.youtube.com/channel/UC3WsmnjXFMTDdK-Ce5R05jA",
       "firstSeenAt": "2026-11-02T15:45:07.155Z"
+    },
+    {
+      "id": "wiki:Haba Haba",
+      "type": "wikipedia",
+      "label": "Haba Haba",
+      "url": "https://en.wikipedia.org/wiki/Haba_Haba",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Rusinka",
+      "type": "wikipedia",
+      "label": "Rusinka",
+      "url": "https://en.wikipedia.org/wiki/Rusinka",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "id": "UChLtXXpo4Ge1ReTEboVvTDg",
+  "title": "Global News",
+  "thumb": "https://yt3.ggpht.com/0HLQQOWZ7NCOsJIicFg_3UgyWCg4C_LK27PIAqReZlvkVYY0dp8QzGhp57FON4QeJTH5IrYlCw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 8.66,
+  "sources": [
+    {
+      "id": "wiki:John Amanam",
+      "type": "wikipedia",
+      "label": "John Amanam",
+      "url": "https://en.wikipedia.org/wiki/John_Amanam",
+      "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    },
+    {
+      "id": "wiki:Ready or Not (Bridgit Mendler song)",
+      "type": "wikipedia",
+      "label": "Ready or Not (Bridgit Mendler song)",
+      "url": "https://en.wikipedia.org/wiki/Ready_or_Not_(Bridgit_Mendler_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    }
+  ],
+  "recentItems": []
+}

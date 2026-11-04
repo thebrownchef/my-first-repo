@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCoKXb95K5h3sME3c9OCBaeA",
   "title": "モーニング娘。",
   "thumb": "https://yt3.ggpht.com/T7wXSoldDQSSQYOuDiPJqReKvW4uZJH6Ny5gVei5pDCB6gxU6NadeBLsuv6CDVZ0NjxoQ-_s6g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -71,6 +71,34 @@
       "label": "Riho Sayashi",
       "url": "https://en.wikipedia.org/wiki/Riho_Sayashi",
       "firstSeenAt": "2026-10-29T12:56:13.782Z"
+    },
+    {
+      "id": "wiki:Egao no Kimi wa Taiyō sa / Kimi no Kawari wa Iyashinai / What is Love?",
+      "type": "wikipedia",
+      "label": "Egao no Kimi wa Taiyō sa / Kimi no Kawari wa Iyashinai / What is Love?",
+      "url": "https://en.wikipedia.org/wiki/Egao_no_Kimi_wa_Taiy%C5%8D_sa_%2F_Kimi_no_Kawari_wa_Iyashinai_%2F_What_is_Love%3F",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Help Me!!",
+      "type": "wikipedia",
+      "label": "Help Me!!",
+      "url": "https://en.wikipedia.org/wiki/Help_Me!!",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Onna ga Medatte Naze Ikenai",
+      "type": "wikipedia",
+      "label": "Onna ga Medatte Naze Ikenai",
+      "url": "https://en.wikipedia.org/wiki/Onna_ga_Medatte_Naze_Ikenai",
+      "firstSeenAt": "2026-11-04T14:28:09.027Z"
+    },
+    {
+      "id": "wiki:Onna ni Sachi Are",
+      "type": "wikipedia",
+      "label": "Onna ni Sachi Are",
+      "url": "https://en.wikipedia.org/wiki/Onna_ni_Sachi_Are",
+      "firstSeenAt": "2026-11-04T14:28:09.027Z"
     }
   ],
   "recentItems": []

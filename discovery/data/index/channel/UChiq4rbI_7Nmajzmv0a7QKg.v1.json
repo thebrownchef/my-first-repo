@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UChiq4rbI_7Nmajzmv0a7QKg",
   "title": "TheSaturdaysVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_noJWgaeWuxpERodi5kwohznjNX2BwMfV4d8Z9_6Y7MLSQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "On Your Radar",
       "url": "https://en.wikipedia.org/wiki/On_Your_Radar",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Disco Love",
+      "type": "wikipedia",
+      "label": "Disco Love",
+      "url": "https://en.wikipedia.org/wiki/Disco_Love",
+      "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Not Giving Up",
+      "type": "wikipedia",
+      "label": "Not Giving Up",
+      "url": "https://en.wikipedia.org/wiki/Not_Giving_Up",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

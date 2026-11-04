@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC8T81Q-rEobLa-YuQKj8L1A",
   "title": "Ministry of Sound",
   "thumb": "https://yt3.ggpht.com/cskYl8jAZXw3UEGPIhLqHsboTPNZybVpvV4canNFCqs9vsaVSq3Xb7ueQV0fFYlZ0BEuZlfE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 2,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Colour the World",
       "url": "https://en.wikipedia.org/wiki/Colour_the_World",
       "firstSeenAt": "2026-11-02T15:44:43.063Z"
+    },
+    {
+      "id": "wiki:Anyway (Duck Sauce song)",
+      "type": "wikipedia",
+      "label": "Anyway (Duck Sauce song)",
+      "url": "https://en.wikipedia.org/wiki/Anyway_(Duck_Sauce_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

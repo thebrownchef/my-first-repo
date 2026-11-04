@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCRmjtDQlW0-TyWY38jWcIvQ",
   "title": "Warner Music Finland",
   "thumb": "https://yt3.ggpht.com/IOPQcAmdY7deONRvP6jNeIXE7C9gVJUt9S32kMRBXAzlwVOnabPJLtXeGraQaf9rjuaY89m4vg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.53,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Rethroned",
       "url": "https://en.wikipedia.org/wiki/Rethroned",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Reborn (Northern Kings album)",
+      "type": "wikipedia",
+      "label": "Reborn (Northern Kings album)",
+      "url": "https://en.wikipedia.org/wiki/Reborn_(Northern_Kings_album)",
+      "firstSeenAt": "2026-11-04T14:28:02.597Z"
     }
   ],
   "recentItems": []

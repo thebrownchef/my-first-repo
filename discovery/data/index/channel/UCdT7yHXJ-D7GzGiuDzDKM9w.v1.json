@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCdT7yHXJ-D7GzGiuDzDKM9w",
   "title": "AustinMVEVO",
   "thumb": "https://yt3.ggpht.com/yFY_ynIGW4FZgVypp1szhKtX54e0zsnuQdK9ZCwH6xuSFq70k2xfLX25VfEBFnv2dg6WDF5CjmU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Austin Mahone",
       "url": "https://www.youtube.com/channel/UC1sqAR9qukJuI5fCra6mP-A",
       "firstSeenAt": "2026-10-28T12:49:41.304Z"
+    },
+    {
+      "id": "wiki:What About Love (Austin Mahone song)",
+      "type": "wikipedia",
+      "label": "What About Love (Austin Mahone song)",
+      "url": "https://en.wikipedia.org/wiki/What_About_Love_(Austin_Mahone_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

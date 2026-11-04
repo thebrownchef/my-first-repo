@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCqECaJ8Gagnn7YCbPEzWH6g",
   "title": "Taylor Swift",
   "thumb": "https://yt3.ggpht.com/jzrwZgK5o0Ng2GT7oA7Na-hay4abtEl13lByjSQm6FW-K-dBu_ruvVk6vVF2vM6igC2GTRLO=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -36,6 +36,34 @@
       "label": "rikke kempf",
       "url": "https://www.youtube.com/channel/UCqnWs-kX0mImRJEjDBC05tw",
       "firstSeenAt": "2026-10-29T12:56:44.582Z"
+    },
+    {
+      "id": "wiki:Back to December",
+      "type": "wikipedia",
+      "label": "Back to December",
+      "url": "https://en.wikipedia.org/wiki/Back_to_December",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Mean (song)",
+      "type": "wikipedia",
+      "label": "Mean (song)",
+      "url": "https://en.wikipedia.org/wiki/Mean_(song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Safe & Sound (Taylor Swift song)",
+      "type": "wikipedia",
+      "label": "Safe & Sound (Taylor Swift song)",
+      "url": "https://en.wikipedia.org/wiki/Safe_%26_Sound_(Taylor_Swift_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Change (Taylor Swift song)",
+      "type": "wikipedia",
+      "label": "Change (Taylor Swift song)",
+      "url": "https://en.wikipedia.org/wiki/Change_(Taylor_Swift_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

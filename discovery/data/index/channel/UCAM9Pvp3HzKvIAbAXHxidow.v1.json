@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCAM9Pvp3HzKvIAbAXHxidow",
   "title": "World Gymnastics Channel",
   "thumb": "https://yt3.ggpht.com/G31SsO1Wb_5ZDdNs4mCGXC5Oux08wMdZLZo4gpaeYIc1liHvmwQkRP_J6PfvNznbYr29fTrfcx4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 4.76,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "europeangymnastics",
       "url": "https://www.youtube.com/channel/UCqB9xgf9RpD96ci4RuFEKzQ",
       "firstSeenAt": "2026-09-16T11:29:12.914Z"
+    },
+    {
+      "id": "wiki:Tangled Up (Caro Emerald song)",
+      "type": "wikipedia",
+      "label": "Tangled Up (Caro Emerald song)",
+      "url": "https://en.wikipedia.org/wiki/Tangled_Up_(Caro_Emerald_song)",
+      "firstSeenAt": "2026-11-04T14:28:05.801Z"
     }
   ],
   "recentItems": []

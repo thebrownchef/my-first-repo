@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCkyrSWEcjZKpIwMxiPfOcgg",
   "title": "5 канал",
   "thumb": "https://yt3.ggpht.com/nC8MFAojCH-V-1WQ6GqqUxLz7dr8oCKnl4uAAw7z5CNYnuharnQtB2MISBzfxeKs8vZROSk9=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 24.55,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "2012 Ukrainian parliamentary election",
       "url": "https://en.wikipedia.org/wiki/2012_Ukrainian_parliamentary_election",
       "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:Maidan casualties",
+      "type": "wikipedia",
+      "label": "Maidan casualties",
+      "url": "https://en.wikipedia.org/wiki/Maidan_casualties",
+      "firstSeenAt": "2026-11-04T14:28:02.598Z"
     }
   ],
   "recentItems": []

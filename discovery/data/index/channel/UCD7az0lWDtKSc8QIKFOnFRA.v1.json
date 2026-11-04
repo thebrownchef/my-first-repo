@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCD7az0lWDtKSc8QIKFOnFRA",
   "title": "ErosRamazzottiVEVO",
   "thumb": "https://yt3.ggpht.com/HxUlMNhnNFAAVOh7TbcDgRqD7Eug4W4yjxQaBqoX5sxhRp209zKaefObNi31iAxwVvE6gCCANQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Un'emozione per sempre",
       "url": "https://en.wikipedia.org/wiki/Un'emozione_per_sempre",
       "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Noi (album)",
+      "type": "wikipedia",
+      "label": "Noi (album)",
+      "url": "https://en.wikipedia.org/wiki/Noi_(album)",
+      "firstSeenAt": "2026-11-04T14:28:02.596Z"
     }
   ],
   "recentItems": []

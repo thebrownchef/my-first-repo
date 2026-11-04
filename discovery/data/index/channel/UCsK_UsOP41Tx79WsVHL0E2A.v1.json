@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCsK_UsOP41Tx79WsVHL0E2A",
   "title": "MOSHPIT",
   "thumb": "https://yt3.ggpht.com/jI3wKHsly9Bxq-aNqXHL1IvvblvWpI21-6iIrmt7FN2idmNE5cvKlI1k5KS3WzH9YIDtJEMxvUc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "No Way But the Hard Way",
       "url": "https://en.wikipedia.org/wiki/No_Way_But_the_Hard_Way",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "wiki:If Today Was Your Last Day",
+      "type": "wikipedia",
+      "label": "If Today Was Your Last Day",
+      "url": "https://en.wikipedia.org/wiki/If_Today_Was_Your_Last_Day",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

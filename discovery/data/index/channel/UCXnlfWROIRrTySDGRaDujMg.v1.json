@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCXnlfWROIRrTySDGRaDujMg",
   "title": "ArtisanNewsService",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lxfyCkB6LEPlI84dXk_lE2owpZtHrqjfF9QdUlShzs6g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 1.27,
   "sources": [
@@ -57,6 +57,27 @@
       "label": "The Oracle (Godsmack album)",
       "url": "https://en.wikipedia.org/wiki/The_Oracle_(Godsmack_album)",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Wretched and Divine: The Story of the Wild Ones",
+      "type": "wikipedia",
+      "label": "Wretched and Divine: The Story of the Wild Ones",
+      "url": "https://en.wikipedia.org/wiki/Wretched_and_Divine%3A_The_Story_of_the_Wild_Ones",
+      "firstSeenAt": "2026-11-04T14:28:02.597Z"
+    },
+    {
+      "id": "wiki:Jackass 3D",
+      "type": "wikipedia",
+      "label": "Jackass 3D",
+      "url": "https://en.wikipedia.org/wiki/Jackass_3D",
+      "firstSeenAt": "2026-11-04T14:28:02.598Z"
+    },
+    {
+      "id": "wiki:Another Animal",
+      "type": "wikipedia",
+      "label": "Another Animal",
+      "url": "https://en.wikipedia.org/wiki/Another_Animal",
+      "firstSeenAt": "2026-11-04T14:28:09.025Z"
     }
   ],
   "recentItems": []

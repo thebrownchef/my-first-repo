@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCSrHWAPjZ-fGPhknzVU6NGw",
   "title": "thewantedVEVO",
   "thumb": "https://yt3.ggpht.com/TFmhhZeDyNrm7_iq7JhdmdnETF4BhMZSVidyPTcf4gUFKvjWH6PsxSY6hUO7wcianac1dIJoNQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Chasing the Sun (The Wanted song)",
       "url": "https://en.wikipedia.org/wiki/Chasing_the_Sun_(The_Wanted_song)",
       "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:Lightning (The Wanted song)",
+      "type": "wikipedia",
+      "label": "Lightning (The Wanted song)",
+      "url": "https://en.wikipedia.org/wiki/Lightning_(The_Wanted_song)",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

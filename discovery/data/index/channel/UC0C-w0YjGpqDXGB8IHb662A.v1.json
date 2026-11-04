@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC0C-w0YjGpqDXGB8IHb662A",
   "title": "Ed Sheeran",
   "thumb": "https://yt3.ggpht.com/pZQ5JMD4EOI8TcNYAPTzMexe_fC0CKnb_hYlV4rPfIzmDidF239fH1XKmzkeT30XSg7fxNwc_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "WOW TV",
       "url": "https://www.youtube.com/channel/UCbOmdGuNF-dUQsIN_BO9JTw",
       "firstSeenAt": "2026-10-15T11:25:06.460Z"
+    },
+    {
+      "id": "wiki:You Need Me, I Don't Need You",
+      "type": "wikipedia",
+      "label": "You Need Me, I Don't Need You",
+      "url": "https://en.wikipedia.org/wiki/You_Need_Me%2C_I_Don't_Need_You",
+      "firstSeenAt": "2026-11-04T14:28:09.026Z"
     }
   ],
   "recentItems": []

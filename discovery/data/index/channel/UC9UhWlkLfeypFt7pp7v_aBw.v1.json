@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UC9UhWlkLfeypFt7pp7v_aBw",
   "title": "Pet Shop Boys",
   "thumb": "https://yt3.ggpht.com/qL0MdWOCGTDfxH2JSueOBcWzwPSxZrBoW_43XnEEya-CA5d1sQiTyHWPnMc80B-nrvi7Pr68EQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "David Bowie",
       "url": "https://www.youtube.com/channel/UC8YgWcDKi1rLbQ1OtrOHeDw",
       "firstSeenAt": "2026-10-20T11:32:19.950Z"
+    },
+    {
+      "id": "channel:UCJctkoqmaE7LzwlK_NIENwg",
+      "type": "channel",
+      "label": "electronicofficial",
+      "url": "https://www.youtube.com/channel/UCJctkoqmaE7LzwlK_NIENwg",
+      "firstSeenAt": "2026-11-04T14:28:44.276Z"
     }
   ],
   "recentItems": []

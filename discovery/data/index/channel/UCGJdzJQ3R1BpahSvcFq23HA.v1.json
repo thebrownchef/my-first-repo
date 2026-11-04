@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Boyzone",
       "url": "https://www.youtube.com/channel/UC2lF51-X_-Ow03T4R6RpD_Q",
       "firstSeenAt": "2026-11-02T15:45:09.436Z"
+    },
+    {
+      "id": "channel:UCJctkoqmaE7LzwlK_NIENwg",
+      "type": "channel",
+      "label": "electronicofficial",
+      "url": "https://www.youtube.com/channel/UCJctkoqmaE7LzwlK_NIENwg",
+      "firstSeenAt": "2026-11-04T14:28:44.276Z"
     }
   ],
   "recentItems": []

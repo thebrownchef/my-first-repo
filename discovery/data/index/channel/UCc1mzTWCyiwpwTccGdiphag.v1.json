@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:09:55.205Z",
+  "generatedAt": "2026-11-04T14:29:56.332Z",
   "id": "UCc1mzTWCyiwpwTccGdiphag",
   "title": "Charney Media",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxVR7ruZd3czjAq9n3-d6XYr8KG210Xmd3i8S76od5X08=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -50,6 +50,27 @@
       "label": "Yitzhak Rabin",
       "url": "https://en.wikipedia.org/wiki/Yitzhak_Rabin",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Kidnapping and murder of Ihab el-Sherif",
+      "type": "wikipedia",
+      "label": "Kidnapping and murder of Ihab el-Sherif",
+      "url": "https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Ihab_el-Sherif",
+      "firstSeenAt": "2026-11-04T14:28:09.027Z"
+    },
+    {
+      "id": "wiki:Lally Weymouth",
+      "type": "wikipedia",
+      "label": "Lally Weymouth",
+      "url": "https://en.wikipedia.org/wiki/Lally_Weymouth",
+      "firstSeenAt": "2026-11-04T14:28:09.027Z"
+    },
+    {
+      "id": "wiki:Arthur Hertzberg",
+      "type": "wikipedia",
+      "label": "Arthur Hertzberg",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Hertzberg",
+      "firstSeenAt": "2026-11-04T14:28:09.027Z"
     }
   ],
   "recentItems": []
