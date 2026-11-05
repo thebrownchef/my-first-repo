@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "id": "UC-t_Mpv2m16HoVW2Jt5Zdow",
+  "title": "VIVA TV",
+  "thumb": "https://yt3.ggpht.com/rxB6J6nk4URpQ9j86b1mzu0Nt1oSbqrepjRPVJ3DyPAlkTXTs5nSkTvCXuAK4zFdRXzOWExVTw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 2.09,
+  "sources": [
+    {
+      "id": "wiki:Nadine Lustre",
+      "type": "wikipedia",
+      "label": "Nadine Lustre",
+      "url": "https://en.wikipedia.org/wiki/Nadine_Lustre",
+      "firstSeenAt": "2026-08-31T13:44:50.068Z"
+    },
+    {
+      "id": "channel:UCS09CkK8fjPJ_nHD6fcGMSw",
+      "type": "channel",
+      "label": "Viva Records",
+      "url": "https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw",
+      "firstSeenAt": "2026-11-05T14:35:41.423Z"
+    }
+  ],
+  "recentItems": []
+}

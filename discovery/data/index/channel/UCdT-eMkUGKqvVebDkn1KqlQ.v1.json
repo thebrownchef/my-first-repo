@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "id": "UCdT-eMkUGKqvVebDkn1KqlQ",
+  "title": "Karussell - KinderTV",
+  "thumb": "https://yt3.ggpht.com/rMsSAyJrfkk5NIeVyVDrJvGzdY9Rf8hiHtLM-I_vS7CcKJyUS_1hrFlqkPk70DPU-PTHAu0o=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.08,
+  "sources": [
+    {
+      "id": "channel:UCZgVRBR0rNDN7glQjUnejjg",
+      "type": "channel",
+      "label": "Universal Music Austria",
+      "url": "https://www.youtube.com/channel/UCZgVRBR0rNDN7glQjUnejjg",
+      "firstSeenAt": "2026-10-03T11:38:42.618Z"
+    },
+    {
+      "id": "channel:UCUt83CEM-kE3OQx0GqLdZtw",
+      "type": "channel",
+      "label": "Universal Music Deutschland",
+      "url": "https://www.youtube.com/channel/UCUt83CEM-kE3OQx0GqLdZtw",
+      "firstSeenAt": "2026-11-05T14:35:42.420Z"
+    }
+  ],
+  "recentItems": []
+}

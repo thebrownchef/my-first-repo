@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCoKXb95K5h3sME3c9OCBaeA",
   "title": "モーニング娘。",
   "thumb": "https://yt3.ggpht.com/T7wXSoldDQSSQYOuDiPJqReKvW4uZJH6Ny5gVei5pDCB6gxU6NadeBLsuv6CDVZ0NjxoQ-_s6g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -99,6 +99,20 @@
       "label": "Onna ni Sachi Are",
       "url": "https://en.wikipedia.org/wiki/Onna_ni_Sachi_Are",
       "firstSeenAt": "2026-11-04T14:28:09.027Z"
+    },
+    {
+      "id": "wiki:Do It! Now",
+      "type": "wikipedia",
+      "label": "Do It! Now",
+      "url": "https://en.wikipedia.org/wiki/Do_It!_Now",
+      "firstSeenAt": "2026-11-05T14:35:30.322Z"
+    },
+    {
+      "id": "wiki:Summer Night Town",
+      "type": "wikipedia",
+      "label": "Summer Night Town",
+      "url": "https://en.wikipedia.org/wiki/Summer_Night_Town",
+      "firstSeenAt": "2026-11-05T14:35:30.323Z"
     }
   ],
   "recentItems": []

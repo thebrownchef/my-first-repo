@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCor9rW6PgxSQ9vUPWQdnaYQ",
   "title": "SearchlightPictures",
   "thumb": "https://yt3.ggpht.com/NJLifmPzxlxslQCFAGS0qnp8knDuBDvOa1xkULJzWkOYcZmzZJUpT1WVDSharUIGhNKx3KXWpw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Cedar Rapids (film)",
       "url": "https://en.wikipedia.org/wiki/Cedar_Rapids_(film)",
       "firstSeenAt": "2026-11-04T14:28:02.598Z"
+    },
+    {
+      "id": "wiki:The Weary Kind",
+      "type": "wikipedia",
+      "label": "The Weary Kind",
+      "url": "https://en.wikipedia.org/wiki/The_Weary_Kind",
+      "firstSeenAt": "2026-11-05T14:35:30.322Z"
     }
   ],
   "recentItems": []

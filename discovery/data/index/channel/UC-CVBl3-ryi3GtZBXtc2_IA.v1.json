@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UC-CVBl3-ryi3GtZBXtc2_IA",
   "title": "CNBLUE (씨엔블루)",
   "thumb": "https://yt3.ggpht.com/LNdbDAdCNGlbDLMSbbRMQvs1Pz6mIGRpGTvMVmsT_bi7XnGPOGvH1OkN9JYcTMyqD2n4da9K3Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Re:Blue",
       "url": "https://en.wikipedia.org/wiki/Re%3ABlue",
       "firstSeenAt": "2026-10-19T13:08:25.821Z"
+    },
+    {
+      "id": "wiki:Can't Stop (EP)",
+      "type": "wikipedia",
+      "label": "Can't Stop (EP)",
+      "url": "https://en.wikipedia.org/wiki/Can't_Stop_(EP)",
+      "firstSeenAt": "2026-11-05T14:35:30.323Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCWEtnEiVwUy7mwFeshyAWLA",
   "title": "RHINO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxQB53igN-gR_Q2dWOlCNXSYNymscE78I3pfQo9pkNkc0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.24,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "When It's Over (Sugar Ray song)",
       "url": "https://en.wikipedia.org/wiki/When_It's_Over_(Sugar_Ray_song)",
       "firstSeenAt": "2026-10-04T12:18:36.082Z"
+    },
+    {
+      "id": "channel:UCNk73lPOgAB_rRmUXDfp0Vw",
+      "type": "channel",
+      "label": "Stevie Nicks",
+      "url": "https://www.youtube.com/channel/UCNk73lPOgAB_rRmUXDfp0Vw",
+      "firstSeenAt": "2026-11-05T14:35:51.250Z"
     }
   ],
   "recentItems": []

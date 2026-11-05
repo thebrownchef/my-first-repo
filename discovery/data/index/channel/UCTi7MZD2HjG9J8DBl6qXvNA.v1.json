@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCTi7MZD2HjG9J8DBl6qXvNA",
   "title": "ChevelleVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leBMFJkV3d9CNZdXWjEqdK1vi1QhkbzpXCSYOY_MPSO8I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Send the Pain Below",
       "url": "https://en.wikipedia.org/wiki/Send_the_Pain_Below",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Closure (Chevelle song)",
+      "type": "wikipedia",
+      "label": "Closure (Chevelle song)",
+      "url": "https://en.wikipedia.org/wiki/Closure_(Chevelle_song)",
+      "firstSeenAt": "2026-11-05T14:35:30.322Z"
+    },
+    {
+      "id": "wiki:The Clincher",
+      "type": "wikipedia",
+      "label": "The Clincher",
+      "url": "https://en.wikipedia.org/wiki/The_Clincher",
+      "firstSeenAt": "2026-11-05T14:35:30.323Z"
     }
   ],
   "recentItems": []

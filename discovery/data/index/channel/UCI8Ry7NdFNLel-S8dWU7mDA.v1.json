@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCI8Ry7NdFNLel-S8dWU7mDA",
   "title": "EltonJohnVEVO",
   "thumb": "https://yt3.ggpht.com/VdMSNPQi-4Cfxrn2IX1BHwCE3iAAq5zWwJvFaWJk0USKXvpLMdoQcB0Y5r6dVdOX1nep9CgTVQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "georgemichaelVEVO",
       "url": "https://www.youtube.com/channel/UC7X_qC_rgc3s04Aw1t5DSHg",
       "firstSeenAt": "2026-09-30T12:31:06.877Z"
+    },
+    {
+      "id": "wiki:Written in the Stars (Elton John and LeAnn Rimes song)",
+      "type": "wikipedia",
+      "label": "Written in the Stars (Elton John and LeAnn Rimes song)",
+      "url": "https://en.wikipedia.org/wiki/Written_in_the_Stars_(Elton_John_and_LeAnn_Rimes_song)",
+      "firstSeenAt": "2026-11-05T14:35:30.323Z"
     }
   ],
   "recentItems": []

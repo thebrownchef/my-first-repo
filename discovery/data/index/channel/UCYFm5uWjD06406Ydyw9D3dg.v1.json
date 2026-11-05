@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCYFm5uWjD06406Ydyw9D3dg",
   "title": "PetrovFed",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nHlthOXvXSZvThF8tn6gzNS71zTk43zxpRdKWuoMtAGCw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Maximus and History",
       "url": "https://www.youtube.com/channel/UCg4SwEy4z2iyLiJIaZejBcQ",
       "firstSeenAt": "2026-09-19T10:55:44.379Z"
+    },
+    {
+      "id": "wiki:Let's Go (march)",
+      "type": "wikipedia",
+      "label": "Let's Go (march)",
+      "url": "https://en.wikipedia.org/wiki/Let's_Go_(march)",
+      "firstSeenAt": "2026-11-05T14:35:34.047Z"
     }
   ],
   "recentItems": []

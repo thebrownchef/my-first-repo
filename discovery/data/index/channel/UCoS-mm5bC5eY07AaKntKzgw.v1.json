@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCoS-mm5bC5eY07AaKntKzgw",
   "title": "Human Rights Watch",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mvdTCIkiJz8Lndx2ldfwVNcHoE2HKqSVyuGLcFfJVybqs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.813Z"
+    },
+    {
+      "id": "wiki:Reed Brody",
+      "type": "wikipedia",
+      "label": "Reed Brody",
+      "url": "https://en.wikipedia.org/wiki/Reed_Brody",
+      "firstSeenAt": "2026-11-05T14:35:39.618Z"
     }
   ],
   "recentItems": []

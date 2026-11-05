@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCb-vZWBeWA5Q2818JmmJiqQ",
   "title": "Oscars",
   "thumb": "https://yt3.ggpht.com/NpO5ACfL4GyjGF4jE6OZwHNatbPnVXIzwzl9gp3bU-avVqygYJXiLzjrLz_hLmbOr2AHV4qyO3o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 23,
-  "distinctSourceCount": 23,
+  "score": 25,
+  "distinctSourceCount": 25,
   "hop": 0,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -169,6 +169,20 @@
       "label": "Maximilian Schell",
       "url": "https://en.wikipedia.org/wiki/Maximilian_Schell",
       "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:81st Academy Awards",
+      "type": "wikipedia",
+      "label": "81st Academy Awards",
+      "url": "https://en.wikipedia.org/wiki/81st_Academy_Awards",
+      "firstSeenAt": "2026-11-05T14:35:29.022Z"
+    },
+    {
+      "id": "wiki:List of presenters of the Academy Award for Best Picture",
+      "type": "wikipedia",
+      "label": "List of presenters of the Academy Award for Best Picture",
+      "url": "https://en.wikipedia.org/wiki/List_of_presenters_of_the_Academy_Award_for_Best_Picture",
+      "firstSeenAt": "2026-11-05T14:35:30.323Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCXXBi6rvC-u8VDZRD23F7tw",
   "title": "Need for Speed",
   "thumb": "https://yt3.ggpht.com/Ah49m6uwNjN6WZcsrQW6AwappzfQ8QdAaWZN2H6-1RIRhxvlQRcf05SVaHagaxtpm4aeU5DhmQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "EA Star Wars",
       "url": "https://www.youtube.com/channel/UCOsVSkmXD1tc6uiJ2hc0wYQ",
       "firstSeenAt": "2026-09-20T11:20:20.205Z"
+    },
+    {
+      "id": "channel:UCRAziRDEknPTjOlpTI9UEcA",
+      "type": "channel",
+      "label": "medalofhonor",
+      "url": "https://www.youtube.com/channel/UCRAziRDEknPTjOlpTI9UEcA",
+      "firstSeenAt": "2026-11-05T14:35:49.464Z"
     }
   ],
   "recentItems": []

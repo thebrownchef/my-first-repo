@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCe3I9BAVCzf9oACYU1EtrxA",
   "title": "FallOutBoyVEVO",
   "thumb": "https://yt3.ggpht.com/mk9UokDVHJaFTFNPLX_uXQL0DJRLtaK2L9e8HhbtviVKw8cTH4rWRZL9K6Rm6pEZot8T9yB8pQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "The Phoenix (Fall Out Boy song)",
       "url": "https://en.wikipedia.org/wiki/The_Phoenix_(Fall_Out_Boy_song)",
       "firstSeenAt": "2026-10-21T11:44:44.335Z"
+    },
+    {
+      "id": "wiki:Alone Together (Fall Out Boy song)",
+      "type": "wikipedia",
+      "label": "Alone Together (Fall Out Boy song)",
+      "url": "https://en.wikipedia.org/wiki/Alone_Together_(Fall_Out_Boy_song)",
+      "firstSeenAt": "2026-11-05T14:35:30.323Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCwlTofOAY79PS_GhmborAdA",
   "title": "BonJoviVEVO",
   "thumb": "https://yt3.ggpht.com/G5ZISQiWt-8bucM_jvOr3y1PG_o_cLkrqxvOqTev-QpL3gObUmj77dOz0J1KCq4IihHkBRRA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,34 @@
       "label": "I'll Be There for You (Bon Jovi song)",
       "url": "https://en.wikipedia.org/wiki/I'll_Be_There_for_You_(Bon_Jovi_song)",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:In and Out of Love (Bon Jovi song)",
+      "type": "wikipedia",
+      "label": "In and Out of Love (Bon Jovi song)",
+      "url": "https://en.wikipedia.org/wiki/In_and_Out_of_Love_(Bon_Jovi_song)",
+      "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:Lay Your Hands on Me (Bon Jovi song)",
+      "type": "wikipedia",
+      "label": "Lay Your Hands on Me (Bon Jovi song)",
+      "url": "https://en.wikipedia.org/wiki/Lay_Your_Hands_on_Me_(Bon_Jovi_song)",
+      "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:Living in Sin (song)",
+      "type": "wikipedia",
+      "label": "Living in Sin (song)",
+      "url": "https://en.wikipedia.org/wiki/Living_in_Sin_(song)",
+      "firstSeenAt": "2026-11-05T14:35:31.779Z"
+    },
+    {
+      "id": "wiki:Never Say Goodbye (Bon Jovi song)",
+      "type": "wikipedia",
+      "label": "Never Say Goodbye (Bon Jovi song)",
+      "url": "https://en.wikipedia.org/wiki/Never_Say_Goodbye_(Bon_Jovi_song)",
+      "firstSeenAt": "2026-11-05T14:35:31.779Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UC2xskkQVFEpLcGFnNSLQY0A",
   "title": "RihannaVEVO",
   "thumb": "https://yt3.ggpht.com/qMCGjRaKKRar82KzcIWdUoLbJ03aW2K2sEf-m4GaB7JwLshoHOZHvkxLRXsZVgpKvqCXVhKCWg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "Disturbia (song)",
       "url": "https://en.wikipedia.org/wiki/Disturbia_(song)",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Stay (Rihanna song)",
+      "type": "wikipedia",
+      "label": "Stay (Rihanna song)",
+      "url": "https://en.wikipedia.org/wiki/Stay_(Rihanna_song)",
+      "firstSeenAt": "2026-11-05T14:35:31.778Z"
     }
   ],
   "recentItems": [

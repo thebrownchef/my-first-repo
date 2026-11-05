@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
   "title": "Vevo Playlists",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kh2POyIxTsudl0DdWs5Abf6GMqCRe7qKojNV6lZ4peimc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 41,
-  "distinctSourceCount": 41,
+  "score": 42,
+  "distinctSourceCount": 42,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -295,6 +295,13 @@
       "label": "littlemixVEVO",
       "url": "https://www.youtube.com/channel/UCssD3_aDYhaG44mwP53CO0w",
       "firstSeenAt": "2026-10-23T11:34:56.602Z"
+    },
+    {
+      "id": "channel:UCGIelM2Dj3zza3xyV3pL3WQ",
+      "type": "channel",
+      "label": "MigosVEVO",
+      "url": "https://www.youtube.com/channel/UCGIelM2Dj3zza3xyV3pL3WQ",
+      "firstSeenAt": "2026-11-05T14:35:41.982Z"
     }
   ],
   "recentItems": []

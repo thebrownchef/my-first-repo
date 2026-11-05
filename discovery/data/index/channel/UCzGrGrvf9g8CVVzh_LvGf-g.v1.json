@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCzGrGrvf9g8CVVzh_LvGf-g",
   "title": "NirvanaVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nEzankJ2oekN31HOpZjk5u-eEyCyLcxEjvL1bWrYjyv5M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -85,6 +85,20 @@
       "label": "Smells Like Teen Spirit",
       "url": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Aneurysm (song)",
+      "type": "wikipedia",
+      "label": "Aneurysm (song)",
+      "url": "https://en.wikipedia.org/wiki/Aneurysm_(song)",
+      "firstSeenAt": "2026-11-05T14:35:30.323Z"
+    },
+    {
+      "id": "wiki:All Apologies",
+      "type": "wikipedia",
+      "label": "All Apologies",
+      "url": "https://en.wikipedia.org/wiki/All_Apologies",
+      "firstSeenAt": "2026-11-05T14:35:34.047Z"
     }
   ],
   "recentItems": []

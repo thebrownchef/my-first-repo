@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UC7eaRqtonpyiYw0Pns0Au_g",
   "title": "remhq",
   "thumb": "https://yt3.ggpht.com/86KIxPsNBbxUm0DMAEiQ1b75DykoAldYHd17NtAAsdOhUcb4U6fqXtrfiP_StI4OfOA1WhWmAw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Überlin",
       "url": "https://en.wikipedia.org/wiki/%C3%9Cberlin",
       "firstSeenAt": "2026-10-23T11:34:38.868Z"
+    },
+    {
+      "id": "wiki:Shiny Happy People",
+      "type": "wikipedia",
+      "label": "Shiny Happy People",
+      "url": "https://en.wikipedia.org/wiki/Shiny_Happy_People",
+      "firstSeenAt": "2026-11-05T14:35:31.778Z"
     }
   ],
   "recentItems": []

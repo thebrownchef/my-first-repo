@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T14:29:56.332Z",
+  "generatedAt": "2026-11-05T14:37:00.384Z",
   "id": "UCRRxSTgPUY0q_YToaczc2BQ",
   "title": "Roadrunner Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l1XU_iZdJApWf0y_n3V9Z6M1rhiuL0GOP91lXKWLckLEM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 2,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -78,6 +78,34 @@
       "label": "Fire Up the Blades",
       "url": "https://en.wikipedia.org/wiki/Fire_Up_the_Blades",
       "firstSeenAt": "2026-11-04T14:28:02.597Z"
+    },
+    {
+      "id": "wiki:Slave New World",
+      "type": "wikipedia",
+      "label": "Slave New World",
+      "url": "https://en.wikipedia.org/wiki/Slave_New_World",
+      "firstSeenAt": "2026-11-05T14:35:34.046Z"
+    },
+    {
+      "id": "wiki:Choke (Sepultura song)",
+      "type": "wikipedia",
+      "label": "Choke (Sepultura song)",
+      "url": "https://en.wikipedia.org/wiki/Choke_(Sepultura_song)",
+      "firstSeenAt": "2026-11-05T14:35:34.047Z"
+    },
+    {
+      "id": "wiki:Arise (Sepultura song)",
+      "type": "wikipedia",
+      "label": "Arise (Sepultura song)",
+      "url": "https://en.wikipedia.org/wiki/Arise_(Sepultura_song)",
+      "firstSeenAt": "2026-11-05T14:35:34.047Z"
+    },
+    {
+      "id": "wiki:Dead Embryonic Cells",
+      "type": "wikipedia",
+      "label": "Dead Embryonic Cells",
+      "url": "https://en.wikipedia.org/wiki/Dead_Embryonic_Cells",
+      "firstSeenAt": "2026-11-05T14:35:34.047Z"
     }
   ],
   "recentItems": []
