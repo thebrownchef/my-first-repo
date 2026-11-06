@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCAP57cF-FSjJKzzXg7ntPlQ",
   "title": "CRITERION",
   "thumb": "https://yt3.ggpht.com/5OSJulafc0_j55oiga5EjbVBj1KCobx-EYCZokvoV_aMRF06yKXySu-7GQvp9T7VlYEhfnwh8A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Amoeba",
       "url": "https://www.youtube.com/channel/UC9DkCKm4_VDztRRyge4mCJQ",
       "firstSeenAt": "2026-11-01T13:17:48.154Z"
+    },
+    {
+      "id": "wiki:Onibaba (film)",
+      "type": "wikipedia",
+      "label": "Onibaba (film)",
+      "url": "https://en.wikipedia.org/wiki/Onibaba_(film)",
+      "firstSeenAt": "2026-11-06T14:13:09.926Z"
     }
   ],
   "recentItems": []

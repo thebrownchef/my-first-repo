@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UC0wr07HyxMwJdtTbNIyKdAQ",
   "title": "TheGiPiM",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kAyfh8jLxciq0W8VYxzBzOQ0-mxNfQ37nqsT-48YuAdw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 21,
+  "distinctSourceCount": 21,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -148,6 +148,13 @@
       "label": "Trujillo metropolitan area (Peru)",
       "url": "https://en.wikipedia.org/wiki/Trujillo_metropolitan_area_(Peru)",
       "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:Mansiche, La Libertad, Peru",
+      "type": "wikipedia",
+      "label": "Mansiche, La Libertad, Peru",
+      "url": "https://en.wikipedia.org/wiki/Mansiche%2C_La_Libertad%2C_Peru",
+      "firstSeenAt": "2026-11-06T14:13:12.147Z"
     }
   ],
   "recentItems": [

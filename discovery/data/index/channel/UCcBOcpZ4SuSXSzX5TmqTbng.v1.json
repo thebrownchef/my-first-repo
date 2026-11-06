@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCcBOcpZ4SuSXSzX5TmqTbng",
   "title": "labelmade",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_krlvvym7_qGMgXrxlKKDsfjnFYEQSo7Axx80vMZcWeRA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Vi to",
       "url": "https://en.wikipedia.org/wiki/Vi_to",
       "firstSeenAt": "2026-10-07T13:18:51.084Z"
+    },
+    {
+      "id": "wiki:Jalousi",
+      "type": "wikipedia",
+      "label": "Jalousi",
+      "url": "https://en.wikipedia.org/wiki/Jalousi",
+      "firstSeenAt": "2026-11-06T14:13:06.884Z"
     }
   ],
   "recentItems": []

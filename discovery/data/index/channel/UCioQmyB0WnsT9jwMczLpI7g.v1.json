@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCioQmyB0WnsT9jwMczLpI7g",
   "title": "robatsea2009",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lrPac4kqizv_c-RYTJRYPg7rSarMOzWJz7UsbNp-zFow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.71,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "It's Arbor Day, Charlie Brown/Charlie Brown's All Stars! (soundtrack)",
       "url": "https://en.wikipedia.org/wiki/It's_Arbor_Day%2C_Charlie_Brown%2FCharlie_Brown's_All_Stars!_(soundtrack)",
       "firstSeenAt": "2026-09-06T10:53:19.006Z"
+    },
+    {
+      "id": "wiki:Farewell, My Lovely (1975 film)",
+      "type": "wikipedia",
+      "label": "Farewell, My Lovely (1975 film)",
+      "url": "https://en.wikipedia.org/wiki/Farewell%2C_My_Lovely_(1975_film)",
+      "firstSeenAt": "2026-11-06T14:13:09.926Z"
+    },
+    {
+      "id": "wiki:Baby the Rain Must Fall",
+      "type": "wikipedia",
+      "label": "Baby the Rain Must Fall",
+      "url": "https://en.wikipedia.org/wiki/Baby_the_Rain_Must_Fall",
+      "firstSeenAt": "2026-11-06T14:13:09.926Z"
     }
   ],
   "recentItems": []

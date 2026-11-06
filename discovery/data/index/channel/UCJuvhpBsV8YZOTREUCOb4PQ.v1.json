@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
   "title": "underyourskin",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sidsel Endresen",
       "url": "https://en.wikipedia.org/wiki/Sidsel_Endresen",
       "firstSeenAt": "2026-11-02T15:44:43.064Z"
+    },
+    {
+      "id": "wiki:Sarah Jane Morris (singer)",
+      "type": "wikipedia",
+      "label": "Sarah Jane Morris (singer)",
+      "url": "https://en.wikipedia.org/wiki/Sarah_Jane_Morris_(singer)",
+      "firstSeenAt": "2026-11-06T14:13:06.883Z"
     }
   ],
   "recentItems": []

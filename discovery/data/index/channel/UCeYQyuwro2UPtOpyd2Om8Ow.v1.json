@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCeYQyuwro2UPtOpyd2Om8Ow",
   "title": "Drew Techner",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lCie77JG83jMvKQHV2wI1WNvKxwujIKEZKeNoF1K19Hw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Lucie Bigelow Rosen",
       "url": "https://en.wikipedia.org/wiki/Lucie_Bigelow_Rosen",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Mighty Lak' a Rose",
+      "type": "wikipedia",
+      "label": "Mighty Lak' a Rose",
+      "url": "https://en.wikipedia.org/wiki/Mighty_Lak'_a_Rose",
+      "firstSeenAt": "2026-11-06T14:13:09.927Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCe52oeb7Xv_KaJsEzcKXJJg",
   "title": "MBCkpop",
   "thumb": "https://yt3.ggpht.com/lMLCpSdIgJNZ11RW-0hyfU3Xb4f-molFbQFPn_302s1BAjJUFL8298P4Sbz_W76YEWtwscXi-48=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 10.83,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Modern Times (IU album)",
       "url": "https://en.wikipedia.org/wiki/Modern_Times_(IU_album)",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Fly High (EP)",
+      "type": "wikipedia",
+      "label": "Fly High (EP)",
+      "url": "https://en.wikipedia.org/wiki/Fly_High_(EP)",
+      "firstSeenAt": "2026-11-06T14:13:06.882Z"
     }
   ],
   "recentItems": []

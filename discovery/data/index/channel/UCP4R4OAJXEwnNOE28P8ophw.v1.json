@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCP4R4OAJXEwnNOE28P8ophw",
   "title": "Nuclear Vault",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nFT69tcVTa_gywUvgbd5V8wor_3wE73KarM4yFsJY-ug=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Nuclear artillery",
       "url": "https://en.wikipedia.org/wiki/Nuclear_artillery",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Listen to Britain",
+      "type": "wikipedia",
+      "label": "Listen to Britain",
+      "url": "https://en.wikipedia.org/wiki/Listen_to_Britain",
+      "firstSeenAt": "2026-11-06T14:13:12.148Z"
     }
   ],
   "recentItems": []

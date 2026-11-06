@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "id": "UCuCLhzmx0AGnsViXF0Q44tg",
+  "title": "SourceFedNERD",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwVOXRvx6cnO3oRqfQUa1bZ-pjvtZi1d6QIHwbvqE3o6Q=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.5,
+  "sources": [
+    {
+      "id": "channel:UC_gE-kg7JvuwCNlbZ1-shlA",
+      "type": "channel",
+      "label": "SourceFed",
+      "url": "https://www.youtube.com/channel/UC_gE-kg7JvuwCNlbZ1-shlA",
+      "firstSeenAt": "2026-10-24T10:55:06.215Z"
+    },
+    {
+      "id": "wiki:Jason Silva",
+      "type": "wikipedia",
+      "label": "Jason Silva",
+      "url": "https://en.wikipedia.org/wiki/Jason_Silva",
+      "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    }
+  ],
+  "recentItems": []
+}

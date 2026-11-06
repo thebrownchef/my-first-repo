@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCc1mzTWCyiwpwTccGdiphag",
   "title": "Charney Media",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxVR7ruZd3czjAq9n3-d6XYr8KG210Xmd3i8S76od5X08=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -71,6 +71,27 @@
       "label": "Arthur Hertzberg",
       "url": "https://en.wikipedia.org/wiki/Arthur_Hertzberg",
       "firstSeenAt": "2026-11-04T14:28:09.027Z"
+    },
+    {
+      "id": "wiki:Hasan Abdel Rahman",
+      "type": "wikipedia",
+      "label": "Hasan Abdel Rahman",
+      "url": "https://en.wikipedia.org/wiki/Hasan_Abdel_Rahman",
+      "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:David Hartman (rabbi)",
+      "type": "wikipedia",
+      "label": "David Hartman (rabbi)",
+      "url": "https://en.wikipedia.org/wiki/David_Hartman_(rabbi)",
+      "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:Shmuel Toledano",
+      "type": "wikipedia",
+      "label": "Shmuel Toledano",
+      "url": "https://en.wikipedia.org/wiki/Shmuel_Toledano",
+      "firstSeenAt": "2026-11-06T14:13:09.927Z"
     }
   ],
   "recentItems": []

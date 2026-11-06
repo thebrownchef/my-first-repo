@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "id": "UCAlF4numLdeBiigjOo7-lQQ",
+  "title": "Classic Film Channel",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_llyLsJNmOIgQOTgkWvE16S9ag66J5CEHiOstqmIZlp6PQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "wiki:Half Shot at Sunrise",
+      "type": "wikipedia",
+      "label": "Half Shot at Sunrise",
+      "url": "https://en.wikipedia.org/wiki/Half_Shot_at_Sunrise",
+      "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Life with Father (film)",
+      "type": "wikipedia",
+      "label": "Life with Father (film)",
+      "url": "https://en.wikipedia.org/wiki/Life_with_Father_(film)",
+      "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:Millie (film)",
+      "type": "wikipedia",
+      "label": "Millie (film)",
+      "url": "https://en.wikipedia.org/wiki/Millie_(film)",
+      "firstSeenAt": "2026-11-06T14:13:12.149Z"
+    }
+  ],
+  "recentItems": []
+}

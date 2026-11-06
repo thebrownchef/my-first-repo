@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "id": "UC-_ZUIwNS_dfUidM4teopEQ",
+  "title": "GloopTrekker",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mKD7cBNyAhDp_wD1waSC5cS4JdgJQyKJPmj09LtabBwtQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.35,
+  "sources": [
+    {
+      "id": "wiki:NFL on TNT",
+      "type": "wikipedia",
+      "label": "NFL on TNT",
+      "url": "https://en.wikipedia.org/wiki/NFL_on_TNT",
+      "firstSeenAt": "2026-10-04T12:18:31.742Z"
+    },
+    {
+      "id": "wiki:Fort Dobbs",
+      "type": "wikipedia",
+      "label": "Fort Dobbs",
+      "url": "https://en.wikipedia.org/wiki/Fort_Dobbs",
+      "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    }
+  ],
+  "recentItems": []
+}

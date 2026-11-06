@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:37:00.384Z",
+  "generatedAt": "2026-11-06T14:14:28.077Z",
   "id": "UCqnbDFdCpuN8CMEg0VuEBqA",
   "title": "The New York Times",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niRq8CFu_t0QX45kIzJ58GtS9zlO2SGo7wArxG9gy6uEc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.5,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Hard Fork",
       "url": "https://www.youtube.com/channel/UCZcR2SVWaGWNlMqPxvQS3vw",
       "firstSeenAt": "2026-09-23T11:32:30.071Z"
+    },
+    {
+      "id": "wiki:Bicycle Thieves",
+      "type": "wikipedia",
+      "label": "Bicycle Thieves",
+      "url": "https://en.wikipedia.org/wiki/Bicycle_Thieves",
+      "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:The Grapes of Wrath (film)",
+      "type": "wikipedia",
+      "label": "The Grapes of Wrath (film)",
+      "url": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film)",
+      "firstSeenAt": "2026-11-06T14:13:12.148Z"
     }
   ],
   "recentItems": []

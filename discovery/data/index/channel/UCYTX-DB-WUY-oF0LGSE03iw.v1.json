@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "id": "UCYTX-DB-WUY-oF0LGSE03iw",
+  "title": "Asia Eater",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mWShJ3zQWuBEnjThYElc0GdVpY7dVWhQAIPwAEt4pxmg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0,
+  "sources": [
+    {
+      "id": "wiki:Craft beer",
+      "type": "wikipedia",
+      "label": "Craft beer",
+      "url": "https://en.wikipedia.org/wiki/Craft_beer",
+      "firstSeenAt": "2026-11-06T14:13:06.883Z"
+    },
+    {
+      "id": "wiki:Mikkeller",
+      "type": "wikipedia",
+      "label": "Mikkeller",
+      "url": "https://en.wikipedia.org/wiki/Mikkeller",
+      "firstSeenAt": "2026-11-06T14:13:06.883Z"
+    }
+  ],
+  "recentItems": []
+}
