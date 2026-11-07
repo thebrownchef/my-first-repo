@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Steven Levy",
       "url": "https://en.wikipedia.org/wiki/Steven_Levy",
       "firstSeenAt": "2026-11-03T14:08:01.517Z"
+    },
+    {
+      "id": "wiki:Bob Woodward",
+      "type": "wikipedia",
+      "label": "Bob Woodward",
+      "url": "https://en.wikipedia.org/wiki/Bob_Woodward",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
     }
   ],
   "recentItems": []

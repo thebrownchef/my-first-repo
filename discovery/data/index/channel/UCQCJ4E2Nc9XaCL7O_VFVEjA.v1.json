@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCQCJ4E2Nc9XaCL7O_VFVEjA",
   "title": "Lily Allen",
   "thumb": "https://yt3.ggpht.com/NBvoJmG1l0anOgpb6y_w9MkGTKxEGJbIiuhEh_lzHE__WQf5xiaNGQCe999yv6XTo9mQtJkD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Littlest Things",
       "url": "https://en.wikipedia.org/wiki/Littlest_Things",
       "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:It's Not Me, It's You",
+      "type": "wikipedia",
+      "label": "It's Not Me, It's You",
+      "url": "https://en.wikipedia.org/wiki/It's_Not_Me%2C_It's_You",
+      "firstSeenAt": "2026-11-07T12:56:36.817Z"
     }
   ],
   "recentItems": []

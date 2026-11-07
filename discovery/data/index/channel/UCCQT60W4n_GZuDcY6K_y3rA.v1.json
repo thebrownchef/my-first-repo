@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCCQT60W4n_GZuDcY6K_y3rA",
   "title": "Racing TV",
   "thumb": "https://yt3.ggpht.com/9T_nwXecu4ksaMf1ciSgK_JC-1-s93LcqjA6Wm5bn6AmsjSnIbvml90j8Zf0udGpVK6hMfLGs2k=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.49,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Campbell Gillies",
       "url": "https://en.wikipedia.org/wiki/Campbell_Gillies",
       "firstSeenAt": "2026-10-29T12:56:13.783Z"
+    },
+    {
+      "id": "wiki:2014 Grand National",
+      "type": "wikipedia",
+      "label": "2014 Grand National",
+      "url": "https://en.wikipedia.org/wiki/2014_Grand_National",
+      "firstSeenAt": "2026-11-07T12:56:36.817Z"
     }
   ],
   "recentItems": []

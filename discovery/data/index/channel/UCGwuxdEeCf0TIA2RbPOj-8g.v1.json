@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCGwuxdEeCf0TIA2RbPOj-8g",
   "title": "Stanford Graduate School of Business",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lWoHJNSE1UPPiFdCG4_aQZ1apKXrKI7nZ_sFlKwhNwRl0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.6,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Stanford",
       "url": "https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA",
       "firstSeenAt": "2026-10-26T12:56:53.194Z"
+    },
+    {
+      "id": "wiki:Gary Locke",
+      "type": "wikipedia",
+      "label": "Gary Locke",
+      "url": "https://en.wikipedia.org/wiki/Gary_Locke",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
+    },
+    {
+      "id": "wiki:Alejandro Toledo",
+      "type": "wikipedia",
+      "label": "Alejandro Toledo",
+      "url": "https://en.wikipedia.org/wiki/Alejandro_Toledo",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
     }
   ],
   "recentItems": []

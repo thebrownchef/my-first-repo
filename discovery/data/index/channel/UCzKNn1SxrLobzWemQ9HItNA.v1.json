@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCzKNn1SxrLobzWemQ9HItNA",
   "title": "earMUSIC",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m02CRClrl_IZ89q8oh9HRrg6DE17YX6azLK2t9xIsnOKo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Seven (Lisa Stansfield album)",
       "url": "https://en.wikipedia.org/wiki/Seven_(Lisa_Stansfield_album)",
       "firstSeenAt": "2026-11-03T14:08:03.893Z"
+    },
+    {
+      "id": "wiki:Claudio Oyarzo",
+      "type": "wikipedia",
+      "label": "Claudio Oyarzo",
+      "url": "https://en.wikipedia.org/wiki/Claudio_Oyarzo",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
     }
   ],
   "recentItems": []

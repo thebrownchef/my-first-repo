@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCcVkWrg_Q00xVigRquzSY4g",
   "title": "Universal Music France",
   "thumb": "https://yt3.ggpht.com/bEtqIb7v3W0bfJ1mVD0YOKPF2vcQvX7vb_pezwCcAaxbcEIHpN8Oh0btDSqIf-HNAv8MxoFE-lk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Stand on the Word",
       "url": "https://en.wikipedia.org/wiki/Stand_on_the_Word",
       "firstSeenAt": "2026-11-05T14:35:34.046Z"
+    },
+    {
+      "id": "wiki:C'est la vie (Khaled song)",
+      "type": "wikipedia",
+      "label": "C'est la vie (Khaled song)",
+      "url": "https://en.wikipedia.org/wiki/C'est_la_vie_(Khaled_song)",
+      "firstSeenAt": "2026-11-07T12:56:30.838Z"
     }
   ],
   "recentItems": []

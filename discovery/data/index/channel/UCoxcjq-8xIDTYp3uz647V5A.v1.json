@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCoxcjq-8xIDTYp3uz647V5A",
   "title": "Numberphile",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nmbQSAGKk1OZCBBf_sPJqLoFfYOVDWRDzALocBjGQtHeI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "minutephysics",
       "url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
       "firstSeenAt": "2026-10-01T13:10:03.069Z"
+    },
+    {
+      "id": "wiki:Charles Joseph Minard",
+      "type": "wikipedia",
+      "label": "Charles Joseph Minard",
+      "url": "https://en.wikipedia.org/wiki/Charles_Joseph_Minard",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
     }
   ],
   "recentItems": []

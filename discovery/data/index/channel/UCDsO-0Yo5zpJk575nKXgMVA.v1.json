@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "id": "UCDsO-0Yo5zpJk575nKXgMVA",
+  "title": "RocketJump",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mFUj3y9JNtF4CORA6ZoVOp8ztmh-miQt_axQkl4NXALLc=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 1,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "channel:UCKEXu8aCjrudFNx2jq9FfQw",
+      "type": "channel",
+      "label": "FRED",
+      "url": "https://www.youtube.com/channel/UCKEXu8aCjrudFNx2jq9FfQw",
+      "firstSeenAt": "2026-10-17T10:40:07.202Z"
+    },
+    {
+      "id": "wiki:List of Video Game High School episodes",
+      "type": "wikipedia",
+      "label": "List of Video Game High School episodes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Video_Game_High_School_episodes",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
+    },
+    {
+      "id": "wiki:Freddie Wong",
+      "type": "wikipedia",
+      "label": "Freddie Wong",
+      "url": "https://en.wikipedia.org/wiki/Freddie_Wong",
+      "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    }
+  ],
+  "recentItems": []
+}

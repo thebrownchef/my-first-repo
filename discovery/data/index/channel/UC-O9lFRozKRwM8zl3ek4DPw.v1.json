@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UC-O9lFRozKRwM8zl3ek4DPw",
   "title": "thisgunforhire05",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l7ba7bx_uiXR2U22XTr8T7ezsH1-CwZAfBJAiAxIFRFw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Pretty Baby (Tony Jackson song)",
       "url": "https://en.wikipedia.org/wiki/Pretty_Baby_(Tony_Jackson_song)",
       "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:Hypocrites (1915 film)",
+      "type": "wikipedia",
+      "label": "Hypocrites (1915 film)",
+      "url": "https://en.wikipedia.org/wiki/Hypocrites_(1915_film)",
+      "firstSeenAt": "2026-11-07T12:56:30.838Z"
     }
   ],
   "recentItems": []

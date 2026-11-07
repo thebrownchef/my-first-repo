@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "id": "UCvhQPdeTHzIRneScV8MIocg",
+  "title": "Clean Bandit",
+  "thumb": "https://yt3.ggpht.com/CPLJLU22u4dpRo7RWbKvC9YSOhXuyXsd9qxZk4NupBmRcRwZrBmrAwFP0cyuw2Q-A-AYj5W36A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "wiki:Mozart's House",
+      "type": "wikipedia",
+      "label": "Mozart's House",
+      "url": "https://en.wikipedia.org/wiki/Mozart's_House",
+      "firstSeenAt": "2026-10-22T11:47:47.034Z"
+    },
+    {
+      "id": "channel:UCE4Qz27gKHV8_RrKn5xL8Pw",
+      "type": "channel",
+      "label": "Cash Cash",
+      "url": "https://www.youtube.com/channel/UCE4Qz27gKHV8_RrKn5xL8Pw",
+      "firstSeenAt": "2026-11-07T12:57:17.255Z"
+    }
+  ],
+  "recentItems": []
+}

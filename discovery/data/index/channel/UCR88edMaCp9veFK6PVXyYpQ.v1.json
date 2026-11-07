@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCR88edMaCp9veFK6PVXyYpQ",
   "title": "Warner Bros. DE",
   "thumb": "https://yt3.ggpht.com/F7BPXgTqqQnOktonvSfgj0Zz0Z1SulrFCwcOkirmxfweUKsK5zCPMdHtI9RQByRHwFBM0bTDxg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Waking Up (OneRepublic album)",
       "url": "https://en.wikipedia.org/wiki/Waking_Up_(OneRepublic_album)",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "channel:UCYCEK7i8Uq-XtFtWolofxFg",
+      "type": "channel",
+      "label": "moviemaniacsDE",
+      "url": "https://www.youtube.com/channel/UCYCEK7i8Uq-XtFtWolofxFg",
+      "firstSeenAt": "2026-11-07T12:57:03.667Z"
     }
   ],
   "recentItems": []

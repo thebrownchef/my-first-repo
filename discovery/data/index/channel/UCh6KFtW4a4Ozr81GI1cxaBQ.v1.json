@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCh6KFtW4a4Ozr81GI1cxaBQ",
   "title": "University of California Television (UCTV)",
   "thumb": "https://yt3.ggpht.com/ABuxegbRX6xVmeFnmLMJtPe6IwRRE4Rh6oeVzuT2apDmp4MHb-0psv6EQQZDn50D_SluKZ7th7M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.52,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "History of economic thought",
       "url": "https://en.wikipedia.org/wiki/History_of_economic_thought",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:Jeremy Black (historian)",
+      "type": "wikipedia",
+      "label": "Jeremy Black (historian)",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Black_(historian)",
+      "firstSeenAt": "2026-11-07T12:56:30.838Z"
+    },
+    {
+      "id": "wiki:Leon Panetta",
+      "type": "wikipedia",
+      "label": "Leon Panetta",
+      "url": "https://en.wikipedia.org/wiki/Leon_Panetta",
+      "firstSeenAt": "2026-11-07T12:56:36.817Z"
     }
   ],
   "recentItems": []

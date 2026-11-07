@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCoUM-UJ7rirJYP8CQ0EIaHA",
   "title": "Bruno Mars",
   "thumb": "https://yt3.ggpht.com/dxwzp4IYsNJKDcwNYgF0UGdw9vCWSMqkHaLtC08VVKg8eybNs69pbdTaGdoaKQYHVQjFyeybzA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "The Lazy Song",
       "url": "https://en.wikipedia.org/wiki/The_Lazy_Song",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Locked Out of Heaven",
+      "type": "wikipedia",
+      "label": "Locked Out of Heaven",
+      "url": "https://en.wikipedia.org/wiki/Locked_Out_of_Heaven",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
     }
   ],
   "recentItems": []

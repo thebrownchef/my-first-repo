@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCNcjGMZpfQ3CYB0rjjuvgUg",
   "title": "DMW HQ",
   "thumb": "https://yt3.ggpht.com/Fd6OMOJ1jntc56JiWpgDhkv23kvk1EjjgdRDVH69dzQYAkLQv-GNu3yjdLOdPuvfE3NxWVb-uw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Dami Duro",
       "url": "https://en.wikipedia.org/wiki/Dami_Duro",
       "firstSeenAt": "2026-11-06T14:13:09.926Z"
+    },
+    {
+      "id": "wiki:Aye (Davido song)",
+      "type": "wikipedia",
+      "label": "Aye (Davido song)",
+      "url": "https://en.wikipedia.org/wiki/Aye_(Davido_song)",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
     }
   ],
   "recentItems": []

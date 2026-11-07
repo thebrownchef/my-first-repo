@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCTTBHIoKPIWLAxxTNTiQ9vA",
   "title": "XL Recordings",
   "thumb": "https://yt3.ggpht.com/gP8D0w3gzgFRcn_K7SzINas-mplHf_xSv-hntr68ZnzLqCfwNMkMklRbVOnfTfvMltrPuNZ22g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Judge, Jury and Executioner",
       "url": "https://en.wikipedia.org/wiki/Judge%2C_Jury_and_Executioner",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:The Bravest Man in the Universe",
+      "type": "wikipedia",
+      "label": "The Bravest Man in the Universe",
+      "url": "https://en.wikipedia.org/wiki/The_Bravest_Man_in_the_Universe",
+      "firstSeenAt": "2026-11-07T12:56:33.840Z"
     }
   ],
   "recentItems": []

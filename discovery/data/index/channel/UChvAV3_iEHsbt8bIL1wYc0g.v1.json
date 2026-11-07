@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UChvAV3_iEHsbt8bIL1wYc0g",
   "title": "leonalewisVEVO",
   "thumb": "https://yt3.ggpht.com/4A6-ZS8qIKhzPSKCtQp6GZoGigHrQ449vTQm20owkGlqfDO2NdQQqKmzvzIAOo1PTKVafirh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Glassheart",
       "url": "https://en.wikipedia.org/wiki/Glassheart",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Bleeding Love",
+      "type": "wikipedia",
+      "label": "Bleeding Love",
+      "url": "https://en.wikipedia.org/wiki/Bleeding_Love",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCPXM1s5WGdX_mFJzxzuw7eQ",
   "title": "ArtistAloud",
   "thumb": "https://yt3.ggpht.com/PL--i9hzOV8OwQMLoLZFN8XE7UfzU1YV2mahEwl7kMesUX9lO0G7O9xVpmMtnuKB4rkV6QV5ZB4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Hungama Originals",
       "url": "https://www.youtube.com/channel/UCUoDR7F5HR6B_cvwt_iI9SQ",
       "firstSeenAt": "2026-10-25T11:22:24.463Z"
+    },
+    {
+      "id": "wiki:Daboo Malik",
+      "type": "wikipedia",
+      "label": "Daboo Malik",
+      "url": "https://en.wikipedia.org/wiki/Daboo_Malik",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCIwW9cW7s-Y2e2OzWpOsYRQ",
   "title": "noochinator1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOW0gkUIPEkXuZ8sEIJ1RKlG6ieifjNCfJXHF7GgZ93g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Wanda Wiłkomirska",
       "url": "https://en.wikipedia.org/wiki/Wanda_Wi%C5%82komirska",
       "firstSeenAt": "2026-11-03T14:08:03.894Z"
+    },
+    {
+      "id": "wiki:Amy Beach",
+      "type": "wikipedia",
+      "label": "Amy Beach",
+      "url": "https://en.wikipedia.org/wiki/Amy_Beach",
+      "firstSeenAt": "2026-11-07T12:56:36.817Z"
     }
   ],
   "recentItems": []

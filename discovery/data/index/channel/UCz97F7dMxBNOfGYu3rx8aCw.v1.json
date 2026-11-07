@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCz97F7dMxBNOfGYu3rx8aCw",
   "title": "Sony Pictures Entertainment",
   "thumb": "https://yt3.ggpht.com/Kv_B3VAb1rzA-qu3JxxxV1QFJNhg_DMHpMsSpaMgJHEC8WhuU2Y1ijyG75n0gMJeMq7twfYE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.74,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Sony Pics at Home",
       "url": "https://www.youtube.com/channel/UCqH2YMSzMaGN92Vc3VkhWnQ",
       "firstSeenAt": "2026-10-17T10:40:17.117Z"
+    },
+    {
+      "id": "wiki:This Is the End",
+      "type": "wikipedia",
+      "label": "This Is the End",
+      "url": "https://en.wikipedia.org/wiki/This_Is_the_End",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
     }
   ],
   "recentItems": []

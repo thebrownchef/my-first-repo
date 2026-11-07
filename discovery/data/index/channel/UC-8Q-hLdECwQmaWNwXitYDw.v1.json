@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UC-8Q-hLdECwQmaWNwXitYDw",
   "title": "KatyPerryVEVO",
   "thumb": "https://yt3.ggpht.com/At-OTmzPnkE8xcDw08lHdUxbGy9TP-jzB4f4EnvcnUVTMuHoLP-sE8WY3OkwK6DJdWN6OJII=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Roar (song)",
       "url": "https://en.wikipedia.org/wiki/Roar_(song)",
       "firstSeenAt": "2026-11-06T14:13:06.882Z"
+    },
+    {
+      "id": "wiki:Dark Horse (Katy Perry song)",
+      "type": "wikipedia",
+      "label": "Dark Horse (Katy Perry song)",
+      "url": "https://en.wikipedia.org/wiki/Dark_Horse_(Katy_Perry_song)",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
     }
   ],
   "recentItems": []

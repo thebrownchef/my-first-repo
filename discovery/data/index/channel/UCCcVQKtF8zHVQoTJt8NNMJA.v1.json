@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 66,
-  "distinctSourceCount": 66,
+  "score": 67,
+  "distinctSourceCount": 67,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -470,6 +470,13 @@
       "label": "No Exit (The Vampire Diaries)",
       "url": "https://en.wikipedia.org/wiki/No_Exit_(The_Vampire_Diaries)",
       "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:While You Were Sleeping (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "While You Were Sleeping (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/While_You_Were_Sleeping_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-07T12:56:30.837Z"
     }
   ],
   "recentItems": [

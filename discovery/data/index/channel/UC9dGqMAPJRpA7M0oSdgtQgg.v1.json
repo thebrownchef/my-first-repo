@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UC9dGqMAPJRpA7M0oSdgtQgg",
   "title": "BFI",
   "thumb": "https://yt3.ggpht.com/sR4iA5E1w0QjB_N9WIeynH7hGTStl2mgPxkTEVJhGANXr96ZEex02658pMagMRKV6kFG0LLq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Christmas Under Fire",
       "url": "https://en.wikipedia.org/wiki/Christmas_Under_Fire",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Baby's Toilet",
+      "type": "wikipedia",
+      "label": "Baby's Toilet",
+      "url": "https://en.wikipedia.org/wiki/Baby's_Toilet",
+      "firstSeenAt": "2026-11-07T12:56:30.838Z"
     }
   ],
   "recentItems": []

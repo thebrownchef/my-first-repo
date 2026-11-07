@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCBhskwCpv4Df8-xC8_wGxzA",
   "title": "TheVideoCellar",
   "thumb": "https://yt3.ggpht.com/vPmRRQaPU_4X0ARRdfoXPEZ9PyAU9AK6zy0cVNNsVt-LExTwlkAx7kZllsPdIrnmX1kRcKj4Sdc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Frankenstein (1910 film)",
       "url": "https://en.wikipedia.org/wiki/Frankenstein_(1910_film)",
       "firstSeenAt": "2026-09-02T11:15:12.105Z"
+    },
+    {
+      "id": "wiki:Betsy Ross (film)",
+      "type": "wikipedia",
+      "label": "Betsy Ross (film)",
+      "url": "https://en.wikipedia.org/wiki/Betsy_Ross_(film)",
+      "firstSeenAt": "2026-11-07T12:56:30.838Z"
     }
   ],
   "recentItems": []

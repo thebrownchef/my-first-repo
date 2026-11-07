@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCWJ2lWNubArHWmf3FIHbfcQ",
   "title": "NBA",
   "thumb": "https://yt3.ggpht.com/eGmO8yk_eHvLzEywzlPwRV_-7RiDayDLeXWWBVExMLN4qXA7z7fD6ldPXatXZiQOvgW4--jzNA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 10.49,
   "sources": [
@@ -78,6 +78,27 @@
       "label": "NBA G League",
       "url": "https://www.youtube.com/channel/UCpGimyrbwRtrcJ-CIiRDXbA",
       "firstSeenAt": "2026-11-06T14:13:34.460Z"
+    },
+    {
+      "id": "wiki:Casper Ware",
+      "type": "wikipedia",
+      "label": "Casper Ware",
+      "url": "https://en.wikipedia.org/wiki/Casper_Ware",
+      "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:Sundiata Gaines",
+      "type": "wikipedia",
+      "label": "Sundiata Gaines",
+      "url": "https://en.wikipedia.org/wiki/Sundiata_Gaines",
+      "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:Kyrie Irving",
+      "type": "wikipedia",
+      "label": "Kyrie Irving",
+      "url": "https://en.wikipedia.org/wiki/Kyrie_Irving",
+      "firstSeenAt": "2026-11-07T12:56:36.817Z"
     }
   ],
   "recentItems": []

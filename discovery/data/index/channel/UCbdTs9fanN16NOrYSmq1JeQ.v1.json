@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCbdTs9fanN16NOrYSmq1JeQ",
   "title": "ClevverTV",
   "thumb": "https://yt3.ggpht.com/-RNLUh2uEVEqvK8uh5mguPKSnk-hQJKN7NNPFDzBmleipAoinfC3M6BFYLQm6DmkNHC1mmSbSQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 1.37,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Ryan Lane",
       "url": "https://en.wikipedia.org/wiki/Ryan_Lane",
       "firstSeenAt": "2026-10-29T12:56:22.197Z"
+    },
+    {
+      "id": "wiki:Loud (R5 song)",
+      "type": "wikipedia",
+      "label": "Loud (R5 song)",
+      "url": "https://en.wikipedia.org/wiki/Loud_(R5_song)",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
     }
   ],
   "recentItems": []

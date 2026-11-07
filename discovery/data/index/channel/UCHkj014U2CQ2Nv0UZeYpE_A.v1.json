@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCHkj014U2CQ2Nv0UZeYpE_A",
   "title": "JustinBieberVEVO",
   "thumb": "https://yt3.ggpht.com/4Mz5el_eyeB5cBod2jHMV-CC3fYiuSmDuCT9A9tGyYh03KQyVdrP04KYYMttZItBCtn4kfef=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Dzeny Dzenita",
       "url": "https://www.youtube.com/channel/UCdf6w4QPpoACAcLXfX3inEw",
       "firstSeenAt": "2026-10-31T12:22:40.192Z"
+    },
+    {
+      "id": "wiki:Baby (Justin Bieber song)",
+      "type": "wikipedia",
+      "label": "Baby (Justin Bieber song)",
+      "url": "https://en.wikipedia.org/wiki/Baby_(Justin_Bieber_song)",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
     }
   ],
   "recentItems": []

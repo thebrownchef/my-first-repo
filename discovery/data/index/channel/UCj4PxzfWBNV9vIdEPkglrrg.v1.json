@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCj4PxzfWBNV9vIdEPkglrrg",
   "title": "FoundationINTERVIEWS",
   "thumb": "https://yt3.ggpht.com/upfgtJrTmgKsCwqUcvKvPSo9oubP96yMVPMB8TrV1MZ98B6XBzW-puwaM9387lHI-yPhW6Wqk7U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 2.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Reception of The Simpsons",
       "url": "https://en.wikipedia.org/wiki/Reception_of_The_Simpsons",
       "firstSeenAt": "2026-10-24T10:54:50.878Z"
+    },
+    {
+      "id": "wiki:Michael Patrick King",
+      "type": "wikipedia",
+      "label": "Michael Patrick King",
+      "url": "https://en.wikipedia.org/wiki/Michael_Patrick_King",
+      "firstSeenAt": "2026-11-07T12:56:33.840Z"
     }
   ],
   "recentItems": []

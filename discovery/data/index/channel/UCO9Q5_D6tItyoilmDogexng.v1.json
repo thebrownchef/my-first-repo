@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCO9Q5_D6tItyoilmDogexng",
   "title": "PublicResourceOrg",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN8msoL_nLAxHUy2pwTKFRXZjHhPiX76565DKcqbvUhw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -64,6 +64,27 @@
       "label": "Know Your Ally: Britain",
       "url": "https://en.wikipedia.org/wiki/Know_Your_Ally%3A_Britain",
       "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:The River (1938 film)",
+      "type": "wikipedia",
+      "label": "The River (1938 film)",
+      "url": "https://en.wikipedia.org/wiki/The_River_(1938_film)",
+      "firstSeenAt": "2026-11-07T12:56:30.837Z"
+    },
+    {
+      "id": "wiki:John Shirley Wood",
+      "type": "wikipedia",
+      "label": "John Shirley Wood",
+      "url": "https://en.wikipedia.org/wiki/John_Shirley_Wood",
+      "firstSeenAt": "2026-11-07T12:56:30.838Z"
+    },
+    {
+      "id": "wiki:Battle of Manila (1945)",
+      "type": "wikipedia",
+      "label": "Battle of Manila (1945)",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Manila_(1945)",
+      "firstSeenAt": "2026-11-07T12:56:30.838Z"
     }
   ],
   "recentItems": []

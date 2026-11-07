@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCc1mzTWCyiwpwTccGdiphag",
   "title": "Charney Media",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxVR7ruZd3czjAq9n3-d6XYr8KG210Xmd3i8S76od5X08=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Shmuel Toledano",
       "url": "https://en.wikipedia.org/wiki/Shmuel_Toledano",
       "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:Teddy Kollek",
+      "type": "wikipedia",
+      "label": "Teddy Kollek",
+      "url": "https://en.wikipedia.org/wiki/Teddy_Kollek",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
     }
   ],
   "recentItems": []

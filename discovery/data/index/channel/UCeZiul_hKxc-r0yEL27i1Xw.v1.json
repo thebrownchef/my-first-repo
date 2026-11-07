@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCeZiul_hKxc-r0yEL27i1Xw",
   "title": "3 Beat",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZweZgSZxJh8UFgpRwS4PslvuycsZ5mNYoJIyVHKoxQes=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Azonto (Fuse ODG song)",
       "url": "https://en.wikipedia.org/wiki/Azonto_(Fuse_ODG_song)",
       "firstSeenAt": "2026-11-01T13:17:27.897Z"
+    },
+    {
+      "id": "wiki:Nobody to Love",
+      "type": "wikipedia",
+      "label": "Nobody to Love",
+      "url": "https://en.wikipedia.org/wiki/Nobody_to_Love",
+      "firstSeenAt": "2026-11-07T12:56:36.817Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCgGfSxNOBkJDtCQ932iQU7Q",
   "title": "Rinse FM",
   "thumb": "https://yt3.ggpht.com/JmIOUTNr3-k9ciemqjo6MHpiwV0WH7n6unnGK1YufvqD-_CdHRXRNH1h7uOnWRa5oMrh4atL=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Etta Bond",
       "url": "https://en.wikipedia.org/wiki/Etta_Bond",
       "firstSeenAt": "2026-10-27T12:06:52.925Z"
+    },
+    {
+      "id": "wiki:Roll Deep",
+      "type": "wikipedia",
+      "label": "Roll Deep",
+      "url": "https://en.wikipedia.org/wiki/Roll_Deep",
+      "firstSeenAt": "2026-11-07T12:56:33.840Z"
     }
   ],
   "recentItems": []

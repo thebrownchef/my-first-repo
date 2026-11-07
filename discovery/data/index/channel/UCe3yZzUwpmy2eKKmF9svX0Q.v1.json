@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCe3yZzUwpmy2eKKmF9svX0Q",
   "title": "Jason Derulo",
   "thumb": "https://yt3.ggpht.com/IghFAuWuRuClXClC4624ESpJEftVbSVga1tRPAw07xH2gXwXCazs922F0b57qSJg24iE5NuEag=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.95,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Tattoos (Jason Derulo album)",
       "url": "https://en.wikipedia.org/wiki/Tattoos_(Jason_Derulo_album)",
       "firstSeenAt": "2026-11-04T14:28:02.596Z"
+    },
+    {
+      "id": "wiki:Marry Me (Jason Derulo song)",
+      "type": "wikipedia",
+      "label": "Marry Me (Jason Derulo song)",
+      "url": "https://en.wikipedia.org/wiki/Marry_Me_(Jason_Derulo_song)",
+      "firstSeenAt": "2026-11-07T12:56:30.839Z"
     }
   ],
   "recentItems": []

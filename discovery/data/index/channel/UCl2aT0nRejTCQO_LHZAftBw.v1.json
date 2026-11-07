@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCl2aT0nRejTCQO_LHZAftBw",
   "title": "UNIVERSAL MUSIC JAPAN",
   "thumb": "https://yt3.ggpht.com/yH850lOJjx0xRC7r69WxylQITd9m2RKE11ihqbToi19NTacCjlJKkKUyv2jl27o7tEZ-RtHxFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 1.17,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "A Will",
       "url": "https://en.wikipedia.org/wiki/A_Will",
       "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Boys Meet U",
+      "type": "wikipedia",
+      "label": "Boys Meet U",
+      "url": "https://en.wikipedia.org/wiki/Boys_Meet_U",
+      "firstSeenAt": "2026-11-07T12:56:33.840Z"
     }
   ],
   "recentItems": [

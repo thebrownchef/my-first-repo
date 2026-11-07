@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UC54RgORww0lUMVq4NwdwANQ",
   "title": "Killswitch Engage",
   "thumb": "https://yt3.ggpht.com/rDR0VRj2yROBWHS3XqdOicIexQBEeqqGYDMJImXjGJfbRn-c7rjhmtsmFGVQDYwUvsXdOZ0KxNg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Disarm the Descent",
       "url": "https://en.wikipedia.org/wiki/Disarm_the_Descent",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:The End of Heartache (song)",
+      "type": "wikipedia",
+      "label": "The End of Heartache (song)",
+      "url": "https://en.wikipedia.org/wiki/The_End_of_Heartache_(song)",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
     }
   ],
   "recentItems": []

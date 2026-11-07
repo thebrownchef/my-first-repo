@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "潘瑋柏官方頻道Will Pan",
       "url": "https://www.youtube.com/channel/UC05G_SficL1XFNrHu5T43Gg",
       "firstSeenAt": "2026-11-05T14:35:51.397Z"
+    },
+    {
+      "id": "channel:UC0O7wgGjY2BH3pBN3999ang",
+      "type": "channel",
+      "label": "Dr Feelgood",
+      "url": "https://www.youtube.com/channel/UC0O7wgGjY2BH3pBN3999ang",
+      "firstSeenAt": "2026-11-07T12:57:07.854Z"
     }
   ],
   "recentItems": []

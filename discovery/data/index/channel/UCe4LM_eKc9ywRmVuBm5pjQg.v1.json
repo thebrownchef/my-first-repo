@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCe4LM_eKc9ywRmVuBm5pjQg",
   "title": "Atlantic Records",
   "thumb": "https://yt3.ggpht.com/6W-mb2efMopcsFp2LcQV2kbp9H_L3CmdOUGfWAsRG21B_AKurkfNk-aM0ZkcPSoGOJ0w0VKAxuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 1,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Stevie Nicks",
       "url": "https://www.youtube.com/channel/UCNk73lPOgAB_rRmUXDfp0Vw",
       "firstSeenAt": "2026-11-05T14:35:51.251Z"
+    },
+    {
+      "id": "wiki:Buddy (Musiq Soulchild song)",
+      "type": "wikipedia",
+      "label": "Buddy (Musiq Soulchild song)",
+      "url": "https://en.wikipedia.org/wiki/Buddy_(Musiq_Soulchild_song)",
+      "firstSeenAt": "2026-11-07T12:56:33.840Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T14:14:28.077Z",
+  "generatedAt": "2026-11-07T12:58:24.921Z",
   "id": "UCZU9T1ceaOgwfLRq7OKFU4Q",
   "title": "Linkin Park",
   "thumb": "https://yt3.ggpht.com/OtUf050j6w6iRPUmGgmzblD2saluxUusxiVmo0-SMUnWiNKwR89JL_-xJ6JvIEram8UbPT_zDA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 21,
+  "distinctSourceCount": 21,
   "hop": 2,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -148,6 +148,13 @@
       "label": "Living Things (Linkin Park album)",
       "url": "https://en.wikipedia.org/wiki/Living_Things_(Linkin_Park_album)",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Guilty All the Same",
+      "type": "wikipedia",
+      "label": "Guilty All the Same",
+      "url": "https://en.wikipedia.org/wiki/Guilty_All_the_Same",
+      "firstSeenAt": "2026-11-07T12:56:36.816Z"
     }
   ],
   "recentItems": [
