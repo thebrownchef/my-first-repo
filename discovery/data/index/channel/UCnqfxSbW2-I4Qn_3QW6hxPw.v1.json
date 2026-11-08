@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCnqfxSbW2-I4Qn_3QW6hxPw",
   "title": "United Records",
   "thumb": "https://yt3.ggpht.com/U0RCU8XQCfO00guF2bocsmQl7T10XGw4Ee4PU7CQbmN219qcGNK6uYhkqMSiKjNM2cfJlSrY8O8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "32 (song)",
       "url": "https://en.wikipedia.org/wiki/32_(song)",
       "firstSeenAt": "2026-11-02T15:44:43.063Z"
+    },
+    {
+      "id": "channel:UC-c-hM6FcN7LhjbsP3PyQkQ",
+      "type": "channel",
+      "label": "BHS Broadcast",
+      "url": "https://www.youtube.com/channel/UC-c-hM6FcN7LhjbsP3PyQkQ",
+      "firstSeenAt": "2026-11-08T13:19:22.790Z"
     }
   ],
   "recentItems": []

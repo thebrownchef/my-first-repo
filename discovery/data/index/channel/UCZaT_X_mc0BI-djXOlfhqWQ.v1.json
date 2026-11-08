@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCZaT_X_mc0BI-djXOlfhqWQ",
   "title": "VICE News",
   "thumb": "https://yt3.ggpht.com/5-T_4OQwbVFrezPHUc3VP3wCyqo8nZ-VMOpJA_nppoxnZ6IhSVx1PrJPgfFkxD4Z8c5eDuQ9XQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 1.49,
   "sources": [
@@ -92,6 +92,27 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.817Z"
+    },
+    {
+      "id": "wiki:Moses Montefiore",
+      "type": "wikipedia",
+      "label": "Moses Montefiore",
+      "url": "https://en.wikipedia.org/wiki/Moses_Montefiore",
+      "firstSeenAt": "2026-11-08T13:19:06.561Z"
+    },
+    {
+      "id": "wiki:Eric Harroun",
+      "type": "wikipedia",
+      "label": "Eric Harroun",
+      "url": "https://en.wikipedia.org/wiki/Eric_Harroun",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:Simon Ostrovsky",
+      "type": "wikipedia",
+      "label": "Simon Ostrovsky",
+      "url": "https://en.wikipedia.org/wiki/Simon_Ostrovsky",
+      "firstSeenAt": "2026-11-08T13:19:11.789Z"
     }
   ],
   "recentItems": []

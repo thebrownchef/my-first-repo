@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCtXKDgv1AVoG88PLl8nGXmw",
   "title": "Google TechTalks",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_np5QbjchJOQKKpyqO3Uo7sg3YUaFx2EWN1kCQ0N7HRrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Martin Hellman",
       "url": "https://en.wikipedia.org/wiki/Martin_Hellman",
       "firstSeenAt": "2026-11-03T14:08:01.517Z"
+    },
+    {
+      "id": "wiki:Googlewhack",
+      "type": "wikipedia",
+      "label": "Googlewhack",
+      "url": "https://en.wikipedia.org/wiki/Googlewhack",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

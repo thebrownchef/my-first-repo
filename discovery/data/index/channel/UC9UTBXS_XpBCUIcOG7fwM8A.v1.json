@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC9UTBXS_XpBCUIcOG7fwM8A",
   "title": "UKF",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lEkquniNkPV6DWzr0IJN22NSGzFJji48IevMm8oSKICbE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Scrufizzer",
       "url": "https://en.wikipedia.org/wiki/Scrufizzer",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:Shift K3y",
+      "type": "wikipedia",
+      "label": "Shift K3y",
+      "url": "https://en.wikipedia.org/wiki/Shift_K3y",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC7u88nvWn2TfoGq2QBNXB7w",
   "title": "CFL",
   "thumb": "https://yt3.ggpht.com/rfPWg4nrzb6Zm81iKqoGMV-NXL1BaEqmPucVjldC6a9Bbk7b8rBUtbZnnQBQ9GxkUlH6dj08dQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.67,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "2007 Calgary Stampeders season",
       "url": "https://en.wikipedia.org/wiki/2007_Calgary_Stampeders_season",
       "firstSeenAt": "2026-11-03T14:08:01.517Z"
+    },
+    {
+      "id": "wiki:Bashir Levingston",
+      "type": "wikipedia",
+      "label": "Bashir Levingston",
+      "url": "https://en.wikipedia.org/wiki/Bashir_Levingston",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

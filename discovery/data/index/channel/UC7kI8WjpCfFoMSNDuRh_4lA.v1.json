@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC7kI8WjpCfFoMSNDuRh_4lA",
   "title": "Pitchfork",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mkvaS3IB3M03HsGC2kQBx0BxA_vg2X0s86udkvv83DHgk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.46,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Spooky Action at a Distance",
       "url": "https://en.wikipedia.org/wiki/Spooky_Action_at_a_Distance",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:Beau Sorenson",
+      "type": "wikipedia",
+      "label": "Beau Sorenson",
+      "url": "https://en.wikipedia.org/wiki/Beau_Sorenson",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:It's Only Life",
+      "type": "wikipedia",
+      "label": "It's Only Life",
+      "url": "https://en.wikipedia.org/wiki/It's_Only_Life",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

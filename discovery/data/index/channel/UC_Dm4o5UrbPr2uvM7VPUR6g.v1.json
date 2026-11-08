@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC_Dm4o5UrbPr2uvM7VPUR6g",
   "title": "4Minute 포미닛(Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lnJ9_THPylTRRgEWoMP31aix-BRY4Dpkp6coPR0YxXOj8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "G.NA 지나 (Official YouTube Channel)",
       "url": "https://www.youtube.com/channel/UCKAAKPx4BLiwmQwC0DJ2x1w",
       "firstSeenAt": "2026-10-11T12:45:50.418Z"
+    },
+    {
+      "id": "wiki:4Minute World",
+      "type": "wikipedia",
+      "label": "4Minute World",
+      "url": "https://en.wikipedia.org/wiki/4Minute_World",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

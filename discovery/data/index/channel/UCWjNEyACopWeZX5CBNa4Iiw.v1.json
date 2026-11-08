@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCWjNEyACopWeZX5CBNa4Iiw",
   "title": "TheMarches09",
   "thumb": "https://yt3.ggpht.com/6c7J6l1ObcC3bJnWGET-BIctJJEr_EBe6-cYH3IlA59_Tuer4xU6-kNAFNVqeZm4g6Eaepzbrg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The War Is Over (Phil Ochs song)",
       "url": "https://en.wikipedia.org/wiki/The_War_Is_Over_(Phil_Ochs_song)",
       "firstSeenAt": "2026-11-05T14:35:34.047Z"
+    },
+    {
+      "id": "wiki:Lied von der blauen Fahne",
+      "type": "wikipedia",
+      "label": "Lied von der blauen Fahne",
+      "url": "https://en.wikipedia.org/wiki/Lied_von_der_blauen_Fahne",
+      "firstSeenAt": "2026-11-08T13:19:11.789Z"
     }
   ],
   "recentItems": []

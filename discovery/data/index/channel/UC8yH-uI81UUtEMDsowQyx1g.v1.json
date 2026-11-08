@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC8yH-uI81UUtEMDsowQyx1g",
   "title": "SABC News",
   "thumb": "https://yt3.ggpht.com/kt7KGuaHi5CanLpbqBYAPjEPniZvUeg1DbmJFavd1H4OqmOVXZNogo3Qn9FPkiALMlp9EsGlP50=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 53.46,
   "sources": [
@@ -106,6 +106,20 @@
       "label": "List of dignitaries at the memorial service of Nelson Mandela",
       "url": "https://en.wikipedia.org/wiki/List_of_dignitaries_at_the_memorial_service_of_Nelson_Mandela",
       "firstSeenAt": "2026-10-31T12:22:02.269Z"
+    },
+    {
+      "id": "wiki:Judy Croome",
+      "type": "wikipedia",
+      "label": "Judy Croome",
+      "url": "https://en.wikipedia.org/wiki/Judy_Croome",
+      "firstSeenAt": "2026-11-08T13:19:06.561Z"
+    },
+    {
+      "id": "wiki:InkuluFreeHeid",
+      "type": "wikipedia",
+      "label": "InkuluFreeHeid",
+      "url": "https://en.wikipedia.org/wiki/InkuluFreeHeid",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
     }
   ],
   "recentItems": []

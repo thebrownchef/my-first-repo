@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCzBQv4E25jcUgO8cWkLsNAw",
   "title": "SBTV: Music",
   "thumb": "https://yt3.ggpht.com/5t5fHno3gffXLYNgub2sjkUW-zSsOWtWV_MlRlXq1P_icN2QlnQRJRWLMnRvIO2oVgMNIQxN-A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.65,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Lover Not a Fighter",
       "url": "https://en.wikipedia.org/wiki/Lover_Not_a_Fighter",
       "firstSeenAt": "2026-11-01T13:17:27.897Z"
+    },
+    {
+      "id": "wiki:Shift K3y",
+      "type": "wikipedia",
+      "label": "Shift K3y",
+      "url": "https://en.wikipedia.org/wiki/Shift_K3y",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

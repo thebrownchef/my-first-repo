@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCRpjHHu8ivVWs73uxHlWwFA",
   "title": "Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/Nbk9FOWmzYz-1eYlnqhnR1qT0ULJ2iQ0L4IR1eLx7silv-qETBsh_LjpUgnG0WvV6fZypNzCfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 1.2,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Not Alone (Aram Mp3 song)",
       "url": "https://en.wikipedia.org/wiki/Not_Alone_(Aram_Mp3_song)",
       "firstSeenAt": "2026-11-06T14:13:06.884Z"
+    },
+    {
+      "id": "wiki:Rise Like a Phoenix",
+      "type": "wikipedia",
+      "label": "Rise Like a Phoenix",
+      "url": "https://en.wikipedia.org/wiki/Rise_Like_a_Phoenix",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
     }
   ],
   "recentItems": []

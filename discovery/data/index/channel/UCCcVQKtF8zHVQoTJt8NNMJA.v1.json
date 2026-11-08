@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 67,
-  "distinctSourceCount": 67,
+  "score": 69,
+  "distinctSourceCount": 69,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -477,6 +477,20 @@
       "label": "While You Were Sleeping (The Vampire Diaries)",
       "url": "https://en.wikipedia.org/wiki/While_You_Were_Sleeping_(The_Vampire_Diaries)",
       "firstSeenAt": "2026-11-07T12:56:30.837Z"
+    },
+    {
+      "id": "wiki:Rescue Me (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Rescue Me (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Rescue_Me_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Resident Evil (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Resident Evil (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": [

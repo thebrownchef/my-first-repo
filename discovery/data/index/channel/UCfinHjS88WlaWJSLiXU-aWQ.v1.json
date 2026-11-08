@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCfinHjS88WlaWJSLiXU-aWQ",
   "title": "Imagination Strikes",
   "thumb": "https://yt3.ggpht.com/iNieiOGhu_17ecDa1EbLoTR3bTr2CvBV4pG2oiafWCrkuh_jHv3vXVLQuKYZsryPzdKaMB8G=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "Butterfly Bomb",
       "url": "https://en.wikipedia.org/wiki/Butterfly_Bomb",
       "firstSeenAt": "2026-10-03T11:38:21.434Z"
+    },
+    {
+      "id": "wiki:Robert W. H. Everett",
+      "type": "wikipedia",
+      "label": "Robert W. H. Everett",
+      "url": "https://en.wikipedia.org/wiki/Robert_W._H._Everett",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Francesco de Pinedo",
+      "type": "wikipedia",
+      "label": "Francesco de Pinedo",
+      "url": "https://en.wikipedia.org/wiki/Francesco_de_Pinedo",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:C. W. A. Scott",
+      "type": "wikipedia",
+      "label": "C. W. A. Scott",
+      "url": "https://en.wikipedia.org/wiki/C._W._A._Scott",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

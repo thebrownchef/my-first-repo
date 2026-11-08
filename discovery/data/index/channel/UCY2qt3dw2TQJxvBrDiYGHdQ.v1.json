@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCY2qt3dw2TQJxvBrDiYGHdQ",
   "title": "Pink Floyd",
   "thumb": "https://yt3.ggpht.com/d1WHa0eSwgk_ejjeH6E9Oyvwa7aBVZvXvfvl7vcb1btQDJPPOfvbWYXj8nxOZpUQjEAh_HH8vcg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Dr Feelgood",
       "url": "https://www.youtube.com/channel/UC0O7wgGjY2BH3pBN3999ang",
       "firstSeenAt": "2026-11-07T12:57:07.855Z"
+    },
+    {
+      "id": "channel:UCbqrKju8z6lKQqxvELtB1kw",
+      "type": "channel",
+      "label": "Rock Aid Armenia",
+      "url": "https://www.youtube.com/channel/UCbqrKju8z6lKQqxvELtB1kw",
+      "firstSeenAt": "2026-11-08T13:19:21.473Z"
     }
   ],
   "recentItems": []

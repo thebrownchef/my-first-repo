@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCvkLNfhb7epdeCsv2YM7Rog",
   "title": "PixieLottVEVO",
   "thumb": "https://yt3.ggpht.com/nejWDRbQR_DNom1ePoS7Jp4DMDbeoYZVxzGmbv9ow6kdUpR0TvfhCuppcT9HNQAV8WzFXKjm=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Cherlloydvevo",
       "url": "https://www.youtube.com/channel/UCR72FMPr2lMA2mZNOWXUpwg",
       "firstSeenAt": "2026-10-19T13:08:42.546Z"
+    },
+    {
+      "id": "wiki:All About Tonight (Pixie Lott song)",
+      "type": "wikipedia",
+      "label": "All About Tonight (Pixie Lott song)",
+      "url": "https://en.wikipedia.org/wiki/All_About_Tonight_(Pixie_Lott_song)",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

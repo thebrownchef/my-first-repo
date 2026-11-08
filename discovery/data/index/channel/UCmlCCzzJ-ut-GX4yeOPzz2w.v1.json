@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCmlCCzzJ-ut-GX4yeOPzz2w",
   "title": "Sporting History",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l1ZxN3Mj1BLEc-Afpi8FwpPLf10xcbCAzLYqgxWEQq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "War Archives",
       "url": "https://www.youtube.com/channel/UCI72xhrMevUl_-GWHTeWuUQ",
       "firstSeenAt": "2026-09-18T11:11:03.413Z"
+    },
+    {
+      "id": "wiki:Louis Chevrolet",
+      "type": "wikipedia",
+      "label": "Louis Chevrolet",
+      "url": "https://en.wikipedia.org/wiki/Louis_Chevrolet",
+      "firstSeenAt": "2026-11-08T13:19:06.561Z"
     }
   ],
   "recentItems": []

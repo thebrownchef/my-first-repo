@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC3OukL5Y-8pitUEexBrTyHw",
   "title": "truecrypt",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kPdJkcMhkJ4OPbckKSN_Pz5x5APcG8oNKGDVEPErxt=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Piano Sonata (Stravinsky)",
       "url": "https://en.wikipedia.org/wiki/Piano_Sonata_(Stravinsky)",
       "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Raoul Pugno",
+      "type": "wikipedia",
+      "label": "Raoul Pugno",
+      "url": "https://en.wikipedia.org/wiki/Raoul_Pugno",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

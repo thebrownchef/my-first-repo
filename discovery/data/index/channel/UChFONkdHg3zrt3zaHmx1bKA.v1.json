@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UChFONkdHg3zrt3zaHmx1bKA",
   "title": "Deep Purple Official",
   "thumb": "https://yt3.ggpht.com/6kQPibcF0SqxDqblyjoE1zzSm9Kutqcol4GsIoyiN_lqcalqNlFTvGUeJgAIoaDXEWKeaQkKuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "earMUSIC",
       "url": "https://www.youtube.com/channel/UCzKNn1SxrLobzWemQ9HItNA",
       "firstSeenAt": "2026-10-14T11:48:31.044Z"
+    },
+    {
+      "id": "channel:UCbqrKju8z6lKQqxvELtB1kw",
+      "type": "channel",
+      "label": "Rock Aid Armenia",
+      "url": "https://www.youtube.com/channel/UCbqrKju8z6lKQqxvELtB1kw",
+      "firstSeenAt": "2026-11-08T13:19:21.472Z"
     }
   ],
   "recentItems": []

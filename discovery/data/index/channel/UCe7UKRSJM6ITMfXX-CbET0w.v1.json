@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCe7UKRSJM6ITMfXX-CbET0w",
   "title": "Everest Marathi",
   "thumb": "https://yt3.ggpht.com/1gCbvUErW-7YMZtyX0yV_qxriDYA27gJiIV5Bmqf8HV8s7zfCbIScMy0A0bY13eQevYQWZ24Uw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -85,6 +85,34 @@
       "label": "MHJComedy",
       "url": "https://www.youtube.com/channel/UCJ90dXv8kmkHzbrTb9pc13Q",
       "firstSeenAt": "2026-09-18T11:11:14.049Z"
+    },
+    {
+      "id": "wiki:Ek Daav Bhatacha",
+      "type": "wikipedia",
+      "label": "Ek Daav Bhatacha",
+      "url": "https://en.wikipedia.org/wiki/Ek_Daav_Bhatacha",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Shyamchi Mummy",
+      "type": "wikipedia",
+      "label": "Shyamchi Mummy",
+      "url": "https://en.wikipedia.org/wiki/Shyamchi_Mummy",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Jadoo Teri Nazar",
+      "type": "wikipedia",
+      "label": "Jadoo Teri Nazar",
+      "url": "https://en.wikipedia.org/wiki/Jadoo_Teri_Nazar",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Char Divas Premache",
+      "type": "wikipedia",
+      "label": "Char Divas Premache",
+      "url": "https://en.wikipedia.org/wiki/Char_Divas_Premache",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

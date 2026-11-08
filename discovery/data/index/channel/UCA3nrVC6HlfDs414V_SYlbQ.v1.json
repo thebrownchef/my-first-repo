@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCA3nrVC6HlfDs414V_SYlbQ",
   "title": "BastilleVEVO",
   "thumb": "https://yt3.ggpht.com/hDgU3xkOgZ0dCNiNqxGM2r11ftaFICmgZgczq5k-3P5t61-rGV0mqF4INO66cRz1Lor1HZEa2g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Flaws (song)",
       "url": "https://en.wikipedia.org/wiki/Flaws_(song)",
       "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Bad Blood (Bastille album)",
+      "type": "wikipedia",
+      "label": "Bad Blood (Bastille album)",
+      "url": "https://en.wikipedia.org/wiki/Bad_Blood_(Bastille_album)",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

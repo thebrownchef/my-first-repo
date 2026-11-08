@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCrDkAvwZum-UTjHmzDI2iIw",
   "title": "officialpsy",
   "thumb": "https://yt3.ggpht.com/kJ8zwS_VhJ0TE-XDumnshGQ86hazfhHjjU4xn80Dc8xmSghA_2xw4OJTHaGreyeoro6q_vcT=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Right Now (Psy song)",
       "url": "https://en.wikipedia.org/wiki/Right_Now_(Psy_song)",
       "firstSeenAt": "2026-10-26T12:56:39.133Z"
+    },
+    {
+      "id": "wiki:Gentleman (Psy song)",
+      "type": "wikipedia",
+      "label": "Gentleman (Psy song)",
+      "url": "https://en.wikipedia.org/wiki/Gentleman_(Psy_song)",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

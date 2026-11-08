@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCI72xhrMevUl_-GWHTeWuUQ",
   "title": "War Archives",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nWZ0zNCsHbRD-vUrziAmRuEYnsBtI3D3n5ZKeHvyxBpg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sporting History",
       "url": "https://www.youtube.com/channel/UCmlCCzzJ-ut-GX4yeOPzz2w",
       "firstSeenAt": "2026-09-18T11:11:03.347Z"
+    },
+    {
+      "id": "wiki:Mavis Tate",
+      "type": "wikipedia",
+      "label": "Mavis Tate",
+      "url": "https://en.wikipedia.org/wiki/Mavis_Tate",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

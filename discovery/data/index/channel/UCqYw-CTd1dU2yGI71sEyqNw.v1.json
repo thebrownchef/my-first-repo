@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "id": "UCqYw-CTd1dU2yGI71sEyqNw",
+  "title": "GMA News",
+  "thumb": "https://yt3.ggpht.com/Gwe8ZHt5B2ZxijlgvtnALf1BPpzJQg8bK-IyB1iwe_OZEHy8Hwh0Q-FrRM5G46S132a451g3Cw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 68.62,
+  "sources": [
+    {
+      "id": "channel:UCIAiJBMLnuqgy-00_lOXBrQ",
+      "type": "channel",
+      "label": "StarStruck",
+      "url": "https://www.youtube.com/channel/UCIAiJBMLnuqgy-00_lOXBrQ",
+      "firstSeenAt": "2026-09-07T12:28:21.401Z"
+    },
+    {
+      "id": "wiki:Edwin Cordevilla",
+      "type": "wikipedia",
+      "label": "Edwin Cordevilla",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Cordevilla",
+      "firstSeenAt": "2026-11-08T13:19:06.563Z"
+    }
+  ],
+  "recentItems": []
+}

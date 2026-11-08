@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCIQ2FSpPzbvGRxJyvL2RC9w",
   "title": "gramophoneshane",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m3V798lcmF9pGjVChEE3k5sD-k0QBwOqzE25zKsbc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Your King and Country Need You (Trevor)",
       "url": "https://en.wikipedia.org/wiki/Your_King_and_Country_Need_You_(Trevor)",
       "firstSeenAt": "2026-11-06T14:13:12.147Z"
+    },
+    {
+      "id": "wiki:Carrie Jacobs-Bond",
+      "type": "wikipedia",
+      "label": "Carrie Jacobs-Bond",
+      "url": "https://en.wikipedia.org/wiki/Carrie_Jacobs-Bond",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:Evan Williams (tenor)",
+      "type": "wikipedia",
+      "label": "Evan Williams (tenor)",
+      "url": "https://en.wikipedia.org/wiki/Evan_Williams_(tenor)",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCQi67q4kGdmnJaRzX81uK5g",
   "title": "YG ENTERTAINMENT",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncnsFrs9NNi0n9retd_cyfFkZO0ICOOQ_q1f7lG1wFSlo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Try to Follow Me",
       "url": "https://en.wikipedia.org/wiki/Try_to_Follow_Me",
       "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Play (AKMU album)",
+      "type": "wikipedia",
+      "label": "Play (AKMU album)",
+      "url": "https://en.wikipedia.org/wiki/Play_(AKMU_album)",
+      "firstSeenAt": "2026-11-08T13:19:06.563Z"
     }
   ],
   "recentItems": []

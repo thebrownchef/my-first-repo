@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "id": "UCs1Bww9dxijSMTH9YTDiwUQ",
+  "title": "gmmix",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_ks3cI-W5Qqqco5CmxFOrfhR04VcE6vyi2ab6gXuE64ZA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 2,
+  "uploadsPerDay": 0.02,
+  "sources": [
+    {
+      "id": "channel:UC1mq_i_nl4G6r1YbfjcYS4Q",
+      "type": "channel",
+      "label": "CurzonRoad",
+      "url": "https://www.youtube.com/channel/UC1mq_i_nl4G6r1YbfjcYS4Q",
+      "firstSeenAt": "2026-09-27T11:59:23.100Z"
+    },
+    {
+      "id": "wiki:Antonio Paoli",
+      "type": "wikipedia",
+      "label": "Antonio Paoli",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Paoli",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Ellen Beach Yaw",
+      "type": "wikipedia",
+      "label": "Ellen Beach Yaw",
+      "url": "https://en.wikipedia.org/wiki/Ellen_Beach_Yaw",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    }
+  ],
+  "recentItems": []
+}

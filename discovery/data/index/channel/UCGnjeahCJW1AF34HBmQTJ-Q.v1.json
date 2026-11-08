@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCGnjeahCJW1AF34HBmQTJ-Q",
   "title": "shakiraVEVO",
   "thumb": "https://yt3.ggpht.com/FhrbXrCCkXlRFrTlJR6uZMzZO0PvnUoQdqK2b920BF6IjDsScsYwixMcLQHtwDy-CnWAWB0yiD4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Hips Don't Lie",
       "url": "https://en.wikipedia.org/wiki/Hips_Don't_Lie",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Empire (Shakira song)",
+      "type": "wikipedia",
+      "label": "Empire (Shakira song)",
+      "url": "https://en.wikipedia.org/wiki/Empire_(Shakira_song)",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
     }
   ],
   "recentItems": []

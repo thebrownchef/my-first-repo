@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UChPE75Fvvl1HmdAsO7Nzb8w",
   "title": "What's My Line?",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k74HINakk7qcURdIhAkKEvzEV9wqTWEfZpPJTNZPMnCA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Albert Hall (athlete)",
       "url": "https://en.wikipedia.org/wiki/Albert_Hall_(athlete)",
       "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:Penny Pitou",
+      "type": "wikipedia",
+      "label": "Penny Pitou",
+      "url": "https://en.wikipedia.org/wiki/Penny_Pitou",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
     }
   ],
   "recentItems": []

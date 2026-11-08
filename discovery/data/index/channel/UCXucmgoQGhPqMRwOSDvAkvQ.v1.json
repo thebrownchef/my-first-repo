@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "id": "UCXucmgoQGhPqMRwOSDvAkvQ",
+  "title": "OurHitParade",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lzImiMhjbogPuQx-nJBDtTxSgpP1EKlweCg7U5SO4=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "wiki:Dance Gang",
+      "type": "wikipedia",
+      "label": "Dance Gang",
+      "url": "https://en.wikipedia.org/wiki/Dance_Gang",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Will Rawls",
+      "type": "wikipedia",
+      "label": "Will Rawls",
+      "url": "https://en.wikipedia.org/wiki/Will_Rawls",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCgpTWdyscapDPzzx8o5QuoA",
   "title": "Ballins Dampfer Welt",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ksQLmEjXBQJBNalQxKyPS8l29Xe2y0Ql3-GBJ0pcQ5gUI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "RMS Carmania (1905)",
       "url": "https://en.wikipedia.org/wiki/RMS_Carmania_(1905)",
       "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:SS Saint Paul (1895)",
+      "type": "wikipedia",
+      "label": "SS Saint Paul (1895)",
+      "url": "https://en.wikipedia.org/wiki/SS_Saint_Paul_(1895)",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
     }
   ],
   "recentItems": []

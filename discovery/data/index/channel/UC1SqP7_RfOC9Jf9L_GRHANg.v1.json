@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC1SqP7_RfOC9Jf9L_GRHANg",
   "title": "AviciiOfficialVEVO",
   "thumb": "https://yt3.ggpht.com/PbuhJdUw_rYQoCB_ROfXAsX-k9tDtThMIQ9L2jMJAhBLG-vwm1lPC_hu7l3gKD-tjOXc1GM-pw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "You Make Me",
       "url": "https://en.wikipedia.org/wiki/You_Make_Me",
       "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Hey Brother",
+      "type": "wikipedia",
+      "label": "Hey Brother",
+      "url": "https://en.wikipedia.org/wiki/Hey_Brother",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

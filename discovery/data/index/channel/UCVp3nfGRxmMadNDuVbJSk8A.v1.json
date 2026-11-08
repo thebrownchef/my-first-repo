@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCVp3nfGRxmMadNDuVbJSk8A",
   "title": "Wiz Khalifa",
   "thumb": "https://yt3.ggpht.com/LZwX8hX3grUXHDAbNxoMmsCqHUUAmfhKRbAJQbIcuHxdZ6SHVa7rKxZe9nDTVGCl8vxzj5zWkw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Black and Yellow",
       "url": "https://en.wikipedia.org/wiki/Black_and_Yellow",
       "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:We Dem Boyz",
+      "type": "wikipedia",
+      "label": "We Dem Boyz",
+      "url": "https://en.wikipedia.org/wiki/We_Dem_Boyz",
+      "firstSeenAt": "2026-11-08T13:19:11.789Z"
     }
   ],
   "recentItems": []

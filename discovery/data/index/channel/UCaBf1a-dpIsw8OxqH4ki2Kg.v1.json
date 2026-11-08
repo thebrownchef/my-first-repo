@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCaBf1a-dpIsw8OxqH4ki2Kg",
   "title": "Geek & Sundry",
   "thumb": "https://yt3.ggpht.com/zi7GbYQvBWcaaIZSBtY7ns4KHXz-Twukt8q9kMkFWGJJAcbSiG0f6LuWKFnSFPF3IJHO_oES=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "ESSNEMMA",
       "url": "https://www.youtube.com/channel/UC_oeX2dY8-1KrgfYN7VYRAw",
       "firstSeenAt": "2026-11-07T12:56:56.735Z"
+    },
+    {
+      "id": "wiki:TableTop",
+      "type": "wikipedia",
+      "label": "TableTop",
+      "url": "https://en.wikipedia.org/wiki/TableTop",
+      "firstSeenAt": "2026-11-08T13:19:11.789Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC1mq_i_nl4G6r1YbfjcYS4Q",
   "title": "CurzonRoad",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k3JiHKyimEvG71EBRwDZHFrhkuo0e4BnTcKIH27eGUxyo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -29,6 +29,34 @@
       "label": "Lina Cavalieri",
       "url": "https://en.wikipedia.org/wiki/Lina_Cavalieri",
       "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:DeWolf Hopper",
+      "type": "wikipedia",
+      "label": "DeWolf Hopper",
+      "url": "https://en.wikipedia.org/wiki/DeWolf_Hopper",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:George Grossmith Jr.",
+      "type": "wikipedia",
+      "label": "George Grossmith Jr.",
+      "url": "https://en.wikipedia.org/wiki/George_Grossmith_Jr.",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Ellen Beach Yaw",
+      "type": "wikipedia",
+      "label": "Ellen Beach Yaw",
+      "url": "https://en.wikipedia.org/wiki/Ellen_Beach_Yaw",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Gervase Elwes",
+      "type": "wikipedia",
+      "label": "Gervase Elwes",
+      "url": "https://en.wikipedia.org/wiki/Gervase_Elwes",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCd67RarDaTRSpcZFW7O5fnQ",
   "title": "K A R O L A",
   "thumb": "https://yt3.ggpht.com/bB5H0C7GDNvVIR_KlVbiTrj1CwzjY0QIpbSFoRnO4_Vtyg84OOURSiEJrUHsdpdSlVaB0buaEw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Silverbirch4444",
       "url": "https://www.youtube.com/channel/UCFVHXK93P-LmzpLkhpwDgpA",
       "firstSeenAt": "2026-10-01T13:10:08.602Z"
+    },
+    {
+      "id": "wiki:Charles Joshua Chaplin",
+      "type": "wikipedia",
+      "label": "Charles Joshua Chaplin",
+      "url": "https://en.wikipedia.org/wiki/Charles_Joshua_Chaplin",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

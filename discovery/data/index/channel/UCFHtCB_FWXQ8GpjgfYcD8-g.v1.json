@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCFHtCB_FWXQ8GpjgfYcD8-g",
   "title": "Passenger",
   "thumb": "https://yt3.ggpht.com/9_2RRfTEdh-MW2xFshYtz1QFAETQQO7Wk0qRRgmvtzGMqTPxMwWAeE1W4mO9MVwqXJEU7ZyL=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Passenger (singer)",
       "url": "https://en.wikipedia.org/wiki/Passenger_(singer)",
       "firstSeenAt": "2026-11-07T12:56:28.732Z"
+    },
+    {
+      "id": "wiki:Heart's on Fire (Passenger song)",
+      "type": "wikipedia",
+      "label": "Heart's on Fire (Passenger song)",
+      "url": "https://en.wikipedia.org/wiki/Heart's_on_Fire_(Passenger_song)",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
     }
   ],
   "recentItems": []

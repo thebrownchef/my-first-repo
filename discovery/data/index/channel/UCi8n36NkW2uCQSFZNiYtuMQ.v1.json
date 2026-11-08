@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCi8n36NkW2uCQSFZNiYtuMQ",
   "title": "Paralympic Games",
   "thumb": "https://yt3.ggpht.com/rde27VRRp6j9xJ9NHAm11W4Fj7g5rWkxTFGubm-fC2zog9qz1NbkKZ3g_zqV3Yz6oa2FhYOu7wY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 3.55,
   "sources": [
@@ -50,6 +50,34 @@
       "label": "London 2012",
       "url": "https://www.youtube.com/channel/UC963TWXoZB0FI2pbtEY4J_Q",
       "firstSeenAt": "2026-11-03T14:08:19.725Z"
+    },
+    {
+      "id": "wiki:Christian Geiger",
+      "type": "wikipedia",
+      "label": "Christian Geiger",
+      "url": "https://en.wikipedia.org/wiki/Christian_Geiger",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:Victoria Pendergast",
+      "type": "wikipedia",
+      "label": "Victoria Pendergast",
+      "url": "https://en.wikipedia.org/wiki/Victoria_Pendergast",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:Australia women's national wheelchair basketball team at the 2012 Summer Paralympics",
+      "type": "wikipedia",
+      "label": "Australia women's national wheelchair basketball team at the 2012 Summer Paralympics",
+      "url": "https://en.wikipedia.org/wiki/Australia_women's_national_wheelchair_basketball_team_at_the_2012_Summer_Paralympics",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:Lee Whiteley",
+      "type": "wikipedia",
+      "label": "Lee Whiteley",
+      "url": "https://en.wikipedia.org/wiki/Lee_Whiteley",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

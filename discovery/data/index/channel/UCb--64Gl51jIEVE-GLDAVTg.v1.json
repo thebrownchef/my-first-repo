@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCb--64Gl51jIEVE-GLDAVTg",
   "title": "C-SPAN",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 2.13,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Question time",
       "url": "https://en.wikipedia.org/wiki/Question_time",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Henry Shrady",
+      "type": "wikipedia",
+      "label": "Henry Shrady",
+      "url": "https://en.wikipedia.org/wiki/Henry_Shrady",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

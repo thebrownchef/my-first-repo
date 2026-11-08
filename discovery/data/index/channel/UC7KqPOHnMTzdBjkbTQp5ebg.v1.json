@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC7KqPOHnMTzdBjkbTQp5ebg",
   "title": "JohnNewmanVEVO",
   "thumb": "https://yt3.ggpht.com/3ZLNRdGvWs9oKVIrq26fOHN-kpkYeohU2nUs4E9CBRaIZYMVDM-hyrVhzPk8Ugr8zr7Nf8GaEg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Losing Sleep (John Newman song)",
       "url": "https://en.wikipedia.org/wiki/Losing_Sleep_(John_Newman_song)",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Out of My Head (John Newman song)",
+      "type": "wikipedia",
+      "label": "Out of My Head (John Newman song)",
+      "url": "https://en.wikipedia.org/wiki/Out_of_My_Head_(John_Newman_song)",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
     }
   ],
   "recentItems": []

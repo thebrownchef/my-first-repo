@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UClyDDqcDsXp3KQ7J5gyIMuQ",
   "title": "AIRBOYD",
   "thumb": "https://yt3.ggpht.com/a3BfmLHu-vmtZ0sLSGR_voAN50VfgxzjtFRe4FkX2Ce-I4g9AeE_88j1Yr8MGj3ioQhEamVA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.86,
   "sources": [
@@ -71,6 +71,20 @@
       "label": "Mike Rutzen",
       "url": "https://en.wikipedia.org/wiki/Mike_Rutzen",
       "firstSeenAt": "2026-10-04T12:18:31.743Z"
+    },
+    {
+      "id": "wiki:Kenneth Whiting",
+      "type": "wikipedia",
+      "label": "Kenneth Whiting",
+      "url": "https://en.wikipedia.org/wiki/Kenneth_Whiting",
+      "firstSeenAt": "2026-11-08T13:19:06.561Z"
+    },
+    {
+      "id": "wiki:Harry J. Brooks",
+      "type": "wikipedia",
+      "label": "Harry J. Brooks",
+      "url": "https://en.wikipedia.org/wiki/Harry_J._Brooks",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
     }
   ],
   "recentItems": []

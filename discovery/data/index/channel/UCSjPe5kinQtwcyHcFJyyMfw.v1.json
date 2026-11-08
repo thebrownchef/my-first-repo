@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "id": "UCSjPe5kinQtwcyHcFJyyMfw",
+  "title": "Doordarshan National",
+  "thumb": "https://yt3.ggpht.com/vTanNfm4NGP8GesWbJhvw_hpBlc9qQnaITpGjlU4ODUldwoV-p-L2hOWL0aN5whB_1AIGiocLA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 8.59,
+  "sources": [
+    {
+      "id": "wiki:DD National",
+      "type": "wikipedia",
+      "label": "DD National",
+      "url": "https://en.wikipedia.org/wiki/DD_National",
+      "firstSeenAt": "2026-09-18T11:11:01.529Z"
+    },
+    {
+      "id": "channel:UCJyP-OtuzlRV-r-3vR9qQTg",
+      "type": "channel",
+      "label": "Indian Diplomacy",
+      "url": "https://www.youtube.com/channel/UCJyP-OtuzlRV-r-3vR9qQTg",
+      "firstSeenAt": "2026-11-08T13:19:32.249Z"
+    }
+  ],
+  "recentItems": []
+}

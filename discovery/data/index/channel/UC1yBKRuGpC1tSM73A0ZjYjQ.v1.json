@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
   "title": "The Young Turks",
   "thumb": "https://yt3.ggpht.com/GaZdiTH19-g6JFMUkh2UzeulwgtnSiz-4fRbgrEW2tSFzFUUyTFFNrPChP5Ens5v5f-JpTybAg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 9.7,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Contents of the United States diplomatic cables leak",
       "url": "https://en.wikipedia.org/wiki/Contents_of_the_United_States_diplomatic_cables_leak",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Wolf-PAC",
+      "type": "wikipedia",
+      "label": "Wolf-PAC",
+      "url": "https://en.wikipedia.org/wiki/Wolf-PAC",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
     }
   ],
   "recentItems": []

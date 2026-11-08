@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCfZVI8Kq2yuxNOO9tpvdmZg",
   "title": "240252",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kZk0McKv8o0e6o_w_KuizH42NznpEkExPIwqJXPLvObQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.55,
   "sources": [
@@ -57,6 +57,27 @@
       "label": "The Miracle (1912 film)",
       "url": "https://en.wikipedia.org/wiki/The_Miracle_(1912_film)",
       "firstSeenAt": "2026-11-07T12:56:30.838Z"
+    },
+    {
+      "id": "wiki:Emanuel Schlechter",
+      "type": "wikipedia",
+      "label": "Emanuel Schlechter",
+      "url": "https://en.wikipedia.org/wiki/Emanuel_Schlechter",
+      "firstSeenAt": "2026-11-08T13:19:06.561Z"
+    },
+    {
+      "id": "wiki:Szymon Kataszek",
+      "type": "wikipedia",
+      "label": "Szymon Kataszek",
+      "url": "https://en.wikipedia.org/wiki/Szymon_Kataszek",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Roger A. Graham",
+      "type": "wikipedia",
+      "label": "Roger A. Graham",
+      "url": "https://en.wikipedia.org/wiki/Roger_A._Graham",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
     }
   ],
   "recentItems": []

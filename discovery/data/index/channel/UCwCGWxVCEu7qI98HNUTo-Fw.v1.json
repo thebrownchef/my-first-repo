@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCwCGWxVCEu7qI98HNUTo-Fw",
   "title": "Wanda Kaluza",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kl9dZYGUOzMOygYvr4y75JEHxn239H8_vMiJEGFkE2dbPN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Gov. William H. Ross House",
       "url": "https://en.wikipedia.org/wiki/Gov._William_H._Ross_House",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Henry G. Morse",
+      "type": "wikipedia",
+      "label": "Henry G. Morse",
+      "url": "https://en.wikipedia.org/wiki/Henry_G._Morse",
+      "firstSeenAt": "2026-11-08T13:19:06.562Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UC3WA6hJjhjoiG9wU1K72Q9Q",
   "title": "SalivaVEVO",
   "thumb": "https://yt3.ggpht.com/ovkOekCac_bXVDKcRzzXYkNW0MuwGhIwJkGQTyEtLgxFa80RVmHtegnYuQuDA9Pbim9t5FRpfQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Click Click Boom",
       "url": "https://en.wikipedia.org/wiki/Click_Click_Boom",
       "firstSeenAt": "2026-10-04T12:18:41.501Z"
+    },
+    {
+      "id": "wiki:Rise Up (Saliva album)",
+      "type": "wikipedia",
+      "label": "Rise Up (Saliva album)",
+      "url": "https://en.wikipedia.org/wiki/Rise_Up_(Saliva_album)",
+      "firstSeenAt": "2026-11-08T13:19:09.248Z"
     }
   ],
   "recentItems": []

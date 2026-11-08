@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T12:58:24.921Z",
+  "generatedAt": "2026-11-08T13:20:26.107Z",
   "id": "UCBOmfqgTZi7yDp4-3Lr_3lA",
   "title": "Shemaroo Movies",
   "thumb": "https://yt3.ggpht.com/KVlNC_KbObRUn4n4h0q84p7ss4JY94H2jWXPj7kKBIuE-bpYus6JNDh6YtIWAK9F9tlu_Sh5lw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.69,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Anokhi Raat",
       "url": "https://en.wikipedia.org/wiki/Anokhi_Raat",
       "firstSeenAt": "2026-11-06T14:13:09.926Z"
+    },
+    {
+      "id": "channel:UCP2e1_4uW7h1eXCLyUueuJA",
+      "type": "channel",
+      "label": "padduramthemovie",
+      "url": "https://www.youtube.com/channel/UCP2e1_4uW7h1eXCLyUueuJA",
+      "firstSeenAt": "2026-11-08T13:19:29.674Z"
     }
   ],
   "recentItems": []
