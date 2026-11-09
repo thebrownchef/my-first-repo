@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCi8n36NkW2uCQSFZNiYtuMQ",
   "title": "Paralympic Games",
   "thumb": "https://yt3.ggpht.com/rde27VRRp6j9xJ9NHAm11W4Fj7g5rWkxTFGubm-fC2zog9qz1NbkKZ3g_zqV3Yz6oa2FhYOu7wY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 3.55,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Lee Whiteley",
       "url": "https://en.wikipedia.org/wiki/Lee_Whiteley",
       "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "channel:UCDsT9_tv5GpDECj8zbofLqQ",
+      "type": "channel",
+      "label": "Australian Paralympic Team",
+      "url": "https://www.youtube.com/channel/UCDsT9_tv5GpDECj8zbofLqQ",
+      "firstSeenAt": "2026-11-09T16:12:47.488Z"
     }
   ],
   "recentItems": []

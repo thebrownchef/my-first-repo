@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCt00Zq_pjil6mEkwbqRxV3g",
   "title": "Roger Griffith",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Barrmill, North Ayrshire",
       "url": "https://en.wikipedia.org/wiki/Barrmill%2C_North_Ayrshire",
       "firstSeenAt": "2026-10-30T12:50:10.992Z"
+    },
+    {
+      "id": "wiki:Lugton",
+      "type": "wikipedia",
+      "label": "Lugton",
+      "url": "https://en.wikipedia.org/wiki/Lugton",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Kennox House",
+      "type": "wikipedia",
+      "label": "Kennox House",
+      "url": "https://en.wikipedia.org/wiki/Kennox_House",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCca7CDkB4Id1a6HKzeni3Mw",
   "title": "wwwLaRomance",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_npR9PV_5lqI02j8tkSJKeeVcpV_lub_1Vxy4EtEkFx=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Maximilian Voloshin",
       "url": "https://en.wikipedia.org/wiki/Maximilian_Voloshin",
       "firstSeenAt": "2026-11-08T13:19:06.563Z"
+    },
+    {
+      "id": "wiki:Mirra Lokhvitskaya",
+      "type": "wikipedia",
+      "label": "Mirra Lokhvitskaya",
+      "url": "https://en.wikipedia.org/wiki/Mirra_Lokhvitskaya",
+      "firstSeenAt": "2026-11-09T16:12:20.261Z"
     }
   ],
   "recentItems": []

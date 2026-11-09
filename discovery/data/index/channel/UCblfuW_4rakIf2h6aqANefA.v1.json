@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCblfuW_4rakIf2h6aqANefA",
   "title": "Red Bull",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k94J7kkxpmlJe3c2iDFJpHk8SAADPpf49cN7XjomXSzEE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.97,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Danny MacAskill",
       "url": "https://en.wikipedia.org/wiki/Danny_MacAskill",
       "firstSeenAt": "2026-10-31T12:22:04.362Z"
+    },
+    {
+      "id": "channel:UC9oEzPGZiTE692KucAsTY1g",
+      "type": "channel",
+      "label": "Red Bull BC One",
+      "url": "https://www.youtube.com/channel/UC9oEzPGZiTE692KucAsTY1g",
+      "firstSeenAt": "2026-11-09T16:12:45.703Z"
     }
   ],
   "recentItems": []

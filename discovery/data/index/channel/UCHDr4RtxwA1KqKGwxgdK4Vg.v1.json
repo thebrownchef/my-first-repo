@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
   "title": "Computer History Museum",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -71,6 +71,20 @@
       "label": "ILLIAC IV",
       "url": "https://en.wikipedia.org/wiki/ILLIAC_IV",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:PlayStation Move",
+      "type": "wikipedia",
+      "label": "PlayStation Move",
+      "url": "https://en.wikipedia.org/wiki/PlayStation_Move",
+      "firstSeenAt": "2026-11-09T16:12:20.260Z"
+    },
+    {
+      "id": "wiki:Avatar (1979 video game)",
+      "type": "wikipedia",
+      "label": "Avatar (1979 video game)",
+      "url": "https://en.wikipedia.org/wiki/Avatar_(1979_video_game)",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCSrZ3UV4jOidv8ppoVuvW9Q",
   "title": "euronews",
   "thumb": "https://yt3.ggpht.com/8MyE7rxMBfLZOpYkJVJFm1C8I9jxbceBbOJS9OhrepZMVGxGV-OEJU-UdLOew_qR_l-knETWeu4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 16.26,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "December 2013 Volgograd bombings",
       "url": "https://en.wikipedia.org/wiki/December_2013_Volgograd_bombings",
       "firstSeenAt": "2026-10-31T12:22:04.363Z"
+    },
+    {
+      "id": "wiki:President of the European Commission",
+      "type": "wikipedia",
+      "label": "President of the European Commission",
+      "url": "https://en.wikipedia.org/wiki/President_of_the_European_Commission",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

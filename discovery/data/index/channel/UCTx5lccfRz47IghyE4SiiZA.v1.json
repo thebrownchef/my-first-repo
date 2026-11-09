@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCTx5lccfRz47IghyE4SiiZA",
   "title": "BC History",
   "thumb": "https://yt3.ggpht.com/o8ljxbNVeAYgiobkvs0KTn-OocEyCSC2ahAtarHPY1XWpdX3_FASwX-1obErEe7SY5lG3Q6ucQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 26,
-  "distinctSourceCount": 26,
+  "score": 27,
+  "distinctSourceCount": 27,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -190,6 +190,13 @@
       "label": "46th Grey Cup",
       "url": "https://en.wikipedia.org/wiki/46th_Grey_Cup",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:SR.N6",
+      "type": "wikipedia",
+      "label": "SR.N6",
+      "url": "https://en.wikipedia.org/wiki/SR.N6",
+      "firstSeenAt": "2026-11-09T16:12:22.803Z"
     }
   ],
   "recentItems": [

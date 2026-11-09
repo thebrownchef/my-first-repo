@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UC2xskkQVFEpLcGFnNSLQY0A",
   "title": "RihannaVEVO",
   "thumb": "https://yt3.ggpht.com/qMCGjRaKKRar82KzcIWdUoLbJ03aW2K2sEf-m4GaB7JwLshoHOZHvkxLRXsZVgpKvqCXVhKCWg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 21,
+  "distinctSourceCount": 21,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -148,6 +148,13 @@
       "label": "Stay (Rihanna song)",
       "url": "https://en.wikipedia.org/wiki/Stay_(Rihanna_song)",
       "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:California King Bed",
+      "type": "wikipedia",
+      "label": "California King Bed",
+      "url": "https://en.wikipedia.org/wiki/California_King_Bed",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": [

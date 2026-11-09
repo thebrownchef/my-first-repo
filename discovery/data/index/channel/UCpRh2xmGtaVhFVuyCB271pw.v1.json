@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCpRh2xmGtaVhFVuyCB271pw",
   "title": "Lantis Channel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lxG1tRUdHUYpp6N-spdaHoe7l8eN0_JSxVRoR7OowC7JM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.54,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Yasashii Bōkyaku",
       "url": "https://en.wikipedia.org/wiki/Yasashii_B%C5%8Dkyaku",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Masaaki Endoh",
+      "type": "wikipedia",
+      "label": "Masaaki Endoh",
+      "url": "https://en.wikipedia.org/wiki/Masaaki_Endoh",
+      "firstSeenAt": "2026-11-09T16:12:22.803Z"
     }
   ],
   "recentItems": []

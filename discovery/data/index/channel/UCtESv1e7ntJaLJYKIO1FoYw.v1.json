@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCtESv1e7ntJaLJYKIO1FoYw",
   "title": "Periodic Videos",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mVnp1Lc31B0TPILH30sz-eIQqX9ZML3ORtONYjcoNiQP4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Kenneth Wade",
       "url": "https://en.wikipedia.org/wiki/Kenneth_Wade",
       "firstSeenAt": "2026-11-08T13:19:06.563Z"
+    },
+    {
+      "id": "channel:UC_s-h6_OndKi-z4dm4Z_CiQ",
+      "type": "channel",
+      "label": "mycompasstv",
+      "url": "https://www.youtube.com/channel/UC_s-h6_OndKi-z4dm4Z_CiQ",
+      "firstSeenAt": "2026-11-09T16:12:39.235Z"
     }
   ],
   "recentItems": []

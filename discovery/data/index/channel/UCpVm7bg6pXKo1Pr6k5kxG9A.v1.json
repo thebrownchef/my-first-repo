@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
   "title": "National Geographic",
   "thumb": "https://yt3.ggpht.com/-FOFg8o1y4dAHDB2MvhORHnLMOaaOKnaNUNsrU-U57Eac6gjB5VO8sYJQC1KkULGQvKP2XpArA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 1.55,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Animal consciousness",
       "url": "https://en.wikipedia.org/wiki/Animal_consciousness",
       "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:Marcus Bleasdale",
+      "type": "wikipedia",
+      "label": "Marcus Bleasdale",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Bleasdale",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": []

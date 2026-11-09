@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCNcGYlaW0XIPn9TQ8ajJkSA",
   "title": "KTOWN Night Market",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ms5f4rCijelNnGj-PfHdXxP8fH6Cznqomah9iCPOsTlA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "EAT Show",
       "url": "https://www.youtube.com/channel/UCk09Lu_G_zdYjlmwK2b5E3A",
       "firstSeenAt": "2026-10-19T13:09:04.737Z"
+    },
+    {
+      "id": "wiki:IAMMEDIC",
+      "type": "wikipedia",
+      "label": "IAMMEDIC",
+      "url": "https://en.wikipedia.org/wiki/IAMMEDIC",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCoxcjq-8xIDTYp3uz647V5A",
   "title": "Numberphile",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nmbQSAGKk1OZCBBf_sPJqLoFfYOVDWRDzALocBjGQtHeI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -85,6 +85,27 @@
       "label": "Charles Joseph Minard",
       "url": "https://en.wikipedia.org/wiki/Charles_Joseph_Minard",
       "firstSeenAt": "2026-11-07T12:56:36.816Z"
+    },
+    {
+      "id": "wiki:Ricci flow",
+      "type": "wikipedia",
+      "label": "Ricci flow",
+      "url": "https://en.wikipedia.org/wiki/Ricci_flow",
+      "firstSeenAt": "2026-11-09T16:12:20.260Z"
+    },
+    {
+      "id": "wiki:Glider (Conway's Game of Life)",
+      "type": "wikipedia",
+      "label": "Glider (Conway's Game of Life)",
+      "url": "https://en.wikipedia.org/wiki/Glider_(Conway's_Game_of_Life)",
+      "firstSeenAt": "2026-11-09T16:12:25.574Z"
+    },
+    {
+      "id": "channel:UC_s-h6_OndKi-z4dm4Z_CiQ",
+      "type": "channel",
+      "label": "mycompasstv",
+      "url": "https://www.youtube.com/channel/UC_s-h6_OndKi-z4dm4Z_CiQ",
+      "firstSeenAt": "2026-11-09T16:12:39.235Z"
     }
   ],
   "recentItems": []

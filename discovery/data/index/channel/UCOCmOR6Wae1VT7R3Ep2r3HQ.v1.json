@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCOCmOR6Wae1VT7R3Ep2r3HQ",
   "title": "Roger York",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nvVxE8Y2SlQspPI4CRuwK-NSycYg3-ZiQUzw4l0lgovg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Celestina Boninsegna",
       "url": "https://en.wikipedia.org/wiki/Celestina_Boninsegna",
       "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Ethel Glenn Hier",
+      "type": "wikipedia",
+      "label": "Ethel Glenn Hier",
+      "url": "https://en.wikipedia.org/wiki/Ethel_Glenn_Hier",
+      "firstSeenAt": "2026-11-09T16:12:20.261Z"
     }
   ],
   "recentItems": []

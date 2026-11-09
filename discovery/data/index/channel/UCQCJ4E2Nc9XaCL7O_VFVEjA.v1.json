@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCQCJ4E2Nc9XaCL7O_VFVEjA",
   "title": "Lily Allen",
   "thumb": "https://yt3.ggpht.com/NBvoJmG1l0anOgpb6y_w9MkGTKxEGJbIiuhEh_lzHE__WQf5xiaNGQCe999yv6XTo9mQtJkD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Hard out Here (Lily Allen song)",
       "url": "https://en.wikipedia.org/wiki/Hard_out_Here_(Lily_Allen_song)",
       "firstSeenAt": "2026-11-08T13:19:11.789Z"
+    },
+    {
+      "id": "wiki:Sheezus (song)",
+      "type": "wikipedia",
+      "label": "Sheezus (song)",
+      "url": "https://en.wikipedia.org/wiki/Sheezus_(song)",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

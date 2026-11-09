@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCU8hEdjK8u27TM7KA8JVIEw",
   "title": "UsherVEVO",
   "thumb": "https://yt3.ggpht.com/QPlXRtzY8qQtePXQAZXvMlwSLdvxEA6yyY8iwnZ2EahjqUmypc_BOfbcFIduJ6sdWLrM2u4b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Dive (Usher song)",
       "url": "https://en.wikipedia.org/wiki/Dive_(Usher_song)",
       "firstSeenAt": "2026-10-17T10:39:49.194Z"
+    },
+    {
+      "id": "wiki:Good Kisser",
+      "type": "wikipedia",
+      "label": "Good Kisser",
+      "url": "https://en.wikipedia.org/wiki/Good_Kisser",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": []

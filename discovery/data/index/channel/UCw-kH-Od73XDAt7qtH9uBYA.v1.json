@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCw-kH-Od73XDAt7qtH9uBYA",
   "title": "World Economic Forum",
   "thumb": "https://yt3.ggpht.com/IZt6rJxlvGmTE1lxo9UNtYXzr_AaJ75YtTsVruXB8FKAPbg6SMJiaxZ3i5PKmB4LLWBGNKOUqw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.38,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Indovation",
       "url": "https://en.wikipedia.org/wiki/Indovation",
       "firstSeenAt": "2026-10-05T14:32:46.432Z"
+    },
+    {
+      "id": "wiki:Lionel Tarassenko",
+      "type": "wikipedia",
+      "label": "Lionel Tarassenko",
+      "url": "https://en.wikipedia.org/wiki/Lionel_Tarassenko",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": []

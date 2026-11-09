@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCfZVI8Kq2yuxNOO9tpvdmZg",
   "title": "240252",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kZk0McKv8o0e6o_w_KuizH42NznpEkExPIwqJXPLvObQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.55,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Roger A. Graham",
       "url": "https://en.wikipedia.org/wiki/Roger_A._Graham",
       "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Julian Tuwim",
+      "type": "wikipedia",
+      "label": "Julian Tuwim",
+      "url": "https://en.wikipedia.org/wiki/Julian_Tuwim",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": []

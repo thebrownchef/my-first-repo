@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCY7dD6waquGnKTZSumPMTlQ",
   "title": "OxfordUnion",
   "thumb": "https://yt3.ggpht.com/MUgRauweToYk5Q-6Ewv2RLIuUljlIQ1K45UmS9HqD-VKhSo-_l8oW4azfVfnyp44mGqcETz144c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.48,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ronaldo (Brazilian footballer)",
       "url": "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "wiki:Antony Worrall Thompson",
+      "type": "wikipedia",
+      "label": "Antony Worrall Thompson",
+      "url": "https://en.wikipedia.org/wiki/Antony_Worrall_Thompson",
+      "firstSeenAt": "2026-11-09T16:12:20.261Z"
     }
   ],
   "recentItems": []

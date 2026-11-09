@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCvy4XUrowYvliS5rpLSAMuw",
   "title": "stardustdigital",
   "thumb": "https://yt3.ggpht.com/i60pPadqeHoiDrKNFQ3b4P1jXiM1Jx1BOtHLN5op0idq0Ydi4Qr5-95scOpeo2w47h6mTIQUvw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Mirai Bowl / Chai Maxx",
       "url": "https://en.wikipedia.org/wiki/Mirai_Bowl_%2F_Chai_Maxx",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Stardust Promotion",
+      "type": "wikipedia",
+      "label": "Stardust Promotion",
+      "url": "https://en.wikipedia.org/wiki/Stardust_Promotion",
+      "firstSeenAt": "2026-11-09T16:12:23.770Z"
     }
   ],
   "recentItems": []

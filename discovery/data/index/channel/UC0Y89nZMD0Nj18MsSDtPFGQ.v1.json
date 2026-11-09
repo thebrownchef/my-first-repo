@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UC0Y89nZMD0Nj18MsSDtPFGQ",
   "title": "Jazz Video Guy",
   "thumb": "https://yt3.ggpht.com/t0x-L2Jeu80aIaE3doYsRy1Wawjvz4DS2hWZZ1WiqfQgeY4IqGRUJXQ27aB1VuBg9p5m0DZn=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Marcus Belgrave",
       "url": "https://en.wikipedia.org/wiki/Marcus_Belgrave",
       "firstSeenAt": "2026-11-06T14:13:06.882Z"
+    },
+    {
+      "id": "channel:UC_s-h6_OndKi-z4dm4Z_CiQ",
+      "type": "channel",
+      "label": "mycompasstv",
+      "url": "https://www.youtube.com/channel/UC_s-h6_OndKi-z4dm4Z_CiQ",
+      "firstSeenAt": "2026-11-09T16:12:39.234Z"
     }
   ],
   "recentItems": []

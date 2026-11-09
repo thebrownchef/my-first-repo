@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCf2WBemooP2gBBx3lrraNQw",
   "title": "blink182VEVO",
   "thumb": "https://yt3.ggpht.com/LibG3wCv6pzHURjVeCmLEXZ07NF9vBk3GobIYdCOA734aG3QObFaMnnVGwoeDpfMxh_V2dU6WR4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -99,6 +99,20 @@
       "label": "The Rock Show",
       "url": "https://en.wikipedia.org/wiki/The_Rock_Show",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:Heart's All Gone",
+      "type": "wikipedia",
+      "label": "Heart's All Gone",
+      "url": "https://en.wikipedia.org/wiki/Heart's_All_Gone",
+      "firstSeenAt": "2026-11-09T16:12:20.261Z"
+    },
+    {
+      "id": "wiki:What's My Age Again?",
+      "type": "wikipedia",
+      "label": "What's My Age Again?",
+      "url": "https://en.wikipedia.org/wiki/What's_My_Age_Again%3F",
+      "firstSeenAt": "2026-11-09T16:12:22.803Z"
     }
   ],
   "recentItems": []

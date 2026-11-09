@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCcu7ANuD9J7hnTQCREqIc4Q",
   "title": "Bruce Springsteen",
   "thumb": "https://yt3.ggpht.com/wPnJ131d4hc390n6iNf7aoad-0AHPbs_BpcejwkbWThpGqrG4Prno7PijtUzlG6aNg5CK4TMdg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "We Take Care of Our Own",
       "url": "https://en.wikipedia.org/wiki/We_Take_Care_of_Our_Own",
       "firstSeenAt": "2026-11-02T15:44:49.635Z"
+    },
+    {
+      "id": "wiki:High Hopes Tour",
+      "type": "wikipedia",
+      "label": "High Hopes Tour",
+      "url": "https://en.wikipedia.org/wiki/High_Hopes_Tour",
+      "firstSeenAt": "2026-11-09T16:12:20.260Z"
     }
   ],
   "recentItems": []

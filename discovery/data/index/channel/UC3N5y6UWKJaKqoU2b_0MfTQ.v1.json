@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UC3N5y6UWKJaKqoU2b_0MfTQ",
   "title": "LanaDelReyVEVO",
   "thumb": "https://yt3.ggpht.com/v7FFBCqWHtvh-_wLtWV2vOrgBI7p7puXjiZgZJ1bOcwdGUkP8DjHVdt6U-QvSDjEMtYa0aSw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Bel Air (Lana Del Rey song)",
       "url": "https://en.wikipedia.org/wiki/Bel_Air_(Lana_Del_Rey_song)",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:West Coast (Lana Del Rey song)",
+      "type": "wikipedia",
+      "label": "West Coast (Lana Del Rey song)",
+      "url": "https://en.wikipedia.org/wiki/West_Coast_(Lana_Del_Rey_song)",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": []

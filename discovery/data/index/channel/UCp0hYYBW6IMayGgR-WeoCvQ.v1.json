@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCp0hYYBW6IMayGgR-WeoCvQ",
   "title": "TheEllenShow",
   "thumb": "https://yt3.ggpht.com/n6BksIXpbZfRmlxqgdhTGVLvQVDtajIo1a8mxFDADhwE4wMUOhjnZ9qsRVPoTa9dfHnW1Yn9=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 2.7,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Born and Raised (John Mayer album)",
       "url": "https://en.wikipedia.org/wiki/Born_and_Raised_(John_Mayer_album)",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Carla Bruni",
+      "type": "wikipedia",
+      "label": "Carla Bruni",
+      "url": "https://en.wikipedia.org/wiki/Carla_Bruni",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

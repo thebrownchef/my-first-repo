@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCr5WIdNO5CwXVVTl0_TuJ3Q",
   "title": "schmausschmaus",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvTo-8lTS_CSOJCbY96jW0_UMsVG6JonCteuhCkelH9w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Reinhard Heydrich",
       "url": "https://en.wikipedia.org/wiki/Reinhard_Heydrich",
       "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Arthur St. Claire",
+      "type": "wikipedia",
+      "label": "Arthur St. Claire",
+      "url": "https://en.wikipedia.org/wiki/Arthur_St._Claire",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": []

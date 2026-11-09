@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCX8L2exHT9rqfpCC0TCx57A",
   "title": "courtney love",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nb3VezN7MzT_7FKtzv4E4kHkUN6Y3xRud-AhuR2qEO6Um7lPzPQnEZK0uYnh5C3usuJw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "You Know My Name (Courtney Love song)",
       "url": "https://en.wikipedia.org/wiki/You_Know_My_Name_(Courtney_Love_song)",
       "firstSeenAt": "2026-11-08T13:19:11.789Z"
+    },
+    {
+      "id": "wiki:Wedding Day (song)",
+      "type": "wikipedia",
+      "label": "Wedding Day (song)",
+      "url": "https://en.wikipedia.org/wiki/Wedding_Day_(song)",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

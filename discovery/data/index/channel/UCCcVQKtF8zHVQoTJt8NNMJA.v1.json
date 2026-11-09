@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 69,
-  "distinctSourceCount": 69,
+  "score": 71,
+  "distinctSourceCount": 71,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -491,6 +491,20 @@
       "label": "Resident Evil (The Vampire Diaries)",
       "url": "https://en.wikipedia.org/wiki/Resident_Evil_(The_Vampire_Diaries)",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:Man on Fire (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Man on Fire (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Man_on_Fire_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
+    },
+    {
+      "id": "wiki:American Idol season 13",
+      "type": "wikipedia",
+      "label": "American Idol season 13",
+      "url": "https://en.wikipedia.org/wiki/American_Idol_season_13",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": [

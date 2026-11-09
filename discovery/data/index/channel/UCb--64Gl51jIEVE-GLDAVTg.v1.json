@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCb--64Gl51jIEVE-GLDAVTg",
   "title": "C-SPAN",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 2.13,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Henry Shrady",
       "url": "https://en.wikipedia.org/wiki/Henry_Shrady",
       "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:John Payne Todd",
+      "type": "wikipedia",
+      "label": "John Payne Todd",
+      "url": "https://en.wikipedia.org/wiki/John_Payne_Todd",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

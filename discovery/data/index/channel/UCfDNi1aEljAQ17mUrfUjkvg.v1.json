@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "id": "UCfDNi1aEljAQ17mUrfUjkvg",
+  "title": "Alton Brown",
+  "thumb": "https://yt3.ggpht.com/HEdxFe8ay5U5IOVyP8MEmfK-50bEQkMiF3FgmjRfsCV1DvdnG1PNEkXXyYSEFVm3CBvCpJqM=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "wiki:Alton Brown",
+      "type": "wikipedia",
+      "label": "Alton Brown",
+      "url": "https://en.wikipedia.org/wiki/Alton_Brown",
+      "firstSeenAt": "2026-08-31T13:44:47.158Z"
+    },
+    {
+      "id": "wiki:Sabrage",
+      "type": "wikipedia",
+      "label": "Sabrage",
+      "url": "https://en.wikipedia.org/wiki/Sabrage",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    }
+  ],
+  "recentItems": []
+}

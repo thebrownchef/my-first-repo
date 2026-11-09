@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Bob Woodward",
       "url": "https://en.wikipedia.org/wiki/Bob_Woodward",
       "firstSeenAt": "2026-11-07T12:56:30.839Z"
+    },
+    {
+      "id": "wiki:So (album)",
+      "type": "wikipedia",
+      "label": "So (album)",
+      "url": "https://en.wikipedia.org/wiki/So_(album)",
+      "firstSeenAt": "2026-11-09T16:12:20.260Z"
     }
   ],
   "recentItems": []

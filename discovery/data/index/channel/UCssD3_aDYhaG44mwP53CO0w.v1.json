@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCssD3_aDYhaG44mwP53CO0w",
   "title": "littlemixVEVO",
   "thumb": "https://yt3.ggpht.com/UsMdmLpOXNm76CKXxna0a41Iw2OnUVTb6UYW1T7XuxW64WT0XzLl50mLEz4ldP-ofwXmKFB-=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Change Your Life (Little Mix song)",
       "url": "https://en.wikipedia.org/wiki/Change_Your_Life_(Little_Mix_song)",
       "firstSeenAt": "2026-10-23T11:34:40.282Z"
+    },
+    {
+      "id": "wiki:Salute (song)",
+      "type": "wikipedia",
+      "label": "Salute (song)",
+      "url": "https://en.wikipedia.org/wiki/Salute_(song)",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
   "title": "BeyoncéVEVO",
   "thumb": "https://yt3.ggpht.com/4UxYRy4fJ0Fo54TRPkw19_W6uCCnzTBSkzm75vGIiEObg4IgY5Ie1BIsNcflFNqofAjxEpTRcQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 30,
-  "distinctSourceCount": 30,
+  "score": 31,
+  "distinctSourceCount": 31,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -218,6 +218,13 @@
       "label": "Drunk in Love",
       "url": "https://en.wikipedia.org/wiki/Drunk_in_Love",
       "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:Pretty Hurts",
+      "type": "wikipedia",
+      "label": "Pretty Hurts",
+      "url": "https://en.wikipedia.org/wiki/Pretty_Hurts",
+      "firstSeenAt": "2026-11-09T16:12:20.260Z"
     }
   ],
   "recentItems": [

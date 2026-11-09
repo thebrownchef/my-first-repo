@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCGnjeahCJW1AF34HBmQTJ-Q",
   "title": "shakiraVEVO",
   "thumb": "https://yt3.ggpht.com/FhrbXrCCkXlRFrTlJR6uZMzZO0PvnUoQdqK2b920BF6IjDsScsYwixMcLQHtwDy-CnWAWB0yiD4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Empire (Shakira song)",
       "url": "https://en.wikipedia.org/wiki/Empire_(Shakira_song)",
       "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:Dare (La La La)",
+      "type": "wikipedia",
+      "label": "Dare (La La La)",
+      "url": "https://en.wikipedia.org/wiki/Dare_(La_La_La)",
+      "firstSeenAt": "2026-11-09T16:12:25.573Z"
     }
   ],
   "recentItems": []

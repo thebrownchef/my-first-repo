@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCRpjHHu8ivVWs73uxHlWwFA",
   "title": "Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/Nbk9FOWmzYz-1eYlnqhnR1qT0ULJ2iQ0L4IR1eLx7silv-qETBsh_LjpUgnG0WvV6fZypNzCfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 1.2,
   "sources": [
@@ -92,6 +92,27 @@
       "label": "Rise Like a Phoenix",
       "url": "https://en.wikipedia.org/wiki/Rise_Like_a_Phoenix",
       "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:Miracle (Paula Seling and Ovi song)",
+      "type": "wikipedia",
+      "label": "Miracle (Paula Seling and Ovi song)",
+      "url": "https://en.wikipedia.org/wiki/Miracle_(Paula_Seling_and_Ovi_song)",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
+    },
+    {
+      "id": "wiki:Calm After the Storm",
+      "type": "wikipedia",
+      "label": "Calm After the Storm",
+      "url": "https://en.wikipedia.org/wiki/Calm_After_the_Storm",
+      "firstSeenAt": "2026-11-09T16:12:25.574Z"
+    },
+    {
+      "id": "wiki:Mary Spiteri",
+      "type": "wikipedia",
+      "label": "Mary Spiteri",
+      "url": "https://en.wikipedia.org/wiki/Mary_Spiteri",
+      "firstSeenAt": "2026-11-09T16:12:25.574Z"
     }
   ],
   "recentItems": []

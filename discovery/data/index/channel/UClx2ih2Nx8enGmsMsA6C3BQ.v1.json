@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UClx2ih2Nx8enGmsMsA6C3BQ",
   "title": "CAguileraVEVO",
   "thumb": "https://yt3.ggpht.com/C2TsAUo9xCXFETdU0Uha3zSz3lsd3XE3s6V_K9KNT3LjD8lbxhWcmFe-hE_qvDWmpAeIqBA6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Fighter (Christina Aguilera song)",
       "url": "https://en.wikipedia.org/wiki/Fighter_(Christina_Aguilera_song)",
       "firstSeenAt": "2026-11-03T14:08:03.893Z"
+    },
+    {
+      "id": "wiki:Burlesque (soundtrack)",
+      "type": "wikipedia",
+      "label": "Burlesque (soundtrack)",
+      "url": "https://en.wikipedia.org/wiki/Burlesque_(soundtrack)",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

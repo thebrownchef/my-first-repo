@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UC_f09Vv3Z3OpaL_SSalb36g",
   "title": "JanetJacksonVEVO",
   "thumb": "https://yt3.ggpht.com/8lcnl-xg1I-D6UsC_9ZdmWjv7VoZZJ3kALLsK-F2HLk5VaRB-nXl3nqcATAQX7MnQUWsArsFLQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Feedback (Janet Jackson song)",
       "url": "https://en.wikipedia.org/wiki/Feedback_(Janet_Jackson_song)",
       "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:Black Cat (song)",
+      "type": "wikipedia",
+      "label": "Black Cat (song)",
+      "url": "https://en.wikipedia.org/wiki/Black_Cat_(song)",
+      "firstSeenAt": "2026-11-09T16:12:20.261Z"
     }
   ],
   "recentItems": []

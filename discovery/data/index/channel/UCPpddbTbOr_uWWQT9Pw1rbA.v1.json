@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCPpddbTbOr_uWWQT9Pw1rbA",
   "title": "EA SPORTS MADDEN NFL",
   "thumb": "https://yt3.ggpht.com/UcYAfu6OnI7YjRRWWeSfulEBXRuNoA44ZG6gpWPEnuEozPx1fvuBphRH4m8-UuXL0InpdLdDbg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.38,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "EA Star Wars",
       "url": "https://www.youtube.com/channel/UCOsVSkmXD1tc6uiJ2hc0wYQ",
       "firstSeenAt": "2026-09-20T11:20:20.205Z"
+    },
+    {
+      "id": "wiki:Animals (Martin Garrix song)",
+      "type": "wikipedia",
+      "label": "Animals (Martin Garrix song)",
+      "url": "https://en.wikipedia.org/wiki/Animals_(Martin_Garrix_song)",
+      "firstSeenAt": "2026-11-09T16:12:20.261Z"
     }
   ],
   "recentItems": []

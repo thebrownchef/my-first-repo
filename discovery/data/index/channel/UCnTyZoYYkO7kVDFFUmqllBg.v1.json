@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UCnTyZoYYkO7kVDFFUmqllBg",
   "title": "franzferdinandVEVO",
   "thumb": "https://yt3.ggpht.com/eWOpbIGXw9x4ugj1qmF9_Qq2_ADBNAKnsaAhqsTUs-nsdwyvCCdX7lbRYt-w7wB-nQld-wAG-Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Bullet (Franz Ferdinand song)",
       "url": "https://en.wikipedia.org/wiki/Bullet_(Franz_Ferdinand_song)",
       "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:Love Illumination",
+      "type": "wikipedia",
+      "label": "Love Illumination",
+      "url": "https://en.wikipedia.org/wiki/Love_Illumination",
+      "firstSeenAt": "2026-11-09T16:12:20.260Z"
     }
   ],
   "recentItems": []

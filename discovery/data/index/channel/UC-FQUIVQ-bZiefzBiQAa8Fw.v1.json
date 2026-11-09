@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UC-FQUIVQ-bZiefzBiQAa8Fw",
   "title": "BBC Radio 1",
   "thumb": "https://yt3.ggpht.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "BBC Radio 2",
       "url": "https://www.youtube.com/channel/UCYw-R4_yue3aGJu1xDO6cog",
       "firstSeenAt": "2026-09-25T11:48:19.012Z"
+    },
+    {
+      "id": "wiki:Paradise (Coldplay song)",
+      "type": "wikipedia",
+      "label": "Paradise (Coldplay song)",
+      "url": "https://en.wikipedia.org/wiki/Paradise_(Coldplay_song)",
+      "firstSeenAt": "2026-11-09T16:12:22.802Z"
     }
   ],
   "recentItems": []

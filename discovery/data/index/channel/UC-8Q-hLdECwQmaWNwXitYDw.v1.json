@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T13:20:26.107Z",
+  "generatedAt": "2026-11-09T16:14:01.151Z",
   "id": "UC-8Q-hLdECwQmaWNwXitYDw",
   "title": "KatyPerryVEVO",
   "thumb": "https://yt3.ggpht.com/At-OTmzPnkE8xcDw08lHdUxbGy9TP-jzB4f4EnvcnUVTMuHoLP-sE8WY3OkwK6DJdWN6OJII=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Dark Horse (Katy Perry song)",
       "url": "https://en.wikipedia.org/wiki/Dark_Horse_(Katy_Perry_song)",
       "firstSeenAt": "2026-11-07T12:56:30.839Z"
+    },
+    {
+      "id": "wiki:Birthday (Katy Perry song)",
+      "type": "wikipedia",
+      "label": "Birthday (Katy Perry song)",
+      "url": "https://en.wikipedia.org/wiki/Birthday_(Katy_Perry_song)",
+      "firstSeenAt": "2026-11-09T16:12:20.260Z"
     }
   ],
   "recentItems": []
