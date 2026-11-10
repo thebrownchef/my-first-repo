@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCtvGQztIvHC3jt-JY7a7bIQ",
   "title": "gullivior",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kENV118jKdgTuGRWw6e4Wdw1UKT_WQ6gzXBOUbQfWWnrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.15,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Harold Samuel",
       "url": "https://en.wikipedia.org/wiki/Harold_Samuel",
       "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Isidor Philipp",
+      "type": "wikipedia",
+      "label": "Isidor Philipp",
+      "url": "https://en.wikipedia.org/wiki/Isidor_Philipp",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
     }
   ],
   "recentItems": []

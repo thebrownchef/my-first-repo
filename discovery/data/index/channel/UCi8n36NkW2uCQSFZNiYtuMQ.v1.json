@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCi8n36NkW2uCQSFZNiYtuMQ",
   "title": "Paralympic Games",
   "thumb": "https://yt3.ggpht.com/rde27VRRp6j9xJ9NHAm11W4Fj7g5rWkxTFGubm-fC2zog9qz1NbkKZ3g_zqV3Yz6oa2FhYOu7wY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 3.55,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Australian Paralympic Team",
       "url": "https://www.youtube.com/channel/UCDsT9_tv5GpDECj8zbofLqQ",
       "firstSeenAt": "2026-11-09T16:12:47.488Z"
+    },
+    {
+      "id": "wiki:Para snowboard classification",
+      "type": "wikipedia",
+      "label": "Para snowboard classification",
+      "url": "https://en.wikipedia.org/wiki/Para_snowboard_classification",
+      "firstSeenAt": "2026-11-10T14:49:46.638Z"
     }
   ],
   "recentItems": []

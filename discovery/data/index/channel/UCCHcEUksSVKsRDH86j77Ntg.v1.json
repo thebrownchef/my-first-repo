@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCCHcEUksSVKsRDH86j77Ntg",
   "title": "thelonelyisland",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwpPZiDzeEy8MJSFFzOOREA8CjZRMp1LRBVPfkISIRR4E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "BaratsAndBereta",
       "url": "https://www.youtube.com/channel/UCiICWeJJWMYMiITpB_mFBjQ",
       "firstSeenAt": "2026-10-19T13:08:52.177Z"
+    },
+    {
+      "id": "wiki:Hugs (song)",
+      "type": "wikipedia",
+      "label": "Hugs (song)",
+      "url": "https://en.wikipedia.org/wiki/Hugs_(song)",
+      "firstSeenAt": "2026-11-10T14:49:44.158Z"
     }
   ],
   "recentItems": []

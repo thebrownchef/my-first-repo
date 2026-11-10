@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCrfKGpvbEQXcbe68dzXgJuA",
   "title": "Forgotten Weapons",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mIW03OQQgHpn-qTwn2hjwhDEf22q41reXpvfYs0hkDPSo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.82,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Leader Dynamics Series T2 MK5",
       "url": "https://en.wikipedia.org/wiki/Leader_Dynamics_Series_T2_MK5",
       "firstSeenAt": "2026-10-27T12:06:51.025Z"
+    },
+    {
+      "id": "wiki:FG 42",
+      "type": "wikipedia",
+      "label": "FG 42",
+      "url": "https://en.wikipedia.org/wiki/FG_42",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": []

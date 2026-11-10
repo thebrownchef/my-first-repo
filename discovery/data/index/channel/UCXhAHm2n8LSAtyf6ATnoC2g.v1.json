@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCXhAHm2n8LSAtyf6ATnoC2g",
   "title": "CBN - The Christian Broadcasting Network",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l2Z6z-0VCT7ocl4CgpeLUc_RXGNy2VCi3X-jd1o0oPF1U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 3.17,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The 700 Club",
       "url": "https://www.youtube.com/channel/UCj-Mjn68ap6Hgj6sxp2rpRA",
       "firstSeenAt": "2026-09-27T11:59:26.920Z"
+    },
+    {
+      "id": "wiki:Otis Clark",
+      "type": "wikipedia",
+      "label": "Otis Clark",
+      "url": "https://en.wikipedia.org/wiki/Otis_Clark",
+      "firstSeenAt": "2026-11-10T14:49:46.638Z"
     }
   ],
   "recentItems": []

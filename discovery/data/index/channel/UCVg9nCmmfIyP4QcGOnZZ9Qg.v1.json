@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCVg9nCmmfIyP4QcGOnZZ9Qg",
   "title": "Street Fighter",
   "thumb": "https://yt3.ggpht.com/JbUIIrQxi0L_w0djjccg1qylIpq8pNxWhSpSggISafwQyb9LE7_8GKlIzb8K7AndfaeTrP5oJ30=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Dead Rising",
       "url": "https://www.youtube.com/channel/UCrs6LpW1gNpjrswp2UltnxQ",
       "firstSeenAt": "2026-09-22T11:35:16.066Z"
+    },
+    {
+      "id": "wiki:Street Fighter IV",
+      "type": "wikipedia",
+      "label": "Street Fighter IV",
+      "url": "https://en.wikipedia.org/wiki/Street_Fighter_IV",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": []

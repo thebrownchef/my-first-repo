@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UC2p_as5NqbGc9jaSQFsBT-g",
   "title": "re:publica",
   "thumb": "https://yt3.ggpht.com/1uQr2s-Q9EKFWgzyVZEuvbNeUCa_KCUysbJDw9-WEvPeaXHMdddIkwYbAGW5QEykjfUd5UggYOk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.69,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Smári McCarthy",
       "url": "https://en.wikipedia.org/wiki/Sm%C3%A1ri_McCarthy",
       "firstSeenAt": "2026-10-16T11:19:22.905Z"
+    },
+    {
+      "id": "wiki:Jillian York",
+      "type": "wikipedia",
+      "label": "Jillian York",
+      "url": "https://en.wikipedia.org/wiki/Jillian_York",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
     }
   ],
   "recentItems": []

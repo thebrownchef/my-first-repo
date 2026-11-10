@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCBu0KdNokE4MqdkacvH37_A",
   "title": "WFAA",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nS7SUIaQx0w3gvMypWXOMqDIew9StlE_WVGRlYGT4Wf3E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 16.72,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "KIII 3 News",
       "url": "https://www.youtube.com/channel/UCPjgzQgWuPsrYDSuP_CENOw",
       "firstSeenAt": "2026-10-17T10:40:19.569Z"
+    },
+    {
+      "id": "wiki:Dale Hansen",
+      "type": "wikipedia",
+      "label": "Dale Hansen",
+      "url": "https://en.wikipedia.org/wiki/Dale_Hansen",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": []

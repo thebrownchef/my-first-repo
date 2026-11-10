@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "id": "UCH5Rft7GYM8KZpxA-4Ohihg",
+  "title": "insideHPC Report",
+  "thumb": "https://yt3.ggpht.com/DF_UxyXeCnw7sphAKhujaBxbzILmSmWbYkQbN3UhjIv4zY4ympaP_V-yMwWxoxPcoKbzlFKVkz4=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.67,
+  "sources": [
+    {
+      "id": "wiki:Sequoia (supercomputer)",
+      "type": "wikipedia",
+      "label": "Sequoia (supercomputer)",
+      "url": "https://en.wikipedia.org/wiki/Sequoia_(supercomputer)",
+      "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:AMD APU",
+      "type": "wikipedia",
+      "label": "AMD APU",
+      "url": "https://en.wikipedia.org/wiki/AMD_APU",
+      "firstSeenAt": "2026-11-10T14:49:46.638Z"
+    },
+    {
+      "id": "wiki:Heterogeneous System Architecture",
+      "type": "wikipedia",
+      "label": "Heterogeneous System Architecture",
+      "url": "https://en.wikipedia.org/wiki/Heterogeneous_System_Architecture",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    }
+  ],
+  "recentItems": []
+}

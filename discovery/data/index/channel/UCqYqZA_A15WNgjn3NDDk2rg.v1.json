@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCqYqZA_A15WNgjn3NDDk2rg",
   "title": "Evelin Lindner",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kzGOHzAnVPr2FeCM9wZ55Pd8I-luzibouz9mUPUgj8PLY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Clodomir Santos de Morais",
       "url": "https://en.wikipedia.org/wiki/Clodomir_Santos_de_Morais",
       "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:Organization workshop",
+      "type": "wikipedia",
+      "label": "Organization workshop",
+      "url": "https://en.wikipedia.org/wiki/Organization_workshop",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCRcwOauWwSRaEaVnKy-UjRA",
   "title": "Star Magic",
   "thumb": "https://yt3.ggpht.com/k8Tqe6xHbVB9RNAGVsWl09fKOpckhbCVlI35tBjVDQ6FiynFrmU6wc0SAgUnhCU8Ag97Vxj4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "ABS-CBN Lifestyle",
       "url": "https://www.youtube.com/channel/UCOWmwRo_5E7d4qfpW5tQtpw",
       "firstSeenAt": "2026-09-16T11:29:05.677Z"
+    },
+    {
+      "id": "channel:UCF6BmaCwwv6BEDJbWEmIaNA",
+      "type": "channel",
+      "label": "adobonationTFC",
+      "url": "https://www.youtube.com/channel/UCF6BmaCwwv6BEDJbWEmIaNA",
+      "firstSeenAt": "2026-11-10T14:50:12.303Z"
     }
   ],
   "recentItems": []

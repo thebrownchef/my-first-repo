@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCSrZ3UV4jOidv8ppoVuvW9Q",
   "title": "euronews",
   "thumb": "https://yt3.ggpht.com/8MyE7rxMBfLZOpYkJVJFm1C8I9jxbceBbOJS9OhrepZMVGxGV-OEJU-UdLOew_qR_l-knETWeu4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 16.26,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "President of the European Commission",
       "url": "https://en.wikipedia.org/wiki/President_of_the_European_Commission",
       "firstSeenAt": "2026-11-09T16:12:22.802Z"
+    },
+    {
+      "id": "wiki:Mario Draghi",
+      "type": "wikipedia",
+      "label": "Mario Draghi",
+      "url": "https://en.wikipedia.org/wiki/Mario_Draghi",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": []

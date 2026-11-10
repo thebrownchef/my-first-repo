@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCG7AaCh_CiG6pq_rRDNw72A",
   "title": "Napalm Records",
   "thumb": "https://yt3.ggpht.com/2d3iftW3xatDJog1SXajencBrBv_KG9xqjxKC0XuG4CWivUTx1IvXIi0tJ8DImYtXIHYTgfO_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.64,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "The Last Alliance (album)",
       "url": "https://en.wikipedia.org/wiki/The_Last_Alliance_(album)",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "channel:UCXlESqAt8ZLXkq88nA6o75A",
+      "type": "channel",
+      "label": "Angband",
+      "url": "https://www.youtube.com/channel/UCXlESqAt8ZLXkq88nA6o75A",
+      "firstSeenAt": "2026-11-10T14:50:00.108Z"
     }
   ],
   "recentItems": []

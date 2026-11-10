@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
   "title": "FRANCE 24 English",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 18.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "FRANCE 24",
       "url": "https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g",
       "firstSeenAt": "2026-10-04T12:18:53.253Z"
+    },
+    {
+      "id": "wiki:Gilles Bensimon",
+      "type": "wikipedia",
+      "label": "Gilles Bensimon",
+      "url": "https://en.wikipedia.org/wiki/Gilles_Bensimon",
+      "firstSeenAt": "2026-11-10T14:49:42.357Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UC0C-w0YjGpqDXGB8IHb662A",
   "title": "Ed Sheeran",
   "thumb": "https://yt3.ggpht.com/pZQ5JMD4EOI8TcNYAPTzMexe_fC0CKnb_hYlV4rPfIzmDidF239fH1XKmzkeT30XSg7fxNwc_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "You Need Me, I Don't Need You",
       "url": "https://en.wikipedia.org/wiki/You_Need_Me%2C_I_Don't_Need_You",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Sing (Ed Sheeran song)",
+      "type": "wikipedia",
+      "label": "Sing (Ed Sheeran song)",
+      "url": "https://en.wikipedia.org/wiki/Sing_(Ed_Sheeran_song)",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": []

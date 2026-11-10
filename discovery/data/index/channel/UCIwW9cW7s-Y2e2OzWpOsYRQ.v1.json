@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCIwW9cW7s-Y2e2OzWpOsYRQ",
   "title": "noochinator1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOW0gkUIPEkXuZ8sEIJ1RKlG6ieifjNCfJXHF7GgZ93g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Grant Johannesen",
       "url": "https://en.wikipedia.org/wiki/Grant_Johannesen",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Charles Rosen",
+      "type": "wikipedia",
+      "label": "Charles Rosen",
+      "url": "https://en.wikipedia.org/wiki/Charles_Rosen",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCB4BRxXp2TsMCe8kU29h3Qw",
   "title": "КИНОХАБ",
   "thumb": "https://yt3.ggpht.com/E0jfvFGlwfF5-MLCZ8j3HSoDaUfYdAI30aiEDL5FH4E9aCMABCCDIgbefSlN6v8YiIyVQGCSow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 2,
   "uploadsPerDay": 2.35,
   "sources": [
@@ -22,6 +22,69 @@
       "label": "Nicholas I of Russia",
       "url": "https://en.wikipedia.org/wiki/Nicholas_I_of_Russia",
       "firstSeenAt": "2026-11-09T16:12:22.803Z"
+    },
+    {
+      "id": "wiki:Elizabeth of Russia",
+      "type": "wikipedia",
+      "label": "Elizabeth of Russia",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Russia",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
+    },
+    {
+      "id": "wiki:Ivan VI of Russia",
+      "type": "wikipedia",
+      "label": "Ivan VI of Russia",
+      "url": "https://en.wikipedia.org/wiki/Ivan_VI_of_Russia",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
+    },
+    {
+      "id": "wiki:Peter III of Russia",
+      "type": "wikipedia",
+      "label": "Peter III of Russia",
+      "url": "https://en.wikipedia.org/wiki/Peter_III_of_Russia",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Anna of Russia",
+      "type": "wikipedia",
+      "label": "Anna of Russia",
+      "url": "https://en.wikipedia.org/wiki/Anna_of_Russia",
+      "firstSeenAt": "2026-11-10T14:49:44.156Z"
+    },
+    {
+      "id": "wiki:Catherine I of Russia",
+      "type": "wikipedia",
+      "label": "Catherine I of Russia",
+      "url": "https://en.wikipedia.org/wiki/Catherine_I_of_Russia",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Anna Leopoldovna",
+      "type": "wikipedia",
+      "label": "Anna Leopoldovna",
+      "url": "https://en.wikipedia.org/wiki/Anna_Leopoldovna",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Peter II of Russia",
+      "type": "wikipedia",
+      "label": "Peter II of Russia",
+      "url": "https://en.wikipedia.org/wiki/Peter_II_of_Russia",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Peter the Great",
+      "type": "wikipedia",
+      "label": "Peter the Great",
+      "url": "https://en.wikipedia.org/wiki/Peter_the_Great",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Sophia Alekseyevna of Russia",
+      "type": "wikipedia",
+      "label": "Sophia Alekseyevna of Russia",
+      "url": "https://en.wikipedia.org/wiki/Sophia_Alekseyevna_of_Russia",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": []

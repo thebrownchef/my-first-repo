@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 71,
-  "distinctSourceCount": 71,
+  "score": 75,
+  "distinctSourceCount": 75,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -505,6 +505,34 @@
       "label": "American Idol season 13",
       "url": "https://en.wikipedia.org/wiki/American_Idol_season_13",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:What Lies Beneath (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "What Lies Beneath (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/What_Lies_Beneath_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
+    },
+    {
+      "id": "wiki:American Idol controversies",
+      "type": "wikipedia",
+      "label": "American Idol controversies",
+      "url": "https://en.wikipedia.org/wiki/American_Idol_controversies",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
+    },
+    {
+      "id": "wiki:Promised Land (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Promised Land (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Promised_Land_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
+    },
+    {
+      "id": "wiki:Home (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Home (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Home_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": [

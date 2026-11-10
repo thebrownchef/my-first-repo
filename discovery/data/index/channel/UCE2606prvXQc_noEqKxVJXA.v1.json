@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCE2606prvXQc_noEqKxVJXA",
   "title": "ABS-CBN News",
   "thumb": "https://yt3.ggpht.com/LtCFX_IgcqOXKsqhTYjkMwMTFo42j6WJCehxqSFNq3fWyr6io-3cdQhh5KC3evcxltETifDkuQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 48.24,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Yey Channel",
       "url": "https://www.youtube.com/channel/UCanSUlhgDEwVpNdVEurMA1A",
       "firstSeenAt": "2026-09-29T12:49:24.721Z"
+    },
+    {
+      "id": "channel:UCF6BmaCwwv6BEDJbWEmIaNA",
+      "type": "channel",
+      "label": "adobonationTFC",
+      "url": "https://www.youtube.com/channel/UCF6BmaCwwv6BEDJbWEmIaNA",
+      "firstSeenAt": "2026-11-10T14:50:12.301Z"
     }
   ],
   "recentItems": []

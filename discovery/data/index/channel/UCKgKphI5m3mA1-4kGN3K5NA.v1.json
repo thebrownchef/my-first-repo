@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCKgKphI5m3mA1-4kGN3K5NA",
   "title": "MADWORLD1427",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kuFESh0_Tr0HXel-Yy5pZ5GXKdnQGbjqrIqW7EmTSeAA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Jack Lemmon",
       "url": "https://en.wikipedia.org/wiki/Jack_Lemmon",
       "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Karen Black",
+      "type": "wikipedia",
+      "label": "Karen Black",
+      "url": "https://en.wikipedia.org/wiki/Karen_Black",
+      "firstSeenAt": "2026-11-10T14:49:44.158Z"
+    },
+    {
+      "id": "wiki:Nora Ephron",
+      "type": "wikipedia",
+      "label": "Nora Ephron",
+      "url": "https://en.wikipedia.org/wiki/Nora_Ephron",
+      "firstSeenAt": "2026-11-10T14:49:46.638Z"
     }
   ],
   "recentItems": []

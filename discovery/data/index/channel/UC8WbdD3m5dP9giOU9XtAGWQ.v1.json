@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UC8WbdD3m5dP9giOU9XtAGWQ",
   "title": "M83",
   "thumb": "https://yt3.ggpht.com/8sKrYyNxofNj0SaOIoJszcHm97ek2wn8r-rvOMrU2ySAjkHRqwlevRKOtL4skMXH1V2fZaLkru8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Believe",
       "url": "https://www.youtube.com/channel/UCLemmOzGbJqOz_pSVVPAMaA",
       "firstSeenAt": "2026-10-25T11:22:25.762Z"
+    },
+    {
+      "id": "wiki:Hurry Up, We're Dreaming",
+      "type": "wikipedia",
+      "label": "Hurry Up, We're Dreaming",
+      "url": "https://en.wikipedia.org/wiki/Hurry_Up%2C_We're_Dreaming",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
     }
   ],
   "recentItems": []

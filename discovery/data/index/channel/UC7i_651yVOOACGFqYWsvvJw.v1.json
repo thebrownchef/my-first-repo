@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UC7i_651yVOOACGFqYWsvvJw",
   "title": "Indian Summer in Levoca",
   "thumb": "https://yt3.ggpht.com/td8mYvgGMJuZSJugfFhWz5HxvpFike-MJX6XfnE1i4-h-oDdmm-RgGbEDisawSTLyb5MzPoTJA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Arnold Bax",
       "url": "https://en.wikipedia.org/wiki/Arnold_Bax",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Pieter Hellendaal",
+      "type": "wikipedia",
+      "label": "Pieter Hellendaal",
+      "url": "https://en.wikipedia.org/wiki/Pieter_Hellendaal",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
     }
   ],
   "recentItems": []

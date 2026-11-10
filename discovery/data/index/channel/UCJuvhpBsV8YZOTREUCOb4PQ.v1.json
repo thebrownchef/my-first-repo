@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
   "title": "underyourskin",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Sarah Jane Morris (singer)",
       "url": "https://en.wikipedia.org/wiki/Sarah_Jane_Morris_(singer)",
       "firstSeenAt": "2026-11-06T14:13:06.883Z"
+    },
+    {
+      "id": "wiki:Brian Jackson (musician)",
+      "type": "wikipedia",
+      "label": "Brian Jackson (musician)",
+      "url": "https://en.wikipedia.org/wiki/Brian_Jackson_(musician)",
+      "firstSeenAt": "2026-11-10T14:49:46.638Z"
     }
   ],
   "recentItems": []

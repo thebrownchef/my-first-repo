@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCBNo6TZYPaw67RQOheD4DwQ",
   "title": "Pittsburgh Riverhounds SC",
   "thumb": "https://yt3.ggpht.com/thvNIc_rjZbaYwulEYseYwjM04h7GxziO3SJ5PbNghF42Ws2v8pd6l5gBzN2YOad7J3EFVmVZw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "USL on YouTube ",
       "url": "https://www.youtube.com/channel/UCBhFPYpX9WBxYRMGzqLjoMA",
       "firstSeenAt": "2026-09-19T10:55:43.563Z"
+    },
+    {
+      "id": "wiki:2014 Orlando City SC season",
+      "type": "wikipedia",
+      "label": "2014 Orlando City SC season",
+      "url": "https://en.wikipedia.org/wiki/2014_Orlando_City_SC_season",
+      "firstSeenAt": "2026-11-10T14:49:42.357Z"
     }
   ],
   "recentItems": []

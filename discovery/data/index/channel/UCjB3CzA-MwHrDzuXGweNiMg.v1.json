@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCjB3CzA-MwHrDzuXGweNiMg",
   "title": "TheKillersVEVO",
   "thumb": "https://yt3.ggpht.com/rNQz_e_0TaX5nIR2815xJVxiPTD-LHS3horyD2q2B6-WNMpXCLYrd6dQIAdiunLOoi9SFuWTtZE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Just Another Girl (The Killers song)",
       "url": "https://en.wikipedia.org/wiki/Just_Another_Girl_(The_Killers_song)",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:Miss Atomic (pageants)",
+      "type": "wikipedia",
+      "label": "Miss Atomic (pageants)",
+      "url": "https://en.wikipedia.org/wiki/Miss_Atomic_(pageants)",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": []

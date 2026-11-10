@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCRpjHHu8ivVWs73uxHlWwFA",
   "title": "Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/Nbk9FOWmzYz-1eYlnqhnR1qT0ULJ2iQ0L4IR1eLx7silv-qETBsh_LjpUgnG0WvV6fZypNzCfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 0,
   "uploadsPerDay": 1.2,
   "sources": [
@@ -113,6 +113,20 @@
       "label": "Mary Spiteri",
       "url": "https://en.wikipedia.org/wiki/Mary_Spiteri",
       "firstSeenAt": "2026-11-09T16:12:25.574Z"
+    },
+    {
+      "id": "wiki:Molitva",
+      "type": "wikipedia",
+      "label": "Molitva",
+      "url": "https://en.wikipedia.org/wiki/Molitva",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
+    },
+    {
+      "id": "wiki:Rise Up (Freaky Fortune song)",
+      "type": "wikipedia",
+      "label": "Rise Up (Freaky Fortune song)",
+      "url": "https://en.wikipedia.org/wiki/Rise_Up_(Freaky_Fortune_song)",
+      "firstSeenAt": "2026-11-10T14:49:46.638Z"
     }
   ],
   "recentItems": []

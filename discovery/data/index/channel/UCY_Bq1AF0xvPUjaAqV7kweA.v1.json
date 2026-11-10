@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCY_Bq1AF0xvPUjaAqV7kweA",
   "title": "SBS Dateline",
   "thumb": "https://yt3.ggpht.com/cJFm-76MoVSLW4-PELtOaonkWQmt0Zh0-kkcxH6VyQGvYlAcAoB49vAMDFsuXVZS06lyRBHjxQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.825Z"
+    },
+    {
+      "id": "wiki:Luo Meizhen",
+      "type": "wikipedia",
+      "label": "Luo Meizhen",
+      "url": "https://en.wikipedia.org/wiki/Luo_Meizhen",
+      "firstSeenAt": "2026-11-10T14:49:44.158Z"
     }
   ],
   "recentItems": []

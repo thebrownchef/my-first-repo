@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCPGuorlvarThSlwJpyTHOmQ",
   "title": "Capcom Fighters",
   "thumb": "https://yt3.ggpht.com/YeI31PKAgX65YAm3RiRr-iU2WCjfyrXe-AxM5EA49d1OeIwwCrFRzTBO_hooUSmNq9uhGV4gyA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 1.6,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Marvel vs Capcom",
       "url": "https://www.youtube.com/channel/UCIbEZcqyK4fw3Yi6k0VL1kg",
       "firstSeenAt": "2026-09-22T11:35:15.791Z"
+    },
+    {
+      "id": "wiki:NYChrisG",
+      "type": "wikipedia",
+      "label": "NYChrisG",
+      "url": "https://en.wikipedia.org/wiki/NYChrisG",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
     }
   ],
   "recentItems": []

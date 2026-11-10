@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "title": "Google",
   "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Google Wave Federation Protocol",
       "url": "https://en.wikipedia.org/wiki/Google_Wave_Federation_Protocol",
       "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Burton Malkiel",
+      "type": "wikipedia",
+      "label": "Burton Malkiel",
+      "url": "https://en.wikipedia.org/wiki/Burton_Malkiel",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
     }
   ],
   "recentItems": []

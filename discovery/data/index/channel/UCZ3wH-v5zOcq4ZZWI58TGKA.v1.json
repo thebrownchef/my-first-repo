@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCZ3wH-v5zOcq4ZZWI58TGKA",
   "title": "Tinariwen",
   "thumb": "https://yt3.ggpht.com/oxClhqtHhTgaXhuhdL2pnuTLtZXQO8mgRdXr967Yx-nVFAZVlyUr692KIQKqyPd-KjY-UKLryw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tassili (album)",
       "url": "https://en.wikipedia.org/wiki/Tassili_(album)",
       "firstSeenAt": "2026-11-01T13:17:27.897Z"
+    },
+    {
+      "id": "wiki:Tinariwen",
+      "type": "wikipedia",
+      "label": "Tinariwen",
+      "url": "https://en.wikipedia.org/wiki/Tinariwen",
+      "firstSeenAt": "2026-11-10T14:49:44.158Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCSldglor1t-5E-Gy2eBdMrA",
   "title": "Metal Blade Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2EfNv3vGKITfzrEaRVw2xMMFVIKgxX-F5JXf30sQGYP0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.54,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Path of Fire",
       "url": "https://en.wikipedia.org/wiki/Path_of_Fire",
       "firstSeenAt": "2026-11-03T14:08:07.874Z"
+    },
+    {
+      "id": "channel:UCXlESqAt8ZLXkq88nA6o75A",
+      "type": "channel",
+      "label": "Angband",
+      "url": "https://www.youtube.com/channel/UCXlESqAt8ZLXkq88nA6o75A",
+      "firstSeenAt": "2026-11-10T14:50:00.109Z"
     }
   ],
   "recentItems": []

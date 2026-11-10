@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UC20vb-R_px4CguHzzBPhoyQ",
   "title": "EminemVEVO",
   "thumb": "https://yt3.ggpht.com/fYB3KuH8P5jyoReOqbDRyHQJjfKsPj-BYDcJb1XANiEpo6bhCf6LXpsNxE9_fvefub9S1hCkldU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 21,
+  "distinctSourceCount": 21,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -148,6 +148,13 @@
       "label": "Survival (Eminem song)",
       "url": "https://en.wikipedia.org/wiki/Survival_(Eminem_song)",
       "firstSeenAt": "2026-10-27T12:06:51.025Z"
+    },
+    {
+      "id": "wiki:Headlights (Eminem song)",
+      "type": "wikipedia",
+      "label": "Headlights (Eminem song)",
+      "url": "https://en.wikipedia.org/wiki/Headlights_(Eminem_song)",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": [

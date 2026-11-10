@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCtESv1e7ntJaLJYKIO1FoYw",
   "title": "Periodic Videos",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mVnp1Lc31B0TPILH30sz-eIQqX9ZML3ORtONYjcoNiQP4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "mycompasstv",
       "url": "https://www.youtube.com/channel/UC_s-h6_OndKi-z4dm4Z_CiQ",
       "firstSeenAt": "2026-11-09T16:12:39.235Z"
+    },
+    {
+      "id": "wiki:Smithson Tennant",
+      "type": "wikipedia",
+      "label": "Smithson Tennant",
+      "url": "https://en.wikipedia.org/wiki/Smithson_Tennant",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": []

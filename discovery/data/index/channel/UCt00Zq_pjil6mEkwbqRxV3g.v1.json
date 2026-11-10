@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCt00Zq_pjil6mEkwbqRxV3g",
   "title": "Roger Griffith",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -36,6 +36,41 @@
       "label": "Kennox House",
       "url": "https://en.wikipedia.org/wiki/Kennox_House",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Giffen railway station",
+      "type": "wikipedia",
+      "label": "Giffen railway station",
+      "url": "https://en.wikipedia.org/wiki/Giffen_railway_station",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Nettlehirst",
+      "type": "wikipedia",
+      "label": "Nettlehirst",
+      "url": "https://en.wikipedia.org/wiki/Nettlehirst",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Robert Burnes",
+      "type": "wikipedia",
+      "label": "Robert Burnes",
+      "url": "https://en.wikipedia.org/wiki/Robert_Burnes",
+      "firstSeenAt": "2026-11-10T14:49:44.156Z"
+    },
+    {
+      "id": "wiki:Montfode Castle",
+      "type": "wikipedia",
+      "label": "Montfode Castle",
+      "url": "https://en.wikipedia.org/wiki/Montfode_Castle",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:West Kilbride",
+      "type": "wikipedia",
+      "label": "West Kilbride",
+      "url": "https://en.wikipedia.org/wiki/West_Kilbride",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": []

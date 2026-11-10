@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UC-ssAZ6qVu0glgFUIsC8VSA",
   "title": "The Museum of Classic Chicago Television (www.FuzzyMemories.TV)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k7Omh_J-r3Z5-6D7x8iDyMtGE84WyWvAAMNG95uqW-Zw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "WTTW IDs from the 70s and 80s",
       "url": "https://www.youtube.com/channel/UCEYH6m-hEYbbvOZoi_6icsA",
       "firstSeenAt": "2026-09-19T10:55:38.193Z"
+    },
+    {
+      "id": "wiki:Larry Lujack",
+      "type": "wikipedia",
+      "label": "Larry Lujack",
+      "url": "https://en.wikipedia.org/wiki/Larry_Lujack",
+      "firstSeenAt": "2026-11-10T14:49:44.158Z"
     }
   ],
   "recentItems": []

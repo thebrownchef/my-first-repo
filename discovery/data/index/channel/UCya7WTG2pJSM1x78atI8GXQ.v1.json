@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCya7WTG2pJSM1x78atI8GXQ",
   "title": "EMGColonel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kYry98PE2t-ljPea25cWs975OqUGF-Pg-bdChcyYkxdw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.4,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Basil Hallam",
       "url": "https://en.wikipedia.org/wiki/Basil_Hallam",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:Marjorie Hayward",
+      "type": "wikipedia",
+      "label": "Marjorie Hayward",
+      "url": "https://en.wikipedia.org/wiki/Marjorie_Hayward",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": []

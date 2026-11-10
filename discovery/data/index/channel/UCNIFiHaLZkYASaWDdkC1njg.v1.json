@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCNIFiHaLZkYASaWDdkC1njg",
   "title": "A&E",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lLyI_w1CQFfncH836pqZ27fgE5dL0Fi4YfRJC3ay86gME=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 1.89,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "HISTORY",
       "url": "https://www.youtube.com/channel/UC9MAhZQQd9egwWCxrwSIsJQ",
       "firstSeenAt": "2026-09-16T11:29:18.976Z"
+    },
+    {
+      "id": "wiki:Olivia Cooke",
+      "type": "wikipedia",
+      "label": "Olivia Cooke",
+      "url": "https://en.wikipedia.org/wiki/Olivia_Cooke",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
     }
   ],
   "recentItems": []

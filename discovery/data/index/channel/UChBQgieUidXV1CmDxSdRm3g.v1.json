@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UChBQgieUidXV1CmDxSdRm3g",
   "title": "Citizen TV Kenya",
   "thumb": "https://yt3.ggpht.com/wj5XPSPtxg2oy9kdzdfRFRtyebgfB5mirkM8QmLR0TFqdzxga7iSWImBZo0DyQQ16zUvmDHr=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 34.45,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Abdul Rahim Dawood",
       "url": "https://en.wikipedia.org/wiki/Abdul_Rahim_Dawood",
       "firstSeenAt": "2026-10-21T11:44:42.678Z"
+    },
+    {
+      "id": "wiki:George Saitoti",
+      "type": "wikipedia",
+      "label": "George Saitoti",
+      "url": "https://en.wikipedia.org/wiki/George_Saitoti",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": []

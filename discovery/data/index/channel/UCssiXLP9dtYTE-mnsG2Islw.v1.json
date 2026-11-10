@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCssiXLP9dtYTE-mnsG2Islw",
   "title": "jaglavaksoldier",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k_X1pve3IfsVQYgmYcwu-kG3zIlmx_H8DdxgcKMJ6qVg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Rapier (missile)",
       "url": "https://en.wikipedia.org/wiki/Rapier_(missile)",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:MILAN",
+      "type": "wikipedia",
+      "label": "MILAN",
+      "url": "https://en.wikipedia.org/wiki/MILAN",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": []

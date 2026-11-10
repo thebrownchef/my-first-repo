@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCD0vxQF1g6vwMDLtDqTz1SA",
   "title": "TFC The Filipino Channel",
   "thumb": "https://yt3.ggpht.com/wW4r_tYinqPCDJs-MVMWIQJn6-pC8wW09jWKcDYn9sPKmhvtLXxs9KtPqNRoDSH3hGmB45BS2w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 1.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "ABS-CBN Balitang America",
       "url": "https://www.youtube.com/channel/UCSkB4nUB0vtXcLdcnUVAN5Q",
       "firstSeenAt": "2026-09-25T11:48:11.724Z"
+    },
+    {
+      "id": "channel:UCF6BmaCwwv6BEDJbWEmIaNA",
+      "type": "channel",
+      "label": "adobonationTFC",
+      "url": "https://www.youtube.com/channel/UCF6BmaCwwv6BEDJbWEmIaNA",
+      "firstSeenAt": "2026-11-10T14:50:12.300Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCc1mzTWCyiwpwTccGdiphag",
   "title": "Charney Media",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxVR7ruZd3czjAq9n3-d6XYr8KG210Xmd3i8S76od5X08=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Teddy Kollek",
       "url": "https://en.wikipedia.org/wiki/Teddy_Kollek",
       "firstSeenAt": "2026-11-07T12:56:30.839Z"
+    },
+    {
+      "id": "wiki:Bill Mazer",
+      "type": "wikipedia",
+      "label": "Bill Mazer",
+      "url": "https://en.wikipedia.org/wiki/Bill_Mazer",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": []

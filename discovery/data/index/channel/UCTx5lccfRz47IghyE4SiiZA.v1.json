@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCTx5lccfRz47IghyE4SiiZA",
   "title": "BC History",
   "thumb": "https://yt3.ggpht.com/o8ljxbNVeAYgiobkvs0KTn-OocEyCSC2ahAtarHPY1XWpdX3_FASwX-1obErEe7SY5lG3Q6ucQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 27,
-  "distinctSourceCount": 27,
+  "score": 34,
+  "distinctSourceCount": 34,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -197,6 +197,55 @@
       "label": "SR.N6",
       "url": "https://en.wikipedia.org/wiki/SR.N6",
       "firstSeenAt": "2026-11-09T16:12:22.803Z"
+    },
+    {
+      "id": "wiki:Adams River (British Columbia)",
+      "type": "wikipedia",
+      "label": "Adams River (British Columbia)",
+      "url": "https://en.wikipedia.org/wiki/Adams_River_(British_Columbia)",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Sikorsky S-38",
+      "type": "wikipedia",
+      "label": "Sikorsky S-38",
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_S-38",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Golden Ears Provincial Park",
+      "type": "wikipedia",
+      "label": "Golden Ears Provincial Park",
+      "url": "https://en.wikipedia.org/wiki/Golden_Ears_Provincial_Park",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Kerrisdale",
+      "type": "wikipedia",
+      "label": "Kerrisdale",
+      "url": "https://en.wikipedia.org/wiki/Kerrisdale",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Vere Ponsonby, 9th Earl of Bessborough",
+      "type": "wikipedia",
+      "label": "Vere Ponsonby, 9th Earl of Bessborough",
+      "url": "https://en.wikipedia.org/wiki/Vere_Ponsonby%2C_9th_Earl_of_Bessborough",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:MV Princess of Vancouver",
+      "type": "wikipedia",
+      "label": "MV Princess of Vancouver",
+      "url": "https://en.wikipedia.org/wiki/MV_Princess_of_Vancouver",
+      "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:MacMillan Bloedel",
+      "type": "wikipedia",
+      "label": "MacMillan Bloedel",
+      "url": "https://en.wikipedia.org/wiki/MacMillan_Bloedel",
+      "firstSeenAt": "2026-11-10T14:49:44.158Z"
     }
   ],
   "recentItems": [

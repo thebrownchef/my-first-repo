@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCmVE1oDNf5IjExOGfdbL3SA",
   "title": "NettwerkMusic",
   "thumb": "https://yt3.ggpht.com/WgRK3nOpCTWbXVzs9B_n1GgN9sn-Bf5u6AA0HrX7jyDKVTQdddEcMd1iIt1RYyuw8VLsiMwLrps=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "We All Wanna Be Prince",
       "url": "https://en.wikipedia.org/wiki/We_All_Wanna_Be_Prince",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "channel:UCX1ry_DJg7RvMJ66EzgSe-A",
+      "type": "channel",
+      "label": "nettwerkbackstage",
+      "url": "https://www.youtube.com/channel/UCX1ry_DJg7RvMJ66EzgSe-A",
+      "firstSeenAt": "2026-11-10T14:50:01.497Z"
     }
   ],
   "recentItems": []

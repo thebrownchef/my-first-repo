@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCr5WIdNO5CwXVVTl0_TuJ3Q",
   "title": "schmausschmaus",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvTo-8lTS_CSOJCbY96jW0_UMsVG6JonCteuhCkelH9w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Arthur St. Claire",
       "url": "https://en.wikipedia.org/wiki/Arthur_St._Claire",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Ibrahim of Johor",
+      "type": "wikipedia",
+      "label": "Ibrahim of Johor",
+      "url": "https://en.wikipedia.org/wiki/Ibrahim_of_Johor",
+      "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    },
+    {
+      "id": "wiki:Arno Frey",
+      "type": "wikipedia",
+      "label": "Arno Frey",
+      "url": "https://en.wikipedia.org/wiki/Arno_Frey",
+      "firstSeenAt": "2026-11-10T14:49:46.640Z"
     }
   ],
   "recentItems": []

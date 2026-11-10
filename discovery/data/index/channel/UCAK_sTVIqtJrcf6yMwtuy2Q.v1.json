@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCAK_sTVIqtJrcf6yMwtuy2Q",
   "title": "FoxesVEVO",
   "thumb": "https://yt3.ggpht.com/e22Kqs0FFpmWjwcciesl7YJihdLd_VwLwftWK6Ao7rnHoeayAHSAyVwFf0TM8-q_7rCFf72png=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Let Go for Tonight",
       "url": "https://en.wikipedia.org/wiki/Let_Go_for_Tonight",
       "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:Foxes discography",
+      "type": "wikipedia",
+      "label": "Foxes discography",
+      "url": "https://en.wikipedia.org/wiki/Foxes_discography",
+      "firstSeenAt": "2026-11-10T14:49:44.157Z"
     }
   ],
   "recentItems": []

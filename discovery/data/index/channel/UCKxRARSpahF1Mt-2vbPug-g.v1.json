@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "id": "UCKxRARSpahF1Mt-2vbPug-g",
+  "title": "The Signal Path",
+  "thumb": "https://yt3.ggpht.com/Px_Rr3vOJwRW_HPSBs0TImCE-muTKw-POdC1n4nbr1NcM-GVCbQN157WYCmPwcdz-vZVVXBHzz0=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.06,
+  "sources": [
+    {
+      "id": "channel:UC30jm2WJ03mTCOxzU3mBC1A",
+      "type": "channel",
+      "label": "GBPPR2",
+      "url": "https://www.youtube.com/channel/UC30jm2WJ03mTCOxzU3mBC1A",
+      "firstSeenAt": "2026-11-04T14:28:41.199Z"
+    },
+    {
+      "id": "channel:UC2DjFE7Xf11URZqWBigcVOQ",
+      "type": "channel",
+      "label": "EEVblog",
+      "url": "https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ",
+      "firstSeenAt": "2026-11-10T14:50:05.199Z"
+    }
+  ],
+  "recentItems": []
+}

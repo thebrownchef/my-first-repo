@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:14:01.151Z",
+  "generatedAt": "2026-11-10T14:51:02.035Z",
   "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
   "title": "Computer History Museum",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Avatar (1979 video game)",
       "url": "https://en.wikipedia.org/wiki/Avatar_(1979_video_game)",
       "firstSeenAt": "2026-11-09T16:12:22.802Z"
+    },
+    {
+      "id": "wiki:Semi-Automatic Ground Environment",
+      "type": "wikipedia",
+      "label": "Semi-Automatic Ground Environment",
+      "url": "https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment",
+      "firstSeenAt": "2026-11-10T14:49:42.358Z"
     }
   ],
   "recentItems": []
