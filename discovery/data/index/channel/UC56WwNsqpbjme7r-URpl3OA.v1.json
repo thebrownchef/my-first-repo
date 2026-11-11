@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC56WwNsqpbjme7r-URpl3OA",
   "title": "JewishNewsOne",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nerXBmZoDpvWlZH-0CWizCr8yh_JtOI_ekSunyWmkcKQw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.72,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Jewish News One",
       "url": "https://en.wikipedia.org/wiki/Jewish_News_One",
       "firstSeenAt": "2026-10-25T11:22:07.414Z"
+    },
+    {
+      "id": "wiki:2013 Pakistani general election",
+      "type": "wikipedia",
+      "label": "2013 Pakistani general election",
+      "url": "https://en.wikipedia.org/wiki/2013_Pakistani_general_election",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
     }
   ],
   "recentItems": []

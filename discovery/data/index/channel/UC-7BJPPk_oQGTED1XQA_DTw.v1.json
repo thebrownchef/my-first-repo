@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC-7BJPPk_oQGTED1XQA_DTw",
   "title": "VevoDSCVR",
   "thumb": "https://yt3.ggpht.com/QptM65ixZFKTd-FtDVK-4MTnOcoOGNxDWGlw33kK9WOxy-adaJk1WFDCVX8ibNd1bf_QcI3D-I4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.3,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "AMEofficialVEVO",
       "url": "https://www.youtube.com/channel/UCAJrBz11GOrHOaX9zcsW2gg",
       "firstSeenAt": "2026-10-28T12:49:53.002Z"
+    },
+    {
+      "id": "channel:UC_iM4iwN4E-BoSbRXt20wrw",
+      "type": "channel",
+      "label": "TichVEVO",
+      "url": "https://www.youtube.com/channel/UC_iM4iwN4E-BoSbRXt20wrw",
+      "firstSeenAt": "2026-11-11T14:16:51.794Z"
+    },
+    {
+      "id": "channel:UCGLzRVwflLiCoKKErrMfREg",
+      "type": "channel",
+      "label": "LabrinthVEVO",
+      "url": "https://www.youtube.com/channel/UCGLzRVwflLiCoKKErrMfREg",
+      "firstSeenAt": "2026-11-11T14:16:52.612Z"
     }
   ],
   "recentItems": []

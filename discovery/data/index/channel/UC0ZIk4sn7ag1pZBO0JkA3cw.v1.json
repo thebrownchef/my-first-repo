@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC0ZIk4sn7ag1pZBO0JkA3cw",
   "title": "Marilyn Monroe Video Archives",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m7iFtYEaNetXPpB4QaYkXz4VI7xr_kbpLYPqrm4fOhPak=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.46,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Love Happy",
       "url": "https://en.wikipedia.org/wiki/Love_Happy",
       "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:Wally Cox",
+      "type": "wikipedia",
+      "label": "Wally Cox",
+      "url": "https://en.wikipedia.org/wiki/Wally_Cox",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
     }
   ],
   "recentItems": []

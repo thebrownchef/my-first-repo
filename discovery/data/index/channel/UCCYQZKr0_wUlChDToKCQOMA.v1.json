@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCCYQZKr0_wUlChDToKCQOMA",
   "title": "perfectjazz78",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lVE6A416_vLkaool4D0mRF9OdART0OwEaH8EeVtRM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Whispering Jack Smith",
       "url": "https://en.wikipedia.org/wiki/Whispering_Jack_Smith",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:El Brendel",
+      "type": "wikipedia",
+      "label": "El Brendel",
+      "url": "https://en.wikipedia.org/wiki/El_Brendel",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
     }
   ],
   "recentItems": []

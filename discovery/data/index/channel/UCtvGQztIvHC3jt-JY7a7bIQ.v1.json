@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCtvGQztIvHC3jt-JY7a7bIQ",
   "title": "gullivior",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kENV118jKdgTuGRWw6e4Wdw1UKT_WQ6gzXBOUbQfWWnrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.15,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Isidor Philipp",
       "url": "https://en.wikipedia.org/wiki/Isidor_Philipp",
       "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    },
+    {
+      "id": "wiki:Yolanda Mero",
+      "type": "wikipedia",
+      "label": "Yolanda Mero",
+      "url": "https://en.wikipedia.org/wiki/Yolanda_Mero",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
     }
   ],
   "recentItems": []

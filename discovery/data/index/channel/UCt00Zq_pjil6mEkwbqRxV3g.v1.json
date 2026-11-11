@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCt00Zq_pjil6mEkwbqRxV3g",
   "title": "Roger Griffith",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -71,6 +71,41 @@
       "label": "West Kilbride",
       "url": "https://en.wikipedia.org/wiki/West_Kilbride",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Dugald Semple",
+      "type": "wikipedia",
+      "label": "Dugald Semple",
+      "url": "https://en.wikipedia.org/wiki/Dugald_Semple",
+      "firstSeenAt": "2026-11-11T14:16:18.275Z"
+    },
+    {
+      "id": "wiki:Wemyss Bay railway station",
+      "type": "wikipedia",
+      "label": "Wemyss Bay railway station",
+      "url": "https://en.wikipedia.org/wiki/Wemyss_Bay_railway_station",
+      "firstSeenAt": "2026-11-11T14:16:18.277Z"
+    },
+    {
+      "id": "wiki:Eglinton Country Park",
+      "type": "wikipedia",
+      "label": "Eglinton Country Park",
+      "url": "https://en.wikipedia.org/wiki/Eglinton_Country_Park",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
+    },
+    {
+      "id": "wiki:Hedlundia pseudofennica",
+      "type": "wikipedia",
+      "label": "Hedlundia pseudofennica",
+      "url": "https://en.wikipedia.org/wiki/Hedlundia_pseudofennica",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
+    },
+    {
+      "id": "wiki:West Kilbride railway station",
+      "type": "wikipedia",
+      "label": "West Kilbride railway station",
+      "url": "https://en.wikipedia.org/wiki/West_Kilbride_railway_station",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
     }
   ],
   "recentItems": []

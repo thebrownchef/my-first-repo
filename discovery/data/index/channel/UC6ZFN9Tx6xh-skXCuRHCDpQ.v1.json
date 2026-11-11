@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
   "title": "PBS NewsHour",
   "thumb": "https://yt3.ggpht.com/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 10.25,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "bmstv",
       "url": "https://www.youtube.com/channel/UCqkl7c_BE3t0sKbzjY7_ARQ",
       "firstSeenAt": "2026-10-20T11:32:21.324Z"
+    },
+    {
+      "id": "channel:UCDttISJ8lpx_476pF3i3sfA",
+      "type": "channel",
+      "label": "Milwaukee PBS",
+      "url": "https://www.youtube.com/channel/UCDttISJ8lpx_476pF3i3sfA",
+      "firstSeenAt": "2026-11-11T14:16:46.787Z"
     }
   ],
   "recentItems": []

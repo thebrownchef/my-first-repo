@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCupvZG-5ko_eiXAupbDfxWw",
   "title": "CNN",
   "thumb": "https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 24.38,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "CNN Business",
       "url": "https://www.youtube.com/channel/UCe-4xQosMQGkIA8mT4sR98Q",
       "firstSeenAt": "2026-11-01T13:17:48.000Z"
+    },
+    {
+      "id": "wiki:Panama City school board shootings",
+      "type": "wikipedia",
+      "label": "Panama City school board shootings",
+      "url": "https://en.wikipedia.org/wiki/Panama_City_school_board_shootings",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

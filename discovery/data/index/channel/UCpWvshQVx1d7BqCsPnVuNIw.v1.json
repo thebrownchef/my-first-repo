@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCpWvshQVx1d7BqCsPnVuNIw",
   "title": "The Star",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kAN7qLQSCVQJ9V5KPldGARclvUeiOsr8G2cCDorN7zwIM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 12.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Star",
       "url": "https://www.youtube.com/channel/UCpWvshQVx1d7BqCsPnVuNIw",
       "firstSeenAt": "2026-10-29T12:56:40.130Z"
+    },
+    {
+      "id": "wiki:Death of Noramfaizul Mohd Nor",
+      "type": "wikipedia",
+      "label": "Death of Noramfaizul Mohd Nor",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Noramfaizul_Mohd_Nor",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
     }
   ],
   "recentItems": []

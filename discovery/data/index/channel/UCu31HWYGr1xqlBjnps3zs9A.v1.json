@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCu31HWYGr1xqlBjnps3zs9A",
   "title": "JLWFan1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_klAwSO5zFTVwWr7VNVmFnbe3WO3EWyw32NZ1VlAC2_8Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Amy Woodforde-Finden",
       "url": "https://en.wikipedia.org/wiki/Amy_Woodforde-Finden",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:George Dyson (composer)",
+      "type": "wikipedia",
+      "label": "George Dyson (composer)",
+      "url": "https://en.wikipedia.org/wiki/George_Dyson_(composer)",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
+    },
+    {
+      "id": "wiki:Cyril Scott",
+      "type": "wikipedia",
+      "label": "Cyril Scott",
+      "url": "https://en.wikipedia.org/wiki/Cyril_Scott",
+      "firstSeenAt": "2026-11-11T14:16:18.277Z"
     }
   ],
   "recentItems": []

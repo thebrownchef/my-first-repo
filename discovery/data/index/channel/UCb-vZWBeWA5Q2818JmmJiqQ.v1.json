@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCb-vZWBeWA5Q2818JmmJiqQ",
   "title": "Oscars",
   "thumb": "https://yt3.ggpht.com/NpO5ACfL4GyjGF4jE6OZwHNatbPnVXIzwzl9gp3bU-avVqygYJXiLzjrLz_hLmbOr2AHV4qyO3o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 26,
-  "distinctSourceCount": 26,
+  "score": 27,
+  "distinctSourceCount": 27,
   "hop": 0,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -190,6 +190,13 @@
       "label": "List of awards and nominations received by Woody Allen",
       "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Woody_Allen",
       "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:Susannah York",
+      "type": "wikipedia",
+      "label": "Susannah York",
+      "url": "https://en.wikipedia.org/wiki/Susannah_York",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": [

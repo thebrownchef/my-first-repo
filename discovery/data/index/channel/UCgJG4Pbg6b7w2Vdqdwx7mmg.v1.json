@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCgJG4Pbg6b7w2Vdqdwx7mmg",
   "title": "Javier Livas Cantu U7",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lH07TYPMAj98Sh9iAESA0I0PgzG2OR13wuoElRVNOYV2I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Stafford Beer",
       "url": "https://en.wikipedia.org/wiki/Stafford_Beer",
       "firstSeenAt": "2026-11-02T15:44:46.934Z"
+    },
+    {
+      "id": "wiki:W. Ross Ashby",
+      "type": "wikipedia",
+      "label": "W. Ross Ashby",
+      "url": "https://en.wikipedia.org/wiki/W._Ross_Ashby",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
     }
   ],
   "recentItems": []

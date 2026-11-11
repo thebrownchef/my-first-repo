@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCAOOGnUiwzWs-p_TQbzdUEw",
   "title": "Vevo Deutschland",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfwUOkI1PtcJH5cISlLzOugaB2Zh2u-bbtsWgsvhIxmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "LenaVEVO",
       "url": "https://www.youtube.com/channel/UC7VATDf9TecYirAJgNc0lfQ",
       "firstSeenAt": "2026-10-23T11:34:49.386Z"
+    },
+    {
+      "id": "channel:UCQkxyYY3C1w6VmB93dXc1oQ",
+      "type": "channel",
+      "label": "KlangkarussellVEVO",
+      "url": "https://www.youtube.com/channel/UCQkxyYY3C1w6VmB93dXc1oQ",
+      "firstSeenAt": "2026-11-11T14:16:53.427Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCLx053rWZxCiYWsBETgdKrQ",
   "title": "LGR",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ly-nFGTUa0nAu_QX2eIVN_UMRxG2cZOwLKUIU1kXk17eI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Techmoan",
       "url": "https://www.youtube.com/channel/UC5I2hjZYiW9gZPVkvzM8_Cw",
       "firstSeenAt": "2026-09-27T11:59:20.090Z"
+    },
+    {
+      "id": "channel:UCWzuNflwywaRVerbDsgG2lA",
+      "type": "channel",
+      "label": "TanRu Nomad",
+      "url": "https://www.youtube.com/channel/UCWzuNflwywaRVerbDsgG2lA",
+      "firstSeenAt": "2026-11-11T14:16:39.510Z"
     }
   ],
   "recentItems": []

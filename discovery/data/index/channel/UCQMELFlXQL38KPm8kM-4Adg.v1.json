@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCQMELFlXQL38KPm8kM-4Adg",
   "title": "Jay Leno's Garage",
   "thumb": "https://yt3.ggpht.com/E8nM-FEvMMcf0JOxhamilnX-oiKrtU0IEFGPY8M7dw_DOmAc2IYHE0sJNQtOBu-WKNwbCemK=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.24,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Nine-O-Nine",
       "url": "https://en.wikipedia.org/wiki/Nine-O-Nine",
       "firstSeenAt": "2026-11-09T16:12:22.802Z"
+    },
+    {
+      "id": "wiki:Jaguar XKSS",
+      "type": "wikipedia",
+      "label": "Jaguar XKSS",
+      "url": "https://en.wikipedia.org/wiki/Jaguar_XKSS",
+      "firstSeenAt": "2026-11-11T14:16:18.277Z"
     }
   ],
   "recentItems": []

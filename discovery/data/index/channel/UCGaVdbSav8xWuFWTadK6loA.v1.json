@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCGaVdbSav8xWuFWTadK6loA",
   "title": "vlogbrothers",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kRgkKL2CrQ4Ix8eIcTVlL7kQtdiePYEmYeCHq126dk4TE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Nerdfighteria",
       "url": "https://en.wikipedia.org/wiki/Nerdfighteria",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Funky Bones",
+      "type": "wikipedia",
+      "label": "Funky Bones",
+      "url": "https://en.wikipedia.org/wiki/Funky_Bones",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCca7CDkB4Id1a6HKzeni3Mw",
   "title": "wwwLaRomance",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_npR9PV_5lqI02j8tkSJKeeVcpV_lub_1Vxy4EtEkFx=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -43,6 +43,27 @@
       "label": "Nikolay Zabolotsky",
       "url": "https://en.wikipedia.org/wiki/Nikolay_Zabolotsky",
       "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    },
+    {
+      "id": "wiki:Nikolay Rubtsov",
+      "type": "wikipedia",
+      "label": "Nikolay Rubtsov",
+      "url": "https://en.wikipedia.org/wiki/Nikolay_Rubtsov",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
+    },
+    {
+      "id": "wiki:Bella Akhmadulina",
+      "type": "wikipedia",
+      "label": "Bella Akhmadulina",
+      "url": "https://en.wikipedia.org/wiki/Bella_Akhmadulina",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
+    },
+    {
+      "id": "wiki:Vasily Aksyonov",
+      "type": "wikipedia",
+      "label": "Vasily Aksyonov",
+      "url": "https://en.wikipedia.org/wiki/Vasily_Aksyonov",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
     }
   ],
   "recentItems": []

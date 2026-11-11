@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCEY1ejsweY4DgMwOVJeEaBA",
   "title": "The X Factor UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lT-h0rLAAQsDx5PLwhd98_v69lvoZ_FZT7DasSxATTvv4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.83,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Lucy Spraggan",
       "url": "https://en.wikipedia.org/wiki/Lucy_Spraggan",
       "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    },
+    {
+      "id": "wiki:Aiden Grimshaw",
+      "type": "wikipedia",
+      "label": "Aiden Grimshaw",
+      "url": "https://en.wikipedia.org/wiki/Aiden_Grimshaw",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCfZVI8Kq2yuxNOO9tpvdmZg",
   "title": "240252",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kZk0McKv8o0e6o_w_KuizH42NznpEkExPIwqJXPLvObQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.55,
   "sources": [
@@ -92,6 +92,27 @@
       "label": "Alexander Vertinsky",
       "url": "https://en.wikipedia.org/wiki/Alexander_Vertinsky",
       "firstSeenAt": "2026-11-10T14:49:44.156Z"
+    },
+    {
+      "id": "wiki:Tadeusz Faliszewski",
+      "type": "wikipedia",
+      "label": "Tadeusz Faliszewski",
+      "url": "https://en.wikipedia.org/wiki/Tadeusz_Faliszewski",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
+    },
+    {
+      "id": "wiki:Henry Vars",
+      "type": "wikipedia",
+      "label": "Henry Vars",
+      "url": "https://en.wikipedia.org/wiki/Henry_Vars",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
+    },
+    {
+      "id": "wiki:Jerzy Petersburski",
+      "type": "wikipedia",
+      "label": "Jerzy Petersburski",
+      "url": "https://en.wikipedia.org/wiki/Jerzy_Petersburski",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

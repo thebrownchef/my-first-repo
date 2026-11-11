@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCa_4DcdTB9QfK0LY9-7qWuQ",
   "title": "AbbaVEVO",
   "thumb": "https://yt3.ggpht.com/ORv2t07cv-6KWaEAPrX8gjw0Gijn005m0iGObnr6wwy6atRdJt3rNTxXuoAU1bPVG9yfjaIF=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "The Winner Takes It All",
       "url": "https://en.wikipedia.org/wiki/The_Winner_Takes_It_All",
       "firstSeenAt": "2026-10-25T11:22:07.150Z"
+    },
+    {
+      "id": "wiki:Take a Chance on Me",
+      "type": "wikipedia",
+      "label": "Take a Chance on Me",
+      "url": "https://en.wikipedia.org/wiki/Take_a_Chance_on_Me",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

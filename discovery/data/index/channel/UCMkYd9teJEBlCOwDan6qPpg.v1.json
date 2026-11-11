@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCMkYd9teJEBlCOwDan6qPpg",
   "title": "clintonlibrary42",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_liDqRX2zpqpSke6N6ise1_lwt3uUPh5R-Gz0qbMv7skMI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.27,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "1996 United States Air Force Boeing T-43 crash",
       "url": "https://en.wikipedia.org/wiki/1996_United_States_Air_Force_Boeing_T-43_crash",
       "firstSeenAt": "2026-10-13T14:07:55.127Z"
+    },
+    {
+      "id": "wiki:On the Pulse of Morning",
+      "type": "wikipedia",
+      "label": "On the Pulse of Morning",
+      "url": "https://en.wikipedia.org/wiki/On_the_Pulse_of_Morning",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
     }
   ],
   "recentItems": []

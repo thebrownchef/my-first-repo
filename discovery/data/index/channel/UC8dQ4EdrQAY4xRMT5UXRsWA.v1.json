@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC8dQ4EdrQAY4xRMT5UXRsWA",
   "title": "WREYtube",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKhNl6HpR--PdCO8N8g_dBf73mLkD1lh7rfT0G0qmig=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "College Basketball on ABC",
       "url": "https://en.wikipedia.org/wiki/College_Basketball_on_ABC",
       "firstSeenAt": "2026-10-09T13:13:04.342Z"
+    },
+    {
+      "id": "wiki:Arthur Bernard Lewis",
+      "type": "wikipedia",
+      "label": "Arthur Bernard Lewis",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Bernard_Lewis",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCaHNFIob5Ixv74f5on3lvIw",
   "title": "CalvinHarrisVEVO",
   "thumb": "https://yt3.ggpht.com/OsW5zo5w26RBwGTLhC4SSNpmt6ufjosU0lzTg2EqlozD5L5Ja2jpP0GWSA06E2bIa8SFflpw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Drinking from the Bottle",
       "url": "https://en.wikipedia.org/wiki/Drinking_from_the_Bottle",
       "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "channel:UCk78ZcA6kflEvBR0UrGDH0Q",
+      "type": "channel",
+      "label": "LMFAOVEVO",
+      "url": "https://www.youtube.com/channel/UCk78ZcA6kflEvBR0UrGDH0Q",
+      "firstSeenAt": "2026-11-11T14:16:50.776Z"
     }
   ],
   "recentItems": []

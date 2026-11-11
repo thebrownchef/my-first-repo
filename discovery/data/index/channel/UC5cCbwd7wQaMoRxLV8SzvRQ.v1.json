@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC5cCbwd7wQaMoRxLV8SzvRQ",
   "title": "jurek46pink",
   "thumb": "https://yt3.ggpht.com/9_YWvBSWkhXoSulxPeSt2gKjynYDWMVP4Jq884TKWZTHHsFUUJjTRRqQgY4nk6dGY7cYNbEowA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hanka Ordonówna",
       "url": "https://en.wikipedia.org/wiki/Hanka_Ordon%C3%B3wna",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Ivo Wesby",
+      "type": "wikipedia",
+      "label": "Ivo Wesby",
+      "url": "https://en.wikipedia.org/wiki/Ivo_Wesby",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCO9Q5_D6tItyoilmDogexng",
   "title": "PublicResourceOrg",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN8msoL_nLAxHUy2pwTKFRXZjHhPiX76565DKcqbvUhw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -85,6 +85,20 @@
       "label": "Battle of Manila (1945)",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Manila_(1945)",
       "firstSeenAt": "2026-11-07T12:56:30.838Z"
+    },
+    {
+      "id": "wiki:Gordon Seagrave",
+      "type": "wikipedia",
+      "label": "Gordon Seagrave",
+      "url": "https://en.wikipedia.org/wiki/Gordon_Seagrave",
+      "firstSeenAt": "2026-11-11T14:16:18.277Z"
+    },
+    {
+      "id": "wiki:Paul Siple",
+      "type": "wikipedia",
+      "label": "Paul Siple",
+      "url": "https://en.wikipedia.org/wiki/Paul_Siple",
+      "firstSeenAt": "2026-11-11T14:16:18.277Z"
     }
   ],
   "recentItems": []

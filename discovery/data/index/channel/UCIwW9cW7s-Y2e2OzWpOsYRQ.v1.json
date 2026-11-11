@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCIwW9cW7s-Y2e2OzWpOsYRQ",
   "title": "noochinator1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOW0gkUIPEkXuZ8sEIJ1RKlG6ieifjNCfJXHF7GgZ93g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -64,6 +64,41 @@
       "label": "Charles Rosen",
       "url": "https://en.wikipedia.org/wiki/Charles_Rosen",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Benjamin Lees",
+      "type": "wikipedia",
+      "label": "Benjamin Lees",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Lees",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
+    },
+    {
+      "id": "wiki:Alexander Tcherepnin",
+      "type": "wikipedia",
+      "label": "Alexander Tcherepnin",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Tcherepnin",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
+    },
+    {
+      "id": "wiki:Bruce Hungerford",
+      "type": "wikipedia",
+      "label": "Bruce Hungerford",
+      "url": "https://en.wikipedia.org/wiki/Bruce_Hungerford",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
+    },
+    {
+      "id": "wiki:Etelka Freund",
+      "type": "wikipedia",
+      "label": "Etelka Freund",
+      "url": "https://en.wikipedia.org/wiki/Etelka_Freund",
+      "firstSeenAt": "2026-11-11T14:16:20.749Z"
+    },
+    {
+      "id": "wiki:Earl Wild",
+      "type": "wikipedia",
+      "label": "Earl Wild",
+      "url": "https://en.wikipedia.org/wiki/Earl_Wild",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

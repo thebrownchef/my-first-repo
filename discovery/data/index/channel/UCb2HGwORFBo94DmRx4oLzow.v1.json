@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCb2HGwORFBo94DmRx4oLzow",
   "title": "One Direction",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBZumWLg8HqCIAD4oHGTIIdD8DTz5eV_DgCXFu6KxNjj28=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "One Direction: This Is Us",
       "url": "https://en.wikipedia.org/wiki/One_Direction%3A_This_Is_Us",
       "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:Diana Vickers",
+      "type": "wikipedia",
+      "label": "Diana Vickers",
+      "url": "https://en.wikipedia.org/wiki/Diana_Vickers",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

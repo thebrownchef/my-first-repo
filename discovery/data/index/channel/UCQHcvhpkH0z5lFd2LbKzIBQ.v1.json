@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCQHcvhpkH0z5lFd2LbKzIBQ",
   "title": "Wellcome Collection",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m8b_l_gR8HYboUlDdnHD6XouIV2441i0W6E-HHpKa_GQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tejinder Virdee",
       "url": "https://en.wikipedia.org/wiki/Tejinder_Virdee",
       "firstSeenAt": "2026-11-10T14:49:44.158Z"
+    },
+    {
+      "id": "wiki:Jeremy Farrar",
+      "type": "wikipedia",
+      "label": "Jeremy Farrar",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Farrar",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

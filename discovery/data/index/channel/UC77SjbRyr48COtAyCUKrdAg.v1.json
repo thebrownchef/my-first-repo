@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC77SjbRyr48COtAyCUKrdAg",
   "title": "Herbert Gantschacher",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kFH9-vxZFCO767-JaGrDloxt2XO3O4i388wS7AhWZ02Fo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tracks to Terezín",
       "url": "https://en.wikipedia.org/wiki/Tracks_to_Terez%C3%ADn",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Gert Jonke",
+      "type": "wikipedia",
+      "label": "Gert Jonke",
+      "url": "https://en.wikipedia.org/wiki/Gert_Jonke",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

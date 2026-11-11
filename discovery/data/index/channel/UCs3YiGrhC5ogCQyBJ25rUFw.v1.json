@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCs3YiGrhC5ogCQyBJ25rUFw",
   "title": "seankingstonVEVO",
   "thumb": "https://yt3.ggpht.com/GauKX3CUcsbThOdiWHaA45WCIJ6sqLXm8uScUiFRRJ_Ij429AvNDRDK9BaVWkL5uf2_GcYBzEw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Beat It (Sean Kingston song)",
       "url": "https://en.wikipedia.org/wiki/Beat_It_(Sean_Kingston_song)",
       "firstSeenAt": "2026-10-24T10:54:52.442Z"
+    },
+    {
+      "id": "channel:UCk78ZcA6kflEvBR0UrGDH0Q",
+      "type": "channel",
+      "label": "LMFAOVEVO",
+      "url": "https://www.youtube.com/channel/UCk78ZcA6kflEvBR0UrGDH0Q",
+      "firstSeenAt": "2026-11-11T14:16:50.777Z"
     }
   ],
   "recentItems": []

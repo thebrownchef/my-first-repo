@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "id": "UCBrXaZ0wUw7JwdfrAvAbTUg",
+  "title": "Bloodaxe Books",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nMuAW7zBbavUbwUrx2FmVRr39jx5w_y4MANOvG1W4WW7Q=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "wiki:Ruth Stone",
+      "type": "wikipedia",
+      "label": "Ruth Stone",
+      "url": "https://en.wikipedia.org/wiki/Ruth_Stone",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
+    },
+    {
+      "id": "wiki:John Berryman",
+      "type": "wikipedia",
+      "label": "John Berryman",
+      "url": "https://en.wikipedia.org/wiki/John_Berryman",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
+    }
+  ],
+  "recentItems": []
+}

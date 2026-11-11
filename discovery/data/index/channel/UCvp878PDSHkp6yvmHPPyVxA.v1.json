@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCvp878PDSHkp6yvmHPPyVxA",
   "title": "PETROVICPETAR",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k5fRMLRt_iW3ZhMYuUlm0rTd4jQyVL8QCk2ptxJktrBQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Eto! Baš hoću!",
       "url": "https://en.wikipedia.org/wiki/Eto!_Ba%C5%A1_ho%C4%87u!",
       "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    },
+    {
+      "id": "wiki:Đorđe Balašević",
+      "type": "wikipedia",
+      "label": "Đorđe Balašević",
+      "url": "https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Bala%C5%A1evi%C4%87",
+      "firstSeenAt": "2026-11-11T14:16:18.275Z"
     }
   ],
   "recentItems": []

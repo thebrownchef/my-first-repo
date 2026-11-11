@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCgyeJxD05YnoDquRMNBfBqw",
   "title": "PBS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbFFUNXtl50QGZiihGQlYmXWR7JpTh3E5wUg_uq9o7Ux8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "PBS Presidents",
       "url": "https://www.youtube.com/channel/UCBPQeP5lWGVwFhxbiEjnZFw",
       "firstSeenAt": "2026-10-16T11:19:51.973Z"
+    },
+    {
+      "id": "channel:UCDttISJ8lpx_476pF3i3sfA",
+      "type": "channel",
+      "label": "Milwaukee PBS",
+      "url": "https://www.youtube.com/channel/UCDttISJ8lpx_476pF3i3sfA",
+      "firstSeenAt": "2026-11-11T14:16:46.785Z"
     }
   ],
   "recentItems": []

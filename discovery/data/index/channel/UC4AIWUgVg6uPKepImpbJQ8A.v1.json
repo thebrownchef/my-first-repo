@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC4AIWUgVg6uPKepImpbJQ8A",
   "title": "My French Stories",
   "thumb": "https://yt3.ggpht.com/3qyBhKeLc-0le1aTf_ct6ivCFxJ21xun85KSkw3sBmd4pEB032gwP4XcmWJ-LEi_gCBk1p1Br7k=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.15,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Marchers",
       "url": "https://en.wikipedia.org/wiki/The_Marchers",
       "firstSeenAt": "2026-11-07T12:56:36.816Z"
+    },
+    {
+      "id": "channel:UCACgMCTNoaIK9mJkl_lhGxg",
+      "type": "channel",
+      "label": "Focus on French Cinema",
+      "url": "https://www.youtube.com/channel/UCACgMCTNoaIK9mJkl_lhGxg",
+      "firstSeenAt": "2026-11-11T14:16:46.084Z"
     }
   ],
   "recentItems": []

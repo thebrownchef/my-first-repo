@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCr5WIdNO5CwXVVTl0_TuJ3Q",
   "title": "schmausschmaus",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvTo-8lTS_CSOJCbY96jW0_UMsVG6JonCteuhCkelH9w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Arno Frey",
       "url": "https://en.wikipedia.org/wiki/Arno_Frey",
       "firstSeenAt": "2026-11-10T14:49:46.640Z"
+    },
+    {
+      "id": "wiki:Sam Newfield",
+      "type": "wikipedia",
+      "label": "Sam Newfield",
+      "url": "https://en.wikipedia.org/wiki/Sam_Newfield",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC-yTB2bUcin9mmah36sXiYA",
   "title": "TEDxYouth",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l0mLEfxbDWYmEPTS2AgvJDNz_LRmGxvmcfhwNZo_X3vw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Brian Wong",
       "url": "https://en.wikipedia.org/wiki/Brian_Wong",
       "firstSeenAt": "2026-10-29T12:56:17.993Z"
+    },
+    {
+      "id": "wiki:Óscar Iván Zuluaga",
+      "type": "wikipedia",
+      "label": "Óscar Iván Zuluaga",
+      "url": "https://en.wikipedia.org/wiki/%C3%93scar_Iv%C3%A1n_Zuluaga",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
     }
   ],
   "recentItems": []

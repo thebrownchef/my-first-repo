@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC9dGqMAPJRpA7M0oSdgtQgg",
   "title": "BFI",
   "thumb": "https://yt3.ggpht.com/sR4iA5E1w0QjB_N9WIeynH7hGTStl2mgPxkTEVJhGANXr96ZEex02658pMagMRKV6kFG0LLq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Baby's Toilet",
       "url": "https://en.wikipedia.org/wiki/Baby's_Toilet",
       "firstSeenAt": "2026-11-07T12:56:30.838Z"
+    },
+    {
+      "id": "wiki:Ulric Cross",
+      "type": "wikipedia",
+      "label": "Ulric Cross",
+      "url": "https://en.wikipedia.org/wiki/Ulric_Cross",
+      "firstSeenAt": "2026-11-11T14:16:18.275Z"
+    },
+    {
+      "id": "wiki:Una Marson",
+      "type": "wikipedia",
+      "label": "Una Marson",
+      "url": "https://en.wikipedia.org/wiki/Una_Marson",
+      "firstSeenAt": "2026-11-11T14:16:18.277Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCivA7_KLKWo43tFcCkFvydw",
   "title": "Applied Science",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n0HEYF8o6yxXaIs-UhPQIEEuHIP72m7TQYA5uSY3z0cQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "bionerd23",
       "url": "https://www.youtube.com/channel/UC966ccV08PVAmZRhcC0SU8Q",
       "firstSeenAt": "2026-11-07T12:57:17.526Z"
+    },
+    {
+      "id": "wiki:Mass flow controller",
+      "type": "wikipedia",
+      "label": "Mass flow controller",
+      "url": "https://en.wikipedia.org/wiki/Mass_flow_controller",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

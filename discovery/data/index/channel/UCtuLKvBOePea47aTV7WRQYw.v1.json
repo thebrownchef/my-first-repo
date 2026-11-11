@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "id": "UCtuLKvBOePea47aTV7WRQYw",
+  "title": "mtainfo",
+  "thumb": "https://yt3.ggpht.com/OIrvbZVNUPgv_59vX-dzypfJoMLaCm37bxeJKCHuABWsCQa5TftPrEk7OEVOTAUyT6gXCk9x=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.22,
+  "sources": [
+    {
+      "id": "wiki:New York City Subway",
+      "type": "wikipedia",
+      "label": "New York City Subway",
+      "url": "https://en.wikipedia.org/wiki/New_York_City_Subway",
+      "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:10th Avenue station (IRT Flushing Line)",
+      "type": "wikipedia",
+      "label": "10th Avenue station (IRT Flushing Line)",
+      "url": "https://en.wikipedia.org/wiki/10th_Avenue_station_(IRT_Flushing_Line)",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
+    }
+  ],
+  "recentItems": []
+}

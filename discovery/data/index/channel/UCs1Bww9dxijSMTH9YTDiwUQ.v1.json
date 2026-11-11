@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCs1Bww9dxijSMTH9YTDiwUQ",
   "title": "gmmix",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ks3cI-W5Qqqco5CmxFOrfhR04VcE6vyi2ab6gXuE64ZA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Ellen Beach Yaw",
       "url": "https://en.wikipedia.org/wiki/Ellen_Beach_Yaw",
       "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Moe Jaffe",
+      "type": "wikipedia",
+      "label": "Moe Jaffe",
+      "url": "https://en.wikipedia.org/wiki/Moe_Jaffe",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

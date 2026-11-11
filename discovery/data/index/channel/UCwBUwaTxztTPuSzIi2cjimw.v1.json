@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCwBUwaTxztTPuSzIi2cjimw",
   "title": "Charlie Rose",
   "thumb": "https://yt3.ggpht.com/Fk5fZh862tfzc_E1pKFiuOYE4cEqASXELYVFlIFMLXyCbmXoyjK0zpzOG_3zaAsn4VcKIQKKjw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Charlie Rose",
       "url": "https://en.wikipedia.org/wiki/Charlie_Rose",
       "firstSeenAt": "2026-10-13T14:07:53.660Z"
+    },
+    {
+      "id": "wiki:Leonard Lomell",
+      "type": "wikipedia",
+      "label": "Leonard Lomell",
+      "url": "https://en.wikipedia.org/wiki/Leonard_Lomell",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCjHz5SVHeMT0AViCYZvsGDA",
   "title": "NOVA PBS Official",
   "thumb": "https://yt3.ggpht.com/yx6flJI75s--RAq27RgNOD-BQ_u_H4UNoQZlma1j1Txb0iSPZO5RoUW4sROUvP0g2-aClkjruO8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "PBS Reno",
       "url": "https://www.youtube.com/channel/UC745-nOt9K9c1mCeeRUiYHw",
       "firstSeenAt": "2026-10-16T11:19:51.626Z"
+    },
+    {
+      "id": "channel:UCDttISJ8lpx_476pF3i3sfA",
+      "type": "channel",
+      "label": "Milwaukee PBS",
+      "url": "https://www.youtube.com/channel/UCDttISJ8lpx_476pF3i3sfA",
+      "firstSeenAt": "2026-11-11T14:16:46.786Z"
     }
   ],
   "recentItems": []

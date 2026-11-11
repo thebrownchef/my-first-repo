@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCYbATPRc4EObXaajgdXFQ0g",
   "title": "Gabrielle Aplin",
   "thumb": "https://yt3.ggpht.com/hBq9vEoqE1hj9MU8Z9A1SUVgjSu4zdT6nhiBfPyzMUiEexTNNfzXqpDHk5v26WHHyYkxv3BNBA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Gabrielle Aplin",
       "url": "https://en.wikipedia.org/wiki/Gabrielle_Aplin",
       "firstSeenAt": "2026-10-29T12:56:13.783Z"
+    },
+    {
+      "id": "channel:UCNWusKbBheusw-yvZ9kn1Ig",
+      "type": "channel",
+      "label": "GabrielleAplinVEVO",
+      "url": "https://www.youtube.com/channel/UCNWusKbBheusw-yvZ9kn1Ig",
+      "firstSeenAt": "2026-11-11T14:16:53.300Z"
     }
   ],
   "recentItems": []

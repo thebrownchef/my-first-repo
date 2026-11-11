@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCeqgb9mszRbnj7GzYbfAL5w",
   "title": "partidocarlista",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kssz-MLeQvDevr5Xl1C703Iw3BXVhG4-kGBZlBJzjGVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Jesús Comín Sagüés",
       "url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Com%C3%ADn_Sag%C3%BC%C3%A9s",
       "firstSeenAt": "2026-11-10T14:49:46.638Z"
+    },
+    {
+      "id": "wiki:María Rosa Urraca Pastor",
+      "type": "wikipedia",
+      "label": "María Rosa Urraca Pastor",
+      "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Rosa_Urraca_Pastor",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

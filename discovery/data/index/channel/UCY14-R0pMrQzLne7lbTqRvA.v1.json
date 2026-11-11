@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCY14-R0pMrQzLne7lbTqRvA",
   "title": "Vevo UK",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kxN5h7xUhZ7ZJAPZpm_1tk-0NVKX3nUbQowWu3y4eCyHg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 22,
+  "distinctSourceCount": 22,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -148,6 +148,20 @@
       "label": "FoxesVEVO",
       "url": "https://www.youtube.com/channel/UCAK_sTVIqtJrcf6yMwtuy2Q",
       "firstSeenAt": "2026-10-27T12:07:16.403Z"
+    },
+    {
+      "id": "channel:UCA3nrVC6HlfDs414V_SYlbQ",
+      "type": "channel",
+      "label": "BastilleVEVO",
+      "url": "https://www.youtube.com/channel/UCA3nrVC6HlfDs414V_SYlbQ",
+      "firstSeenAt": "2026-11-11T14:16:46.832Z"
+    },
+    {
+      "id": "channel:UCGLzRVwflLiCoKKErrMfREg",
+      "type": "channel",
+      "label": "LabrinthVEVO",
+      "url": "https://www.youtube.com/channel/UCGLzRVwflLiCoKKErrMfREg",
+      "firstSeenAt": "2026-11-11T14:16:52.612Z"
     }
   ],
   "recentItems": [

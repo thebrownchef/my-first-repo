@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCBfwSo9wRWa5fxlnDye6H7Q",
   "title": "KasabianVEVO",
   "thumb": "https://yt3.ggpht.com/OHWgHft6W3A9JanNulchuqd4pvdyTu_QF1qN0GKI366QYRvZUj4fsr1UTdo1OGKd46YF4YAX7g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "48:13",
       "url": "https://en.wikipedia.org/wiki/48%3A13",
       "firstSeenAt": "2026-11-09T16:12:22.802Z"
+    },
+    {
+      "id": "wiki:Eez-eh",
+      "type": "wikipedia",
+      "label": "Eez-eh",
+      "url": "https://en.wikipedia.org/wiki/Eez-eh",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
     }
   ],
   "recentItems": []

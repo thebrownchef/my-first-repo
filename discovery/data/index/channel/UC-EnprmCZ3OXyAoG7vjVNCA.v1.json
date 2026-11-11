@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC-EnprmCZ3OXyAoG7vjVNCA",
   "title": "Stanford",
   "thumb": "https://yt3.ggpht.com/F8EWZI1AxI_zj8iEg8TKl70L8WBD8yhFYSKI0OY2YNJxXKaPYH2cmpDyUUCr6cAq7KwAtlvlrA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Principal component analysis",
       "url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
       "firstSeenAt": "2026-11-09T16:12:22.803Z"
+    },
+    {
+      "id": "wiki:Stephen Schneider (scientist)",
+      "type": "wikipedia",
+      "label": "Stephen Schneider (scientist)",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Schneider_(scientist)",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
     }
   ],
   "recentItems": []

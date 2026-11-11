@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCulYu1HEIa7f70L2lYZWHOw",
   "title": "michaeljacksonVEVO",
   "thumb": "https://yt3.ggpht.com/nvt02XjPB-lklNBuV8rI9BQOgD1l7geYdJBzTkgoFJTgdK_Fzv_eaoQ9jV4Vb9DWFks0QFzeog=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Leave Me Alone (Michael Jackson song)",
       "url": "https://en.wikipedia.org/wiki/Leave_Me_Alone_(Michael_Jackson_song)",
       "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:Slave to the Rhythm (Michael Jackson song)",
+      "type": "wikipedia",
+      "label": "Slave to the Rhythm (Michael Jackson song)",
+      "url": "https://en.wikipedia.org/wiki/Slave_to_the_Rhythm_(Michael_Jackson_song)",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

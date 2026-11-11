@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCfinHjS88WlaWJSLiXU-aWQ",
   "title": "Imagination Strikes",
   "thumb": "https://yt3.ggpht.com/iNieiOGhu_17ecDa1EbLoTR3bTr2CvBV4pG2oiafWCrkuh_jHv3vXVLQuKYZsryPzdKaMB8G=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Fairey Long-range Monoplane",
       "url": "https://en.wikipedia.org/wiki/Fairey_Long-range_Monoplane",
       "firstSeenAt": "2026-11-09T16:12:20.261Z"
+    },
+    {
+      "id": "wiki:Paul Mantz",
+      "type": "wikipedia",
+      "label": "Paul Mantz",
+      "url": "https://en.wikipedia.org/wiki/Paul_Mantz",
+      "firstSeenAt": "2026-11-11T14:16:18.277Z"
+    },
+    {
+      "id": "wiki:Nicolas Florine",
+      "type": "wikipedia",
+      "label": "Nicolas Florine",
+      "url": "https://en.wikipedia.org/wiki/Nicolas_Florine",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

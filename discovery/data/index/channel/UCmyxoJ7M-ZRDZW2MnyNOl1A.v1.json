@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCmyxoJ7M-ZRDZW2MnyNOl1A",
   "title": "Bowman808",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mGaeeC2PzkT72QOeUy6QHVh52VEUGyTgjbHmGtTOc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "A Tale of Two Cellos",
       "url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cellos",
       "firstSeenAt": "2026-11-06T14:13:12.147Z"
+    },
+    {
+      "id": "wiki:John Dankworth",
+      "type": "wikipedia",
+      "label": "John Dankworth",
+      "url": "https://en.wikipedia.org/wiki/John_Dankworth",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

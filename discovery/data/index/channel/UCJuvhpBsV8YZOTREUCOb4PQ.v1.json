@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
   "title": "underyourskin",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Brian Jackson (musician)",
       "url": "https://en.wikipedia.org/wiki/Brian_Jackson_(musician)",
       "firstSeenAt": "2026-11-10T14:49:46.638Z"
+    },
+    {
+      "id": "wiki:Sam Rivers (jazz musician)",
+      "type": "wikipedia",
+      "label": "Sam Rivers (jazz musician)",
+      "url": "https://en.wikipedia.org/wiki/Sam_Rivers_(jazz_musician)",
+      "firstSeenAt": "2026-11-11T14:16:20.748Z"
     }
   ],
   "recentItems": []

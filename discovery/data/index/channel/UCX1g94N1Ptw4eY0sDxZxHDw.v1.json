@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCX1g94N1Ptw4eY0sDxZxHDw",
   "title": "Leffat / SF Studios",
   "thumb": "https://yt3.ggpht.com/X1vJ8DRXUOYFpPSs9_bdwyphHla4KyH7TjR1APy5DfxzPCb65IwN-QlvP_eY2uKhJAUFVNqb=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Selänne (film)",
       "url": "https://en.wikipedia.org/wiki/Sel%C3%A4nne_(film)",
       "firstSeenAt": "2026-10-26T12:56:37.391Z"
+    },
+    {
+      "id": "channel:UC_4Nc4NeEG-SIaetcgMTtfw",
+      "type": "channel",
+      "label": "SF Studios",
+      "url": "https://www.youtube.com/channel/UC_4Nc4NeEG-SIaetcgMTtfw",
+      "firstSeenAt": "2026-11-11T14:16:49.460Z"
     }
   ],
   "recentItems": []

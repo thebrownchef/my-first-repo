@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC_aP7p621ATY_yAa8jMqUVA",
   "title": "NASA Video",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mAavC7uPluTw_kro_ji26VOxzjsQ6FFnAdtaFi6mmJu8A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 2.17,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NASA Science",
       "url": "https://www.youtube.com/channel/UCKt6dYzHqHfpcp1lgj4bl1A",
       "firstSeenAt": "2026-11-03T14:08:34.418Z"
+    },
+    {
+      "id": "wiki:Adam Steltzner",
+      "type": "wikipedia",
+      "label": "Adam Steltzner",
+      "url": "https://en.wikipedia.org/wiki/Adam_Steltzner",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCO-sTDIIRG3xjDpzmmsxE5g",
   "title": "AutomobileHistoryUSA",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lZwdJHUCt1ClgdBPUP0baP37GIraQ1LtkLkK1BHbMyxA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "It's De-Lovely",
       "url": "https://en.wikipedia.org/wiki/It's_De-Lovely",
       "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:John A. Powers",
+      "type": "wikipedia",
+      "label": "John A. Powers",
+      "url": "https://en.wikipedia.org/wiki/John_A._Powers",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

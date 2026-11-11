@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UC2isDei-lrNSrgGYE4Np3PA",
   "title": "Tate",
   "thumb": "https://yt3.ggpht.com/ANH2XNhNMf3b-ZJ6KZOL-B1FcWDXofc2j4T9JATIOk7RR4mdvy-SdcQup1afuUSJfXyNOeWg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "2009 Turner Prize",
       "url": "https://en.wikipedia.org/wiki/2009_Turner_Prize",
       "firstSeenAt": "2026-10-05T14:32:40.423Z"
+    },
+    {
+      "id": "wiki:Cy Twombly",
+      "type": "wikipedia",
+      "label": "Cy Twombly",
+      "url": "https://en.wikipedia.org/wiki/Cy_Twombly",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
+    },
+    {
+      "id": "wiki:Peter Lanyon",
+      "type": "wikipedia",
+      "label": "Peter Lanyon",
+      "url": "https://en.wikipedia.org/wiki/Peter_Lanyon",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
+    },
+    {
+      "id": "wiki:Pauline Boty",
+      "type": "wikipedia",
+      "label": "Pauline Boty",
+      "url": "https://en.wikipedia.org/wiki/Pauline_Boty",
+      "firstSeenAt": "2026-11-11T14:16:18.277Z"
     }
   ],
   "recentItems": []

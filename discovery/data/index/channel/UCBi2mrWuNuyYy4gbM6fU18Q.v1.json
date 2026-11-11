@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
   "title": "ABC News",
   "thumb": "https://yt3.ggpht.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 16.24,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Pauline Phillips",
       "url": "https://en.wikipedia.org/wiki/Pauline_Phillips",
       "firstSeenAt": "2026-11-10T14:49:46.638Z"
+    },
+    {
+      "id": "wiki:Zheng Cao",
+      "type": "wikipedia",
+      "label": "Zheng Cao",
+      "url": "https://en.wikipedia.org/wiki/Zheng_Cao",
+      "firstSeenAt": "2026-11-11T14:16:18.276Z"
     }
   ],
   "recentItems": []

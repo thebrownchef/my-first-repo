@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCWrXlzhIENTJrAuKVuPgdEA",
   "title": "Uncanny Valley by WIRED",
   "thumb": "https://yt3.ggpht.com/amvdklrXeE9UKPCmgmrvo6c9BAdDueUNecl19qTdWdtvwt-gRs1NvIBr7t0mXWnNuJXzA77tyD8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.822Z"
+    },
+    {
+      "id": "wiki:Jeremy Farrar",
+      "type": "wikipedia",
+      "label": "Jeremy Farrar",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Farrar",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

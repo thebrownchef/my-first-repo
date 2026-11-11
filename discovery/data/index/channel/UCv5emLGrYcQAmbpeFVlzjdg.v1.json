@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCv5emLGrYcQAmbpeFVlzjdg",
   "title": "Warner Records Vault",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kwhxgCaoiEuCoR9h7xBgEYPfPBsql-eTHazbiTVHm0OQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -78,6 +78,20 @@
       "label": "Foreverly",
       "url": "https://en.wikipedia.org/wiki/Foreverly",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Burning Inside (song)",
+      "type": "wikipedia",
+      "label": "Burning Inside (song)",
+      "url": "https://en.wikipedia.org/wiki/Burning_Inside_(song)",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
+    },
+    {
+      "id": "wiki:Heavy metal subculture",
+      "type": "wikipedia",
+      "label": "Heavy metal subculture",
+      "url": "https://en.wikipedia.org/wiki/Heavy_metal_subculture",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
     }
   ],
   "recentItems": []

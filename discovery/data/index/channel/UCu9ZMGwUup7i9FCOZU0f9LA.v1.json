@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCu9ZMGwUup7i9FCOZU0f9LA",
   "title": "Case Western Reserve University School of Law",
   "thumb": "https://yt3.ggpht.com/VpXstRswfknUcMwlxTsqKFrh_K9_0Xk7T2WEK2P272a4__xnm2KXe3eNptg9hiVQQsS_ebFzQg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Case Western Reserve University",
       "url": "https://www.youtube.com/channel/UCQ7jir4mIfQx3_DJsmVbwqA",
       "firstSeenAt": "2026-10-02T12:30:30.879Z"
+    },
+    {
+      "id": "wiki:Henry T. King",
+      "type": "wikipedia",
+      "label": "Henry T. King",
+      "url": "https://en.wikipedia.org/wiki/Henry_T._King",
+      "firstSeenAt": "2026-11-11T14:16:26.259Z"
     }
   ],
   "recentItems": []

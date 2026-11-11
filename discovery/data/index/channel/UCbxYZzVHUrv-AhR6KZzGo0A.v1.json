@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCbxYZzVHUrv-AhR6KZzGo0A",
   "title": "KARA Official",
   "thumb": "https://yt3.ggpht.com/_PBxRMn7hwiNkfuB0eI0BATcYAeJRw_yH9za2rhco3ltW6nptUD3Xecsx04GaXFHEE6-JasheA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Full Bloom (Kara album)",
       "url": "https://en.wikipedia.org/wiki/Full_Bloom_(Kara_album)",
       "firstSeenAt": "2026-10-26T12:56:36.093Z"
+    },
+    {
+      "id": "wiki:Jumping (Kara song)",
+      "type": "wikipedia",
+      "label": "Jumping (Kara song)",
+      "url": "https://en.wikipedia.org/wiki/Jumping_(Kara_song)",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
     }
   ],
   "recentItems": []

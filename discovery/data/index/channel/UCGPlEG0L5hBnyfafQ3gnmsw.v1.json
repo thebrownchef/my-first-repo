@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T14:51:02.035Z",
+  "generatedAt": "2026-11-11T14:17:41.954Z",
   "id": "UCGPlEG0L5hBnyfafQ3gnmsw",
   "title": "Jack Gibbons",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mTcb43wWOBtNk0fa1zk_lY8CFOWyttZiEcqytd3fznqg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "George Edward Gouraud",
       "url": "https://en.wikipedia.org/wiki/George_Edward_Gouraud",
       "firstSeenAt": "2026-11-09T16:12:25.574Z"
+    },
+    {
+      "id": "wiki:Susana, Lady Walton",
+      "type": "wikipedia",
+      "label": "Susana, Lady Walton",
+      "url": "https://en.wikipedia.org/wiki/Susana%2C_Lady_Walton",
+      "firstSeenAt": "2026-11-11T14:16:26.260Z"
     }
   ],
   "recentItems": []
