@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCx2qMIoQIchX9o5x38hf1Bw",
   "title": "NdaniTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mHrdCFHSbjH1FS5ZJA8VIBcrZQbU6VZCfL6A25aeBB1EQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Fire of Zamani",
       "url": "https://en.wikipedia.org/wiki/Fire_of_Zamani",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Surulere (song)",
+      "type": "wikipedia",
+      "label": "Surulere (song)",
+      "url": "https://en.wikipedia.org/wiki/Surulere_(song)",
+      "firstSeenAt": "2026-11-12T15:08:31.511Z"
+    },
+    {
+      "id": "wiki:Toolz",
+      "type": "wikipedia",
+      "label": "Toolz",
+      "url": "https://en.wikipedia.org/wiki/Toolz",
+      "firstSeenAt": "2026-11-12T15:08:34.976Z"
     }
   ],
   "recentItems": []

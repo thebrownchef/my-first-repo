@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UClKja9ekrODGTkPTEIOsk_w",
   "title": "The Chase",
   "thumb": "https://yt3.ggpht.com/kTDG8ikm0aEJ7hdL8U-CTjg0R8_-oRk0ckmza0SjozY7xT5WEE1ILl-ZFIcQ5zqOElax9ybMZQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 1.26,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "ITV",
       "url": "https://www.youtube.com/channel/UCoEqHpK5VNVEBRvwL0EW8Gw",
       "firstSeenAt": "2026-09-25T11:48:11.318Z"
+    },
+    {
+      "id": "channel:UCgurmV2nVq_1DUb2pvGOKmg",
+      "type": "channel",
+      "label": "The Jonathan Ross Show",
+      "url": "https://www.youtube.com/channel/UCgurmV2nVq_1DUb2pvGOKmg",
+      "firstSeenAt": "2026-11-12T15:08:52.326Z"
     }
   ],
   "recentItems": []

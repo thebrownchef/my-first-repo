@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCZ4lL740aLgbW9-bbfK1diA",
   "title": "MMG",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZKJK4r40QTJis86_yzj1DnAgTdVrgsLPV0EmG5oablg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ambition (Wale album)",
       "url": "https://en.wikipedia.org/wiki/Ambition_(Wale_album)",
       "firstSeenAt": "2026-11-01T13:17:24.737Z"
+    },
+    {
+      "id": "channel:UCx5Tqy7lZgSj8NLocGgYZ6g",
+      "type": "channel",
+      "label": "K. Michelle ",
+      "url": "https://www.youtube.com/channel/UCx5Tqy7lZgSj8NLocGgYZ6g",
+      "firstSeenAt": "2026-11-12T15:08:50.259Z"
     }
   ],
   "recentItems": []

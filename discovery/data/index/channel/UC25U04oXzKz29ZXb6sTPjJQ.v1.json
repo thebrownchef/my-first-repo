@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC25U04oXzKz29ZXb6sTPjJQ",
   "title": "DukeLibDigitalColl",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_moHBEskFdlnOUZdsHl1PbpwOl9Q1rTGMr4Tt12ntI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sidney D. Gamble",
       "url": "https://en.wikipedia.org/wiki/Sidney_D._Gamble",
       "firstSeenAt": "2026-11-11T14:16:18.277Z"
+    },
+    {
+      "id": "wiki:Charlotte Curtis",
+      "type": "wikipedia",
+      "label": "Charlotte Curtis",
+      "url": "https://en.wikipedia.org/wiki/Charlotte_Curtis",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
     }
   ],
   "recentItems": []

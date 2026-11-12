@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC3OukL5Y-8pitUEexBrTyHw",
   "title": "truecrypt",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kPdJkcMhkJ4OPbckKSN_Pz5x5APcG8oNKGDVEPErxt=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Raoul Pugno",
       "url": "https://en.wikipedia.org/wiki/Raoul_Pugno",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:Yakov Zak",
+      "type": "wikipedia",
+      "label": "Yakov Zak",
+      "url": "https://en.wikipedia.org/wiki/Yakov_Zak",
+      "firstSeenAt": "2026-11-12T15:08:31.512Z"
     }
   ],
   "recentItems": []

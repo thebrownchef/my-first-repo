@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCfinHjS88WlaWJSLiXU-aWQ",
   "title": "Imagination Strikes",
   "thumb": "https://yt3.ggpht.com/iNieiOGhu_17ecDa1EbLoTR3bTr2CvBV4pG2oiafWCrkuh_jHv3vXVLQuKYZsryPzdKaMB8G=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Nicolas Florine",
       "url": "https://en.wikipedia.org/wiki/Nicolas_Florine",
       "firstSeenAt": "2026-11-11T14:16:20.748Z"
+    },
+    {
+      "id": "wiki:Robert Stanford Tuck",
+      "type": "wikipedia",
+      "label": "Robert Stanford Tuck",
+      "url": "https://en.wikipedia.org/wiki/Robert_Stanford_Tuck",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

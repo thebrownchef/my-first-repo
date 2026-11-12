@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCIwW9cW7s-Y2e2OzWpOsYRQ",
   "title": "noochinator1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOW0gkUIPEkXuZ8sEIJ1RKlG6ieifjNCfJXHF7GgZ93g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -99,6 +99,34 @@
       "label": "Earl Wild",
       "url": "https://en.wikipedia.org/wiki/Earl_Wild",
       "firstSeenAt": "2026-11-11T14:16:26.259Z"
+    },
+    {
+      "id": "wiki:Abram Chasins",
+      "type": "wikipedia",
+      "label": "Abram Chasins",
+      "url": "https://en.wikipedia.org/wiki/Abram_Chasins",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:György Sándor",
+      "type": "wikipedia",
+      "label": "György Sándor",
+      "url": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_S%C3%A1ndor",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:Virgil Thomson",
+      "type": "wikipedia",
+      "label": "Virgil Thomson",
+      "url": "https://en.wikipedia.org/wiki/Virgil_Thomson",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:Elie Siegmeister",
+      "type": "wikipedia",
+      "label": "Elie Siegmeister",
+      "url": "https://en.wikipedia.org/wiki/Elie_Siegmeister",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

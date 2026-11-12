@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCME81PohuzT1JMCsEtvsD2w",
   "title": "Onlooker UK",
   "thumb": "https://yt3.ggpht.com/h6izAoQ8XBZXujMpDE-crWiVPr9WHDu81pHQj8GK8XOLYptsNeey85D8Ky0l3wfxZYZPFpZwkg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 3.92,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Music 411",
       "url": "https://www.youtube.com/channel/UCrV5qhJKJtbBcVRcGX6Xq6g",
       "firstSeenAt": "2026-11-06T14:13:31.919Z"
+    },
+    {
+      "id": "wiki:Torres del Paine National Park",
+      "type": "wikipedia",
+      "label": "Torres del Paine National Park",
+      "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park",
+      "firstSeenAt": "2026-11-12T15:08:31.512Z"
     }
   ],
   "recentItems": []

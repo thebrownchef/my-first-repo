@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCHqQruhGENdmWy_oeH1f8QA",
   "title": "Michael Bublé",
   "thumb": "https://yt3.ggpht.com/BIbMb6Bt7DZmTJc7-rtjqv6O59VwHZoQFXzimz3F5u_4Qm9qmvklKfEXCuYmyV2T-k_bkpjnZg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Everything (Michael Bublé song)",
       "url": "https://en.wikipedia.org/wiki/Everything_(Michael_Bubl%C3%A9_song)",
       "firstSeenAt": "2026-11-06T14:13:06.883Z"
+    },
+    {
+      "id": "channel:UCNIlkuT0DYEc8aFbv3YcvdQ",
+      "type": "channel",
+      "label": "enyatv",
+      "url": "https://www.youtube.com/channel/UCNIlkuT0DYEc8aFbv3YcvdQ",
+      "firstSeenAt": "2026-11-12T15:09:01.211Z"
     }
   ],
   "recentItems": []

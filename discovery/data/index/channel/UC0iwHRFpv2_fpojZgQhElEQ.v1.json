@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC0iwHRFpv2_fpojZgQhElEQ",
   "title": "Noisey",
   "thumb": "https://yt3.ggpht.com/9NdoHEWQKAba3mRcPZuDKazQ0qW0wIwws1Wwo6hNbgzX3DtkjecqcV9M9ABi38sPtdVtN2MXbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "Ghost (Swedish band)",
       "url": "https://en.wikipedia.org/wiki/Ghost_(Swedish_band)",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Reese Laflare",
+      "type": "wikipedia",
+      "label": "Reese Laflare",
+      "url": "https://en.wikipedia.org/wiki/Reese_Laflare",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": [

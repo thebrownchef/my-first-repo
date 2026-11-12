@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCwRQxHVCyShQyky_HzHdZEQ",
   "title": "TheLBJLibrary",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ka-qODQMHO4Nwf1NJKrSzLjWKxzqgBoqexoCg4u1wepPU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "HarrySTrumanLibrary",
       "url": "https://www.youtube.com/channel/UCnZKkCiqrGCzh2BmhF05olA",
       "firstSeenAt": "2026-09-17T11:38:50.624Z"
+    },
+    {
+      "id": "wiki:Wesley West",
+      "type": "wikipedia",
+      "label": "Wesley West",
+      "url": "https://en.wikipedia.org/wiki/Wesley_West",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
     }
   ],
   "recentItems": []

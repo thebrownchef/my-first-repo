@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCu31HWYGr1xqlBjnps3zs9A",
   "title": "JLWFan1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_klAwSO5zFTVwWr7VNVmFnbe3WO3EWyw32NZ1VlAC2_8Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Cyril Scott",
       "url": "https://en.wikipedia.org/wiki/Cyril_Scott",
       "firstSeenAt": "2026-11-11T14:16:18.277Z"
+    },
+    {
+      "id": "wiki:William Walton",
+      "type": "wikipedia",
+      "label": "William Walton",
+      "url": "https://en.wikipedia.org/wiki/William_Walton",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
     }
   ],
   "recentItems": []

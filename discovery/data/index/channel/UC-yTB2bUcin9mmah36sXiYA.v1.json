@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC-yTB2bUcin9mmah36sXiYA",
   "title": "TEDxYouth",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l0mLEfxbDWYmEPTS2AgvJDNz_LRmGxvmcfhwNZo_X3vw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Óscar Iván Zuluaga",
       "url": "https://en.wikipedia.org/wiki/%C3%93scar_Iv%C3%A1n_Zuluaga",
       "firstSeenAt": "2026-11-11T14:16:18.276Z"
+    },
+    {
+      "id": "wiki:SaulPaul",
+      "type": "wikipedia",
+      "label": "SaulPaul",
+      "url": "https://en.wikipedia.org/wiki/SaulPaul",
+      "firstSeenAt": "2026-11-12T15:08:31.511Z"
     }
   ],
   "recentItems": []

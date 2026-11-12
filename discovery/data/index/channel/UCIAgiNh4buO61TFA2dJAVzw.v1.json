@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCIAgiNh4buO61TFA2dJAVzw",
   "title": "Solid State Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kKVN14yckdQmWc1_X7nagezHkP-bAn67ODtiDU6HDRFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Demon Hunter",
       "url": "https://www.youtube.com/channel/UCJjmTs2w_Z3eypTZ523Ln0Q",
       "firstSeenAt": "2026-11-10T14:50:06.607Z"
+    },
+    {
+      "id": "wiki:Extremist (album)",
+      "type": "wikipedia",
+      "label": "Extremist (album)",
+      "url": "https://en.wikipedia.org/wiki/Extremist_(album)",
+      "firstSeenAt": "2026-11-12T15:08:34.648Z"
     }
   ],
   "recentItems": []

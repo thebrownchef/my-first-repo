@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCPIz94SG3T3Vypku0-ks-Cg",
   "title": "Maria Herskovic",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nOXEObAFMql6Qhco2myi7Pfio9ycLrgVNeJhmvi_56GpI3=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Nicolas Carone",
       "url": "https://en.wikipedia.org/wiki/Nicolas_Carone",
       "firstSeenAt": "2026-11-11T14:16:26.260Z"
+    },
+    {
+      "id": "wiki:Perle Fine",
+      "type": "wikipedia",
+      "label": "Perle Fine",
+      "url": "https://en.wikipedia.org/wiki/Perle_Fine",
+      "firstSeenAt": "2026-11-12T15:08:37.042Z"
     }
   ],
   "recentItems": []

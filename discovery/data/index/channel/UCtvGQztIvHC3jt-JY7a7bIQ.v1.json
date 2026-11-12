@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCtvGQztIvHC3jt-JY7a7bIQ",
   "title": "gullivior",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kENV118jKdgTuGRWw6e4Wdw1UKT_WQ6gzXBOUbQfWWnrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.15,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Yolanda Mero",
       "url": "https://en.wikipedia.org/wiki/Yolanda_Mero",
       "firstSeenAt": "2026-11-11T14:16:18.276Z"
+    },
+    {
+      "id": "wiki:Jesús María Sanromá",
+      "type": "wikipedia",
+      "label": "Jesús María Sanromá",
+      "url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Mar%C3%ADa_Sanrom%C3%A1",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
     }
   ],
   "recentItems": []

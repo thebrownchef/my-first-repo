@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 455,
-  "distinctSourceCount": 455,
+  "score": 482,
+  "distinctSourceCount": 482,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -3193,9 +3193,207 @@
       "label": "KlangkarussellVEVO",
       "url": "https://www.youtube.com/channel/UCQkxyYY3C1w6VmB93dXc1oQ",
       "firstSeenAt": "2026-11-11T14:16:53.427Z"
+    },
+    {
+      "id": "channel:UCnPjVVu__eOVZnAnjBiGhKA",
+      "type": "channel",
+      "label": "JamesAVEVO",
+      "url": "https://www.youtube.com/channel/UCnPjVVu__eOVZnAnjBiGhKA",
+      "firstSeenAt": "2026-11-12T15:08:49.203Z"
+    },
+    {
+      "id": "channel:UCIgsTOCogsm34G3oUSJbG6g",
+      "type": "channel",
+      "label": "LawsonVEVO",
+      "url": "https://www.youtube.com/channel/UCIgsTOCogsm34G3oUSJbG6g",
+      "firstSeenAt": "2026-11-12T15:08:50.453Z"
+    },
+    {
+      "id": "channel:UCbUZqaAX4fliIM6RYJ-oFTw",
+      "type": "channel",
+      "label": "ChaseAndStatusVEVO",
+      "url": "https://www.youtube.com/channel/UCbUZqaAX4fliIM6RYJ-oFTw",
+      "firstSeenAt": "2026-11-12T15:08:51.060Z"
+    },
+    {
+      "id": "channel:UCT8v5jMfFeMPgjXqA4C_l2Q",
+      "type": "channel",
+      "label": "LethalBizzleVEVO",
+      "url": "https://www.youtube.com/channel/UCT8v5jMfFeMPgjXqA4C_l2Q",
+      "firstSeenAt": "2026-11-12T15:08:51.226Z"
+    },
+    {
+      "id": "channel:UCKQIFmK2IhX2FVFZkR8dyLQ",
+      "type": "channel",
+      "label": "AmeliaLilyVEVO",
+      "url": "https://www.youtube.com/channel/UCKQIFmK2IhX2FVFZkR8dyLQ",
+      "firstSeenAt": "2026-11-12T15:08:51.408Z"
+    },
+    {
+      "id": "channel:UCLJF_9P8YB6ijI9x8bl2N8Q",
+      "type": "channel",
+      "label": "DrowningPoolVEVO",
+      "url": "https://www.youtube.com/channel/UCLJF_9P8YB6ijI9x8bl2N8Q",
+      "firstSeenAt": "2026-11-12T15:08:51.839Z"
+    },
+    {
+      "id": "channel:UCQyhoITXYJ3a-2_zfD3UmjA",
+      "type": "channel",
+      "label": "KTTunstallVEVO",
+      "url": "https://www.youtube.com/channel/UCQyhoITXYJ3a-2_zfD3UmjA",
+      "firstSeenAt": "2026-11-12T15:08:53.091Z"
+    },
+    {
+      "id": "channel:UCYvy_rZWF3udXeDHy3PBdtw",
+      "type": "channel",
+      "label": "LloydVEVO",
+      "url": "https://www.youtube.com/channel/UCYvy_rZWF3udXeDHy3PBdtw",
+      "firstSeenAt": "2026-11-12T15:08:53.158Z"
+    },
+    {
+      "id": "channel:UCGD9Vd6tEBkmM0hArMjgu3w",
+      "type": "channel",
+      "label": "ShaniaTwainVEVO",
+      "url": "https://www.youtube.com/channel/UCGD9Vd6tEBkmM0hArMjgu3w",
+      "firstSeenAt": "2026-11-12T15:08:53.245Z"
+    },
+    {
+      "id": "channel:UC2Wtu0EXYMY-8bUlUZuS1oA",
+      "type": "channel",
+      "label": "SneakySoundVEVO",
+      "url": "https://www.youtube.com/channel/UC2Wtu0EXYMY-8bUlUZuS1oA",
+      "firstSeenAt": "2026-11-12T15:08:53.695Z"
+    },
+    {
+      "id": "channel:UCft7sOP4eF4zdhYZlFo-mLQ",
+      "type": "channel",
+      "label": "ProfessorGreenVEVO",
+      "url": "https://www.youtube.com/channel/UCft7sOP4eF4zdhYZlFo-mLQ",
+      "firstSeenAt": "2026-11-12T15:08:54.235Z"
+    },
+    {
+      "id": "channel:UCd1WSgpR4RrgyYaBjA7eYHQ",
+      "type": "channel",
+      "label": "ToriAmosVEVO",
+      "url": "https://www.youtube.com/channel/UCd1WSgpR4RrgyYaBjA7eYHQ",
+      "firstSeenAt": "2026-11-12T15:08:54.467Z"
+    },
+    {
+      "id": "channel:UCDQq9DF_sEApzrKc5GlSZ8Q",
+      "type": "channel",
+      "label": "belindavevo",
+      "url": "https://www.youtube.com/channel/UCDQq9DF_sEApzrKc5GlSZ8Q",
+      "firstSeenAt": "2026-11-12T15:08:54.536Z"
+    },
+    {
+      "id": "channel:UCQ-ttSCwBiGhgM5GLY1hzWA",
+      "type": "channel",
+      "label": "MaryJBligeVEVO",
+      "url": "https://www.youtube.com/channel/UCQ-ttSCwBiGhgM5GLY1hzWA",
+      "firstSeenAt": "2026-11-12T15:08:54.893Z"
+    },
+    {
+      "id": "channel:UCe0I5hfvxg2xJdMmtO5Jyiw",
+      "type": "channel",
+      "label": "brandonheathVEVO",
+      "url": "https://www.youtube.com/channel/UCe0I5hfvxg2xJdMmtO5Jyiw",
+      "firstSeenAt": "2026-11-12T15:08:55.278Z"
+    },
+    {
+      "id": "channel:UCD5viIlmWKfkj1YUTQchpGA",
+      "type": "channel",
+      "label": "bandofhorsesVEVO",
+      "url": "https://www.youtube.com/channel/UCD5viIlmWKfkj1YUTQchpGA",
+      "firstSeenAt": "2026-11-12T15:08:55.537Z"
+    },
+    {
+      "id": "channel:UC-S3WTf4WDmMuzw-P09ahGg",
+      "type": "channel",
+      "label": "MindlessBehaviorVEVO",
+      "url": "https://www.youtube.com/channel/UC-S3WTf4WDmMuzw-P09ahGg",
+      "firstSeenAt": "2026-11-12T15:08:56.049Z"
+    },
+    {
+      "id": "channel:UCpRclbkTs454jGstMAOTQoQ",
+      "type": "channel",
+      "label": "KreeshaTurnerVEVO",
+      "url": "https://www.youtube.com/channel/UCpRclbkTs454jGstMAOTQoQ",
+      "firstSeenAt": "2026-11-12T15:08:56.152Z"
+    },
+    {
+      "id": "channel:UCbGmbLGPhxIlp1JF4tybiAg",
+      "type": "channel",
+      "label": "JuanesVEVO",
+      "url": "https://www.youtube.com/channel/UCbGmbLGPhxIlp1JF4tybiAg",
+      "firstSeenAt": "2026-11-12T15:08:56.385Z"
+    },
+    {
+      "id": "channel:UC77SRcUnw8IhZlidndAN5Vw",
+      "type": "channel",
+      "label": "mercymeVEVO",
+      "url": "https://www.youtube.com/channel/UC77SRcUnw8IhZlidndAN5Vw",
+      "firstSeenAt": "2026-11-12T15:08:58.018Z"
+    },
+    {
+      "id": "channel:UCH8t2UVI_GvclLA7EYvvepA",
+      "type": "channel",
+      "label": "RedramaVEVO",
+      "url": "https://www.youtube.com/channel/UCH8t2UVI_GvclLA7EYvvepA",
+      "firstSeenAt": "2026-11-12T15:08:58.247Z"
+    },
+    {
+      "id": "channel:UCH-G_MCcuLa3PCdZayDB7XA",
+      "type": "channel",
+      "label": "SickPuppiesVEVO",
+      "url": "https://www.youtube.com/channel/UCH-G_MCcuLa3PCdZayDB7XA",
+      "firstSeenAt": "2026-11-12T15:08:58.283Z"
+    },
+    {
+      "id": "channel:UCxfC3u6sFXzbeB9OkoEc_uA",
+      "type": "channel",
+      "label": "Calle13VEVO",
+      "url": "https://www.youtube.com/channel/UCxfC3u6sFXzbeB9OkoEc_uA",
+      "firstSeenAt": "2026-11-12T15:08:59.401Z"
+    },
+    {
+      "id": "channel:UCf1weKUE9iUaTW7YEgR3qlA",
+      "type": "channel",
+      "label": "JuanMaganVEVO",
+      "url": "https://www.youtube.com/channel/UCf1weKUE9iUaTW7YEgR3qlA",
+      "firstSeenAt": "2026-11-12T15:09:00.399Z"
+    },
+    {
+      "id": "channel:UCeKbKQkqKuJWW15sboqEwcw",
+      "type": "channel",
+      "label": "ColdWarKidsVEVO",
+      "url": "https://www.youtube.com/channel/UCeKbKQkqKuJWW15sboqEwcw",
+      "firstSeenAt": "2026-11-12T15:09:01.340Z"
+    },
+    {
+      "id": "channel:UCDDmukrq0bwckrp09bNt-Rw",
+      "type": "channel",
+      "label": "EvanescenceVEVO",
+      "url": "https://www.youtube.com/channel/UCDDmukrq0bwckrp09bNt-Rw",
+      "firstSeenAt": "2026-11-12T15:09:01.869Z"
+    },
+    {
+      "id": "channel:UC0Ri4yolakY_tb7RdcvzQ2g",
+      "type": "channel",
+      "label": "lambofgodVEVO",
+      "url": "https://www.youtube.com/channel/UC0Ri4yolakY_tb7RdcvzQ2g",
+      "firstSeenAt": "2026-11-12T15:09:04.131Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "X1v7X8NZpiM",
+      "title": "@conepmusicpr7159- Class Introduction | Vevo DSCVR Artists to Watch 2027",
+      "publishedAt": "2026-11-12T01:00:13Z",
+      "durationSec": 77,
+      "thumb": "https://i.ytimg.com/vi/X1v7X8NZpiM/mqdefault.jpg",
+      "description": "Hailing from the Southern coast of Puerto Rico, #conep  rose up the ranks from freestyler to trap star at an impressive speed. Learn about the rapper's journey to the top of the streaming charts in our interview for #DSCVR Artist to Watch 2027. \n\n#puertorico #latintrap #trapmusic #vevo",
+      "chapters": []
+    },
     {
       "id": "eedRUkcbO7w",
       "title": "La Roux - IYKYK",
@@ -3221,15 +3419,6 @@
       "durationSec": 89,
       "thumb": "https://i.ytimg.com/vi/AxWJtEHZBhs/mqdefault.jpg",
       "description": "Happy 1-year anniversary of 'Vicious Delicious' to all who celebrate! 🖤 Step inside the dark, chaotic world of Luvcat’s debut album in our Story Behind!",
-      "chapters": []
-    },
-    {
-      "id": "PJR6W89IDJA",
-      "title": "Tom Grennan - First & Last",
-      "publishedAt": "2026-10-23T17:01:24Z",
-      "durationSec": 96,
-      "thumb": "https://i.ytimg.com/vi/PJR6W89IDJA/mqdefault.jpg",
-      "description": "What was Tom Grennan's first ever job? From early shifts to festival main stages, don’t miss all his firsts and lasts!",
       "chapters": []
     }
   ]

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
   "title": "Google for Developers",
   "thumb": "https://yt3.ggpht.com/Jrfy3VrP1QDikidneCoruk9MmhsQsEAgeQSELZtL2fn1pKxCjh2ohk7derV33UpetVZwt-DuRQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Google Compute Engine",
       "url": "https://en.wikipedia.org/wiki/Google_Compute_Engine",
       "firstSeenAt": "2026-10-13T14:07:55.127Z"
+    },
+    {
+      "id": "wiki:Dynamic Markov compression",
+      "type": "wikipedia",
+      "label": "Dynamic Markov compression",
+      "url": "https://en.wikipedia.org/wiki/Dynamic_Markov_compression",
+      "firstSeenAt": "2026-11-12T15:08:37.042Z"
     }
   ],
   "recentItems": []

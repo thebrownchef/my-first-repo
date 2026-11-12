@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC2Xc1Vt6JfBLN3gcd054xNA",
   "title": "IDOLFACTORY OFFICIAL",
   "thumb": "https://yt3.ggpht.com/nyOVnZcjdsJri5US4Z6JAxYXCw6vmT46co6sO3WUXUk6SGNZOy-oYWMbHeSHOjh56wRBb5sx3Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.78,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Becky Armstrong",
       "url": "https://en.wikipedia.org/wiki/Becky_Armstrong",
       "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    },
+    {
+      "id": "wiki:Freen Sarocha",
+      "type": "wikipedia",
+      "label": "Freen Sarocha",
+      "url": "https://en.wikipedia.org/wiki/Freen_Sarocha",
+      "firstSeenAt": "2026-11-12T15:08:47.995Z"
     }
   ],
   "recentItems": []

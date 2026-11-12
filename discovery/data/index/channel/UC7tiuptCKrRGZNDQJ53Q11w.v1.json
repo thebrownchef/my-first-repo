@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC7tiuptCKrRGZNDQJ53Q11w",
   "title": "Warner Music Spain",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mdPBWfhY5FhOLQCUtj3TJ6qiIhjoiwK6m2H53gy-O6xq0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Habibi I Love You",
       "url": "https://en.wikipedia.org/wiki/Habibi_I_Love_You",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "channel:UC7cn269s72-8NOZLSmxXFHQ",
+      "type": "channel",
+      "label": "El Sueño de Morfeo",
+      "url": "https://www.youtube.com/channel/UC7cn269s72-8NOZLSmxXFHQ",
+      "firstSeenAt": "2026-11-12T15:09:01.444Z"
     }
   ],
   "recentItems": []

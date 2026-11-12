@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCt5mBbUPhBflgFaDo-nLzdg",
   "title": "VinylToVideo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l6jmVn3HiZUttlzpAEn1-b3G9hm5HDO9NTwCWuSwc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "I Hear You Calling Me",
       "url": "https://en.wikipedia.org/wiki/I_Hear_You_Calling_Me",
       "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:Sara Scuderi",
+      "type": "wikipedia",
+      "label": "Sara Scuderi",
+      "url": "https://en.wikipedia.org/wiki/Sara_Scuderi",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

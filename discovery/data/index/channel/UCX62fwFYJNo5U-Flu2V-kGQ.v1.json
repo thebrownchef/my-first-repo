@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCX62fwFYJNo5U-Flu2V-kGQ",
   "title": "BeastieBoysVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kjQN_MiG_SNJIxfQW2HmNZpUuMGeEpb2xbC5zAlMttvA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Hold It Now, Hit It",
       "url": "https://en.wikipedia.org/wiki/Hold_It_Now%2C_Hit_It",
       "firstSeenAt": "2026-10-12T15:18:27.923Z"
+    },
+    {
+      "id": "wiki:No Sleep till Brooklyn",
+      "type": "wikipedia",
+      "label": "No Sleep till Brooklyn",
+      "url": "https://en.wikipedia.org/wiki/No_Sleep_till_Brooklyn",
+      "firstSeenAt": "2026-11-12T15:08:31.511Z"
     }
   ],
   "recentItems": []

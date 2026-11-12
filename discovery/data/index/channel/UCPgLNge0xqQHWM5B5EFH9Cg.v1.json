@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCPgLNge0xqQHWM5B5EFH9Cg",
   "title": "The Telegraph",
   "thumb": "https://yt3.ggpht.com/uOxfdYTevjqB6SjPRXCyqNkkRswHYlqziocw1B4ShK1sXdht2i48JENHQefqS3S1zMydz8kYQw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 5.08,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "2012 Summer Olympics opening ceremony",
       "url": "https://en.wikipedia.org/wiki/2012_Summer_Olympics_opening_ceremony",
       "firstSeenAt": "2026-11-01T13:17:27.897Z"
+    },
+    {
+      "id": "wiki:Derek Bell (racing driver)",
+      "type": "wikipedia",
+      "label": "Derek Bell (racing driver)",
+      "url": "https://en.wikipedia.org/wiki/Derek_Bell_(racing_driver)",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:Nicholas Cottam",
+      "type": "wikipedia",
+      "label": "Nicholas Cottam",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Cottam",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC8dQ4EdrQAY4xRMT5UXRsWA",
   "title": "WREYtube",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKhNl6HpR--PdCO8N8g_dBf73mLkD1lh7rfT0G0qmig=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Arthur Bernard Lewis",
       "url": "https://en.wikipedia.org/wiki/Arthur_Bernard_Lewis",
       "firstSeenAt": "2026-11-11T14:16:20.749Z"
+    },
+    {
+      "id": "wiki:Jackie Stewart",
+      "type": "wikipedia",
+      "label": "Jackie Stewart",
+      "url": "https://en.wikipedia.org/wiki/Jackie_Stewart",
+      "firstSeenAt": "2026-11-12T15:08:31.513Z"
     }
   ],
   "recentItems": []

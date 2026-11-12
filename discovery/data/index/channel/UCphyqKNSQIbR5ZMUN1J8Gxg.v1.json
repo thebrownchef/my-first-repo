@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCphyqKNSQIbR5ZMUN1J8Gxg",
   "title": "Absolute Radio",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lPSbdpOLl8kB5AAwpZ69yqMr2D1xDeY7GRN8zqUetUy-o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.64,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Crazy Little Thing Called Love",
       "url": "https://en.wikipedia.org/wiki/Crazy_Little_Thing_Called_Love",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Slash 'n' Burn",
+      "type": "wikipedia",
+      "label": "Slash 'n' Burn",
+      "url": "https://en.wikipedia.org/wiki/Slash_'n'_Burn",
+      "firstSeenAt": "2026-11-12T15:08:34.646Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCuF8-WmBJvhV5rZj2aYSoYw",
   "title": "IndiaGlitz Tamil",
   "thumb": "https://yt3.ggpht.com/77kv3_Mc063tdh5efwjwnX0MsPhtpurBVSj0Au8ktSG1QWOZw4L0grvICmuQGvaj-MaC_mYHPg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 10.17,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "AvalGlitz",
       "url": "https://www.youtube.com/channel/UCa3BOzgvU-G07jEC0HBpXXA",
       "firstSeenAt": "2026-09-27T11:59:28.086Z"
+    },
+    {
+      "id": "wiki:Sillunu Oru Sandhippu",
+      "type": "wikipedia",
+      "label": "Sillunu Oru Sandhippu",
+      "url": "https://en.wikipedia.org/wiki/Sillunu_Oru_Sandhippu",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

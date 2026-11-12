@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCKMYrg58k3muz90hG0OSVhA",
   "title": "Fearless Records",
   "thumb": "https://yt3.ggpht.com/j2yZ4NeQBSA5GAaYNJmMo1WKwlSMdUrpe-lSAbQWfwJglBSv35H_8bc1i-TyJ75jz_ulCX69mQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "The Emptiness (album)",
       "url": "https://en.wikipedia.org/wiki/The_Emptiness_(album)",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:A Static Lullaby",
+      "type": "wikipedia",
+      "label": "A Static Lullaby",
+      "url": "https://en.wikipedia.org/wiki/A_Static_Lullaby",
+      "firstSeenAt": "2026-11-12T15:08:31.511Z"
     }
   ],
   "recentItems": []

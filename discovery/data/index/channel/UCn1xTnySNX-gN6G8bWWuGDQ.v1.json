@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCn1xTnySNX-gN6G8bWWuGDQ",
   "title": "Getty Research Institute",
   "thumb": "https://yt3.ggpht.com/P_zNP-fQSNvdSq0bYzVo4oCr2Y9ZE-ePPOzHdEaSMl5DgWm-vQPa6YegimFzAlqf2rKb2LRNTzs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Armet Davis Newlove Architects",
       "url": "https://en.wikipedia.org/wiki/Armet_Davis_Newlove_Architects",
       "firstSeenAt": "2026-10-24T10:54:53.695Z"
+    },
+    {
+      "id": "wiki:Harald Szeemann",
+      "type": "wikipedia",
+      "label": "Harald Szeemann",
+      "url": "https://en.wikipedia.org/wiki/Harald_Szeemann",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

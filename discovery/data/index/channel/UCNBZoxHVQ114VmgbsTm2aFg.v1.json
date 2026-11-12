@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCNBZoxHVQ114VmgbsTm2aFg",
   "title": "sideshowcarny",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2ufOmKiZ-jQ6849w5iBXONEB-_av_7I5w_1W3lYw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Green Slime",
       "url": "https://en.wikipedia.org/wiki/The_Green_Slime",
       "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:Dixie Dynamite",
+      "type": "wikipedia",
+      "label": "Dixie Dynamite",
+      "url": "https://en.wikipedia.org/wiki/Dixie_Dynamite",
+      "firstSeenAt": "2026-11-12T15:08:34.646Z"
     }
   ],
   "recentItems": []

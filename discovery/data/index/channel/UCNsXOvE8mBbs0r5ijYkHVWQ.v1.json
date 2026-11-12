@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCNsXOvE8mBbs0r5ijYkHVWQ",
   "title": "Belta Box",
   "thumb": "https://yt3.ggpht.com/qqYd-4Xfuy2A1az3l5Of_1b28dP6JL_apqZ4wcpM7UcSjdQ8IgtCIBKNhzf1KBKjdnW3n5zy=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Walk The Line UK",
       "url": "https://www.youtube.com/channel/UCZ_eBL_Lsi5LbFYCv3Exrhg",
       "firstSeenAt": "2026-09-25T11:48:11.160Z"
+    },
+    {
+      "id": "channel:UCgurmV2nVq_1DUb2pvGOKmg",
+      "type": "channel",
+      "label": "The Jonathan Ross Show",
+      "url": "https://www.youtube.com/channel/UCgurmV2nVq_1DUb2pvGOKmg",
+      "firstSeenAt": "2026-11-12T15:08:52.324Z"
     }
   ],
   "recentItems": []

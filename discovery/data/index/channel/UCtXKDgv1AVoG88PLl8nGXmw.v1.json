@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCtXKDgv1AVoG88PLl8nGXmw",
   "title": "Google TechTalks",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_np5QbjchJOQKKpyqO3Uo7sg3YUaFx2EWN1kCQ0N7HRrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Googlewhack",
       "url": "https://en.wikipedia.org/wiki/Googlewhack",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:Frederick Terman",
+      "type": "wikipedia",
+      "label": "Frederick Terman",
+      "url": "https://en.wikipedia.org/wiki/Frederick_Terman",
+      "firstSeenAt": "2026-11-12T15:08:31.513Z"
     }
   ],
   "recentItems": []

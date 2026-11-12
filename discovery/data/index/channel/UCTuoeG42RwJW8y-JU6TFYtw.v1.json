@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCTuoeG42RwJW8y-JU6TFYtw",
   "title": "OllyMursVEVO",
   "thumb": "https://yt3.ggpht.com/sWujxhgiGf3ZYaRktXQJtY6lU_hK3IeBVKBllCs0H_bBx3dBo067xpoolvLlvI1pvJ10T_6ZzT4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Heart Skips a Beat",
       "url": "https://en.wikipedia.org/wiki/Heart_Skips_a_Beat",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "channel:UCnPjVVu__eOVZnAnjBiGhKA",
+      "type": "channel",
+      "label": "JamesAVEVO",
+      "url": "https://www.youtube.com/channel/UCnPjVVu__eOVZnAnjBiGhKA",
+      "firstSeenAt": "2026-11-12T15:08:49.204Z"
     }
   ],
   "recentItems": []

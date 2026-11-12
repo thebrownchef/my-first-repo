@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCU2PacFf99vhb3hNiYDmxww",
   "title": "Chelsea Football Club",
   "thumb": "https://yt3.ggpht.com/0ZQXwM61r-mFLSrtqgPt2yzNJJwG60ycNUxYZG7gvovRtGZcKyej1_bCjscCQczTvidvtEuX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 1.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Chelsea Football Club",
       "url": "https://www.youtube.com/channel/UCU2PacFf99vhb3hNiYDmxww",
       "firstSeenAt": "2026-09-19T10:55:36.094Z"
+    },
+    {
+      "id": "wiki:2013–14 Chelsea F.C. season",
+      "type": "wikipedia",
+      "label": "2013–14 Chelsea F.C. season",
+      "url": "https://en.wikipedia.org/wiki/2013%E2%80%9314_Chelsea_F.C._season",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
     }
   ],
   "recentItems": []

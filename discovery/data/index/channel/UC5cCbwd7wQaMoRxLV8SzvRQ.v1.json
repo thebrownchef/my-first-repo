@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC5cCbwd7wQaMoRxLV8SzvRQ",
   "title": "jurek46pink",
   "thumb": "https://yt3.ggpht.com/9_YWvBSWkhXoSulxPeSt2gKjynYDWMVP4Jq884TKWZTHHsFUUJjTRRqQgY4nk6dGY7cYNbEowA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Ivo Wesby",
       "url": "https://en.wikipedia.org/wiki/Ivo_Wesby",
       "firstSeenAt": "2026-11-11T14:16:18.276Z"
+    },
+    {
+      "id": "wiki:Kazimierz Krukowski",
+      "type": "wikipedia",
+      "label": "Kazimierz Krukowski",
+      "url": "https://en.wikipedia.org/wiki/Kazimierz_Krukowski",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
     }
   ],
   "recentItems": []

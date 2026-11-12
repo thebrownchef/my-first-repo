@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCX3tcK49jeTDO26Ea4mFijA",
   "title": "Roberta Huebner",
   "thumb": "https://yt3.ggpht.com/FFUslnBs2YjmSZ7u9SZH4mC5lDm6YgCIew7JKVEkILzp_PDsQ5MbLh2j8BBGAWfKm9RR9sF9Rw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "SuperLuckydream",
       "url": "https://www.youtube.com/channel/UCEGVjiEQOqU4TvFFJxjt76w",
       "firstSeenAt": "2026-09-27T11:59:22.651Z"
+    },
+    {
+      "id": "wiki:Alberta Masiello",
+      "type": "wikipedia",
+      "label": "Alberta Masiello",
+      "url": "https://en.wikipedia.org/wiki/Alberta_Masiello",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

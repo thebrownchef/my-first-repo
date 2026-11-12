@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCRT4LEdCBC_Zxincl76B0yQ",
   "title": "AniDom",
   "thumb": "https://yt3.ggpht.com/fDW-txRxFI6yv6axPDbjWyADWpInkLT6t73cesPcBQffvtu7KvX4pKgcD0rPKqWDF8JIIhoIhw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.72,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The Kid Is All Right",
       "url": "https://en.wikipedia.org/wiki/The_Kid_Is_All_Right",
       "firstSeenAt": "2026-10-30T12:50:14.638Z"
+    },
+    {
+      "id": "wiki:The Frond Files",
+      "type": "wikipedia",
+      "label": "The Frond Files",
+      "url": "https://en.wikipedia.org/wiki/The_Frond_Files",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
     }
   ],
   "recentItems": []

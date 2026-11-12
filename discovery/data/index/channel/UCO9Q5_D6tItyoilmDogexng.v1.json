@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCO9Q5_D6tItyoilmDogexng",
   "title": "PublicResourceOrg",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN8msoL_nLAxHUy2pwTKFRXZjHhPiX76565DKcqbvUhw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Paul Siple",
       "url": "https://en.wikipedia.org/wiki/Paul_Siple",
       "firstSeenAt": "2026-11-11T14:16:18.277Z"
+    },
+    {
+      "id": "wiki:Edward L. R. Elson",
+      "type": "wikipedia",
+      "label": "Edward L. R. Elson",
+      "url": "https://en.wikipedia.org/wiki/Edward_L._R._Elson",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

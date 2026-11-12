@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCqFMzb-4AUf6WAIbl132QKA",
   "title": "NHL",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lmoSnNwqVQXXQmdpb29k1jUpvCEdI1T6qR0w8EOJ2-o7GW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 6.19,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Hockey Canada",
       "url": "https://www.youtube.com/channel/UCZEOp9k-6Q6ncW96ntKubHA",
       "firstSeenAt": "2026-10-25T11:22:18.104Z"
+    },
+    {
+      "id": "wiki:Charlie Coyle",
+      "type": "wikipedia",
+      "label": "Charlie Coyle",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Coyle",
+      "firstSeenAt": "2026-11-12T15:08:37.043Z"
     }
   ],
   "recentItems": []

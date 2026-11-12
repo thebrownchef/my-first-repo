@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCMf7B1VAmNzjHFRWz1wuMZA",
   "title": "AmyMacdonaldVEVO",
   "thumb": "https://yt3.ggpht.com/aFHGJn9VVm0hWuc024rJeqQUJkL18AYC3bZrfE_vPZkZ1hKdcFMoFJnpGPczqyeWTf9Q4wvPEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "This Pretty Face",
       "url": "https://en.wikipedia.org/wiki/This_Pretty_Face",
       "firstSeenAt": "2026-11-05T14:35:30.322Z"
+    },
+    {
+      "id": "channel:UC1nqgltsgdDiQWHd0UdyFkQ",
+      "type": "channel",
+      "label": "Amy Macdonald Polska",
+      "url": "https://www.youtube.com/channel/UC1nqgltsgdDiQWHd0UdyFkQ",
+      "firstSeenAt": "2026-11-12T15:08:49.970Z"
     }
   ],
   "recentItems": []

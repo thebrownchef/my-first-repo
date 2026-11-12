@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCteFGyfDP_lpMPDGGJZualg",
   "title": "duovela",
   "thumb": "https://yt3.ggpht.com/caFPz_jVJQpkGUvAULLOp1SKsAGS4AjlgvayCGDTHMp6oHYM2KrwdPD6cTQlpAYNFegIVJNE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Marie Jaëll",
       "url": "https://en.wikipedia.org/wiki/Marie_Ja%C3%ABll",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:Germaine Tailleferre",
+      "type": "wikipedia",
+      "label": "Germaine Tailleferre",
+      "url": "https://en.wikipedia.org/wiki/Germaine_Tailleferre",
+      "firstSeenAt": "2026-11-12T15:08:31.513Z"
     }
   ],
   "recentItems": []

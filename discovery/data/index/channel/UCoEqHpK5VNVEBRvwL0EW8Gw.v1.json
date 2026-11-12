@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCoEqHpK5VNVEBRvwL0EW8Gw",
   "title": "ITV",
   "thumb": "https://yt3.ggpht.com/Po0AejKZ0dGPAggCR4C0zoXXaCzAfpbbCAgZTOwxMPjavxeLVCja74yYZ_tVlbYalqQ5g9cFHqU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.56,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "ITV Reality",
       "url": "https://www.youtube.com/channel/UCHnq2JnRWVJ5OT6b021P92Q",
       "firstSeenAt": "2026-09-25T11:48:11.463Z"
+    },
+    {
+      "id": "channel:UCgurmV2nVq_1DUb2pvGOKmg",
+      "type": "channel",
+      "label": "The Jonathan Ross Show",
+      "url": "https://www.youtube.com/channel/UCgurmV2nVq_1DUb2pvGOKmg",
+      "firstSeenAt": "2026-11-12T15:08:52.323Z"
     }
   ],
   "recentItems": []

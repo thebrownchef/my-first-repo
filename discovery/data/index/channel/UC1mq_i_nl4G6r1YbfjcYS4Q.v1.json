@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC1mq_i_nl4G6r1YbfjcYS4Q",
   "title": "CurzonRoad",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k3JiHKyimEvG71EBRwDZHFrhkuo0e4BnTcKIH27eGUxyo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Coenraad V. Bos",
       "url": "https://en.wikipedia.org/wiki/Coenraad_V._Bos",
       "firstSeenAt": "2026-11-10T14:49:42.358Z"
+    },
+    {
+      "id": "wiki:Anna Case",
+      "type": "wikipedia",
+      "label": "Anna Case",
+      "url": "https://en.wikipedia.org/wiki/Anna_Case",
+      "firstSeenAt": "2026-11-12T15:08:34.646Z"
     }
   ],
   "recentItems": []

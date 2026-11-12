@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
   "title": "TED",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 1,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Mike deGruy",
       "url": "https://en.wikipedia.org/wiki/Mike_deGruy",
       "firstSeenAt": "2026-11-10T14:49:46.638Z"
+    },
+    {
+      "id": "wiki:Daniel Wolpert",
+      "type": "wikipedia",
+      "label": "Daniel Wolpert",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Wolpert",
+      "firstSeenAt": "2026-11-12T15:08:31.511Z"
     }
   ],
   "recentItems": []

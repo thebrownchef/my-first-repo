@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UCVH-MsJxmzJ9kAemCWNt5bg",
   "title": "Allan S",
   "thumb": "https://yt3.ggpht.com/Vxp6M4AFhzjqUhmsshDr8EwE0HMrMjaz_H4t9AGrrGpg2S2Gba3a4kvXbvFevPQP8W55QV6qTA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Theirs Is the Glory",
       "url": "https://en.wikipedia.org/wiki/Theirs_Is_the_Glory",
       "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:Brian Desmond Hurst",
+      "type": "wikipedia",
+      "label": "Brian Desmond Hurst",
+      "url": "https://en.wikipedia.org/wiki/Brian_Desmond_Hurst",
+      "firstSeenAt": "2026-11-12T15:08:34.647Z"
     }
   ],
   "recentItems": []

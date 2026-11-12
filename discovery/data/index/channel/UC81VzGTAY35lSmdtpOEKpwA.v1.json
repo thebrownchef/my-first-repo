@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:17:41.954Z",
+  "generatedAt": "2026-11-12T15:10:16.031Z",
   "id": "UC81VzGTAY35lSmdtpOEKpwA",
   "title": "Alejandro Hernandez",
   "thumb": "https://yt3.ggpht.com/snP3F6_VHI-Ys2zk_mnij16G_xr4PnQLoV8PaKkLu0Y6l1SWY3c1jP2Kf0F41XpxnsZlzn6Qyg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Alejandro Hernández R",
       "url": "https://www.youtube.com/channel/UCqsA_AzPZcDLxmGyMwuwNwQ",
       "firstSeenAt": "2026-10-29T12:56:44.797Z"
+    },
+    {
+      "id": "wiki:Alt (film)",
+      "type": "wikipedia",
+      "label": "Alt (film)",
+      "url": "https://en.wikipedia.org/wiki/Alt_(film)",
+      "firstSeenAt": "2026-11-12T15:08:31.512Z"
     }
   ],
   "recentItems": []
