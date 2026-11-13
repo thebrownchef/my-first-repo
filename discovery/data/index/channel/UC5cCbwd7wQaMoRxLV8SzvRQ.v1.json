@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC5cCbwd7wQaMoRxLV8SzvRQ",
   "title": "jurek46pink",
   "thumb": "https://yt3.ggpht.com/9_YWvBSWkhXoSulxPeSt2gKjynYDWMVP4Jq884TKWZTHHsFUUJjTRRqQgY4nk6dGY7cYNbEowA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -36,6 +36,27 @@
       "label": "Kazimierz Krukowski",
       "url": "https://en.wikipedia.org/wiki/Kazimierz_Krukowski",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:Mieczysław Fogg",
+      "type": "wikipedia",
+      "label": "Mieczysław Fogg",
+      "url": "https://en.wikipedia.org/wiki/Mieczys%C5%82aw_Fogg",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
+    },
+    {
+      "id": "wiki:Stefan Witas",
+      "type": "wikipedia",
+      "label": "Stefan Witas",
+      "url": "https://en.wikipedia.org/wiki/Stefan_Witas",
+      "firstSeenAt": "2026-11-13T14:31:16.364Z"
+    },
+    {
+      "id": "wiki:Wiera Gran",
+      "type": "wikipedia",
+      "label": "Wiera Gran",
+      "url": "https://en.wikipedia.org/wiki/Wiera_Gran",
+      "firstSeenAt": "2026-11-13T14:31:16.364Z"
     }
   ],
   "recentItems": []

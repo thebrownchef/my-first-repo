@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "id": "UCnkJ3g9xn4QLTNKY1fvkjjA",
+  "title": "Punkcast",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_k-WZJ8ESse_GaGC8Cqt5YFadR99nOKt5LJuMnEQ_TICg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.22,
+  "sources": [
+    {
+      "id": "wiki:John Perry Barlow",
+      "type": "wikipedia",
+      "label": "John Perry Barlow",
+      "url": "https://en.wikipedia.org/wiki/John_Perry_Barlow",
+      "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Morris Levy",
+      "type": "wikipedia",
+      "label": "Morris Levy",
+      "url": "https://en.wikipedia.org/wiki/Morris_Levy",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
+    }
+  ],
+  "recentItems": []
+}

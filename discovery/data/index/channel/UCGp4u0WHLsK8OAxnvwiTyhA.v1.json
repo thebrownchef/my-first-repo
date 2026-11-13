@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCGp4u0WHLsK8OAxnvwiTyhA",
   "title": "British Pathé",
   "thumb": "https://yt3.ggpht.com/_x4OxZHFyys6g3HZ5S-KBZ4s82W5jO2p8KhmqL1KwU9qjiJJLN2Ovg9RVc9GzD1O3K01Ujl4lDQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 33,
-  "distinctSourceCount": 33,
+  "score": 38,
+  "distinctSourceCount": 38,
   "hop": 0,
   "uploadsPerDay": 12.88,
   "sources": [
@@ -239,6 +239,41 @@
       "label": "Édith Piaf",
       "url": "https://en.wikipedia.org/wiki/%C3%89dith_Piaf",
       "firstSeenAt": "2026-11-11T14:16:18.276Z"
+    },
+    {
+      "id": "wiki:Charlie Spares",
+      "type": "wikipedia",
+      "label": "Charlie Spares",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Spares",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Phoenix Park",
+      "type": "wikipedia",
+      "label": "Phoenix Park",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_Park",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Boris Ivanowski",
+      "type": "wikipedia",
+      "label": "Boris Ivanowski",
+      "url": "https://en.wikipedia.org/wiki/Boris_Ivanowski",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Stanley Woods",
+      "type": "wikipedia",
+      "label": "Stanley Woods",
+      "url": "https://en.wikipedia.org/wiki/Stanley_Woods",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Grace Burrows",
+      "type": "wikipedia",
+      "label": "Grace Burrows",
+      "url": "https://en.wikipedia.org/wiki/Grace_Burrows",
+      "firstSeenAt": "2026-11-13T14:31:16.364Z"
     }
   ],
   "recentItems": [

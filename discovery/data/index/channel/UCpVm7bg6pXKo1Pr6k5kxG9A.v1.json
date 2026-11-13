@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
   "title": "National Geographic",
   "thumb": "https://yt3.ggpht.com/-FOFg8o1y4dAHDB2MvhORHnLMOaaOKnaNUNsrU-U57Eac6gjB5VO8sYJQC1KkULGQvKP2XpArA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 1.55,
   "sources": [
@@ -92,6 +92,20 @@
       "label": "Nicolo Rizzuto",
       "url": "https://en.wikipedia.org/wiki/Nicolo_Rizzuto",
       "firstSeenAt": "2026-11-11T14:16:26.260Z"
+    },
+    {
+      "id": "wiki:Atlantic horseshoe crab",
+      "type": "wikipedia",
+      "label": "Atlantic horseshoe crab",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
+    },
+    {
+      "id": "wiki:Harris's hawk",
+      "type": "wikipedia",
+      "label": "Harris's hawk",
+      "url": "https://en.wikipedia.org/wiki/Harris's_hawk",
+      "firstSeenAt": "2026-11-13T14:31:13.887Z"
     }
   ],
   "recentItems": []

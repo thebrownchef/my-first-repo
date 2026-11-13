@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCf-COwmdNelXvbj-KaMCuLw",
   "title": "Carnegie Mellon University",
   "thumb": "https://yt3.ggpht.com/iBHEIzsxt-5sdlxIzTeMdV8VCe2TNpgLGi79h5yHrpoizbl7YcxbB54uMsoN7KEVKTDQPpRecMM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Alexander Knaster",
       "url": "https://en.wikipedia.org/wiki/Alexander_Knaster",
       "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:Randy Pausch",
+      "type": "wikipedia",
+      "label": "Randy Pausch",
+      "url": "https://en.wikipedia.org/wiki/Randy_Pausch",
+      "firstSeenAt": "2026-11-13T14:31:16.362Z"
     }
   ],
   "recentItems": []

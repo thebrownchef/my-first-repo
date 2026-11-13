@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "id": "UChGDEluRG9r5kCecRAQTx_Q",
+  "title": "HackersOnBoard",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nFS0uVxFBDF14gVoPC9AHrhN4HriNM84NiQju9_BnZtg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.78,
+  "sources": [
+    {
+      "id": "wiki:Nokia N900",
+      "type": "wikipedia",
+      "label": "Nokia N900",
+      "url": "https://en.wikipedia.org/wiki/Nokia_N900",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:Java Card",
+      "type": "wikipedia",
+      "label": "Java Card",
+      "url": "https://en.wikipedia.org/wiki/Java_Card",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    }
+  ],
+  "recentItems": []
+}

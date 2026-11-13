@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCh6KFtW4a4Ozr81GI1cxaBQ",
   "title": "University of California Television (UCTV)",
   "thumb": "https://yt3.ggpht.com/ABuxegbRX6xVmeFnmLMJtPe6IwRRE4Rh6oeVzuT2apDmp4MHb-0psv6EQQZDn50D_SluKZ7th7M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 1.52,
   "sources": [
@@ -57,6 +57,27 @@
       "label": "Leon Panetta",
       "url": "https://en.wikipedia.org/wiki/Leon_Panetta",
       "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:Cristina Rivera Garza",
+      "type": "wikipedia",
+      "label": "Cristina Rivera Garza",
+      "url": "https://en.wikipedia.org/wiki/Cristina_Rivera_Garza",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:Philip C. Habib",
+      "type": "wikipedia",
+      "label": "Philip C. Habib",
+      "url": "https://en.wikipedia.org/wiki/Philip_C._Habib",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
+    },
+    {
+      "id": "wiki:Ariodante",
+      "type": "wikipedia",
+      "label": "Ariodante",
+      "url": "https://en.wikipedia.org/wiki/Ariodante",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
     }
   ],
   "recentItems": []

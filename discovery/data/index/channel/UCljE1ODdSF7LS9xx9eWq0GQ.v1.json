@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCljE1ODdSF7LS9xx9eWq0GQ",
   "title": "potholer54",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_liNqcSPV5ZPp-oIWbOF1sjU5Q6aSC3r75PoQ1itiJdmQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Peter Hadfield (journalist)",
       "url": "https://en.wikipedia.org/wiki/Peter_Hadfield_(journalist)",
       "firstSeenAt": "2026-11-05T14:35:30.322Z"
+    },
+    {
+      "id": "wiki:June Sarpong",
+      "type": "wikipedia",
+      "label": "June Sarpong",
+      "url": "https://en.wikipedia.org/wiki/June_Sarpong",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
     }
   ],
   "recentItems": []

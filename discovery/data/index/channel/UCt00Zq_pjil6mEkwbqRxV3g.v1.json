@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCt00Zq_pjil6mEkwbqRxV3g",
   "title": "Roger Griffith",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 25,
-  "distinctSourceCount": 25,
+  "score": 31,
+  "distinctSourceCount": 31,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -183,9 +183,60 @@
       "label": "Beith",
       "url": "https://en.wikipedia.org/wiki/Beith",
       "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:Gent-Sint-Pieters railway station",
+      "type": "wikipedia",
+      "label": "Gent-Sint-Pieters railway station",
+      "url": "https://en.wikipedia.org/wiki/Gent-Sint-Pieters_railway_station",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Langemark German war cemetery",
+      "type": "wikipedia",
+      "label": "Langemark German war cemetery",
+      "url": "https://en.wikipedia.org/wiki/Langemark_German_war_cemetery",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Tyne Cot",
+      "type": "wikipedia",
+      "label": "Tyne Cot",
+      "url": "https://en.wikipedia.org/wiki/Tyne_Cot",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Polygon Wood, Zonnebeke",
+      "type": "wikipedia",
+      "label": "Polygon Wood, Zonnebeke",
+      "url": "https://en.wikipedia.org/wiki/Polygon_Wood%2C_Zonnebeke",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Buttes New British Cemetery (New Zealand) Memorial",
+      "type": "wikipedia",
+      "label": "Buttes New British Cemetery (New Zealand) Memorial",
+      "url": "https://en.wikipedia.org/wiki/Buttes_New_British_Cemetery_(New_Zealand)_Memorial",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Battle of Polygon Wood",
+      "type": "wikipedia",
+      "label": "Battle of Polygon Wood",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Polygon_Wood",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "poCxCGE6iPY",
+      "title": "Glimpses along the Way   A Train Journey from Stewarton to Stranraer",
+      "publishedAt": "2026-11-13T13:18:56Z",
+      "durationSec": 212,
+      "thumb": "https://i.ytimg.com/vi/poCxCGE6iPY/mqdefault.jpg",
+      "description": "The Girvan to Stranraer line is soon to be a 'one engine in steam' line with a single token issued at Girvan signal box. At present passing loops exist at Girvan, Kilkerran, Barrhill, Glenwhilly and Dunragit, with token exchanges at Glenwhilly and Dunragit. Barrhill is staffed with a signal box and the passing loop is in use. The points at Stranraer have been removed and therefore the second platform cannot be accessed and signalling is redundant.",
+      "chapters": []
+    },
     {
       "id": "OfEaFgBagFw",
       "title": "Hopton Heath railway station, Heart of Wales Line, Shropshire",
@@ -283,15 +334,6 @@
       "durationSec": 199,
       "thumb": "https://i.ytimg.com/vi/XEElSPPA-As/mqdefault.jpg",
       "description": "Milliken Park is a station dating from 1989 that replaced the old station closed in 1966 that lay slightly closer to Johnstone. The next station\ntowards Ayr is Howwood. Trains call generally every 30 mins. Unusually\nno car park is provided, however a large housing estate is close by. The name 'Cochrane Mill' was first used for the 1840 station, however it\nbecame 'Milliken' in 1853 after the businessman who purchased the land.",
-      "chapters": []
-    },
-    {
-      "id": "NDzrxC4cDiM",
-      "title": "Lesmahagow Priory and the Old Parish Churchyard",
-      "publishedAt": "2026-08-05T09:58:26Z",
-      "durationSec": 231,
-      "thumb": "https://i.ytimg.com/vi/NDzrxC4cDiM/mqdefault.jpg",
-      "description": "St Machutus founded a church that in 1140 became Lesmahagow Priory, linked to Kelso Abbey. It became the parish church at the Reformation and in 1804 a new parish church was built over part of the foundations of the abbey. The McKirdy's of Birkwood Castle built a family mausoleum here. Family enclosures here include the Greenshields of Kerse and the Mosman's of Auchtyfardle. Captain Hamilton Douglas Gordon of Harperfield has a finely carved military memorial - the Elephant is the symbol of his regiment.",
       "chapters": []
     }
   ]

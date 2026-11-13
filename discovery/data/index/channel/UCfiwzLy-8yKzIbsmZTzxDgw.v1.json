@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCfiwzLy-8yKzIbsmZTzxDgw",
   "title": "AlJazeera Arabic  قناة الجزيرة",
   "thumb": "https://yt3.ggpht.com/oN_i26ADOuQ4PdypHo8yjVXh6QSXZ1kMeYzaRH3hNOlQE1uEUUQ-gkCh0o1rUQ2PM7Qx6QvY2g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 45.5,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "Mohamed Ababou",
       "url": "https://en.wikipedia.org/wiki/Mohamed_Ababou",
       "firstSeenAt": "2026-11-03T14:08:03.893Z"
+    },
+    {
+      "id": "wiki:Muammar Gaddafi",
+      "type": "wikipedia",
+      "label": "Muammar Gaddafi",
+      "url": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
+    },
+    {
+      "id": "wiki:Mohammed Murad Ghaleb",
+      "type": "wikipedia",
+      "label": "Mohammed Murad Ghaleb",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_Murad_Ghaleb",
+      "firstSeenAt": "2026-11-13T14:31:13.887Z"
     }
   ],
   "recentItems": []

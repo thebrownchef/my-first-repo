@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC4SUWizzKc1tptprBkWjX2Q",
   "title": "South China Morning Post",
   "thumb": "https://yt3.ggpht.com/4Q9yos_fKmzf0o36ETS4IZelXBRLwJ5_4pSGvWNbLLhhGNs4RqmAmsYKPkc-Dx_EgVTCxaBOmdU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 2.98,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Becoming Chinese",
       "url": "https://en.wikipedia.org/wiki/Becoming_Chinese",
       "firstSeenAt": "2026-09-05T10:32:37.784Z"
+    },
+    {
+      "id": "wiki:Tsang Tsou-choi",
+      "type": "wikipedia",
+      "label": "Tsang Tsou-choi",
+      "url": "https://en.wikipedia.org/wiki/Tsang_Tsou-choi",
+      "firstSeenAt": "2026-11-13T14:31:16.364Z"
     }
   ],
   "recentItems": []

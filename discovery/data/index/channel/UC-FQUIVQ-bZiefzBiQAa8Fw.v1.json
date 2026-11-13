@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC-FQUIVQ-bZiefzBiQAa8Fw",
   "title": "BBC Radio 1",
   "thumb": "https://yt3.ggpht.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Paradise (Coldplay song)",
       "url": "https://en.wikipedia.org/wiki/Paradise_(Coldplay_song)",
       "firstSeenAt": "2026-11-09T16:12:22.802Z"
+    },
+    {
+      "id": "wiki:X (Ed Sheeran album)",
+      "type": "wikipedia",
+      "label": "X (Ed Sheeran album)",
+      "url": "https://en.wikipedia.org/wiki/X_(Ed_Sheeran_album)",
+      "firstSeenAt": "2026-11-13T14:31:16.364Z"
     }
   ],
   "recentItems": []

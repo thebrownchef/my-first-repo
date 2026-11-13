@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC976cmBIr3xFimgrzPjc8pg",
   "title": "Psychopathic Records",
   "thumb": "https://yt3.ggpht.com/Fkvn7uIhQ1wYUvGgp2Y4Fn1a74DP8-aF_Tx0fQ6-1S4Lp7eFeeD5k7kInA8e9RbkzV9ODfvafA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Gang Rags",
       "url": "https://en.wikipedia.org/wiki/Gang_Rags",
       "firstSeenAt": "2026-11-03T14:08:07.874Z"
+    },
+    {
+      "id": "wiki:Fred Durst",
+      "type": "wikipedia",
+      "label": "Fred Durst",
+      "url": "https://en.wikipedia.org/wiki/Fred_Durst",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []

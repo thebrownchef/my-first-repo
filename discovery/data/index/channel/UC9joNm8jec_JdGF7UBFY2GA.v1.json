@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC9joNm8jec_JdGF7UBFY2GA",
   "title": "lunarmodule5",
   "thumb": "https://yt3.ggpht.com/Y42-Qq_pQb_i60ZRo5l8hXwaX5GgsY2SxIIh8E03YhV2lVNgb94iEA6mStWvTS6G46D_JAs8Nqc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Homemade Documentaries",
       "url": "https://www.youtube.com/channel/UCyAifYIumNpXdKJM5O_olVA",
       "firstSeenAt": "2026-09-19T10:55:41.032Z"
+    },
+    {
+      "id": "wiki:Geoffrey Pardoe",
+      "type": "wikipedia",
+      "label": "Geoffrey Pardoe",
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_Pardoe",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []

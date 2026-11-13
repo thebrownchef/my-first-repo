@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCInpAOuv6nqdf6EheU4Wfjg",
   "title": "Lomax Film Collection",
   "thumb": "https://yt3.ggpht.com/yWV0NKxATc1850uL-ODGRcVfNuZrGRAvq4Li6v6wmrJRhCuWPB7XgAiKo8oEOhsExataqtKxEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Banks of the Ohio",
       "url": "https://en.wikipedia.org/wiki/Banks_of_the_Ohio",
       "firstSeenAt": "2026-11-12T15:08:37.044Z"
+    },
+    {
+      "id": "wiki:Sonny Boy Nelson",
+      "type": "wikipedia",
+      "label": "Sonny Boy Nelson",
+      "url": "https://en.wikipedia.org/wiki/Sonny_Boy_Nelson",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
     }
   ],
   "recentItems": []

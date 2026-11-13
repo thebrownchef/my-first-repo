@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC9KhB07HSEtWISy_LFWwHzw",
   "title": "johnmayerVEVO",
   "thumb": "https://yt3.ggpht.com/IrtssmU5WpTdgnAC3r-YNq_WDGujO8025uptIyQAj_qSL8I5w1NliNEGKvvtm9fWL3xVX6kmrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Who You Love",
       "url": "https://en.wikipedia.org/wiki/Who_You_Love",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:XO (song)",
+      "type": "wikipedia",
+      "label": "XO (song)",
+      "url": "https://en.wikipedia.org/wiki/XO_(song)",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

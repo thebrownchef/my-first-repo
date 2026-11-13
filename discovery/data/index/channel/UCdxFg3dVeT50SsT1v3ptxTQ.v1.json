@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCdxFg3dVeT50SsT1v3ptxTQ",
   "title": "Janelle Monáe",
   "thumb": "https://yt3.ggpht.com/efKXGxJT8IG76iq3Wjk7zzgQ6BosnWOO4rIvOQ1kQmi9RKoyd-OQRu-_h64aQxwpxk8C0-GFFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "K. Michelle ",
       "url": "https://www.youtube.com/channel/UCx5Tqy7lZgSj8NLocGgYZ6g",
       "firstSeenAt": "2026-11-12T15:08:50.258Z"
+    },
+    {
+      "id": "wiki:PrimeTime (song)",
+      "type": "wikipedia",
+      "label": "PrimeTime (song)",
+      "url": "https://en.wikipedia.org/wiki/PrimeTime_(song)",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []

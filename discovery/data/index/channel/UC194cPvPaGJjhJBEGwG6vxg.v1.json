@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC194cPvPaGJjhJBEGwG6vxg",
   "title": "OK Go",
   "thumb": "https://yt3.ggpht.com/e9anBZ_7WkCj1F2KDGiqN3pwWIt5VCgR58knJmrgtd0XojiV2hgkzvqQ1M3sSwj5JQXOOymM_g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Needing/Getting",
       "url": "https://en.wikipedia.org/wiki/Needing%2FGetting",
       "firstSeenAt": "2026-11-04T14:28:09.027Z"
+    },
+    {
+      "id": "wiki:The Writing's on the Wall (OK Go song)",
+      "type": "wikipedia",
+      "label": "The Writing's on the Wall (OK Go song)",
+      "url": "https://en.wikipedia.org/wiki/The_Writing's_on_the_Wall_(OK_Go_song)",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

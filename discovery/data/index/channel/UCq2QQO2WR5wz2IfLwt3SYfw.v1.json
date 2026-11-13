@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCq2QQO2WR5wz2IfLwt3SYfw",
   "title": "TIVEVO",
   "thumb": "https://yt3.ggpht.com/loWn-3ctzGLQAa-e7nCDc2fu2OdGvinhCyKoT-QV5zzm3qQfmp6BJ4nb2Oq-Op6alNEQipbjekI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Wit' Me",
       "url": "https://en.wikipedia.org/wiki/Wit'_Me",
       "firstSeenAt": "2026-10-25T11:22:05.903Z"
+    },
+    {
+      "id": "wiki:No Mediocre",
+      "type": "wikipedia",
+      "label": "No Mediocre",
+      "url": "https://en.wikipedia.org/wiki/No_Mediocre",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:About the Money",
+      "type": "wikipedia",
+      "label": "About the Money",
+      "url": "https://en.wikipedia.org/wiki/About_the_Money",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
     }
   ],
   "recentItems": []

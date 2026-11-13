@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC3N5y6UWKJaKqoU2b_0MfTQ",
   "title": "LanaDelReyVEVO",
   "thumb": "https://yt3.ggpht.com/v7FFBCqWHtvh-_wLtWV2vOrgBI7p7puXjiZgZJ1bOcwdGUkP8DjHVdt6U-QvSDjEMtYa0aSw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "West Coast (Lana Del Rey song)",
       "url": "https://en.wikipedia.org/wiki/West_Coast_(Lana_Del_Rey_song)",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Brooklyn Baby",
+      "type": "wikipedia",
+      "label": "Brooklyn Baby",
+      "url": "https://en.wikipedia.org/wiki/Brooklyn_Baby",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
+    },
+    {
+      "id": "wiki:Shades of Cool",
+      "type": "wikipedia",
+      "label": "Shades of Cool",
+      "url": "https://en.wikipedia.org/wiki/Shades_of_Cool",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

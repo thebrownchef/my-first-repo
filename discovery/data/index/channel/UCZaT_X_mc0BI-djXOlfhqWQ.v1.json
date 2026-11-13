@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCZaT_X_mc0BI-djXOlfhqWQ",
   "title": "VICE News",
   "thumb": "https://yt3.ggpht.com/5-T_4OQwbVFrezPHUc3VP3wCyqo8nZ-VMOpJA_nppoxnZ6IhSVx1PrJPgfFkxD4Z8c5eDuQ9XQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 1.49,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Simon Ostrovsky",
       "url": "https://en.wikipedia.org/wiki/Simon_Ostrovsky",
       "firstSeenAt": "2026-11-08T13:19:11.789Z"
+    },
+    {
+      "id": "wiki:First Battle of Donetsk Airport",
+      "type": "wikipedia",
+      "label": "First Battle of Donetsk Airport",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_Donetsk_Airport",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
     }
   ],
   "recentItems": []

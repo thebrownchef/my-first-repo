@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCB5PUhKvXlxcyU4F575TZAw",
   "title": "rosaryfilms",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kEjyQDhmUxc3lvhDpgHDfxHSFSIP0q9hpbGUtuUOI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "catholichomeschool",
       "url": "https://www.youtube.com/channel/UCEVbB6ysYPo3YsnHj385SCw",
       "firstSeenAt": "2026-09-22T11:35:06.189Z"
+    },
+    {
+      "id": "wiki:Hind al-Husseini",
+      "type": "wikipedia",
+      "label": "Hind al-Husseini",
+      "url": "https://en.wikipedia.org/wiki/Hind_al-Husseini",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
     }
   ],
   "recentItems": []

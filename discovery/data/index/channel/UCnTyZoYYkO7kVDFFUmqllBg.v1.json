@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCnTyZoYYkO7kVDFFUmqllBg",
   "title": "franzferdinandVEVO",
   "thumb": "https://yt3.ggpht.com/eWOpbIGXw9x4ugj1qmF9_Qq2_ADBNAKnsaAhqsTUs-nsdwyvCCdX7lbRYt-w7wB-nQld-wAG-Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Love Illumination",
       "url": "https://en.wikipedia.org/wiki/Love_Illumination",
       "firstSeenAt": "2026-11-09T16:12:20.260Z"
+    },
+    {
+      "id": "wiki:Fresh Strawberries",
+      "type": "wikipedia",
+      "label": "Fresh Strawberries",
+      "url": "https://en.wikipedia.org/wiki/Fresh_Strawberries",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
     }
   ],
   "recentItems": []

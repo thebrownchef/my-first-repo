@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCYal7J64EbvvlygsfiFriIw",
   "title": "Eesti Rahvusringhääling",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mF85r8dMMJ3s8xAbus085FZ8pOOcuDjX2ZRZGf1zDquw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 1.59,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Jarek Kasar",
       "url": "https://en.wikipedia.org/wiki/Jarek_Kasar",
       "firstSeenAt": "2026-10-04T12:18:36.081Z"
+    },
+    {
+      "id": "wiki:Getter Jaani",
+      "type": "wikipedia",
+      "label": "Getter Jaani",
+      "url": "https://en.wikipedia.org/wiki/Getter_Jaani",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []

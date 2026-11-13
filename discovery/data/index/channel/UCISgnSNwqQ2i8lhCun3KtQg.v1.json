@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCISgnSNwqQ2i8lhCun3KtQg",
   "title": "Sansad TV",
   "thumb": "https://yt3.ggpht.com/XzP36sr6nAhUhEUIWojKUi90bhzafV0Zkmt1vgLuUnk5P8auuDtWHsCNHhR8MznpsT07xVBN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 18.24,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Samvidhaan",
       "url": "https://en.wikipedia.org/wiki/Samvidhaan",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Phanishwar Nath Renu",
+      "type": "wikipedia",
+      "label": "Phanishwar Nath Renu",
+      "url": "https://en.wikipedia.org/wiki/Phanishwar_Nath_Renu",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

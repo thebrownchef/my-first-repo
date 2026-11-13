@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UClVY6MdQxTZUaMDL-dLQDcw",
   "title": "Ty Dolla $ign",
   "thumb": "https://yt3.ggpht.com/fHqlfPfIo0ziCHgLtoXcGZlBxiPpTodTjQVwCUuni7a_CVglKlYpUgWWkxYJRVGYAGbsdTKwwF4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "K. Michelle ",
       "url": "https://www.youtube.com/channel/UCx5Tqy7lZgSj8NLocGgYZ6g",
       "firstSeenAt": "2026-11-12T15:08:50.260Z"
+    },
+    {
+      "id": "wiki:Paranoid (Ty Dolla Sign song)",
+      "type": "wikipedia",
+      "label": "Paranoid (Ty Dolla Sign song)",
+      "url": "https://en.wikipedia.org/wiki/Paranoid_(Ty_Dolla_Sign_song)",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []

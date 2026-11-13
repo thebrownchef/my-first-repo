@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC0kfhd6oFni12khSfT561CQ",
   "title": "soapbxprod",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kagfmXimGpW2mz0Fsqe8t_WXLrvJvkeMFrfJ3inC3qRw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Lizabeth Scott",
       "url": "https://en.wikipedia.org/wiki/Lizabeth_Scott",
       "firstSeenAt": "2026-11-03T14:08:03.893Z"
+    },
+    {
+      "id": "wiki:Ralph Bellamy",
+      "type": "wikipedia",
+      "label": "Ralph Bellamy",
+      "url": "https://en.wikipedia.org/wiki/Ralph_Bellamy",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
     }
   ],
   "recentItems": []

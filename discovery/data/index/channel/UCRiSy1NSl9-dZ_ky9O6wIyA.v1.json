@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCRiSy1NSl9-dZ_ky9O6wIyA",
   "title": "ACBL - American Contract Bridge League",
   "thumb": "https://yt3.ggpht.com/kNFXvEwmoQ6hnXLaJRHLjPyPXLDzJVVPnSn6sST2guyqEX_YnU2BJ6JiwhQAYk7Ui8pf6tpWyQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ely Culbertson",
       "url": "https://en.wikipedia.org/wiki/Ely_Culbertson",
       "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Alfred Sheinwold",
+      "type": "wikipedia",
+      "label": "Alfred Sheinwold",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Sheinwold",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

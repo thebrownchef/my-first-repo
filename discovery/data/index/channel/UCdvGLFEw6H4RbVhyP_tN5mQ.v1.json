@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCdvGLFEw6H4RbVhyP_tN5mQ",
   "title": "collectionCB2",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lD04B-tTcgT3Yk2ileKQUYZwvLTc8XYERaIKzuQ5F0Cg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Esther Allan",
       "url": "https://en.wikipedia.org/wiki/Esther_Allan",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:Willy Ostijn",
+      "type": "wikipedia",
+      "label": "Willy Ostijn",
+      "url": "https://en.wikipedia.org/wiki/Willy_Ostijn",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

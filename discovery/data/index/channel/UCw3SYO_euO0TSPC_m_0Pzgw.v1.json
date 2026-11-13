@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCw3SYO_euO0TSPC_m_0Pzgw",
   "title": "Los Angeles Times",
   "thumb": "https://yt3.ggpht.com/2hoRUHM9kVY7PjjpnbxLuv6VXawi0Plj-tG4R5HlXtOFPWwMIv20_RMZfEy3ogg2abrtBler=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 2.57,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Blake Griffin",
       "url": "https://en.wikipedia.org/wiki/Blake_Griffin",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:Remontay McClain",
+      "type": "wikipedia",
+      "label": "Remontay McClain",
+      "url": "https://en.wikipedia.org/wiki/Remontay_McClain",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []

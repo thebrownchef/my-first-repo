@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCuPR3NGmnG3ZGJQkC2m1qXQ",
   "title": "The Vincent Price Legacy",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lzyEzho74sxU86KSzD5NHZ5m_hjk2eO_1PXHDJqzebHA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Moss Rose (film)",
       "url": "https://en.wikipedia.org/wiki/Moss_Rose_(film)",
       "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:Joseph Payne Brennan",
+      "type": "wikipedia",
+      "label": "Joseph Payne Brennan",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Payne_Brennan",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
     }
   ],
   "recentItems": []

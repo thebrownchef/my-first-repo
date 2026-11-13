@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCgOlD8TImVB4xalJTiO6eqQ",
   "title": "Pemberley Digital",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l6f1Epjb5oDZ8zod26-eRwpHFi8NgdhTR8twIXs1zXvw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Collins and Collins",
       "url": "https://www.youtube.com/channel/UCvojc8dK3zbf01yaqC7uiPA",
       "firstSeenAt": "2026-11-09T16:12:42.050Z"
+    },
+    {
+      "id": "wiki:The Lizzie Bennet Diaries",
+      "type": "wikipedia",
+      "label": "The Lizzie Bennet Diaries",
+      "url": "https://en.wikipedia.org/wiki/The_Lizzie_Bennet_Diaries",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
     }
   ],
   "recentItems": []

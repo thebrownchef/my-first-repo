@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCWJ2lWNubArHWmf3FIHbfcQ",
   "title": "NBA",
   "thumb": "https://yt3.ggpht.com/eGmO8yk_eHvLzEywzlPwRV_-7RiDayDLeXWWBVExMLN4qXA7z7fD6ldPXatXZiQOvgW4--jzNA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 10.49,
   "sources": [
@@ -99,6 +99,20 @@
       "label": "Kyrie Irving",
       "url": "https://en.wikipedia.org/wiki/Kyrie_Irving",
       "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:1984–85 Houston Rockets season",
+      "type": "wikipedia",
+      "label": "1984–85 Houston Rockets season",
+      "url": "https://en.wikipedia.org/wiki/1984%E2%80%9385_Houston_Rockets_season",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:1994–95 Miami Heat season",
+      "type": "wikipedia",
+      "label": "1994–95 Miami Heat season",
+      "url": "https://en.wikipedia.org/wiki/1994%E2%80%9395_Miami_Heat_season",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
     }
   ],
   "recentItems": []

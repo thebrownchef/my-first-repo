@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCbulh9WdLtEXiooRcYK7SWw",
   "title": "Metallica",
   "thumb": "https://yt3.ggpht.com/fK2IIcXxpselcbHY6CfS5wadTo51L8kUkRTzvysvZDUGuFNBimIgnsiKu7gz6GhvESySpCAQCw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "creaseFL",
       "url": "https://www.youtube.com/channel/UCih7nCKnTgG3ptlHjMIeSFw",
       "firstSeenAt": "2026-11-04T14:28:39.166Z"
+    },
+    {
+      "id": "channel:UCMb9Kz-Duc59UHZLH7o2SCQ",
+      "type": "channel",
+      "label": "Vulturous",
+      "url": "https://www.youtube.com/channel/UCMb9Kz-Duc59UHZLH7o2SCQ",
+      "firstSeenAt": "2026-11-13T14:31:41.857Z"
     }
   ],
   "recentItems": []

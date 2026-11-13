@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCA_-NVTKOlWgxgTWjqlzZlA",
   "title": "2PacVEVO",
   "thumb": "https://yt3.ggpht.com/83vLzxAWN8Fa0Tzo56n5i6PrXQtEri0Sz28LecGgZF5rGuv8YDvo7qU2yGcq1_yRYRviHtWz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,41 @@
       "label": "I Wonder If Heaven Got a Ghetto",
       "url": "https://en.wikipedia.org/wiki/I_Wonder_If_Heaven_Got_a_Ghetto",
       "firstSeenAt": "2026-11-05T14:35:30.323Z"
+    },
+    {
+      "id": "wiki:I Get Around (Tupac Shakur song)",
+      "type": "wikipedia",
+      "label": "I Get Around (Tupac Shakur song)",
+      "url": "https://en.wikipedia.org/wiki/I_Get_Around_(Tupac_Shakur_song)",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:Pac's Life (song)",
+      "type": "wikipedia",
+      "label": "Pac's Life (song)",
+      "url": "https://en.wikipedia.org/wiki/Pac's_Life_(song)",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:Changes (Tupac Shakur song)",
+      "type": "wikipedia",
+      "label": "Changes (Tupac Shakur song)",
+      "url": "https://en.wikipedia.org/wiki/Changes_(Tupac_Shakur_song)",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:Thugz Mansion",
+      "type": "wikipedia",
+      "label": "Thugz Mansion",
+      "url": "https://en.wikipedia.org/wiki/Thugz_Mansion",
+      "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:Holler If Ya Hear Me",
+      "type": "wikipedia",
+      "label": "Holler If Ya Hear Me",
+      "url": "https://en.wikipedia.org/wiki/Holler_If_Ya_Hear_Me",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

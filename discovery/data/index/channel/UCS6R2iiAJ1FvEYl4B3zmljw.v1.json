@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCS6R2iiAJ1FvEYl4B3zmljw",
   "title": "THUMP",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mQnvBW6ZiwlXCquVdTbX1fWzVJdXsW6HBbak2z3p3zyak=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Waypoint",
       "url": "https://www.youtube.com/channel/UCWu9QuHF-dcakBmhullIH6w",
       "firstSeenAt": "2026-09-30T12:31:08.698Z"
+    },
+    {
+      "id": "wiki:Recognise (album)",
+      "type": "wikipedia",
+      "label": "Recognise (album)",
+      "url": "https://en.wikipedia.org/wiki/Recognise_(album)",
+      "firstSeenAt": "2026-11-13T14:31:13.887Z"
     }
   ],
   "recentItems": []

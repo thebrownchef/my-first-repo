@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCc7Fcy2yEASuOKzY9gHo5FA",
   "title": "FruitierThanThou",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mWm90YJwTDCbJPIDhKPRvNpRrPiVdppnbRhk-bpQkYSw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.75,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Let's Play a Record",
       "url": "https://www.youtube.com/channel/UC8zGqMbEOcT58tzPz2SMHrQ",
       "firstSeenAt": "2026-10-14T11:48:43.811Z"
+    },
+    {
+      "id": "wiki:Big Flame (band)",
+      "type": "wikipedia",
+      "label": "Big Flame (band)",
+      "url": "https://en.wikipedia.org/wiki/Big_Flame_(band)",
+      "firstSeenAt": "2026-11-13T14:31:13.887Z"
     }
   ],
   "recentItems": []

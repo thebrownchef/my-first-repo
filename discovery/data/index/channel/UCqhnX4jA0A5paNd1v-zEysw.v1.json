@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCqhnX4jA0A5paNd1v-zEysw",
   "title": "GoPro",
   "thumb": "https://yt3.ggpht.com/UVXGOJKC_HxL3E5pPi-UP4QW1alBOQsdTFopjErTPqDbcqca2TRorjVpuMm3o6Lytw--pODIkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.5,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Damien LeRoy",
       "url": "https://www.youtube.com/channel/UCFjxi3RutMPomt4HALGYrnA",
       "firstSeenAt": "2026-10-11T12:45:58.676Z"
+    },
+    {
+      "id": "wiki:Guerlain Chicherit",
+      "type": "wikipedia",
+      "label": "Guerlain Chicherit",
+      "url": "https://en.wikipedia.org/wiki/Guerlain_Chicherit",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []

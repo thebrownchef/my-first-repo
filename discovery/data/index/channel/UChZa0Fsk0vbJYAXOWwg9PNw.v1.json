@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UChZa0Fsk0vbJYAXOWwg9PNw",
   "title": "Carlos",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k1Xp3OrktpqNwGhtbo6zA1N8xZfM2-ivxM7ptxl7Dd_E2Ehrne9RE1y1nc08gin6WZJg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Leslie Coffelt",
       "url": "https://en.wikipedia.org/wiki/Leslie_Coffelt",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Oscar Collazo",
+      "type": "wikipedia",
+      "label": "Oscar Collazo",
+      "url": "https://en.wikipedia.org/wiki/Oscar_Collazo",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
     }
   ],
   "recentItems": []

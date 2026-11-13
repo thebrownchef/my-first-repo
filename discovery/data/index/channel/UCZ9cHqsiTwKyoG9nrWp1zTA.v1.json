@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCZ9cHqsiTwKyoG9nrWp1zTA",
   "title": "davidhertzberg",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kAObr3ztqQxqVxpB_Fx2wAJOr9uvjOwoolEgvxDrZ0JoA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 1.13,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Carroll Glenn",
       "url": "https://en.wikipedia.org/wiki/Carroll_Glenn",
       "firstSeenAt": "2026-11-12T15:08:31.513Z"
+    },
+    {
+      "id": "wiki:Renata Tarragó",
+      "type": "wikipedia",
+      "label": "Renata Tarragó",
+      "url": "https://en.wikipedia.org/wiki/Renata_Tarrag%C3%B3",
+      "firstSeenAt": "2026-11-13T14:31:16.362Z"
     }
   ],
   "recentItems": []

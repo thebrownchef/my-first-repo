@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCTBcWhmMiQlh2a07YTI15uw",
   "title": "Hollyoaks",
   "thumb": "https://yt3.ggpht.com/M7STAKSxR4KnVxahe4Vkvl84932P_G73DFZlSi7vnH1J0JWUij5C-cV_GWLjeE0Dq3ZqZTpQ8kQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.92,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Channel 4 Sport",
       "url": "https://www.youtube.com/channel/UCNxbq2vWbmXQeyZPGYTnT6Q",
       "firstSeenAt": "2026-09-18T11:11:10.888Z"
+    },
+    {
+      "id": "wiki:List of Hollyoaks characters introduced in 2014",
+      "type": "wikipedia",
+      "label": "List of Hollyoaks characters introduced in 2014",
+      "url": "https://en.wikipedia.org/wiki/List_of_Hollyoaks_characters_introduced_in_2014",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

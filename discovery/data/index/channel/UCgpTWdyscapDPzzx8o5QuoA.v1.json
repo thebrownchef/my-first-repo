@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCgpTWdyscapDPzzx8o5QuoA",
   "title": "Ballins Dampfer Welt",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ksQLmEjXBQJBNalQxKyPS8l29Xe2y0Ql3-GBJ0pcQ5gUI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "SS Saint Paul (1895)",
       "url": "https://en.wikipedia.org/wiki/SS_Saint_Paul_(1895)",
       "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:SS Kroonland",
+      "type": "wikipedia",
+      "label": "SS Kroonland",
+      "url": "https://en.wikipedia.org/wiki/SS_Kroonland",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
     }
   ],
   "recentItems": []

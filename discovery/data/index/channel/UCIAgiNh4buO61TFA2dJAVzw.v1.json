@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCIAgiNh4buO61TFA2dJAVzw",
   "title": "Solid State Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kKVN14yckdQmWc1_X7nagezHkP-bAn67ODtiDU6HDRFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Extremist (album)",
       "url": "https://en.wikipedia.org/wiki/Extremist_(album)",
       "firstSeenAt": "2026-11-12T15:08:34.648Z"
+    },
+    {
+      "id": "wiki:Artificial Light (song)",
+      "type": "wikipedia",
+      "label": "Artificial Light (song)",
+      "url": "https://en.wikipedia.org/wiki/Artificial_Light_(song)",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:The Last One Alive",
+      "type": "wikipedia",
+      "label": "The Last One Alive",
+      "url": "https://en.wikipedia.org/wiki/The_Last_One_Alive",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
+    },
+    {
+      "id": "wiki:I Will Fail You",
+      "type": "wikipedia",
+      "label": "I Will Fail You",
+      "url": "https://en.wikipedia.org/wiki/I_Will_Fail_You",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
     }
   ],
   "recentItems": []

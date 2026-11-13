@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "title": "SpaceX",
   "thumb": "https://yt3.ggpht.com/rLvyemnqcLYQSsoPj1pPuWoqmICy_A2MoVfUgytiUcpcmvfV4hNHQRNlWa8FMDcIY9Ps_RiD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "VideoFromSpace",
       "url": "https://www.youtube.com/channel/UCVTomc35agH1SM6kCKzwW_g",
       "firstSeenAt": "2026-10-22T11:48:01.125Z"
+    },
+    {
+      "id": "wiki:Grid fin",
+      "type": "wikipedia",
+      "label": "Grid fin",
+      "url": "https://en.wikipedia.org/wiki/Grid_fin",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
     }
   ],
   "recentItems": []

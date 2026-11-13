@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UChPE75Fvvl1HmdAsO7Nzb8w",
   "title": "What's My Line?",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k74HINakk7qcURdIhAkKEvzEV9wqTWEfZpPJTNZPMnCA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -85,6 +85,27 @@
       "label": "Gordon MacRae",
       "url": "https://en.wikipedia.org/wiki/Gordon_MacRae",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:Roger Price (humorist)",
+      "type": "wikipedia",
+      "label": "Roger Price (humorist)",
+      "url": "https://en.wikipedia.org/wiki/Roger_Price_(humorist)",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:Elsa Maxwell",
+      "type": "wikipedia",
+      "label": "Elsa Maxwell",
+      "url": "https://en.wikipedia.org/wiki/Elsa_Maxwell",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:William Schuman",
+      "type": "wikipedia",
+      "label": "William Schuman",
+      "url": "https://en.wikipedia.org/wiki/William_Schuman",
+      "firstSeenAt": "2026-11-13T14:31:10.980Z"
     }
   ],
   "recentItems": []

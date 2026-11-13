@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Roy Choi",
       "url": "https://en.wikipedia.org/wiki/Roy_Choi",
       "firstSeenAt": "2026-11-10T14:49:42.359Z"
+    },
+    {
+      "id": "wiki:Robert Sheckley",
+      "type": "wikipedia",
+      "label": "Robert Sheckley",
+      "url": "https://en.wikipedia.org/wiki/Robert_Sheckley",
+      "firstSeenAt": "2026-11-13T14:31:16.362Z"
     }
   ],
   "recentItems": []

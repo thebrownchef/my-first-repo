@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UC9dGqMAPJRpA7M0oSdgtQgg",
   "title": "BFI",
   "thumb": "https://yt3.ggpht.com/sR4iA5E1w0QjB_N9WIeynH7hGTStl2mgPxkTEVJhGANXr96ZEex02658pMagMRKV6kFG0LLq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Adelaide Hall",
       "url": "https://en.wikipedia.org/wiki/Adelaide_Hall",
       "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:HMS Albion (1898)",
+      "type": "wikipedia",
+      "label": "HMS Albion (1898)",
+      "url": "https://en.wikipedia.org/wiki/HMS_Albion_(1898)",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []

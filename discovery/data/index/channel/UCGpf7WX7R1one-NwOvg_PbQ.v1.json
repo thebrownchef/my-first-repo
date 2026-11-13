@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCGpf7WX7R1one-NwOvg_PbQ",
   "title": "AFC Ajax",
   "thumb": "https://yt3.ggpht.com/GXprazoHrqzN_OfqB9dvpEqJz7Hkz6WSu14QZrxZRuzTGazqsDMifgaVWeYSxVal_KhmyPla=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.74,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Wij zijn Ajax",
       "url": "https://en.wikipedia.org/wiki/Wij_zijn_Ajax",
       "firstSeenAt": "2026-11-08T13:19:06.563Z"
+    },
+    {
+      "id": "wiki:Bimal Gharti Magar",
+      "type": "wikipedia",
+      "label": "Bimal Gharti Magar",
+      "url": "https://en.wikipedia.org/wiki/Bimal_Gharti_Magar",
+      "firstSeenAt": "2026-11-13T14:31:16.364Z"
     }
   ],
   "recentItems": []

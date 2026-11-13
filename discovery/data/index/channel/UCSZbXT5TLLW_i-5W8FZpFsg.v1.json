@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCSZbXT5TLLW_i-5W8FZpFsg",
   "title": "Major League Soccer",
   "thumb": "https://yt3.ggpht.com/juXGoOYXFDY0MrT1vdSUCSiZLCs6W1y6lcMpwNkzNHqmhl4spWIA6hvimWyqRUQ1JJE4BaXeSg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 3.31,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "New York City FC",
       "url": "https://en.wikipedia.org/wiki/New_York_City_FC",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:Kyle Beckerman",
+      "type": "wikipedia",
+      "label": "Kyle Beckerman",
+      "url": "https://en.wikipedia.org/wiki/Kyle_Beckerman",
+      "firstSeenAt": "2026-11-13T14:31:10.979Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCqFji0pQ0tIH7b_50KAgqLg",
   "title": "Beck",
   "thumb": "https://yt3.ggpht.com/Un1ntDMhpGrstJgqhIqofxs3kHSYrE9DXZQnlyQR-dyF2AybrrNVTQ7jk8xmnJZWQihgN-07=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Defriended",
       "url": "https://en.wikipedia.org/wiki/Defriended",
       "firstSeenAt": "2026-10-24T10:54:53.694Z"
+    },
+    {
+      "id": "channel:UCq6XsPx1NqH-puhWRjxqXZA",
+      "type": "channel",
+      "label": "langsense",
+      "url": "https://www.youtube.com/channel/UCq6XsPx1NqH-puhWRjxqXZA",
+      "firstSeenAt": "2026-11-13T14:31:28.861Z"
     }
   ],
   "recentItems": []

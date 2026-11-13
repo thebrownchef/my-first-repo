@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCaO6TYtlC8U5ttz62hTrZgg",
   "title": "JYP Entertainment",
   "thumb": "https://yt3.ggpht.com/2gb_g-qmLOeU6ZC3xyEPFN-fxDqkOkqr44TapTNi6iKQfLL13nOK6kuPWtYVTMPuiyT2tcb64A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Sugar (15& album)",
       "url": "https://en.wikipedia.org/wiki/Sugar_(15%26_album)",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:Jun. K",
+      "type": "wikipedia",
+      "label": "Jun. K",
+      "url": "https://en.wikipedia.org/wiki/Jun._K",
+      "firstSeenAt": "2026-11-13T14:31:13.886Z"
     }
   ],
   "recentItems": []

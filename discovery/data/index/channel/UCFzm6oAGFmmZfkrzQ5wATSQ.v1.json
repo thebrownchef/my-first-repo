@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T15:10:16.031Z",
+  "generatedAt": "2026-11-13T14:34:48.768Z",
   "id": "UCFzm6oAGFmmZfkrzQ5wATSQ",
   "title": "ZEDDVEVO",
   "thumb": "https://yt3.ggpht.com/3AjBxybgKhjqf76bXW-NLdaZKepEOTtJsPAqCqIPo7_fo6O5_2zuDpWUHGeRL7if0LOYdBSIVMw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Clarity (Zedd album)",
       "url": "https://en.wikipedia.org/wiki/Clarity_(Zedd_album)",
       "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:Find You (Zedd song)",
+      "type": "wikipedia",
+      "label": "Find You (Zedd song)",
+      "url": "https://en.wikipedia.org/wiki/Find_You_(Zedd_song)",
+      "firstSeenAt": "2026-11-13T14:31:16.363Z"
     }
   ],
   "recentItems": []
