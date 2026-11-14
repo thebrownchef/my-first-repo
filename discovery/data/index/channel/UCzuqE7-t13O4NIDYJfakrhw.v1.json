@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCzuqE7-t13O4NIDYJfakrhw",
   "title": "Democracy Now!",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k13evyGyej3TcaRYOEUzR4OSYdCEHnHeQipbK0lJZOs5o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 2.66,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Nâzım Hikmet",
       "url": "https://en.wikipedia.org/wiki/N%C3%A2z%C4%B1m_Hikmet",
       "firstSeenAt": "2026-10-26T12:56:39.133Z"
+    },
+    {
+      "id": "wiki:James Bamford",
+      "type": "wikipedia",
+      "label": "James Bamford",
+      "url": "https://en.wikipedia.org/wiki/James_Bamford",
+      "firstSeenAt": "2026-11-14T13:28:00.333Z"
     }
   ],
   "recentItems": []

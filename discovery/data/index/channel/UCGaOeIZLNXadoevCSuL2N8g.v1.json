@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "id": "UCGaOeIZLNXadoevCSuL2N8g",
+  "title": "NFSA Online",
+  "thumb": "https://yt3.ggpht.com/XinLFl4k_-eDeChFNdYM5FEDFzFEYRDr4GamqPh-7ykxdHxo6pJrS7wYFs2hFT8sRcfhpHwdEsQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.07,
+  "sources": [
+    {
+      "id": "channel:UCBhskwCpv4Df8-xC8_wGxzA",
+      "type": "channel",
+      "label": "TheVideoCellar",
+      "url": "https://www.youtube.com/channel/UCBhskwCpv4Df8-xC8_wGxzA",
+      "firstSeenAt": "2026-09-11T11:17:48.069Z"
+    },
+    {
+      "id": "wiki:Don Bradman",
+      "type": "wikipedia",
+      "label": "Don Bradman",
+      "url": "https://en.wikipedia.org/wiki/Don_Bradman",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    }
+  ],
+  "recentItems": []
+}

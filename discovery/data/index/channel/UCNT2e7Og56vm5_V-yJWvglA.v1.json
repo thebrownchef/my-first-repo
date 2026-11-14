@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCNT2e7Og56vm5_V-yJWvglA",
   "title": "England",
   "thumb": "https://yt3.ggpht.com/K4z7ZSJVlGpGqkRpPwGnu8OcauA2cQzH-sDzwEvXouQDdPXP9NKcp8akbeIVWo0Na2mCMixHuTY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.89,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "2013 FA Vase final",
       "url": "https://en.wikipedia.org/wiki/2013_FA_Vase_final",
       "firstSeenAt": "2026-10-23T11:34:40.281Z"
+    },
+    {
+      "id": "wiki:Walter Winterbottom",
+      "type": "wikipedia",
+      "label": "Walter Winterbottom",
+      "url": "https://en.wikipedia.org/wiki/Walter_Winterbottom",
+      "firstSeenAt": "2026-11-14T13:28:02.869Z"
     }
   ],
   "recentItems": []

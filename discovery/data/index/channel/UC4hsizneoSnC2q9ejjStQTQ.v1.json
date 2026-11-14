@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "id": "UC4hsizneoSnC2q9ejjStQTQ",
+  "title": "TopPop",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nLQ5Sa72zvrBdMHGRQevN7EheCX7ZX1L-2BykzGu7coQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.24,
+  "sources": [
+    {
+      "id": "wiki:Johnny Remember Me",
+      "type": "wikipedia",
+      "label": "Johnny Remember Me",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Remember_Me",
+      "firstSeenAt": "2026-11-05T14:35:34.047Z"
+    },
+    {
+      "id": "channel:UCHSMFxa84ngs781j6lHUIFg",
+      "type": "channel",
+      "label": "mistergarden1",
+      "url": "https://www.youtube.com/channel/UCHSMFxa84ngs781j6lHUIFg",
+      "firstSeenAt": "2026-11-14T13:28:21.366Z"
+    }
+  ],
+  "recentItems": []
+}

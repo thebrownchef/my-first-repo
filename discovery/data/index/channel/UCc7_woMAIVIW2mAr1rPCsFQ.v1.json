@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCc7_woMAIVIW2mAr1rPCsFQ",
   "title": "Paramore",
   "thumb": "https://yt3.ggpht.com/302b-QV3HY1-IE-qMD1tHKoHlA4GczxhZWUBuTdYSJzC8WQQdOB6lb9zfq1FLTZypjKGgnGAYg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Decode (song)",
       "url": "https://en.wikipedia.org/wiki/Decode_(song)",
       "firstSeenAt": "2026-10-12T15:18:29.861Z"
+    },
+    {
+      "id": "wiki:Still Into You",
+      "type": "wikipedia",
+      "label": "Still Into You",
+      "url": "https://en.wikipedia.org/wiki/Still_Into_You",
+      "firstSeenAt": "2026-11-14T13:27:58.303Z"
     }
   ],
   "recentItems": []

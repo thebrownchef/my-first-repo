@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC20vb-R_px4CguHzzBPhoyQ",
   "title": "EminemVEVO",
   "thumb": "https://yt3.ggpht.com/fYB3KuH8P5jyoReOqbDRyHQJjfKsPj-BYDcJb1XANiEpo6bhCf6LXpsNxE9_fvefub9S1hCkldU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 22,
-  "distinctSourceCount": 22,
+  "score": 23,
+  "distinctSourceCount": 23,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -162,6 +162,13 @@
       "label": "Stan (song)",
       "url": "https://en.wikipedia.org/wiki/Stan_(song)",
       "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Guilty Conscience (song)",
+      "type": "wikipedia",
+      "label": "Guilty Conscience (song)",
+      "url": "https://en.wikipedia.org/wiki/Guilty_Conscience_(song)",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCPIz94SG3T3Vypku0-ks-Cg",
   "title": "Maria Herskovic",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nOXEObAFMql6Qhco2myi7Pfio9ycLrgVNeJhmvi_56GpI3=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "James Brooks (painter)",
       "url": "https://en.wikipedia.org/wiki/James_Brooks_(painter)",
       "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:Conrad Marca-Relli",
+      "type": "wikipedia",
+      "label": "Conrad Marca-Relli",
+      "url": "https://en.wikipedia.org/wiki/Conrad_Marca-Relli",
+      "firstSeenAt": "2026-11-14T13:28:00.333Z"
     }
   ],
   "recentItems": []

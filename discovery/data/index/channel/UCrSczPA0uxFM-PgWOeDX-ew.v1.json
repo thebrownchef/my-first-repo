@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCrSczPA0uxFM-PgWOeDX-ew",
   "title": "NellyFurtadoVEVO",
   "thumb": "https://yt3.ggpht.com/kR10qBTgfsT08zHDZTCZOvJgiJwWZDdsBYraFJ-lLUAU4ilXE4oJ3L0c7JXETpACgVrRMNzI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Big Hoops (Bigger the Better)",
       "url": "https://en.wikipedia.org/wiki/Big_Hoops_(Bigger_the_Better)",
       "firstSeenAt": "2026-10-25T11:22:08.239Z"
+    },
+    {
+      "id": "wiki:I'm Like a Bird",
+      "type": "wikipedia",
+      "label": "I'm Like a Bird",
+      "url": "https://en.wikipedia.org/wiki/I'm_Like_a_Bird",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
     }
   ],
   "recentItems": []

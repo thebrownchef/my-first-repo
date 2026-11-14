@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Robert Sheckley",
       "url": "https://en.wikipedia.org/wiki/Robert_Sheckley",
       "firstSeenAt": "2026-11-13T14:31:16.362Z"
+    },
+    {
+      "id": "wiki:Dana Priest",
+      "type": "wikipedia",
+      "label": "Dana Priest",
+      "url": "https://en.wikipedia.org/wiki/Dana_Priest",
+      "firstSeenAt": "2026-11-14T13:28:00.333Z"
     }
   ],
   "recentItems": []

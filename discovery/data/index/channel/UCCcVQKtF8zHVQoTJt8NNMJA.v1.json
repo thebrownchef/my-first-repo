@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 76,
-  "distinctSourceCount": 76,
+  "score": 77,
+  "distinctSourceCount": 77,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -540,6 +540,13 @@
       "label": "The Opposite of Hallelujah (Defiance)",
       "url": "https://en.wikipedia.org/wiki/The_Opposite_of_Hallelujah_(Defiance)",
       "firstSeenAt": "2026-11-13T14:31:13.886Z"
+    },
+    {
+      "id": "wiki:In My Secret Life (Defiance)",
+      "type": "wikipedia",
+      "label": "In My Secret Life (Defiance)",
+      "url": "https://en.wikipedia.org/wiki/In_My_Secret_Life_(Defiance)",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
     }
   ],
   "recentItems": [

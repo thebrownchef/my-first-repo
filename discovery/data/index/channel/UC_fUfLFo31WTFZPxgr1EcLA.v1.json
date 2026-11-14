@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC_fUfLFo31WTFZPxgr1EcLA",
   "title": "כאן חינוכית",
   "thumb": "https://yt3.ggpht.com/2ar8IuWjF20rEq8qEGf96FXLeDgRp4hrYT1BC6MS77f4aeehTO60Ec3im9_8E5v7yy9J8tRHH9c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 3.13,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "A Late Quartet",
       "url": "https://en.wikipedia.org/wiki/A_Late_Quartet",
       "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Galia Sabar",
+      "type": "wikipedia",
+      "label": "Galia Sabar",
+      "url": "https://en.wikipedia.org/wiki/Galia_Sabar",
+      "firstSeenAt": "2026-11-14T13:27:58.303Z"
+    },
+    {
+      "id": "wiki:Joseph Dan",
+      "type": "wikipedia",
+      "label": "Joseph Dan",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Dan",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
     }
   ],
   "recentItems": []

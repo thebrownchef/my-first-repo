@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCoBMK97ZfZmRCqIwMQYdicA",
   "title": "iHeartRadio",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nzDYC05C0uOJxniDyPorhZxKQPhqNgG_bawMSPrxgAD0I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 1.88,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "The Angie Martinez Show",
       "url": "https://www.youtube.com/channel/UCQ4aoNA8wWzkyKRIZs8WQHQ",
       "firstSeenAt": "2026-09-19T10:55:43.246Z"
+    },
+    {
+      "id": "wiki:Break Free (song)",
+      "type": "wikipedia",
+      "label": "Break Free (song)",
+      "url": "https://en.wikipedia.org/wiki/Break_Free_(song)",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
+    },
+    {
+      "id": "wiki:My Everything (Ariana Grande album)",
+      "type": "wikipedia",
+      "label": "My Everything (Ariana Grande album)",
+      "url": "https://en.wikipedia.org/wiki/My_Everything_(Ariana_Grande_album)",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
     }
   ],
   "recentItems": []

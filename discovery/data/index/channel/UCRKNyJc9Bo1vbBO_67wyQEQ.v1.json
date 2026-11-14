@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCRKNyJc9Bo1vbBO_67wyQEQ",
   "title": "Jess Glynne",
   "thumb": "https://yt3.ggpht.com/4wEuSbQ_0-gE_jGhCO4qcfiHSz5SMiwLVABhQjWKGqTe516LgttEBu35dP3U2WKux2wBEwnkhEg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Boyzone",
       "url": "https://www.youtube.com/channel/UC2lF51-X_-Ow03T4R6RpD_Q",
       "firstSeenAt": "2026-11-02T15:45:09.437Z"
+    },
+    {
+      "id": "wiki:Right Here (Jess Glynne song)",
+      "type": "wikipedia",
+      "label": "Right Here (Jess Glynne song)",
+      "url": "https://en.wikipedia.org/wiki/Right_Here_(Jess_Glynne_song)",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
     }
   ],
   "recentItems": []

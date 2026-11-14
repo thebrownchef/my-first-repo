@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCZAoL6toWgyPRFVHE-JPl7A",
   "title": "Ева",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lgVTouqIAoJq7hXEYiK2-BBz3KLwBrr4DTpwO3m8aRsWE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -64,6 +64,41 @@
       "label": "Dmitry Maevsky",
       "url": "https://en.wikipedia.org/wiki/Dmitry_Maevsky",
       "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:Victor Teterin",
+      "type": "wikipedia",
+      "label": "Victor Teterin",
+      "url": "https://en.wikipedia.org/wiki/Victor_Teterin",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
+    },
+    {
+      "id": "wiki:Arseny Semionov",
+      "type": "wikipedia",
+      "label": "Arseny Semionov",
+      "url": "https://en.wikipedia.org/wiki/Arseny_Semionov",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
+    },
+    {
+      "id": "wiki:Irina Getmanskaya",
+      "type": "wikipedia",
+      "label": "Irina Getmanskaya",
+      "url": "https://en.wikipedia.org/wiki/Irina_Getmanskaya",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
+    },
+    {
+      "id": "wiki:Spring Day (Pozdneev)",
+      "type": "wikipedia",
+      "label": "Spring Day (Pozdneev)",
+      "url": "https://en.wikipedia.org/wiki/Spring_Day_(Pozdneev)",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
+    },
+    {
+      "id": "wiki:Vladimir Ovchinnikov (painter)",
+      "type": "wikipedia",
+      "label": "Vladimir Ovchinnikov (painter)",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Ovchinnikov_(painter)",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
     }
   ],
   "recentItems": []

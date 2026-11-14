@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UChPE75Fvvl1HmdAsO7Nzb8w",
   "title": "What's My Line?",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k74HINakk7qcURdIhAkKEvzEV9wqTWEfZpPJTNZPMnCA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "William Schuman",
       "url": "https://en.wikipedia.org/wiki/William_Schuman",
       "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:Art Linkletter",
+      "type": "wikipedia",
+      "label": "Art Linkletter",
+      "url": "https://en.wikipedia.org/wiki/Art_Linkletter",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
     }
   ],
   "recentItems": []

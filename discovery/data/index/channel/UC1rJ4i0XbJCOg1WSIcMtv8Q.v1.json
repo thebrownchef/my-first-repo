@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "id": "UC1rJ4i0XbJCOg1WSIcMtv8Q",
+  "title": "Классика музыки",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_naIA_NPKDgX3O8Nuco440GXK0RiVWnmUAWgMCfEalOynI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.06,
+  "sources": [
+    {
+      "id": "wiki:Maya Plisetskaya",
+      "type": "wikipedia",
+      "label": "Maya Plisetskaya",
+      "url": "https://en.wikipedia.org/wiki/Maya_Plisetskaya",
+      "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:Svyatoslav Belza",
+      "type": "wikipedia",
+      "label": "Svyatoslav Belza",
+      "url": "https://en.wikipedia.org/wiki/Svyatoslav_Belza",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    }
+  ],
+  "recentItems": []
+}

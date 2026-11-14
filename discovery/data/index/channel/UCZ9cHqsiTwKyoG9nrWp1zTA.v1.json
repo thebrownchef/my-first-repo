@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCZ9cHqsiTwKyoG9nrWp1zTA",
   "title": "davidhertzberg",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kAObr3ztqQxqVxpB_Fx2wAJOr9uvjOwoolEgvxDrZ0JoA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 1.13,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Renata Tarragó",
       "url": "https://en.wikipedia.org/wiki/Renata_Tarrag%C3%B3",
       "firstSeenAt": "2026-11-13T14:31:16.362Z"
+    },
+    {
+      "id": "wiki:Raya Garbousova",
+      "type": "wikipedia",
+      "label": "Raya Garbousova",
+      "url": "https://en.wikipedia.org/wiki/Raya_Garbousova",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
     }
   ],
   "recentItems": []

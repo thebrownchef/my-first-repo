@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC9CuvdOVfMPvKCiwdGKL3cQ",
   "title": "GameGrumps",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m5tYvkruFHiTdLqGk8BH89cQXfMri3NnxHKclCCdRGEEc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.93,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Starbomb (album)",
       "url": "https://en.wikipedia.org/wiki/Starbomb_(album)",
       "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Beautiful Life (Ace of Base song)",
+      "type": "wikipedia",
+      "label": "Beautiful Life (Ace of Base song)",
+      "url": "https://en.wikipedia.org/wiki/Beautiful_Life_(Ace_of_Base_song)",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCDDmukrq0bwckrp09bNt-Rw",
   "title": "EvanescenceVEVO",
   "thumb": "https://yt3.ggpht.com/soXNjPRMJ0ZsdZzvKPJnlTGkqkaG9EFyjyFG9y_26zhsO8aSY3I3Two_AuKCwMo11AxWSNWwSg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "What You Want (Evanescence song)",
       "url": "https://en.wikipedia.org/wiki/What_You_Want_(Evanescence_song)",
       "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:My Immortal (song)",
+      "type": "wikipedia",
+      "label": "My Immortal (song)",
+      "url": "https://en.wikipedia.org/wiki/My_Immortal_(song)",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
+    },
+    {
+      "id": "wiki:Everybody's Fool",
+      "type": "wikipedia",
+      "label": "Everybody's Fool",
+      "url": "https://en.wikipedia.org/wiki/Everybody's_Fool",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
     }
   ],
   "recentItems": []

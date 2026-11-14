@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "id": "UCmh7afBz-uWwOSSNTqUBAhg",
+  "title": "Forbes",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nulMc6GNIrLUi_wcTCKojfsfro0dsNLAueuj4edxt_Kl4T=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.58,
+  "sources": [
+    {
+      "id": "channel:UCg40OxZ1GYh3u3jBntB6DLg",
+      "type": "channel",
+      "label": "Forbes Breaking News",
+      "url": "https://www.youtube.com/channel/UCg40OxZ1GYh3u3jBntB6DLg",
+      "firstSeenAt": "2026-09-11T11:17:46.964Z"
+    },
+    {
+      "id": "wiki:RapidRatings",
+      "type": "wikipedia",
+      "label": "RapidRatings",
+      "url": "https://en.wikipedia.org/wiki/RapidRatings",
+      "firstSeenAt": "2026-11-14T13:28:02.869Z"
+    }
+  ],
+  "recentItems": []
+}

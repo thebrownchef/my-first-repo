@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCuS585QLlKRKUtMiogdv7mQ",
   "title": "Throwback",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_llG0lQrExhnWzHXE-zN7XKOzVFwqP-C8A451Wavwb1RxU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Laura Scudder",
       "url": "https://en.wikipedia.org/wiki/Laura_Scudder",
       "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    },
+    {
+      "id": "wiki:Bob Hite (announcer)",
+      "type": "wikipedia",
+      "label": "Bob Hite (announcer)",
+      "url": "https://en.wikipedia.org/wiki/Bob_Hite_(announcer)",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
     }
   ],
   "recentItems": []

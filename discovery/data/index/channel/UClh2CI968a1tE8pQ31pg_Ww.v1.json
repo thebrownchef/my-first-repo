@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UClh2CI968a1tE8pQ31pg_Ww",
   "title": "Rock & Roll Hall of Fame",
   "thumb": "https://yt3.ggpht.com/R8YSy_gQ-hPivB5d5p9-LbbvlUPPnpvRdaQyHmHeswlx3w6iIYCi_l5vZ9-_n6ncT3tkWMZE40I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.38,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Bobby Bennett (singer)",
       "url": "https://en.wikipedia.org/wiki/Bobby_Bennett_(singer)",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Baby Lloyd Stallworth",
+      "type": "wikipedia",
+      "label": "Baby Lloyd Stallworth",
+      "url": "https://en.wikipedia.org/wiki/Baby_Lloyd_Stallworth",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
     }
   ],
   "recentItems": []

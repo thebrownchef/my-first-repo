@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCqFzWxSCi39LnW1JKFR3efg",
   "title": "Saturday Night Live",
   "thumb": "https://yt3.ggpht.com/0UstnnBY3C69WcOIv8W_8blHZKMpoxluehKazofyMTt93kO2wGbJ1-ZIiHaFSNYBVGAgu3AEUEo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 2.15,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "David S. Pumpkins",
       "url": "https://en.wikipedia.org/wiki/David_S._Pumpkins",
       "firstSeenAt": "2026-11-05T14:35:39.618Z"
+    },
+    {
+      "id": "wiki:Recurring Saturday Night Live characters and sketches introduced 2008–09",
+      "type": "wikipedia",
+      "label": "Recurring Saturday Night Live characters and sketches introduced 2008–09",
+      "url": "https://en.wikipedia.org/wiki/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2008%E2%80%9309",
+      "firstSeenAt": "2026-11-14T13:27:58.303Z"
     }
   ],
   "recentItems": []

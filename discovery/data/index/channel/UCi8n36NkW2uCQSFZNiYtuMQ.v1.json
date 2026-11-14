@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCi8n36NkW2uCQSFZNiYtuMQ",
   "title": "Paralympic Games",
   "thumb": "https://yt3.ggpht.com/rde27VRRp6j9xJ9NHAm11W4Fj7g5rWkxTFGubm-fC2zog9qz1NbkKZ3g_zqV3Yz6oa2FhYOu7wY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 3.55,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Para snowboard classification",
       "url": "https://en.wikipedia.org/wiki/Para_snowboard_classification",
       "firstSeenAt": "2026-11-10T14:49:46.638Z"
+    },
+    {
+      "id": "wiki:Simone Kues",
+      "type": "wikipedia",
+      "label": "Simone Kues",
+      "url": "https://en.wikipedia.org/wiki/Simone_Kues",
+      "firstSeenAt": "2026-11-14T13:27:58.303Z"
     }
   ],
   "recentItems": []

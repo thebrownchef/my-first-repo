@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC6ljvocrnN_0hA3PXr7W5rw",
   "title": "ThirtySecondsToMarsVEVO",
   "thumb": "https://yt3.ggpht.com/cPykTn6HtmBwtLB8Hf1qmNcCO9O_Oow6xAzbmjXNHhLHKZ6XhBLDANQMRIfjAusaYN21dslVKw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Love, Lust, Faith and Dreams",
       "url": "https://en.wikipedia.org/wiki/Love%2C_Lust%2C_Faith_and_Dreams",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Do or Die (Thirty Seconds to Mars song)",
+      "type": "wikipedia",
+      "label": "Do or Die (Thirty Seconds to Mars song)",
+      "url": "https://en.wikipedia.org/wiki/Do_or_Die_(Thirty_Seconds_to_Mars_song)",
+      "firstSeenAt": "2026-11-14T13:28:00.333Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "id": "UCc99RaVe8PKgly2T3QNBWLw",
+  "title": "CUNY TV",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mYoF0_tgfLikeyBGFVKl-mG-va15J41-AxHM_3zQVkPHQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.69,
+  "sources": [
+    {
+      "id": "wiki:Selwyn Raab",
+      "type": "wikipedia",
+      "label": "Selwyn Raab",
+      "url": "https://en.wikipedia.org/wiki/Selwyn_Raab",
+      "firstSeenAt": "2026-10-10T12:28:20.461Z"
+    },
+    {
+      "id": "wiki:Arthur G. Cohen",
+      "type": "wikipedia",
+      "label": "Arthur G. Cohen",
+      "url": "https://en.wikipedia.org/wiki/Arthur_G._Cohen",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    }
+  ],
+  "recentItems": []
+}

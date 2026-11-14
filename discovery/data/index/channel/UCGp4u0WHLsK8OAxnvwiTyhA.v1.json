@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCGp4u0WHLsK8OAxnvwiTyhA",
   "title": "British Pathé",
   "thumb": "https://yt3.ggpht.com/_x4OxZHFyys6g3HZ5S-KBZ4s82W5jO2p8KhmqL1KwU9qjiJJLN2Ovg9RVc9GzD1O3K01Ujl4lDQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 38,
-  "distinctSourceCount": 38,
+  "score": 40,
+  "distinctSourceCount": 40,
   "hop": 0,
   "uploadsPerDay": 12.88,
   "sources": [
@@ -274,6 +274,20 @@
       "label": "Grace Burrows",
       "url": "https://en.wikipedia.org/wiki/Grace_Burrows",
       "firstSeenAt": "2026-11-13T14:31:16.364Z"
+    },
+    {
+      "id": "wiki:Elsie Carlisle",
+      "type": "wikipedia",
+      "label": "Elsie Carlisle",
+      "url": "https://en.wikipedia.org/wiki/Elsie_Carlisle",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
+    },
+    {
+      "id": "wiki:Dartford Crossing",
+      "type": "wikipedia",
+      "label": "Dartford Crossing",
+      "url": "https://en.wikipedia.org/wiki/Dartford_Crossing",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
     }
   ],
   "recentItems": [

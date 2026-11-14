@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC9wk6mlzKKN3_sVMPd2p-3Q",
   "title": "Weebl's Stuff",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lSMG7pFxhu49N3k26b-b0Y4rhyl_ldFv5kmEZJiZI9YA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Eddsworld",
       "url": "https://www.youtube.com/channel/UCSS6UvWXW8OZD9wpIVkD0YA",
       "firstSeenAt": "2026-09-09T11:20:04.679Z"
+    },
+    {
+      "id": "channel:UCHSMFxa84ngs781j6lHUIFg",
+      "type": "channel",
+      "label": "mistergarden1",
+      "url": "https://www.youtube.com/channel/UCHSMFxa84ngs781j6lHUIFg",
+      "firstSeenAt": "2026-11-14T13:28:21.365Z"
     }
   ],
   "recentItems": []

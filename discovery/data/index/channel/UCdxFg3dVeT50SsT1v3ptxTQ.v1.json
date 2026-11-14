@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCdxFg3dVeT50SsT1v3ptxTQ",
   "title": "Janelle Monáe",
   "thumb": "https://yt3.ggpht.com/efKXGxJT8IG76iq3Wjk7zzgQ6BosnWOO4rIvOQ1kQmi9RKoyd-OQRu-_h64aQxwpxk8C0-GFFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "PrimeTime (song)",
       "url": "https://en.wikipedia.org/wiki/PrimeTime_(song)",
       "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Dance Apocalyptic",
+      "type": "wikipedia",
+      "label": "Dance Apocalyptic",
+      "url": "https://en.wikipedia.org/wiki/Dance_Apocalyptic",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
     }
   ],
   "recentItems": []

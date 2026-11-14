@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCDttISJ8lpx_476pF3i3sfA",
   "title": "Milwaukee PBS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mvwowqHCNxdmf89uNHRs1AZVVN8mGggkKsK7VJYp9Z06M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.77,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Inna Meiman-Kitrossky",
       "url": "https://en.wikipedia.org/wiki/Inna_Meiman-Kitrossky",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:Daron Hagen",
+      "type": "wikipedia",
+      "label": "Daron Hagen",
+      "url": "https://en.wikipedia.org/wiki/Daron_Hagen",
+      "firstSeenAt": "2026-11-14T13:27:58.303Z"
     }
   ],
   "recentItems": []

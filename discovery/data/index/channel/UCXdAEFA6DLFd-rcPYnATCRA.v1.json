@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCXdAEFA6DLFd-rcPYnATCRA",
   "title": "A1plus",
   "thumb": "https://yt3.ggpht.com/_8wn1fdDA0fzAVGLBiBmYs2n_kMP5libBNOUxSNqasAK_bmdBsNhbprKknKHnsEoP96Z9UBw9mw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 12.91,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Artsakh (song)",
       "url": "https://en.wikipedia.org/wiki/Artsakh_(song)",
       "firstSeenAt": "2026-11-05T14:35:30.323Z"
+    },
+    {
+      "id": "wiki:Vazgen Sargsyan",
+      "type": "wikipedia",
+      "label": "Vazgen Sargsyan",
+      "url": "https://en.wikipedia.org/wiki/Vazgen_Sargsyan",
+      "firstSeenAt": "2026-11-14T13:27:58.305Z"
     }
   ],
   "recentItems": []

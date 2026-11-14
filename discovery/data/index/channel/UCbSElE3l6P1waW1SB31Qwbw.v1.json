@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCbSElE3l6P1waW1SB31Qwbw",
   "title": "organum1000",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mSU9_1vZNy1T-oniaa-lF5stdgOicedtaKEiRGT2wUrA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Nicolas de Grigny",
       "url": "https://en.wikipedia.org/wiki/Nicolas_de_Grigny",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Friedrich Burgmüller",
+      "type": "wikipedia",
+      "label": "Friedrich Burgmüller",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Burgm%C3%BCller",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
     }
   ],
   "recentItems": []

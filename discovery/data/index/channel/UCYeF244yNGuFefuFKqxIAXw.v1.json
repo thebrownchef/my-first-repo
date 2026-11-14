@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCYeF244yNGuFefuFKqxIAXw",
   "title": "The Royal Institution",
   "thumb": "https://yt3.ggpht.com/MLoJXco9yJtL6yyTzJND1kQzj1xQkIivfnGgmerfxFgxP-43uAgJbMLfgVFdrHkMRSISr7-E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
-  "uploadsPerDay": 0.3,
+  "uploadsPerDay": 0.31,
   "sources": [
     {
       "id": "wiki:Overview effect",
@@ -22,6 +22,13 @@
       "label": "Tiktaalik",
       "url": "https://en.wikipedia.org/wiki/Tiktaalik",
       "firstSeenAt": "2026-11-03T14:08:03.894Z"
+    },
+    {
+      "id": "wiki:Mark Miodownik",
+      "type": "wikipedia",
+      "label": "Mark Miodownik",
+      "url": "https://en.wikipedia.org/wiki/Mark_Miodownik",
+      "firstSeenAt": "2026-11-14T13:27:56.504Z"
     }
   ],
   "recentItems": []

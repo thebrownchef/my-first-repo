@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCawNWlihdgaycQpO3zi-jYg",
   "title": "Israel Defense Forces",
   "thumb": "https://yt3.ggpht.com/N213Qz0nmgEBNNWzbFNUp8BFC7C-N4Tc1TGgODnKr35Vq8hbePwMU7uxHRft3Guhzm8ABVv5JA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Ahmed Jabari",
       "url": "https://en.wikipedia.org/wiki/Ahmed_Jabari",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:List of Israel Defense Forces operations",
+      "type": "wikipedia",
+      "label": "List of Israel Defense Forces operations",
+      "url": "https://en.wikipedia.org/wiki/List_of_Israel_Defense_Forces_operations",
+      "firstSeenAt": "2026-11-14T13:27:58.305Z"
     }
   ],
   "recentItems": []

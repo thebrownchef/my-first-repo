@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCT4Jg8h03dD0iN3Pb5L0PMA",
   "title": "DW Español",
   "thumb": "https://yt3.ggpht.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 10.08,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "DW Travel",
       "url": "https://www.youtube.com/channel/UCAjA4SbeRNqig8NdNszDBsA",
       "firstSeenAt": "2026-09-18T11:11:04.827Z"
+    },
+    {
+      "id": "wiki:Ciro Cappellari",
+      "type": "wikipedia",
+      "label": "Ciro Cappellari",
+      "url": "https://en.wikipedia.org/wiki/Ciro_Cappellari",
+      "firstSeenAt": "2026-11-14T13:28:02.868Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC194cPvPaGJjhJBEGwG6vxg",
   "title": "OK Go",
   "thumb": "https://yt3.ggpht.com/e9anBZ_7WkCj1F2KDGiqN3pwWIt5VCgR58knJmrgtd0XojiV2hgkzvqQ1M3sSwj5JQXOOymM_g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "The Writing's on the Wall (OK Go song)",
       "url": "https://en.wikipedia.org/wiki/The_Writing's_on_the_Wall_(OK_Go_song)",
       "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:All Is Not Lost (song)",
+      "type": "wikipedia",
+      "label": "All Is Not Lost (song)",
+      "url": "https://en.wikipedia.org/wiki/All_Is_Not_Lost_(song)",
+      "firstSeenAt": "2026-11-14T13:28:02.869Z"
     }
   ],
   "recentItems": []

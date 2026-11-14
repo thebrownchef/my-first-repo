@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC1l7wYrva1qCH-wgqcHaaRg",
   "title": "David Guetta",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKPoGkfw44ICB715GPlzNDsmqZdlwewB1QGa9K4vD94o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Cash Cash",
       "url": "https://www.youtube.com/channel/UCE4Qz27gKHV8_RrKn5xL8Pw",
       "firstSeenAt": "2026-11-07T12:57:17.254Z"
+    },
+    {
+      "id": "wiki:Blast Off (song)",
+      "type": "wikipedia",
+      "label": "Blast Off (song)",
+      "url": "https://en.wikipedia.org/wiki/Blast_Off_(song)",
+      "firstSeenAt": "2026-11-14T13:28:02.869Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC7i_651yVOOACGFqYWsvvJw",
   "title": "Indian Summer in Levoca",
   "thumb": "https://yt3.ggpht.com/td8mYvgGMJuZSJugfFhWz5HxvpFike-MJX6XfnE1i4-h-oDdmm-RgGbEDisawSTLyb5MzPoTJA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Eugen Suchoň",
       "url": "https://en.wikipedia.org/wiki/Eugen_Sucho%C5%88",
       "firstSeenAt": "2026-11-12T15:08:37.044Z"
+    },
+    {
+      "id": "wiki:Ivan Hrušovský",
+      "type": "wikipedia",
+      "label": "Ivan Hrušovský",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Hru%C5%A1ovsk%C3%BD",
+      "firstSeenAt": "2026-11-14T13:28:02.869Z"
     }
   ],
   "recentItems": []

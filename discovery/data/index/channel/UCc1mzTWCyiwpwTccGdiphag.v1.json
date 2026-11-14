@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UCc1mzTWCyiwpwTccGdiphag",
   "title": "Charney Media",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mxVR7ruZd3czjAq9n3-d6XYr8KG210Xmd3i8S76od5X08=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Bill Mazer",
       "url": "https://en.wikipedia.org/wiki/Bill_Mazer",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Nenad Porges",
+      "type": "wikipedia",
+      "label": "Nenad Porges",
+      "url": "https://en.wikipedia.org/wiki/Nenad_Porges",
+      "firstSeenAt": "2026-11-14T13:28:00.334Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T14:34:48.768Z",
+  "generatedAt": "2026-11-14T13:29:20.434Z",
   "id": "UC0C-w0YjGpqDXGB8IHb662A",
   "title": "Ed Sheeran",
   "thumb": "https://yt3.ggpht.com/pZQ5JMD4EOI8TcNYAPTzMexe_fC0CKnb_hYlV4rPfIzmDidF239fH1XKmzkeT30XSg7fxNwc_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "X (Ed Sheeran album)",
       "url": "https://en.wikipedia.org/wiki/X_(Ed_Sheeran_album)",
       "firstSeenAt": "2026-11-13T14:31:16.364Z"
+    },
+    {
+      "id": "wiki:I'm a Mess (Ed Sheeran song)",
+      "type": "wikipedia",
+      "label": "I'm a Mess (Ed Sheeran song)",
+      "url": "https://en.wikipedia.org/wiki/I'm_a_Mess_(Ed_Sheeran_song)",
+      "firstSeenAt": "2026-11-14T13:27:58.304Z"
     }
   ],
   "recentItems": []
