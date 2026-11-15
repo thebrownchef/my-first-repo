@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCflKJMyrnJNuD4eEvs9-5CA",
   "title": "SmashingPumpkinsVEVO",
   "thumb": "https://yt3.ggpht.com/zep_Cyabh0f5mA659tajbsWW01jfJ5XLSkNtqXCScdxp2U4xMYJATuCeDgETSUQdAgFwvGW4og=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Tonight, Tonight (The Smashing Pumpkins song)",
       "url": "https://en.wikipedia.org/wiki/Tonight%2C_Tonight_(The_Smashing_Pumpkins_song)",
       "firstSeenAt": "2026-10-04T12:18:31.741Z"
+    },
+    {
+      "id": "wiki:Today (The Smashing Pumpkins song)",
+      "type": "wikipedia",
+      "label": "Today (The Smashing Pumpkins song)",
+      "url": "https://en.wikipedia.org/wiki/Today_(The_Smashing_Pumpkins_song)",
+      "firstSeenAt": "2026-11-15T13:53:33.394Z"
     }
   ],
   "recentItems": []

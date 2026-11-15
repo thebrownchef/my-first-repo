@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCt00Zq_pjil6mEkwbqRxV3g",
   "title": "Roger Griffith",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 36,
-  "distinctSourceCount": 36,
+  "score": 40,
+  "distinctSourceCount": 40,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -260,6 +260,34 @@
       "label": "Giffordland",
       "url": "https://en.wikipedia.org/wiki/Giffordland",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Barnweill Church",
+      "type": "wikipedia",
+      "label": "Barnweill Church",
+      "url": "https://en.wikipedia.org/wiki/Barnweill_Church",
+      "firstSeenAt": "2026-11-15T13:53:31.355Z"
+    },
+    {
+      "id": "wiki:Fail Monastery",
+      "type": "wikipedia",
+      "label": "Fail Monastery",
+      "url": "https://en.wikipedia.org/wiki/Fail_Monastery",
+      "firstSeenAt": "2026-11-15T13:53:31.355Z"
+    },
+    {
+      "id": "wiki:Wallace's Monument, Ayrshire",
+      "type": "wikipedia",
+      "label": "Wallace's Monument, Ayrshire",
+      "url": "https://en.wikipedia.org/wiki/Wallace's_Monument%2C_Ayrshire",
+      "firstSeenAt": "2026-11-15T13:53:31.355Z"
+    },
+    {
+      "id": "wiki:Girvan railway station",
+      "type": "wikipedia",
+      "label": "Girvan railway station",
+      "url": "https://en.wikipedia.org/wiki/Girvan_railway_station",
+      "firstSeenAt": "2026-11-15T13:53:32.349Z"
     }
   ],
   "recentItems": [

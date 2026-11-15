@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UC6cqazSR6CnVMClY0bJI0Lg",
   "title": "BadComedian",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n74rqTvo-XNxYzaL_kukVgFzED32agozOSgctey3gjllQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "BadNotDead",
       "url": "https://www.youtube.com/channel/UClTcPNML8sNl6_wozKH44xw",
       "firstSeenAt": "2026-10-19T13:09:03.758Z"
+    },
+    {
+      "id": "channel:UCy6LBaqHJMJonTFvxNVqhmg",
+      "type": "channel",
+      "label": "Игорь Каменьков",
+      "url": "https://www.youtube.com/channel/UCy6LBaqHJMJonTFvxNVqhmg",
+      "firstSeenAt": "2026-11-15T13:53:47.937Z"
     }
   ],
   "recentItems": []

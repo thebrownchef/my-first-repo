@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCDE5Ezmxq1bNVak4lmkpCMw",
   "title": "Epitaph Records",
   "thumb": "https://yt3.ggpht.com/s7L1efErtHuen2U-gwiMyQorxJhjDLrot5F8UjKPh-kzAwfs_S3hGLw5bqYuTbMd1A7kv7AYfg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 74,
-  "distinctSourceCount": 74,
+  "score": 75,
+  "distinctSourceCount": 75,
   "hop": 0,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -526,6 +526,13 @@
       "label": "True Romance (Motion City Soundtrack song)",
       "url": "https://en.wikipedia.org/wiki/True_Romance_(Motion_City_Soundtrack_song)",
       "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Drew Stafford",
+      "type": "wikipedia",
+      "label": "Drew Stafford",
+      "url": "https://en.wikipedia.org/wiki/Drew_Stafford",
+      "firstSeenAt": "2026-11-15T13:53:33.394Z"
     }
   ],
   "recentItems": [

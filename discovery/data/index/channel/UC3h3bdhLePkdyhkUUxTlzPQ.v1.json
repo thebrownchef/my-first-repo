@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UC3h3bdhLePkdyhkUUxTlzPQ",
   "title": "Mukta A2 Cinemas",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mmRKpKa1hZwa7elbo6t-BLVUpeMGsXqoP2suJ6-FU5dr0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
-  "hop": 1,
+  "score": 7,
+  "distinctSourceCount": 7,
+  "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
     {
@@ -50,6 +50,13 @@
       "label": "Mukta Arts Ltd.",
       "url": "https://www.youtube.com/channel/UCgwjsAddUiLKqzfns65cwbw",
       "firstSeenAt": "2026-09-21T12:44:48.345Z"
+    },
+    {
+      "id": "wiki:Mukta A2 Cinemas",
+      "type": "wikipedia",
+      "label": "Mukta A2 Cinemas",
+      "url": "https://en.wikipedia.org/wiki/Mukta_A2_Cinemas",
+      "firstSeenAt": "2026-11-15T13:53:28.717Z"
     }
   ],
   "recentItems": []

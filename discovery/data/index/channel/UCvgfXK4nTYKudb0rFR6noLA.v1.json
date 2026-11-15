@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "id": "UCvgfXK4nTYKudb0rFR6noLA",
+  "title": "UFC",
+  "thumb": "https://yt3.ggpht.com/mECavVNoh2tn4Lku7JyVIN_RnW4-s2z5rEXWo41MVHmGjqUuJChPB0L2JYbHDZg5YL21OcId=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 3.52,
+  "sources": [
+    {
+      "id": "wiki:UFC Ultimate Insider",
+      "type": "wikipedia",
+      "label": "UFC Ultimate Insider",
+      "url": "https://en.wikipedia.org/wiki/UFC_Ultimate_Insider",
+      "firstSeenAt": "2026-10-10T12:28:21.299Z"
+    },
+    {
+      "id": "wiki:Nate Marquardt",
+      "type": "wikipedia",
+      "label": "Nate Marquardt",
+      "url": "https://en.wikipedia.org/wiki/Nate_Marquardt",
+      "firstSeenAt": "2026-11-15T13:53:33.394Z"
+    }
+  ],
+  "recentItems": []
+}

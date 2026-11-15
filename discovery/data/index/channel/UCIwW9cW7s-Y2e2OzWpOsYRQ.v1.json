@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCIwW9cW7s-Y2e2OzWpOsYRQ",
   "title": "noochinator1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOW0gkUIPEkXuZ8sEIJ1RKlG6ieifjNCfJXHF7GgZ93g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 30,
-  "distinctSourceCount": 30,
+  "score": 32,
+  "distinctSourceCount": 32,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -218,6 +218,20 @@
       "label": "Erick Friedman",
       "url": "https://en.wikipedia.org/wiki/Erick_Friedman",
       "firstSeenAt": "2026-11-14T13:28:02.869Z"
+    },
+    {
+      "id": "wiki:Jascha Zayde",
+      "type": "wikipedia",
+      "label": "Jascha Zayde",
+      "url": "https://en.wikipedia.org/wiki/Jascha_Zayde",
+      "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:Ronald Smith (musician)",
+      "type": "wikipedia",
+      "label": "Ronald Smith (musician)",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Smith_(musician)",
+      "firstSeenAt": "2026-11-15T13:53:31.355Z"
     }
   ],
   "recentItems": [

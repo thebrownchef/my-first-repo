@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCc5dpUKLcZQQaDxMB_nYi5g",
   "title": "Broadwaycom",
   "thumb": "https://yt3.ggpht.com/qUVtmbuuEM5EIJy0pno3IsiKfk5N184fPs-vd75aBGUFH0A-wG2XLZ1SVToLTRvf-3C6Tu_LO9s=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.59,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Corbin Bleu",
       "url": "https://en.wikipedia.org/wiki/Corbin_Bleu",
       "firstSeenAt": "2026-10-29T12:56:17.991Z"
+    },
+    {
+      "id": "wiki:Lilla Crawford",
+      "type": "wikipedia",
+      "label": "Lilla Crawford",
+      "url": "https://en.wikipedia.org/wiki/Lilla_Crawford",
+      "firstSeenAt": "2026-11-15T13:53:33.394Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCgyeJxD05YnoDquRMNBfBqw",
   "title": "PBS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbFFUNXtl50QGZiihGQlYmXWR7JpTh3E5wUg_uq9o7Ux8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Milwaukee PBS",
       "url": "https://www.youtube.com/channel/UCDttISJ8lpx_476pF3i3sfA",
       "firstSeenAt": "2026-11-11T14:16:46.785Z"
+    },
+    {
+      "id": "channel:UCABZAtnnnMbYHFr00-G54hA",
+      "type": "channel",
+      "label": "NOVA's Secret Life of Scientists and Engineers",
+      "url": "https://www.youtube.com/channel/UCABZAtnnnMbYHFr00-G54hA",
+      "firstSeenAt": "2026-11-15T13:53:49.905Z"
     }
   ],
   "recentItems": []

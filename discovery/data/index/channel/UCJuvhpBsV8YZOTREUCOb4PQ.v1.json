@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
   "title": "underyourskin",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Sam Rivers (jazz musician)",
       "url": "https://en.wikipedia.org/wiki/Sam_Rivers_(jazz_musician)",
       "firstSeenAt": "2026-11-11T14:16:20.748Z"
+    },
+    {
+      "id": "wiki:Benny Golson",
+      "type": "wikipedia",
+      "label": "Benny Golson",
+      "url": "https://en.wikipedia.org/wiki/Benny_Golson",
+      "firstSeenAt": "2026-11-15T13:53:33.395Z"
     }
   ],
   "recentItems": []

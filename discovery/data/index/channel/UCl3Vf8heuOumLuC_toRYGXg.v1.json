@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCl3Vf8heuOumLuC_toRYGXg",
   "title": "ClipZone: Beyond Infinity",
   "thumb": "https://yt3.ggpht.com/aB8wnlBpZLBTkOVBS5poGDhf-0mM5ZTk1UqaQHwzLg05gYESxYjD0hCRNdhFnvUB6agtNFw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "H+: The Digital Series",
       "url": "https://en.wikipedia.org/wiki/H%2B%3A_The_Digital_Series",
       "firstSeenAt": "2026-10-15T11:24:52.058Z"
+    },
+    {
+      "id": "channel:UCSydRCmlHx6na0zWscgAk9w",
+      "type": "channel",
+      "label": "Warner On Demand",
+      "url": "https://www.youtube.com/channel/UCSydRCmlHx6na0zWscgAk9w",
+      "firstSeenAt": "2026-11-15T13:53:53.324Z"
     }
   ],
   "recentItems": []

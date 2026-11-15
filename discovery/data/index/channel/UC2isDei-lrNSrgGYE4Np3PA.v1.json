@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UC2isDei-lrNSrgGYE4Np3PA",
   "title": "Tate",
   "thumb": "https://yt3.ggpht.com/ANH2XNhNMf3b-ZJ6KZOL-B1FcWDXofc2j4T9JATIOk7RR4mdvy-SdcQup1afuUSJfXyNOeWg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Pauline Boty",
       "url": "https://en.wikipedia.org/wiki/Pauline_Boty",
       "firstSeenAt": "2026-11-11T14:16:18.277Z"
+    },
+    {
+      "id": "wiki:Albert Irvin",
+      "type": "wikipedia",
+      "label": "Albert Irvin",
+      "url": "https://en.wikipedia.org/wiki/Albert_Irvin",
+      "firstSeenAt": "2026-11-15T13:53:31.355Z"
     }
   ],
   "recentItems": []

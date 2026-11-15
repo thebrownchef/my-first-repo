@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCqIIigEiYyPnWRxwd3drHwg",
   "title": "Kairali TV",
   "thumb": "https://yt3.ggpht.com/xQxOUh8hCgAmWqOh-2B7SXyqVglpgoEonidbWCRJ_V3pXKp-Le7FqPwherzpkpKjUXtejdeM2g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 9,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Kairali WE",
       "url": "https://www.youtube.com/channel/UCA_4G17RU8zbQICk5i2rACw",
       "firstSeenAt": "2026-09-22T11:35:24.172Z"
+    },
+    {
+      "id": "wiki:T. E. Vasudevan",
+      "type": "wikipedia",
+      "label": "T. E. Vasudevan",
+      "url": "https://en.wikipedia.org/wiki/T._E._Vasudevan",
+      "firstSeenAt": "2026-11-15T13:53:31.354Z"
     }
   ],
   "recentItems": []

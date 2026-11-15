@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UCZAoL6toWgyPRFVHE-JPl7A",
   "title": "Ева",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lgVTouqIAoJq7hXEYiK2-BBz3KLwBrr4DTpwO3m8aRsWE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -99,6 +99,41 @@
       "label": "Vladimir Ovchinnikov (painter)",
       "url": "https://en.wikipedia.org/wiki/Vladimir_Ovchinnikov_(painter)",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Portrait of Catherine Balebina",
+      "type": "wikipedia",
+      "label": "Portrait of Catherine Balebina",
+      "url": "https://en.wikipedia.org/wiki/Portrait_of_Catherine_Balebina",
+      "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:Lev Russov",
+      "type": "wikipedia",
+      "label": "Lev Russov",
+      "url": "https://en.wikipedia.org/wiki/Lev_Russov",
+      "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:1987 in fine arts of the Soviet Union",
+      "type": "wikipedia",
+      "label": "1987 in fine arts of the Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/1987_in_fine_arts_of_the_Soviet_Union",
+      "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:List of Russian landscape painters",
+      "type": "wikipedia",
+      "label": "List of Russian landscape painters",
+      "url": "https://en.wikipedia.org/wiki/List_of_Russian_landscape_painters",
+      "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:List of painters of Saint Petersburg Union of Artists",
+      "type": "wikipedia",
+      "label": "List of painters of Saint Petersburg Union of Artists",
+      "url": "https://en.wikipedia.org/wiki/List_of_painters_of_Saint_Petersburg_Union_of_Artists",
+      "firstSeenAt": "2026-11-15T13:53:31.354Z"
     }
   ],
   "recentItems": []

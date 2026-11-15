@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T13:29:20.434Z",
+  "generatedAt": "2026-11-15T13:54:45.436Z",
   "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
   "title": "BeyoncéVEVO",
   "thumb": "https://yt3.ggpht.com/4UxYRy4fJ0Fo54TRPkw19_W6uCCnzTBSkzm75vGIiEObg4IgY5Ie1BIsNcflFNqofAjxEpTRcQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 31,
-  "distinctSourceCount": 31,
+  "score": 32,
+  "distinctSourceCount": 32,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -225,6 +225,13 @@
       "label": "Pretty Hurts",
       "url": "https://en.wikipedia.org/wiki/Pretty_Hurts",
       "firstSeenAt": "2026-11-09T16:12:20.260Z"
+    },
+    {
+      "id": "wiki:Schoolin' Life",
+      "type": "wikipedia",
+      "label": "Schoolin' Life",
+      "url": "https://en.wikipedia.org/wiki/Schoolin'_Life",
+      "firstSeenAt": "2026-11-15T13:53:32.349Z"
     }
   ],
   "recentItems": [
