@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCPpw6jRIL1B9nU0k7-GujOQ",
   "title": "UCLA",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN4gu9K-Llwlb09pGNVeTYkoiH5wFUaxB1uvPWtsgatw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.52,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "UCLA Samueli School of Engineering",
       "url": "https://en.wikipedia.org/wiki/UCLA_Samueli_School_of_Engineering",
       "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:Kenneth Anger",
+      "type": "wikipedia",
+      "label": "Kenneth Anger",
+      "url": "https://en.wikipedia.org/wiki/Kenneth_Anger",
+      "firstSeenAt": "2026-11-16T15:40:08.292Z"
     }
   ],
   "recentItems": []

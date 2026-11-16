@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCb4h6-PeVPkuQx3DpobE-7w",
   "title": "computingheritage",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kZ637Aec89b6BMHG1O_mWvVnWbd-V73iGO6TiNfhOS0w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Ferranti Mark 1",
       "url": "https://en.wikipedia.org/wiki/Ferranti_Mark_1",
       "firstSeenAt": "2026-09-02T11:15:15.307Z"
+    },
+    {
+      "id": "wiki:Jean Valentine (bombe operator)",
+      "type": "wikipedia",
+      "label": "Jean Valentine (bombe operator)",
+      "url": "https://en.wikipedia.org/wiki/Jean_Valentine_(bombe_operator)",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
     }
   ],
   "recentItems": []

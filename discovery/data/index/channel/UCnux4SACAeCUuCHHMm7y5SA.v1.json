@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCnux4SACAeCUuCHHMm7y5SA",
   "title": "ACBLSorrento",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nDJB8Reu4n6c9tQHYtyOoaFRYZJ7d9-MkOLft6kuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Edgar Kaplan",
       "url": "https://en.wikipedia.org/wiki/Edgar_Kaplan",
       "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Eric Murray (bridge)",
+      "type": "wikipedia",
+      "label": "Eric Murray (bridge)",
+      "url": "https://en.wikipedia.org/wiki/Eric_Murray_(bridge)",
+      "firstSeenAt": "2026-11-16T15:40:08.291Z"
     }
   ],
   "recentItems": []

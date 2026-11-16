@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UC9dGqMAPJRpA7M0oSdgtQgg",
   "title": "BFI",
   "thumb": "https://yt3.ggpht.com/sR4iA5E1w0QjB_N9WIeynH7hGTStl2mgPxkTEVJhGANXr96ZEex02658pMagMRKV6kFG0LLq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "HMS Albion (1898)",
       "url": "https://en.wikipedia.org/wiki/HMS_Albion_(1898)",
       "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "channel:UCeNI1r79dB2jWzUAkAQScmA",
+      "type": "channel",
+      "label": "BFITrailers",
+      "url": "https://www.youtube.com/channel/UCeNI1r79dB2jWzUAkAQScmA",
+      "firstSeenAt": "2026-11-16T15:40:23.010Z"
     }
   ],
   "recentItems": []

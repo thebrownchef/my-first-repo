@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCKjU3KzdbJE1EFcHVqXC3_g",
   "title": "CBC News: The National",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lapgpb4RQz5-6HiULuXDWwGYpl7oaikkTguYMgqmn0EKo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 5.54,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "The National (TV program)",
       "url": "https://en.wikipedia.org/wiki/The_National_(TV_program)",
       "firstSeenAt": "2026-10-05T14:32:47.136Z"
+    },
+    {
+      "id": "wiki:2014 Israeli shelling of UNRWA Gaza shelters",
+      "type": "wikipedia",
+      "label": "2014 Israeli shelling of UNRWA Gaza shelters",
+      "url": "https://en.wikipedia.org/wiki/2014_Israeli_shelling_of_UNRWA_Gaza_shelters",
+      "firstSeenAt": "2026-11-16T15:40:12.268Z"
     }
   ],
   "recentItems": []

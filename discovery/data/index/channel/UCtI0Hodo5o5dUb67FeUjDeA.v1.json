@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCtI0Hodo5o5dUb67FeUjDeA",
   "title": "SpaceX",
   "thumb": "https://yt3.ggpht.com/rLvyemnqcLYQSsoPj1pPuWoqmICy_A2MoVfUgytiUcpcmvfV4hNHQRNlWa8FMDcIY9Ps_RiD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 2,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Grid fin",
       "url": "https://en.wikipedia.org/wiki/Grid_fin",
       "firstSeenAt": "2026-11-13T14:31:13.886Z"
+    },
+    {
+      "id": "wiki:Falcon 9 flight 10",
+      "type": "wikipedia",
+      "label": "Falcon 9 flight 10",
+      "url": "https://en.wikipedia.org/wiki/Falcon_9_flight_10",
+      "firstSeenAt": "2026-11-16T15:40:08.292Z"
+    },
+    {
+      "id": "wiki:SpaceX reusable launch system development program",
+      "type": "wikipedia",
+      "label": "SpaceX reusable launch system development program",
+      "url": "https://en.wikipedia.org/wiki/SpaceX_reusable_launch_system_development_program",
+      "firstSeenAt": "2026-11-16T15:40:08.292Z"
     }
   ],
   "recentItems": []

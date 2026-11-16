@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCQ5kHOKpF3-1_UCKaqXARRg",
   "title": "OneRepublicVEVO",
   "thumb": "https://yt3.ggpht.com/WreNpfmfoL90x5CpxIppz6bG-O4-71yTWdAW_lFAjTRFIoqWek_sfMZ14i0JAY2sStjhCKvtcA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "West Coast (OneRepublic song)",
       "url": "https://en.wikipedia.org/wiki/West_Coast_(OneRepublic_song)",
       "firstSeenAt": "2026-08-31T13:44:53.294Z"
+    },
+    {
+      "id": "wiki:Native (album)",
+      "type": "wikipedia",
+      "label": "Native (album)",
+      "url": "https://en.wikipedia.org/wiki/Native_(album)",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": []

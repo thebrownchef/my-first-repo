@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCeq81A3_ZzK5-A74k3BQ7hg",
   "title": "noochinator2",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lh6VdqawNm5ieK7V0ANgIz-deVYyp-QkB0bmOj8oExmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Jascha Zayde",
       "url": "https://en.wikipedia.org/wiki/Jascha_Zayde",
       "firstSeenAt": "2026-11-14T13:27:58.305Z"
+    },
+    {
+      "id": "wiki:William Mayer (composer)",
+      "type": "wikipedia",
+      "label": "William Mayer (composer)",
+      "url": "https://en.wikipedia.org/wiki/William_Mayer_(composer)",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
     }
   ],
   "recentItems": []

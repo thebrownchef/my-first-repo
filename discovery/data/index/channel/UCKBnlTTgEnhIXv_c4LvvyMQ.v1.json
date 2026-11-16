@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCKBnlTTgEnhIXv_c4LvvyMQ",
   "title": "OWN",
   "thumb": "https://yt3.ggpht.com/V6IyKOhYk0zg_lmD8or_andNgyyOo5RwTJxAXqGwHEGJuGWlt0dvrl6e9CYTpjemUDU8l-4vjA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.26,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Born Naked",
       "url": "https://en.wikipedia.org/wiki/Born_Naked",
       "firstSeenAt": "2026-11-10T14:49:46.638Z"
+    },
+    {
+      "id": "wiki:J. Ivy",
+      "type": "wikipedia",
+      "label": "J. Ivy",
+      "url": "https://en.wikipedia.org/wiki/J._Ivy",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
     }
   ],
   "recentItems": []

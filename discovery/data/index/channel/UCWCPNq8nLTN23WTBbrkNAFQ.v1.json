@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCWCPNq8nLTN23WTBbrkNAFQ",
   "title": "CFHOFandM",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n38Ubu5VVnL_eTZzRx95Ze1HKehJ5LNqOgrUv9TORV1Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "George Dixon (Canadian football)",
       "url": "https://en.wikipedia.org/wiki/George_Dixon_(Canadian_football)",
       "firstSeenAt": "2026-11-12T15:08:37.044Z"
+    },
+    {
+      "id": "wiki:Bernie Faloney",
+      "type": "wikipedia",
+      "label": "Bernie Faloney",
+      "url": "https://en.wikipedia.org/wiki/Bernie_Faloney",
+      "firstSeenAt": "2026-11-16T15:40:08.995Z"
     }
   ],
   "recentItems": []

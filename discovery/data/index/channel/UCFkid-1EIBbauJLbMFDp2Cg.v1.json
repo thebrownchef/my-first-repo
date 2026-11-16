@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCFkid-1EIBbauJLbMFDp2Cg",
   "title": "UC Berkeley Events",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kqdEXLIOn-E2yWhK76rH8hQu5p_6S4gvQSddvsXWzLmw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.5,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "Altmetrics",
       "url": "https://en.wikipedia.org/wiki/Altmetrics",
       "firstSeenAt": "2026-10-25T11:22:08.238Z"
+    },
+    {
+      "id": "wiki:Piotr Sztompka",
+      "type": "wikipedia",
+      "label": "Piotr Sztompka",
+      "url": "https://en.wikipedia.org/wiki/Piotr_Sztompka",
+      "firstSeenAt": "2026-11-16T15:40:08.293Z"
+    },
+    {
+      "id": "wiki:Hans Jenny (pedologist)",
+      "type": "wikipedia",
+      "label": "Hans Jenny (pedologist)",
+      "url": "https://en.wikipedia.org/wiki/Hans_Jenny_(pedologist)",
+      "firstSeenAt": "2026-11-16T15:40:09.990Z"
+    },
+    {
+      "id": "wiki:Joanne Kyger",
+      "type": "wikipedia",
+      "label": "Joanne Kyger",
+      "url": "https://en.wikipedia.org/wiki/Joanne_Kyger",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": []

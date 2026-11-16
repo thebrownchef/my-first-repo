@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCoEN65PAvCJkuxQXxSUmpzA",
   "title": "Matt Fishel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nRZsQce2bu-g2zlQExfItC9kMPY85kipIBmcU7BIh_y6Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "The First Time (Matt Fishel song)",
       "url": "https://en.wikipedia.org/wiki/The_First_Time_(Matt_Fishel_song)",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Cover Boy (EP)",
+      "type": "wikipedia",
+      "label": "Cover Boy (EP)",
+      "url": "https://en.wikipedia.org/wiki/Cover_Boy_(EP)",
+      "firstSeenAt": "2026-11-16T15:40:08.292Z"
     }
   ],
   "recentItems": []

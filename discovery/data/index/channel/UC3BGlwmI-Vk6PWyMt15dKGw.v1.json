@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UC3BGlwmI-Vk6PWyMt15dKGw",
   "title": "O'Reilly",
   "thumb": "https://yt3.ggpht.com/9mXgCo6oQkKHVGnZDNo4WiBreYPeY4m5kpE0IrNQCbEowMGQE5vo9BVvujqIQ4KeYmXmKogDJck=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.01,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Aaron Swartz",
       "url": "https://en.wikipedia.org/wiki/Aaron_Swartz",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Patrick Volkerding",
+      "type": "wikipedia",
+      "label": "Patrick Volkerding",
+      "url": "https://en.wikipedia.org/wiki/Patrick_Volkerding",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
+    },
+    {
+      "id": "wiki:Sage Weil",
+      "type": "wikipedia",
+      "label": "Sage Weil",
+      "url": "https://en.wikipedia.org/wiki/Sage_Weil",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
     }
   ],
   "recentItems": []

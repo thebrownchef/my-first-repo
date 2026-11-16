@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UC8GkPHdPzUckWbiwDISWprA",
   "title": "Connie Martinson",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kseBM-o18TBss_4IpK0IwyR5D0Ix8DUiKjjMi6zjwnNA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "All God's Children Need Traveling Shoes",
       "url": "https://en.wikipedia.org/wiki/All_God's_Children_Need_Traveling_Shoes",
       "firstSeenAt": "2026-11-07T12:56:30.837Z"
+    },
+    {
+      "id": "wiki:Paule Marshall",
+      "type": "wikipedia",
+      "label": "Paule Marshall",
+      "url": "https://en.wikipedia.org/wiki/Paule_Marshall",
+      "firstSeenAt": "2026-11-16T15:40:08.292Z"
     }
   ],
   "recentItems": []

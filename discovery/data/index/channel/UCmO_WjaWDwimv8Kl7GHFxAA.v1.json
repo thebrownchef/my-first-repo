@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCmO_WjaWDwimv8Kl7GHFxAA",
   "title": "American Film Institute",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nf6meJOej1jm2xkyxjD4rE5Q1sJicRK5HbJmo0SZubDOI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.46,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Barbara Stanwyck",
       "url": "https://en.wikipedia.org/wiki/Barbara_Stanwyck",
       "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:Mike Nichols",
+      "type": "wikipedia",
+      "label": "Mike Nichols",
+      "url": "https://en.wikipedia.org/wiki/Mike_Nichols",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": []

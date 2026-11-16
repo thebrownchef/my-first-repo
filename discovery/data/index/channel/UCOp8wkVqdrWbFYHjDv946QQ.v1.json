@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCOp8wkVqdrWbFYHjDv946QQ",
   "title": "TNA Wrestling",
   "thumb": "https://yt3.ggpht.com/3b2vHtN5EH8blDZ5Vr9xr52LIehQxFkheaPJOH8mziWZy1n8N3PvATrvwBwKunyg-9Ia8ydU7A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.93,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Nick Aldis",
       "url": "https://en.wikipedia.org/wiki/Nick_Aldis",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Professional wrestling strikes",
+      "type": "wikipedia",
+      "label": "Professional wrestling strikes",
+      "url": "https://en.wikipedia.org/wiki/Professional_wrestling_strikes",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
     }
   ],
   "recentItems": []

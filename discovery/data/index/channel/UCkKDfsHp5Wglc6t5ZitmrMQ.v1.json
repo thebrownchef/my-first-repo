@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCkKDfsHp5Wglc6t5ZitmrMQ",
   "title": "NRRArchives",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mQnAAFyfeHYvErnuSoh8rRgiGAfCQXv9lG0S50F6oFRQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tears on My Pillow",
       "url": "https://en.wikipedia.org/wiki/Tears_on_My_Pillow",
       "firstSeenAt": "2026-11-10T14:49:42.357Z"
+    },
+    {
+      "id": "channel:UC8hBD5v5gfcGAiW3qhVwttg",
+      "type": "channel",
+      "label": "NRRArchives2",
+      "url": "https://www.youtube.com/channel/UC8hBD5v5gfcGAiW3qhVwttg",
+      "firstSeenAt": "2026-11-16T15:40:38.665Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "id": "UCfTfuTTALrsxUWjisrdOWtA",
+  "title": "Cornell University",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kYNOPFdg1JKOMmPxYBtAG3_jMD1GrAW_do3Ra01giXbcg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.15,
+  "sources": [
+    {
+      "id": "wiki:Donald P. Greenberg",
+      "type": "wikipedia",
+      "label": "Donald P. Greenberg",
+      "url": "https://en.wikipedia.org/wiki/Donald_P._Greenberg",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Peter Eisenman",
+      "type": "wikipedia",
+      "label": "Peter Eisenman",
+      "url": "https://en.wikipedia.org/wiki/Peter_Eisenman",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    }
+  ],
+  "recentItems": []
+}

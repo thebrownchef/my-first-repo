@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCvoGqD4Rrl0nsFxlsjRvx4w",
   "title": "Ministry of Information & Broadcasting",
   "thumb": "https://yt3.ggpht.com/zuOyUDzZvpmGyl6XJQ88ovDMVDmutj-ubGJR9Kq4vkfMcx_8AAeLWx8U_MLTTVsK9RqmynRl=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 4.86,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Sumitranandan Pant",
       "url": "https://en.wikipedia.org/wiki/Sumitranandan_Pant",
       "firstSeenAt": "2026-11-10T14:49:46.638Z"
+    },
+    {
+      "id": "wiki:List of poets from Pratapgarh",
+      "type": "wikipedia",
+      "label": "List of poets from Pratapgarh",
+      "url": "https://en.wikipedia.org/wiki/List_of_poets_from_Pratapgarh",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
     }
   ],
   "recentItems": []

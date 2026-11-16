@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "id": "UC-75_Zh-CLF7hN8dM4EGEGA",
+  "title": "British Library",
+  "thumb": "https://yt3.ggpht.com/eOjguTyE-UxnqNJ7fuOWmo-X3G8tn6LxzDhKXOKP8Yo1ohjcsGOPzYgUz18kTQ7hv5xUjsABog=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.18,
+  "sources": [
+    {
+      "id": "channel:UCC1z8JC_BO6DmPD0ol_gpXw",
+      "type": "channel",
+      "label": "World Field Recordings",
+      "url": "https://www.youtube.com/channel/UCC1z8JC_BO6DmPD0ol_gpXw",
+      "firstSeenAt": "2026-09-15T11:41:49.941Z"
+    },
+    {
+      "id": "wiki:John Scott-Scott",
+      "type": "wikipedia",
+      "label": "John Scott-Scott",
+      "url": "https://en.wikipedia.org/wiki/John_Scott-Scott",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    }
+  ],
+  "recentItems": []
+}

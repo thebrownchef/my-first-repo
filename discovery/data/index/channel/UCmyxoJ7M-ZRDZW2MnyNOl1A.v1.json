@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCmyxoJ7M-ZRDZW2MnyNOl1A",
   "title": "Bowman808",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mGaeeC2PzkT72QOeUy6QHVh52VEUGyTgjbHmGtTOc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "John Dankworth",
       "url": "https://en.wikipedia.org/wiki/John_Dankworth",
       "firstSeenAt": "2026-11-11T14:16:26.259Z"
+    },
+    {
+      "id": "wiki:Cleo Laine",
+      "type": "wikipedia",
+      "label": "Cleo Laine",
+      "url": "https://en.wikipedia.org/wiki/Cleo_Laine",
+      "firstSeenAt": "2026-11-16T15:40:08.291Z"
     }
   ],
   "recentItems": []

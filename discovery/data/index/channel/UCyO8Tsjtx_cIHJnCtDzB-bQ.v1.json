@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCyO8Tsjtx_cIHJnCtDzB-bQ",
   "title": "dougmilesmedia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nQF20JMhFfs8LjhBYpQZPASfa6o6HFYxNXohs_G5jNlQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Jayne Meadows",
       "url": "https://en.wikipedia.org/wiki/Jayne_Meadows",
       "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:Alex Cord",
+      "type": "wikipedia",
+      "label": "Alex Cord",
+      "url": "https://en.wikipedia.org/wiki/Alex_Cord",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
+    },
+    {
+      "id": "wiki:Hedrick Smith",
+      "type": "wikipedia",
+      "label": "Hedrick Smith",
+      "url": "https://en.wikipedia.org/wiki/Hedrick_Smith",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Jackie Mason",
+      "type": "wikipedia",
+      "label": "Jackie Mason",
+      "url": "https://en.wikipedia.org/wiki/Jackie_Mason",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": []

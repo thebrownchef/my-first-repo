@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCwWWbo90m_RsbjmrBCccvJQ",
   "title": "Decca Classics",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mrPKz9Xx7YqWyk0R1qJXHW9tzxjBBLSkiTsyJybr8vTg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Weichet nur, betrübte Schatten, BWV 202",
       "url": "https://en.wikipedia.org/wiki/Weichet_nur%2C_betr%C3%BCbte_Schatten%2C_BWV_202",
       "firstSeenAt": "2026-10-22T11:47:47.034Z"
+    },
+    {
+      "id": "wiki:Pumeza Matshikiza",
+      "type": "wikipedia",
+      "label": "Pumeza Matshikiza",
+      "url": "https://en.wikipedia.org/wiki/Pumeza_Matshikiza",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCIwW9cW7s-Y2e2OzWpOsYRQ",
   "title": "noochinator1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOW0gkUIPEkXuZ8sEIJ1RKlG6ieifjNCfJXHF7GgZ93g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 32,
-  "distinctSourceCount": 32,
+  "score": 36,
+  "distinctSourceCount": 36,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -232,6 +232,34 @@
       "label": "Ronald Smith (musician)",
       "url": "https://en.wikipedia.org/wiki/Ronald_Smith_(musician)",
       "firstSeenAt": "2026-11-15T13:53:31.355Z"
+    },
+    {
+      "id": "wiki:John Simon (critic)",
+      "type": "wikipedia",
+      "label": "John Simon (critic)",
+      "url": "https://en.wikipedia.org/wiki/John_Simon_(critic)",
+      "firstSeenAt": "2026-11-16T15:40:08.292Z"
+    },
+    {
+      "id": "wiki:Paul Badura-Skoda",
+      "type": "wikipedia",
+      "label": "Paul Badura-Skoda",
+      "url": "https://en.wikipedia.org/wiki/Paul_Badura-Skoda",
+      "firstSeenAt": "2026-11-16T15:40:08.292Z"
+    },
+    {
+      "id": "wiki:William Mayer (composer)",
+      "type": "wikipedia",
+      "label": "William Mayer (composer)",
+      "url": "https://en.wikipedia.org/wiki/William_Mayer_(composer)",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
+    },
+    {
+      "id": "wiki:Peter Katin",
+      "type": "wikipedia",
+      "label": "Peter Katin",
+      "url": "https://en.wikipedia.org/wiki/Peter_Katin",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": [

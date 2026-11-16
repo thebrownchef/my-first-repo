@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCt00Zq_pjil6mEkwbqRxV3g",
   "title": "Roger Griffith",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 40,
-  "distinctSourceCount": 40,
+  "score": 41,
+  "distinctSourceCount": 41,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -288,6 +288,13 @@
       "label": "Girvan railway station",
       "url": "https://en.wikipedia.org/wiki/Girvan_railway_station",
       "firstSeenAt": "2026-11-15T13:53:32.349Z"
+    },
+    {
+      "id": "wiki:Fairlie railway station",
+      "type": "wikipedia",
+      "label": "Fairlie railway station",
+      "url": "https://en.wikipedia.org/wiki/Fairlie_railway_station",
+      "firstSeenAt": "2026-11-16T15:40:12.268Z"
     }
   ],
   "recentItems": [

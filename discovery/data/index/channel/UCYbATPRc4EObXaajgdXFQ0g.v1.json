@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCYbATPRc4EObXaajgdXFQ0g",
   "title": "Gabrielle Aplin",
   "thumb": "https://yt3.ggpht.com/hBq9vEoqE1hj9MU8Z9A1SUVgjSu4zdT6nhiBfPyzMUiEexTNNfzXqpDHk5v26WHHyYkxv3BNBA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "GabrielleAplinVEVO",
       "url": "https://www.youtube.com/channel/UCNWusKbBheusw-yvZ9kn1Ig",
       "firstSeenAt": "2026-11-11T14:16:53.300Z"
+    },
+    {
+      "id": "wiki:Salvation (Gabrielle Aplin song)",
+      "type": "wikipedia",
+      "label": "Salvation (Gabrielle Aplin song)",
+      "url": "https://en.wikipedia.org/wiki/Salvation_(Gabrielle_Aplin_song)",
+      "firstSeenAt": "2026-11-16T15:40:12.268Z"
     }
   ],
   "recentItems": []

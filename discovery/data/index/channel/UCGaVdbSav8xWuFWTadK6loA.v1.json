@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCGaVdbSav8xWuFWTadK6loA",
   "title": "vlogbrothers",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kRgkKL2CrQ4Ix8eIcTVlL7kQtdiePYEmYeCHq126dk4TE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "langsense",
       "url": "https://www.youtube.com/channel/UCq6XsPx1NqH-puhWRjxqXZA",
       "firstSeenAt": "2026-11-13T14:31:28.853Z"
+    },
+    {
+      "id": "wiki:Esther Earl",
+      "type": "wikipedia",
+      "label": "Esther Earl",
+      "url": "https://en.wikipedia.org/wiki/Esther_Earl",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": []

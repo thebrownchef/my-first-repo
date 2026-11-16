@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "id": "UCustbySVJGb659WDpdkeATg",
+  "title": "newslaundry",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kIKMI8h_q7kpwTxhzlCPmwZh39C7zZ4nPqkLJTjOycAio=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.55,
+  "sources": [
+    {
+      "id": "wiki:Jeffrey Wigand",
+      "type": "wikipedia",
+      "label": "Jeffrey Wigand",
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Wigand",
+      "firstSeenAt": "2026-10-26T12:56:39.133Z"
+    },
+    {
+      "id": "wiki:Jamil Ahmad",
+      "type": "wikipedia",
+      "label": "Jamil Ahmad",
+      "url": "https://en.wikipedia.org/wiki/Jamil_Ahmad",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    }
+  ],
+  "recentItems": []
+}

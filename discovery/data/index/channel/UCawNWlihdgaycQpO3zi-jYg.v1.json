@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCawNWlihdgaycQpO3zi-jYg",
   "title": "Israel Defense Forces",
   "thumb": "https://yt3.ggpht.com/N213Qz0nmgEBNNWzbFNUp8BFC7C-N4Tc1TGgODnKr35Vq8hbePwMU7uxHRft3Guhzm8ABVv5JA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -43,6 +43,27 @@
       "label": "List of Israel Defense Forces operations",
       "url": "https://en.wikipedia.org/wiki/List_of_Israel_Defense_Forces_operations",
       "firstSeenAt": "2026-11-14T13:27:58.305Z"
+    },
+    {
+      "id": "wiki:Timeline of the 2014 Gaza War",
+      "type": "wikipedia",
+      "label": "Timeline of the 2014 Gaza War",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2014_Gaza_War",
+      "firstSeenAt": "2026-11-16T15:40:08.293Z"
+    },
+    {
+      "id": "wiki:List of Israeli strikes and Palestinian casualties in the 2014 Gaza War",
+      "type": "wikipedia",
+      "label": "List of Israeli strikes and Palestinian casualties in the 2014 Gaza War",
+      "url": "https://en.wikipedia.org/wiki/List_of_Israeli_strikes_and_Palestinian_casualties_in_the_2014_Gaza_War",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
+    },
+    {
+      "id": "wiki:Tunnel warfare in the Gaza Strip",
+      "type": "wikipedia",
+      "label": "Tunnel warfare in the Gaza Strip",
+      "url": "https://en.wikipedia.org/wiki/Tunnel_warfare_in_the_Gaza_Strip",
+      "firstSeenAt": "2026-11-16T15:40:12.268Z"
     }
   ],
   "recentItems": []

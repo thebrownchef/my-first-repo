@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCw-_ba5d6gmjlfQMNAgXS6w",
   "title": "Prof Alan Macfarlane - Ayabaya",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lSuZq4Vuk0S1FW0GtXK8jGOOSTxGGZDvBclFQIuoM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.33,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Laurence Picken",
       "url": "https://en.wikipedia.org/wiki/Laurence_Picken",
       "firstSeenAt": "2026-11-13T14:31:13.886Z"
+    },
+    {
+      "id": "wiki:Patrick K. O'Brien",
+      "type": "wikipedia",
+      "label": "Patrick K. O'Brien",
+      "url": "https://en.wikipedia.org/wiki/Patrick_K._O'Brien",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": []

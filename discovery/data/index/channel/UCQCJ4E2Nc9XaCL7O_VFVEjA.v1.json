@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCQCJ4E2Nc9XaCL7O_VFVEjA",
   "title": "Lily Allen",
   "thumb": "https://yt3.ggpht.com/NBvoJmG1l0anOgpb6y_w9MkGTKxEGJbIiuhEh_lzHE__WQf5xiaNGQCe999yv6XTo9mQtJkD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "URL Badman",
       "url": "https://en.wikipedia.org/wiki/URL_Badman",
       "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:As Long as I Got You (Lily Allen song)",
+      "type": "wikipedia",
+      "label": "As Long as I Got You (Lily Allen song)",
+      "url": "https://en.wikipedia.org/wiki/As_Long_as_I_Got_You_(Lily_Allen_song)",
+      "firstSeenAt": "2026-11-16T15:40:09.990Z"
     }
   ],
   "recentItems": []

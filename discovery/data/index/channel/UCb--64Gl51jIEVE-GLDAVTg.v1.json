@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCb--64Gl51jIEVE-GLDAVTg",
   "title": "C-SPAN",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 2.13,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Scott Carpenter",
       "url": "https://en.wikipedia.org/wiki/Scott_Carpenter",
       "firstSeenAt": "2026-11-11T14:16:18.275Z"
+    },
+    {
+      "id": "wiki:Amity Shlaes",
+      "type": "wikipedia",
+      "label": "Amity Shlaes",
+      "url": "https://en.wikipedia.org/wiki/Amity_Shlaes",
+      "firstSeenAt": "2026-11-16T15:40:08.293Z"
     }
   ],
   "recentItems": []

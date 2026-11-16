@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCC5JH53rfDopbQb0VLFyT8A",
   "title": "Sahapedia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lxivYhEa040mel2lYRaeyYfK_N1EbbMK-NMTs0GDVPaw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sirpur, Mahasamund",
       "url": "https://en.wikipedia.org/wiki/Sirpur%2C_Mahasamund",
       "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:Lokesh Chandra",
+      "type": "wikipedia",
+      "label": "Lokesh Chandra",
+      "url": "https://en.wikipedia.org/wiki/Lokesh_Chandra",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
     }
   ],
   "recentItems": []

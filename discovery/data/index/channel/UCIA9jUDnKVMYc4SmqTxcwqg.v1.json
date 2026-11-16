@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCIA9jUDnKVMYc4SmqTxcwqg",
   "title": "Cartoon Hangover",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mF7S3kldEh9WI1f3dDTl9SUZhWR_3aScFGVOMFZxe6RXI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "HangoverUncensored",
       "url": "https://www.youtube.com/channel/UCVavh25yuXxP0kjoS07zHJw",
       "firstSeenAt": "2026-11-04T14:28:26.199Z"
+    },
+    {
+      "id": "wiki:Tom Herpich",
+      "type": "wikipedia",
+      "label": "Tom Herpich",
+      "url": "https://en.wikipedia.org/wiki/Tom_Herpich",
+      "firstSeenAt": "2026-11-16T15:40:12.268Z"
     }
   ],
   "recentItems": []

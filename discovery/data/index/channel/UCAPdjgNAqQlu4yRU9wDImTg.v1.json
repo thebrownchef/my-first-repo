@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCAPdjgNAqQlu4yRU9wDImTg",
   "title": "Margaret",
   "thumb": "https://yt3.ggpht.com/zS39uAJC-uLm--4DjozZTgeLWMAVvdPj3Ds0BZbyhY9RqAaczcY-CukMtTXCEvLk95h3C_dU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Thank You Very Much (Margaret song)",
       "url": "https://en.wikipedia.org/wiki/Thank_You_Very_Much_(Margaret_song)",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Wasted (Margaret song)",
+      "type": "wikipedia",
+      "label": "Wasted (Margaret song)",
+      "url": "https://en.wikipedia.org/wiki/Wasted_(Margaret_song)",
+      "firstSeenAt": "2026-11-16T15:40:08.293Z"
     }
   ],
   "recentItems": []

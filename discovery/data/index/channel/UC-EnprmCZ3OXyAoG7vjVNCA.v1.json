@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UC-EnprmCZ3OXyAoG7vjVNCA",
   "title": "Stanford",
   "thumb": "https://yt3.ggpht.com/F8EWZI1AxI_zj8iEg8TKl70L8WBD8yhFYSKI0OY2YNJxXKaPYH2cmpDyUUCr6cAq7KwAtlvlrA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Vincent Harding",
       "url": "https://en.wikipedia.org/wiki/Vincent_Harding",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:William C. Dement",
+      "type": "wikipedia",
+      "label": "William C. Dement",
+      "url": "https://en.wikipedia.org/wiki/William_C._Dement",
+      "firstSeenAt": "2026-11-16T15:40:09.991Z"
     }
   ],
   "recentItems": []

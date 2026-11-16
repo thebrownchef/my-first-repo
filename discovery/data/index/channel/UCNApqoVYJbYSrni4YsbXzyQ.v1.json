@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T13:54:45.436Z",
+  "generatedAt": "2026-11-16T15:41:50.294Z",
   "id": "UCNApqoVYJbYSrni4YsbXzyQ",
   "title": "Aditya Music",
   "thumb": "https://yt3.ggpht.com/ln9XRahq7NmtKgdDM0sA1g210AOyUOTmwVHwjjX3c3fDahjY85LvWUplPfl1WrFaSR-SvG7V8Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 4.89,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Aditya Bhakthi Hindi",
       "url": "https://www.youtube.com/channel/UCpz5rqSZuEDbE2UTUiy9Glg",
       "firstSeenAt": "2026-09-30T12:31:17.276Z"
+    },
+    {
+      "id": "wiki:Rabhasa (soundtrack)",
+      "type": "wikipedia",
+      "label": "Rabhasa (soundtrack)",
+      "url": "https://en.wikipedia.org/wiki/Rabhasa_(soundtrack)",
+      "firstSeenAt": "2026-11-16T15:40:12.269Z"
     }
   ],
   "recentItems": []
