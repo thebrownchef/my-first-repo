@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC-EnprmCZ3OXyAoG7vjVNCA",
   "title": "Stanford",
   "thumb": "https://yt3.ggpht.com/F8EWZI1AxI_zj8iEg8TKl70L8WBD8yhFYSKI0OY2YNJxXKaPYH2cmpDyUUCr6cAq7KwAtlvlrA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "William C. Dement",
       "url": "https://en.wikipedia.org/wiki/William_C._Dement",
       "firstSeenAt": "2026-11-16T15:40:09.991Z"
+    },
+    {
+      "id": "wiki:Don Norman",
+      "type": "wikipedia",
+      "label": "Don Norman",
+      "url": "https://en.wikipedia.org/wiki/Don_Norman",
+      "firstSeenAt": "2026-11-17T15:56:40.699Z"
     }
   ],
   "recentItems": []

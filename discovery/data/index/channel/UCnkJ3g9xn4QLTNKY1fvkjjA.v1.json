@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCnkJ3g9xn4QLTNKY1fvkjjA",
   "title": "Punkcast",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k-WZJ8ESse_GaGC8Cqt5YFadR99nOKt5LJuMnEQ_TICg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.22,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Morris Levy",
       "url": "https://en.wikipedia.org/wiki/Morris_Levy",
       "firstSeenAt": "2026-11-13T14:31:10.979Z"
+    },
+    {
+      "id": "wiki:Alan Vega",
+      "type": "wikipedia",
+      "label": "Alan Vega",
+      "url": "https://en.wikipedia.org/wiki/Alan_Vega",
+      "firstSeenAt": "2026-11-17T15:56:40.699Z"
     }
   ],
   "recentItems": []

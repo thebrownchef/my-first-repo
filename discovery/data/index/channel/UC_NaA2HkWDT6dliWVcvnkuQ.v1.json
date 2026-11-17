@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC_NaA2HkWDT6dliWVcvnkuQ",
   "title": "Creators",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m6B2s4Ixg818pRwrip1H3JqfKochbi1ANxOrrZKVSpPVk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Anthony Howe (sculptor)",
       "url": "https://en.wikipedia.org/wiki/Anthony_Howe_(sculptor)",
       "firstSeenAt": "2026-11-08T13:19:06.561Z"
+    },
+    {
+      "id": "wiki:Health (band)",
+      "type": "wikipedia",
+      "label": "Health (band)",
+      "url": "https://en.wikipedia.org/wiki/Health_(band)",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
     }
   ],
   "recentItems": []

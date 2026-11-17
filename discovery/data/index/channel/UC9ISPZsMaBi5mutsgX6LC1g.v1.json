@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC9ISPZsMaBi5mutsgX6LC1g",
   "title": "i-D",
   "thumb": "https://yt3.ggpht.com/JPZGxY9gyRoXk7fCWnr3FOeI3z5i7uVRJ3vOJGL0MxumS2ryhgjZoH3SrhRnPWGaR9cH7Nphe-0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Creators",
       "url": "https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ",
       "firstSeenAt": "2026-10-13T14:08:17.020Z"
+    },
+    {
+      "id": "wiki:MØ",
+      "type": "wikipedia",
+      "label": "MØ",
+      "url": "https://en.wikipedia.org/wiki/M%C3%98",
+      "firstSeenAt": "2026-11-17T15:56:40.699Z"
     }
   ],
   "recentItems": []

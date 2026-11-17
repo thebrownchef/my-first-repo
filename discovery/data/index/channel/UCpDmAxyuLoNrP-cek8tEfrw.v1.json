@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCpDmAxyuLoNrP-cek8tEfrw",
   "title": "celldweller",
   "thumb": "https://yt3.ggpht.com/2ZnP0zxQsvXRgGWT4-hrRxc2KI4Wm3WcWuSvjKfXwgbSdz-mJWQgk4LMFrsubwkiyzaDGrWAgA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Celldweller discography",
       "url": "https://en.wikipedia.org/wiki/Celldweller_discography",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:Demo Vault Vol. 01",
+      "type": "wikipedia",
+      "label": "Demo Vault Vol. 01",
+      "url": "https://en.wikipedia.org/wiki/Demo_Vault_Vol._01",
+      "firstSeenAt": "2026-11-17T15:56:45.708Z"
     }
   ],
   "recentItems": []

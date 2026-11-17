@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCtcEBK496kxrJE1rhOf4I0w",
   "title": "talkingsticktv",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mEbZRFXYoAynTe9ZIaDyFsT6De68d4NuhaLjbDezCRiQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Project Gnome (nuclear test)",
       "url": "https://en.wikipedia.org/wiki/Project_Gnome_(nuclear_test)",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Bait and Switch (book)",
+      "type": "wikipedia",
+      "label": "Bait and Switch (book)",
+      "url": "https://en.wikipedia.org/wiki/Bait_and_Switch_(book)",
+      "firstSeenAt": "2026-11-17T15:56:45.707Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCZkURf9tDolFOeuw_4RD7XQ",
   "title": "Demi Lovato",
   "thumb": "https://yt3.ggpht.com/FyDHPMVphY--_6Pm9S01jaHedRn_xQ-ZSxZ8Uqd4QRbwEPWRlhyXqRqs5fNWxza64vk2Pp5NOQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "rikke kempf",
       "url": "https://www.youtube.com/channel/UCqnWs-kX0mImRJEjDBC05tw",
       "firstSeenAt": "2026-10-29T12:56:44.583Z"
+    },
+    {
+      "id": "wiki:Demi World Tour",
+      "type": "wikipedia",
+      "label": "Demi World Tour",
+      "url": "https://en.wikipedia.org/wiki/Demi_World_Tour",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
     }
   ],
   "recentItems": []

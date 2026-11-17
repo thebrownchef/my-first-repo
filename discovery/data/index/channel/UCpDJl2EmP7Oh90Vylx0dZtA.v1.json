@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCpDJl2EmP7Oh90Vylx0dZtA",
   "title": "Spinnin' Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lAEdCN-f5liiRVIRudaJzXbIsroI3oe-4QoemUi6t8RqI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 0,
   "uploadsPerDay": 1.93,
   "sources": [
@@ -120,6 +120,13 @@
       "label": "Tremor (song)",
       "url": "https://en.wikipedia.org/wiki/Tremor_(song)",
       "firstSeenAt": "2026-11-14T13:27:58.304Z"
+    },
+    {
+      "id": "wiki:Edward John Drake",
+      "type": "wikipedia",
+      "label": "Edward John Drake",
+      "url": "https://en.wikipedia.org/wiki/Edward_John_Drake",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCj4PxzfWBNV9vIdEPkglrrg",
   "title": "FoundationINTERVIEWS",
   "thumb": "https://yt3.ggpht.com/upfgtJrTmgKsCwqUcvKvPSo9oubP96yMVPMB8TrV1MZ98B6XBzW-puwaM9387lHI-yPhW6Wqk7U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 2.01,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Bill Dana",
       "url": "https://en.wikipedia.org/wiki/Bill_Dana",
       "firstSeenAt": "2026-11-15T13:53:31.355Z"
+    },
+    {
+      "id": "wiki:Dick Smothers",
+      "type": "wikipedia",
+      "label": "Dick Smothers",
+      "url": "https://en.wikipedia.org/wiki/Dick_Smothers",
+      "firstSeenAt": "2026-11-17T15:56:40.699Z"
+    },
+    {
+      "id": "wiki:The Great Gazoo",
+      "type": "wikipedia",
+      "label": "The Great Gazoo",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Gazoo",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
     }
   ],
   "recentItems": []

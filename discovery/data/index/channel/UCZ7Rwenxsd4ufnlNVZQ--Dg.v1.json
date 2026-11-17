@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCZ7Rwenxsd4ufnlNVZQ--Dg",
   "title": "ColbieCaillatVEVO",
   "thumb": "https://yt3.ggpht.com/KUcdi8xqjnqSUvAO5rvlelFgd6YyFgPjtAj56CSbNAzlrEgV9t9IS17qUotMbvGSyEm7pC2tWQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "I Never Told You",
       "url": "https://en.wikipedia.org/wiki/I_Never_Told_You",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Bubbly",
+      "type": "wikipedia",
+      "label": "Bubbly",
+      "url": "https://en.wikipedia.org/wiki/Bubbly",
+      "firstSeenAt": "2026-11-17T15:56:40.699Z"
     }
   ],
   "recentItems": []

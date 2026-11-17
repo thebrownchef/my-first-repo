@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC_gE-kg7JvuwCNlbZ1-shlA",
   "title": "SourceFed",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n0DmvX5e8VPC4KB0mUR7cbCR1vRSY1y65sLWzfmH8tPBo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.84,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Lee Newton",
       "url": "https://en.wikipedia.org/wiki/Lee_Newton",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:Steve Zaragoza",
+      "type": "wikipedia",
+      "label": "Steve Zaragoza",
+      "url": "https://en.wikipedia.org/wiki/Steve_Zaragoza",
+      "firstSeenAt": "2026-11-17T15:56:45.707Z"
     }
   ],
   "recentItems": []

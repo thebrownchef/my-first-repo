@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC0hP4NCSzvRGIFrs_ZrXxWg",
   "title": "ZEA2011",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nJU4hjCWEhqkhH2SJL2BhBl9bjBfNZWUe84Pi2ByRS4A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "jewelry0127",
       "url": "https://www.youtube.com/channel/UCbUprAQrminyRhZ6kkyBf5g",
       "firstSeenAt": "2026-10-16T11:19:35.920Z"
+    },
+    {
+      "id": "wiki:Illusion (ZE:A EP)",
+      "type": "wikipedia",
+      "label": "Illusion (ZE:A EP)",
+      "url": "https://en.wikipedia.org/wiki/Illusion_(ZE%3AA_EP)",
+      "firstSeenAt": "2026-11-17T15:56:45.707Z"
     }
   ],
   "recentItems": []

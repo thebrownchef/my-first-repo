@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCoQIdt0bWPv3-_xuybJvTjQ",
   "title": "woolliment",
   "thumb": "https://yt3.ggpht.com/jf2nwkavgbYjogGSQeOBAApe0RX5-eTzLZHaUAhh7aqqjV0LZvcBt5C4NTNQIdrW1KIZ2RWj=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -50,6 +50,34 @@
       "label": "Over the Top (Infinite album)",
       "url": "https://en.wikipedia.org/wiki/Over_the_Top_(Infinite_album)",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:BTD (Before the Dawn)",
+      "type": "wikipedia",
+      "label": "BTD (Before the Dawn)",
+      "url": "https://en.wikipedia.org/wiki/BTD_(Before_the_Dawn)",
+      "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:Inspirit",
+      "type": "wikipedia",
+      "label": "Inspirit",
+      "url": "https://en.wikipedia.org/wiki/Inspirit",
+      "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:First Invasion",
+      "type": "wikipedia",
+      "label": "First Invasion",
+      "url": "https://en.wikipedia.org/wiki/First_Invasion",
+      "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:Fly High (EP)",
+      "type": "wikipedia",
+      "label": "Fly High (EP)",
+      "url": "https://en.wikipedia.org/wiki/Fly_High_(EP)",
+      "firstSeenAt": "2026-11-17T15:56:45.707Z"
     }
   ],
   "recentItems": []

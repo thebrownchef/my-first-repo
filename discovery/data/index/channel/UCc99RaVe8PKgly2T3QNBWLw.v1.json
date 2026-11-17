@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCc99RaVe8PKgly2T3QNBWLw",
   "title": "CUNY TV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mYoF0_tgfLikeyBGFVKl-mG-va15J41-AxHM_3zQVkPHQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.69,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Arthur G. Cohen",
       "url": "https://en.wikipedia.org/wiki/Arthur_G._Cohen",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Margaret Edson",
+      "type": "wikipedia",
+      "label": "Margaret Edson",
+      "url": "https://en.wikipedia.org/wiki/Margaret_Edson",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC2emFVHGsXm9uF5wTtgQCYA",
   "title": "cavettbiter",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nE6QUJvbncCOYt6nhlCiUAJQNwDpFS9xQf4Y_1CAFKUw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Robert Altman",
       "url": "https://en.wikipedia.org/wiki/Robert_Altman",
       "firstSeenAt": "2026-11-13T14:31:16.362Z"
+    },
+    {
+      "id": "wiki:Mel Lyman",
+      "type": "wikipedia",
+      "label": "Mel Lyman",
+      "url": "https://en.wikipedia.org/wiki/Mel_Lyman",
+      "firstSeenAt": "2026-11-17T15:56:45.708Z"
     }
   ],
   "recentItems": []

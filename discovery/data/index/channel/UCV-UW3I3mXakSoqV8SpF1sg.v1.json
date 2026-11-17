@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCV-UW3I3mXakSoqV8SpF1sg",
   "title": "OwlCityVEVO",
   "thumb": "https://yt3.ggpht.com/MxF4wSdHxOofOJx2nZDyvHjPMxZ8oc6m053Q1GRBmWlHIfhxFvYjvZy6I30vNTxlvrV1Rp33yA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Good Time (Owl City and Carly Rae Jepsen song)",
       "url": "https://en.wikipedia.org/wiki/Good_Time_(Owl_City_and_Carly_Rae_Jepsen_song)",
       "firstSeenAt": "2026-10-19T13:08:24.288Z"
+    },
+    {
+      "id": "wiki:Ultraviolet (EP)",
+      "type": "wikipedia",
+      "label": "Ultraviolet (EP)",
+      "url": "https://en.wikipedia.org/wiki/Ultraviolet_(EP)",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
     }
   ],
   "recentItems": []

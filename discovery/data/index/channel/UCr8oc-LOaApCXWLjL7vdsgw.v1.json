@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCr8oc-LOaApCXWLjL7vdsgw",
   "title": "UKF Drum & Bass",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k3nN68nlBpzWfkmEb4WYvDLPiYPc5l3aS4MQKnoyT4JiY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Deepest Shame",
       "url": "https://en.wikipedia.org/wiki/Deepest_Shame",
       "firstSeenAt": "2026-10-15T11:24:52.679Z"
+    },
+    {
+      "id": "wiki:Live Life Living",
+      "type": "wikipedia",
+      "label": "Live Life Living",
+      "url": "https://en.wikipedia.org/wiki/Live_Life_Living",
+      "firstSeenAt": "2026-11-17T15:56:45.708Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC1l7wYrva1qCH-wgqcHaaRg",
   "title": "David Guetta",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKPoGkfw44ICB715GPlzNDsmqZdlwewB1QGa9K4vD94o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Blast Off (song)",
       "url": "https://en.wikipedia.org/wiki/Blast_Off_(song)",
       "firstSeenAt": "2026-11-14T13:28:02.869Z"
+    },
+    {
+      "id": "wiki:The Alphabeat (song)",
+      "type": "wikipedia",
+      "label": "The Alphabeat (song)",
+      "url": "https://en.wikipedia.org/wiki/The_Alphabeat_(song)",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
     }
   ],
   "recentItems": []

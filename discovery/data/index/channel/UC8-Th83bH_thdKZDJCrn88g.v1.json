@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC8-Th83bH_thdKZDJCrn88g",
   "title": "The Tonight Show Starring Jimmy Fallon",
   "thumb": "https://yt3.ggpht.com/dMLBgfSb5pbD24Euw893rUr6aB8fZQWFUBrMUNTwuc-JDGY43yh-whGj0r-Um0UcBo_e8LPAUg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.96,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Jay Leno's Garage",
       "url": "https://www.youtube.com/channel/UCQMELFlXQL38KPm8kM-4Adg",
       "firstSeenAt": "2026-10-21T11:44:59.600Z"
+    },
+    {
+      "id": "wiki:2010 Tonight Show conflict",
+      "type": "wikipedia",
+      "label": "2010 Tonight Show conflict",
+      "url": "https://en.wikipedia.org/wiki/2010_Tonight_Show_conflict",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
     }
   ],
   "recentItems": []

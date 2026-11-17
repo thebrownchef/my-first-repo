@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCWcrr8Q9INGNp-PTCLTzc8Q",
   "title": "Troye Sivan",
   "thumb": "https://yt3.ggpht.com/4NVzks3n48wrYGwbChyFYSsJZj2qAnVXEsEbJWBERNw1q6vPEVvz06ZmEfraaE6g0FYfj6SV=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "List of gay, lesbian or bisexual people: Sd–Si",
       "url": "https://en.wikipedia.org/wiki/List_of_gay%2C_lesbian_or_bisexual_people%3A_Sd%E2%80%93Si",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:TRXYE",
+      "type": "wikipedia",
+      "label": "TRXYE",
+      "url": "https://en.wikipedia.org/wiki/TRXYE",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
     }
   ],
   "recentItems": []

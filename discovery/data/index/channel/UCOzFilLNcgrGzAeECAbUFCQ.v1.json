@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCOzFilLNcgrGzAeECAbUFCQ",
   "title": "Film at Lincoln Center",
   "thumb": "https://yt3.ggpht.com/4sgZBOFHujj0KTvIC0kPe0juYpNAUV-p7BBHZOgDX1m0enRHEPJ2XLYGZY-mqr2XAM2aqB_N=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.71,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Tulpan",
       "url": "https://en.wikipedia.org/wiki/Tulpan",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Ang Lee",
+      "type": "wikipedia",
+      "label": "Ang Lee",
+      "url": "https://en.wikipedia.org/wiki/Ang_Lee",
+      "firstSeenAt": "2026-11-17T15:56:40.699Z"
     }
   ],
   "recentItems": []

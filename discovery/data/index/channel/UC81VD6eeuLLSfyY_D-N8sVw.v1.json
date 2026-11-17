@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC81VD6eeuLLSfyY_D-N8sVw",
   "title": "Madonna",
   "thumb": "https://yt3.ggpht.com/N9-5OOHM8mPIG7Yw5xlOWhh4GYVOhYR1tkk6RgP_fVbVcWOgUYbTNRMofCtEvjT580WJ4uNl=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Vogue (song)",
       "url": "https://en.wikipedia.org/wiki/Vogue_(song)",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "wiki:Give Me All Your Luvin'",
+      "type": "wikipedia",
+      "label": "Give Me All Your Luvin'",
+      "url": "https://en.wikipedia.org/wiki/Give_Me_All_Your_Luvin'",
+      "firstSeenAt": "2026-11-17T15:56:45.708Z"
     }
   ],
   "recentItems": []

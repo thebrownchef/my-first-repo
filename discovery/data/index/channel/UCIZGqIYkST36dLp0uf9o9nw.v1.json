@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCIZGqIYkST36dLp0uf9o9nw",
   "title": "The Notorious B.I.G.",
   "thumb": "https://yt3.ggpht.com/5KECHi8UzrIUi2ltkHsZDWvHLlD0DapKGBSkKfwjhzi8VFiBnnXglzV758ZpsZbTCnZrFTKukg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Spit Your Game",
       "url": "https://en.wikipedia.org/wiki/Spit_Your_Game",
       "firstSeenAt": "2026-11-05T14:35:30.322Z"
+    },
+    {
+      "id": "wiki:Sky's the Limit (The Notorious B.I.G. song)",
+      "type": "wikipedia",
+      "label": "Sky's the Limit (The Notorious B.I.G. song)",
+      "url": "https://en.wikipedia.org/wiki/Sky's_the_Limit_(The_Notorious_B.I.G._song)",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
+    },
+    {
+      "id": "wiki:Notorious B.I.G. (song)",
+      "type": "wikipedia",
+      "label": "Notorious B.I.G. (song)",
+      "url": "https://en.wikipedia.org/wiki/Notorious_B.I.G._(song)",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
     }
   ],
   "recentItems": []

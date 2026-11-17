@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCrZ0y934oVlOZkJaQDD19dQ",
   "title": "B2Ment",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l7sPM01N7si_URuA6mW6QEOTQvCRkhESyYLNN8QdBXPA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Life (EP)",
       "url": "https://en.wikipedia.org/wiki/Life_(EP)",
       "firstSeenAt": "2026-11-16T15:40:09.991Z"
+    },
+    {
+      "id": "wiki:Tonight (Spica song)",
+      "type": "wikipedia",
+      "label": "Tonight (Spica song)",
+      "url": "https://en.wikipedia.org/wiki/Tonight_(Spica_song)",
+      "firstSeenAt": "2026-11-17T15:56:40.699Z"
     }
   ],
   "recentItems": []

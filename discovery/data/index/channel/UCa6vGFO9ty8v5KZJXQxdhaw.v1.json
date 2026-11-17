@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCa6vGFO9ty8v5KZJXQxdhaw",
   "title": "Jimmy Kimmel Live",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhbMFP_RRAtTgX-58mKKhuVG_P-qESOBnMDiPE0vhJgEMm=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.11,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "American Idol",
       "url": "https://www.youtube.com/channel/UCAMPco9PqjBbI_MLsDOO4Jw",
       "firstSeenAt": "2026-09-15T11:41:51.256Z"
+    },
+    {
+      "id": "wiki:Ronny Chieng",
+      "type": "wikipedia",
+      "label": "Ronny Chieng",
+      "url": "https://en.wikipedia.org/wiki/Ronny_Chieng",
+      "firstSeenAt": "2026-11-17T15:56:51.619Z"
     }
   ],
   "recentItems": []

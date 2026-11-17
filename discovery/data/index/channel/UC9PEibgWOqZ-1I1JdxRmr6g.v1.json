@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC9PEibgWOqZ-1I1JdxRmr6g",
   "title": "Walk off the Earth",
   "thumb": "https://yt3.ggpht.com/0asdJcOGfKQKBuYf2yE6Mq3j1qkMWOoyD9ig1DC5JnDy8Ghadv8L0n5V0C7a0yekQJJ8c78RPVE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Julia Nunes",
       "url": "https://en.wikipedia.org/wiki/Julia_Nunes",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:KRNFX",
+      "type": "wikipedia",
+      "label": "KRNFX",
+      "url": "https://en.wikipedia.org/wiki/KRNFX",
+      "firstSeenAt": "2026-11-17T15:56:45.708Z"
     }
   ],
   "recentItems": []

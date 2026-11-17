@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC8mnXeOlR9hC2w8aYqY9WNQ",
   "title": "Loudwire",
   "thumb": "https://yt3.ggpht.com/0JXycQPdYxRw39oNUgmCAHS6-0of4Owg5XCzDcGqHgwuDDic6LvAjwEjA1m-ZkFxCCkjVWizLA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.74,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Deliverance (Opeth album)",
       "url": "https://en.wikipedia.org/wiki/Deliverance_(Opeth_album)",
       "firstSeenAt": "2026-11-09T16:12:25.574Z"
+    },
+    {
+      "id": "wiki:Opeth",
+      "type": "wikipedia",
+      "label": "Opeth",
+      "url": "https://en.wikipedia.org/wiki/Opeth",
+      "firstSeenAt": "2026-11-17T15:56:45.708Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCUGUK3KIj0jf02JRDfd2DXA",
   "title": "Strombo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lkotO8B7BmCgCZvFuD4MhKfFVGNj9uDFpIWm1N8fwx0g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.38,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Inigo Montoya",
       "url": "https://en.wikipedia.org/wiki/Inigo_Montoya",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:The Amazing Kreskin",
+      "type": "wikipedia",
+      "label": "The Amazing Kreskin",
+      "url": "https://en.wikipedia.org/wiki/The_Amazing_Kreskin",
+      "firstSeenAt": "2026-11-17T15:56:45.707Z"
     }
   ],
   "recentItems": []

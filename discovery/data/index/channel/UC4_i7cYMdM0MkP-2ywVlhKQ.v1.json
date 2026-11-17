@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UC4_i7cYMdM0MkP-2ywVlhKQ",
   "title": "הטכניון - מכון טכנולוגי לישראל",
   "thumb": "https://yt3.ggpht.com/u-MlQhgY-fSYqi8djpU9_Es4H4D4y88MfMfEsXqcjdv3IHDH89mZTNU5Ano4nc_yT4GMufJAeg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.81,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Technion – Israel Institute of Technology",
       "url": "https://en.wikipedia.org/wiki/Technion_%E2%80%93_Israel_Institute_of_Technology",
       "firstSeenAt": "2026-11-14T13:27:58.305Z"
+    },
+    {
+      "id": "wiki:David Eisenberg",
+      "type": "wikipedia",
+      "label": "David Eisenberg",
+      "url": "https://en.wikipedia.org/wiki/David_Eisenberg",
+      "firstSeenAt": "2026-11-17T15:56:40.699Z"
     }
   ],
   "recentItems": []

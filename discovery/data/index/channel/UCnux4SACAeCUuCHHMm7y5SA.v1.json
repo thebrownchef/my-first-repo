@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCnux4SACAeCUuCHHMm7y5SA",
   "title": "ACBLSorrento",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nDJB8Reu4n6c9tQHYtyOoaFRYZJ7d9-MkOLft6kuA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Eric Murray (bridge)",
       "url": "https://en.wikipedia.org/wiki/Eric_Murray_(bridge)",
       "firstSeenAt": "2026-11-16T15:40:08.291Z"
+    },
+    {
+      "id": "wiki:Sami Kehela",
+      "type": "wikipedia",
+      "label": "Sami Kehela",
+      "url": "https://en.wikipedia.org/wiki/Sami_Kehela",
+      "firstSeenAt": "2026-11-17T15:56:40.698Z"
     }
   ],
   "recentItems": []

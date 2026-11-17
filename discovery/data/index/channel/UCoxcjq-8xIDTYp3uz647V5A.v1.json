@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCoxcjq-8xIDTYp3uz647V5A",
   "title": "Numberphile",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nmbQSAGKk1OZCBBf_sPJqLoFfYOVDWRDzALocBjGQtHeI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -106,6 +106,20 @@
       "label": "mycompasstv",
       "url": "https://www.youtube.com/channel/UC_s-h6_OndKi-z4dm4Z_CiQ",
       "firstSeenAt": "2026-11-09T16:12:39.235Z"
+    },
+    {
+      "id": "wiki:Look-and-say sequence",
+      "type": "wikipedia",
+      "label": "Look-and-say sequence",
+      "url": "https://en.wikipedia.org/wiki/Look-and-say_sequence",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:John Horton Conway",
+      "type": "wikipedia",
+      "label": "John Horton Conway",
+      "url": "https://en.wikipedia.org/wiki/John_Horton_Conway",
+      "firstSeenAt": "2026-11-17T15:56:43.259Z"
     }
   ],
   "recentItems": []

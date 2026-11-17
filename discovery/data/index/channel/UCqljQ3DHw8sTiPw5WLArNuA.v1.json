@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCqljQ3DHw8sTiPw5WLArNuA",
   "title": "westlifeVEVO",
   "thumb": "https://yt3.ggpht.com/whsh6fH7B9ClIZWPSyrYk9vuJ6CGzLxn0nQfH2vL3IOXPXpDgVqGdhy1LX6pfSZp_j8zmw6o7w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Swear It Again",
       "url": "https://en.wikipedia.org/wiki/Swear_It_Again",
       "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:Beautiful World (Westlife song)",
+      "type": "wikipedia",
+      "label": "Beautiful World (Westlife song)",
+      "url": "https://en.wikipedia.org/wiki/Beautiful_World_(Westlife_song)",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
     }
   ],
   "recentItems": []

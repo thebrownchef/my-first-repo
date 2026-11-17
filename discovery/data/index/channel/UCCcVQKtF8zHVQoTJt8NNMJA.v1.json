@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 78,
-  "distinctSourceCount": 78,
+  "score": 79,
+  "distinctSourceCount": 79,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -554,6 +554,13 @@
       "label": "Beasts of Burden (Defiance)",
       "url": "https://en.wikipedia.org/wiki/Beasts_of_Burden_(Defiance)",
       "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:Put the Damage On",
+      "type": "wikipedia",
+      "label": "Put the Damage On",
+      "url": "https://en.wikipedia.org/wiki/Put_the_Damage_On",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
     }
   ],
   "recentItems": [

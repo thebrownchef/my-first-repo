@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "id": "UC9LQwHZoucFT94I2h6JOcjw",
+  "title": "Liverpool FC",
+  "thumb": "https://yt3.ggpht.com/PKM1Q5b-5xSCNN-uhLBADnPMeweaERe-u9tk4D0Pehvw5HMIbul7JY_64JDzadUCigZTQK0iNQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 1.37,
+  "sources": [
+    {
+      "id": "channel:UCnQpt1UxLq00NFULxTDHMww",
+      "type": "channel",
+      "label": "Barclays Women's Super League",
+      "url": "https://www.youtube.com/channel/UCnQpt1UxLq00NFULxTDHMww",
+      "firstSeenAt": "2026-08-28T18:39:40.414Z"
+    },
+    {
+      "id": "wiki:One Night in Istanbul",
+      "type": "wikipedia",
+      "label": "One Night in Istanbul",
+      "url": "https://en.wikipedia.org/wiki/One_Night_in_Istanbul",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    }
+  ],
+  "recentItems": []
+}

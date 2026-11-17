@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCfTfuTTALrsxUWjisrdOWtA",
   "title": "Cornell University",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kYNOPFdg1JKOMmPxYBtAG3_jMD1GrAW_do3Ra01giXbcg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Peter Eisenman",
       "url": "https://en.wikipedia.org/wiki/Peter_Eisenman",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Richard Meier",
+      "type": "wikipedia",
+      "label": "Richard Meier",
+      "url": "https://en.wikipedia.org/wiki/Richard_Meier",
+      "firstSeenAt": "2026-11-17T15:56:40.698Z"
     }
   ],
   "recentItems": []

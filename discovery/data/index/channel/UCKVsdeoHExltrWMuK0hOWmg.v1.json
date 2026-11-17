@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCKVsdeoHExltrWMuK0hOWmg",
   "title": "KTN News Kenya",
   "thumb": "https://yt3.ggpht.com/_mzOQ0PLJxAi8imGLd7sICwGcIN5sDxisZgMftoM4FW0_UuRRGHGCmcWhv8cqPqPcVQcpVKh=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 30.13,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "2026 Utumishi Girls' Academy fire",
       "url": "https://en.wikipedia.org/wiki/2026_Utumishi_Girls'_Academy_fire",
       "firstSeenAt": "2026-09-06T10:53:20.279Z"
+    },
+    {
+      "id": "wiki:Quincy Timberlake",
+      "type": "wikipedia",
+      "label": "Quincy Timberlake",
+      "url": "https://en.wikipedia.org/wiki/Quincy_Timberlake",
+      "firstSeenAt": "2026-11-17T15:56:43.258Z"
     }
   ],
   "recentItems": []

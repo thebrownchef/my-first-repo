@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCx89bvvQfMADlkETZq5l4Ug",
   "title": "Yale Press",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ka2V4_9XQ6fHKow1lwFgF_itRbzxc8Mv5bGYJML_oj4kU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Yale University Channels",
       "url": "https://www.youtube.com/channel/UCGF_z7NNup6feP3ry_mRxnA",
       "firstSeenAt": "2026-10-31T12:22:33.921Z"
+    },
+    {
+      "id": "wiki:Jerome Charyn",
+      "type": "wikipedia",
+      "label": "Jerome Charyn",
+      "url": "https://en.wikipedia.org/wiki/Jerome_Charyn",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
     }
   ],
   "recentItems": []

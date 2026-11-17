@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCtzK8e1SQZ2YntwF80ORJ9Q",
   "title": "GM",
   "thumb": "https://yt3.ggpht.com/aOWuVsl3x7UAzfEDKSq9oRnBv30RRAda0LVfz1-gUifnb8GydL4jVUhSbE2YN7xhCFx51kIdFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Alvin Toffler",
       "url": "https://en.wikipedia.org/wiki/Alvin_Toffler",
       "firstSeenAt": "2026-11-15T13:53:33.394Z"
+    },
+    {
+      "id": "wiki:Herb Goldberg",
+      "type": "wikipedia",
+      "label": "Herb Goldberg",
+      "url": "https://en.wikipedia.org/wiki/Herb_Goldberg",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:41:50.294Z",
+  "generatedAt": "2026-11-17T15:58:17.377Z",
   "id": "UCbUZqaAX4fliIM6RYJ-oFTw",
   "title": "ChaseAndStatusVEVO",
   "thumb": "https://yt3.ggpht.com/FRDxpCJfY_SIRMSGwcGpH8O3eg4wC5uRjis94rpdnloXTkBCrozypTvNVHbH-2BRAxJ_FDCZxSg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Flashing Lights (Chase & Status and Sub Focus song)",
       "url": "https://en.wikipedia.org/wiki/Flashing_Lights_(Chase_%26_Status_and_Sub_Focus_song)",
       "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:International (Chase & Status song)",
+      "type": "wikipedia",
+      "label": "International (Chase & Status song)",
+      "url": "https://en.wikipedia.org/wiki/International_(Chase_%26_Status_song)",
+      "firstSeenAt": "2026-11-17T15:56:45.708Z"
     }
   ],
   "recentItems": []
