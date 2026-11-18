@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "id": "UC416BswuE2ItX23GySxZcRQ",
+  "title": "National Gallery of Art",
+  "thumb": "https://yt3.ggpht.com/gc4KSsfNA6UbI7MNV8Kz32wqSZ7DYylLMZ6tFO89AaFWqP87FJbjMKJGmkZNYP8PAALhGsFz0A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.08,
+  "sources": [
+    {
+      "id": "wiki:George Bellows",
+      "type": "wikipedia",
+      "label": "George Bellows",
+      "url": "https://en.wikipedia.org/wiki/George_Bellows",
+      "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:Girl with a Red Hat",
+      "type": "wikipedia",
+      "label": "Girl with a Red Hat",
+      "url": "https://en.wikipedia.org/wiki/Girl_with_a_Red_Hat",
+      "firstSeenAt": "2026-11-18T15:35:39.404Z"
+    }
+  ],
+  "recentItems": []
+}

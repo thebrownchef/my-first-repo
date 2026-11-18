@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UC4_i7cYMdM0MkP-2ywVlhKQ",
   "title": "הטכניון - מכון טכנולוגי לישראל",
   "thumb": "https://yt3.ggpht.com/u-MlQhgY-fSYqi8djpU9_Es4H4D4y88MfMfEsXqcjdv3IHDH89mZTNU5Ano4nc_yT4GMufJAeg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.81,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "David Eisenberg",
       "url": "https://en.wikipedia.org/wiki/David_Eisenberg",
       "firstSeenAt": "2026-11-17T15:56:40.699Z"
+    },
+    {
+      "id": "wiki:Anders Lindquist",
+      "type": "wikipedia",
+      "label": "Anders Lindquist",
+      "url": "https://en.wikipedia.org/wiki/Anders_Lindquist",
+      "firstSeenAt": "2026-11-18T15:35:42.169Z"
     }
   ],
   "recentItems": []

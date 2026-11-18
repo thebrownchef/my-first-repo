@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCWCPNq8nLTN23WTBbrkNAFQ",
   "title": "CFHOFandM",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n38Ubu5VVnL_eTZzRx95Ze1HKehJ5LNqOgrUv9TORV1Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -57,6 +57,27 @@
       "label": "John Barrow (Canadian football)",
       "url": "https://en.wikipedia.org/wiki/John_Barrow_(Canadian_football)",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Russ Jackson",
+      "type": "wikipedia",
+      "label": "Russ Jackson",
+      "url": "https://en.wikipedia.org/wiki/Russ_Jackson",
+      "firstSeenAt": "2026-11-18T15:35:37.006Z"
+    },
+    {
+      "id": "wiki:Ted Urness",
+      "type": "wikipedia",
+      "label": "Ted Urness",
+      "url": "https://en.wikipedia.org/wiki/Ted_Urness",
+      "firstSeenAt": "2026-11-18T15:35:37.007Z"
+    },
+    {
+      "id": "wiki:Bill Symons",
+      "type": "wikipedia",
+      "label": "Bill Symons",
+      "url": "https://en.wikipedia.org/wiki/Bill_Symons",
+      "firstSeenAt": "2026-11-18T15:35:42.169Z"
     }
   ],
   "recentItems": []

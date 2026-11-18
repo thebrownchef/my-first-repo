@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCvC4D8onUfXzvjTOM-dBfEA",
   "title": "Marvel Entertainment",
   "thumb": "https://yt3.ggpht.com/k7BhK-hm9_MbJbaKznHPhir6e4pWXbm1ppAHoseLIzRgoAPBMmH1IIhYKlXbGono25RD1OQwHQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.37,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Sapphire Studios",
       "url": "https://www.youtube.com/channel/UCFQI1-YjyUGcxqU54xcDGlg",
       "firstSeenAt": "2026-11-04T14:28:32.887Z"
+    },
+    {
+      "id": "wiki:Guardians of the Galaxy (film)",
+      "type": "wikipedia",
+      "label": "Guardians of the Galaxy (film)",
+      "url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)",
+      "firstSeenAt": "2026-11-18T15:35:39.404Z"
     }
   ],
   "recentItems": []

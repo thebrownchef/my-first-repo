@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCWD4BMsJmEPIoYKVy1kWmKQ",
   "title": "Mark Thoma",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m24YkYkypexl7aZTw4hmed6FxmTLGo8bOo7uyOtDK1qxnT=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,69 @@
       "label": "Logistic regression",
       "url": "https://en.wikipedia.org/wiki/Logistic_regression",
       "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:F-test",
+      "type": "wikipedia",
+      "label": "F-test",
+      "url": "https://en.wikipedia.org/wiki/F-test",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Student's t-test",
+      "type": "wikipedia",
+      "label": "Student's t-test",
+      "url": "https://en.wikipedia.org/wiki/Student's_t-test",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Autoregressive model",
+      "type": "wikipedia",
+      "label": "Autoregressive model",
+      "url": "https://en.wikipedia.org/wiki/Autoregressive_model",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Econometric model",
+      "type": "wikipedia",
+      "label": "Econometric model",
+      "url": "https://en.wikipedia.org/wiki/Econometric_model",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Reduced form",
+      "type": "wikipedia",
+      "label": "Reduced form",
+      "url": "https://en.wikipedia.org/wiki/Reduced_form",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Instrumental variables",
+      "type": "wikipedia",
+      "label": "Instrumental variables",
+      "url": "https://en.wikipedia.org/wiki/Instrumental_variables",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Probit model",
+      "type": "wikipedia",
+      "label": "Probit model",
+      "url": "https://en.wikipedia.org/wiki/Probit_model",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Goldfeld–Quandt test",
+      "type": "wikipedia",
+      "label": "Goldfeld–Quandt test",
+      "url": "https://en.wikipedia.org/wiki/Goldfeld%E2%80%93Quandt_test",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Consistent estimator",
+      "type": "wikipedia",
+      "label": "Consistent estimator",
+      "url": "https://en.wikipedia.org/wiki/Consistent_estimator",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
     }
   ],
   "recentItems": []

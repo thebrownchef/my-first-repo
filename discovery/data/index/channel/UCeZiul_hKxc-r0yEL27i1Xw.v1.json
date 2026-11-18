@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCeZiul_hKxc-r0yEL27i1Xw",
   "title": "3 Beat",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZweZgSZxJh8UFgpRwS4PslvuycsZ5mNYoJIyVHKoxQes=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Nobody to Love",
       "url": "https://en.wikipedia.org/wiki/Nobody_to_Love",
       "firstSeenAt": "2026-11-07T12:56:36.817Z"
+    },
+    {
+      "id": "wiki:Changing (Sigma song)",
+      "type": "wikipedia",
+      "label": "Changing (Sigma song)",
+      "url": "https://en.wikipedia.org/wiki/Changing_(Sigma_song)",
+      "firstSeenAt": "2026-11-18T15:35:39.404Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UClVrJwcIy7saPcGc1nct80A",
   "title": "Fueled By Ramen",
   "thumb": "https://yt3.ggpht.com/DSRM5zRas-sat4nQdrw6ntW8MCI8GcxsxYJPdE6Pj53CFwK6gVd9xWTCErd8xom3fAoapwN2=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "Some Nights (song)",
       "url": "https://en.wikipedia.org/wiki/Some_Nights_(song)",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Ghost Town (band)",
+      "type": "wikipedia",
+      "label": "Ghost Town (band)",
+      "url": "https://en.wikipedia.org/wiki/Ghost_Town_(band)",
+      "firstSeenAt": "2026-11-18T15:35:39.405Z"
     }
   ],
   "recentItems": [

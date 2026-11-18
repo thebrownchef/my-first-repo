@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCoEqHpK5VNVEBRvwL0EW8Gw",
   "title": "ITV",
   "thumb": "https://yt3.ggpht.com/Po0AejKZ0dGPAggCR4C0zoXXaCzAfpbbCAgZTOwxMPjavxeLVCja74yYZ_tVlbYalqQ5g9cFHqU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.56,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "The Jonathan Ross Show",
       "url": "https://www.youtube.com/channel/UCgurmV2nVq_1DUb2pvGOKmg",
       "firstSeenAt": "2026-11-12T15:08:52.323Z"
+    },
+    {
+      "id": "wiki:Exposure (British TV series)",
+      "type": "wikipedia",
+      "label": "Exposure (British TV series)",
+      "url": "https://en.wikipedia.org/wiki/Exposure_(British_TV_series)",
+      "firstSeenAt": "2026-11-18T15:35:39.404Z"
     }
   ],
   "recentItems": []

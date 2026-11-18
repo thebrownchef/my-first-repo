@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCZaT_X_mc0BI-djXOlfhqWQ",
   "title": "VICE News",
   "thumb": "https://yt3.ggpht.com/5-T_4OQwbVFrezPHUc3VP3wCyqo8nZ-VMOpJA_nppoxnZ6IhSVx1PrJPgfFkxD4Z8c5eDuQ9XQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 0,
-  "uploadsPerDay": 1.49,
+  "uploadsPerDay": 1.48,
   "sources": [
     {
       "id": "wiki:2021 Cuban protests",
@@ -120,6 +120,13 @@
       "label": "First Battle of Donetsk Airport",
       "url": "https://en.wikipedia.org/wiki/First_Battle_of_Donetsk_Airport",
       "firstSeenAt": "2026-11-13T14:31:13.886Z"
+    },
+    {
+      "id": "wiki:Vice News",
+      "type": "wikipedia",
+      "label": "Vice News",
+      "url": "https://en.wikipedia.org/wiki/Vice_News",
+      "firstSeenAt": "2026-11-18T15:35:40.191Z"
     }
   ],
   "recentItems": []

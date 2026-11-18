@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UChXnu0HBydqedqhnClp0rJg",
   "title": "TygaVEVO",
   "thumb": "https://yt3.ggpht.com/QiUxH5hcEKCQN_lv5dQVYeWzluLCeDKhmr7MeF-Kgufx6_8kWXyQuR8Cpfv0VLG6aKm2-mhGkw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Show You",
       "url": "https://en.wikipedia.org/wiki/Show_You",
       "firstSeenAt": "2026-10-31T12:22:04.363Z"
+    },
+    {
+      "id": "wiki:Do My Dance",
+      "type": "wikipedia",
+      "label": "Do My Dance",
+      "url": "https://en.wikipedia.org/wiki/Do_My_Dance",
+      "firstSeenAt": "2026-11-18T15:35:39.404Z"
     }
   ],
   "recentItems": []

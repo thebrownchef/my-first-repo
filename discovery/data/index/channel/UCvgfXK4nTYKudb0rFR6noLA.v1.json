@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCvgfXK4nTYKudb0rFR6noLA",
   "title": "UFC",
   "thumb": "https://yt3.ggpht.com/mECavVNoh2tn4Lku7JyVIN_RnW4-s2z5rEXWo41MVHmGjqUuJChPB0L2JYbHDZg5YL21OcId=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 3.52,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Nate Marquardt",
       "url": "https://en.wikipedia.org/wiki/Nate_Marquardt",
       "firstSeenAt": "2026-11-15T13:53:33.394Z"
+    },
+    {
+      "id": "channel:UCFco59OljBdHya3VA540-CA",
+      "type": "channel",
+      "label": "WHOATV",
+      "url": "https://www.youtube.com/channel/UCFco59OljBdHya3VA540-CA",
+      "firstSeenAt": "2026-11-18T15:36:01.400Z"
     }
   ],
   "recentItems": []

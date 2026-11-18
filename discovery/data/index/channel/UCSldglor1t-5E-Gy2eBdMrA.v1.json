@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCSldglor1t-5E-Gy2eBdMrA",
   "title": "Metal Blade Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2EfNv3vGKITfzrEaRVw2xMMFVIKgxX-F5JXf30sQGYP0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.54,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Angband",
       "url": "https://www.youtube.com/channel/UCXlESqAt8ZLXkq88nA6o75A",
       "firstSeenAt": "2026-11-10T14:50:00.109Z"
+    },
+    {
+      "id": "wiki:Formshifter",
+      "type": "wikipedia",
+      "label": "Formshifter",
+      "url": "https://en.wikipedia.org/wiki/Formshifter",
+      "firstSeenAt": "2026-11-18T15:35:37.007Z"
     }
   ],
   "recentItems": []

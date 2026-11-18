@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCBoGmjONeZ6PL5IbK6qZv0Q",
   "title": "SHANT TV Armenia",
   "thumb": "https://yt3.ggpht.com/oW2f5RAo-igrQuoeo4Xxuvdpk-aWDDuPvmbLFUoa-PaXYLHnchAi1VKktlrUA4kgKZoddVaxYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 5.03,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Armen Dzhigarkhanyan",
       "url": "https://en.wikipedia.org/wiki/Armen_Dzhigarkhanyan",
       "firstSeenAt": "2026-11-17T15:56:40.699Z"
+    },
+    {
+      "id": "channel:UCBoGmjONeZ6PL5IbK6qZv0Q",
+      "type": "channel",
+      "label": "SHANT TV Armenia",
+      "url": "https://www.youtube.com/channel/UCBoGmjONeZ6PL5IbK6qZv0Q",
+      "firstSeenAt": "2026-11-18T15:35:51.420Z"
     }
   ],
   "recentItems": []

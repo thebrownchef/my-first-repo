@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCzK2c-Ou5UJLIOCrwy0WEJA",
   "title": "Paul Woods",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n6bbbePJYD31GgISmUuIvUcZwADh80v1Rwq81Ig40NXaUV=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Jerry Keeling",
       "url": "https://en.wikipedia.org/wiki/Jerry_Keeling",
       "firstSeenAt": "2026-11-17T15:56:40.700Z"
+    },
+    {
+      "id": "wiki:Ted Urness",
+      "type": "wikipedia",
+      "label": "Ted Urness",
+      "url": "https://en.wikipedia.org/wiki/Ted_Urness",
+      "firstSeenAt": "2026-11-18T15:35:37.007Z"
     }
   ],
   "recentItems": []

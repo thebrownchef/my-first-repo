@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCpYH4aF5uXUx_SgrD0rd-lw",
   "title": "Kat Deluna",
   "thumb": "https://yt3.ggpht.com/_27oJONF0jXYFgr8XBn7SN_NgSkRBPmARyhSVsxnVCsOKMRaNDvQ3-gCitUO0pwF586UXEVj3A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Push Push (Kat Deluna song)",
       "url": "https://en.wikipedia.org/wiki/Push_Push_(Kat_Deluna_song)",
       "firstSeenAt": "2026-10-09T13:13:03.584Z"
+    },
+    {
+      "id": "wiki:Lil Wayne videography",
+      "type": "wikipedia",
+      "label": "Lil Wayne videography",
+      "url": "https://en.wikipedia.org/wiki/Lil_Wayne_videography",
+      "firstSeenAt": "2026-11-18T15:35:39.405Z"
     }
   ],
   "recentItems": []

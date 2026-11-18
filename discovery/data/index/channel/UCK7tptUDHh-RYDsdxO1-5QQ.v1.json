@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCK7tptUDHh-RYDsdxO1-5QQ",
   "title": "The Wall Street Journal",
   "thumb": "https://yt3.ggpht.com/zbPzRWTIiIg_sNPoAgBf4COWvAoac3vgbiTEu1dfpqH3YPDNvnxMjDtAGftuw5EPx8wfSjMzr2I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 4.12,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Replay (Zendaya song)",
       "url": "https://en.wikipedia.org/wiki/Replay_(Zendaya_song)",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Barack Obama on mass surveillance",
+      "type": "wikipedia",
+      "label": "Barack Obama on mass surveillance",
+      "url": "https://en.wikipedia.org/wiki/Barack_Obama_on_mass_surveillance",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCBR8-60-B28hp2BmDPdntcQ",
   "title": "YouTube",
   "thumb": "https://yt3.ggpht.com/3s6evpqAiDU9tQR4sC2siJippbH2RWVPnwHgyl4V0th2iuQz0VDQZbUhQBGmsxLYo-mjG6TqZQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 2,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "YouTube Rewind",
       "url": "https://www.youtube.com/channel/UCnHXLLNHjNAnDQ50JANLG1g",
       "firstSeenAt": "2026-11-12T15:08:52.412Z"
+    },
+    {
+      "id": "channel:UC0g5Gih1vwMLDn02lcbtO6w",
+      "type": "channel",
+      "label": "KIKOchannel",
+      "url": "https://www.youtube.com/channel/UC0g5Gih1vwMLDn02lcbtO6w",
+      "firstSeenAt": "2026-11-18T15:36:04.958Z"
     }
   ],
   "recentItems": []

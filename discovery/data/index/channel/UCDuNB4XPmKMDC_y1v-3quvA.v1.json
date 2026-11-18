@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCDuNB4XPmKMDC_y1v-3quvA",
   "title": "rekcideob",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lJ3TfYwK5_0QXF_5a-ZUlorAZj7h2oZJ3At0CBl2w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Wu Yinghua",
       "url": "https://en.wikipedia.org/wiki/Wu_Yinghua",
       "firstSeenAt": "2026-11-14T13:28:00.333Z"
+    },
+    {
+      "id": "wiki:Ma Jiangbao",
+      "type": "wikipedia",
+      "label": "Ma Jiangbao",
+      "url": "https://en.wikipedia.org/wiki/Ma_Jiangbao",
+      "firstSeenAt": "2026-11-18T15:35:39.405Z"
     }
   ],
   "recentItems": []

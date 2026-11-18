@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCqnbDFdCpuN8CMEg0VuEBqA",
   "title": "The New York Times",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niRq8CFu_t0QX45kIzJ58GtS9zlO2SGo7wArxG9gy6uEc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.5,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "The Grapes of Wrath (film)",
       "url": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film)",
       "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:Ernest Kurnow",
+      "type": "wikipedia",
+      "label": "Ernest Kurnow",
+      "url": "https://en.wikipedia.org/wiki/Ernest_Kurnow",
+      "firstSeenAt": "2026-11-18T15:35:42.168Z"
     }
   ],
   "recentItems": []

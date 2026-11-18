@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCw-_ba5d6gmjlfQMNAgXS6w",
   "title": "Prof Alan Macfarlane - Ayabaya",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lSuZq4Vuk0S1FW0GtXK8jGOOSTxGGZDvBclFQIuoM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
-  "uploadsPerDay": 0.33,
+  "uploadsPerDay": 0.32,
   "sources": [
     {
       "id": "wiki:Hermann Hauser",
@@ -43,6 +43,13 @@
       "label": "Patrick K. O'Brien",
       "url": "https://en.wikipedia.org/wiki/Patrick_K._O'Brien",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Alan Macfarlane",
+      "type": "wikipedia",
+      "label": "Alan Macfarlane",
+      "url": "https://en.wikipedia.org/wiki/Alan_Macfarlane",
+      "firstSeenAt": "2026-11-18T15:35:34.592Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCsn6cjffsvyOZCZxvGoJxGg",
   "title": "Corridor Digital",
   "thumb": "https://yt3.ggpht.com/VSKAVOePHjconr8LVJcC2XEBZXaE-jCKUsuD-yBROvRsaa9m9ttwIW7vILa4GPljoDW2QyyiQA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "RivenX3i",
       "url": "https://www.youtube.com/channel/UC-Op8pOVwbeqp6lyL2xJvqQ",
       "firstSeenAt": "2026-10-13T14:08:06.728Z"
+    },
+    {
+      "id": "channel:UC0g5Gih1vwMLDn02lcbtO6w",
+      "type": "channel",
+      "label": "KIKOchannel",
+      "url": "https://www.youtube.com/channel/UC0g5Gih1vwMLDn02lcbtO6w",
+      "firstSeenAt": "2026-11-18T15:36:04.960Z"
     }
   ],
   "recentItems": []

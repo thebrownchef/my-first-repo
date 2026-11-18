@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCDjb0dwTUZKZjJgSd1kJpBg",
   "title": "RobinThickeVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n3365ByIuc-w0HFawTUH3wcr2OCZ9fQuLaDgpqRwUsNyY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Emily Ratajkowski",
       "url": "https://en.wikipedia.org/wiki/Emily_Ratajkowski",
       "firstSeenAt": "2026-11-14T13:28:02.869Z"
+    },
+    {
+      "id": "wiki:Feel Good (Robin Thicke song)",
+      "type": "wikipedia",
+      "label": "Feel Good (Robin Thicke song)",
+      "url": "https://en.wikipedia.org/wiki/Feel_Good_(Robin_Thicke_song)",
+      "firstSeenAt": "2026-11-18T15:35:39.404Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T15:58:17.377Z",
+  "generatedAt": "2026-11-18T15:37:16.799Z",
   "id": "UCVttQE6tS_agDSAU61Q65aA",
   "title": "EnriqueIglesiasVEVO",
   "thumb": "https://yt3.ggpht.com/kYe56za0VurtSHjxdg7tH8SaKQDtRxZdnOGlXp_ijCGMUZHIPQjsR57OGP6Npgj7XK_8UEZTTw8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Bailando (Enrique Iglesias song)",
       "url": "https://en.wikipedia.org/wiki/Bailando_(Enrique_Iglesias_song)",
       "firstSeenAt": "2026-11-12T15:08:31.512Z"
+    },
+    {
+      "id": "wiki:Lil Wayne videography",
+      "type": "wikipedia",
+      "label": "Lil Wayne videography",
+      "url": "https://en.wikipedia.org/wiki/Lil_Wayne_videography",
+      "firstSeenAt": "2026-11-18T15:35:39.405Z"
     }
   ],
   "recentItems": []

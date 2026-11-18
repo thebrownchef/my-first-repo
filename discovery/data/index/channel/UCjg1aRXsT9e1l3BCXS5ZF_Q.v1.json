@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "id": "UCjg1aRXsT9e1l3BCXS5ZF_Q",
+  "title": "danbcast",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kzKVNc2pd-2N06YpgzxpvJuyWFNwDrQ0AtBFcL3tc=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "wiki:Apple Newton",
+      "type": "wikipedia",
+      "label": "Apple Newton",
+      "url": "https://en.wikipedia.org/wiki/Apple_Newton",
+      "firstSeenAt": "2026-11-18T15:35:37.006Z"
+    },
+    {
+      "id": "wiki:Newton OS",
+      "type": "wikipedia",
+      "label": "Newton OS",
+      "url": "https://en.wikipedia.org/wiki/Newton_OS",
+      "firstSeenAt": "2026-11-18T15:35:37.006Z"
+    },
+    {
+      "id": "wiki:PenPoint OS",
+      "type": "wikipedia",
+      "label": "PenPoint OS",
+      "url": "https://en.wikipedia.org/wiki/PenPoint_OS",
+      "firstSeenAt": "2026-11-18T15:35:37.007Z"
+    }
+  ],
+  "recentItems": []
+}
