@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCBR8-60-B28hp2BmDPdntcQ",
   "title": "YouTube",
   "thumb": "https://yt3.ggpht.com/3s6evpqAiDU9tQR4sC2siJippbH2RWVPnwHgyl4V0th2iuQz0VDQZbUhQBGmsxLYo-mjG6TqZQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 2,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "KIKOchannel",
       "url": "https://www.youtube.com/channel/UC0g5Gih1vwMLDn02lcbtO6w",
       "firstSeenAt": "2026-11-18T15:36:04.958Z"
+    },
+    {
+      "id": "channel:UCgpTWdyscapDPzzx8o5QuoA",
+      "type": "channel",
+      "label": "Ballins Dampfer Welt",
+      "url": "https://www.youtube.com/channel/UCgpTWdyscapDPzzx8o5QuoA",
+      "firstSeenAt": "2026-11-19T15:41:50.736Z"
     }
   ],
   "recentItems": []

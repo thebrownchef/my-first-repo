@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
   "title": "FRANCE 24 English",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 18.06,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Gilles Bensimon",
       "url": "https://en.wikipedia.org/wiki/Gilles_Bensimon",
       "firstSeenAt": "2026-11-10T14:49:42.357Z"
+    },
+    {
+      "id": "wiki:Insurgency in Paraguay",
+      "type": "wikipedia",
+      "label": "Insurgency in Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Insurgency_in_Paraguay",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

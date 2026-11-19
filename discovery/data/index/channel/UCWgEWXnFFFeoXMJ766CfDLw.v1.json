@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCWgEWXnFFFeoXMJ766CfDLw",
   "title": "Smithsonian Folkways",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mJxEQ8wFJVWCpfs3WrkESMpWLbwbhJ2TqNwsalyGtl6D0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "TV Multiversity",
       "url": "https://www.youtube.com/channel/UCJoBttTMH1F0vYLww7Rj3GA",
       "firstSeenAt": "2026-11-06T14:13:31.570Z"
+    },
+    {
+      "id": "channel:UCYm9MWccmz9n2yyMx9vRrXg",
+      "type": "channel",
+      "label": "Smithsonian",
+      "url": "https://www.youtube.com/channel/UCYm9MWccmz9n2yyMx9vRrXg",
+      "firstSeenAt": "2026-11-19T15:41:45.257Z"
     }
   ],
   "recentItems": []

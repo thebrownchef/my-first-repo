@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCw45uE5WNz-19Zr4XG1awYw",
   "title": "dentelTV2",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kQmZ3MWMbx_rUNK_0O_a6QFp7Ho9pOWTosI3XSN1Tz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Corbett Monica",
       "url": "https://en.wikipedia.org/wiki/Corbett_Monica",
       "firstSeenAt": "2026-11-13T14:31:13.887Z"
+    },
+    {
+      "id": "wiki:Joan Rivers",
+      "type": "wikipedia",
+      "label": "Joan Rivers",
+      "url": "https://en.wikipedia.org/wiki/Joan_Rivers",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC-FQUIVQ-bZiefzBiQAa8Fw",
   "title": "BBC Radio 1",
   "thumb": "https://yt3.ggpht.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "X (Ed Sheeran album)",
       "url": "https://en.wikipedia.org/wiki/X_(Ed_Sheeran_album)",
       "firstSeenAt": "2026-11-13T14:31:16.364Z"
+    },
+    {
+      "id": "wiki:EastEnd Cabaret",
+      "type": "wikipedia",
+      "label": "EastEnd Cabaret",
+      "url": "https://en.wikipedia.org/wiki/EastEnd_Cabaret",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

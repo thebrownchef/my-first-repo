@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "id": "UCbysmY4hyViQAAYEzOR-uCQ",
+  "title": "WNYC",
+  "thumb": "https://yt3.ggpht.com/w6T7MyiQjo4DJ9WVP-ZxyAX3Q3EEkr9r2CDLbYU_ZIcsAxuGkDds6kj8PCZZAY4os9Bva5KoDA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.84,
+  "sources": [
+    {
+      "id": "wiki:Paule Marshall",
+      "type": "wikipedia",
+      "label": "Paule Marshall",
+      "url": "https://en.wikipedia.org/wiki/Paule_Marshall",
+      "firstSeenAt": "2026-11-16T15:40:08.292Z"
+    },
+    {
+      "id": "wiki:Bruce Gilden",
+      "type": "wikipedia",
+      "label": "Bruce Gilden",
+      "url": "https://en.wikipedia.org/wiki/Bruce_Gilden",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
+    }
+  ],
+  "recentItems": []
+}

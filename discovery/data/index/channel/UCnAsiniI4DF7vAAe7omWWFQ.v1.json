@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCnAsiniI4DF7vAAe7omWWFQ",
   "title": "US National Archives",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbyMtBC27JVL62Bd9YIeWaT4JbXoTxe6qe46UpgaFivCM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "mycompasstv",
       "url": "https://www.youtube.com/channel/UC_s-h6_OndKi-z4dm4Z_CiQ",
       "firstSeenAt": "2026-11-09T16:12:39.234Z"
+    },
+    {
+      "id": "wiki:David Ferriero",
+      "type": "wikipedia",
+      "label": "David Ferriero",
+      "url": "https://en.wikipedia.org/wiki/David_Ferriero",
+      "firstSeenAt": "2026-11-19T15:41:29.094Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCVgO39Bk5sMo66-6o6Spn6Q",
   "title": "ABC News (Australia)",
   "thumb": "https://yt3.ggpht.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 17.23,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Don Lane",
       "url": "https://en.wikipedia.org/wiki/Don_Lane",
       "firstSeenAt": "2026-11-11T14:16:26.259Z"
+    },
+    {
+      "id": "wiki:Ray Martin (television presenter)",
+      "type": "wikipedia",
+      "label": "Ray Martin (television presenter)",
+      "url": "https://en.wikipedia.org/wiki/Ray_Martin_(television_presenter)",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
     }
   ],
   "recentItems": []

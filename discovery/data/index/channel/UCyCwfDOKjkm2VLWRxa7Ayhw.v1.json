@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCyCwfDOKjkm2VLWRxa7Ayhw",
   "title": "Smithsonian's National Museum of Natural History",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mpu_9KiaR6R8BLkjkj-LjuXQ4mu1Tan8SP_bwx_nrPYV4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Andrew Gronholdt",
       "url": "https://en.wikipedia.org/wiki/Andrew_Gronholdt",
       "firstSeenAt": "2026-11-13T14:31:13.885Z"
+    },
+    {
+      "id": "channel:UCYm9MWccmz9n2yyMx9vRrXg",
+      "type": "channel",
+      "label": "Smithsonian",
+      "url": "https://www.youtube.com/channel/UCYm9MWccmz9n2yyMx9vRrXg",
+      "firstSeenAt": "2026-11-19T15:41:45.251Z"
     }
   ],
   "recentItems": []

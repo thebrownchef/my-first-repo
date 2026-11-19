@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC2ScTcowKLzbyCl8ogJ_KKg",
   "title": "laurapausinitv",
   "thumb": "https://yt3.ggpht.com/3Glz2RL13txCrjqKMS5BUtB9VN1wRFIa12bvfwbKv3zGIqXwjfAPKH9vpT935QH17h0wcS_laA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Ascolta il tuo cuore",
       "url": "https://en.wikipedia.org/wiki/Ascolta_il_tuo_cuore",
       "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Se non te",
+      "type": "wikipedia",
+      "label": "Se non te",
+      "url": "https://en.wikipedia.org/wiki/Se_non_te",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
   "recentItems": []

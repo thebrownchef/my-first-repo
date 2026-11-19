@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "channels": [
     {
       "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
       "title": "Vevo",
       "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-      "score": 503,
-      "distinctSourceCount": 503,
+      "score": 505,
+      "distinctSourceCount": 505,
       "hop": 1,
       "uploadsPerDay": 0.36,
       "recentItemCount": 4
@@ -16,11 +16,21 @@
       "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
       "title": "AfterBuzz TV",
       "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-      "score": 84,
-      "distinctSourceCount": 84,
+      "score": 87,
+      "distinctSourceCount": 87,
       "hop": 1,
       "uploadsPerDay": 4.46,
       "recentItemCount": 9
+    },
+    {
+      "id": "UCt00Zq_pjil6mEkwbqRxV3g",
+      "title": "Roger Griffith",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
+      "score": 81,
+      "distinctSourceCount": 81,
+      "hop": 0,
+      "uploadsPerDay": 0.36,
+      "recentItemCount": 12
     },
     {
       "id": "UCDE5Ezmxq1bNVak4lmkpCMw",
@@ -33,16 +43,6 @@
       "recentItemCount": 8
     },
     {
-      "id": "UCt00Zq_pjil6mEkwbqRxV3g",
-      "title": "Roger Griffith",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-      "score": 69,
-      "distinctSourceCount": 69,
-      "hop": 0,
-      "uploadsPerDay": 0.36,
-      "recentItemCount": 12
-    },
-    {
       "id": "UCIMsBpCLeJhNlC_XLdqfZvA",
       "title": "Global Kannada Media - ಗ್ಲೋಬಲ್ ಕನ್ನಡ ಮೀಡಿಯ",
       "thumb": "https://yt3.ggpht.com/ltB7MA5NLS8aJNnB2edBQOs9qvpO16FBNTmvB3UmeRtk4DnPNMcqDIK4WrNm4Kx7fERvwJTo2Q=s88-c-k-c0x00ffffff-no-rj",
@@ -50,6 +50,16 @@
       "distinctSourceCount": 68,
       "hop": 0,
       "uploadsPerDay": 0.4,
+      "recentItemCount": 12
+    },
+    {
+      "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+      "title": "TEDx Talks",
+      "thumb": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
+      "score": 68,
+      "distinctSourceCount": 68,
+      "hop": 0,
+      "uploadsPerDay": 42.9,
       "recentItemCount": 12
     },
     {
@@ -63,21 +73,11 @@
       "recentItemCount": 12
     },
     {
-      "id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-      "title": "TEDx Talks",
-      "thumb": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s88-c-k-c0x00ffffff-no-rj",
-      "score": 61,
-      "distinctSourceCount": 61,
-      "hop": 0,
-      "uploadsPerDay": 42.9,
-      "recentItemCount": 12
-    },
-    {
       "id": "UCNye-wNBqNL5ZzHSJj3l8Bg",
       "title": "Al Jazeera English",
       "thumb": "https://yt3.ggpht.com/XsTga3Nsfc1E6ZgC6HfHfzTG_3zhuZleOnsKxSK2aILMjwkkIm-0vdALFaU-yt0Lw07iLtbSifk=s88-c-k-c0x00ffffff-no-rj",
-      "score": 50,
-      "distinctSourceCount": 50,
+      "score": 56,
+      "distinctSourceCount": 56,
       "hop": 0,
       "uploadsPerDay": 20.22,
       "recentItemCount": 9
@@ -103,6 +103,16 @@
       "recentItemCount": 7
     },
     {
+      "id": "UCTl3QQTvqHFjurroKxexy2Q",
+      "title": "Olympic Games",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mgqNPYKqnE7FG3Pk1zbi0hpKihVPbWSk-Rfsbr0ki0bFPK=s88-c-k-c0x00ffffff-no-rj",
+      "score": 46,
+      "distinctSourceCount": 46,
+      "hop": 0,
+      "uploadsPerDay": 2.85,
+      "recentItemCount": 4
+    },
+    {
       "id": "UC0QiRU8_9buJEVA8CPYrEOg",
       "title": "Beef-Picks",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nWyPWxkLouOOka6GuHM8izDlE_yXnC5xTup5HP8T7CMeTZxq27qge_MoyYv6lzf2FRtw=s88-c-k-c0x00ffffff-no-rj",
@@ -111,16 +121,6 @@
       "hop": 0,
       "uploadsPerDay": 0.03,
       "recentItemCount": 10
-    },
-    {
-      "id": "UCTl3QQTvqHFjurroKxexy2Q",
-      "title": "Olympic Games",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mgqNPYKqnE7FG3Pk1zbi0hpKihVPbWSk-Rfsbr0ki0bFPK=s88-c-k-c0x00ffffff-no-rj",
-      "score": 45,
-      "distinctSourceCount": 45,
-      "hop": 0,
-      "uploadsPerDay": 2.85,
-      "recentItemCount": 2
     },
     {
       "id": "UCPVhZsC2od1xjGhgEc2NEPQ",
@@ -200,7 +200,7 @@
       "distinctSourceCount": 40,
       "hop": 0,
       "uploadsPerDay": 2.36,
-      "recentItemCount": 12
+      "recentItemCount": 11
     },
     {
       "id": "UCZl0iSBsqAiY59Ni_0vRVfw",
@@ -300,7 +300,7 @@
       "distinctSourceCount": 38,
       "hop": 0,
       "uploadsPerDay": 4.04,
-      "recentItemCount": 8
+      "recentItemCount": 10
     },
     {
       "id": "UCeAvnOVayL-xmQUCnZvIVyw",
@@ -336,11 +336,11 @@
       "id": "UCoxg3Kml41wE3IPq-PC-LQw",
       "title": "Nuclear Blast Records",
       "thumb": "https://yt3.ggpht.com/qGBHNuBB4qcastFscQGZQyOytaLOIQjqzVwaEfg3nfimOcUivk_W_gmyP7rB6Vh0hnZA6V_v=s88-c-k-c0x00ffffff-no-rj",
-      "score": 36,
-      "distinctSourceCount": 36,
+      "score": 37,
+      "distinctSourceCount": 37,
       "hop": 0,
       "uploadsPerDay": 0.97,
-      "recentItemCount": 11
+      "recentItemCount": 10
     },
     {
       "id": "UCoXMyv82LqKoKEedzGaZPgQ",
@@ -370,7 +370,7 @@
       "distinctSourceCount": 34,
       "hop": 0,
       "uploadsPerDay": 22.75,
-      "recentItemCount": 11
+      "recentItemCount": 7
     },
     {
       "id": "UC9zX2xZIJ4cnwRsgBpHGvMg",
@@ -400,7 +400,17 @@
       "distinctSourceCount": 31,
       "hop": 0,
       "uploadsPerDay": 3.59,
-      "recentItemCount": 12
+      "recentItemCount": 8
+    },
+    {
+      "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
+      "title": "CBS",
+      "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 31,
+      "distinctSourceCount": 31,
+      "hop": 1,
+      "uploadsPerDay": 2.85,
+      "recentItemCount": 6
     },
     {
       "id": "UCa5Tb6hVZbNuD0iTnYpJdeg",
@@ -443,14 +453,14 @@
       "recentItemCount": 4
     },
     {
-      "id": "UClzCn8DxRSCuMFv_WfzkcrQ",
-      "title": "CBS",
-      "thumb": "https://yt3.ggpht.com/mHhPDE6O2OWvHA0AyvAMnEfUYfE2yrJlv3ZbgNYGoLSUZRkCKoqHDOKdzkm1tRLFp0TSa-NyfA=s88-c-k-c0x00ffffff-no-rj",
+      "id": "UCCj956IF62FbT7Gouszaj9w",
+      "title": "BBC",
+      "thumb": "https://yt3.ggpht.com/2kUet1z3iIsuYaUEPuW0uMDVt9tRAzciL-N_pgy4bAvMazAfAgbJPrGrR3k8MhnGp-GGwy3O=s88-c-k-c0x00ffffff-no-rj",
       "score": 30,
       "distinctSourceCount": 30,
-      "hop": 1,
-      "uploadsPerDay": 2.85,
-      "recentItemCount": 5
+      "hop": 0,
+      "uploadsPerDay": 4.24,
+      "recentItemCount": 4
     },
     {
       "id": "UCS3SWF2QZvIP0ZAZSA--IRA",
@@ -483,6 +493,16 @@
       "recentItemCount": 8
     },
     {
+      "id": "UCcvNYxWXR_5TjVK7cSCdW-g",
+      "title": "T-Series Apna Punjab",
+      "thumb": "https://yt3.ggpht.com/_91KycI5b_sm8kezAeR1OpD0LfsZAiFReQ9CtFi6QLPHpkEmDdmzh7H1gBMpYvXQlfBAcbWs1g=s88-c-k-c0x00ffffff-no-rj",
+      "score": 30,
+      "distinctSourceCount": 30,
+      "hop": 0,
+      "uploadsPerDay": 1.84,
+      "recentItemCount": 10
+    },
+    {
       "id": "UCrb6U1FuOP5EZ7n7LfOJMMQ",
       "title": "ZDFtivi",
       "thumb": "https://yt3.ggpht.com/4oh5zlU9wKOU9RPCQ-q_x98phDN0dUvmh26JFk6EpQV-nDppO04-jxRyKEmGMWCBEAFyZJMmaQ=s88-c-k-c0x00ffffff-no-rj",
@@ -493,16 +513,6 @@
       "recentItemCount": 11
     },
     {
-      "id": "UCCj956IF62FbT7Gouszaj9w",
-      "title": "BBC",
-      "thumb": "https://yt3.ggpht.com/2kUet1z3iIsuYaUEPuW0uMDVt9tRAzciL-N_pgy4bAvMazAfAgbJPrGrR3k8MhnGp-GGwy3O=s88-c-k-c0x00ffffff-no-rj",
-      "score": 29,
-      "distinctSourceCount": 29,
-      "hop": 0,
-      "uploadsPerDay": 4.24,
-      "recentItemCount": 3
-    },
-    {
       "id": "UCoe0QD045tgbTE6bsbRGU5w",
       "title": "Beşiktaş Kültür Merkezi (BKM)",
       "thumb": "https://yt3.ggpht.com/-9k66-_WM-PFS47YrbQ5yBTyNhqAI3Y9OnpEsxkZN32muCD09wSaIH2dVysSglYVyWDu8oxTmA=s88-c-k-c0x00ffffff-no-rj",
@@ -510,7 +520,7 @@
       "distinctSourceCount": 29,
       "hop": 0,
       "uploadsPerDay": 1.51,
-      "recentItemCount": 9
+      "recentItemCount": 8
     },
     {
       "id": "UCViLvZvgdut2iJiKU33NQrQ",
@@ -520,17 +530,7 @@
       "distinctSourceCount": 29,
       "hop": 1,
       "uploadsPerDay": 13.39,
-      "recentItemCount": 11
-    },
-    {
-      "id": "UCcvNYxWXR_5TjVK7cSCdW-g",
-      "title": "T-Series Apna Punjab",
-      "thumb": "https://yt3.ggpht.com/_91KycI5b_sm8kezAeR1OpD0LfsZAiFReQ9CtFi6QLPHpkEmDdmzh7H1gBMpYvXQlfBAcbWs1g=s88-c-k-c0x00ffffff-no-rj",
-      "score": 29,
-      "distinctSourceCount": 29,
-      "hop": 0,
-      "uploadsPerDay": 1.84,
-      "recentItemCount": 10
+      "recentItemCount": 9
     },
     {
       "id": "UCaayLD9i5x4MmIoVZxXSv_g",
@@ -550,7 +550,7 @@
       "distinctSourceCount": 29,
       "hop": 0,
       "uploadsPerDay": 13.62,
-      "recentItemCount": 7
+      "recentItemCount": 6
     },
     {
       "id": "UC6SmH9mR82nj28_NNg_rZvA",
@@ -560,7 +560,7 @@
       "distinctSourceCount": 29,
       "hop": 0,
       "uploadsPerDay": 1.51,
-      "recentItemCount": 3
+      "recentItemCount": 4
     },
     {
       "id": "UC5zB6Yi0zItVSh-TAK1F2KQ",
@@ -620,7 +620,7 @@
       "distinctSourceCount": 28,
       "hop": 1,
       "uploadsPerDay": 0.68,
-      "recentItemCount": 11
+      "recentItemCount": 10
     },
     {
       "id": "UC_EnhS-vNDc6Eo9nyQHC2YQ",
@@ -630,7 +630,7 @@
       "distinctSourceCount": 28,
       "hop": 0,
       "uploadsPerDay": 0.47,
-      "recentItemCount": 12
+      "recentItemCount": 11
     },
     {
       "id": "UCsVm9I6Oyfkr1moaj3rELtA",
@@ -670,7 +670,7 @@
       "distinctSourceCount": 27,
       "hop": 1,
       "uploadsPerDay": 0.61,
-      "recentItemCount": 10
+      "recentItemCount": 8
     },
     {
       "id": "UCy-AB5ehLFqh1FtCVIH4Q3A",
@@ -680,7 +680,7 @@
       "distinctSourceCount": 27,
       "hop": 1,
       "uploadsPerDay": 2.61,
-      "recentItemCount": 10
+      "recentItemCount": 9
     },
     {
       "id": "UCIxkpTMBsM7wS3FxlOVD_bQ",
@@ -730,7 +730,7 @@
       "distinctSourceCount": 27,
       "hop": 1,
       "uploadsPerDay": 0.58,
-      "recentItemCount": 10
+      "recentItemCount": 11
     },
     {
       "id": "UCzL6rJhkoXkIt0fCv9T9_uA",
@@ -790,7 +790,7 @@
       "distinctSourceCount": 27,
       "hop": 1,
       "uploadsPerDay": 0.24,
-      "recentItemCount": 6
+      "recentItemCount": 7
     },
     {
       "id": "UC5E9-r42JlymhLPnDv2wHuA",
@@ -800,7 +800,7 @@
       "distinctSourceCount": 27,
       "hop": 1,
       "uploadsPerDay": 0.16,
-      "recentItemCount": 8
+      "recentItemCount": 10
     },
     {
       "id": "UCG5fkJ8-2b2ZjWpVNpr7Dqg",
@@ -831,6 +831,16 @@
       "hop": 1,
       "uploadsPerDay": 0,
       "recentItemCount": 12
+    },
+    {
+      "id": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "title": "Associated Press",
+      "thumb": "https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s88-c-k-c0x00ffffff-no-rj",
+      "score": 26,
+      "distinctSourceCount": 26,
+      "hop": 1,
+      "uploadsPerDay": 27.9,
+      "recentItemCount": 5
     },
     {
       "id": "UCjvu6Oeso266svc1Kio91OQ",
@@ -950,7 +960,7 @@
       "distinctSourceCount": 26,
       "hop": 1,
       "uploadsPerDay": 29.3,
-      "recentItemCount": 11
+      "recentItemCount": 12
     },
     {
       "id": "UC3PYGKK29qJ0zu-eEthHK4g",
@@ -981,16 +991,6 @@
       "hop": 1,
       "uploadsPerDay": 12.56,
       "recentItemCount": 9
-    },
-    {
-      "id": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "title": "Associated Press",
-      "thumb": "https://yt3.ggpht.com/I2UXf4n7ukd9hl7UQDsPKN0QXQ9X_NoujZfOY_qPhbBwyJv-K3-rFsrWIDGc3CFylr2cL2c7=s88-c-k-c0x00ffffff-no-rj",
-      "score": 25,
-      "distinctSourceCount": 25,
-      "hop": 1,
-      "uploadsPerDay": 27.9,
-      "recentItemCount": 7
     },
     {
       "id": "UC_BApcaQpahRcSxJ73uDnaA",
@@ -1030,7 +1030,7 @@
       "distinctSourceCount": 25,
       "hop": 1,
       "uploadsPerDay": 1.94,
-      "recentItemCount": 7
+      "recentItemCount": 6
     },
     {
       "id": "UCPHOvV3UA5Y69OnryJVkN6Q",
@@ -1220,7 +1220,7 @@
       "distinctSourceCount": 25,
       "hop": 1,
       "uploadsPerDay": 0.22,
-      "recentItemCount": 9
+      "recentItemCount": 8
     },
     {
       "id": "UC7FeuS5wwfSR9IwOPkBV7SQ",
@@ -1300,7 +1300,7 @@
       "distinctSourceCount": 24,
       "hop": 1,
       "uploadsPerDay": 1.82,
-      "recentItemCount": 10
+      "recentItemCount": 9
     },
     {
       "id": "UClaMJll7Ffwzjx-HNeWfBgQ",
@@ -1330,7 +1330,7 @@
       "distinctSourceCount": 24,
       "hop": 1,
       "uploadsPerDay": 1.62,
-      "recentItemCount": 11
+      "recentItemCount": 10
     },
     {
       "id": "UCOxUhuST9-AltBvAHCQXgug",
@@ -1360,7 +1360,7 @@
       "distinctSourceCount": 24,
       "hop": 1,
       "uploadsPerDay": 5.69,
-      "recentItemCount": 11
+      "recentItemCount": 8
     },
     {
       "id": "UCPgMAS8woHJ_o_OZdTR7kcQ",
@@ -1370,7 +1370,7 @@
       "distinctSourceCount": 24,
       "hop": 1,
       "uploadsPerDay": 27.97,
-      "recentItemCount": 8
+      "recentItemCount": 6
     },
     {
       "id": "UCVkXfARLNI0vf7gajoDDjlw",
@@ -1560,7 +1560,17 @@
       "distinctSourceCount": 23,
       "hop": 1,
       "uploadsPerDay": 0.56,
-      "recentItemCount": 1
+      "recentItemCount": 2
+    },
+    {
+      "id": "UCAuUUnT6oDeKwE6v1NGQxug",
+      "title": "TED",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
+      "score": 23,
+      "distinctSourceCount": 23,
+      "hop": 0,
+      "uploadsPerDay": 0.81,
+      "recentItemCount": 12
     },
     {
       "id": "UCZvoYfkPe3x1bfMFVEMid0A",
@@ -1650,7 +1660,7 @@
       "distinctSourceCount": 22,
       "hop": 1,
       "uploadsPerDay": 1.19,
-      "recentItemCount": 9
+      "recentItemCount": 10
     },
     {
       "id": "UCLOu0aNVi2DELCXYAMfufGg",
@@ -1830,7 +1840,7 @@
       "distinctSourceCount": 22,
       "hop": 0,
       "uploadsPerDay": 2.4,
-      "recentItemCount": 9
+      "recentItemCount": 11
     },
     {
       "id": "UClCIWcZNvq15p0Y-E4ToGOw",
@@ -1840,7 +1850,7 @@
       "distinctSourceCount": 22,
       "hop": 1,
       "uploadsPerDay": 3.49,
-      "recentItemCount": 2
+      "recentItemCount": 1
     },
     {
       "id": "UCUW0EDTnCIbaY6DTqMsjbUw",
@@ -1860,16 +1870,6 @@
       "distinctSourceCount": 22,
       "hop": 1,
       "uploadsPerDay": 0.13,
-      "recentItemCount": 12
-    },
-    {
-      "id": "UCAuUUnT6oDeKwE6v1NGQxug",
-      "title": "TED",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-      "score": 22,
-      "distinctSourceCount": 22,
-      "hop": 0,
-      "uploadsPerDay": 0.81,
       "recentItemCount": 12
     },
     {
@@ -1930,7 +1930,7 @@
       "distinctSourceCount": 21,
       "hop": 0,
       "uploadsPerDay": 2.39,
-      "recentItemCount": 4
+      "recentItemCount": 1
     },
     {
       "id": "UCX2cgntY6xxNfdrt-mvfzXw",
@@ -2020,7 +2020,7 @@
       "distinctSourceCount": 21,
       "hop": 1,
       "uploadsPerDay": 1.92,
-      "recentItemCount": 4
+      "recentItemCount": 5
     },
     {
       "id": "UCxc7UMC9o7K6Kb4DDOKyE0w",
@@ -2040,7 +2040,7 @@
       "distinctSourceCount": 21,
       "hop": 1,
       "uploadsPerDay": 1.2,
-      "recentItemCount": 12
+      "recentItemCount": 8
     },
     {
       "id": "UCti0Abbm0overcceD_q-MVg",
@@ -2071,6 +2071,16 @@
       "hop": 1,
       "uploadsPerDay": 0.7,
       "recentItemCount": 10
+    },
+    {
+      "id": "UC0iwHRFpv2_fpojZgQhElEQ",
+      "title": "Noisey",
+      "thumb": "https://yt3.ggpht.com/9NdoHEWQKAba3mRcPZuDKazQ0qW0wIwws1Wwo6hNbgzX3DtkjecqcV9M9ABi38sPtdVtN2MXbA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 21,
+      "distinctSourceCount": 21,
+      "hop": 0,
+      "uploadsPerDay": 0.32,
+      "recentItemCount": 4
     },
     {
       "id": "UCwgF8WzgB_0wZer6KW_UQQA",
@@ -2200,7 +2210,7 @@
       "distinctSourceCount": 20,
       "hop": 0,
       "uploadsPerDay": 16.24,
-      "recentItemCount": 7
+      "recentItemCount": 9
     },
     {
       "id": "UCG_wH_WrWHZMBncuZAFZAtA",
@@ -2243,6 +2253,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCh6C5LG14uZKmwCgGxf-nDQ",
+      "title": "CelineDionVEVO",
+      "thumb": "https://yt3.ggpht.com/pN_7uiDWSc6Qsm2sjGrPeJHgQKrP7JTh0KhwjEi9onXlcx7hvf91ahlI65yhP0IN2LssUuznnw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 20,
+      "distinctSourceCount": 20,
+      "hop": 0,
+      "uploadsPerDay": 0.08,
+      "recentItemCount": 12
+    },
+    {
       "id": "UCOTnUp0yqPlXHhg0MYzdq8w",
       "title": "iDream Beats",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_mAd_VRxppOyFHsKNPYv0lk2jyiRUteA-OS2dpclLIud4g=s88-c-k-c0x00ffffff-no-rj",
@@ -2260,7 +2280,7 @@
       "distinctSourceCount": 20,
       "hop": 1,
       "uploadsPerDay": 1.33,
-      "recentItemCount": 10
+      "recentItemCount": 11
     },
     {
       "id": "UCKy1dAqELo0zrOtPkf0eTMw",
@@ -2270,7 +2290,7 @@
       "distinctSourceCount": 20,
       "hop": 0,
       "uploadsPerDay": 25.18,
-      "recentItemCount": 10
+      "recentItemCount": 9
     },
     {
       "id": "UCAhFKhVA7L_ZLAKw02xCHqA",
@@ -2290,7 +2310,7 @@
       "distinctSourceCount": 20,
       "hop": 0,
       "uploadsPerDay": 1.8,
-      "recentItemCount": 10
+      "recentItemCount": 9
     },
     {
       "id": "UC5M_h2S8Ldoc9M6f7B-_m6A",
@@ -2300,17 +2320,7 @@
       "distinctSourceCount": 20,
       "hop": 0,
       "uploadsPerDay": 0.72,
-      "recentItemCount": 8
-    },
-    {
-      "id": "UC0iwHRFpv2_fpojZgQhElEQ",
-      "title": "Noisey",
-      "thumb": "https://yt3.ggpht.com/9NdoHEWQKAba3mRcPZuDKazQ0qW0wIwws1Wwo6hNbgzX3DtkjecqcV9M9ABi38sPtdVtN2MXbA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 20,
-      "distinctSourceCount": 20,
-      "hop": 0,
-      "uploadsPerDay": 0.32,
-      "recentItemCount": 4
+      "recentItemCount": 7
     },
     {
       "id": "UCVWA4btXTFru9qM06FceSag",
@@ -2350,6 +2360,16 @@
       "distinctSourceCount": 20,
       "hop": 1,
       "uploadsPerDay": 0.76,
+      "recentItemCount": 12
+    },
+    {
+      "id": "UCbmNph6atAoGfqLoCL_duAg",
+      "title": "Talks at Google",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
+      "score": 20,
+      "distinctSourceCount": 20,
+      "hop": 0,
+      "uploadsPerDay": 0.79,
       "recentItemCount": 12
     },
     {
@@ -2433,16 +2453,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCh6C5LG14uZKmwCgGxf-nDQ",
-      "title": "CelineDionVEVO",
-      "thumb": "https://yt3.ggpht.com/pN_7uiDWSc6Qsm2sjGrPeJHgQKrP7JTh0KhwjEi9onXlcx7hvf91ahlI65yhP0IN2LssUuznnw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 19,
-      "distinctSourceCount": 19,
-      "hop": 0,
-      "uploadsPerDay": 0.08,
-      "recentItemCount": 12
-    },
-    {
       "id": "UCnK9PxMozTYs8ELOvgMNKFA",
       "title": "Century Media Records",
       "thumb": "https://yt3.ggpht.com/EZexg-OOQs9OBMNTxC9EzCb0VHigKw4u8L2j8xYpF7ABF7k7S_dYXnprBaHuGVDiHyLl0Ys_JA=s88-c-k-c0x00ffffff-no-rj",
@@ -2490,7 +2500,7 @@
       "distinctSourceCount": 19,
       "hop": 1,
       "uploadsPerDay": 90.68,
-      "recentItemCount": 10
+      "recentItemCount": 7
     },
     {
       "id": "UCYkW00cPFkp1UzYON7XZB2A",
@@ -2560,7 +2570,7 @@
       "distinctSourceCount": 19,
       "hop": 1,
       "uploadsPerDay": 1.86,
-      "recentItemCount": 11
+      "recentItemCount": 10
     },
     {
       "id": "UCb3tJ5NKw7mDxyaQ73mwbRg",
@@ -2603,6 +2613,16 @@
       "recentItemCount": 12
     },
     {
+      "id": "UCpDJl2EmP7Oh90Vylx0dZtA",
+      "title": "Spinnin' Records",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lAEdCN-f5liiRVIRudaJzXbIsroI3oe-4QoemUi6t8RqI=s88-c-k-c0x00ffffff-no-rj",
+      "score": 19,
+      "distinctSourceCount": 19,
+      "hop": 0,
+      "uploadsPerDay": 1.93,
+      "recentItemCount": 3
+    },
+    {
       "id": "UCH_dFsLe_I0ftAFP8XzJkTQ",
       "title": "T-Series Classical",
       "thumb": "https://yt3.ggpht.com/A2XY9KhZD7q4XBGybTMBwKcaGKVI2RTZQR0U020xKTIRUz35tHIL618Ym7fQSNVh-gUV_1S_Sg=s88-c-k-c0x00ffffff-no-rj",
@@ -2630,7 +2650,7 @@
       "distinctSourceCount": 19,
       "hop": 0,
       "uploadsPerDay": 33.68,
-      "recentItemCount": 7
+      "recentItemCount": 8
     },
     {
       "id": "UCFFbwnve3yF62-tVXkTyHqg",
@@ -2640,7 +2660,7 @@
       "distinctSourceCount": 19,
       "hop": 0,
       "uploadsPerDay": 3.72,
-      "recentItemCount": 6
+      "recentItemCount": 5
     },
     {
       "id": "UCZAoL6toWgyPRFVHE-JPl7A",
@@ -2690,7 +2710,7 @@
       "distinctSourceCount": 18,
       "hop": 1,
       "uploadsPerDay": 0.28,
-      "recentItemCount": 12
+      "recentItemCount": 0
     },
     {
       "id": "UCoh_nabxKDfw4xSyzJDLXkA",
@@ -2720,7 +2740,7 @@
       "distinctSourceCount": 18,
       "hop": 0,
       "uploadsPerDay": 5.53,
-      "recentItemCount": 11
+      "recentItemCount": 12
     },
     {
       "id": "UCIGNHNhK0xarGPlTUaxWAJQ",
@@ -2760,7 +2780,7 @@
       "distinctSourceCount": 18,
       "hop": 1,
       "uploadsPerDay": 31.34,
-      "recentItemCount": 7
+      "recentItemCount": 6
     },
     {
       "id": "UCRpjHHu8ivVWs73uxHlWwFA",
@@ -2770,7 +2790,7 @@
       "distinctSourceCount": 18,
       "hop": 0,
       "uploadsPerDay": 1.2,
-      "recentItemCount": 3
+      "recentItemCount": 4
     },
     {
       "id": "UC33kS4l1xhcJNdsOXdeysHg",
@@ -2821,6 +2841,16 @@
       "hop": 1,
       "uploadsPerDay": 0.06,
       "recentItemCount": 2
+    },
+    {
+      "id": "UCtXKDgv1AVoG88PLl8nGXmw",
+      "title": "Google TechTalks",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_np5QbjchJOQKKpyqO3Uo7sg3YUaFx2EWN1kCQ0N7HRrQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 18,
+      "distinctSourceCount": 18,
+      "hop": 0,
+      "uploadsPerDay": 0.35,
+      "recentItemCount": 12
     },
     {
       "id": "UCn_DZJs6iiF0JDHTMwiKM2w",
@@ -2933,16 +2963,6 @@
       "recentItemCount": 8
     },
     {
-      "id": "UCpDJl2EmP7Oh90Vylx0dZtA",
-      "title": "Spinnin' Records",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lAEdCN-f5liiRVIRudaJzXbIsroI3oe-4QoemUi6t8RqI=s88-c-k-c0x00ffffff-no-rj",
-      "score": 18,
-      "distinctSourceCount": 18,
-      "hop": 0,
-      "uploadsPerDay": 1.93,
-      "recentItemCount": 3
-    },
-    {
       "id": "UCQX4SV8Fg0cD98K1VRBVPEw",
       "title": "T-Series Bhakti Sagar Kannada",
       "thumb": "https://yt3.ggpht.com/HJe2SgchjedMqwJcekMAOSvH2kUENnA6JsUk-g1gjxmvvBcPaafVQmFfeau5hTYwtzFE1k4uzA=s88-c-k-c0x00ffffff-no-rj",
@@ -2960,7 +2980,7 @@
       "distinctSourceCount": 18,
       "hop": 1,
       "uploadsPerDay": 0.27,
-      "recentItemCount": 12
+      "recentItemCount": 6
     },
     {
       "id": "UCjA7qIB2IetzeolMd_Hwa0w",
@@ -2970,7 +2990,7 @@
       "distinctSourceCount": 18,
       "hop": 1,
       "uploadsPerDay": 0.33,
-      "recentItemCount": 8
+      "recentItemCount": 9
     },
     {
       "id": "UCCo_LMj-m3iGSSuytYq9n6Q",
@@ -2990,7 +3010,7 @@
       "distinctSourceCount": 18,
       "hop": 0,
       "uploadsPerDay": 1.47,
-      "recentItemCount": 7
+      "recentItemCount": 0
     },
     {
       "id": "UCpd21W3qWyzIl8-PXvyDA2g",
@@ -3000,7 +3020,7 @@
       "distinctSourceCount": 18,
       "hop": 0,
       "uploadsPerDay": 0.04,
-      "recentItemCount": 12
+      "recentItemCount": 0
     },
     {
       "id": "UCzirOgADPOz0eapgwBcX9Gw",
@@ -3040,6 +3060,16 @@
       "distinctSourceCount": 18,
       "hop": 1,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UChPE75Fvvl1HmdAsO7Nzb8w",
+      "title": "What's My Line?",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_k74HINakk7qcURdIhAkKEvzEV9wqTWEfZpPJTNZPMnCA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 18,
+      "distinctSourceCount": 18,
+      "hop": 0,
+      "uploadsPerDay": 0.18,
       "recentItemCount": 0
     },
     {
@@ -3183,16 +3213,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCtXKDgv1AVoG88PLl8nGXmw",
-      "title": "Google TechTalks",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_np5QbjchJOQKKpyqO3Uo7sg3YUaFx2EWN1kCQ0N7HRrQ=s88-c-k-c0x00ffffff-no-rj",
-      "score": 17,
-      "distinctSourceCount": 17,
-      "hop": 0,
-      "uploadsPerDay": 0.35,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCavkH5Blxs1Ezwcyk_BdGjg",
       "title": "iD Fashion",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kX6w77f3RQK19Lcn-5C5KLH3k2NCj6PpEWstVxdw4=s88-c-k-c0x00ffffff-no-rj",
@@ -3230,6 +3250,16 @@
       "distinctSourceCount": 17,
       "hop": 1,
       "uploadsPerDay": 0.11,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCeqgb9mszRbnj7GzYbfAL5w",
+      "title": "partidocarlista",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kssz-MLeQvDevr5Xl1C703Iw3BXVhG4-kGBZlBJzjGVw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 17,
+      "distinctSourceCount": 17,
+      "hop": 0,
+      "uploadsPerDay": 0,
       "recentItemCount": 0
     },
     {
@@ -3293,16 +3323,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCbmNph6atAoGfqLoCL_duAg",
-      "title": "Talks at Google",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-      "score": 17,
-      "distinctSourceCount": 17,
-      "hop": 0,
-      "uploadsPerDay": 0.79,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCCbmKsQJ92JV-L8jYJ4u9Yg",
       "title": "Tips Bhakti Prem",
       "thumb": "https://yt3.ggpht.com/2F4QKcBcZ1nO_WVX24VS4tpL8XBXYWIRa2V_whh38yWNK5xWYTFCDVIXZDgg1UIgAG2Cr-IgiA8=s88-c-k-c0x00ffffff-no-rj",
@@ -3340,16 +3360,6 @@
       "distinctSourceCount": 17,
       "hop": 0,
       "uploadsPerDay": 1.48,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UChPE75Fvvl1HmdAsO7Nzb8w",
-      "title": "What's My Line?",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_k74HINakk7qcURdIhAkKEvzEV9wqTWEfZpPJTNZPMnCA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 17,
-      "distinctSourceCount": 17,
-      "hop": 0,
-      "uploadsPerDay": 0.18,
       "recentItemCount": 0
     },
     {
@@ -3533,6 +3543,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCe7UKRSJM6ITMfXX-CbET0w",
+      "title": "Everest Marathi",
+      "thumb": "https://yt3.ggpht.com/1gCbvUErW-7YMZtyX0yV_qxriDYA27gJiIV5Bmqf8HV8s7zfCbIScMy0A0bY13eQevYQWZ24Uw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 16,
+      "distinctSourceCount": 16,
+      "hop": 0,
+      "uploadsPerDay": 0.37,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCofmBYJywFwUQEAQSsc58oQ",
       "title": "Farscape",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBLLpuTFVrslItlOBLq9fs4E1_gIQmzFo0rpAbIxpLhA=s88-c-k-c0x00ffffff-no-rj",
@@ -3559,6 +3579,16 @@
       "score": 16,
       "distinctSourceCount": 16,
       "hop": 1,
+      "uploadsPerDay": 0.08,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC2ScTcowKLzbyCl8ogJ_KKg",
+      "title": "laurapausinitv",
+      "thumb": "https://yt3.ggpht.com/3Glz2RL13txCrjqKMS5BUtB9VN1wRFIa12bvfwbKv3zGIqXwjfAPKH9vpT935QH17h0wcS_laA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 16,
+      "distinctSourceCount": 16,
+      "hop": 0,
       "uploadsPerDay": 0.08,
       "recentItemCount": 0
     },
@@ -3610,16 +3640,6 @@
       "distinctSourceCount": 16,
       "hop": 0,
       "uploadsPerDay": 0.15,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCeqgb9mszRbnj7GzYbfAL5w",
-      "title": "partidocarlista",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kssz-MLeQvDevr5Xl1C703Iw3BXVhG4-kGBZlBJzjGVw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 16,
-      "distinctSourceCount": 16,
-      "hop": 0,
-      "uploadsPerDay": 0,
       "recentItemCount": 0
     },
     {
@@ -3803,16 +3823,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCe7UKRSJM6ITMfXX-CbET0w",
-      "title": "Everest Marathi",
-      "thumb": "https://yt3.ggpht.com/1gCbvUErW-7YMZtyX0yV_qxriDYA27gJiIV5Bmqf8HV8s7zfCbIScMy0A0bY13eQevYQWZ24Uw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 15,
-      "distinctSourceCount": 15,
-      "hop": 0,
-      "uploadsPerDay": 0.37,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCtF6G9azNVPQsV1TXdDhYjQ",
       "title": "Filmgorillas",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_krNlOOKqbF_EuOVVLsHJ-xI53eTTO1CLNBrl_Xx6PiRA=s88-c-k-c0x00ffffff-no-rj",
@@ -3840,6 +3850,16 @@
       "distinctSourceCount": 15,
       "hop": 0,
       "uploadsPerDay": 19.68,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCUIbTdEI7D1AMyLATIdKq5w",
+      "title": "Groucho Marx - You Bet Your Life",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_ndCH-S-TBxWKYkDqLcNr-568NJIq0KYubISGWqTai26g=s88-c-k-c0x00ffffff-no-rj",
+      "score": 15,
+      "distinctSourceCount": 15,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -3923,16 +3943,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UC2ScTcowKLzbyCl8ogJ_KKg",
-      "title": "laurapausinitv",
-      "thumb": "https://yt3.ggpht.com/3Glz2RL13txCrjqKMS5BUtB9VN1wRFIa12bvfwbKv3zGIqXwjfAPKH9vpT935QH17h0wcS_laA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 15,
-      "distinctSourceCount": 15,
-      "hop": 0,
-      "uploadsPerDay": 0.08,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCdKTnvHFf67M1UrW3qbe-Dg",
       "title": "Marathi Devotional",
       "thumb": "https://yt3.ggpht.com/BFwj5Pxnu3rsMw64kfg14nbTXuCpYIl3F8OLywYNAX8DD0rKg7x547sX_hHk2WtmyGw-pBQHpA=s88-c-k-c0x00ffffff-no-rj",
@@ -3960,6 +3970,16 @@
       "distinctSourceCount": 15,
       "hop": 0,
       "uploadsPerDay": 1.09,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "title": "National Geographic",
+      "thumb": "https://yt3.ggpht.com/-FOFg8o1y4dAHDB2MvhORHnLMOaaOKnaNUNsrU-U57Eac6gjB5VO8sYJQC1KkULGQvKP2XpArA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 15,
+      "distinctSourceCount": 15,
+      "hop": 0,
+      "uploadsPerDay": 1.55,
       "recentItemCount": 0
     },
     {
@@ -4123,6 +4143,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC7E-LYc1wivk33iyt5bR5zQ",
+      "title": "Vatican News",
+      "thumb": "https://yt3.ggpht.com/bQuLzosJJsDRO5I7Bz04Dq1V_fTdZeelLz9DkINH6nwdzi9qWKjxjZXt8Xv111oLVnbLXIQq=s88-c-k-c0x00ffffff-no-rj",
+      "score": 15,
+      "distinctSourceCount": 15,
+      "hop": 0,
+      "uploadsPerDay": 1.19,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCGaVdbSav8xWuFWTadK6loA",
       "title": "vlogbrothers",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kRgkKL2CrQ4Ix8eIcTVlL7kQtdiePYEmYeCHq126dk4TE=s88-c-k-c0x00ffffff-no-rj",
@@ -4223,6 +4253,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
+      "title": "Computer History Museum",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
+      "score": 14,
+      "distinctSourceCount": 14,
+      "hop": 0,
+      "uploadsPerDay": 0.31,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCX6b17PVsYBQ0ip5gyeme-Q",
       "title": "CrashCourse",
       "thumb": "https://yt3.ggpht.com/E454zI2spNFZsN_wgJPTHjMsqs1fFqb_qp4PYanWuyaXQJp98wKEV1kIQYlR57epaweO5P8v=s88-c-k-c0x00ffffff-no-rj",
@@ -4230,6 +4270,16 @@
       "distinctSourceCount": 14,
       "hop": 1,
       "uploadsPerDay": 0.23,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCzRBOssI9G6VN6HNP--wGFA",
+      "title": "DocsOnline",
+      "thumb": "https://yt3.ggpht.com/YxEQdNPxymObpy5jC0CTnnIZbhFEuT-sp368JZDpRYTZjT2JUDHr-NymPzIFKknVgZ-6xlPmQw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 14,
+      "distinctSourceCount": 14,
+      "hop": 0,
+      "uploadsPerDay": 0.07,
       "recentItemCount": 0
     },
     {
@@ -4523,13 +4573,13 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
-      "title": "National Geographic",
-      "thumb": "https://yt3.ggpht.com/-FOFg8o1y4dAHDB2MvhORHnLMOaaOKnaNUNsrU-U57Eac6gjB5VO8sYJQC1KkULGQvKP2XpArA=s88-c-k-c0x00ffffff-no-rj",
+      "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "title": "NASA",
+      "thumb": "https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s88-c-k-c0x00ffffff-no-rj",
       "score": 14,
       "distinctSourceCount": 14,
       "hop": 0,
-      "uploadsPerDay": 1.55,
+      "uploadsPerDay": 0.92,
       "recentItemCount": 0
     },
     {
@@ -4710,6 +4760,16 @@
       "distinctSourceCount": 14,
       "hop": 0,
       "uploadsPerDay": 0.43,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCh6KFtW4a4Ozr81GI1cxaBQ",
+      "title": "University of California Television (UCTV)",
+      "thumb": "https://yt3.ggpht.com/ABuxegbRX6xVmeFnmLMJtPe6IwRRE4Rh6oeVzuT2apDmp4MHb-0psv6EQQZDn50D_SluKZ7th7M=s88-c-k-c0x00ffffff-no-rj",
+      "score": 14,
+      "distinctSourceCount": 14,
+      "hop": 0,
+      "uploadsPerDay": 1.52,
       "recentItemCount": 0
     },
     {
@@ -4903,16 +4963,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
-      "title": "Computer History Museum",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
-      "score": 13,
-      "distinctSourceCount": 13,
-      "hop": 0,
-      "uploadsPerDay": 0.31,
-      "recentItemCount": 0
-    },
-    {
       "id": "UC1l7wYrva1qCH-wgqcHaaRg",
       "title": "David Guetta",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKPoGkfw44ICB715GPlzNDsmqZdlwewB1QGa9K4vD94o=s88-c-k-c0x00ffffff-no-rj",
@@ -4930,16 +4980,6 @@
       "distinctSourceCount": 13,
       "hop": 0,
       "uploadsPerDay": 0.04,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCzRBOssI9G6VN6HNP--wGFA",
-      "title": "DocsOnline",
-      "thumb": "https://yt3.ggpht.com/YxEQdNPxymObpy5jC0CTnnIZbhFEuT-sp368JZDpRYTZjT2JUDHr-NymPzIFKknVgZ-6xlPmQw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 13,
-      "distinctSourceCount": 13,
-      "hop": 0,
-      "uploadsPerDay": 0.07,
       "recentItemCount": 0
     },
     {
@@ -5033,6 +5073,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC-8Q-hLdECwQmaWNwXitYDw",
+      "title": "KatyPerryVEVO",
+      "thumb": "https://yt3.ggpht.com/At-OTmzPnkE8xcDw08lHdUxbGy9TP-jzB4f4EnvcnUVTMuHoLP-sE8WY3OkwK6DJdWN6OJII=s88-c-k-c0x00ffffff-no-rj",
+      "score": 13,
+      "distinctSourceCount": 13,
+      "hop": 2,
+      "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCnSqxrSfo1sK4WZ7nBpYW1Q",
       "title": "Lahari Music",
       "thumb": "https://yt3.ggpht.com/SJ9gXoyTR63OH5xOswDPmlJonZb7BVaqLrKFadaQqgvtbTRI0WqjGjuc9qdKg8VxOvULpWVZ6g=s88-c-k-c0x00ffffff-no-rj",
@@ -5040,6 +5090,16 @@
       "distinctSourceCount": 13,
       "hop": 0,
       "uploadsPerDay": 1.58,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UChvAV3_iEHsbt8bIL1wYc0g",
+      "title": "leonalewisVEVO",
+      "thumb": "https://yt3.ggpht.com/4A6-ZS8qIKhzPSKCtQp6GZoGigHrQ449vTQm20owkGlqfDO2NdQQqKmzvzIAOo1PTKVafirh=s88-c-k-c0x00ffffff-no-rj",
+      "score": 13,
+      "distinctSourceCount": 13,
+      "hop": 2,
+      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -5133,16 +5193,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "title": "NASA",
-      "thumb": "https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s88-c-k-c0x00ffffff-no-rj",
-      "score": 13,
-      "distinctSourceCount": 13,
-      "hop": 1,
-      "uploadsPerDay": 0.93,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCz8FPpkJMwayyReSDLTX8IQ",
       "title": "Nickelback",
       "thumb": "https://yt3.ggpht.com/kjPoMfjh6uz6WDwOLFU51DrnKTPUny5g_lrbsdRpFUl92NMinj1_N_vC-U5wB1lTFba0w1oMAvc=s88-c-k-c0x00ffffff-no-rj",
@@ -5193,6 +5243,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCjVf2FirkZsEW8LN6nZcnog",
+      "title": "Roxette",
+      "thumb": "https://yt3.ggpht.com/B0CohOyPZad6o2UtNQLo8R2Zyp2-a7VQWnljqlJGi5h_ffvXekGlcyt5vs9jQkJAvfXSYeuhEw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 13,
+      "distinctSourceCount": 13,
+      "hop": 0,
+      "uploadsPerDay": 0.09,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC7J1bN5V1kL6xJ42ue_W6Vg",
       "title": "sailormoon-official",
       "thumb": "https://yt3.ggpht.com/bAKsBvWy728UgoBt3T_OtSwpJGyKKaYyHnvOkaILSXSUfxjMJZ05obgsHTzUe2zWmEr40xU-Qw=s88-c-k-c0x00ffffff-no-rj",
@@ -5223,6 +5283,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+      "title": "The Young Turks",
+      "thumb": "https://yt3.ggpht.com/GaZdiTH19-g6JFMUkh2UzeulwgtnSiz-4fRbgrEW2tSFzFUUyTFFNrPChP5Ens5v5f-JpTybAg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 13,
+      "distinctSourceCount": 13,
+      "hop": 1,
+      "uploadsPerDay": 9.7,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
       "title": "Times Now World",
       "thumb": "https://yt3.ggpht.com/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
@@ -5233,6 +5303,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCGJdzJQ3R1BpahSvcFq23HA",
+      "title": "TOPSIFY",
+      "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 13,
+      "distinctSourceCount": 13,
+      "hop": 1,
+      "uploadsPerDay": 0.14,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCukUk9Eafoo4XHk4JZjoh8Q",
       "title": "Ultra Bengali",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_lplxxE7tVgpZJd6etLoGZR8U0zThIgdMhAPchCTeiwEVI=s88-c-k-c0x00ffffff-no-rj",
@@ -5240,26 +5320,6 @@
       "distinctSourceCount": 13,
       "hop": 1,
       "uploadsPerDay": 0.61,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCh6KFtW4a4Ozr81GI1cxaBQ",
-      "title": "University of California Television (UCTV)",
-      "thumb": "https://yt3.ggpht.com/ABuxegbRX6xVmeFnmLMJtPe6IwRRE4Rh6oeVzuT2apDmp4MHb-0psv6EQQZDn50D_SluKZ7th7M=s88-c-k-c0x00ffffff-no-rj",
-      "score": 13,
-      "distinctSourceCount": 13,
-      "hop": 0,
-      "uploadsPerDay": 1.52,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UC7E-LYc1wivk33iyt5bR5zQ",
-      "title": "Vatican News",
-      "thumb": "https://yt3.ggpht.com/bQuLzosJJsDRO5I7Bz04Dq1V_fTdZeelLz9DkINH6nwdzi9qWKjxjZXt8Xv111oLVnbLXIQq=s88-c-k-c0x00ffffff-no-rj",
-      "score": 13,
-      "distinctSourceCount": 13,
-      "hop": 0,
-      "uploadsPerDay": 1.19,
       "recentItemCount": 0
     },
     {
@@ -5363,6 +5423,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCVgO39Bk5sMo66-6o6Spn6Q",
+      "title": "ABC News (Australia)",
+      "thumb": "https://yt3.ggpht.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s88-c-k-c0x00ffffff-no-rj",
+      "score": 12,
+      "distinctSourceCount": 12,
+      "hop": 0,
+      "uploadsPerDay": 17.23,
+      "recentItemCount": 0
+    },
+    {
       "id": "UClyDDqcDsXp3KQ7J5gyIMuQ",
       "title": "AIRBOYD",
       "thumb": "https://yt3.ggpht.com/a3BfmLHu-vmtZ0sLSGR_voAN50VfgxzjtFRe4FkX2Ce-I4g9AeE_88j1Yr8MGj3ioQhEamVA=s88-c-k-c0x00ffffff-no-rj",
@@ -5423,6 +5493,26 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCIA9jUDnKVMYc4SmqTxcwqg",
+      "title": "Cartoon Hangover",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mF7S3kldEh9WI1f3dDTl9SUZhWR_3aScFGVOMFZxe6RXI=s88-c-k-c0x00ffffff-no-rj",
+      "score": 12,
+      "distinctSourceCount": 12,
+      "hop": 0,
+      "uploadsPerDay": 0.15,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCWCPNq8nLTN23WTBbrkNAFQ",
+      "title": "CFHOFandM",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n38Ubu5VVnL_eTZzRx95Ze1HKehJ5LNqOgrUv9TORV1Q=s88-c-k-c0x00ffffff-no-rj",
+      "score": 12,
+      "distinctSourceCount": 12,
+      "hop": 0,
+      "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCiZ47iCEOmqsyZU_6XP9ekg",
       "title": "Channel 4",
       "thumb": "https://yt3.ggpht.com/sj0XKuE4yAGQOP1OzujaLpZS4qnIJaFKFmRwe6OEjERZ3I9q70-qW5Rjcx3mZSlefzM9quswGvc=s88-c-k-c0x00ffffff-no-rj",
@@ -5470,6 +5560,16 @@
       "distinctSourceCount": 12,
       "hop": 2,
       "uploadsPerDay": 0.05,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCgwv23FVv3lqh567yagXfNg",
+      "title": "DisneyMusicVEVO",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvNHhhb5UzdKLCer4xytxAB8bki4wJ5Kxr7oRanaGZsbU=s88-c-k-c0x00ffffff-no-rj",
+      "score": 12,
+      "distinctSourceCount": 12,
+      "hop": 0,
+      "uploadsPerDay": 0.57,
       "recentItemCount": 0
     },
     {
@@ -5573,6 +5673,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
+      "title": "Google",
+      "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 12,
+      "distinctSourceCount": 12,
+      "hop": 1,
+      "uploadsPerDay": 0.36,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCq0grzC77X9UZd9xngQRTjg",
       "title": "Highlight Heaven",
       "thumb": "https://yt3.ggpht.com/womtB-Vm__n5XmhG-hfF5LnACjyc0B88cHRtf-gvVT6wNPjhy6GFDwJkqt0m9O2BySM8oiXZvQ=s88-c-k-c0x00ffffff-no-rj",
@@ -5590,16 +5700,6 @@
       "distinctSourceCount": 12,
       "hop": 0,
       "uploadsPerDay": 0.31,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UC-8Q-hLdECwQmaWNwXitYDw",
-      "title": "KatyPerryVEVO",
-      "thumb": "https://yt3.ggpht.com/At-OTmzPnkE8xcDw08lHdUxbGy9TP-jzB4f4EnvcnUVTMuHoLP-sE8WY3OkwK6DJdWN6OJII=s88-c-k-c0x00ffffff-no-rj",
-      "score": 12,
-      "distinctSourceCount": 12,
-      "hop": 2,
-      "uploadsPerDay": 0.03,
       "recentItemCount": 0
     },
     {
@@ -5690,16 +5790,6 @@
       "distinctSourceCount": 12,
       "hop": 0,
       "uploadsPerDay": 6.65,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UChvAV3_iEHsbt8bIL1wYc0g",
-      "title": "leonalewisVEVO",
-      "thumb": "https://yt3.ggpht.com/4A6-ZS8qIKhzPSKCtQp6GZoGigHrQ449vTQm20owkGlqfDO2NdQQqKmzvzIAOo1PTKVafirh=s88-c-k-c0x00ffffff-no-rj",
-      "score": 12,
-      "distinctSourceCount": 12,
-      "hop": 2,
-      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -5893,16 +5983,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
-      "title": "The Young Turks",
-      "thumb": "https://yt3.ggpht.com/GaZdiTH19-g6JFMUkh2UzeulwgtnSiz-4fRbgrEW2tSFzFUUyTFFNrPChP5Ens5v5f-JpTybAg=s88-c-k-c0x00ffffff-no-rj",
-      "score": 12,
-      "distinctSourceCount": 12,
-      "hop": 1,
-      "uploadsPerDay": 9.7,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCCFs35_Ey5FXLh5L8eN08hg",
       "title": "TheGameVEVO",
       "thumb": "https://yt3.ggpht.com/fd2xQjQdvM3TgmV3qqh2cfeOjCjfYbp2FtzYuKac1q7hx-ADImWhdaf1SGrP4SLFsciZhgU4Fss=s88-c-k-c0x00ffffff-no-rj",
@@ -5920,16 +6000,6 @@
       "distinctSourceCount": 12,
       "hop": 1,
       "uploadsPerDay": 0.79,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCGJdzJQ3R1BpahSvcFq23HA",
-      "title": "TOPSIFY",
-      "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 12,
-      "distinctSourceCount": 12,
-      "hop": 1,
-      "uploadsPerDay": 0.14,
       "recentItemCount": 0
     },
     {
@@ -6123,16 +6193,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCVgO39Bk5sMo66-6o6Spn6Q",
-      "title": "ABC News (Australia)",
-      "thumb": "https://yt3.ggpht.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s88-c-k-c0x00ffffff-no-rj",
-      "score": 11,
-      "distinctSourceCount": 11,
-      "hop": 0,
-      "uploadsPerDay": 17.23,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCBERb1kqj0OuWh6Sf__np2Q",
       "title": "Adelaide TV",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_m0DReVDBrMFvg-w_kyY9IVgYotOrpZz3NRH0IFOKRL=s88-c-k-c0x00ffffff-no-rj",
@@ -6220,16 +6280,6 @@
       "distinctSourceCount": 11,
       "hop": 0,
       "uploadsPerDay": 0.02,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCIA9jUDnKVMYc4SmqTxcwqg",
-      "title": "Cartoon Hangover",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mF7S3kldEh9WI1f3dDTl9SUZhWR_3aScFGVOMFZxe6RXI=s88-c-k-c0x00ffffff-no-rj",
-      "score": 11,
-      "distinctSourceCount": 11,
-      "hop": 0,
-      "uploadsPerDay": 0.15,
       "recentItemCount": 0
     },
     {
@@ -6330,16 +6380,6 @@
       "distinctSourceCount": 11,
       "hop": 1,
       "uploadsPerDay": 0.81,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCgwv23FVv3lqh567yagXfNg",
-      "title": "DisneyMusicVEVO",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvNHhhb5UzdKLCer4xytxAB8bki4wJ5Kxr7oRanaGZsbU=s88-c-k-c0x00ffffff-no-rj",
-      "score": 11,
-      "distinctSourceCount": 11,
-      "hop": 0,
-      "uploadsPerDay": 0.57,
       "recentItemCount": 0
     },
     {
@@ -6533,16 +6573,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
-      "title": "Google",
-      "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 11,
-      "distinctSourceCount": 11,
-      "hop": 1,
-      "uploadsPerDay": 0.36,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCp3u2i9bS-1iPMbF0IN9Y8Q",
       "title": "Hell Of A Week",
       "thumb": "https://yt3.ggpht.com/ILcY-aOggUfqvN_dXEaqxpysySHeGiwtkP1eQJFjcumDhVsBUrweizoCmG3N785ZtunfKZ0D=s88-c-k-c0x00ffffff-no-rj",
@@ -6570,6 +6600,16 @@
       "distinctSourceCount": 11,
       "hop": 1,
       "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCaO6TYtlC8U5ttz62hTrZgg",
+      "title": "JYP Entertainment",
+      "thumb": "https://yt3.ggpht.com/2gb_g-qmLOeU6ZC3xyEPFN-fxDqkOkqr44TapTNi6iKQfLL13nOK6kuPWtYVTMPuiyT2tcb64A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 11,
+      "distinctSourceCount": 11,
+      "hop": 0,
+      "uploadsPerDay": 0.43,
       "recentItemCount": 0
     },
     {
@@ -6690,6 +6730,16 @@
       "distinctSourceCount": 11,
       "hop": 1,
       "uploadsPerDay": 0.05,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCulYu1HEIa7f70L2lYZWHOw",
+      "title": "michaeljacksonVEVO",
+      "thumb": "https://yt3.ggpht.com/nvt02XjPB-lklNBuV8rI9BQOgD1l7geYdJBzTkgoFJTgdK_Fzv_eaoQ9jV4Vb9DWFks0QFzeog=s88-c-k-c0x00ffffff-no-rj",
+      "score": 11,
+      "distinctSourceCount": 11,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -6953,6 +7003,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCFkid-1EIBbauJLbMFDp2Cg",
+      "title": "UC Berkeley Events",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kqdEXLIOn-E2yWhK76rH8hQu5p_6S4gvQSddvsXWzLmw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 11,
+      "distinctSourceCount": 11,
+      "hop": 0,
+      "uploadsPerDay": 0.5,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC4O3bhyajWjZWswetbylEOA",
       "title": "Ultra Bhakti",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kNX-pxsTlCRljqxp3O1JS-2NgUgputi0KZiCa4lQIEpmY=s88-c-k-c0x00ffffff-no-rj",
@@ -7063,6 +7123,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC86dbj-lbDks_hZ5gRKL49Q",
+      "title": "AFP News Agency",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kUhmA2lfpvTaae-mHvsBOGez1u0ZoH-7GIH2tCCfiHAm_e=s88-c-k-c0x00ffffff-no-rj",
+      "score": 10,
+      "distinctSourceCount": 10,
+      "hop": 0,
+      "uploadsPerDay": 14.53,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCSXT1otf3mrMBEM02m9QARQ",
       "title": "AltIndieOnVEVO",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_la6AC0U1B08UojZtimNZkW_6v2qEE_Bb_8revp0vFpWQ=s88-c-k-c0x00ffffff-no-rj",
@@ -7080,6 +7150,16 @@
       "distinctSourceCount": 10,
       "hop": 0,
       "uploadsPerDay": 162.72,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCf8w5m0YsRa8MHQ5bwSGmbw",
+      "title": "asianetnews",
+      "thumb": "https://yt3.ggpht.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 10,
+      "distinctSourceCount": 10,
+      "hop": 0,
+      "uploadsPerDay": 72.68,
       "recentItemCount": 0
     },
     {
@@ -7163,16 +7243,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCWCPNq8nLTN23WTBbrkNAFQ",
-      "title": "CFHOFandM",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n38Ubu5VVnL_eTZzRx95Ze1HKehJ5LNqOgrUv9TORV1Q=s88-c-k-c0x00ffffff-no-rj",
-      "score": 10,
-      "distinctSourceCount": 10,
-      "hop": 0,
-      "uploadsPerDay": 0.03,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCooTDp-fERMGRHIQ4VL4qlg",
       "title": "Channel 4 Documentaries",
       "thumb": "https://yt3.ggpht.com/dN-T370cAU0WdCJ_T3HfoS6huOQtDawUq3cgtI6GusEfxwq0GNyl-X8lKkfQBNCHaXnwBB9TwQ=s88-c-k-c0x00ffffff-no-rj",
@@ -7200,6 +7270,16 @@
       "distinctSourceCount": 10,
       "hop": 1,
       "uploadsPerDay": 1.61,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UChBQgieUidXV1CmDxSdRm3g",
+      "title": "Citizen TV Kenya",
+      "thumb": "https://yt3.ggpht.com/wj5XPSPtxg2oy9kdzdfRFRtyebgfB5mirkM8QmLR0TFqdzxga7iSWImBZo0DyQQ16zUvmDHr=s88-c-k-c0x00ffffff-no-rj",
+      "score": 10,
+      "distinctSourceCount": 10,
+      "hop": 0,
+      "uploadsPerDay": 34.45,
       "recentItemCount": 0
     },
     {
@@ -7423,16 +7503,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCUIbTdEI7D1AMyLATIdKq5w",
-      "title": "Groucho Marx - You Bet Your Life",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_ndCH-S-TBxWKYkDqLcNr-568NJIq0KYubISGWqTai26g=s88-c-k-c0x00ffffff-no-rj",
-      "score": 10,
-      "distinctSourceCount": 10,
-      "hop": 0,
-      "uploadsPerDay": 0.04,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCrzyJYtjLOTfnUur8hsr7ow",
       "title": "HighlightsNepal",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_mjSyh3XkbG_DueAQoEWIPhPRUcbe2ZsjK8VeyWdisaSP8=s88-c-k-c0x00ffffff-no-rj",
@@ -7520,16 +7590,6 @@
       "distinctSourceCount": 10,
       "hop": 0,
       "uploadsPerDay": 10.17,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCaO6TYtlC8U5ttz62hTrZgg",
-      "title": "JYP Entertainment",
-      "thumb": "https://yt3.ggpht.com/2gb_g-qmLOeU6ZC3xyEPFN-fxDqkOkqr44TapTNi6iKQfLL13nOK6kuPWtYVTMPuiyT2tcb64A=s88-c-k-c0x00ffffff-no-rj",
-      "score": 10,
-      "distinctSourceCount": 10,
-      "hop": 0,
-      "uploadsPerDay": 0.43,
       "recentItemCount": 0
     },
     {
@@ -7640,16 +7700,6 @@
       "distinctSourceCount": 10,
       "hop": 1,
       "uploadsPerDay": 0.92,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCulYu1HEIa7f70L2lYZWHOw",
-      "title": "michaeljacksonVEVO",
-      "thumb": "https://yt3.ggpht.com/nvt02XjPB-lklNBuV8rI9BQOgD1l7geYdJBzTkgoFJTgdK_Fzv_eaoQ9jV4Vb9DWFks0QFzeog=s88-c-k-c0x00ffffff-no-rj",
-      "score": 10,
-      "distinctSourceCount": 10,
-      "hop": 0,
-      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -8123,6 +8173,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCBR8-60-B28hp2BmDPdntcQ",
+      "title": "YouTube",
+      "thumb": "https://yt3.ggpht.com/3s6evpqAiDU9tQR4sC2siJippbH2RWVPnwHgyl4V0th2iuQz0VDQZbUhQBGmsxLYo-mjG6TqZQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 10,
+      "distinctSourceCount": 10,
+      "hop": 2,
+      "uploadsPerDay": 0.08,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCB4Rm7m0PxZ1W_mYwz2gUig",
       "title": "Ревізори",
       "thumb": "https://yt3.ggpht.com/J8m6OJQAEgv65id1pmt7uC3PBbi9SZbjiOsdz2hHb7xspCZp0ofjhjbYsxMeOnXSxTXSn6aVppY=s88-c-k-c0x00ffffff-no-rj",
@@ -8233,16 +8293,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UC86dbj-lbDks_hZ5gRKL49Q",
-      "title": "AFP News Agency",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kUhmA2lfpvTaae-mHvsBOGez1u0ZoH-7GIH2tCCfiHAm_e=s88-c-k-c0x00ffffff-no-rj",
-      "score": 9,
-      "distinctSourceCount": 9,
-      "hop": 0,
-      "uploadsPerDay": 14.53,
-      "recentItemCount": 0
-    },
-    {
       "id": "UC2N-kZRatRnJxYqVrRHG6DA",
       "title": "AJonAir",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_k6aPj3JKpDUFoWcJWhNPutD0oj8nCLH9aBGHpjHBw=s88-c-k-c0x00ffffff-no-rj",
@@ -8310,16 +8360,6 @@
       "distinctSourceCount": 9,
       "hop": 1,
       "uploadsPerDay": 0.02,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCf8w5m0YsRa8MHQ5bwSGmbw",
-      "title": "asianetnews",
-      "thumb": "https://yt3.ggpht.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s88-c-k-c0x00ffffff-no-rj",
-      "score": 9,
-      "distinctSourceCount": 9,
-      "hop": 0,
-      "uploadsPerDay": 72.68,
       "recentItemCount": 0
     },
     {
@@ -8440,6 +8480,16 @@
       "distinctSourceCount": 9,
       "hop": 1,
       "uploadsPerDay": 0.09,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC-pE29OUR43BqqBxIeyo_GA",
+      "title": "ChannelFrederator",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfXeolv-FHEddk8U8iTtJVB8LSMbZ9I0ORX-XNPCorvhA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 9,
+      "distinctSourceCount": 9,
+      "hop": 0,
+      "uploadsPerDay": 0.24,
       "recentItemCount": 0
     },
     {
@@ -8593,6 +8643,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCt-N6BZ25OHGoWHzfvlPhOg",
+      "title": "GoogleTalksArchive",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lNY-d8EjVkeCcYpt7B7dykT9vgwL8a6La3x94lxRE=s88-c-k-c0x00ffffff-no-rj",
+      "score": 9,
+      "distinctSourceCount": 9,
+      "hop": 1,
+      "uploadsPerDay": 0.1,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCFiHjGyrJux8Rt4e6mUPU-w",
       "title": "GTA VI O’Clock",
       "thumb": "https://yt3.ggpht.com/YqbKyHp9-3c69f7-kXhpKmwLJohZkD70NhN_OVYYlWjweVxWoLLgL8VjBCjdaK-5Pw2S7OHUdA=s88-c-k-c0x00ffffff-no-rj",
@@ -8610,6 +8670,16 @@
       "distinctSourceCount": 9,
       "hop": 1,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCbVIl4vNo5Ps2V9nM8ykgFA",
+      "title": "hfxmusicman",
+      "thumb": "https://yt3.ggpht.com/LiDX7FL_861Tnyh1H7Yjs-Ctq_Uhww5JFHNjsaY1Okzq1BKJpgHtywWFcIazTrHycf3_eSF3jg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 9,
+      "distinctSourceCount": 9,
+      "hop": 0,
+      "uploadsPerDay": 0.13,
       "recentItemCount": 0
     },
     {
@@ -8820,6 +8890,16 @@
       "distinctSourceCount": 9,
       "hop": 1,
       "uploadsPerDay": 0.38,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCbObxjfi3W9YKnDS0PgadNA",
+      "title": "Library of Congress",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOJbHFN3q1yVKn2jGy5hM_Dj4jkq1BibwRl9reUyyDZo4=s88-c-k-c0x00ffffff-no-rj",
+      "score": 9,
+      "distinctSourceCount": 9,
+      "hop": 0,
+      "uploadsPerDay": 1.08,
       "recentItemCount": 0
     },
     {
@@ -9503,6 +9583,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCCHcEUksSVKsRDH86j77Ntg",
+      "title": "thelonelyisland",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwpPZiDzeEy8MJSFFzOOREA8CjZRMp1LRBVPfkISIRR4E=s88-c-k-c0x00ffffff-no-rj",
+      "score": 9,
+      "distinctSourceCount": 9,
+      "hop": 0,
+      "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC82whIYBu8CJg9PNfuyO-rg",
       "title": "TheTragicallyHipVEVO",
       "thumb": "https://yt3.ggpht.com/0MNGdwpEQpzQHoRrtV_djPcadyhGa5I15lT64amWeF_9tOnGBmSzNdqeD5oTMoNRr97-D83YnR4=s88-c-k-c0x00ffffff-no-rj",
@@ -9580,16 +9670,6 @@
       "distinctSourceCount": 9,
       "hop": 0,
       "uploadsPerDay": 91.97,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCFkid-1EIBbauJLbMFDp2Cg",
-      "title": "UC Berkeley Events",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kqdEXLIOn-E2yWhK76rH8hQu5p_6S4gvQSddvsXWzLmw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 9,
-      "distinctSourceCount": 9,
-      "hop": 0,
-      "uploadsPerDay": 0.5,
       "recentItemCount": 0
     },
     {
@@ -9720,16 +9800,6 @@
       "distinctSourceCount": 9,
       "hop": 1,
       "uploadsPerDay": 0.02,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCBR8-60-B28hp2BmDPdntcQ",
-      "title": "YouTube",
-      "thumb": "https://yt3.ggpht.com/3s6evpqAiDU9tQR4sC2siJippbH2RWVPnwHgyl4V0th2iuQz0VDQZbUhQBGmsxLYo-mjG6TqZQ=s88-c-k-c0x00ffffff-no-rj",
-      "score": 9,
-      "distinctSourceCount": 9,
-      "hop": 2,
-      "uploadsPerDay": 0.08,
       "recentItemCount": 0
     },
     {
@@ -9943,6 +10013,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCgPClNr5VSYC3syrDUIlzLw",
+      "title": "Adult Swim",
+      "thumb": "https://yt3.ggpht.com/oGhBcOj4r0zwibT0YBO70um0bKh5g-DW7cuamIha3zmdJ7wxcinJUMybzVwhXCn6PXnFf8zP=s88-c-k-c0x00ffffff-no-rj",
+      "score": 8,
+      "distinctSourceCount": 8,
+      "hop": 0,
+      "uploadsPerDay": 1.19,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC3ib3UuY0nVgPg8-2rdVp4w",
       "title": "Agniveena",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_lftIlDb_-fOXgyxSQ0EkkNlBaiuT-tNMgq9gj5lLGqM70=s88-c-k-c0x00ffffff-no-rj",
@@ -10050,6 +10130,16 @@
       "distinctSourceCount": 8,
       "hop": 0,
       "uploadsPerDay": 0.41,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC-FQUIVQ-bZiefzBiQAa8Fw",
+      "title": "BBC Radio 1",
+      "thumb": "https://yt3.ggpht.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 8,
+      "distinctSourceCount": 8,
+      "hop": 1,
+      "uploadsPerDay": 0.66,
       "recentItemCount": 0
     },
     {
@@ -10173,26 +10263,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UC-pE29OUR43BqqBxIeyo_GA",
-      "title": "ChannelFrederator",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfXeolv-FHEddk8U8iTtJVB8LSMbZ9I0ORX-XNPCorvhA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 8,
-      "distinctSourceCount": 8,
-      "hop": 0,
-      "uploadsPerDay": 0.24,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UChBQgieUidXV1CmDxSdRm3g",
-      "title": "Citizen TV Kenya",
-      "thumb": "https://yt3.ggpht.com/wj5XPSPtxg2oy9kdzdfRFRtyebgfB5mirkM8QmLR0TFqdzxga7iSWImBZo0DyQQ16zUvmDHr=s88-c-k-c0x00ffffff-no-rj",
-      "score": 8,
-      "distinctSourceCount": 8,
-      "hop": 0,
-      "uploadsPerDay": 34.45,
-      "recentItemCount": 0
-    },
-    {
       "id": "UC5V8MdQsT_gLlw8rTyf7jVQ",
       "title": "ClipZone: Comedy Callbacks",
       "thumb": "https://yt3.ggpht.com/oWRl6PrNZV0dIl6Zi_285a0vclL84U26PLktcBWXZs_O2IMXgTw_tc2XQ807K-6_FXkj_pLQ=s88-c-k-c0x00ffffff-no-rj",
@@ -10230,6 +10300,16 @@
       "distinctSourceCount": 8,
       "hop": 1,
       "uploadsPerDay": 0.13,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCupvZG-5ko_eiXAupbDfxWw",
+      "title": "CNN",
+      "thumb": "https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 8,
+      "distinctSourceCount": 8,
+      "hop": 0,
+      "uploadsPerDay": 24.38,
       "recentItemCount": 0
     },
     {
@@ -10513,6 +10593,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCiQ9jOurzsdkTpBkGjKZCoA",
+      "title": "GarbageVEVO",
+      "thumb": "https://yt3.ggpht.com/Tvuz8TUqA9hIqbsAcylLvsky-wx7FkXor8_5HSv3C1FCTBPvWzpCWPS2-A0uzL35bFYuWAfEWw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 8,
+      "distinctSourceCount": 8,
+      "hop": 1,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCr6UbU_2j09MeSILyRQWXpg",
       "title": "Gem Tunes Films",
       "thumb": "https://yt3.ggpht.com/hW7rN_kaFaBRGe-T578C4mzajxE-9AT1aB5RyG0f-8PzR7e6YWwYlFOJO7CVNRidUZzvfu--2A=s88-c-k-c0x00ffffff-no-rj",
@@ -10550,16 +10640,6 @@
       "distinctSourceCount": 8,
       "hop": 0,
       "uploadsPerDay": 0.87,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCt-N6BZ25OHGoWHzfvlPhOg",
-      "title": "GoogleTalksArchive",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lNY-d8EjVkeCcYpt7B7dykT9vgwL8a6La3x94lxRE=s88-c-k-c0x00ffffff-no-rj",
-      "score": 8,
-      "distinctSourceCount": 8,
-      "hop": 1,
-      "uploadsPerDay": 0.1,
       "recentItemCount": 0
     },
     {
@@ -10823,16 +10903,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCbObxjfi3W9YKnDS0PgadNA",
-      "title": "Library of Congress",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOJbHFN3q1yVKn2jGy5hM_Dj4jkq1BibwRl9reUyyDZo4=s88-c-k-c0x00ffffff-no-rj",
-      "score": 8,
-      "distinctSourceCount": 8,
-      "hop": 0,
-      "uploadsPerDay": 1.08,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCqJ8doxLD3jjID7PmwICOzA",
       "title": "Little Baby Bum in Arabic - أغاني و ألعاب للأطفال",
       "thumb": "https://yt3.ggpht.com/UAh1_Rzp9Jm3s2UcbxzI-kPH2QXbaU4IcL7Sk1q7wSQlK2DccYDdvY7ZfbMGd2lRuxQlrL_wSw=s88-c-k-c0x00ffffff-no-rj",
@@ -10990,6 +11060,16 @@
       "distinctSourceCount": 8,
       "hop": 0,
       "uploadsPerDay": 0.64,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCx2qMIoQIchX9o5x38hf1Bw",
+      "title": "NdaniTV",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mHrdCFHSbjH1FS5ZJA8VIBcrZQbU6VZCfL6A25aeBB1EQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 8,
+      "distinctSourceCount": 8,
+      "hop": 0,
+      "uploadsPerDay": 0.35,
       "recentItemCount": 0
     },
     {
@@ -11353,6 +11433,36 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCWqPRUsJlZaDp-PVbqEch9g",
+      "title": "Smithsonian Channel",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mej33cYIqIZDw0-JNgFVB39H9mLmdKjxfsddaodXaHoDBR=s88-c-k-c0x00ffffff-no-rj",
+      "score": 8,
+      "distinctSourceCount": 8,
+      "hop": 0,
+      "uploadsPerDay": 0.5,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC4SUWizzKc1tptprBkWjX2Q",
+      "title": "South China Morning Post",
+      "thumb": "https://yt3.ggpht.com/4Q9yos_fKmzf0o36ETS4IZelXBRLwJ5_4pSGvWNbLLhhGNs4RqmAmsYKPkc-Dx_EgVTCxaBOmdU=s88-c-k-c0x00ffffff-no-rj",
+      "score": 8,
+      "distinctSourceCount": 8,
+      "hop": 0,
+      "uploadsPerDay": 2.98,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+      "title": "Stanford Graduate School of Business",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lWoHJNSE1UPPiFdCG4_aQZ1apKXrKI7nZ_sFlKwhNwRl0=s88-c-k-c0x00ffffff-no-rj",
+      "score": 8,
+      "distinctSourceCount": 8,
+      "hop": 0,
+      "uploadsPerDay": 0.6,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCIgpASerBcG9bWUCpwAUBQA",
       "title": "starsailorofficial",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_mCfE7KJSRJzsz-RrPCe3UT0sofEztoL-vcjO4CqDDUuQ=s88-c-k-c0x00ffffff-no-rj",
@@ -11480,16 +11590,6 @@
       "distinctSourceCount": 8,
       "hop": 1,
       "uploadsPerDay": 0.1,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCCHcEUksSVKsRDH86j77Ntg",
-      "title": "thelonelyisland",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwpPZiDzeEy8MJSFFzOOREA8CjZRMp1LRBVPfkISIRR4E=s88-c-k-c0x00ffffff-no-rj",
-      "score": 8,
-      "distinctSourceCount": 8,
-      "hop": 0,
-      "uploadsPerDay": 0.03,
       "recentItemCount": 0
     },
     {
@@ -11923,16 +12023,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCgPClNr5VSYC3syrDUIlzLw",
-      "title": "Adult Swim",
-      "thumb": "https://yt3.ggpht.com/oGhBcOj4r0zwibT0YBO70um0bKh5g-DW7cuamIha3zmdJ7wxcinJUMybzVwhXCn6PXnFf8zP=s88-c-k-c0x00ffffff-no-rj",
-      "score": 7,
-      "distinctSourceCount": 7,
-      "hop": 0,
-      "uploadsPerDay": 1.19,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCUULKbUzmSHJfTAfEUiZZPA",
       "title": "AmyGrantVEVO",
       "thumb": "https://yt3.ggpht.com/go8Hgk8P1XknlywIbiJyWL6pYiKRvmxbmVvfeZZMPj9xZL1_6RW_df4-GsNmTItnoBbAo9FW=s88-c-k-c0x00ffffff-no-rj",
@@ -12020,16 +12110,6 @@
       "distinctSourceCount": 7,
       "hop": 1,
       "uploadsPerDay": 0.06,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UC-FQUIVQ-bZiefzBiQAa8Fw",
-      "title": "BBC Radio 1",
-      "thumb": "https://yt3.ggpht.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s88-c-k-c0x00ffffff-no-rj",
-      "score": 7,
-      "distinctSourceCount": 7,
-      "hop": 1,
-      "uploadsPerDay": 0.66,
       "recentItemCount": 0
     },
     {
@@ -12253,6 +12333,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCxR7i_S5yMuTKkzEwRXdb9A",
+      "title": "Cherry Red Records",
+      "thumb": "https://yt3.ggpht.com/-cRnVejVE4J9zFrh7ShIzT_3SOOl6_y77YBqve1S8EUCYPG0BsuOiqcBl4a3lAhxA3IaBtNKEQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 7,
+      "distinctSourceCount": 7,
+      "hop": 1,
+      "uploadsPerDay": 0.41,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCv8L1rlN6vw-jo6FN5n6gGw",
       "title": "Clap Tone Pictures",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_k_jl9G9ez9z5aepIcOaZXEtm8g1wBEsecbjsMKva4Gqg=s88-c-k-c0x00ffffff-no-rj",
@@ -12270,16 +12360,6 @@
       "distinctSourceCount": 7,
       "hop": 1,
       "uploadsPerDay": 0.72,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCupvZG-5ko_eiXAupbDfxWw",
-      "title": "CNN",
-      "thumb": "https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 7,
-      "distinctSourceCount": 7,
-      "hop": 0,
-      "uploadsPerDay": 24.38,
       "recentItemCount": 0
     },
     {
@@ -12523,6 +12603,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCaBf1a-dpIsw8OxqH4ki2Kg",
+      "title": "Geek & Sundry",
+      "thumb": "https://yt3.ggpht.com/zi7GbYQvBWcaaIZSBtY7ns4KHXz-Twukt8q9kMkFWGJJAcbSiG0f6LuWKFnSFPF3IJHO_oES=s88-c-k-c0x00ffffff-no-rj",
+      "score": 7,
+      "distinctSourceCount": 7,
+      "hop": 0,
+      "uploadsPerDay": 0.42,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCKN4Ol9PRaAnKHfvTORjfAQ",
       "title": "Gelsin Hayat Bildiği Gibi",
       "thumb": "https://yt3.ggpht.com/TpduPkCcBX-LmTxLNc2n9_jzufCOpx94OUDkk3bbmWY-JalIhiwjq1DONiGi5J42KpVHfhTg9Q=s88-c-k-c0x00ffffff-no-rj",
@@ -12600,16 +12690,6 @@
       "distinctSourceCount": 7,
       "hop": 2,
       "uploadsPerDay": 0.43,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCbVIl4vNo5Ps2V9nM8ykgFA",
-      "title": "hfxmusicman",
-      "thumb": "https://yt3.ggpht.com/LiDX7FL_861Tnyh1H7Yjs-Ctq_Uhww5JFHNjsaY1Okzq1BKJpgHtywWFcIazTrHycf3_eSF3jg=s88-c-k-c0x00ffffff-no-rj",
-      "score": 7,
-      "distinctSourceCount": 7,
-      "hop": 0,
-      "uploadsPerDay": 0.13,
       "recentItemCount": 0
     },
     {
@@ -13343,6 +13423,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCw-_ba5d6gmjlfQMNAgXS6w",
+      "title": "Prof Alan Macfarlane - Ayabaya",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lSuZq4Vuk0S1FW0GtXK8jGOOSTxGGZDvBclFQIuoM=s88-c-k-c0x00ffffff-no-rj",
+      "score": 7,
+      "distinctSourceCount": 7,
+      "hop": 0,
+      "uploadsPerDay": 0.32,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCA8XaJaYs37H3iZuKebEgDQ",
       "title": "PuddleOfMuddVEVO",
       "thumb": "https://yt3.ggpht.com/tM9SQsvHL_yaJL2LO3wl_NZi_IkHAq4JnJ14VBFlP49kTcXTpg9L4ZFqX3nvVemDyTcIt7Nq=s88-c-k-c0x00ffffff-no-rj",
@@ -13503,16 +13593,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCWqPRUsJlZaDp-PVbqEch9g",
-      "title": "Smithsonian Channel",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mej33cYIqIZDw0-JNgFVB39H9mLmdKjxfsddaodXaHoDBR=s88-c-k-c0x00ffffff-no-rj",
-      "score": 7,
-      "distinctSourceCount": 7,
-      "hop": 0,
-      "uploadsPerDay": 0.5,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCBzkVegsFusO7ZMa_J8MZ7Q",
       "title": "sNack!",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_l9p2mWTUHBZVIjNSZOcv3tAOu9NTxYr6RJnkhIseIcmjw=s88-c-k-c0x00ffffff-no-rj",
@@ -13540,16 +13620,6 @@
       "distinctSourceCount": 7,
       "hop": 0,
       "uploadsPerDay": 1.52,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UC4SUWizzKc1tptprBkWjX2Q",
-      "title": "South China Morning Post",
-      "thumb": "https://yt3.ggpht.com/4Q9yos_fKmzf0o36ETS4IZelXBRLwJ5_4pSGvWNbLLhhGNs4RqmAmsYKPkc-Dx_EgVTCxaBOmdU=s88-c-k-c0x00ffffff-no-rj",
-      "score": 7,
-      "distinctSourceCount": 7,
-      "hop": 0,
-      "uploadsPerDay": 2.98,
       "recentItemCount": 0
     },
     {
@@ -13873,6 +13943,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
+      "title": "underyourskin",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
+      "score": 7,
+      "distinctSourceCount": 7,
+      "hop": 0,
+      "uploadsPerDay": 0.13,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCLGUved4GiiEoV8kWwRoayg",
       "title": "Universal Music Australia",
       "thumb": "https://yt3.ggpht.com/nhY0F_n7-wm0jZAfikxyiGGmYNOgigRtxk2AEew12FTe_G-4yGcdG8tsa9QrrnCfg2m7zBVH=s88-c-k-c0x00ffffff-no-rj",
@@ -14170,6 +14250,16 @@
       "distinctSourceCount": 6,
       "hop": 1,
       "uploadsPerDay": 0.15,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC0L1suV8pVgO4pCAIBNGx5w",
+      "title": "60 Minutes Australia",
+      "thumb": "https://yt3.ggpht.com/xV2Da9xw7o6xEisliczER_jtv5ycee-pa50dRX8UWyc898h3jIA3SN7jaVP87kLT7s8bfWuC=s88-c-k-c0x00ffffff-no-rj",
+      "score": 6,
+      "distinctSourceCount": 6,
+      "hop": 0,
+      "uploadsPerDay": 1.27,
       "recentItemCount": 0
     },
     {
@@ -14623,16 +14713,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCxR7i_S5yMuTKkzEwRXdb9A",
-      "title": "Cherry Red Records",
-      "thumb": "https://yt3.ggpht.com/-cRnVejVE4J9zFrh7ShIzT_3SOOl6_y77YBqve1S8EUCYPG0BsuOiqcBl4a3lAhxA3IaBtNKEQ=s88-c-k-c0x00ffffff-no-rj",
-      "score": 6,
-      "distinctSourceCount": 6,
-      "hop": 1,
-      "uploadsPerDay": 0.41,
-      "recentItemCount": 0
-    },
-    {
       "id": "UC18sv5SX_L9LTAkFpUQBAHA",
       "title": "Classic GAA Videos & Clips",
       "thumb": "https://yt3.ggpht.com/ArJQFir33CSY7TlV1blT7RraiP6N6Yt3kfWEHT-iXC1ciP6mU5vCAcdC2QTVbvtKWO5iR6-euQ=s88-c-k-c0x00ffffff-no-rj",
@@ -15070,16 +15150,6 @@
       "distinctSourceCount": 6,
       "hop": 1,
       "uploadsPerDay": 0.09,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCaBf1a-dpIsw8OxqH4ki2Kg",
-      "title": "Geek & Sundry",
-      "thumb": "https://yt3.ggpht.com/zi7GbYQvBWcaaIZSBtY7ns4KHXz-Twukt8q9kMkFWGJJAcbSiG0f6LuWKFnSFPF3IJHO_oES=s88-c-k-c0x00ffffff-no-rj",
-      "score": 6,
-      "distinctSourceCount": 6,
-      "hop": 0,
-      "uploadsPerDay": 0.42,
       "recentItemCount": 0
     },
     {
@@ -15983,6 +16053,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCzK2c-Ou5UJLIOCrwy0WEJA",
+      "title": "Paul Woods",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n6bbbePJYD31GgISmUuIvUcZwADh80v1Rwq81Ig40NXaUV=s88-c-k-c0x00ffffff-no-rj",
+      "score": 6,
+      "distinctSourceCount": 6,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCrNnk0wFBnCS1awGjq_ijGQ",
       "title": "PBS KIDS",
       "thumb": "https://yt3.ggpht.com/ZBcGbfxSEOigEe07nPd5AsSrYRO9NLqyxBZ1rGLtFC4Fr6eUqoL5D97U_aHLN4wO-p66Q7sO0g=s88-c-k-c0x00ffffff-no-rj",
@@ -16040,16 +16120,6 @@
       "distinctSourceCount": 6,
       "hop": 2,
       "uploadsPerDay": 0.01,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCw-_ba5d6gmjlfQMNAgXS6w",
-      "title": "Prof Alan Macfarlane - Ayabaya",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lSuZq4Vuk0S1FW0GtXK8jGOOSTxGGZDvBclFQIuoM=s88-c-k-c0x00ffffff-no-rj",
-      "score": 6,
-      "distinctSourceCount": 6,
-      "hop": 0,
-      "uploadsPerDay": 0.32,
       "recentItemCount": 0
     },
     {
@@ -16270,16 +16340,6 @@
       "distinctSourceCount": 6,
       "hop": 0,
       "uploadsPerDay": 0.01,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCGwuxdEeCf0TIA2RbPOj-8g",
-      "title": "Stanford Graduate School of Business",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lWoHJNSE1UPPiFdCG4_aQZ1apKXrKI7nZ_sFlKwhNwRl0=s88-c-k-c0x00ffffff-no-rj",
-      "score": 6,
-      "distinctSourceCount": 6,
-      "hop": 0,
-      "uploadsPerDay": 0.6,
       "recentItemCount": 0
     },
     {
@@ -16623,16 +16683,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
-      "title": "underyourskin",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
-      "score": 6,
-      "distinctSourceCount": 6,
-      "hop": 0,
-      "uploadsPerDay": 0.13,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCY26xU0-avwTJ6F6TzUZVEw",
       "title": "Universal Kids",
       "thumb": "https://yt3.ggpht.com/lZs4YRnApjbRJ4otcistr66nLMWckKBbFS3XjaJcLQe7iY0iYk9_bpPwJYqQSVrUpkzrZnMy_w=s88-c-k-c0x00ffffff-no-rj",
@@ -16670,6 +16720,16 @@
       "distinctSourceCount": 6,
       "hop": 1,
       "uploadsPerDay": 0.11,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCnAsiniI4DF7vAAe7omWWFQ",
+      "title": "US National Archives",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbyMtBC27JVL62Bd9YIeWaT4JbXoTxe6qe46UpgaFivCM=s88-c-k-c0x00ffffff-no-rj",
+      "score": 6,
+      "distinctSourceCount": 6,
+      "hop": 0,
+      "uploadsPerDay": 0.63,
       "recentItemCount": 0
     },
     {
@@ -16983,6 +17043,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC_fUfLFo31WTFZPxgr1EcLA",
+      "title": "כאן חינוכית",
+      "thumb": "https://yt3.ggpht.com/2ar8IuWjF20rEq8qEGf96FXLeDgRp4hrYT1BC6MS77f4aeehTO60Ec3im9_8E5v7yy9J8tRHH9c=s88-c-k-c0x00ffffff-no-rj",
+      "score": 6,
+      "distinctSourceCount": 6,
+      "hop": 0,
+      "uploadsPerDay": 3.13,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCoHsxU1eDWHom6D7Fce6kLA",
       "title": "신비아파트 공식채널 - Shinbi House",
       "thumb": "https://yt3.ggpht.com/vB7fwJO0FsCnb9oOxBWQXVDqq5QhzAkMz7CVS7h_-lOpTU3XfcwPz8Arz0MnT8xIKSpOs9wp2w=s88-c-k-c0x00ffffff-no-rj",
@@ -17060,16 +17130,6 @@
       "distinctSourceCount": 5,
       "hop": 0,
       "uploadsPerDay": 0.01,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UC0L1suV8pVgO4pCAIBNGx5w",
-      "title": "60 Minutes Australia",
-      "thumb": "https://yt3.ggpht.com/xV2Da9xw7o6xEisliczER_jtv5ycee-pa50dRX8UWyc898h3jIA3SN7jaVP87kLT7s8bfWuC=s88-c-k-c0x00ffffff-no-rj",
-      "score": 5,
-      "distinctSourceCount": 5,
-      "hop": 0,
-      "uploadsPerDay": 1.27,
       "recentItemCount": 0
     },
     {
@@ -17853,6 +17913,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCzuqE7-t13O4NIDYJfakrhw",
+      "title": "Democracy Now!",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_k13evyGyej3TcaRYOEUzR4OSYdCEHnHeQipbK0lJZOs5o=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 2.66,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCjvlwa6AOFGJ6e3Mjr2cg3w",
       "title": "DestinysChildVEVO",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kDZmJPFiRSGT34YMEDpSJpLeiGkbyDJKXKBmpa9FasSvI=s88-c-k-c0x00ffffff-no-rj",
@@ -18283,6 +18353,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCQpvGdZiIfJXpgMUYDK1exQ",
+      "title": "Gilmore Box",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nXdGWRwri73Tqsi_tE-fRTE6eWU1hxjmsddatqFEBkPRA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 0.3,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCfFsalWhdhEy6LJkB0cEG1w",
       "title": "Goli Zivot TV Happy",
       "thumb": "https://yt3.ggpht.com/dSBcKk1vhZsVC2lvz_PWrjZ3Cb8D3hAE9yEbNSrNcbf7cR8icBvz-pyv1kYTpm907uCPZ56imQ=s88-c-k-c0x00ffffff-no-rj",
@@ -18300,6 +18380,16 @@
       "distinctSourceCount": 5,
       "hop": 0,
       "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCqhnX4jA0A5paNd1v-zEysw",
+      "title": "GoPro",
+      "thumb": "https://yt3.ggpht.com/UVXGOJKC_HxL3E5pPi-UP4QW1alBOQsdTFopjErTPqDbcqca2TRorjVpuMm3o6Lytw--pODIkQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 1,
+      "uploadsPerDay": 0.5,
       "recentItemCount": 0
     },
     {
@@ -18340,6 +18430,16 @@
       "distinctSourceCount": 5,
       "hop": 1,
       "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCtIQil-e9wzT_fxySy1y3nw",
+      "title": "Harold Channer",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mN5O1wu72LNB-kKZZLV9tcAtvpxum9EM_d5vH6rpgVEg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 0.2,
       "recentItemCount": 0
     },
     {
@@ -18390,6 +18490,16 @@
       "distinctSourceCount": 5,
       "hop": 1,
       "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCToUNe4i9j_SlKGFl8MrQHg",
+      "title": "Hopeless Records",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lAHwKWKnH5ByAK8aIIWWZk-2WOhoKz4DldiAuROQSazQs=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 1,
+      "uploadsPerDay": 0.38,
       "recentItemCount": 0
     },
     {
@@ -19073,6 +19183,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCSldglor1t-5E-Gy2eBdMrA",
+      "title": "Metal Blade Records",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2EfNv3vGKITfzrEaRVw2xMMFVIKgxX-F5JXf30sQGYP0=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 0.54,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC2a9zmrdjvLsrRgi4G4blWw",
       "title": "MGKVEVO",
       "thumb": "https://yt3.ggpht.com/ZRx4DM8SPOjKFH5Q5sWNVohh9FpHGYFCwhEG7rzunrrwIGEVy6g2eA6yCnikYLF9kE0JliM6mQ=s88-c-k-c0x00ffffff-no-rj",
@@ -19533,6 +19653,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCV-UW3I3mXakSoqV8SpF1sg",
+      "title": "OwlCityVEVO",
+      "thumb": "https://yt3.ggpht.com/MxF4wSdHxOofOJx2nZDyvHjPMxZ8oc6m053Q1GRBmWlHIfhxFvYjvZy6I30vNTxlvrV1Rp33yA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCi1chiZPrJZjk7iwi093kfQ",
       "title": "Oxygen",
       "thumb": "https://yt3.ggpht.com/mf5ZepbOPW5J5fgZyJ7ZheVr5j4kpBYZV0YmUvEoZA2gNFTja3-txgJIV0SxFrX4ZVQe7MEZluE=s88-c-k-c0x00ffffff-no-rj",
@@ -19590,6 +19720,16 @@
       "distinctSourceCount": 5,
       "hop": 2,
       "uploadsPerDay": 0.12,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCvkLNfhb7epdeCsv2YM7Rog",
+      "title": "PixieLottVEVO",
+      "thumb": "https://yt3.ggpht.com/nejWDRbQR_DNom1ePoS7Jp4DMDbeoYZVxzGmbv9ow6kdUpR0TvfhCuppcT9HNQAV8WzFXKjm=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -20113,6 +20253,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC_gE-kg7JvuwCNlbZ1-shlA",
+      "title": "SourceFed",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n0DmvX5e8VPC4KB0mUR7cbCR1vRSY1y65sLWzfmH8tPBo=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 0.84,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC7R27sAWc_DqOldtI1JcYhQ",
       "title": "South Park Studios",
       "thumb": "https://yt3.ggpht.com/U9VqEPJAliDHEWyx2HCfQkH9u9XDjmXSA3dtUCP3Z3ey6-LpCmmrrfhq46HxJrZDvCEwZRzf=s88-c-k-c0x00ffffff-no-rj",
@@ -20200,6 +20350,16 @@
       "distinctSourceCount": 5,
       "hop": 1,
       "uploadsPerDay": 0.55,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC-J3Rig6mrJhGECH-yVMwSg",
+      "title": "SVAstronomyLectures",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kwmC-jhlnJqS5Nn94MjAso3HQVppKzmXvCKrgMwFKJ5g=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -20453,6 +20613,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCo07fumrTn1w4AxcU4j_uDw",
+      "title": "Times Music",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n1We8gVmJKcW3QZeRXExfx7_agawO6uINGhE_XRRcU6IY=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 0.78,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCckHqySbfy5FcPP6MD_S-Yg",
       "title": "Times Of India",
       "thumb": "https://yt3.ggpht.com/cJ4vDypJDnXZhV5MxHZ3-f7nr1h9zEv4Zh7mlMlNe0vDO2R82gKZXnf57RVUUiDXfE1e554ArA=s88-c-k-c0x00ffffff-no-rj",
@@ -20653,16 +20823,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCnAsiniI4DF7vAAe7omWWFQ",
-      "title": "US National Archives",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbyMtBC27JVL62Bd9YIeWaT4JbXoTxe6qe46UpgaFivCM=s88-c-k-c0x00ffffff-no-rj",
-      "score": 5,
-      "distinctSourceCount": 5,
-      "hop": 0,
-      "uploadsPerDay": 0.63,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCelOndCT8F0OmX1Hsph5vnQ",
       "title": "USA Network",
       "thumb": "https://yt3.ggpht.com/8zYXddtg0CH7NXDA63WqNnsIpDLzBTv4vBFNmvuqlLQQqCRFMHLOlo3NDAJ6L-vam7S5sLie=s88-c-k-c0x00ffffff-no-rj",
@@ -20780,6 +20940,16 @@
       "distinctSourceCount": 5,
       "hop": 1,
       "uploadsPerDay": 0.08,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCvbd4lVoe8ur0zJJRuuhC_Q",
+      "title": "Warp Records",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mx5zRNp8f-SUMtU_vG6wXhpz0Hbo1KPIWMn5w7n9OvdCM=s88-c-k-c0x00ffffff-no-rj",
+      "score": 5,
+      "distinctSourceCount": 5,
+      "hop": 0,
+      "uploadsPerDay": 0.06,
       "recentItemCount": 0
     },
     {
@@ -22613,16 +22783,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCzuqE7-t13O4NIDYJfakrhw",
-      "title": "Democracy Now!",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_k13evyGyej3TcaRYOEUzR4OSYdCEHnHeQipbK0lJZOs5o=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 0,
-      "uploadsPerDay": 2.66,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCALKHvyQVYgfydD-e5g5_yw",
       "title": "DePauw University Video Archive",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kTm5X7Rm0Ge38_sjL2VdZJcssbSTdliKRb0ARCLi0W-B8=s88-c-k-c0x00ffffff-no-rj",
@@ -23193,6 +23353,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "title": "FRANCE 24 English",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 0,
+      "uploadsPerDay": 18.06,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCtGBI34gCHkhfI5iaNuyQlg",
       "title": "Franciné - Film en Français",
       "thumb": "https://yt3.ggpht.com/NhuzniQugfuWd3dfv_I0TqyOGz6sItYGDq3H46HzRa8cb9kykDz9lq9YGSa4ZHJ0xow63ODlQSU=s88-c-k-c0x00ffffff-no-rj",
@@ -23200,6 +23370,16 @@
       "distinctSourceCount": 4,
       "hop": 1,
       "uploadsPerDay": 0.29,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCdBcQUZF3ZvERcrjOQsGVPw",
+      "title": "Fred Robbins",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVSK2nOnqjU1PcIGpRxjumr1b2Ebi_QoI0siz2v4cCcm4=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 0,
+      "uploadsPerDay": 0.05,
       "recentItemCount": 0
     },
     {
@@ -23303,16 +23483,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCQpvGdZiIfJXpgMUYDK1exQ",
-      "title": "Gilmore Box",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nXdGWRwri73Tqsi_tE-fRTE6eWU1hxjmsddatqFEBkPRA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 0,
-      "uploadsPerDay": 0.3,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCSkDmV03upcsKNCBUupxjWA",
       "title": "giverny122",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_muCHsrsOn00EQ1AJigf51JN0TzfSj2nS1gHd2jWVc7LA=s88-c-k-c0x00ffffff-no-rj",
@@ -23363,16 +23533,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCqhnX4jA0A5paNd1v-zEysw",
-      "title": "GoPro",
-      "thumb": "https://yt3.ggpht.com/UVXGOJKC_HxL3E5pPi-UP4QW1alBOQsdTFopjErTPqDbcqca2TRorjVpuMm3o6Lytw--pODIkQ=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 1,
-      "uploadsPerDay": 0.5,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCXIdM7ABQ8b9FI495vbsHkA",
       "title": "gordonmcdowell",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_lZ6zt04M213VN_XFG8WTZQwQrAeuFFnx4dSUli7f8ipA=s88-c-k-c0x00ffffff-no-rj",
@@ -23380,6 +23540,16 @@
       "distinctSourceCount": 4,
       "hop": 0,
       "uploadsPerDay": 0.06,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCsEukrAd64fqA7FjwkmZ_Dw",
+      "title": "GQ",
+      "thumb": "https://yt3.ggpht.com/VM9SA0aR-daRT1oaSibiCvbw9QArsJNkTCEf5PYCcA6CEgjA3ZvtwVmzYWH_FXy_EvHfOPYSSA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 0,
+      "uploadsPerDay": 0.71,
       "recentItemCount": 0
     },
     {
@@ -23613,16 +23783,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCToUNe4i9j_SlKGFl8MrQHg",
-      "title": "Hopeless Records",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lAHwKWKnH5ByAK8aIIWWZk-2WOhoKz4DldiAuROQSazQs=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 1,
-      "uploadsPerDay": 0.38,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCEeEQxm6qc_qaTE7qTV5aLQ",
       "title": "HUM TV",
       "thumb": "https://yt3.ggpht.com/zA-EJBUBG8nI8atakCCYgxw6c42fzoxDgIK_3bao7CRZaOR3aBc02VciNymKFMJxYPmQKnnL=s88-c-k-c0x00ffffff-no-rj",
@@ -23720,6 +23880,16 @@
       "distinctSourceCount": 4,
       "hop": 1,
       "uploadsPerDay": 0.38,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCTzOjezXcMXHpMIRNMqR6VA",
+      "title": "Indiavision onlive",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nAA_PQ9U5JIpS39L3ZNmbT9pZuszzemMgKLfb0aLVX71g=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 0,
+      "uploadsPerDay": 1.52,
       "recentItemCount": 0
     },
     {
@@ -24533,16 +24703,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCSldglor1t-5E-Gy2eBdMrA",
-      "title": "Metal Blade Records",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_m2EfNv3vGKITfzrEaRVw2xMMFVIKgxX-F5JXf30sQGYP0=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 0,
-      "uploadsPerDay": 0.54,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCVspeiVseI5mWhAIV0PrnTg",
       "title": "Metalism Records",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kjjI-i_jxzExUTMw8hHLf_W6O0xZNwxMkcle-MjSY2aM0=s88-c-k-c0x00ffffff-no-rj",
@@ -24793,16 +24953,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCx2qMIoQIchX9o5x38hf1Bw",
-      "title": "NdaniTV",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mHrdCFHSbjH1FS5ZJA8VIBcrZQbU6VZCfL6A25aeBB1EQ=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 0,
-      "uploadsPerDay": 0.35,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCZFMm1mMw0F81Z37aaEzTUA",
       "title": "NDTV",
       "thumb": "https://yt3.ggpht.com/mOb3OXPZO0-7LmZ0Y4o_wz2imPJ7aFa_isYXg0awkLyL1ehglmsiQD4rWxwrUrfXLK9jlh35=s88-c-k-c0x00ffffff-no-rj",
@@ -24840,6 +24990,16 @@
       "distinctSourceCount": 4,
       "hop": 0,
       "uploadsPerDay": 6.41,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCfD_lRESpOvOfMUNBZkyXgA",
+      "title": "Neighbours Official Channel",
+      "thumb": "https://yt3.ggpht.com/X96H0g93iFocTFLBnesTd-EX-UW5r0C34Z0yLSe4Um6wVMKFiftLR8xUwPk_yj6HR6166XNFNA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 0,
+      "uploadsPerDay": 0.3,
       "recentItemCount": 0
     },
     {
@@ -25063,6 +25223,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCb2HGwORFBo94DmRx4oLzow",
+      "title": "One Direction",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBZumWLg8HqCIAD4oHGTIIdD8DTz5eV_DgCXFu6KxNjj28=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 1,
+      "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCQ5kHOKpF3-1_UCKaqXARRg",
       "title": "OneRepublicVEVO",
       "thumb": "https://yt3.ggpht.com/WreNpfmfoL90x5CpxIppz6bG-O4-71yTWdAW_lFAjTRFIoqWek_sfMZ14i0JAY2sStjhCKvtcA=s88-c-k-c0x00ffffff-no-rj",
@@ -25093,13 +25263,13 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCV-UW3I3mXakSoqV8SpF1sg",
-      "title": "OwlCityVEVO",
-      "thumb": "https://yt3.ggpht.com/MxF4wSdHxOofOJx2nZDyvHjPMxZ8oc6m053Q1GRBmWlHIfhxFvYjvZy6I30vNTxlvrV1Rp33yA=s88-c-k-c0x00ffffff-no-rj",
+      "id": "UCY7dD6waquGnKTZSumPMTlQ",
+      "title": "OxfordUnion",
+      "thumb": "https://yt3.ggpht.com/MUgRauweToYk5Q-6Ewv2RLIuUljlIQ1K45UmS9HqD-VKhSo-_l8oW4azfVfnyp44mGqcETz144c=s88-c-k-c0x00ffffff-no-rj",
       "score": 4,
       "distinctSourceCount": 4,
       "hop": 0,
-      "uploadsPerDay": 0.01,
+      "uploadsPerDay": 0.48,
       "recentItemCount": 0
     },
     {
@@ -25310,16 +25480,6 @@
       "distinctSourceCount": 4,
       "hop": 0,
       "uploadsPerDay": 0.23,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCvkLNfhb7epdeCsv2YM7Rog",
-      "title": "PixieLottVEVO",
-      "thumb": "https://yt3.ggpht.com/nejWDRbQR_DNom1ePoS7Jp4DMDbeoYZVxzGmbv9ow6kdUpR0TvfhCuppcT9HNQAV8WzFXKjm=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 1,
-      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -25563,6 +25723,36 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC0uVZd8N7FfIZnPu0y7o95A",
+      "title": "ReasonTV",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_laWbFN7VLpzIpPbp2eO_YiLXnMZV2R5NBawv6mtz9jDZ0=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 1,
+      "uploadsPerDay": 0.7,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCblfuW_4rakIf2h6aqANefA",
+      "title": "Red Bull",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_k94J7kkxpmlJe3c2iDFJpHk8SAADPpf49cN7XjomXSzEE=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 1,
+      "uploadsPerDay": 0.97,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCZKMRqHH1-PxvzL07GIzTMg",
+      "title": "Revista Prometeo",
+      "thumb": "https://yt3.ggpht.com/WfHv3S7qNyzOMLBfHcOv0C8Ir-6jDQSDaRxL1DFNWtpAVWMu9QLTivMIGfaHvxieLA6NrEAeoQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 0,
+      "uploadsPerDay": 0.24,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCsof6qICUcobSUN0tTnR-4g",
       "title": "RGGスタジオ 公式",
       "thumb": "https://yt3.ggpht.com/-4jJMuVvEfus13L228QNE_W7hnG6k90R6CfI9vNai4FY75RX8yY5Aq-tK9IUSBKt4_QtT-JpwlE=s88-c-k-c0x00ffffff-no-rj",
@@ -25640,6 +25830,16 @@
       "distinctSourceCount": 4,
       "hop": 1,
       "uploadsPerDay": 0.05,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCGnlgHCdAsCNeAdNRTbS4hg",
+      "title": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kzCs6Jo_vk0x1Usndx_fmWQppooWChAV_6fb9B8JZm5tI=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 1,
+      "uploadsPerDay": 1.41,
       "recentItemCount": 0
     },
     {
@@ -25923,6 +26123,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC3R-xanNgtoa8b7gpVexVlA",
+      "title": "Smarthistory",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lqTCOtmJX6RPYhs3cAHMztn6c2-DouI3TslncTtdyHhW0=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 2,
+      "uploadsPerDay": 0.23,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCY30JRSgfhYXA6i6xX1erWg",
       "title": "Smosh",
       "thumb": "https://yt3.ggpht.com/7WiYNRhekvu81d3UeA1LUmuUmpkienqw-Kfsh7tvCEqWARB6ozpqs4XhZ5w-RdPGcaopLK7KYw=s88-c-k-c0x00ffffff-no-rj",
@@ -26020,16 +26230,6 @@
       "distinctSourceCount": 4,
       "hop": 1,
       "uploadsPerDay": 0.6,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UC_gE-kg7JvuwCNlbZ1-shlA",
-      "title": "SourceFed",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n0DmvX5e8VPC4KB0mUR7cbCR1vRSY1y65sLWzfmH8tPBo=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 0,
-      "uploadsPerDay": 0.84,
       "recentItemCount": 0
     },
     {
@@ -26563,16 +26763,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCo07fumrTn1w4AxcU4j_uDw",
-      "title": "Times Music",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n1We8gVmJKcW3QZeRXExfx7_agawO6uINGhE_XRRcU6IY=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 0,
-      "uploadsPerDay": 0.73,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCpsrB5Ua7jyovQH7zEdivcA",
       "title": "Times Now Archives",
       "thumb": "https://yt3.ggpht.com/flMFBwXnN1kHM-3OAg8zWjmrVLe5XAEFyQnPeIBK0Bt7nSjm9qDQdA6yU_TuTnmPiJ49907E1A=s88-c-k-c0x00ffffff-no-rj",
@@ -26773,6 +26963,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCjX58COleIWwvc0_e9r_oMA",
+      "title": "UKRAINE TODAY",
+      "thumb": "https://yt3.ggpht.com/3qXDqxj5D8V9QFF2m9f21Y8T7cHPDMEuj9StCjhL2TB3iGBx3SdouZvKXaFgJUwhx5UkjYCXhMU=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 0,
+      "uploadsPerDay": 4.69,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCh7chdVHhcQmzQgZopUrbxQ",
       "title": "Ultra 4K Movies",
       "thumb": "https://yt3.ggpht.com/lbJ741ZwxLxG7_5mletFkBpOQz54G6yVL_qZPtX7kWpriJgt4g-68Gi5DWweEXZVrtzaEBaPag=s88-c-k-c0x00ffffff-no-rj",
@@ -26850,6 +27050,16 @@
       "distinctSourceCount": 4,
       "hop": 1,
       "uploadsPerDay": 0.9,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCUGzhBmck61sa3eGxp9xI8A",
+      "title": "VampireWeekendVEVO",
+      "thumb": "https://yt3.ggpht.com/6XUARgqxfLs4vhLntdRM_CqjlLpxlghEI2WwpUc1DbN__T0PpRKFlZLBL1-yvzC3kd8KPNmd2A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 4,
+      "distinctSourceCount": 4,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -27010,16 +27220,6 @@
       "distinctSourceCount": 4,
       "hop": 0,
       "uploadsPerDay": 0.21,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCvbd4lVoe8ur0zJJRuuhC_Q",
-      "title": "Warp Records",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mx5zRNp8f-SUMtU_vG6wXhpz0Hbo1KPIWMn5w7n9OvdCM=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 0,
-      "uploadsPerDay": 0.06,
       "recentItemCount": 0
     },
     {
@@ -27390,16 +27590,6 @@
       "distinctSourceCount": 4,
       "hop": 0,
       "uploadsPerDay": 0.81,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UC_fUfLFo31WTFZPxgr1EcLA",
-      "title": "כאן חינוכית",
-      "thumb": "https://yt3.ggpht.com/2ar8IuWjF20rEq8qEGf96FXLeDgRp4hrYT1BC6MS77f4aeehTO60Ec3im9_8E5v7yy9J8tRHH9c=s88-c-k-c0x00ffffff-no-rj",
-      "score": 4,
-      "distinctSourceCount": 4,
-      "hop": 0,
-      "uploadsPerDay": 3.13,
       "recentItemCount": 0
     },
     {
@@ -27820,6 +28010,16 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC7M42vQrNmZ0tnmmenLWwBA",
+      "title": "ACLU",
+      "thumb": "https://yt3.ggpht.com/z6uwwOH4FEz-Px5vZtctUbIgFWHDYH1qGp7VikljPXUnLN1t9uLgjTwEfLrx34WAF_xChMAN=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.25,
       "recentItemCount": 0
     },
     {
@@ -28933,6 +29133,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCJ6q9Ie29ajGqKApbLqfBOg",
+      "title": "Black Hat",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwQESLMp5tK6oTmV2NHuMpu3jnw2292wfNcPJPDnijqNg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.66,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCvYuEpgW5JEUuAy4sNzdDFQ",
       "title": "Black Hole Recordings",
       "thumb": "https://yt3.ggpht.com/LR2voNEVq8PU4imXAkkaG_XFQkHLIkRKv70x8eRxFKuhr9HhTHTylSbEatpaU50AkyoxhUfw=s88-c-k-c0x00ffffff-no-rj",
@@ -29060,6 +29270,16 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCAalMUm3LIf504ItA3rqfug",
+      "title": "Brentford Football Club",
+      "thumb": "https://yt3.ggpht.com/MorTRXzStmmqAS9_mhW7vuy_QcJU92TKDBfORCkM61ggbv7magqlP02Z6zl9-fjX1RAepz7QlLM=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 1.07,
       "recentItemCount": 0
     },
     {
@@ -30343,6 +30563,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCw45uE5WNz-19Zr4XG1awYw",
+      "title": "dentelTV2",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kQmZ3MWMbx_rUNK_0O_a6QFp7Ho9pOWTosI3XSN1Tz=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.06,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCwgURKfUA7e0Z7_qE3TvBFQ",
       "title": "devinsupertramp",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUSj8uaTeW6yo79qU0VA4FJ5V3Ypu2iwO86C2Tgb7XhV8=s88-c-k-c0x00ffffff-no-rj",
@@ -30380,6 +30610,16 @@
       "distinctSourceCount": 3,
       "hop": 2,
       "uploadsPerDay": 1.63,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCJ7is41ALogEHFhCtgWaoyA",
+      "title": "Dimitri Devyatkin",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_l-SSLNPjBvuK5-bkj50MA61RVujec1Cq57bwcWexQY33I=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -30490,6 +30730,16 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCNLhIEt5WVNG3e9KElVAAFg",
+      "title": "Dmitri Smirnov",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_ksw92_LUOs_sNABd9Iz5ccC31d911LULMDdF-j9_Kj0vc=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -30653,6 +30903,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCS66aeKQNvJSOOGPjVHDE3Q",
+      "title": "EFForg",
+      "thumb": "https://yt3.ggpht.com/7dIqFLJhM0PSaBKqyq_gOo4wmagQ_XRl9BY3unB4SWkeVR_GGhV5aGq0gWSRtHD-TQRTaGV6=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 1,
+      "uploadsPerDay": 0.06,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCVXpKJ4IfVYqjWu6jtIxKKA",
       "title": "egil andersen",
       "thumb": "https://yt3.ggpht.com/lVw2hqOa04xn4g-dECrdg5znQVwUflDlO4Fgf31SWSfwJl-fIGsg3aRzxj1L207MfDunEyj7mg=s88-c-k-c0x00ffffff-no-rj",
@@ -30730,6 +30990,16 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.26,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCewVC75pKtZDaFRX9IZsxLg",
+      "title": "Empress AD",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kXjwHcz67zCQA34RjdRJd7ccG_lql0-1XEn7Bcc5cu4TQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 1,
+      "uploadsPerDay": 0,
       "recentItemCount": 0
     },
     {
@@ -31163,26 +31433,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "title": "FRANCE 24 English",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 18.06,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCdBcQUZF3ZvERcrjOQsGVPw",
-      "title": "Fred Robbins",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVSK2nOnqjU1PcIGpRxjumr1b2Ebi_QoI0siz2v4cCcm4=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 0.05,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCfw-Im__utr2oDnV4cbr8tQ",
       "title": "FREEДОМ: DOC",
       "thumb": "https://yt3.ggpht.com/cytWO5vbF9n70OyHc6ihlNwMPkBs9QUd0cZL3R4TRpo-7cpFUicLpeMXIEixhLmdfPvQS_6I2A=s88-c-k-c0x00ffffff-no-rj",
@@ -31443,16 +31693,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCsEukrAd64fqA7FjwkmZ_Dw",
-      "title": "GQ",
-      "thumb": "https://yt3.ggpht.com/VM9SA0aR-daRT1oaSibiCvbw9QArsJNkTCEf5PYCcA6CEgjA3ZvtwVmzYWH_FXy_EvHfOPYSSA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 0.71,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCIiBf-JbtCazHSFqXV4JgoA",
       "title": "Grace Helbig",
       "thumb": "https://yt3.ggpht.com/lQm9hi3bMMeeIVm2mHjQXnhRdDzljUURQGBJgWDrP0PiC5NbyGRsbyQYdyE-SqhVDDK5DCDb0Q=s88-c-k-c0x00ffffff-no-rj",
@@ -31600,16 +31840,6 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.88,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCtIQil-e9wzT_fxySy1y3nw",
-      "title": "Harold Channer",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mN5O1wu72LNB-kKZZLV9tcAtvpxum9EM_d5vH6rpgVEg=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 0.2,
       "recentItemCount": 0
     },
     {
@@ -31780,6 +32010,16 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCzWwWbbKHg4aodl0S35R6XA",
+      "title": "Hoover Institution",
+      "thumb": "https://yt3.ggpht.com/mtWmTZFvXSQqIXWDApMQEkAt8yVQ89Yd-qXCU2wUJMXoEgFW2YoMHaPLlwa1h1Y-vV-kgymCOw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.56,
       "recentItemCount": 0
     },
     {
@@ -32003,6 +32243,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCi1h68Fys0apnhLaJ-ijQOw",
+      "title": "INA Politique",
+      "thumb": "https://yt3.ggpht.com/rjRj37W611q8i2h0OhMZetfOW7GzMEyxanAto6gSBXpLSHRZEy98VHcJTVywHh16UGdxOfjQNMI=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 1,
+      "uploadsPerDay": 1.9,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCJyP-OtuzlRV-r-3vR9qQTg",
       "title": "Indian Diplomacy",
       "thumb": "https://yt3.ggpht.com/o2Y5--o3PSkBTcqoXtUUEw6dWI-gMk3yzsQRQtpDCF5e36-IXTGnNwKOk8eISpsK-ykWfeD3=s88-c-k-c0x00ffffff-no-rj",
@@ -32010,16 +32260,6 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 0.4,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCTzOjezXcMXHpMIRNMqR6VA",
-      "title": "Indiavision onlive",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nAA_PQ9U5JIpS39L3ZNmbT9pZuszzemMgKLfb0aLVX71g=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 1.52,
       "recentItemCount": 0
     },
     {
@@ -32113,6 +32353,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UChheXHmJiTX9_3EyDeFiw2A",
+      "title": "JackieEvanchoVEVO",
+      "thumb": "https://yt3.ggpht.com/WfWnAboVTJzmiE5oFJv5zaTcn_E4Rrs1oZH0i5VKnnNOIdJ4x_F1JT3vdMsBvuDMd9DQ1mIXsmQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCFY1gD9VMrMdPgLuCaZPojg",
       "title": "JackJohnsonVEVO",
       "thumb": "https://yt3.ggpht.com/G3guPrwEetZci_UGLk8Z6Bwj3Nks1dNo3-9wgTMTFLggA55lFwJesQTF0b_2J5x5l6_nxeB-V3k=s88-c-k-c0x00ffffff-no-rj",
@@ -32150,6 +32400,16 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCMAQTBPIm_0zRgTQVjS2NIA",
+      "title": "jameskalm",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lIUJnZk09YfRinb1Lk17H5TvkgTf3vx9gwoxrBtgqI3g=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.12,
       "recentItemCount": 0
     },
     {
@@ -32580,6 +32840,16 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCNLU5vZAbanHpE9Grb_fZOA",
+      "title": "Katie Chats",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lg2LN0qtb_j_ZTL9KEd03b5q_cB8f5uvz8QyxhtI2WLnU=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.63,
       "recentItemCount": 0
     },
     {
@@ -33403,6 +33673,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCoK6uR64orX30YxrlP1cR2g",
+      "title": "Marmozets",
+      "thumb": "https://yt3.ggpht.com/lXl-IUiLgCE9LCkxPGwryffZ3BLWf0fYGYKa_ZNdBf8Fd5JMqj84el9Dvu5QoJqXro8iij7R8A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 1,
+      "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCPR4ismRbntumFTZsrgzalg",
       "title": "Maro Banjara",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nWbx82ZHEx0mKdFxC7jlmsIUbFt1Xegq7ZXEC-8J6Bfw=s88-c-k-c0x00ffffff-no-rj",
@@ -33923,6 +34203,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCtuLKvBOePea47aTV7WRQYw",
+      "title": "mtainfo",
+      "thumb": "https://yt3.ggpht.com/OIrvbZVNUPgv_59vX-dzypfJoMLaCm37bxeJKCHuABWsCQa5TftPrEk7OEVOTAUyT6gXCk9x=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.22,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCPsLq0LqvMOk9Zc1rQvtMkw",
       "title": "MTV Access",
       "thumb": "https://yt3.ggpht.com/vdALQiPqlKbSVdU32to5SpnHY4X4o7ZKNT1urOud5qWy8tJ9g20xJmPWtxormHGQsa4r2Qm_Ag=s88-c-k-c0x00ffffff-no-rj",
@@ -34050,6 +34340,16 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 0.21,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCv3QNDzQrctIKQnWVT2AeyQ",
+      "title": "mycommercials",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lnLgALun5bWmWV-Sdk8LtZnW11dH4Pc9izzIAwNhRcTA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.08,
       "recentItemCount": 0
     },
     {
@@ -34233,16 +34533,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCfD_lRESpOvOfMUNBZkyXgA",
-      "title": "Neighbours Official Channel",
-      "thumb": "https://yt3.ggpht.com/X96H0g93iFocTFLBnesTd-EX-UW5r0C34Z0yLSe4Um6wVMKFiftLR8xUwPk_yj6HR6166XNFNA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 0.3,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCxbOChUlCj2qz-Sm_Eb-tsg",
       "title": "Netd #Shorts",
       "thumb": "https://yt3.ggpht.com/q68mlQ2WCR_ohHHK1Uh5-objo9FOatLKmxNS9FP4kroZdVOshCIlBJo7dxRJpHEbMpviLVh4LHg=s88-c-k-c0x00ffffff-no-rj",
@@ -34410,6 +34700,16 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 37.98,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCBEwcP6rsQSGJ3G869i8-IQ",
+      "title": "NFSA Film Australia",
+      "thumb": "https://yt3.ggpht.com/dOnCAxLVCQ3yzEq-m_Xn1mLLijYu1BWtSoOKdRIibnDXegOSh3glXHxL_Ypw-rLXdnVXhUugYA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.11,
       "recentItemCount": 0
     },
     {
@@ -34593,16 +34893,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCb2HGwORFBo94DmRx4oLzow",
-      "title": "One Direction",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBZumWLg8HqCIAD4oHGTIIdD8DTz5eV_DgCXFu6KxNjj28=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 1,
-      "uploadsPerDay": 0.03,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCj-dtq6jHfj4_fufifPzMEQ",
       "title": "ONEWE",
       "thumb": "https://yt3.ggpht.com/dzwOkQmCN0P-frEXIVNt58AitPUfSmAlYahC2L41XwooN2ZIFGtvVsq_7DGceEHY1oy3au6Ho_U=s88-c-k-c0x00ffffff-no-rj",
@@ -34650,16 +34940,6 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 0.02,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCY7dD6waquGnKTZSumPMTlQ",
-      "title": "OxfordUnion",
-      "thumb": "https://yt3.ggpht.com/MUgRauweToYk5Q-6Ewv2RLIuUljlIQ1K45UmS9HqD-VKhSo-_l8oW4azfVfnyp44mGqcETz144c=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 0.48,
       "recentItemCount": 0
     },
     {
@@ -34750,16 +35030,6 @@
       "distinctSourceCount": 3,
       "hop": 2,
       "uploadsPerDay": 0.06,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCzK2c-Ou5UJLIOCrwy0WEJA",
-      "title": "Paul Woods",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n6bbbePJYD31GgISmUuIvUcZwADh80v1Rwq81Ig40NXaUV=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -35373,16 +35643,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UC0uVZd8N7FfIZnPu0y7o95A",
-      "title": "ReasonTV",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_laWbFN7VLpzIpPbp2eO_YiLXnMZV2R5NBawv6mtz9jDZ0=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 1,
-      "uploadsPerDay": 0.7,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCN3Jj2sU9LNFQplsjsdxdrw",
       "title": "RebelTaxi",
       "thumb": "https://yt3.ggpht.com/I4PqyAQE2bieE9yZ2iq8NSWXD7zAwQsoo9zNBSGWvy1BeATFX2hGJl8aGZhyetoVItyLyYHTaQ=s88-c-k-c0x00ffffff-no-rj",
@@ -35390,16 +35650,6 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.09,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCblfuW_4rakIf2h6aqANefA",
-      "title": "Red Bull",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_k94J7kkxpmlJe3c2iDFJpHk8SAADPpf49cN7XjomXSzEE=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 1,
-      "uploadsPerDay": 0.97,
       "recentItemCount": 0
     },
     {
@@ -35480,16 +35730,6 @@
       "distinctSourceCount": 3,
       "hop": 2,
       "uploadsPerDay": 0.37,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCZKMRqHH1-PxvzL07GIzTMg",
-      "title": "Revista Prometeo",
-      "thumb": "https://yt3.ggpht.com/WfHv3S7qNyzOMLBfHcOv0C8Ir-6jDQSDaRxL1DFNWtpAVWMu9QLTivMIGfaHvxieLA6NrEAeoQ=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 0,
-      "uploadsPerDay": 0.24,
       "recentItemCount": 0
     },
     {
@@ -35593,6 +35833,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCWB3DM55nMdwcnyuU9xzOMw",
+      "title": "RonanKeatingVEVO",
+      "thumb": "https://yt3.ggpht.com/mxYjHloKfMmHA3scDIenLxI_j5MOTvV6PD52OBSroYuvgfUCppMZauBs1OKXjgKgC57MvF8q=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCq1sa0h1yLxBQ4-Rmy-RREA",
       "title": "rontomism",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_lGB2fCniihkJWqfzoAWW1U5xsrQ37Y4FN5EpExT68=s88-c-k-c0x00ffffff-no-rj",
@@ -35663,16 +35913,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCGnlgHCdAsCNeAdNRTbS4hg",
-      "title": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kzCs6Jo_vk0x1Usndx_fmWQppooWChAV_6fb9B8JZm5tI=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 1,
-      "uploadsPerDay": 1.41,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCLKm461v_m6OcgJOQDlXuuw",
       "title": "RTK",
       "thumb": "https://yt3.ggpht.com/yb0EoDifvh4789sppgCSVrwq9hiunhgIR6kJ8xR1cYp-0NVbVCJBdo_caAOSM_GiJKi8FostAw=s88-c-k-c0x00ffffff-no-rj",
@@ -35720,6 +35960,16 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 0.28,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCCXCw4PeDbuezlKDTJ5hWAg",
+      "title": "Salt + Light Media",
+      "thumb": "https://yt3.ggpht.com/uvJ10ZQAuYNReNpw-iXjt1u-88k0aC1KG08vitPtjz787a5N3oLstlUnMK5jv2V3DTgvFYnf=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.54,
       "recentItemCount": 0
     },
     {
@@ -35893,6 +36143,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCzQdkHKOTVT_chwgDcau4sg",
+      "title": "SETI Institute",
+      "thumb": "https://yt3.ggpht.com/VUNEWQsPH-e2j1Pm2kfvwZnI-CTAzvOoktf37n0F1So1oFScYuOPX27RzxsX_ynV0CdRDGvl=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.23,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC_vH8DvvkrMB3D69NBdjLnQ",
       "title": "Severina",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nKOzsTuRvnMa9jDbNoTNmHVQiOc5xUGdX3WKw4uUzTWUU=s88-c-k-c0x00ffffff-no-rj",
@@ -36010,6 +36270,16 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 0.82,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC6t1Tkom_lz6nPYsBjOeD9w",
+      "title": "Shemaroo Kannada",
+      "thumb": "https://yt3.ggpht.com/XAUXzDgGoEjKDXjYxBcvbfXer2YyVowHK1AM4QL_ysn37OX5Qhuf-TAr0QS0J7y8RiSuMPVc3Wc=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.91,
       "recentItemCount": 0
     },
     {
@@ -36143,13 +36413,33 @@
       "recentItemCount": 0
     },
     {
-      "id": "UC3R-xanNgtoa8b7gpVexVlA",
-      "title": "Smarthistory",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lqTCOtmJX6RPYhs3cAHMztn6c2-DouI3TslncTtdyHhW0=s88-c-k-c0x00ffffff-no-rj",
+      "id": "UCWgEWXnFFFeoXMJ766CfDLw",
+      "title": "Smithsonian Folkways",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mJxEQ8wFJVWCpfs3WrkESMpWLbwbhJ2TqNwsalyGtl6D0=s88-c-k-c0x00ffffff-no-rj",
       "score": 3,
       "distinctSourceCount": 3,
-      "hop": 2,
-      "uploadsPerDay": 0.23,
+      "hop": 0,
+      "uploadsPerDay": 0.11,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCyCwfDOKjkm2VLWRxa7Ayhw",
+      "title": "Smithsonian's National Museum of Natural History",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mpu_9KiaR6R8BLkjkj-LjuXQ4mu1Tan8SP_bwx_nrPYV4=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.08,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC98mlqOY5HGNl5wrWS52F9A",
+      "title": "SmithsonianNMAI",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lg5AFJllAE8dwEnLAJZR7gAwk1tDyxihLMFJVA3g8Mgw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.19,
       "recentItemCount": 0
     },
     {
@@ -36493,6 +36783,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCHAT-98JSyz7vv0M3nLncYA",
+      "title": "Strand Book Store",
+      "thumb": "https://yt3.ggpht.com/2mE88VKdvL8b0BNRQC9_LvaApawt647GTV3ZG2SMq5D3z72z0H6uyNyU05AonI1f_7l2x5dFJrM=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.29,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCfa7jJFYnn3P5LdJXsFkrjw",
       "title": "STRG_F",
       "thumb": "https://yt3.ggpht.com/8-8AGSPc5ju0BA7dBYbA2A1XhdqxrdglhbhRFdpj_V_sDZnAfXfVIYSEC9jfY7HnJ0qfASfg2A=s88-c-k-c0x00ffffff-no-rj",
@@ -36610,6 +36910,16 @@
       "distinctSourceCount": 3,
       "hop": 2,
       "uploadsPerDay": 0.11,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCCASk80FOfbBxnKw8vde--w",
+      "title": "Symphonyofflowers",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lQAWdRxm1F2G0aMO0i9Rytx78ISD5Om2YlyeWZeS_vqg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 1,
+      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -36863,6 +37173,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCkkKXMme5ar5ctRhIvimF7A",
+      "title": "The Digital Hash",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mfyjSlrntJlZIWP7U150EOuE11Cls-YmF3RHrdVEDXTw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.12,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCJFOER35ggIWwsXh2ZDnqyg",
       "title": "The Economic Times",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_k8A5bWc2ssdN_4IHctaCutCgZUCGCiVVXZsDtToUQLZ7QB=s88-c-k-c0x00ffffff-no-rj",
@@ -36940,6 +37260,26 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.51,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCmKurapML4BF9Bjtj4RbvXw",
+      "title": "The Piano Guys",
+      "thumb": "https://yt3.ggpht.com/mM0LoOjNN1lG4U-_NpaDamH29zrL3OGmLurzfsi-Eg3TwsAnAPE-QQVIxn4IoDsd0omuIONZ_A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCrmm_7RDZJeQzq2-wvmjueg",
+      "title": "The Real News Network",
+      "thumb": "https://yt3.ggpht.com/XykdDAUjGrcoHl_O8I2UX3uZeqgMbtwiotCG28xS1qZp57WOBdavgQIEBhzDKmeFqlyH0qoR5Q=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 2.1,
       "recentItemCount": 0
     },
     {
@@ -37303,6 +37643,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCYNlsJPY-IrNhZqCOeApbEw",
+      "title": "THNKR",
+      "thumb": "https://yt3.ggpht.com/dO50Mfl1JGUM07UYUJXHzVpsRFwfVb2OU2E-SbLtCkiSeQV6Ekoz0xiOQUqnF9sAwfW-DtZzgtM=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC9Njpjlq8V_JL_rNYkJWs4w",
       "title": "Thomas Häßler TV",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLwuE8CtJQ-wdiEFhM_L5XWV2Gm3SREM0uzCQHjGNmIA=s88-c-k-c0x00ffffff-no-rj",
@@ -37393,6 +37743,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCBa659QWEk1AI4Tg--mrJ2A",
+      "title": "Tom Scott",
+      "thumb": "https://yt3.ggpht.com/WxHs0Jf1Jp_4ZU84wxnRL0owNHkzaLUEiD-GIfgCrVjZ0JhgriPTdPfGrkf-U7zwIs5zQl9ccg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 1,
+      "uploadsPerDay": 0.1,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCDxabaoNKAm4ufDv5ktM9mw",
       "title": "TomOdellVEVO",
       "thumb": "https://yt3.ggpht.com/uxDtPD6RfbduWW4pBJ0F8uDBI76EWuFlz-ttKzaCgDg6tmHHubmCxRWVyDqoAacuW3Arfk9mvQ=s88-c-k-c0x00ffffff-no-rj",
@@ -37440,6 +37800,16 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCTcCX_XY4l-W2ba5IxIRhsg",
+      "title": "TPM TV [Archive]",
+      "thumb": "https://yt3.ggpht.com/HBmDoWUCQwmTaY3iXgVPgrZPLV-eeCTOr_zsvAhhAb6jS1dGg520rmn_XKdDvAb-UtYjDmYnNg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.95,
       "recentItemCount": 0
     },
     {
@@ -37923,6 +38293,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCZh2V-JNW_adTDY3j9FgFEw",
+      "title": "UnidiscMusic",
+      "thumb": "https://yt3.ggpht.com/iJd4Y31cwNvIdP58VZEqeQRGOqZdPFDnQTnAnZoN9tj77uzHg9-G2mZCaLPb3cGqLKl44vIxCw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 1,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCKtfozhWfwvXUTnR7PV3t5g",
       "title": "Universal Jr.",
       "thumb": "https://yt3.ggpht.com/4PXBcKXQgZhdphqkgtXhgLGWg1N4zaW4WxdtuW-QtNbHc3QaL253jJk-_xa7Y47ewyNK-y5E8-A=s88-c-k-c0x00ffffff-no-rj",
@@ -37970,16 +38350,6 @@
       "distinctSourceCount": 3,
       "hop": 1,
       "uploadsPerDay": 0.09,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCUGzhBmck61sa3eGxp9xI8A",
-      "title": "VampireWeekendVEVO",
-      "thumb": "https://yt3.ggpht.com/6XUARgqxfLs4vhLntdRM_CqjlLpxlghEI2WwpUc1DbN__T0PpRKFlZLBL1-yvzC3kd8KPNmd2A=s88-c-k-c0x00ffffff-no-rj",
-      "score": 3,
-      "distinctSourceCount": 3,
-      "hop": 1,
-      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -38470,6 +38840,16 @@
       "distinctSourceCount": 3,
       "hop": 0,
       "uploadsPerDay": 1.38,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCvbZ7TWDlBUeuKMRQCBmiSw",
+      "title": "World Future Council",
+      "thumb": "https://yt3.ggpht.com/NB8QZqk9bNpfEmmPd9cn226r04I7_TIA_6m-32iHJZKn5J72R4vD0zw_PzvXq4yBjIHJlKyO=s88-c-k-c0x00ffffff-no-rj",
+      "score": 3,
+      "distinctSourceCount": 3,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -39223,6 +39603,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCJAsnAp4QxAtPy4PrzxFfSw",
+      "title": "1016vortex",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kCpIhoa78iNHdRPXZAat4Kl9O2c0aPqyrPVTPNFMIVJg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.06,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCOvhsvryThCFCn4LPDtcVig",
       "title": "102Commander",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kKCjC2CV7kQrtQbUbFqzQfL0FJ9FFIDk61m26wfR5bcg=s88-c-k-c0x00ffffff-no-rj",
@@ -39373,6 +39763,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC_fN8QapvzsTxrddAN3w9tw",
+      "title": "5FDPVEVO",
+      "thumb": "https://yt3.ggpht.com/pDXprZrzq4rfoHfOYTTLoH9-sv40S3PlhAv-TecL51TgtIfTMTsaSvMl0BgPR0IMJxXO4URsRA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCCYXa_5DYS2a636BDPSq9dw",
       "title": "5ninthavenueproject",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_k1G5xRL9kXdMpWMd5_ELqtVjN_ZaqCI4Mqi5mKRGe5GA=s88-c-k-c0x00ffffff-no-rj",
@@ -39450,6 +39850,16 @@
       "distinctSourceCount": 2,
       "hop": 2,
       "uploadsPerDay": 0.09,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC2-9PTQY1YwaqIQI2cHgs0Q",
+      "title": "8736loll",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lYZFc_BnbXglP-EOWIe1iiv1icY6EnjW7mvvb0Aia5KQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.17,
       "recentItemCount": 0
     },
     {
@@ -39568,8 +39978,8 @@
       "thumb": "https://yt3.ggpht.com/UjL0SUH63qC4I2UyXTNnxZ5lSDXpFI4AXqY1JF6QZ5q-w1i-LBO460cJq1aHAuALv4Cybt21=s88-c-k-c0x00ffffff-no-rj",
       "score": 2,
       "distinctSourceCount": 2,
-      "hop": 2,
-      "uploadsPerDay": 0.64,
+      "hop": 0,
+      "uploadsPerDay": 0.63,
       "recentItemCount": 0
     },
     {
@@ -39703,16 +40113,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UC7M42vQrNmZ0tnmmenLWwBA",
-      "title": "ACLU",
-      "thumb": "https://yt3.ggpht.com/z6uwwOH4FEz-Px5vZtctUbIgFWHDYH1qGp7VikljPXUnLN1t9uLgjTwEfLrx34WAF_xChMAN=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.25,
-      "recentItemCount": 0
-    },
-    {
       "id": "UC9qZ9C8ZRdjoDtNiCKOoEMA",
       "title": "ACMI – Australia's museum of screen culture",
       "thumb": "https://yt3.ggpht.com/RkyUySLVObZcHuOptNy8eKbQQ7j_1JOsw_1MqtIl4YjcI_j_PqWjqJLR4nmOwoA1ZAlLDCrqrYo=s88-c-k-c0x00ffffff-no-rj",
@@ -39760,6 +40160,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC7qCAvNXX0Pi05tufrDN0XQ",
+      "title": "Adam Carolla",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_krQvt9JQu1pt4B8SmsMWsL5PC2XgyEHl_z--N9Y2OjVQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.57,
       "recentItemCount": 0
     },
     {
@@ -39890,6 +40300,16 @@
       "distinctSourceCount": 2,
       "hop": 2,
       "uploadsPerDay": 2.68,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCvJS-YNyaWyOucx8bGrHVvw",
+      "title": "AGENCIA EFE",
+      "thumb": "https://yt3.ggpht.com/Hpg2CchDpep9h5Txval9Kwv0pUIVz-ZQWNtdohSqF46kCUh5cOnwWukK5JVHNri10cu7g1jNDVU=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 19.69,
       "recentItemCount": 0
     },
     {
@@ -40110,6 +40530,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.21,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCFoWmvHqOQ05kaxIO__Vd9Q",
+      "title": "Alex Kasper",
+      "thumb": "https://yt3.ggpht.com/VRzAsKIpzYzty1w9KcfUZMtHVyDAj88lys_FCWA8hP4RRq1O0n7de2WWtmFbrSTV_yjgw0AKzQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
       "recentItemCount": 0
     },
     {
@@ -40863,6 +41293,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCCiijV9YJmUtKSXOcxMqc_g",
+      "title": "AquaVEVO",
+      "thumb": "https://yt3.ggpht.com/dU-vu7yL2W-0-CWW2BlCgn5jBmlpJlmv6LMTIH-5cEzwUoEjAjwZpczQCNV-GEAlThb_V39Ahw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCUiiO_bccZFMVmnJ2Jj95lg",
       "title": "ArcadeFireVEVO",
       "thumb": "https://yt3.ggpht.com/khErNPNjT0kxfWasjlKvTqcjSOItbtu0jubGqE4v_XC4Hqft73fHLtLXD4Vc28aFQzbudQ4apQ=s88-c-k-c0x00ffffff-no-rj",
@@ -40950,6 +41390,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 6.14,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCT9Svim8fCy00tSrVo7xpHQ",
+      "title": "Arkya Chatterjee",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mPiPduF-QH5xtcPOMgq-VP7zYYErFhKbk5Ttk1KJ7FhqE=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.27,
       "recentItemCount": 0
     },
     {
@@ -41173,6 +41623,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCnpDurxReTSpFs5-AhDo8Kg",
+      "title": "AT&T Tech Channel",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kCQeCjPa9C1BlZBEouKdu7WLlQX73IZftngblTERwJBg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.28,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCQJgdLKhSVWCWBuh9ZRiOWA",
       "title": "atariman1988",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_muJL9pMjgtgQkZG59mJiBKiOKiXT7y38qvRZHYo1vzMA=s88-c-k-c0x00ffffff-no-rj",
@@ -41330,6 +41790,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 1.06,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCRnX4Yc585eRTj4UvNkBM8w",
+      "title": "Autodesk",
+      "thumb": "https://yt3.ggpht.com/sMxA9Ihd_3j_KVYRvkkABiLAXiQvSPRqMcUIMNd0bfvWXapV3Yenxl8SNzF_vpqCmxUZjwXN=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.06,
       "recentItemCount": 0
     },
     {
@@ -41803,6 +42273,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC9TMbYWS99tDKjE_M6yIq6w",
+      "title": "Barry Morris",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nzxVyJJxCvC3hiOjiu6IhXZ43iJD2zoI-ak2459LCASw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.08,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC0XYdp4TzsrWMt79Pm811bw",
       "title": "Barsuk Records",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_krynoMXtD9Cv8e-iucGOmvGytamwG6ZfyivqQ6bMXVBQ=s88-c-k-c0x00ffffff-no-rj",
@@ -42193,6 +42673,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCmak-2fOHzZBbnQ4KMULLqQ",
+      "title": "Bestiacane",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mlVo7ZZ_jlwpQ79EE4rVDHoBUT8Aqh40EaDc3w9zvJTw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.76,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCaQmt86ROH0hPB4erzolj7g",
       "title": "BETAGROOVEBAND power trio",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_l9-1wjSMePxGgjULYw2Boh4em--ynCBnJDhDwzf3HXPA=s88-c-k-c0x00ffffff-no-rj",
@@ -42533,16 +43023,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCJ6q9Ie29ajGqKApbLqfBOg",
-      "title": "Black Hat",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwQESLMp5tK6oTmV2NHuMpu3jnw2292wfNcPJPDnijqNg=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.66,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCRb9NuYeAVbccnw3p3DOzjA",
       "title": "Blacklight Attractions",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kgXBgFlMmBnKtd_3oICgWbXmstOyMS-zwbW8gss7urdA=s88-c-k-c0x00ffffff-no-rj",
@@ -42610,6 +43090,16 @@
       "distinctSourceCount": 2,
       "hop": 2,
       "uploadsPerDay": 0.28,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCAsj9iReHzLEYv9QawGzIOg",
+      "title": "Blender Developers",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lO340DTyuuZSOS3CSpHLZ_wpecW-KXzceZkQ7q69gRrA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.03,
       "recentItemCount": 0
     },
     {
@@ -42716,6 +43206,16 @@
       "id": "UCCeFKwKomPI37_pUSC46sug",
       "title": "BobbyBrownVEVO",
       "thumb": "https://yt3.ggpht.com/LdHkihmlPqU7lk69ANXkSTimqpfWE9RFq1dvGD-_9sBKAGjSH-7Y78S9I80FvWQVu79KeJxC0pA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCovTjd8nHVEl1fiJBEBv2Eg",
+      "title": "bobisson1",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_naSlTa_0h3fq_IBlun_-d7Ac_IpfbKvY6bz15alF7qoQ=s88-c-k-c0x00ffffff-no-rj",
       "score": 2,
       "distinctSourceCount": 2,
       "hop": 0,
@@ -43000,16 +43500,6 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.05,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCAalMUm3LIf504ItA3rqfug",
-      "title": "Brentford Football Club",
-      "thumb": "https://yt3.ggpht.com/MorTRXzStmmqAS9_mhW7vuy_QcJU92TKDBfORCkM61ggbv7magqlP02Z6zl9-fjX1RAepz7QlLM=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 1.07,
       "recentItemCount": 0
     },
     {
@@ -43953,6 +44443,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC0UOsIAvJJjAztdEVO50hJA",
+      "title": "ceb2633",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nh2HZgfdGUGk0-7FZyfNVAQbXJyhjMwNtjhdyfto_MVw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCse-L5jdWjkURTdqbc59eWw",
       "title": "CeeLo Green",
       "thumb": "https://yt3.ggpht.com/-GxihkW1oLk0NEs44dKrI-TXip-Y1T0EHIOvcx1vExvQWQhTCJb8v08VOps3prTSg1ngRgynOA=s88-c-k-c0x00ffffff-no-rj",
@@ -43970,6 +44470,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 1.15,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCp7LPFmh6pyFpWQY6htER3A",
+      "title": "Center for Inquiry",
+      "thumb": "https://yt3.ggpht.com/XaRVSG41A8Mk9jkZ2lenUL0Sx9fzHTViTFg8ORfGnmDic-LZrdSv9yaamm_aIr9NFDoDk_9J1Q=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.1,
       "recentItemCount": 0
     },
     {
@@ -44310,6 +44820,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.06,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCU03keCaesfRWZPYV1FUxXw",
+      "title": "CHO Japan",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nequjWwwaI-FUjL5vFWS1TcCx7pp3bryYjODuy9ZHrEHk=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -44690,6 +45210,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCosLBx23zc-5OaEbAkl3QIg",
+      "title": "Classical Music Only",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_ljTFf56FbB7SGqyYY2VZItEwNWdAUP5zwAsTJS_0N62k8=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -45893,6 +46423,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCwtvGYe1uTR3A1PIU-oCylA",
+      "title": "David Bates",
+      "thumb": "https://yt3.ggpht.com/6MtFWyaYrw5ZxwLrWpG9D7rrGgO3CEp0BnAtR8o24k3K9NUJahDJaogmzjn3dpXWiDRhOWxk5Vk=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC8YgWcDKi1rLbQ1OtrOHeDw",
       "title": "David Bowie",
       "thumb": "https://yt3.ggpht.com/S8HBQAekRCOxvMmZ6a0Kd0bis1HIdmbkmec1b_t-X6fa3ZUJBtF1n_rK274bamaY_i8if1uuy-8=s88-c-k-c0x00ffffff-no-rj",
@@ -45980,6 +46520,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.2,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCjMuOSi6O2h_HRT7KKzjL7A",
+      "title": "davidperryassociates",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLr_mmN8VBYxuxz2yKrYl3mNjLUntpXeAi_SiZNgCkywU=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.18,
       "recentItemCount": 0
     },
     {
@@ -46230,16 +46780,6 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCw45uE5WNz-19Zr4XG1awYw",
-      "title": "dentelTV2",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kQmZ3MWMbx_rUNK_0O_a6QFp7Ho9pOWTosI3XSN1Tz=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.06,
       "recentItemCount": 0
     },
     {
@@ -46700,16 +47240,6 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.02,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCNLhIEt5WVNG3e9KElVAAFg",
-      "title": "Dmitri Smirnov",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_ksw92_LUOs_sNABd9Iz5ccC31d911LULMDdF-j9_Kj0vc=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -47693,16 +48223,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCS66aeKQNvJSOOGPjVHDE3Q",
-      "title": "EFForg",
-      "thumb": "https://yt3.ggpht.com/7dIqFLJhM0PSaBKqyq_gOo4wmagQ_XRl9BY3unB4SWkeVR_GGhV5aGq0gWSRtHD-TQRTaGV6=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 1,
-      "uploadsPerDay": 0.06,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCQYLzinJiumJLvKuQs0_7Xg",
       "title": "EGO TV",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_mUrcxYl0L4jhZCRUBnmxxItEGKnMqDy9eci8yZdqQ_shM=s88-c-k-c0x00ffffff-no-rj",
@@ -48003,16 +48523,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCewVC75pKtZDaFRX9IZsxLg",
-      "title": "Empress AD",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kXjwHcz67zCQA34RjdRJd7ccG_lql0-1XEn7Bcc5cu4TQ=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 1,
-      "uploadsPerDay": 0,
-      "recentItemCount": 0
-    },
-    {
       "id": "UC7RWBkozrrPGHdTkXoHTaXA",
       "title": "Endelea Kutaka Kujua Mambo — TED-Ed",
       "thumb": "https://yt3.ggpht.com/Yl3Mq222FlIIPpcSf1MaIR9-PWm77gTAfoZO9YlppF4FXgr2SP8PqzgtR0E30Nlw1Ukjuzpy4A=s88-c-k-c0x00ffffff-no-rj",
@@ -48100,6 +48610,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.32,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC0iQc67061qu1f8MvR4pXBw",
+      "title": "Environmental Change & Security Program (ECSP)",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mD3Pjg8vs7VsuUlvps4XiBRwWrf0cwYe411hmy5mdigw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.03,
       "recentItemCount": 0
     },
     {
@@ -49153,6 +49673,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCnzItcpd7WGVn80TRRb8RcQ",
+      "title": "FORA.tv",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwP6738qEgP7uUrLxAtp02lKJEoCL30PFmmtDMkDgUfww=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.73,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCmh7afBz-uWwOSSNTqUBAhg",
       "title": "Forbes",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nulMc6GNIrLUi_wcTCKojfsfro0dsNLAueuj4edxt_Kl4T=s88-c-k-c0x00ffffff-no-rj",
@@ -49753,16 +50283,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCiQ9jOurzsdkTpBkGjKZCoA",
-      "title": "GarbageVEVO",
-      "thumb": "https://yt3.ggpht.com/Tvuz8TUqA9hIqbsAcylLvsky-wx7FkXor8_5HSv3C1FCTBPvWzpCWPS2-A0uzL35bFYuWAfEWw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 1,
-      "uploadsPerDay": 0,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCy19QXxbCHh8qVVCbuGk-ig",
       "title": "Garena RoV Thailand",
       "thumb": "https://yt3.ggpht.com/wACd3Yv0RNYsZUMmXeRqvs5cvZ06NYgtWWdB11VAu9zxl8COpI2Ww03x8A3dtX5ea8Uvsz7Fug=s88-c-k-c0x00ffffff-no-rj",
@@ -50103,6 +50623,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCwFR0FsGIcxdLqMCebKQjCw",
+      "title": "GloriaEstefanVEVO",
+      "thumb": "https://yt3.ggpht.com/NhmS1N83_5PyapU1vSwG4c7zqOX9baoPFKwpE2IWHao7ThI3_cU7UwLuLejisQ8voxx7oJkYFKk=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCqYw-CTd1dU2yGI71sEyqNw",
       "title": "GMA News",
       "thumb": "https://yt3.ggpht.com/Gwe8ZHt5B2ZxijlgvtnALf1BPpzJQg8bK-IyB1iwe_OZEHy8Hwh0Q-FrRM5G46S132a451g3Cw=s88-c-k-c0x00ffffff-no-rj",
@@ -50146,6 +50676,16 @@
       "id": "UCuemu0OXk-5bV4G-ksVO0CA",
       "title": "goldenboylovesmaja",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_ms2t8susNvoGlgm2Bl_1oRxHvk5uaBd-rRLeiqwD1MXw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCoshXz37N0WkO_ZVBVRnj5g",
+      "title": "goldengate79",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mEaT5EE-4G8WFfuPp9N9GFt0vDYmUyL5aXRhiurWA2xA=s88-c-k-c0x00ffffff-no-rj",
       "score": 2,
       "distinctSourceCount": 2,
       "hop": 0,
@@ -50380,6 +50920,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.12,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UChrvkZPNMeC6nwMzoD6Gj6w",
+      "title": "Guggenheim Museum",
+      "thumb": "https://yt3.ggpht.com/aKgoQ70uIuh-OE3U3Hf2uGqGTuSakYm66o8O_PQqO2O1YHM0WsXrJyb5jDnEgVOoa90T3gMrYaI=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 2,
+      "uploadsPerDay": 0.13,
       "recentItemCount": 0
     },
     {
@@ -50683,6 +51233,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCuZqbjwkSjoxy1aRCcDcYhg",
+      "title": "Harvard University Press",
+      "thumb": "https://yt3.ggpht.com/RuoLfDIYYt7atXe5nZ57CtCqJsneTgvqUi46rWAtA7TusJCqNhCMZpZ4v9q2qflEovpDCe2CX4g=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCLZ4hseLcwOA2L393EH-Z6w",
       "title": "Haryanvi Music Club",
       "thumb": "https://yt3.ggpht.com/SrfS2LeTvKtuXJw4O7MI25hfnyFBzrlbedCqZttlp4jSzp4aLA2NT-oRxhEin2SDIrM6RCX__w=s88-c-k-c0x00ffffff-no-rj",
@@ -50750,6 +51310,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCPHZ-3D3z0-BjMl1GTm-y1Q",
+      "title": "Heavy Metal",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lRT60UmbWLL-rpnFCoAS_xzoOebtMYuNxnwOsk1DshrBk=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -51170,16 +51740,6 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.01,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCzWwWbbKHg4aodl0S35R6XA",
-      "title": "Hoover Institution",
-      "thumb": "https://yt3.ggpht.com/mtWmTZFvXSQqIXWDApMQEkAt8yVQ89Yd-qXCU2wUJMXoEgFW2YoMHaPLlwa1h1Y-vV-kgymCOw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.56,
       "recentItemCount": 0
     },
     {
@@ -51783,6 +52343,66 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC_400FxkxtTS4KMDFRa1LaA",
+      "title": "Ina - Daho L'aime Pop !",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mD-GiIyGz3IY_xF_ccMuZueCzVjFlX3VuptK00zYnkFA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCgHmXxZxlq7QYZ2icifuqbA",
+      "title": "Ina Best Of 60's",
+      "thumb": "https://yt3.ggpht.com/S1HKnQByxEjDcR8L2Satw3W5VBrSu7CwqqqHoIZMY2G-cgCjDTMAax65ggZb6zoUMEoLxf8tCtA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCWvsIwkBI_U70n3huR9Ww7A",
+      "title": "Ina Best Of 70's",
+      "thumb": "https://yt3.ggpht.com/O64fROnxQLZKAa9G7HE90Z6wHmJPk3OQgTSt5hHKZBBSsV4ZorQpCd2qUmN-Q8yfKMb74B5BUQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCxXmXHU-dnHAl7LTTC1GquQ",
+      "title": "Ina Best Of 80's",
+      "thumb": "https://yt3.ggpht.com/qA8RFQpchS5dNUZJGJAJnXXDEaCD6qhAjRIBhNu9qNt8OFEFZEfZtclMhBh73vHLX7_9JIj6gg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCC_m-TAjfLFHPViYXhsksng",
+      "title": "Ina Best Of Classic",
+      "thumb": "https://yt3.ggpht.com/vQLLGuhJz-rWnOeL3sn2yIvrPewFFpySmhBe1NobBHKjqnXBgRcEoY8Z6eo4qciSnwiF4aHlrA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCVzCkZMie_8qSvoFjlbcmJA",
+      "title": "Ina Best Of Jazz",
+      "thumb": "https://yt3.ggpht.com/dD77f5CkZNDScMZCPbhrpGMDJu4DCFr-h1Qb0waRtUXNrnke1xhf6lYjbq6HWq0Cnmud_nTIWw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCEl9BNpEYebYFYbdkt6lbzQ",
       "title": "INA Chansons",
       "thumb": "https://yt3.ggpht.com/A3CaBmXbKNsj1PKfW1QYm6pXU_QzGKx661DyCo1KPnIYQwvKWxfdM3xnTCvQlN-xkSckxKeItg=s88-c-k-c0x00ffffff-no-rj",
@@ -51793,13 +52413,113 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCi1h68Fys0apnhLaJ-ijQOw",
-      "title": "INA Politique",
-      "thumb": "https://yt3.ggpht.com/rjRj37W611q8i2h0OhMZetfOW7GzMEyxanAto6gSBXpLSHRZEy98VHcJTVywHh16UGdxOfjQNMI=s88-c-k-c0x00ffffff-no-rj",
+      "id": "UCTdCZBzjamcwc0EQJ-e4vXA",
+      "title": "Ina Clash TV",
+      "thumb": "https://yt3.ggpht.com/GFWV9C7SgLD5FN0S9xYZqI29abzTAu0jzouDNX1yCf6klOZQLTnJZZy5vej_ypdk_PfN6XatEHc=s88-c-k-c0x00ffffff-no-rj",
       "score": 2,
       "distinctSourceCount": 2,
       "hop": 1,
-      "uploadsPerDay": 1.9,
+      "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCPjBZT0aJPgJ3e1wAftV6TQ",
+      "title": "INA Culte",
+      "thumb": "https://yt3.ggpht.com/Gh0C3ACGrT7Jsc_BVpQUx3YctuySqDzsl-4RMs7MiUSaTdAQqc9DpFTWk9fIkxXCkG_ibhVEUg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.21,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC8JfBu08YrIgQxu2ddI5jUg",
+      "title": "INA HIP-HOP",
+      "thumb": "https://yt3.ggpht.com/6fxlgSEGl2mljm6KHJiDQJpt-PBw4WNfgAUULA8Yk8Bs-p2Up1gPgkSNqoUtObPuHOo8iDhL=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.16,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCsHd-E4Q3hCgp_fvOf-tBiw",
+      "title": "INA Humour",
+      "thumb": "https://yt3.ggpht.com/Zxgzlobd1r_UA9foF1OKQg9rdF2dDa3vSZKTq29va7QUTIj-Q8ddax677PsyMOGy0P08UMsw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.16,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC7gnE1bBnH7FCJE_MFgVrzg",
+      "title": "Ina Les Recettes Vintage",
+      "thumb": "https://yt3.ggpht.com/d_QVqeZQ7B0aFJ_pSAbPsA5VDKae8LCQWbRRbA5P5wRzCyR7koLSXWy4VEthON9MN7VABqSO1A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.16,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC8USS0SAt08of1TfC9Vh4rw",
+      "title": "Ina Music Live / Ina Musique Live",
+      "thumb": "https://yt3.ggpht.com/Q70jMfC7zJk8-Z7Ab34Jk6IkcDcdidiN67f8L4QhTr81RfBkcicKC-zBaVPnjDuOxKIMM4w-=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.19,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCPlxmWbGbwVM2baH8q7MK6w",
+      "title": "INA Officiel",
+      "thumb": "https://yt3.ggpht.com/lIyN8U7_uVDBho4s5zJ22F76cQTtEkGu3FScj0jhZbnF9-oBWv6jiDSVPnE6c7wjuj011_11hi8=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.18,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC0ZAGkKyKCYjr6Zl2bbR1VQ",
+      "title": "Ina Sport",
+      "thumb": "https://yt3.ggpht.com/OhTq5_n2MVIWsMZJiDB0FcD4KcCm3-WvSBBoyDg9rEgEl4Objz9DTiOhfduKvgHdpxAR6_-K6A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.49,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCBZ-iF-2O5ooVnAm6LQY8MQ",
+      "title": "INA Stars",
+      "thumb": "https://yt3.ggpht.com/kqFYSF4NI_utTcnMAdWB7a0jwZ2LAwuXx8NJeWTEhFknEo8-VZXW6QlsZqwOm_SjDv0TbSf87TA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.22,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC9fevBJQEZnMCjxmpfPC0IQ",
+      "title": "INA TLMP",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kaK5MpGf8-fisS_GFAmBM2B0n2MWRg4OAvrQA-KbCBdA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCnl6WhqDxlqN3BPTaZvC4UQ",
+      "title": "Ina Voyages",
+      "thumb": "https://yt3.ggpht.com/IOlNJTH11TJZuEd35WITwZk5c9zJu2x-fHovTABFR663zoxUZWRSzrKIzASpVP0-nqanMGAyW48=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.56,
       "recentItemCount": 0
     },
     {
@@ -52343,13 +53063,13 @@
       "recentItemCount": 0
     },
     {
-      "id": "UChheXHmJiTX9_3EyDeFiw2A",
-      "title": "JackieEvanchoVEVO",
+      "id": "UCCUOIPyrBN1uW8B_-p1VisQ",
+      "title": "Jackie Evancho",
       "thumb": "https://yt3.ggpht.com/WfWnAboVTJzmiE5oFJv5zaTcn_E4Rrs1oZH0i5VKnnNOIdJ4x_F1JT3vdMsBvuDMd9DQ1mIXsmQ=s88-c-k-c0x00ffffff-no-rj",
       "score": 2,
       "distinctSourceCount": 2,
       "hop": 0,
-      "uploadsPerDay": 0.01,
+      "uploadsPerDay": 0.03,
       "recentItemCount": 0
     },
     {
@@ -52483,16 +53203,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCMAQTBPIm_0zRgTQVjS2NIA",
-      "title": "jameskalm",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lIUJnZk09YfRinb1Lk17H5TvkgTf3vx9gwoxrBtgqI3g=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.12,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCGdRd6qEUctBgYZVecUI21A",
       "title": "JamesMorrisonVEVO",
       "thumb": "https://yt3.ggpht.com/46nnf0_XXpfXlPZBYqxJtHri3XpJ4AVUS2_JqLbCakudD6cZjOY12PmaHQTXicpGkZK_ywDJ=s88-c-k-c0x00ffffff-no-rj",
@@ -52580,6 +53290,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.17,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCFjJbG4S1Xu3NK7LqhN8X0g",
+      "title": "JapanPrize",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lwohDUFsmoIcF8LGW9s98HShHxzDLhZLp1wpZ-u_JuwQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.06,
       "recentItemCount": 0
     },
     {
@@ -53143,6 +53863,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC6-HmbKFW6ZLlCgx90sxZ9g",
+      "title": "JohnMcFallMP",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mPYoZq-8Quzv0I5SCYCo7IFE2MYdoitHZCGyQ-kwk9BQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCamm7f-7fT45hCvxH7QmQtQ",
       "title": "johnnynoirman",
       "thumb": "https://yt3.ggpht.com/vT7TxZ2G6TkphiouBo-PltZk0MzIPMiqGUpQaCaLsOWOHVkJICJhVEZE_w8m-eDH2zlN6JM95g=s88-c-k-c0x00ffffff-no-rj",
@@ -53180,6 +53910,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCsXHogO0SL0jN9pvsibbj2A",
+      "title": "Jon MacLennan",
+      "thumb": "https://yt3.ggpht.com/O_OSYJpQIyCu66rPje6UNoQzBeYOyRtdGZ_Q5Rj8aOz3RvzPkfVuf7NJYKYNTmEbXksVOymWvOc=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.55,
       "recentItemCount": 0
     },
     {
@@ -53350,6 +54090,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCz-RZblnhjXK_krP1jDybeQ",
+      "title": "Julia Galef",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kvzoaWhKaEeCfgW1VAIXX_nOUO1f_J5H5-29OlQrg-8A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -53543,6 +54293,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UChUGUddkDaPg9TO3-lMrkMA",
+      "title": "Kandasamy SEKKARAKUDI SUBBIAH PILLAI",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n4aDwoHzFBOIjUSYUSY6bn-KnQfQROsPwFIBk0DoEBg_w=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.46,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCCVkZ_NGYSod3TmhqXN7b2w",
       "title": "Kannadi - Reflections",
       "thumb": "https://yt3.ggpht.com/UbcRLTEaWpKuVCCjnZ5zvXtOBLDzII_EKnEigDHysrRO5Q69rIRRt_EXD0JV2q53cxOJ5xHEifo=s88-c-k-c0x00ffffff-no-rj",
@@ -53643,16 +54403,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCNLU5vZAbanHpE9Grb_fZOA",
-      "title": "Katie Chats",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lg2LN0qtb_j_ZTL9KEd03b5q_cB8f5uvz8QyxhtI2WLnU=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.63,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCQtBksVoXaunHWXGUtA7wSQ",
       "title": "Kayla Vee",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_k_NuW_sgpVDdGdeDx9rEpv0zb-GJ3-_ra9ASicy9s=s88-c-k-c0x00ffffff-no-rj",
@@ -53700,6 +54450,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCyutJ9N1Y6qwh2c9GNC91dw",
+      "title": "Keaton Henson",
+      "thumb": "https://yt3.ggpht.com/5q1DRHfOjfuALjd_Q1ZIrKyr0fFhamZlK-UqAXpwnCI-WTkVcIorooq7bp7h6t3ebqWMeAoh=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -53860,6 +54620,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCaiYCcPssjd8IunMpjBsd1w",
+      "title": "Kevin Sibley",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBjnZXtGOycoVBlbsFEil8yjPHs-Vsiob3Z5Jtzp4=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -54233,6 +55003,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC1v2nTpd_9ca9w-ptoOGXmw",
+      "title": "Komuch66",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_l9L8iYAU_28thv4_uACnn59ofZRrq2MamSeOBvjmZeaw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCJx8GDFCAqmFTHX66ekwU5Q",
       "title": "Konidela Production Company",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_mTba2yjJNhuIFCRadAPdnVul09B_6j-vnr4tSYXkdPQw=s88-c-k-c0x00ffffff-no-rj",
@@ -54573,6 +55353,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC-MlYzrnfAkW3YYqEg3j_5g",
+      "title": "LADIES CODE",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lAgYYfFwUSTpL5sBXiTfhuCtLk9yOd4uCB6YxJI-HXXKg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.03,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCMvbt3JhYfhzHv68V3lJYsg",
       "title": "Ladyhawke",
       "thumb": "https://yt3.ggpht.com/GcjkMreg2jWgkvuR3YKMMqvCEguJQA3_ao5uLa6LXo-HXswhbEDdUCwSWJjf7XnmYCQxyOg5Bg=s88-c-k-c0x00ffffff-no-rj",
@@ -54670,6 +55460,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.52,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCn6KYfJJnamZFzvZbUbbRXQ",
+      "title": "LaRouxVEVO",
+      "thumb": "https://yt3.ggpht.com/t3nJE_9Qj_f1ZWuSNmmf7Ok1V7Gk_O1V1kHPIyadM5_rvByBkvQU42CuILNrtZxPa4COhnQ1=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0,
       "recentItemCount": 0
     },
     {
@@ -54910,6 +55710,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.05,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCdIs5dRqgZ1IWOdLZimHL_w",
+      "title": "Lenny Kravitz",
+      "thumb": "https://yt3.ggpht.com/TcigqfPUEfZhP0dUeHUC8ndGixS1cnUwIM0qJ-4vSeFW4CexReqahmyZrODEHYyDPbL2u1vkbw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -55420,6 +56230,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCK08_B5SZwoEUk2hDPMOijQ",
+      "title": "LSE",
+      "thumb": "https://yt3.ggpht.com/jprc2k0Y4rGti6ers15E3uSIXEdgzEuwzXNXjAAr0t8ErTJmfh40UoDClkHyJbMBX9IKse13JA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.63,
       "recentItemCount": 0
     },
     {
@@ -56043,16 +56863,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCoK6uR64orX30YxrlP1cR2g",
-      "title": "Marmozets",
-      "thumb": "https://yt3.ggpht.com/lXl-IUiLgCE9LCkxPGwryffZ3BLWf0fYGYKa_ZNdBf8Fd5JMqj84el9Dvu5QoJqXro8iij7R8A=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 1,
-      "uploadsPerDay": 0.02,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCN1hnUccO4FD5WfM7ithXaw",
       "title": "Maroon5VEVO",
       "thumb": "https://yt3.ggpht.com/1ZQtP-SxKWQe2L3Hwwo4vaBUfgAhlu5mG_ItQe9k59UwpxP2G1U6Ec3ivxCH_MBlE35Nr8ZhaQ=s88-c-k-c0x00ffffff-no-rj",
@@ -56090,6 +56900,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCL8Nxsa1LB9DrMTHtt3IKiw",
+      "title": "Mashable",
+      "thumb": "https://yt3.ggpht.com/DkwGNTtaOJN8J1D_FCNwHwTWDJa2IVrtT0QHGrFDNE6PTC1T6RlbppkdIxv5590EPa0jdUdZ7g=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 1.11,
       "recentItemCount": 0
     },
     {
@@ -56453,6 +57273,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCx8Hvu3edWIwQhQZVvMT9aQ",
+      "title": "medici.tv",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mBXRIJN9gTcYTAeLF1x7exci1zdyrj34R_mqVm3sdcaBM=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 2,
+      "uploadsPerDay": 0.74,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCXl-Kra9nImc8pBGWxETO0A",
       "title": "MeganandLiz",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_lr9b6G1web4NF-wbUFjyo9ZEFBf6uej9muLu-T_pZOmoA=s88-c-k-c0x00ffffff-no-rj",
@@ -56710,6 +57540,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.21,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCmNxni3QdAIovEXibdLMHjw",
+      "title": "Mick Connell",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nrvzf80Z8W3DMpUyRpGkpY0I7h4LMD0KNY8Vv3lm8=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -57000,6 +57840,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCy-kjK6-pIqY4x36e5RKgSw",
+      "title": "missyhiggins",
+      "thumb": "https://yt3.ggpht.com/MNUeXndeK4YuwDZdJsF6TTS_HtUhzIeuMeatMj1An6WHA4oHFN-nrRkTcUYH7VwbCr62GQdKhRY=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -57373,6 +58223,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCx6OgmoqJbOVRq-Lv1P7SzA",
+      "title": "Mormon Stories Podcast",
+      "thumb": "https://yt3.ggpht.com/uU4ny9WKiGCoqqLtSzvhqVcUegHVtp4DEYY-3NBjCSZF6zUhs94jj5VjhQV7iFdeqpVedT8X=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.37,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC3HturpBm6h56AiEGu_YChQ",
       "title": "MOROW",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nF7QvF2snZvyUc90EKp3Kkf6d4r3TLc08cm1XO8zwIUA=s88-c-k-c0x00ffffff-no-rj",
@@ -57410,6 +58270,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.06,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCy-kaGTL0b0YlPssSQaWl3A",
+      "title": "mosogotam",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_n1IZCjiR4CyccSHZQ5i-M3nU3wouXCqlMEwXBCc8s=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.16,
       "recentItemCount": 0
     },
     {
@@ -57623,16 +58493,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCtuLKvBOePea47aTV7WRQYw",
-      "title": "mtainfo",
-      "thumb": "https://yt3.ggpht.com/OIrvbZVNUPgv_59vX-dzypfJoMLaCm37bxeJKCHuABWsCQa5TftPrEk7OEVOTAUyT6gXCk9x=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.22,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCuwUfM8E79h2sqp34Fut6kw",
       "title": "MTV UK",
       "thumb": "https://yt3.ggpht.com/N9I7FiVrrWdZA6qFDVEcs83gzbzsRHWwRMpdjHZKA77g9lk_9pxdoMK4Sqr4ldix5MjfJWx23Q=s88-c-k-c0x00ffffff-no-rj",
@@ -57760,16 +58620,6 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCv3QNDzQrctIKQnWVT2AeyQ",
-      "title": "mycommercials",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lnLgALun5bWmWV-Sdk8LtZnW11dH4Pc9izzIAwNhRcTA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.08,
       "recentItemCount": 0
     },
     {
@@ -57973,6 +58823,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCuN9hYw2RpoAW8rZ3VK3isA",
+      "title": "NASCAR",
+      "thumb": "https://yt3.ggpht.com/Rt-1OC7HgPw4L6jcKdmo_zpu3vgjBPkD-t7JObwFV4EM1PIQigOIjuNEQ5agIb-WNxDFTNNs-qI=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 4.34,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCVW2sunkh1ICk6gLQLcdLGQ",
       "title": "NasherMuseum",
       "thumb": "https://yt3.ggpht.com/IexAm31BBkdrupiLtNTJaxvH6tHwKoQSy8WCvJW8UKr3UNaW7zV9rvI_2Ue6Caw8uaY7k_QI=s88-c-k-c0x00ffffff-no-rj",
@@ -58050,6 +58910,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.08,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCcBeQ2q6YyOpOaUREG-Z3pg",
+      "title": "National Museum of American History",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kHU8LHvz8Ct7G_opqzXe83V1An1bZMOYOhaTokIJF24Qo=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 2,
+      "uploadsPerDay": 0.1,
       "recentItemCount": 0
     },
     {
@@ -58703,16 +59573,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCBEwcP6rsQSGJ3G869i8-IQ",
-      "title": "NFSA Film Australia",
-      "thumb": "https://yt3.ggpht.com/dOnCAxLVCQ3yzEq-m_Xn1mLLijYu1BWtSoOKdRIibnDXegOSh3glXHxL_Ypw-rLXdnVXhUugYA=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.11,
-      "recentItemCount": 0
-    },
-    {
       "id": "UC7i94bTxxuZBrllSxXHyFxg",
       "title": "NHL on ESPN",
       "thumb": "https://yt3.ggpht.com/AlJ9khNyovBVCyd8VHqL8DuM5zZS7LNPJUDR2JiooUCck6BLawnDLADZiAKRtkvN1rozp_W4Iw=s88-c-k-c0x00ffffff-no-rj",
@@ -58830,6 +59690,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.14,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCBKnF7jdqYIWeZxTNX0Ws-Q",
+      "title": "NinetysTragic",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nupXMXUm5lZ78JxzACllXQm26U9cVe01TMA0uV-2qz4A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -59380,6 +60250,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.1,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCxjqki5Bs5PbrP3r09NJ48Q",
+      "title": "omega125th",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kKb_zGS0or4yrsUY_iK7nw9E3aReW7d7esgzfleahqZA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
     {
@@ -60143,6 +61023,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCiiElpwq-jZMlEDJlWaPBlg",
+      "title": "Penn Museum",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nXsElVFp9EScTm1tDbwqhNVK47Ym9pWfZHXhT5_HBtOUc=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.18,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCPn6krcELPY20Beiqk4JFSw",
       "title": "Pennsylvania Historical and Museum Commission",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZ8wyPasVQ6Ftu-R_gnETUDS9c5zJmtS0I_xxS9MrUZQ=s88-c-k-c0x00ffffff-no-rj",
@@ -60290,6 +61180,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCDlxpXjgXw1TA55MtjKHsEQ",
+      "title": "pianmn199",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mQKwrBQep7_h-rpFsrWHmNYWTWnxUjd_qMZwC_vf1gfA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.44,
       "recentItemCount": 0
     },
     {
@@ -60610,6 +61510,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.32,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCnSXWZ_WcXatZdNuGwrmN6A",
+      "title": "PrepTicket",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mfTjETZSFZ7CuzruADhKygTbAHg05bFWGHLXHC87c=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -61533,6 +62443,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCXHkMZGwB9g4rW4BV45ISbA",
+      "title": "ReasonableFaithOrg",
+      "thumb": "https://yt3.ggpht.com/v5jcXdWH0wPxDOC5iQ5bKmXGuE4s8lOjxXkOtdeNJ56-MuLsjGrhM_c61QiI7LSYI2JnXh0U9w=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.28,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCjGvimE7JJPo6uaFHDjcRLQ",
       "title": "RebeccaFergusonVEVO",
       "thumb": "https://yt3.ggpht.com/sBvFCf5bhPQePlBIJG5MxDjzAea709Z3dcHd45B0u200iRLBjYNYE2sjCqbH29u1jjfb6KDDMA=s88-c-k-c0x00ffffff-no-rj",
@@ -62053,6 +62973,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC_NhWouoggS6q-nJYq7TxFw",
+      "title": "RichGangVEVO",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kgeb3tvIBGrdY-IdjHykSG-MSKpwcehWUAO3_O6TXPgadO46BAk4RkoG8qNgXDJBfHxg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCyXZUcdkBSO5od3rgP6mxPw",
       "title": "RichgirlVEVO",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_lpZC3-cPLUICGWUuCELXhV0XrYAt6yj8LoD-jEniI=s88-c-k-c0x00ffffff-no-rj",
@@ -62070,6 +63000,16 @@
       "distinctSourceCount": 2,
       "hop": 2,
       "uploadsPerDay": 0.15,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCs-VFyQKDjtcfnGau4nI48w",
+      "title": "RichpoiTV",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lF3QiDP-0Y8SwoAZRq5oAr4sgT1yb-oFcQYuynJwkiOw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
       "recentItemCount": 0
     },
     {
@@ -62253,6 +63193,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCDy42UaURm5G-mARu8lx_4g",
+      "title": "Robert Hoskin",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_m0VMI_GVaWjhyS_Zly6QohYj00qmZ4dyR4-51hB4PnFQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCpw_83iTHC2w2L5Br2kVagA",
       "title": "Robert Patrick",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_npd7Wrf7IKGmupKlEta3-S-W0lhviF_t6Kf8llbtABjQ=s88-c-k-c0x00ffffff-no-rj",
@@ -62359,16 +63309,6 @@
       "score": 2,
       "distinctSourceCount": 2,
       "hop": 0,
-      "uploadsPerDay": 0.01,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCWB3DM55nMdwcnyuU9xzOMw",
-      "title": "RonanKeatingVEVO",
-      "thumb": "https://yt3.ggpht.com/mxYjHloKfMmHA3scDIenLxI_j5MOTvV6PD52OBSroYuvgfUCppMZauBs1OKXjgKgC57MvF8q=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 1,
       "uploadsPerDay": 0.01,
       "recentItemCount": 0
     },
@@ -63413,6 +64353,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCno8ftiMEGfjiAJ2EhzY57w",
+      "title": "Seth Rudetsky",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kaywp58UCf4R0D23fAQOAtVsgE6RmUEyJPN5NXSJdb19k=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.1,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCdgMVGnIqc0zxzAFq9wuouQ",
       "title": "sethswirsky",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_mU2qSTCHWb77w2PS6JwJwjv5PUamBqT4ahKmRAt5c=s88-c-k-c0x00ffffff-no-rj",
@@ -63420,16 +64370,6 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCzQdkHKOTVT_chwgDcau4sg",
-      "title": "SETI Institute",
-      "thumb": "https://yt3.ggpht.com/VUNEWQsPH-e2j1Pm2kfvwZnI-CTAzvOoktf37n0F1So1oFScYuOPX27RzxsX_ynV0CdRDGvl=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.23,
       "recentItemCount": 0
     },
     {
@@ -63680,16 +64620,6 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 2,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UC6t1Tkom_lz6nPYsBjOeD9w",
-      "title": "Shemaroo Kannada",
-      "thumb": "https://yt3.ggpht.com/XAUXzDgGoEjKDXjYxBcvbfXer2YyVowHK1AM4QL_ysn37OX5Qhuf-TAr0QS0J7y8RiSuMPVc3Wc=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.91,
       "recentItemCount": 0
     },
     {
@@ -64173,23 +65103,63 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCWgEWXnFFFeoXMJ766CfDLw",
-      "title": "Smithsonian Folkways",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mJxEQ8wFJVWCpfs3WrkESMpWLbwbhJ2TqNwsalyGtl6D0=s88-c-k-c0x00ffffff-no-rj",
+      "id": "UCZW0jH_nivSuvSmFHppURyg",
+      "title": "Smithsonian American Art Museum",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nOl_B_W2mDra6WXYHYC_Uf_V6SBroh1o27EbL_RDwblXs=s88-c-k-c0x00ffffff-no-rj",
       "score": 2,
       "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.11,
+      "hop": 2,
+      "uploadsPerDay": 0.15,
       "recentItemCount": 0
     },
     {
-      "id": "UCyCwfDOKjkm2VLWRxa7Ayhw",
-      "title": "Smithsonian's National Museum of Natural History",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mpu_9KiaR6R8BLkjkj-LjuXQ4mu1Tan8SP_bwx_nrPYV4=s88-c-k-c0x00ffffff-no-rj",
+      "id": "UCiqoxWqLsKHg4EtxTlgOoaQ",
+      "title": "Smithsonian Institution Archives",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mIvdcTG3ZIYR0zQpr7v7GVisZi_PlA3XnfB7hTRJ_M7w=s88-c-k-c0x00ffffff-no-rj",
       "score": 2,
       "distinctSourceCount": 2,
       "hop": 0,
-      "uploadsPerDay": 0.08,
+      "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCEAJunVfTpgXUPbGItP5I-A",
+      "title": "Smithsonian Magazine",
+      "thumb": "https://yt3.ggpht.com/8TjH6Ve_ABxZ3YadRF6x6dMFyTEgSj2CRaPukFfk3KoPSIDaiUUAS8xARvevczzsdZIMPoeo=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.06,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCAcslQyaqbf06XLWUtv7jJA",
+      "title": "Smithsonian National Air and Space Museum",
+      "thumb": "https://yt3.ggpht.com/PDCitJgprwQl-Bk063-_inBMiKDWGXTB8j8Hy19VqKZQQUztHcL7axMTCBAzLfeaGdCI-620og=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.23,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC3oWNSlEKYqJnpL_BiUb1fQ",
+      "title": "Smithsonian National Museum of African Art",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mhYd29PL4NLS1dzOUNB0NeEP3vTSDN7iXO5Mw8amQG7A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 2,
+      "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC6dyNTnSopdgye2gQBVSNVg",
+      "title": "Smithsonian Science Education Center (SSEC)",
+      "thumb": "https://yt3.ggpht.com/WBT3kCImpBT4SjyCUazV8Vl-wQCPfm1CrlKQ6lFl5qvkbgZFMFV3TW4qmKX7C049rZPNzmYfNuc=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -64240,6 +65210,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCTTL1djMcMA7t92XcHz-b-w",
+      "title": "Snowgoons",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nIpQ4T19LScACKqXfxOW1Yf6bf4_AC1XNuzToc7Jau_Q=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.1,
       "recentItemCount": 0
     },
     {
@@ -64490,6 +65470,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCUAsnLy5f8Piu-wk64rCkaw",
+      "title": "SoThisIsWashington",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_k-jv55Awkr-_gSnzf-iMUqSrQVpD0o7hV2ztJWElRcRg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
       "recentItemCount": 0
     },
     {
@@ -65033,6 +66023,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCQ0dDHg5rZeGLsIhYpY1oBQ",
+      "title": "Steve Wallace",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lKH7Sqy6mhTz9lK5TI5vG6BzCcqju84-vzP7CL7Lpoorw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC9B6c09n61wgu5w6bh1v68Q",
       "title": "StingVEVO",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_lWyuGVsdfkActn-i9Oo99DreDiZ3LIko7qvGNPOtqjzw=s88-c-k-c0x00ffffff-no-rj",
@@ -65080,16 +66080,6 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCHAT-98JSyz7vv0M3nLncYA",
-      "title": "Strand Book Store",
-      "thumb": "https://yt3.ggpht.com/2mE88VKdvL8b0BNRQC9_LvaApawt647GTV3ZG2SMq5D3z72z0H6uyNyU05AonI1f_7l2x5dFJrM=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.29,
       "recentItemCount": 0
     },
     {
@@ -65160,6 +66150,16 @@
       "distinctSourceCount": 2,
       "hop": 2,
       "uploadsPerDay": 0.02,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCkuLG3tLjnmchHO1S4sSCoA",
+      "title": "Studio City Sound",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nXx0iqzba1sCanRNnAw9bZNgd2qUhkEFlkTyn7Db53_A8=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.08,
       "recentItemCount": 0
     },
     {
@@ -65383,16 +66383,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UC-J3Rig6mrJhGECH-yVMwSg",
-      "title": "SVAstronomyLectures",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kwmC-jhlnJqS5Nn94MjAso3HQVppKzmXvCKrgMwFKJ5g=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.02,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCn1rRfBCn6I_Mef5IfVe30w",
       "title": "SVD UK Mandi",
       "thumb": "https://yt3.ggpht.com/5ARgnKPlcz7tNTSUKu-l52pg-VE1DR9-b1FGve-NRLaTMunjS-S17heLxWZqDwILh0hOoZTXAIs=s88-c-k-c0x00ffffff-no-rj",
@@ -65453,6 +66443,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCGUF6zxegDvdjb2rsbYXV8A",
+      "title": "Sydney Swans",
+      "thumb": "https://yt3.ggpht.com/aD7RA9c99B-bP6YUhvNzK0qon654WA6ovpzvl_fqXwCRV6Cz-3HRQO3-UGtMoezWkJPuvBkTpQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.9,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCYFXAlQJIcCo1xg0-F68fHg",
       "title": "sylvie13150",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kTdatSnLsM-roVXORhCkDffurNbOZZdFhGHu7RWtER4hg=s88-c-k-c0x00ffffff-no-rj",
@@ -65460,16 +66460,6 @@
       "distinctSourceCount": 2,
       "hop": 2,
       "uploadsPerDay": 0,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCCASk80FOfbBxnKw8vde--w",
-      "title": "Symphonyofflowers",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lQAWdRxm1F2G0aMO0i9Rytx78ISD5Om2YlyeWZeS_vqg=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 1,
-      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -66303,16 +67293,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCkkKXMme5ar5ctRhIvimF7A",
-      "title": "The Digital Hash",
-      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mfyjSlrntJlZIWP7U150EOuE11Cls-YmF3RHrdVEDXTw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.12,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCFOkYWi3a396izfWGJJ2UGQ",
       "title": "The Dollyrots",
       "thumb": "https://yt3.ggpht.com/nRwqzSCTqmblCjh_M6QFRCPRD7iiQ2RcguKuI1wOaulZH_Hk65xbQt_ck8jLP0iAi_YZZRanKw=s88-c-k-c0x00ffffff-no-rj",
@@ -66360,6 +67340,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.1,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCLZfDGIQ_bIRdBr2MXR6Uhw",
+      "title": "The Front Bottoms",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mbF9fvrT7aY_CLtjhpy28mBca3H9AgLFQ9KTc-_76I_w=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.03,
       "recentItemCount": 0
     },
     {
@@ -66713,16 +67703,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCmKurapML4BF9Bjtj4RbvXw",
-      "title": "The Piano Guys",
-      "thumb": "https://yt3.ggpht.com/mM0LoOjNN1lG4U-_NpaDamH29zrL3OGmLurzfsi-Eg3TwsAnAPE-QQVIxn4IoDsd0omuIONZ_A=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.04,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCVBD2a1uUkhX18B1WVcddzQ",
       "title": "The Planet D",
       "thumb": "https://yt3.ggpht.com/Zx9-svpj9wYYINPMc5peRo2JeqdKwqetSvm4QOWj_RaOFJE_X-jetDJQfo-vUpZ8ogN_cHnxPQ=s88-c-k-c0x00ffffff-no-rj",
@@ -66763,13 +67743,13 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCrmm_7RDZJeQzq2-wvmjueg",
-      "title": "The Real News Network",
-      "thumb": "https://yt3.ggpht.com/XykdDAUjGrcoHl_O8I2UX3uZeqgMbtwiotCG28xS1qZp57WOBdavgQIEBhzDKmeFqlyH0qoR5Q=s88-c-k-c0x00ffffff-no-rj",
+      "id": "UCmKXh9m_xUJlKYgW5tMibEw",
+      "title": "The Rap Sheet",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_m81mkX9HKIOQ-tIGFICkrtOs3Ug8tTtyj6X9yLjOf7Zw=s88-c-k-c0x00ffffff-no-rj",
       "score": 2,
       "distinctSourceCount": 2,
       "hop": 0,
-      "uploadsPerDay": 2.1,
+      "uploadsPerDay": 0.06,
       "recentItemCount": 0
     },
     {
@@ -66893,6 +67873,26 @@
       "recentItemCount": 0
     },
     {
+      "id": "UC327M9im1ba32Pv32LR118w",
+      "title": "The University of British Columbia",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_nbS3C8bmIrexXT8pj6nA6bT0hx_DGdIZKBmo6Bmik9_9s=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.19,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCZv8UXOfXHaQaalmp7AMLwg",
+      "title": "The University of Edinburgh",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lxq1kAKAnBo1q_FcsmE7zmEftd4DDEktY0IY1w4M7iFA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.16,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCZcvy6-rmqTwDrDn7Ajd3Cw",
       "title": "The Vatican - Archive",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_m0C_BVM2e20F10Z-UgR8zdaDyqaJ_OhjvIt8J1X8q9iw=s88-c-k-c0x00ffffff-no-rj",
@@ -66990,6 +67990,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.36,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCH_YpPVrF7Kzjew8rB2cdjg",
+      "title": "The1975VEVO",
+      "thumb": "https://yt3.ggpht.com/BCXXwF_qrPJvCzNhUzD18Afc2xAZT5alxhvnyg0pvO8JY1xyd3FdGL31quPbWGMt37TrjKTosw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.02,
       "recentItemCount": 0
     },
     {
@@ -67130,6 +68140,16 @@
       "distinctSourceCount": 2,
       "hop": 2,
       "uploadsPerDay": 0,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCKRw8GAAtm27q4R3Q0kst_g",
+      "title": "thejuicemedia",
+      "thumb": "https://yt3.ggpht.com/R-P6DLkI6ROEZrBbTphfXHyzvv-5xeusxnFSt3cv2amYNp7wfMI-nlKTk4vDk-Dau31G7n1x=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -67380,16 +68400,6 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.01,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCYNlsJPY-IrNhZqCOeApbEw",
-      "title": "THNKR",
-      "thumb": "https://yt3.ggpht.com/dO50Mfl1JGUM07UYUJXHzVpsRFwfVb2OU2E-SbLtCkiSeQV6Ekoz0xiOQUqnF9sAwfW-DtZzgtM=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -67913,16 +68923,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCBa659QWEk1AI4Tg--mrJ2A",
-      "title": "Tom Scott",
-      "thumb": "https://yt3.ggpht.com/WxHs0Jf1Jp_4ZU84wxnRL0owNHkzaLUEiD-GIfgCrVjZ0JhgriPTdPfGrkf-U7zwIs5zQl9ccg=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 1,
-      "uploadsPerDay": 0.1,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCsdMEvELMsmWvtXj5_-n6pA",
       "title": "Tom Waters",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_kJ9UJ_nYeMcv8FYB82vvCuSihPqarxwMP1FOQHFyjXzXY=s88-c-k-c0x00ffffff-no-rj",
@@ -68063,6 +69063,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCWNq-rQ9ZEGGJdERY5M6ugA",
+      "title": "TotalRock",
+      "thumb": "https://yt3.ggpht.com/1c77KYJnHeQkYl4bONkUchwdAJiRiW5Oz2uayTP3_wTZc7VzEs0xu5XtO5j8ALvKA8eg7GHzDCc=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.47,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCgfBzLMdDnry07q91UwjGCg",
       "title": "Touch and Go Records",
       "thumb": "https://yt3.ggpht.com/Fdv8QBCJNo7QQa9fCEjBoaWTpPhuz_mqvqmzrp7gBuOleRaJ43cFrO6PYG5COpgF3_kJDzD8ww=s88-c-k-c0x00ffffff-no-rj",
@@ -68090,6 +69100,16 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 4.59,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCto2NI994eyiEgP2eB3Jwdg",
+      "title": "TOUZANI TV",
+      "thumb": "https://yt3.ggpht.com/S_MhxBmpsImMfQiKXtiU3l4YnOs7_2mWO4HRXyzrxC6jIJe4WGf0PfgfcT8q6ufyWCQnCMqegDw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.17,
       "recentItemCount": 0
     },
     {
@@ -68683,6 +69703,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCEwoFdqY09VwZFESGZ8Qp4A",
+      "title": "TZMOfficialChannel",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_k3C9ArOzwy3Zj1e3w4bzkInFw1hqPXYf3Bcww_4mR6XA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.07,
+      "recentItemCount": 0
+    },
+    {
       "id": "UC4gPNusMDwx2Xm-YI35AkCA",
       "title": "U2",
       "thumb": "https://yt3.ggpht.com/qwJFWn2bd1B5nW-b-GDjb8KKt9w3Xh_GSYJrvbyn9Lz0e9cOWO0MY8ZM1biaALJZHXTq_9PC=s88-c-k-c0x00ffffff-no-rj",
@@ -68793,16 +69823,6 @@
       "recentItemCount": 0
     },
     {
-      "id": "UCjX58COleIWwvc0_e9r_oMA",
-      "title": "UKRAINE TODAY",
-      "thumb": "https://yt3.ggpht.com/3qXDqxj5D8V9QFF2m9f21Y8T7cHPDMEuj9StCjhL2TB3iGBx3SdouZvKXaFgJUwhx5UkjYCXhMU=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 4.69,
-      "recentItemCount": 0
-    },
-    {
       "id": "UCN2EqLUKUzO-AuusV-NkoHQ",
       "title": "UkrainianHistVideo",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_mNG6wvVJqIjetXXR8jVK5-4WZDGytQi3waSlD1Xe4=s88-c-k-c0x00ffffff-no-rj",
@@ -68910,16 +69930,6 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.67,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCZh2V-JNW_adTDY3j9FgFEw",
-      "title": "UnidiscMusic",
-      "thumb": "https://yt3.ggpht.com/iJd4Y31cwNvIdP58VZEqeQRGOqZdPFDnQTnAnZoN9tj77uzHg9-G2mZCaLPb3cGqLKl44vIxCw=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 1,
       "recentItemCount": 0
     },
     {
@@ -69060,6 +70070,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.09,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC5nxGCdHq_K42l-2XABnRdg",
+      "title": "University of Iowa Health Care",
+      "thumb": "https://yt3.ggpht.com/TbnL0coVIAKoNsQaUeXzxcKCe6tQYFthr3F_gxYiKtCJoVXnS-LgUQjCvHYYgyLBuutZO9X9IQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 2,
+      "uploadsPerDay": 0.2,
       "recentItemCount": 0
     },
     {
@@ -69340,6 +70360,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.05,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCgRQHK8Ttr1j9xCEpCAlgbQ",
+      "title": "Variety",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lUeys_Ht_DIAe_8BwFUqST-fU7kvBdoh5R7oxBlwzJX8Y=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.64,
       "recentItemCount": 0
     },
     {
@@ -70033,6 +71063,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCj3khGIFxTRyybH2c9Q3sTA",
+      "title": "whatiship73",
+      "thumb": "https://yt3.ggpht.com/8aY4vb2pjh6PnfaCH_CvsrlAKI1WsTzCXkBaBMvcaw42cYAzFzotx1JY3fRdh3vC_IG1iM-9Eg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.04,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCRHetKmGYP8w55d522r0RPw",
       "title": "Wheelchair Basketball Canada",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_niOBDVMdiWK1rl0eWAeNuj3QqDT-44Y4-EmiDkKewF4w=s88-c-k-c0x00ffffff-no-rj",
@@ -70130,6 +71170,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.09,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCxLBgDw8lQSj4QScw3zL-rQ",
+      "title": "wiggum075",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kVBOntfWC-hDzigOK0ZkGzaVKjbfeXPebAVKwPcv_eUw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0,
       "recentItemCount": 0
     },
     {
@@ -70293,6 +71343,16 @@
       "recentItemCount": 0
     },
     {
+      "id": "UCbysmY4hyViQAAYEzOR-uCQ",
+      "title": "WNYC",
+      "thumb": "https://yt3.ggpht.com/w6T7MyiQjo4DJ9WVP-ZxyAX3Q3EEkr9r2CDLbYU_ZIcsAxuGkDds6kj8PCZZAY4os9Bva5KoDA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.84,
+      "recentItemCount": 0
+    },
+    {
       "id": "UCHgqRhMJQD16mfo-YPTrNhw",
       "title": "womensprosoccer",
       "thumb": "https://yt3.ggpht.com/ytc/AIdro_nXsX89XLCueRBeOSqjbBAHN3w3wF6sfgAWi_7L_gTtfA=s88-c-k-c0x00ffffff-no-rj",
@@ -70350,16 +71410,6 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 24.63,
-      "recentItemCount": 0
-    },
-    {
-      "id": "UCvbZ7TWDlBUeuKMRQCBmiSw",
-      "title": "World Future Council",
-      "thumb": "https://yt3.ggpht.com/NB8QZqk9bNpfEmmPd9cn226r04I7_TIA_6m-32iHJZKn5J72R4vD0zw_PzvXq4yBjIHJlKyO=s88-c-k-c0x00ffffff-no-rj",
-      "score": 2,
-      "distinctSourceCount": 2,
-      "hop": 0,
-      "uploadsPerDay": 0.04,
       "recentItemCount": 0
     },
     {
@@ -70580,6 +71630,76 @@
       "distinctSourceCount": 2,
       "hop": 1,
       "uploadsPerDay": 0.1,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCQyXSNiV5nr1eS5uIwBO_YQ",
+      "title": "Yad Vashem Deutsch",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_ly1-hPosubXvZNFJfz7Fl1QNRUUfHhzqio78Ro9ooAFQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.05,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UC8yrj2hp_dlj8cZQjodu3lw",
+      "title": "Yad Vashem Español",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_mlGoEiKl9CJS16_D3vfeqdHCqfkKAnlKQ4i4i9bypJzw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.05,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCRR_FxuKczxdAQ6ISKlbyaw",
+      "title": "Yad Vashem Français",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lI1mPQ2gzGkBkzO3wAh4-3fsW4G6u7T8NIwDKv6CgAmA=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.08,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCFcpx55Lto8i_lgMs_V2N8A",
+      "title": "YadVashem יד ושם",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_m70iu_T1jqvImBcEGpE3vSjXioSrxys02ojvLhXD1b7Q=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 0,
+      "uploadsPerDay": 0.25,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCNIjOxGc8eMerKSn1_ZDG-Q",
+      "title": "yadvashemarabic",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kt-sUt0McqRMaP1M4f8PvZOhDBSxZUL3rT5ZNsbTf6Xw=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCYdzSBcA479jr9teO2crmnw",
+      "title": "yadvashemfarsi",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_lEB4wueruT7BPJdHYYhly1XsdKI7zUbZ8hyNhiosBPAjg=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.01,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCkUzLfZSuUdWXm3HicNf8SA",
+      "title": "yadvashemrussian",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_kU5v8MaRx6MD3zgv5VO_SIBVWxnOWv2a9gHG8QjcGPCQ=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.05,
       "recentItemCount": 0
     },
     {
@@ -70930,6 +72050,16 @@
       "distinctSourceCount": 2,
       "hop": 0,
       "uploadsPerDay": 0.1,
+      "recentItemCount": 0
+    },
+    {
+      "id": "UCNAqkI_d-meK84h7ifAWCWw",
+      "title": "zellco321",
+      "thumb": "https://yt3.ggpht.com/ytc/AIdro_m8o8d50b7F5GgSxAtEnZKEEOCkagJ_K3zZHvjSvq6Q3A=s88-c-k-c0x00ffffff-no-rj",
+      "score": 2,
+      "distinctSourceCount": 2,
+      "hop": 1,
+      "uploadsPerDay": 0.21,
       "recentItemCount": 0
     },
     {

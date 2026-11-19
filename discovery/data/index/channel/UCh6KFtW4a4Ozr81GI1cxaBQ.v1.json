@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCh6KFtW4a4Ozr81GI1cxaBQ",
   "title": "University of California Television (UCTV)",
   "thumb": "https://yt3.ggpht.com/ABuxegbRX6xVmeFnmLMJtPe6IwRRE4Rh6oeVzuT2apDmp4MHb-0psv6EQQZDn50D_SluKZ7th7M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 1.52,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Perry Anderson",
       "url": "https://en.wikipedia.org/wiki/Perry_Anderson",
       "firstSeenAt": "2026-11-18T15:35:37.006Z"
+    },
+    {
+      "id": "wiki:John P. Meier",
+      "type": "wikipedia",
+      "label": "John P. Meier",
+      "url": "https://en.wikipedia.org/wiki/John_P._Meier",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
     }
   ],
   "recentItems": []

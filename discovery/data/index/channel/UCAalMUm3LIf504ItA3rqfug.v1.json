@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCAalMUm3LIf504ItA3rqfug",
   "title": "Brentford Football Club",
   "thumb": "https://yt3.ggpht.com/MorTRXzStmmqAS9_mhW7vuy_QcJU92TKDBfORCkM61ggbv7magqlP02Z6zl9-fjX1RAepz7QlLM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Brentford F.C. Reserves and Academy",
       "url": "https://en.wikipedia.org/wiki/Brentford_F.C._Reserves_and_Academy",
       "firstSeenAt": "2026-11-17T15:56:40.700Z"
+    },
+    {
+      "id": "wiki:2014–15 Brentford F.C. season",
+      "type": "wikipedia",
+      "label": "2014–15 Brentford F.C. season",
+      "url": "https://en.wikipedia.org/wiki/2014%E2%80%9315_Brentford_F.C._season",
+      "firstSeenAt": "2026-11-19T15:41:22.285Z"
     }
   ],
   "recentItems": []

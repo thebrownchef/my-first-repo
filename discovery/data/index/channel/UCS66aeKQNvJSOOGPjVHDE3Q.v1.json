@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCS66aeKQNvJSOOGPjVHDE3Q",
   "title": "EFForg",
   "thumb": "https://yt3.ggpht.com/7dIqFLJhM0PSaBKqyq_gOo4wmagQ_XRl9BY3unB4SWkeVR_GGhV5aGq0gWSRtHD-TQRTaGV6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Stop Watching Us",
       "url": "https://en.wikipedia.org/wiki/Stop_Watching_Us",
       "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "channel:UCJrI0Obj4UDT5ukjXOyNz2Q",
+      "type": "channel",
+      "label": "TheEthanwashere",
+      "url": "https://www.youtube.com/channel/UCJrI0Obj4UDT5ukjXOyNz2Q",
+      "firstSeenAt": "2026-11-19T15:41:46.886Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCbVIl4vNo5Ps2V9nM8ykgFA",
   "title": "hfxmusicman",
   "thumb": "https://yt3.ggpht.com/LiDX7FL_861Tnyh1H7Yjs-Ctq_Uhww5JFHNjsaY1Okzq1BKJpgHtywWFcIazTrHycf3_eSF3jg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "Robert Gerringer",
       "url": "https://en.wikipedia.org/wiki/Robert_Gerringer",
       "firstSeenAt": "2026-11-16T15:40:06.905Z"
+    },
+    {
+      "id": "wiki:Carla Borelli",
+      "type": "wikipedia",
+      "label": "Carla Borelli",
+      "url": "https://en.wikipedia.org/wiki/Carla_Borelli",
+      "firstSeenAt": "2026-11-19T15:41:18.773Z"
+    },
+    {
+      "id": "wiki:Jay Hammer",
+      "type": "wikipedia",
+      "label": "Jay Hammer",
+      "url": "https://en.wikipedia.org/wiki/Jay_Hammer",
+      "firstSeenAt": "2026-11-19T15:41:19.435Z"
     }
   ],
   "recentItems": []

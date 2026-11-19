@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCUGzhBmck61sa3eGxp9xI8A",
   "title": "VampireWeekendVEVO",
   "thumb": "https://yt3.ggpht.com/6XUARgqxfLs4vhLntdRM_CqjlLpxlghEI2WwpUc1DbN__T0PpRKFlZLBL1-yvzC3kd8KPNmd2A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Ya Hey",
       "url": "https://en.wikipedia.org/wiki/Ya_Hey",
       "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Step (Vampire Weekend song)",
+      "type": "wikipedia",
+      "label": "Step (Vampire Weekend song)",
+      "url": "https://en.wikipedia.org/wiki/Step_(Vampire_Weekend_song)",
+      "firstSeenAt": "2026-11-19T15:41:22.285Z"
     }
   ],
   "recentItems": []

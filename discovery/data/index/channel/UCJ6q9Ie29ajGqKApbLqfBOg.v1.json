@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCJ6q9Ie29ajGqKApbLqfBOg",
   "title": "Black Hat",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwQESLMp5tK6oTmV2NHuMpu3jnw2292wfNcPJPDnijqNg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Dan Geer",
       "url": "https://en.wikipedia.org/wiki/Dan_Geer",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:USB flash drive security",
+      "type": "wikipedia",
+      "label": "USB flash drive security",
+      "url": "https://en.wikipedia.org/wiki/USB_flash_drive_security",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

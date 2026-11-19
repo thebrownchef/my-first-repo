@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCtIQil-e9wzT_fxySy1y3nw",
   "title": "Harold Channer",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mN5O1wu72LNB-kKZZLV9tcAtvpxum9EM_d5vH6rpgVEg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Üner Kırdar",
       "url": "https://en.wikipedia.org/wiki/%C3%9Cner_K%C4%B1rdar",
       "firstSeenAt": "2026-11-17T15:56:40.699Z"
+    },
+    {
+      "id": "wiki:Niles Eldredge",
+      "type": "wikipedia",
+      "label": "Niles Eldredge",
+      "url": "https://en.wikipedia.org/wiki/Niles_Eldredge",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Paul Ryan (video artist)",
+      "type": "wikipedia",
+      "label": "Paul Ryan (video artist)",
+      "url": "https://en.wikipedia.org/wiki/Paul_Ryan_(video_artist)",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
     }
   ],
   "recentItems": []

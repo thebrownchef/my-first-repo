@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCvbd4lVoe8ur0zJJRuuhC_Q",
   "title": "Warp Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mx5zRNp8f-SUMtU_vG6wXhpz0Hbo1KPIWMn5w7n9OvdCM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Silver Wilkinson",
       "url": "https://en.wikipedia.org/wiki/Silver_Wilkinson",
       "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Minipops 67 (120.2)",
+      "type": "wikipedia",
+      "label": "Minipops 67 (120.2)",
+      "url": "https://en.wikipedia.org/wiki/Minipops_67_(120.2)",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

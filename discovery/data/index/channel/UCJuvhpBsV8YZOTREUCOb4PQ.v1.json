@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
   "title": "underyourskin",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Benny Golson",
       "url": "https://en.wikipedia.org/wiki/Benny_Golson",
       "firstSeenAt": "2026-11-15T13:53:33.395Z"
+    },
+    {
+      "id": "wiki:Buster Williams",
+      "type": "wikipedia",
+      "label": "Buster Williams",
+      "url": "https://en.wikipedia.org/wiki/Buster_Williams",
+      "firstSeenAt": "2026-11-19T15:41:22.285Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "id": "UCnzItcpd7WGVn80TRRb8RcQ",
+  "title": "FORA.tv",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwP6738qEgP7uUrLxAtp02lKJEoCL30PFmmtDMkDgUfww=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.73,
+  "sources": [
+    {
+      "id": "channel:UC03JkcIx6jNK5IviHK6dT2A",
+      "type": "channel",
+      "label": "LibertyInOurTime",
+      "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
+      "firstSeenAt": "2026-10-26T12:57:00.806Z"
+    },
+    {
+      "id": "wiki:Joe Eszterhas",
+      "type": "wikipedia",
+      "label": "Joe Eszterhas",
+      "url": "https://en.wikipedia.org/wiki/Joe_Eszterhas",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    }
+  ],
+  "recentItems": []
+}

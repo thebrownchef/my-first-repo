@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC7M42vQrNmZ0tnmmenLWwBA",
   "title": "ACLU",
   "thumb": "https://yt3.ggpht.com/z6uwwOH4FEz-Px5vZtctUbIgFWHDYH1qGp7VikljPXUnLN1t9uLgjTwEfLrx34WAF_xChMAN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.812Z"
+    },
+    {
+      "id": "channel:UCJrI0Obj4UDT5ukjXOyNz2Q",
+      "type": "channel",
+      "label": "TheEthanwashere",
+      "url": "https://www.youtube.com/channel/UCJrI0Obj4UDT5ukjXOyNz2Q",
+      "firstSeenAt": "2026-11-19T15:41:46.887Z"
     }
   ],
   "recentItems": []

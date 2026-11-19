@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
   "title": "Computer History Museum",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Fernando J. Corbató",
       "url": "https://en.wikipedia.org/wiki/Fernando_J._Corbat%C3%B3",
       "firstSeenAt": "2026-11-16T15:40:08.292Z"
+    },
+    {
+      "id": "wiki:Avram Miller",
+      "type": "wikipedia",
+      "label": "Avram Miller",
+      "url": "https://en.wikipedia.org/wiki/Avram_Miller",
+      "firstSeenAt": "2026-11-19T15:41:25.825Z"
     }
   ],
   "recentItems": []

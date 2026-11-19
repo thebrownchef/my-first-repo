@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCrmm_7RDZJeQzq2-wvmjueg",
   "title": "The Real News Network",
   "thumb": "https://yt3.ggpht.com/XykdDAUjGrcoHl_O8I2UX3uZeqgMbtwiotCG28xS1qZp57WOBdavgQIEBhzDKmeFqlyH0qoR5Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "LibertyInOurTime",
       "url": "https://www.youtube.com/channel/UC03JkcIx6jNK5IviHK6dT2A",
       "firstSeenAt": "2026-10-26T12:57:00.817Z"
+    },
+    {
+      "id": "wiki:Jane D'Arista",
+      "type": "wikipedia",
+      "label": "Jane D'Arista",
+      "url": "https://en.wikipedia.org/wiki/Jane_D'Arista",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
   "recentItems": []

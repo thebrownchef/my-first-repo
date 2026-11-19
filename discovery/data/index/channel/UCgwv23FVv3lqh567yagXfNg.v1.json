@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCgwv23FVv3lqh567yagXfNg",
   "title": "DisneyMusicVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvNHhhb5UzdKLCer4xytxAB8bki4wJ5Kxr7oRanaGZsbU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.57,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Amigas Cheetahs",
       "url": "https://en.wikipedia.org/wiki/Amigas_Cheetahs",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Dconstructed",
+      "type": "wikipedia",
+      "label": "Dconstructed",
+      "url": "https://en.wikipedia.org/wiki/Dconstructed",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

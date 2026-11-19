@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCBEwcP6rsQSGJ3G869i8-IQ",
   "title": "NFSA Film Australia",
   "thumb": "https://yt3.ggpht.com/dOnCAxLVCQ3yzEq-m_Xn1mLLijYu1BWtSoOKdRIibnDXegOSh3glXHxL_Ypw-rLXdnVXhUugYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Pearlers",
       "url": "https://en.wikipedia.org/wiki/The_Pearlers",
       "firstSeenAt": "2026-11-06T14:13:12.148Z"
+    },
+    {
+      "id": "wiki:Brian Trenchard-Smith",
+      "type": "wikipedia",
+      "label": "Brian Trenchard-Smith",
+      "url": "https://en.wikipedia.org/wiki/Brian_Trenchard-Smith",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
   "recentItems": []

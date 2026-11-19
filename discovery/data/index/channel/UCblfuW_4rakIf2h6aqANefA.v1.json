@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCblfuW_4rakIf2h6aqANefA",
   "title": "Red Bull",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k94J7kkxpmlJe3c2iDFJpHk8SAADPpf49cN7XjomXSzEE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.97,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Red Bull BC One",
       "url": "https://www.youtube.com/channel/UC9oEzPGZiTE692KucAsTY1g",
       "firstSeenAt": "2026-11-09T16:12:45.703Z"
+    },
+    {
+      "id": "channel:UCrO4zKF350rf5wMWBvnu0tw",
+      "type": "channel",
+      "label": "JokkeSommerOfficial",
+      "url": "https://www.youtube.com/channel/UCrO4zKF350rf5wMWBvnu0tw",
+      "firstSeenAt": "2026-11-19T15:41:50.078Z"
     }
   ],
   "recentItems": []

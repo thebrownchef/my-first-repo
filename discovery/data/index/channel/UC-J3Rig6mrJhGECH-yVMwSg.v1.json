@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC-J3Rig6mrJhGECH-yVMwSg",
   "title": "SVAstronomyLectures",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kwmC-jhlnJqS5Nn94MjAso3HQVppKzmXvCKrgMwFKJ5g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,27 @@
       "label": "David Morrison (astrophysicist)",
       "url": "https://en.wikipedia.org/wiki/David_Morrison_(astrophysicist)",
       "firstSeenAt": "2026-11-18T15:35:37.007Z"
+    },
+    {
+      "id": "wiki:Jill Tarter",
+      "type": "wikipedia",
+      "label": "Jill Tarter",
+      "url": "https://en.wikipedia.org/wiki/Jill_Tarter",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Sandra Faber",
+      "type": "wikipedia",
+      "label": "Sandra Faber",
+      "url": "https://en.wikipedia.org/wiki/Sandra_Faber",
+      "firstSeenAt": "2026-11-19T15:41:25.823Z"
+    },
+    {
+      "id": "wiki:Seth Shostak",
+      "type": "wikipedia",
+      "label": "Seth Shostak",
+      "url": "https://en.wikipedia.org/wiki/Seth_Shostak",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCdBcQUZF3ZvERcrjOQsGVPw",
   "title": "Fred Robbins",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVSK2nOnqjU1PcIGpRxjumr1b2Ebi_QoI0siz2v4cCcm4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Benjamin F. Logan",
       "url": "https://en.wikipedia.org/wiki/Benjamin_F._Logan",
       "firstSeenAt": "2026-11-15T13:53:33.395Z"
+    },
+    {
+      "id": "wiki:Alan Munde",
+      "type": "wikipedia",
+      "label": "Alan Munde",
+      "url": "https://en.wikipedia.org/wiki/Alan_Munde",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

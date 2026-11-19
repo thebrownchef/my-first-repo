@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCGwuxdEeCf0TIA2RbPOj-8g",
   "title": "Stanford Graduate School of Business",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lWoHJNSE1UPPiFdCG4_aQZ1apKXrKI7nZ_sFlKwhNwRl0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.6,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Don Valentine",
       "url": "https://en.wikipedia.org/wiki/Don_Valentine",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Mooresville Graded School District",
+      "type": "wikipedia",
+      "label": "Mooresville Graded School District",
+      "url": "https://en.wikipedia.org/wiki/Mooresville_Graded_School_District",
+      "firstSeenAt": "2026-11-19T15:41:25.823Z"
+    },
+    {
+      "id": "wiki:Reverse takeover",
+      "type": "wikipedia",
+      "label": "Reverse takeover",
+      "url": "https://en.wikipedia.org/wiki/Reverse_takeover",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

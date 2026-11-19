@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCtXKDgv1AVoG88PLl8nGXmw",
   "title": "Google TechTalks",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_np5QbjchJOQKKpyqO3Uo7sg3YUaFx2EWN1kCQ0N7HRrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -127,7 +127,123 @@
       "label": "Sarah Allen (software developer)",
       "url": "https://en.wikipedia.org/wiki/Sarah_Allen_(software_developer)",
       "firstSeenAt": "2026-11-18T15:35:37.007Z"
+    },
+    {
+      "id": "wiki:Network Voice Protocol",
+      "type": "wikipedia",
+      "label": "Network Voice Protocol",
+      "url": "https://en.wikipedia.org/wiki/Network_Voice_Protocol",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "60Suu9eK13o",
+      "title": "Machine Text Detectors are Membership Inference Attacks",
+      "publishedAt": "2026-06-10T00:46:06Z",
+      "durationSec": 3210,
+      "thumb": "https://i.ytimg.com/vi/60Suu9eK13o/mqdefault.jpg",
+      "description": "A Google TechTalk, 2026-02-04, presented by Ryoto Koike\nABSTRACT: Although membership inference attacks (MIAs) and machine-generated text detection target different goals, their methods often exploit similar signals based on a language model’s probability distribution, and the two tasks have been studied independently. This can result in conclusions that overlook stronger methods and valuable insights from the other task. In this work, we theoretically and empirically demonstrate the transferability, i.e., how well a method originally developed for one task performs on the other, between MIAs and machine text detection. We prove that the metric achieving asymptotically optimal performance is identical for both tasks. We unify existing methods under this optimal metric and hypothesize that the accuracy with which a method approximates this metric is directly correlated with its transferability. Our large-scale empirical experiments demonstrate very strong rank correlation (ρ ≈ 0.7) in cross-task performance. Notably, we also find that a machine text detector achieves the strongest performance among evaluated methods on both tasks, demonstrating the practical impact of transferability. To facilitate cross-task development and fair evaluation, we introduce MINT, a unified evaluation suite for MIAs and machine-generated text detection, implementing 15 recent methods from both tasks (https://github.com/ryuryukke/MINT).\n\nhttps://arxiv.org/abs/2510.19492",
+      "chapters": []
+    },
+    {
+      "id": "KZ-bow66Spw",
+      "title": "Differentially Private Table-Image Multimodal Data Generation",
+      "publishedAt": "2026-06-10T00:46:06Z",
+      "durationSec": 2417,
+      "thumb": "https://i.ytimg.com/vi/KZ-bow66Spw/mqdefault.jpg",
+      "description": "A Google TechTalk, 2026-04-01, presented by Kai Chen\nABSTRACT: Privacy-preserving data sharing is a key challenge in modern machine learning. Differential privacy (DP) has emerged as the gold standard for rigorous privacy guarantees, with significant progress made in synthesizing unimodal data, such as tabular records or images, under DP constraints. However, the real world is multimodal. Hospitals store X-rays alongside patient records; social platforms link facial images with structured user profiles. Synthesizing these modalities jointly under DP is challenging and largely unexplored. In this talk, I will present a systematic study on DP table-image multimodal synthesis, covering algorithm design, evaluation protocol, and experimental findings that we believe will shape future work in this space.",
+      "chapters": []
+    },
+    {
+      "id": "Od5p1hV-ezk",
+      "title": "Atomic Facts to Structured Knowledge: Rethinking Unlearning & Jailbreaking in Large Language Models",
+      "publishedAt": "2026-06-10T00:46:06Z",
+      "durationSec": 3382,
+      "thumb": "https://i.ytimg.com/vi/Od5p1hV-ezk/mqdefault.jpg",
+      "description": "A Google TechTalk, 2026-02-11, presented by Rongzhe Wei\nABSTRACT: Large language models are increasingly deployed in high-impact settings, making trust and safety central concerns. A growing body of evidence suggests that many failures in these systems share a common root cause: knowledge in LLMs is not stored as isolated atomic facts, but as structured and interdependent internal representations. This talk argues for a shift from atomic views of model knowledge toward structured internal knowledge modeling, and shows how this perspective fundamentally reshapes our understanding of both unlearning and jailbreaking. On the trust side, by modeling an LLM’s internal correlated knowledge as a structured representation, we reveal why existing unlearning methods often achieve only superficial forgetting: even when a target fact is suppressed, it frequently remains inferable through correlated internal knowledge. We present the first graph-based evaluation framework that exposes severe overestimation of unlearning effectiveness in previous evaluations. On the safety side, from the same perspective, we show that most existing red-teaming and jailbreaking methods remain confined to a prompt-optimization paradigm that implicitly targets atomic facts, a strategy that increasingly fails against modern commercial LLMs. In contrast, we introduce a new attack paradigm that explores and weaves together benign knowledge fragments within the model’s internal structure, achieving over 95% success against state-of-the-art aligned models. Together, these results highlight a shared structural vulnerability underlying both unlearning failures and jailbreak robustness. Rethinking LLMs through the lens of structured internal knowledge offers a unifying framework for evaluating, attacking, and ultimately defending modern language models.",
+      "chapters": []
+    },
+    {
+      "id": "qJPQN1eqVFk",
+      "title": "Understanding Trade-offs Between Worst-case Differential Privacy Guarantees & Real Threat Models",
+      "publishedAt": "2026-06-10T00:46:06Z",
+      "durationSec": 1112,
+      "thumb": "https://i.ytimg.com/vi/qJPQN1eqVFk/mqdefault.jpg",
+      "description": "A Google TechTalk, 2026-05-20, presented by Meenatchi Sundaram Muthu Selva Annamalai\nFull Title: Theory will only take you so far: Understanding the precise trade-offs between worst-case differential privacy guarantees and real-world threat models\nABSTRACT: Although DP is a popular framework that has transformed the space of privacy-preserving data analysis in the past 23 years, a central challenge that remains is how to interpret and translate the worst-case privacy protections to real world threat models. In this talk, I will present several work that attempt to tackle this challenge from both theoretical and empirical angles. On the theory side, careful edge-case analysis and incorporation of priors has enabled us to more accurately upper-bound real-world adversaries’ performance against DP mechanisms. On the other hand, better auditing mechanisms have paved the way for more accurate lower-bounds empirically. Nevertheless, a substantial gap still exists between the two bounds, for which I identify and present several promising directions for future research.\n\nBio: Meenatchi Sundaram (Sundar) is a final year PhD student (currently on the job market!) at University College London, advised by Prof. Emiliano De Cristofaro. His research interests lie in the general area of privacy and security of AI/ML, specifically in investigating the robustness of AI and ML systems to privacy and security attacks (e.g., MIA, AIA, prompt injection) and designing safe and trustworthy systems through the use of privacy enhancing technologies (e.g., DP, FL, synthetic data).",
+      "chapters": []
+    },
+    {
+      "id": "tCgM4XGvHvY",
+      "title": "Local Node Differential Privacy",
+      "publishedAt": "2026-06-10T00:46:06Z",
+      "durationSec": 3488,
+      "thumb": "https://i.ytimg.com/vi/tCgM4XGvHvY/mqdefault.jpg",
+      "description": "A Google TechTalk, 2026-04-08, presented by Connor Wagaman\nABSTRACT: We initiate an investigation of node differential privacy for graphs in the local model of private data analysis. In our model, dubbed LNDP*, each node sees its own edge list and releases the output of a local randomizer on this input. These outputs are aggregated by an untrusted server to obtain a final output.\n\nWe develop a novel algorithmic framework for this setting that allows us to accurately answer arbitrary linear queries about the input graph's degree distribution. Our framework is based on a new object, called the blurry degree distribution, which closely approximates the degree distribution and has lower sensitivity. Instead of answering queries about the degree distribution directly, our algorithms answer related queries about the blurry degree distribution. This framework yields accurate LNDP* algorithms for the edge count, PMF and CDF of the degree distribution, and other graph statistics. For some natural problems, our algorithms match the accuracy achievable with node privacy in the central model, where data are held and processed by a trusted server.\n\nWe also prove lower bounds on the error required by LNDP* algorithms that imply the optimality of our framework for edge counting in sparse graphs and Erdos-Renyi parameter estimation. Our lower bounds apply even to interactive protocols with a constant number of rounds of interaction between the nodes and the server. Existing lower-bound techniques for related models either yield loose bounds or do not apply in our setting, because graph data results in inherently overlapping inputs to local randomizers. To prove our bounds, we develop a splicing argument that stitches together views from locally similar but globally different distributions on graphs to obtain hard instances for the problem at hand. Finally, we prove structural results that reveal qualitative differences between local node privacy and the standard local model for tabular data.\n\nBased on joint work with Sofya Raskhodnikova, Adam Smith, and Anatoly Zavyalov. https://arxiv.org/abs/2602.15802",
+      "chapters": []
+    },
+    {
+      "id": "wwZdLFYnY28",
+      "title": "Privacy Amplification for Correlated-Noise Mechanisms via b-Min-Sep Subsampling",
+      "publishedAt": "2026-06-10T00:46:06Z",
+      "durationSec": 3474,
+      "thumb": "https://i.ytimg.com/vi/wwZdLFYnY28/mqdefault.jpg",
+      "description": "A Google TechTalk, 2026-02-18, presented by Andy Dong\nABSTRACT: DP-SGD remains the standard approach for private model training. A variety of techniques have been developed to improve its privacy–utility tradeoff, including privacy amplification through data subsampling, leveraging structured randomness in the training process, and correlated-noise mechanisms such as DP matrix factorization (DP-MF). While DP-MF can improve utility, its interaction with subsampling-based amplification is less explored than in the classical DP-SGD setting.\n\nIn this talk, I present b-min-sep subsampling, a simple batching scheme for DP-MF. The key idea is to impose only a minimal participation constraint that preserves the structural properties required by correlated-noise mechanisms, while retaining substantial flexibility in sampling. The resulting scheme improves over cyclic Poisson subsampling and is a generalization of balls-in-bins subsampling.\n\nI will give a high-level overview of the privacy analysis based on Monte Carlo accounting and dynamic programming, and present empirical results demonstrating improved privacy–utility tradeoffs in both example-level and multi-attribution user-level settings. More broadly, this work fits into a line of research on leveraging randomness in training for privacy amplification.",
+      "chapters": []
+    },
+    {
+      "id": "-FM-sCAfktM",
+      "title": "Code Health Guardian",
+      "publishedAt": "2026-02-02T23:18:38Z",
+      "durationSec": 3477,
+      "thumb": "https://i.ytimg.com/vi/-FM-sCAfktM/mqdefault.jpg",
+      "description": "A Google TechTalk, 2026-01-21, presented by Artie Shevchenko\nSWEdu Tech Talk.  ABSTRACT: Is code quality inherently subjective?  In this talk, we'll explore how to move beyond the notion of \"code smells\" toward a rigorous, largely objective framework for evaluating and improving code health.  Drawing from my recently published book \"Code Health Guardian\", I'll share both the core ideas and some behind-the-scenes stories from its creation.\n\nWe'll explore the theoretical foundation, demonstrate how to apply this model to several practices, explore several powerful techniques, then focus on the processes that shape code quality.\n\nAbout the speaker: Artie Shevchenko is a former Google software engineer, ex-CEO, and founder of a startup.  Currently he's a software engineer at Canva and a lecturer at ITMO University.  He has over 15 years of diverse industry experience, which informs his pragmatic approach to code health.  He has been working:\n- As a software engineer, engineering manager, and CEO; and\n- For tech giants such as Google (2015-2019) and Canva (2023- ), in medium-sized companies, and in small startups.",
+      "chapters": []
+    },
+    {
+      "id": "p0LvAxVlRfQ",
+      "title": "Going Back and Beyond: Emerging (Old) Threats in LLM Privacy and Poisoning",
+      "publishedAt": "2026-01-27T05:25:20Z",
+      "durationSec": 2837,
+      "thumb": "https://i.ytimg.com/vi/p0LvAxVlRfQ/mqdefault.jpg",
+      "description": "A Google TechTalk, 2025-06-25, presented by Robin Staab\nPrivacy in ML Seminar. ABSTRACT: The rapid adoption of Generative AI (GenAI) and Large Language Model (LLM)-driven applications has led to users increasingly sharing personal data with these systems. However, research examining the privacy implications of LLMs has typically focused on specific, well-defined scenarios, such as the memorization of training data. In the first part of this talk, I will present our research, which expands beyond traditional memorization concerns by utilizing the inferential capabilities of LLMs, instantiating them as reconstruction adversaries as known from prior work in ML Fairness or data minimization. Specifically, we demonstrate how adversaries can leverage LLMs to reconstruct sensitive user attributes from online textual data and discuss potential defensive measures to mitigate such privacy risks.\nWith a similar mindset, in the second part, I present some of our recent work exploring additional threats arising during practical LLM deployments. In particular, going beyond data poisoning, we show how common deployment practices such as quantization and model finetuning can be exploited to introduce realistic and stealthy backdoor attacks into LLMs. Our findings underscore the importance of considering a broader threat model to ensure the security and privacy of LLM-driven systems.\n\nSpeaker: Robin Staab is a second-year PhD student at the SRILab @ ETH Zurich advised by Martin Vechev and Florian Tramèr, focusing on LLM privacy and safety.",
+      "chapters": []
+    },
+    {
+      "id": "mNJKWPWKPgY",
+      "title": "POPri: Private Federated Learning using Preference-Optimized Synthetic Data",
+      "publishedAt": "2026-01-27T05:25:19Z",
+      "durationSec": 2020,
+      "thumb": "https://i.ytimg.com/vi/mNJKWPWKPgY/mqdefault.jpg",
+      "description": "A Google TechTalk, 2025-12-17, presented by Charlie Hou\nPrivacy in Machine Learning Seminar. ABSTRACT: In practical settings, differentially private Federated learning (DP-FL) is the dominant method for training models from private, on-device client data. Recent work has suggested that DP-FL may be enhanced or outperformed by methods that use DP synthetic data (Wu et al., 2024; Hou et al., 2024). The primary algorithms for generating DP synthetic data for FL applications require careful prompt engineering based on public information and/or iterative private client feedback. Our key insight is that the private client feedback collected by prior DP synthetic data methods (Hou et al., 2024; Xie et al., 2024) can be viewed as an RL (reinforcement learning) reward. Our algorithm, Policy Optimization for Private Data (POPri) harnesses client feedback using policy optimization algorithms such as Direct Preference Optimization (DPO) to fine-tune LLMs to generate high-quality DP synthetic data. To evaluate POPri, we release LargeFedBench, a new federated text benchmark for uncontaminated LLM evaluations on federated client data. POPri substantially improves the utility of DP synthetic data relative to prior work on LargeFedBench datasets and an existing benchmark from Xie et al. (2024). POPri closes the gap between next-token prediction accuracy in the fully-private and non-private settings by up to 58%, compared to 28% for prior synthetic data methods, and 3% for state-of-the-art DP federated learning methods. \n\nhttps://arxiv.org/abs/2504.16438",
+      "chapters": []
+    },
+    {
+      "id": "nM29yj_D8NE",
+      "title": "Leveraging Per-Instance Privacy for Machine Unlearning",
+      "publishedAt": "2026-01-27T05:25:19Z",
+      "durationSec": 2003,
+      "thumb": "https://i.ytimg.com/vi/nM29yj_D8NE/mqdefault.jpg",
+      "description": "A Google TechTalk, 2025-09-03, presented by Anvith Thudi\nPrivacy in Machine Learning Seminar. ABSTRACT: We present a principled, per-instance approach to quantifying the difficulty of unlearning via finetuning. We begin by sharpening an analysis of noisy gradient descent for unlearning (Chien et al.,2024), obtaining a better utility–unlearning tradeoff by replacing worst-case privacy loss bounds with per-instance privacy losses (Thudi et al., 2024), each of which bounds the (Renyi) divergence to retraining without an individual data point. To demonstrate the practical applicability of our theory, we present empirical results showing that our theoretical predictions are born out both for Stochastic Gradient Langevin Dynamics (SGLD) as well as for standard fine-tuning without explicit noise. We further demonstrate that per-instance privacy losses correlate well with several existing data difficulty metrics, while also identifying harder groups of data points, and introduce novel evaluation methods based on loss barriers. All together, our findings provide a foundation for more efficient and adaptive unlearning strategies tailored to the unique properties of individual data points.",
+      "chapters": []
+    },
+    {
+      "id": "sIJ4D4KebzM",
+      "title": "Disparate Privacy Risks from Medical AI - An Investigation into Patient-level Privacy Risk",
+      "publishedAt": "2026-01-27T05:25:19Z",
+      "durationSec": 2416,
+      "thumb": "https://i.ytimg.com/vi/sIJ4D4KebzM/mqdefault.jpg",
+      "description": "A Google TechTalk, 2025-04-30, presented by Moritz Knolle\nPrivacy in ML Seminar.  ABSTRACT: Medical AI models promise to improve global access to high-quality diagnostics. However, their deployment also entails privacy risks. Prior research has measured success rates of privacy attacks such as membership inference attacks -in aggregate- across records rather than at the level of individual records or patients. Thus, the risk faced by individual patients, who often contribute multiple records to a training dataset, is poorly understood. This talk will present findings from our recent research on patient-level privacy auditing. Our findings indicate that deploying medical AI models may pose high privacy risks to individual patients and that under-represented patient groups might be disparately at risk.",
+      "chapters": []
+    },
+    {
+      "id": "uzTAbm9qVAE",
+      "title": "Worst-Case Membership Inference of Language Models",
+      "publishedAt": "2026-01-27T05:25:19Z",
+      "durationSec": 3459,
+      "thumb": "https://i.ytimg.com/vi/uzTAbm9qVAE/mqdefault.jpg",
+      "description": "A Google TechTalk, 2025-06-11, presented by Ashwinee Panda\nPrivacy in ML Seminar. ABSTRACT: It is widely believed that membership inference of the pretraining data of language models is impossible. In this work, we show that worst-case membership inference is possible. We identify key characteristics of documents that make them more susceptible to membership inference. We find that while the membership inference test statistic is uninformative when computed over the entire training document, it can be informative when computed over a specific span of the document. We observe that the test statistic distribution of members quickly converges to that of non-members when we update the model on documents where members are not present, giving the impression that the model has \"forgotten\" the members. We propose using finetuning to separate these distributions, which we show can produce successful membership inference of certain documents that exhibit \"worst-case\" memorization.",
+      "chapters": []
+    }
+  ]
 }

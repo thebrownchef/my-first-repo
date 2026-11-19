@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UChBQgieUidXV1CmDxSdRm3g",
   "title": "Citizen TV Kenya",
   "thumb": "https://yt3.ggpht.com/wj5XPSPtxg2oy9kdzdfRFRtyebgfB5mirkM8QmLR0TFqdzxga7iSWImBZo0DyQQ16zUvmDHr=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 34.45,
   "sources": [
@@ -64,6 +64,20 @@
       "label": "Miguna Miguna",
       "url": "https://en.wikipedia.org/wiki/Miguna_Miguna",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Julius Muthamia",
+      "type": "wikipedia",
+      "label": "Julius Muthamia",
+      "url": "https://en.wikipedia.org/wiki/Julius_Muthamia",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "wiki:Mang'u High School",
+      "type": "wikipedia",
+      "label": "Mang'u High School",
+      "url": "https://en.wikipedia.org/wiki/Mang'u_High_School",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
   "recentItems": []

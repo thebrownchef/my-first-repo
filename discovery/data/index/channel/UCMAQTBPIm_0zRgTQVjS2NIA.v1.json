@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCMAQTBPIm_0zRgTQVjS2NIA",
   "title": "jameskalm",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lIUJnZk09YfRinb1Lk17H5TvkgTf3vx9gwoxrBtgqI3g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Thornton Willis",
       "url": "https://en.wikipedia.org/wiki/Thornton_Willis",
       "firstSeenAt": "2026-11-18T15:35:37.007Z"
+    },
+    {
+      "id": "wiki:David Reed (artist)",
+      "type": "wikipedia",
+      "label": "David Reed (artist)",
+      "url": "https://en.wikipedia.org/wiki/David_Reed_(artist)",
+      "firstSeenAt": "2026-11-19T15:41:29.094Z"
     }
   ],
   "recentItems": []

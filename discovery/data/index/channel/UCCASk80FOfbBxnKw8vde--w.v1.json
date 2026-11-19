@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCCASk80FOfbBxnKw8vde--w",
   "title": "Symphonyofflowers",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lQAWdRxm1F2G0aMO0i9Rytx78ISD5Om2YlyeWZeS_vqg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Haunted Castle (Efteling)",
       "url": "https://en.wikipedia.org/wiki/Haunted_Castle_(Efteling)",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:Kate Bush",
+      "type": "wikipedia",
+      "label": "Kate Bush",
+      "url": "https://en.wikipedia.org/wiki/Kate_Bush",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

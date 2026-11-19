@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCIA9jUDnKVMYc4SmqTxcwqg",
   "title": "Cartoon Hangover",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mF7S3kldEh9WI1f3dDTl9SUZhWR_3aScFGVOMFZxe6RXI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Tom Herpich",
       "url": "https://en.wikipedia.org/wiki/Tom_Herpich",
       "firstSeenAt": "2026-11-16T15:40:12.268Z"
+    },
+    {
+      "id": "wiki:Sam Lavagnino",
+      "type": "wikipedia",
+      "label": "Sam Lavagnino",
+      "url": "https://en.wikipedia.org/wiki/Sam_Lavagnino",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
     }
   ],
   "recentItems": []

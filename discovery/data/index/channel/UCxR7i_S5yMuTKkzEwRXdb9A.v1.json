@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCxR7i_S5yMuTKkzEwRXdb9A",
   "title": "Cherry Red Records",
   "thumb": "https://yt3.ggpht.com/-cRnVejVE4J9zFrh7ShIzT_3SOOl6_y77YBqve1S8EUCYPG0BsuOiqcBl4a3lAhxA3IaBtNKEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Big Country",
       "url": "https://www.youtube.com/channel/UCkyYSRJ4L0GUImiraMSZJTg",
       "firstSeenAt": "2026-10-24T10:55:04.294Z"
+    },
+    {
+      "id": "wiki:Bill Nelson (musician)",
+      "type": "wikipedia",
+      "label": "Bill Nelson (musician)",
+      "url": "https://en.wikipedia.org/wiki/Bill_Nelson_(musician)",
+      "firstSeenAt": "2026-11-19T15:41:29.092Z"
     }
   ],
   "recentItems": []

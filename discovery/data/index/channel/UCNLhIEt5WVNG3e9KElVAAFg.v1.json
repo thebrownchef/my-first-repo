@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCNLhIEt5WVNG3e9KElVAAFg",
   "title": "Dmitri Smirnov",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ksw92_LUOs_sNABd9Iz5ccC31d911LULMDdF-j9_Kj0vc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Visionary Heads",
       "url": "https://en.wikipedia.org/wiki/Visionary_Heads",
       "firstSeenAt": "2026-11-07T12:56:36.816Z"
+    },
+    {
+      "id": "wiki:Dmitri Smirnov (composer)",
+      "type": "wikipedia",
+      "label": "Dmitri Smirnov (composer)",
+      "url": "https://en.wikipedia.org/wiki/Dmitri_Smirnov_(composer)",
+      "firstSeenAt": "2026-11-19T15:41:27.342Z"
     }
   ],
   "recentItems": []

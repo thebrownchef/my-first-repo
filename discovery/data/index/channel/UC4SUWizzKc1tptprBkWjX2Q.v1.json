@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC4SUWizzKc1tptprBkWjX2Q",
   "title": "South China Morning Post",
   "thumb": "https://yt3.ggpht.com/4Q9yos_fKmzf0o36ETS4IZelXBRLwJ5_4pSGvWNbLLhhGNs4RqmAmsYKPkc-Dx_EgVTCxaBOmdU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 2.98,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Tsang Tsou-choi",
       "url": "https://en.wikipedia.org/wiki/Tsang_Tsou-choi",
       "firstSeenAt": "2026-11-13T14:31:16.364Z"
+    },
+    {
+      "id": "wiki:Ann Hui",
+      "type": "wikipedia",
+      "label": "Ann Hui",
+      "url": "https://en.wikipedia.org/wiki/Ann_Hui",
+      "firstSeenAt": "2026-11-19T15:41:25.825Z"
     }
   ],
   "recentItems": []

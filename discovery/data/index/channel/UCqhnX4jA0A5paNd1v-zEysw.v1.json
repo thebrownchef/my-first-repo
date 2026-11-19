@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCqhnX4jA0A5paNd1v-zEysw",
   "title": "GoPro",
   "thumb": "https://yt3.ggpht.com/UVXGOJKC_HxL3E5pPi-UP4QW1alBOQsdTFopjErTPqDbcqca2TRorjVpuMm3o6Lytw--pODIkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.5,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Guerlain Chicherit",
       "url": "https://en.wikipedia.org/wiki/Guerlain_Chicherit",
       "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "channel:UCrO4zKF350rf5wMWBvnu0tw",
+      "type": "channel",
+      "label": "JokkeSommerOfficial",
+      "url": "https://www.youtube.com/channel/UCrO4zKF350rf5wMWBvnu0tw",
+      "firstSeenAt": "2026-11-19T15:41:50.076Z"
     }
   ],
   "recentItems": []

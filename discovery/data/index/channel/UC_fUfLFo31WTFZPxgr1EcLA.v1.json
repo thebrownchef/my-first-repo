@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC_fUfLFo31WTFZPxgr1EcLA",
   "title": "כאן חינוכית",
   "thumb": "https://yt3.ggpht.com/2ar8IuWjF20rEq8qEGf96FXLeDgRp4hrYT1BC6MS77f4aeehTO60Ec3im9_8E5v7yy9J8tRHH9c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 3.13,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Joseph Dan",
       "url": "https://en.wikipedia.org/wiki/Joseph_Dan",
       "firstSeenAt": "2026-11-14T13:28:00.334Z"
+    },
+    {
+      "id": "wiki:Israel Peleg",
+      "type": "wikipedia",
+      "label": "Israel Peleg",
+      "url": "https://en.wikipedia.org/wiki/Israel_Peleg",
+      "firstSeenAt": "2026-11-19T15:41:25.825Z"
+    },
+    {
+      "id": "wiki:Anat Peleg",
+      "type": "wikipedia",
+      "label": "Anat Peleg",
+      "url": "https://en.wikipedia.org/wiki/Anat_Peleg",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
   "recentItems": []

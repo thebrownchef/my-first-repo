@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCCHcEUksSVKsRDH86j77Ntg",
   "title": "thelonelyisland",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwpPZiDzeEy8MJSFFzOOREA8CjZRMp1LRBVPfkISIRR4E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Hugs (song)",
       "url": "https://en.wikipedia.org/wiki/Hugs_(song)",
       "firstSeenAt": "2026-11-10T14:49:44.158Z"
+    },
+    {
+      "id": "wiki:Spring Break Anthem",
+      "type": "wikipedia",
+      "label": "Spring Break Anthem",
+      "url": "https://en.wikipedia.org/wiki/Spring_Break_Anthem",
+      "firstSeenAt": "2026-11-19T15:41:25.825Z"
     }
   ],
   "recentItems": []

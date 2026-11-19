@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCWB3DM55nMdwcnyuU9xzOMw",
   "title": "RonanKeatingVEVO",
   "thumb": "https://yt3.ggpht.com/mxYjHloKfMmHA3scDIenLxI_j5MOTvV6PD52OBSroYuvgfUCppMZauBs1OKXjgKgC57MvF8q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Fires (song)",
       "url": "https://en.wikipedia.org/wiki/Fires_(song)",
       "firstSeenAt": "2026-11-16T15:40:08.293Z"
+    },
+    {
+      "id": "wiki:Wasted Light",
+      "type": "wikipedia",
+      "label": "Wasted Light",
+      "url": "https://en.wikipedia.org/wiki/Wasted_Light",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
   "recentItems": []

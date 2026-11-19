@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCulYu1HEIa7f70L2lYZWHOw",
   "title": "michaeljacksonVEVO",
   "thumb": "https://yt3.ggpht.com/nvt02XjPB-lklNBuV8rI9BQOgD1l7geYdJBzTkgoFJTgdK_Fzv_eaoQ9jV4Vb9DWFks0QFzeog=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "A Place with No Name",
       "url": "https://en.wikipedia.org/wiki/A_Place_with_No_Name",
       "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:Rock with You",
+      "type": "wikipedia",
+      "label": "Rock with You",
+      "url": "https://en.wikipedia.org/wiki/Rock_with_You",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
     }
   ],
   "recentItems": []

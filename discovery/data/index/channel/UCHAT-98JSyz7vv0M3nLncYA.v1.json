@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCHAT-98JSyz7vv0M3nLncYA",
   "title": "Strand Book Store",
   "thumb": "https://yt3.ggpht.com/2mE88VKdvL8b0BNRQC9_LvaApawt647GTV3ZG2SMq5D3z72z0H6uyNyU05AonI1f_7l2x5dFJrM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.29,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Donald Farnsworth",
       "url": "https://en.wikipedia.org/wiki/Donald_Farnsworth",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Nicholas Basbanes",
+      "type": "wikipedia",
+      "label": "Nicholas Basbanes",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Basbanes",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
     }
   ],
   "recentItems": []

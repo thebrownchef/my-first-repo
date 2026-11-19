@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC-pE29OUR43BqqBxIeyo_GA",
   "title": "ChannelFrederator",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfXeolv-FHEddk8U8iTtJVB8LSMbZ9I0ORX-XNPCorvhA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.24,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "HangoverUncensored",
       "url": "https://www.youtube.com/channel/UCVavh25yuXxP0kjoS07zHJw",
       "firstSeenAt": "2026-11-04T14:28:26.201Z"
+    },
+    {
+      "id": "channel:UCzmLmjm4DKK4JQIuD9Xm2rQ",
+      "type": "channel",
+      "label": "Nick Fox-Gieg",
+      "url": "https://www.youtube.com/channel/UCzmLmjm4DKK4JQIuD9Xm2rQ",
+      "firstSeenAt": "2026-11-19T15:41:59.163Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCf8w5m0YsRa8MHQ5bwSGmbw",
   "title": "asianetnews",
   "thumb": "https://yt3.ggpht.com/8eItmjbOfJwot8wd0-19KgtvF2ztf4np2qIVfJ1kMPv1ADi6wx9giU62B1j6xO0Ug2Idrqbncg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 72.68,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Odessa Sathyan",
       "url": "https://en.wikipedia.org/wiki/Odessa_Sathyan",
       "firstSeenAt": "2026-11-18T15:35:37.007Z"
+    },
+    {
+      "id": "wiki:Neelamana Madhavan Nampoothiri",
+      "type": "wikipedia",
+      "label": "Neelamana Madhavan Nampoothiri",
+      "url": "https://en.wikipedia.org/wiki/Neelamana_Madhavan_Nampoothiri",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCw-_ba5d6gmjlfQMNAgXS6w",
   "title": "Prof Alan Macfarlane - Ayabaya",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lSuZq4Vuk0S1FW0GtXK8jGOOSTxGGZDvBclFQIuoM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.32,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Alan Macfarlane",
       "url": "https://en.wikipedia.org/wiki/Alan_Macfarlane",
       "firstSeenAt": "2026-11-18T15:35:34.592Z"
+    },
+    {
+      "id": "wiki:Paul Rabinow",
+      "type": "wikipedia",
+      "label": "Paul Rabinow",
+      "url": "https://en.wikipedia.org/wiki/Paul_Rabinow",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCFkid-1EIBbauJLbMFDp2Cg",
   "title": "UC Berkeley Events",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kqdEXLIOn-E2yWhK76rH8hQu5p_6S4gvQSddvsXWzLmw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.5,
   "sources": [
@@ -71,6 +71,20 @@
       "label": "Ann Lauterbach",
       "url": "https://en.wikipedia.org/wiki/Ann_Lauterbach",
       "firstSeenAt": "2026-11-18T15:35:42.169Z"
+    },
+    {
+      "id": "wiki:Abdullahi Ahmed An-Na'im",
+      "type": "wikipedia",
+      "label": "Abdullahi Ahmed An-Na'im",
+      "url": "https://en.wikipedia.org/wiki/Abdullahi_Ahmed_An-Na'im",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "wiki:Alan Bernheimer",
+      "type": "wikipedia",
+      "label": "Alan Bernheimer",
+      "url": "https://en.wikipedia.org/wiki/Alan_Bernheimer",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

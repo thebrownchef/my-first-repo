@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC2pmfLm7iq6Ov1UwYrWYkZA",
   "title": "Vevo",
   "thumb": "https://yt3.ggpht.com/sNDNiX3TszpV_w-z-DTAQcxTmeqJOeHWe8GfqVosRkAfAv6gbffagSgvcsXsi9rEmhM2ji9urTo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 503,
-  "distinctSourceCount": 503,
+  "score": 505,
+  "distinctSourceCount": 505,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -3529,9 +3529,32 @@
       "label": "JontteValosaariVEVO",
       "url": "https://www.youtube.com/channel/UC3yEe36v1iBiywTqnQ5S3ug",
       "firstSeenAt": "2026-11-18T15:35:58.243Z"
+    },
+    {
+      "id": "channel:UCgSVv698vOuRdY0EuN60EBA",
+      "type": "channel",
+      "label": "AnastaciaVEVO",
+      "url": "https://www.youtube.com/channel/UCgSVv698vOuRdY0EuN60EBA",
+      "firstSeenAt": "2026-11-19T15:41:55.078Z"
+    },
+    {
+      "id": "channel:UC67OS1sZ39SJZCRKN0EgAFQ",
+      "type": "channel",
+      "label": "AlekSandarMusicVEVO",
+      "url": "https://www.youtube.com/channel/UC67OS1sZ39SJZCRKN0EgAFQ",
+      "firstSeenAt": "2026-11-19T15:41:58.243Z"
     }
   ],
   "recentItems": [
+    {
+      "id": "IiGFPixOqkE",
+      "title": "Jordan Rakei - IYKYK",
+      "publishedAt": "2026-11-18T17:00:55Z",
+      "durationSec": 90,
+      "thumb": "https://i.ytimg.com/vi/IiGFPixOqkE/mqdefault.jpg",
+      "description": "Jordan Rakei's biggest achievement might not be what you think it is...find out more in our IYKYK!",
+      "chapters": []
+    },
     {
       "id": "Zi5DhQ8Mjto",
       "title": "JoJo | Still Frame",
@@ -3557,15 +3580,6 @@
       "durationSec": 93,
       "thumb": "https://i.ytimg.com/vi/eedRUkcbO7w/mqdefault.jpg",
       "description": "Shoutout to La Roux for bringing back unicycling!",
-      "chapters": []
-    },
-    {
-      "id": "PqSEsDMDASI",
-      "title": "Erykah Badu is a fan of Love Spells? Such exquisite taste! 📱",
-      "publishedAt": "2026-11-05T20:15:41Z",
-      "durationSec": 176,
-      "thumb": "https://i.ytimg.com/vi/PqSEsDMDASI/mqdefault.jpg",
-      "description": "",
       "chapters": []
     }
   ]

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCtuLKvBOePea47aTV7WRQYw",
   "title": "mtainfo",
   "thumb": "https://yt3.ggpht.com/OIrvbZVNUPgv_59vX-dzypfJoMLaCm37bxeJKCHuABWsCQa5TftPrEk7OEVOTAUyT6gXCk9x=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.22,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "10th Avenue station (IRT Flushing Line)",
       "url": "https://en.wikipedia.org/wiki/10th_Avenue_station_(IRT_Flushing_Line)",
       "firstSeenAt": "2026-11-11T14:16:20.748Z"
+    },
+    {
+      "id": "wiki:Bill Brand (film artist)",
+      "type": "wikipedia",
+      "label": "Bill Brand (film artist)",
+      "url": "https://en.wikipedia.org/wiki/Bill_Brand_(film_artist)",
+      "firstSeenAt": "2026-11-19T15:41:29.092Z"
     }
   ],
   "recentItems": []

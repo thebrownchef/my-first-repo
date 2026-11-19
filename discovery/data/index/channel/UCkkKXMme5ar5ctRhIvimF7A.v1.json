@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCkkKXMme5ar5ctRhIvimF7A",
   "title": "The Digital Hash",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mfyjSlrntJlZIWP7U150EOuE11Cls-YmF3RHrdVEDXTw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Annu Kapoor",
       "url": "https://en.wikipedia.org/wiki/Annu_Kapoor",
       "firstSeenAt": "2026-08-30T11:52:28.532Z"
+    },
+    {
+      "id": "wiki:Home (Indian TV series)",
+      "type": "wikipedia",
+      "label": "Home (Indian TV series)",
+      "url": "https://en.wikipedia.org/wiki/Home_(Indian_TV_series)",
+      "firstSeenAt": "2026-11-19T15:41:40.607Z"
     }
   ],
   "recentItems": []

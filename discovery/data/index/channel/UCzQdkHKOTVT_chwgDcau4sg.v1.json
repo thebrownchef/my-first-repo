@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCzQdkHKOTVT_chwgDcau4sg",
   "title": "SETI Institute",
   "thumb": "https://yt3.ggpht.com/VUNEWQsPH-e2j1Pm2kfvwZnI-CTAzvOoktf37n0F1So1oFScYuOPX27RzxsX_ynV0CdRDGvl=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "E-type asteroid",
       "url": "https://en.wikipedia.org/wiki/E-type_asteroid",
       "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:Claudio Maccone",
+      "type": "wikipedia",
+      "label": "Claudio Maccone",
+      "url": "https://en.wikipedia.org/wiki/Claudio_Maccone",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
   "recentItems": []

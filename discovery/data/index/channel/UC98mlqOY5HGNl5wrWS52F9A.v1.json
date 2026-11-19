@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "id": "UC98mlqOY5HGNl5wrWS52F9A",
+  "title": "SmithsonianNMAI",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lg5AFJllAE8dwEnLAJZR7gAwk1tDyxihLMFJVA3g8Mgw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.19,
+  "sources": [
+    {
+      "id": "wiki:Jeri Redcorn",
+      "type": "wikipedia",
+      "label": "Jeri Redcorn",
+      "url": "https://en.wikipedia.org/wiki/Jeri_Redcorn",
+      "firstSeenAt": "2026-11-17T15:56:40.700Z"
+    },
+    {
+      "id": "wiki:Truman Lowe",
+      "type": "wikipedia",
+      "label": "Truman Lowe",
+      "url": "https://en.wikipedia.org/wiki/Truman_Lowe",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "channel:UCYm9MWccmz9n2yyMx9vRrXg",
+      "type": "channel",
+      "label": "Smithsonian",
+      "url": "https://www.youtube.com/channel/UCYm9MWccmz9n2yyMx9vRrXg",
+      "firstSeenAt": "2026-11-19T15:41:45.246Z"
+    }
+  ],
+  "recentItems": []
+}

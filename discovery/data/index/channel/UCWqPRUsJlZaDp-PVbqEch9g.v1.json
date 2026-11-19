@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCWqPRUsJlZaDp-PVbqEch9g",
   "title": "Smithsonian Channel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mej33cYIqIZDw0-JNgFVB39H9mLmdKjxfsddaodXaHoDBR=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.5,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Paramount",
       "url": "https://www.youtube.com/channel/UCKehNLhUKygfBjrsdIKB6iQ",
       "firstSeenAt": "2026-10-16T11:19:55.251Z"
+    },
+    {
+      "id": "channel:UCYm9MWccmz9n2yyMx9vRrXg",
+      "type": "channel",
+      "label": "Smithsonian",
+      "url": "https://www.youtube.com/channel/UCYm9MWccmz9n2yyMx9vRrXg",
+      "firstSeenAt": "2026-11-19T15:41:45.256Z"
     }
   ],
   "recentItems": []

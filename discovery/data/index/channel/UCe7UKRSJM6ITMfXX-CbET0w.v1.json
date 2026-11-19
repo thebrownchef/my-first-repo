@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCe7UKRSJM6ITMfXX-CbET0w",
   "title": "Everest Marathi",
   "thumb": "https://yt3.ggpht.com/1gCbvUErW-7YMZtyX0yV_qxriDYA27gJiIV5Bmqf8HV8s7zfCbIScMy0A0bY13eQevYQWZ24Uw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.37,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Char Divas Premache",
       "url": "https://en.wikipedia.org/wiki/Char_Divas_Premache",
       "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:Hrishikesh Ranade",
+      "type": "wikipedia",
+      "label": "Hrishikesh Ranade",
+      "url": "https://en.wikipedia.org/wiki/Hrishikesh_Ranade",
+      "firstSeenAt": "2026-11-19T15:41:29.093Z"
     }
   ],
   "recentItems": []

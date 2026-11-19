@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCvbZ7TWDlBUeuKMRQCBmiSw",
   "title": "World Future Council",
   "thumb": "https://yt3.ggpht.com/NB8QZqk9bNpfEmmPd9cn226r04I7_TIA_6m-32iHJZKn5J72R4vD0zw_PzvXq4yBjIHJlKyO=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Olivier Giscard d'Estaing",
       "url": "https://en.wikipedia.org/wiki/Olivier_Giscard_d'Estaing",
       "firstSeenAt": "2026-11-16T15:40:08.292Z"
+    },
+    {
+      "id": "wiki:Tony Colman (politician)",
+      "type": "wikipedia",
+      "label": "Tony Colman (politician)",
+      "url": "https://en.wikipedia.org/wiki/Tony_Colman_(politician)",
+      "firstSeenAt": "2026-11-19T15:41:25.824Z"
     }
   ],
   "recentItems": []

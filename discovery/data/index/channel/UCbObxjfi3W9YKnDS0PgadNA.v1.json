@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UCbObxjfi3W9YKnDS0PgadNA",
   "title": "Library of Congress",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOJbHFN3q1yVKn2jGy5hM_Dj4jkq1BibwRl9reUyyDZo4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 1.08,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Divine Art, Infernal Machine",
       "url": "https://en.wikipedia.org/wiki/Divine_Art%2C_Infernal_Machine",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Rosemary Wells",
+      "type": "wikipedia",
+      "label": "Rosemary Wells",
+      "url": "https://en.wikipedia.org/wiki/Rosemary_Wells",
+      "firstSeenAt": "2026-11-19T15:41:25.823Z"
     }
   ],
   "recentItems": []

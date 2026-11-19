@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "id": "UCGUF6zxegDvdjb2rsbYXV8A",
+  "title": "Sydney Swans",
+  "thumb": "https://yt3.ggpht.com/aD7RA9c99B-bP6YUhvNzK0qon654WA6ovpzvl_fqXwCRV6Cz-3HRQO3-UGtMoezWkJPuvBkTpQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.9,
+  "sources": [
+    {
+      "id": "channel:UCxAeHdLDAatFV_vt95MSO-g",
+      "type": "channel",
+      "label": "AFL",
+      "url": "https://www.youtube.com/channel/UCxAeHdLDAatFV_vt95MSO-g",
+      "firstSeenAt": "2026-10-29T12:56:37.711Z"
+    },
+    {
+      "id": "wiki:2014 AFL finals series",
+      "type": "wikipedia",
+      "label": "2014 AFL finals series",
+      "url": "https://en.wikipedia.org/wiki/2014_AFL_finals_series",
+      "firstSeenAt": "2026-11-19T15:41:29.094Z"
+    }
+  ],
+  "recentItems": []
+}

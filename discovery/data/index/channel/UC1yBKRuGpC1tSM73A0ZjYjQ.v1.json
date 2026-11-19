@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T15:37:16.799Z",
+  "generatedAt": "2026-11-19T15:43:00.860Z",
   "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
   "title": "The Young Turks",
   "thumb": "https://yt3.ggpht.com/GaZdiTH19-g6JFMUkh2UzeulwgtnSiz-4fRbgrEW2tSFzFUUyTFFNrPChP5Ens5v5f-JpTybAg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 9.7,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Wolf-PAC",
       "url": "https://en.wikipedia.org/wiki/Wolf-PAC",
       "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Dick Morris",
+      "type": "wikipedia",
+      "label": "Dick Morris",
+      "url": "https://en.wikipedia.org/wiki/Dick_Morris",
+      "firstSeenAt": "2026-11-19T15:41:29.094Z"
     }
   ],
   "recentItems": []
