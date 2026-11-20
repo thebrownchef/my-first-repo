@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UC8mnXeOlR9hC2w8aYqY9WNQ",
   "title": "Loudwire",
   "thumb": "https://yt3.ggpht.com/0JXycQPdYxRw39oNUgmCAHS6-0of4Owg5XCzDcGqHgwuDDic6LvAjwEjA1m-ZkFxCCkjVWizLA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.74,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Opeth",
       "url": "https://en.wikipedia.org/wiki/Opeth",
       "firstSeenAt": "2026-11-17T15:56:45.708Z"
+    },
+    {
+      "id": "wiki:Tom Keifer",
+      "type": "wikipedia",
+      "label": "Tom Keifer",
+      "url": "https://en.wikipedia.org/wiki/Tom_Keifer",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

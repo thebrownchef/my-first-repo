@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCtbHZdM_9O-BcXOwLRkqMiw",
   "title": "Super100MPH",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kaZxSe5g9gWqYWSgOfQfpEcQYnDTh9fHA1y9UEiYmwnEE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "John Goss (racing driver)",
       "url": "https://en.wikipedia.org/wiki/John_Goss_(racing_driver)",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:1988 Goodyear NASCAR 500",
+      "type": "wikipedia",
+      "label": "1988 Goodyear NASCAR 500",
+      "url": "https://en.wikipedia.org/wiki/1988_Goodyear_NASCAR_500",
+      "firstSeenAt": "2026-11-20T15:23:41.389Z"
+    },
+    {
+      "id": "wiki:Holden Commodore (VK)",
+      "type": "wikipedia",
+      "label": "Holden Commodore (VK)",
+      "url": "https://en.wikipedia.org/wiki/Holden_Commodore_(VK)",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

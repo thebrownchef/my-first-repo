@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCGNfp1vu5p4nTGnw8RL3BPw",
   "title": "JamieMcDellVEVO",
   "thumb": "https://yt3.ggpht.com/ES8aUrCQc1mVCjxI32oktcdtd63dW73u1q9-v35jaaFvkOMxIb27u-Gf9pzS-ZP_G3iyzwbd=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Jamie McDell",
       "url": "https://www.youtube.com/channel/UC_KGDZwoTPzt_NlSMX0J5WQ",
       "firstSeenAt": "2026-10-14T11:48:28.253Z"
+    },
+    {
+      "id": "wiki:Jamie McDell",
+      "type": "wikipedia",
+      "label": "Jamie McDell",
+      "url": "https://en.wikipedia.org/wiki/Jamie_McDell",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

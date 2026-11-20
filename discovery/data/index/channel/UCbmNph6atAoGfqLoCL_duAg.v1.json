@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 21,
+  "distinctSourceCount": 21,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -148,6 +148,13 @@
       "label": "Brian Herbert",
       "url": "https://en.wikipedia.org/wiki/Brian_Herbert",
       "firstSeenAt": "2026-11-19T15:41:29.093Z"
+    },
+    {
+      "id": "wiki:Marie Brenner",
+      "type": "wikipedia",
+      "label": "Marie Brenner",
+      "url": "https://en.wikipedia.org/wiki/Marie_Brenner",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UC8C8WuWSsFjWFaTHcUQeQxA",
   "title": "VICE Sports",
   "thumb": "https://yt3.ggpht.com/oL3vfwZ7sZSZqGjAioewFP3u1FSmp9vWMK9NL51k6jh6I-zPGCsRMO3ArypEWybPJUwLwec6ek8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Creators",
       "url": "https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ",
       "firstSeenAt": "2026-10-13T14:08:17.019Z"
+    },
+    {
+      "id": "wiki:Tyler Ennis (basketball)",
+      "type": "wikipedia",
+      "label": "Tyler Ennis (basketball)",
+      "url": "https://en.wikipedia.org/wiki/Tyler_Ennis_(basketball)",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
     }
   ],
   "recentItems": []

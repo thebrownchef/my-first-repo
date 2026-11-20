@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCIA9jUDnKVMYc4SmqTxcwqg",
   "title": "Cartoon Hangover",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mF7S3kldEh9WI1f3dDTl9SUZhWR_3aScFGVOMFZxe6RXI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Sam Lavagnino",
       "url": "https://en.wikipedia.org/wiki/Sam_Lavagnino",
       "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Too Cool! Cartoons",
+      "type": "wikipedia",
+      "label": "Too Cool! Cartoons",
+      "url": "https://en.wikipedia.org/wiki/Too_Cool!_Cartoons",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

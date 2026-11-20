@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCfPk4gam9DDDGnjkWxYR6hg",
   "title": "hirudov",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n2LvQonXavjmKFxD30eG2wSLfZpmpsQUh_NQCnhxTHuYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 6.57,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Chevrolet Camaro (fifth generation)",
       "url": "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(fifth_generation)",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:BMW R75",
+      "type": "wikipedia",
+      "label": "BMW R75",
+      "url": "https://en.wikipedia.org/wiki/BMW_R75",
+      "firstSeenAt": "2026-11-20T15:23:41.388Z"
     }
   ],
   "recentItems": []

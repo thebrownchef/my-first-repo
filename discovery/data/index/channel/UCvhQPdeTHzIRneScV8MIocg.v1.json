@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCvhQPdeTHzIRneScV8MIocg",
   "title": "Clean Bandit",
   "thumb": "https://yt3.ggpht.com/CPLJLU22u4dpRo7RWbKvC9YSOhXuyXsd9qxZk4NupBmRcRwZrBmrAwFP0cyuw2Q-A-AYj5W36A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Extraordinary (Clean Bandit song)",
       "url": "https://en.wikipedia.org/wiki/Extraordinary_(Clean_Bandit_song)",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:New Eyes",
+      "type": "wikipedia",
+      "label": "New Eyes",
+      "url": "https://en.wikipedia.org/wiki/New_Eyes",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
     }
   ],
   "recentItems": []

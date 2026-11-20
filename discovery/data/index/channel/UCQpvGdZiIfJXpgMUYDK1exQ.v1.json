@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCQpvGdZiIfJXpgMUYDK1exQ",
   "title": "Gilmore Box",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nXdGWRwri73Tqsi_tE-fRTE6eWU1hxjmsddatqFEBkPRA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.3,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Viva Valdez",
       "url": "https://en.wikipedia.org/wiki/Viva_Valdez",
       "firstSeenAt": "2026-11-19T15:41:25.823Z"
+    },
+    {
+      "id": "wiki:Oh! Those Bells",
+      "type": "wikipedia",
+      "label": "Oh! Those Bells",
+      "url": "https://en.wikipedia.org/wiki/Oh!_Those_Bells",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCafVZzwtU8XUWbXGs4LYtdg",
   "title": "TheScriptVEVO",
   "thumb": "https://yt3.ggpht.com/25UmQ5xhFNzByFuPev-m9rGtuHqtZhgEKE38wXIuSK9plHJwwiEegab3yr2-WeJUNckn9REE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "ScriptLoveUK",
       "url": "https://www.youtube.com/channel/UCtbEFEVkBah_COH6827VsCg",
       "firstSeenAt": "2026-11-12T15:08:49.607Z"
+    },
+    {
+      "id": "wiki:Superheroes (song)",
+      "type": "wikipedia",
+      "label": "Superheroes (song)",
+      "url": "https://en.wikipedia.org/wiki/Superheroes_(song)",
+      "firstSeenAt": "2026-11-20T15:23:41.389Z"
     }
   ],
   "recentItems": []

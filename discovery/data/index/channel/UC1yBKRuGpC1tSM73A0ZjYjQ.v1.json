@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
   "title": "The Young Turks",
   "thumb": "https://yt3.ggpht.com/GaZdiTH19-g6JFMUkh2UzeulwgtnSiz-4fRbgrEW2tSFzFUUyTFFNrPChP5Ens5v5f-JpTybAg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
-  "hop": 1,
-  "uploadsPerDay": 9.7,
+  "score": 14,
+  "distinctSourceCount": 14,
+  "hop": 0,
+  "uploadsPerDay": 9.73,
   "sources": [
     {
       "id": "channel:UCKw8kdkYfmuNSVehGoDw8Mg",
@@ -99,6 +99,13 @@
       "label": "Dick Morris",
       "url": "https://en.wikipedia.org/wiki/Dick_Morris",
       "firstSeenAt": "2026-11-19T15:41:29.094Z"
+    },
+    {
+      "id": "wiki:Paul Broun",
+      "type": "wikipedia",
+      "label": "Paul Broun",
+      "url": "https://en.wikipedia.org/wiki/Paul_Broun",
+      "firstSeenAt": "2026-11-20T15:23:44.376Z"
     }
   ],
   "recentItems": []

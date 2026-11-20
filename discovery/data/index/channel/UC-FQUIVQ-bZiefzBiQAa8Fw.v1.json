@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UC-FQUIVQ-bZiefzBiQAa8Fw",
   "title": "BBC Radio 1",
   "thumb": "https://yt3.ggpht.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "EastEnd Cabaret",
       "url": "https://en.wikipedia.org/wiki/EastEnd_Cabaret",
       "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "wiki:Ghost Stories (Coldplay album)",
+      "type": "wikipedia",
+      "label": "Ghost Stories (Coldplay album)",
+      "url": "https://en.wikipedia.org/wiki/Ghost_Stories_(Coldplay_album)",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

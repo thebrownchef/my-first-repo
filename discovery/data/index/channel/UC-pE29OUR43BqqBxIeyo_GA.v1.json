@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UC-pE29OUR43BqqBxIeyo_GA",
   "title": "ChannelFrederator",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfXeolv-FHEddk8U8iTtJVB8LSMbZ9I0ORX-XNPCorvhA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.24,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Nick Fox-Gieg",
       "url": "https://www.youtube.com/channel/UCzmLmjm4DKK4JQIuD9Xm2rQ",
       "firstSeenAt": "2026-11-19T15:41:59.163Z"
+    },
+    {
+      "id": "wiki:Channel Frederator Network",
+      "type": "wikipedia",
+      "label": "Channel Frederator Network",
+      "url": "https://en.wikipedia.org/wiki/Channel_Frederator_Network",
+      "firstSeenAt": "2026-11-20T15:23:39.675Z"
     }
   ],
   "recentItems": []

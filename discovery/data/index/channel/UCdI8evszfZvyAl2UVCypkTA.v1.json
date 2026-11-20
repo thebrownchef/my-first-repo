@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCdI8evszfZvyAl2UVCypkTA",
   "title": "MileyCyrusVEVO",
   "thumb": "https://yt3.ggpht.com/e3awgdpX30tKUTxriE87Ax-ILuTVNJWbuEBIg-zDbVD8PGeudEQm_4XTfEstogAQlInmCNrPXA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "When I Look at You",
       "url": "https://en.wikipedia.org/wiki/When_I_Look_at_You",
       "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:We Can't Stop",
+      "type": "wikipedia",
+      "label": "We Can't Stop",
+      "url": "https://en.wikipedia.org/wiki/We_Can't_Stop",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

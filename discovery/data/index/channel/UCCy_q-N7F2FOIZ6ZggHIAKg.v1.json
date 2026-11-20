@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCCy_q-N7F2FOIZ6ZggHIAKg",
   "title": "Sony Music (Japan)",
   "thumb": "https://yt3.ggpht.com/B8nxBQWamjpZnLt0k11VOFfEQW9VxqsuGhtn3VqKa_duy4G1gze9XQg2Lfti--NqVeVGbt5e=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Sony Music Entertainment Japan",
       "url": "https://en.wikipedia.org/wiki/Sony_Music_Entertainment_Japan",
       "firstSeenAt": "2026-10-19T13:08:24.847Z"
+    },
+    {
+      "id": "channel:UCnI-3NjhFCyc79xinoLPS3g",
+      "type": "channel",
+      "label": "dancingdollsSMEJ",
+      "url": "https://www.youtube.com/channel/UCnI-3NjhFCyc79xinoLPS3g",
+      "firstSeenAt": "2026-11-20T15:24:10.594Z"
     }
   ],
   "recentItems": []

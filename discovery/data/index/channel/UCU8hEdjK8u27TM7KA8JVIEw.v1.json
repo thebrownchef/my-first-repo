@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCU8hEdjK8u27TM7KA8JVIEw",
   "title": "UsherVEVO",
   "thumb": "https://yt3.ggpht.com/QPlXRtzY8qQtePXQAZXvMlwSLdvxEA6yyY8iwnZ2EahjqUmypc_BOfbcFIduJ6sdWLrM2u4b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Good Kisser",
       "url": "https://en.wikipedia.org/wiki/Good_Kisser",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Believe Me (Usher song)",
+      "type": "wikipedia",
+      "label": "Believe Me (Usher song)",
+      "url": "https://en.wikipedia.org/wiki/Believe_Me_(Usher_song)",
+      "firstSeenAt": "2026-11-20T15:23:41.389Z"
     }
   ],
   "recentItems": []

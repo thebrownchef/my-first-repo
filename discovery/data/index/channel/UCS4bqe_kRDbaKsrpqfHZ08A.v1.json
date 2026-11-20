@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCS4bqe_kRDbaKsrpqfHZ08A",
   "title": "SnowPatrolVEVO",
   "thumb": "https://yt3.ggpht.com/aOD5l9xMON_pkmUeVL6ZWebVqMFT1Cq_j3uTFhPzdjAa4sNw7ajY31SnJv4s2Wy6ghY97bvAhhc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Fallen Empires (album)",
       "url": "https://en.wikipedia.org/wiki/Fallen_Empires_(album)",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:If There's a Rocket Tie Me to It",
+      "type": "wikipedia",
+      "label": "If There's a Rocket Tie Me to It",
+      "url": "https://en.wikipedia.org/wiki/If_There's_a_Rocket_Tie_Me_to_It",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

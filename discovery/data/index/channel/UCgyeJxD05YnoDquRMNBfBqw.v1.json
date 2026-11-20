@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCgyeJxD05YnoDquRMNBfBqw",
   "title": "PBS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbFFUNXtl50QGZiihGQlYmXWR7JpTh3E5wUg_uq9o7Ux8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "NOVA's Secret Life of Scientists and Engineers",
       "url": "https://www.youtube.com/channel/UCABZAtnnnMbYHFr00-G54hA",
       "firstSeenAt": "2026-11-15T13:53:49.905Z"
+    },
+    {
+      "id": "channel:UCKA96CEncEYIkocsdwaMt-w",
+      "type": "channel",
+      "label": "Arizona PBS",
+      "url": "https://www.youtube.com/channel/UCKA96CEncEYIkocsdwaMt-w",
+      "firstSeenAt": "2026-11-20T15:24:07.037Z"
     }
   ],
   "recentItems": []

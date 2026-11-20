@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCEf_Bc-KVd7onSeifS3py9g",
   "title": "SMTOWN",
   "thumb": "https://yt3.ggpht.com/42gxi39XmaHVEYxeuzdXitmJ_ig7QGPHczWLt2oPLG0g7AzuIWnNhYzSBXxAaQmPiVSM7Fi6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 48,
-  "distinctSourceCount": 48,
+  "score": 49,
+  "distinctSourceCount": 49,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -344,6 +344,13 @@
       "label": "Love & Girls",
       "url": "https://en.wikipedia.org/wiki/Love_%26_Girls",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Holler (EP)",
+      "type": "wikipedia",
+      "label": "Holler (EP)",
+      "url": "https://en.wikipedia.org/wiki/Holler_(EP)",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": [

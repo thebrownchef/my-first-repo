@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCxzGNqpo8_FFKZ_bOaQnYpw",
   "title": "LiveVEVO",
   "thumb": "https://yt3.ggpht.com/EUS1KNMOKBkCYLT04QV8ddyA8oZMiCWDTpS64030WGfH2JaTL4zBpq4ek56OZlKoQ-R_Hy45-N0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Lakini's Juice",
       "url": "https://en.wikipedia.org/wiki/Lakini's_Juice",
       "firstSeenAt": "2026-10-03T11:38:21.433Z"
+    },
+    {
+      "id": "wiki:Lightning Crashes",
+      "type": "wikipedia",
+      "label": "Lightning Crashes",
+      "url": "https://en.wikipedia.org/wiki/Lightning_Crashes",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": []

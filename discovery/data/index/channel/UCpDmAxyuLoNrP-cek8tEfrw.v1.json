@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCpDmAxyuLoNrP-cek8tEfrw",
   "title": "celldweller",
   "thumb": "https://yt3.ggpht.com/2ZnP0zxQsvXRgGWT4-hrRxc2KI4Wm3WcWuSvjKfXwgbSdz-mJWQgk4LMFrsubwkiyzaDGrWAgA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Cellout EP 01",
       "url": "https://en.wikipedia.org/wiki/Cellout_EP_01",
       "firstSeenAt": "2026-11-18T15:35:37.006Z"
+    },
+    {
+      "id": "wiki:Unshakeable (Celldweller song)",
+      "type": "wikipedia",
+      "label": "Unshakeable (Celldweller song)",
+      "url": "https://en.wikipedia.org/wiki/Unshakeable_(Celldweller_song)",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
+    },
+    {
+      "id": "wiki:Celldweller",
+      "type": "wikipedia",
+      "label": "Celldweller",
+      "url": "https://en.wikipedia.org/wiki/Celldweller",
+      "firstSeenAt": "2026-11-20T15:23:44.482Z"
     }
   ],
   "recentItems": []

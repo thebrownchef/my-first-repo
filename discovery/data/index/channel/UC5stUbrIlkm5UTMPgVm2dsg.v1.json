@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "id": "UC5stUbrIlkm5UTMPgVm2dsg",
+  "title": "Lincoln Center",
+  "thumb": "https://yt3.ggpht.com/HHqPpe8zw05gQgdP1lMXqF3PH2LUHkslSMI700gmtnYU9s8cZcHDu24QEP_1SmUD5iRyy6mIw0E=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.24,
+  "sources": [
+    {
+      "id": "wiki:Matt Alber",
+      "type": "wikipedia",
+      "label": "Matt Alber",
+      "url": "https://en.wikipedia.org/wiki/Matt_Alber",
+      "firstSeenAt": "2026-11-13T14:31:16.364Z"
+    },
+    {
+      "id": "wiki:John Luther Adams",
+      "type": "wikipedia",
+      "label": "John Luther Adams",
+      "url": "https://en.wikipedia.org/wiki/John_Luther_Adams",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
+    }
+  ],
+  "recentItems": []
+}

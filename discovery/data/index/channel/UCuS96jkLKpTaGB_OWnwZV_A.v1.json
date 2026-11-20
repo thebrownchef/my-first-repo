@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCuS96jkLKpTaGB_OWnwZV_A",
   "title": "SWAY'S UNIVERSE",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kr1oXlgXptbQWQiPDi9Gk1ICybaL1BCTzlHLL4lueSOA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.46,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Right Here (SWV song)",
       "url": "https://en.wikipedia.org/wiki/Right_Here_(SWV_song)",
       "firstSeenAt": "2026-11-07T12:56:30.839Z"
+    },
+    {
+      "id": "wiki:Stro",
+      "type": "wikipedia",
+      "label": "Stro",
+      "url": "https://en.wikipedia.org/wiki/Stro",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCM2nSBiVH_QQkaHfOmwkdtQ",
   "title": "Chicago Humanities",
   "thumb": "https://yt3.ggpht.com/-1dmQMxa68g0iuXcyN14VYwhJiO67_QtxIJ01F6JjA4RU0njGVoKIW-crsK1iTp-Su1FfQmUog=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Larry Wilmore",
       "url": "https://en.wikipedia.org/wiki/Larry_Wilmore",
       "firstSeenAt": "2026-11-12T15:08:37.044Z"
+    },
+    {
+      "id": "wiki:Jenette Kahn",
+      "type": "wikipedia",
+      "label": "Jenette Kahn",
+      "url": "https://en.wikipedia.org/wiki/Jenette_Kahn",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
     }
   ],
   "recentItems": []

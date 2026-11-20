@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCXyrZim8CaYWYzR81FK7Opw",
   "title": "BeckVEVO",
   "thumb": "https://yt3.ggpht.com/Un1ntDMhpGrstJgqhIqofxs3kHSYrE9DXZQnlyQR-dyF2AybrrNVTQ7jk8xmnJZWQihgN-07=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -120,6 +120,13 @@
       "label": "Gamma Ray (song)",
       "url": "https://en.wikipedia.org/wiki/Gamma_Ray_(song)",
       "firstSeenAt": "2026-10-05T14:32:40.422Z"
+    },
+    {
+      "id": "wiki:Blue Moon (Beck song)",
+      "type": "wikipedia",
+      "label": "Blue Moon (Beck song)",
+      "url": "https://en.wikipedia.org/wiki/Blue_Moon_(Beck_song)",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": []

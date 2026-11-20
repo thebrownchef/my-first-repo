@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCfjP3g6KlE5urBZCGamFKQg",
   "title": "Shaw TV Nanaimo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nBVom6L6ZipJ7ELTMSIJYqTE3Q1KRjvY3LPY4e4ntbHIc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.81,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Bennet Wong",
       "url": "https://en.wikipedia.org/wiki/Bennet_Wong",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Jock McKeen",
+      "type": "wikipedia",
+      "label": "Jock McKeen",
+      "url": "https://en.wikipedia.org/wiki/Jock_McKeen",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
     }
   ],
   "recentItems": []

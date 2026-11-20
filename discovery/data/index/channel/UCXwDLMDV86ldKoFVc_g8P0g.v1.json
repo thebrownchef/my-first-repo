@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCXwDLMDV86ldKoFVc_g8P0g",
   "title": "BFMTV",
   "thumb": "https://yt3.ggpht.com/l5yh1ebjlfahsfKc48zmOeqU-QGi3EMRN2hQPcK5wfTJ7MheP1fB3hId08940ANl_AK1RtHt=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 11.39,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "La Sélec'",
       "url": "https://www.youtube.com/channel/UC4SBMSEO6V6ukPU4JhJ2D_g",
       "firstSeenAt": "2026-09-25T11:48:21.474Z"
+    },
+    {
+      "id": "wiki:Socialist fraternal kiss",
+      "type": "wikipedia",
+      "label": "Socialist fraternal kiss",
+      "url": "https://en.wikipedia.org/wiki/Socialist_fraternal_kiss",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

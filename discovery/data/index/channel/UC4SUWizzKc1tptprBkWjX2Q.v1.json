@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UC4SUWizzKc1tptprBkWjX2Q",
   "title": "South China Morning Post",
   "thumb": "https://yt3.ggpht.com/4Q9yos_fKmzf0o36ETS4IZelXBRLwJ5_4pSGvWNbLLhhGNs4RqmAmsYKPkc-Dx_EgVTCxaBOmdU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 2.98,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Ann Hui",
       "url": "https://en.wikipedia.org/wiki/Ann_Hui",
       "firstSeenAt": "2026-11-19T15:41:25.825Z"
+    },
+    {
+      "id": "wiki:Philip Dodd (broadcaster)",
+      "type": "wikipedia",
+      "label": "Philip Dodd (broadcaster)",
+      "url": "https://en.wikipedia.org/wiki/Philip_Dodd_(broadcaster)",
+      "firstSeenAt": "2026-11-20T15:23:46.019Z"
     }
   ],
   "recentItems": []

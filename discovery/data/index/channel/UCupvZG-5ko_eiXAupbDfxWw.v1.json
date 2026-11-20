@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCupvZG-5ko_eiXAupbDfxWw",
   "title": "CNN",
   "thumb": "https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 24.38,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Matthew Todd Miller",
       "url": "https://en.wikipedia.org/wiki/Matthew_Todd_Miller",
       "firstSeenAt": "2026-11-19T15:41:29.093Z"
+    },
+    {
+      "id": "wiki:Jill Dougherty",
+      "type": "wikipedia",
+      "label": "Jill Dougherty",
+      "url": "https://en.wikipedia.org/wiki/Jill_Dougherty",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
     }
   ],
   "recentItems": []

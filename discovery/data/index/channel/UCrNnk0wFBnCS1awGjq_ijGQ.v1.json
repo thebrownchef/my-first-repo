@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCrNnk0wFBnCS1awGjq_ijGQ",
   "title": "PBS KIDS",
   "thumb": "https://yt3.ggpht.com/ZBcGbfxSEOigEe07nPd5AsSrYRO9NLqyxBZ1rGLtFC4Fr6eUqoL5D97U_aHLN4wO-p66Q7sO0g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 1.03,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "PBS KIDS for Parents",
       "url": "https://www.youtube.com/channel/UCuKgGov3NifIuVhS3U3ZDbw",
       "firstSeenAt": "2026-10-16T11:19:51.694Z"
+    },
+    {
+      "id": "channel:UCKA96CEncEYIkocsdwaMt-w",
+      "type": "channel",
+      "label": "Arizona PBS",
+      "url": "https://www.youtube.com/channel/UCKA96CEncEYIkocsdwaMt-w",
+      "firstSeenAt": "2026-11-20T15:24:07.038Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCGGhM6XCSJFQ6DTRffnKRIw",
   "title": "Muse",
   "thumb": "https://yt3.ggpht.com/UD0mr1fKL_mIy_BsJt7pUFFe2Ug-jm4ym17zQPnFbJeaIwaRSsfA9rD8EVDgBat-8eQPggOMhg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "The 2nd Law",
       "url": "https://en.wikipedia.org/wiki/The_2nd_Law",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Resistance (Muse song)",
+      "type": "wikipedia",
+      "label": "Resistance (Muse song)",
+      "url": "https://en.wikipedia.org/wiki/Resistance_(Muse_song)",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

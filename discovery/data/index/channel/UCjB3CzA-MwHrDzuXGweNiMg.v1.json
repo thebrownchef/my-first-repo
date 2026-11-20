@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCjB3CzA-MwHrDzuXGweNiMg",
   "title": "TheKillersVEVO",
   "thumb": "https://yt3.ggpht.com/rNQz_e_0TaX5nIR2815xJVxiPTD-LHS3horyD2q2B6-WNMpXCLYrd6dQIAdiunLOoi9SFuWTtZE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Miss Atomic (pageants)",
       "url": "https://en.wikipedia.org/wiki/Miss_Atomic_(pageants)",
       "firstSeenAt": "2026-11-10T14:49:42.358Z"
+    },
+    {
+      "id": "wiki:The Killers",
+      "type": "wikipedia",
+      "label": "The Killers",
+      "url": "https://en.wikipedia.org/wiki/The_Killers",
+      "firstSeenAt": "2026-11-20T15:23:41.389Z"
     }
   ],
   "recentItems": []

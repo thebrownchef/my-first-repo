@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCZ9Q3hwY3MZBwmxGNfbzg5g",
   "title": "newellgirl",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfMZiT09wDN8awiv3oeki5Rq8XVmokgpkHfwtljzo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Yvonne Barrett",
       "url": "https://en.wikipedia.org/wiki/Yvonne_Barrett",
       "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:Ken Hensley",
+      "type": "wikipedia",
+      "label": "Ken Hensley",
+      "url": "https://en.wikipedia.org/wiki/Ken_Hensley",
+      "firstSeenAt": "2026-11-20T15:23:46.017Z"
     }
   ],
   "recentItems": []

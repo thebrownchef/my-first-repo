@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCRLZb8PpI9N7COmYqHiDH7A",
   "title": "Sofar Sounds",
   "thumb": "https://yt3.ggpht.com/YOFhLAIjVeOXGFxU154Hb2XpEpBCe-ewjegwwQcn1m84V65OI6eNt-YxO-SR2ZQiG9npsFO13Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 4.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "JamesWilliamHoughton",
       "url": "https://www.youtube.com/channel/UCzaCWurLCiGP5aPQ9sk7dhA",
       "firstSeenAt": "2026-10-30T12:50:46.758Z"
+    },
+    {
+      "id": "channel:UCHc2JX_PyiWIsiRU_xJoUDg",
+      "type": "channel",
+      "label": "Sofar Global",
+      "url": "https://www.youtube.com/channel/UCHc2JX_PyiWIsiRU_xJoUDg",
+      "firstSeenAt": "2026-11-20T15:24:03.724Z"
     }
   ],
   "recentItems": []

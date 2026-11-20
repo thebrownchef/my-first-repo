@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCGJdzJQ3R1BpahSvcFq23HA",
   "title": "TOPSIFY",
   "thumb": "https://yt3.ggpht.com/p-eV2FNSj62wpkKhLzccN9BQ7NXnT-HfMnd9G6af-Dn0IuxrhoO7XulOztUoUZL2jQrmW6NEVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Roadrunner Records UK",
       "url": "https://www.youtube.com/channel/UCgUEvgyldaJK9E43rdUQyaA",
       "firstSeenAt": "2026-11-19T15:41:50.530Z"
+    },
+    {
+      "id": "channel:UCdwL3W6yGAvcmXswvFnzRXw",
+      "type": "channel",
+      "label": "Paolo Nutini",
+      "url": "https://www.youtube.com/channel/UCdwL3W6yGAvcmXswvFnzRXw",
+      "firstSeenAt": "2026-11-20T15:23:58.851Z"
     }
   ],
   "recentItems": []

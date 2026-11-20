@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "id": "UCY-0eE6fX-tkicr2mh8e_kA",
+  "title": "C-SPAN's Book TV",
+  "thumb": "https://yt3.ggpht.com/aFTqg3pC3WOO-aiYN3hPN7BRxw4gS4qT2wdrSuALBu-wSPwA4xvVFIFcJRgJ04qi1neYbfnS6g=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.76,
+  "sources": [
+    {
+      "id": "channel:UCb--64Gl51jIEVE-GLDAVTg",
+      "type": "channel",
+      "label": "C-SPAN",
+      "url": "https://www.youtube.com/channel/UCb--64Gl51jIEVE-GLDAVTg",
+      "firstSeenAt": "2026-09-15T11:41:47.977Z"
+    },
+    {
+      "id": "wiki:Military history of Asian Americans",
+      "type": "wikipedia",
+      "label": "Military history of Asian Americans",
+      "url": "https://en.wikipedia.org/wiki/Military_history_of_Asian_Americans",
+      "firstSeenAt": "2026-11-20T15:23:46.017Z"
+    }
+  ],
+  "recentItems": []
+}

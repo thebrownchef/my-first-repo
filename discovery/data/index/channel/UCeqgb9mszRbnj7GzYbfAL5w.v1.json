@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCeqgb9mszRbnj7GzYbfAL5w",
   "title": "partidocarlista",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kssz-MLeQvDevr5Xl1C703Iw3BXVhG4-kGBZlBJzjGVw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -127,7 +127,31 @@
       "label": "José Selva Mergelina",
       "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Selva_Mergelina",
       "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "wiki:Navarrese electoral Carlism during the Restoration",
+      "type": "wikipedia",
+      "label": "Navarrese electoral Carlism during the Restoration",
+      "url": "https://en.wikipedia.org/wiki/Navarrese_electoral_Carlism_during_the_Restoration",
+      "firstSeenAt": "2026-11-20T15:23:41.389Z"
+    },
+    {
+      "id": "wiki:Electoral Carlism (Restoration)",
+      "type": "wikipedia",
+      "label": "Electoral Carlism (Restoration)",
+      "url": "https://en.wikipedia.org/wiki/Electoral_Carlism_(Restoration)",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "uhK1ER3B4Hg",
+      "title": "Viva Cristo Rey",
+      "publishedAt": "2008-03-31T12:52:27Z",
+      "durationSec": 225,
+      "thumb": "https://i.ytimg.com/vi/uhK1ER3B4Hg/mqdefault.jpg",
+      "description": "Dios Patria Fueros Rey",
+      "chapters": []
+    }
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UC_fUfLFo31WTFZPxgr1EcLA",
   "title": "כאן חינוכית",
   "thumb": "https://yt3.ggpht.com/2ar8IuWjF20rEq8qEGf96FXLeDgRp4hrYT1BC6MS77f4aeehTO60Ec3im9_8E5v7yy9J8tRHH9c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 3.13,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Anat Peleg",
       "url": "https://en.wikipedia.org/wiki/Anat_Peleg",
       "firstSeenAt": "2026-11-19T15:41:29.093Z"
+    },
+    {
+      "id": "wiki:Et moi, et moi, et moi",
+      "type": "wikipedia",
+      "label": "Et moi, et moi, et moi",
+      "url": "https://en.wikipedia.org/wiki/Et_moi%2C_et_moi%2C_et_moi",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": []

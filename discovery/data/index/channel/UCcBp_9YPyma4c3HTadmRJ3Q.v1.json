@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCcBp_9YPyma4c3HTadmRJ3Q",
   "title": "Nature on PBS",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mR5CkcVrhPo4IH4YyJFjQPGaHKAmJfDZamcsHkgXGnYS8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Milwaukee PBS",
       "url": "https://www.youtube.com/channel/UCDttISJ8lpx_476pF3i3sfA",
       "firstSeenAt": "2026-11-11T14:16:46.787Z"
+    },
+    {
+      "id": "channel:UCKA96CEncEYIkocsdwaMt-w",
+      "type": "channel",
+      "label": "Arizona PBS",
+      "url": "https://www.youtube.com/channel/UCKA96CEncEYIkocsdwaMt-w",
+      "firstSeenAt": "2026-11-20T15:24:07.039Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCYXYrDm6Xyzb_zPlm2XvRMw",
   "title": "Neon Hitch",
   "thumb": "https://yt3.ggpht.com/9JXl7zF6ItboommQwF_aa5gTj92iuyhkK2i5PT4_bVyeyjxNwk_LEWK4d1iyvegXq7ooHfyQPQg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Neon Hitch discography",
       "url": "https://en.wikipedia.org/wiki/Neon_Hitch_discography",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Pollo Del Mar",
+      "type": "wikipedia",
+      "label": "Pollo Del Mar",
+      "url": "https://en.wikipedia.org/wiki/Pollo_Del_Mar",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": []

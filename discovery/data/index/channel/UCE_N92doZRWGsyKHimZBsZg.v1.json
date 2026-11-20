@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCE_N92doZRWGsyKHimZBsZg",
   "title": "Americans at War",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kmvg-fWlyV-b5lncTuT3ao0UPOWz8WhHvUFU87lD-agQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "James L. Holloway III",
       "url": "https://en.wikipedia.org/wiki/James_L._Holloway_III",
       "firstSeenAt": "2026-11-15T13:53:32.349Z"
+    },
+    {
+      "id": "wiki:Jim Webb",
+      "type": "wikipedia",
+      "label": "Jim Webb",
+      "url": "https://en.wikipedia.org/wiki/Jim_Webb",
+      "firstSeenAt": "2026-11-20T15:23:43.535Z"
     }
   ],
   "recentItems": []

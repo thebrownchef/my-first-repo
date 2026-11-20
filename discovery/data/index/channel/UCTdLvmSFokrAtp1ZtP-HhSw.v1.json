@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCTdLvmSFokrAtp1ZtP-HhSw",
   "title": "US Auto Industry",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lFeUn2DUfi-AT_QA3aIBiqi4oxKbyOnnThKs3Nz1XBUQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Imperial (automobile)",
       "url": "https://en.wikipedia.org/wiki/Imperial_(automobile)",
       "firstSeenAt": "2026-11-01T13:17:24.370Z"
+    },
+    {
+      "id": "wiki:Signal 30",
+      "type": "wikipedia",
+      "label": "Signal 30",
+      "url": "https://en.wikipedia.org/wiki/Signal_30",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

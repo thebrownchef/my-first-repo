@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCx1f1u4XlFFr0YgqF3wB4lQ",
   "title": "JenniferLopezVEVO",
   "thumb": "https://yt3.ggpht.com/rNpWvwJqhVA_I8BOI0NmwZKpXjpUh14diwbTKsn_mMD6L_L-u71Mw1jKyMU4QKUBJbVqSas3AQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "First Love (Jennifer Lopez song)",
       "url": "https://en.wikipedia.org/wiki/First_Love_(Jennifer_Lopez_song)",
       "firstSeenAt": "2026-11-12T15:08:31.511Z"
+    },
+    {
+      "id": "wiki:Booty (Jennifer Lopez song)",
+      "type": "wikipedia",
+      "label": "Booty (Jennifer Lopez song)",
+      "url": "https://en.wikipedia.org/wiki/Booty_(Jennifer_Lopez_song)",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": []

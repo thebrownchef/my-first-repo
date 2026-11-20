@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCCXCw4PeDbuezlKDTJ5hWAg",
   "title": "Salt + Light Media",
   "thumb": "https://yt3.ggpht.com/uvJ10ZQAuYNReNpw-iXjt1u-88k0aC1KG08vitPtjz787a5N3oLstlUnMK5jv2V3DTgvFYnf=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.54,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Marc Ouellet",
       "url": "https://en.wikipedia.org/wiki/Marc_Ouellet",
       "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Odilo Scherer",
+      "type": "wikipedia",
+      "label": "Odilo Scherer",
+      "url": "https://en.wikipedia.org/wiki/Odilo_Scherer",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": []

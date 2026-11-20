@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCiB8h9jD2Mlxx96ZFnGDSJw",
   "title": "PBS Origins ",
   "thumb": "https://yt3.ggpht.com/ws-pNTSVqYK5lPaXo689F3DEgY2gSasZt8UA0zk1cZIxFvqG3ZUMygX2Uhbj-SlYswUnfFFu=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "PBS Digital Studios",
       "url": "https://www.youtube.com/channel/UCd8Fy98IB7WcI4r7qDbJi7A",
       "firstSeenAt": "2026-10-16T11:19:48.771Z"
+    },
+    {
+      "id": "channel:UCKA96CEncEYIkocsdwaMt-w",
+      "type": "channel",
+      "label": "Arizona PBS",
+      "url": "https://www.youtube.com/channel/UCKA96CEncEYIkocsdwaMt-w",
+      "firstSeenAt": "2026-11-20T15:24:07.042Z"
     }
   ],
   "recentItems": []

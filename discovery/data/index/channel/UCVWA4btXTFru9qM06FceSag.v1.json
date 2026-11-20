@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCVWA4btXTFru9qM06FceSag",
   "title": "PitbullVEVO",
   "thumb": "https://yt3.ggpht.com/Hj7bnKk6Zh4ko81EBLWquLl-a6_-LQqISsxR2wHpEauEAw8u4sj8onUFTvIKjeRxgaU4hGrHow=s88-c-k-c0x00ffffff-no-rj",
-  "score": 20,
-  "distinctSourceCount": 20,
+  "score": 21,
+  "distinctSourceCount": 21,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -148,6 +148,13 @@
       "label": "Wild Wild Love",
       "url": "https://en.wikipedia.org/wiki/Wild_Wild_Love",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Fireball (Pitbull song)",
+      "type": "wikipedia",
+      "label": "Fireball (Pitbull song)",
+      "url": "https://en.wikipedia.org/wiki/Fireball_(Pitbull_song)",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": [

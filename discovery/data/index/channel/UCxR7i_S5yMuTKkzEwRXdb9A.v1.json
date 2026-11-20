@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCxR7i_S5yMuTKkzEwRXdb9A",
   "title": "Cherry Red Records",
   "thumb": "https://yt3.ggpht.com/-cRnVejVE4J9zFrh7ShIzT_3SOOl6_y77YBqve1S8EUCYPG0BsuOiqcBl4a3lAhxA3IaBtNKEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Bill Nelson (musician)",
       "url": "https://en.wikipedia.org/wiki/Bill_Nelson_(musician)",
       "firstSeenAt": "2026-11-19T15:41:29.092Z"
+    },
+    {
+      "id": "wiki:Stuart Cash",
+      "type": "wikipedia",
+      "label": "Stuart Cash",
+      "url": "https://en.wikipedia.org/wiki/Stuart_Cash",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
     }
   ],
   "recentItems": []

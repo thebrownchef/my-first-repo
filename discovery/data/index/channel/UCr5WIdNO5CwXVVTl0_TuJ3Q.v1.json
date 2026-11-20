@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCr5WIdNO5CwXVVTl0_TuJ3Q",
   "title": "schmausschmaus",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lvTo-8lTS_CSOJCbY96jW0_UMsVG6JonCteuhCkelH9w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Anne T. Hill",
       "url": "https://en.wikipedia.org/wiki/Anne_T._Hill",
       "firstSeenAt": "2026-11-13T14:31:13.885Z"
+    },
+    {
+      "id": "wiki:Evan Freed",
+      "type": "wikipedia",
+      "label": "Evan Freed",
+      "url": "https://en.wikipedia.org/wiki/Evan_Freed",
+      "firstSeenAt": "2026-11-20T15:23:41.388Z"
     }
   ],
   "recentItems": []

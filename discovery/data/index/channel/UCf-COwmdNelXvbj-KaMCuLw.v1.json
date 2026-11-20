@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCf-COwmdNelXvbj-KaMCuLw",
   "title": "Carnegie Mellon University",
   "thumb": "https://yt3.ggpht.com/iBHEIzsxt-5sdlxIzTeMdV8VCe2TNpgLGi79h5yHrpoizbl7YcxbB54uMsoN7KEVKTDQPpRecMM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Randy Pausch",
       "url": "https://en.wikipedia.org/wiki/Randy_Pausch",
       "firstSeenAt": "2026-11-13T14:31:16.362Z"
+    },
+    {
+      "id": "wiki:Jared Cohon",
+      "type": "wikipedia",
+      "label": "Jared Cohon",
+      "url": "https://en.wikipedia.org/wiki/Jared_Cohon",
+      "firstSeenAt": "2026-11-20T15:23:41.390Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "id": "UCEyExwIn0vNeJZXMh83lZ1w",
+  "title": "UC San Diego",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nwmE2C62Bypc3oQ1BMnQVNuygaXlX-NRHK5vbG7Gv--w=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.13,
+  "sources": [
+    {
+      "id": "channel:UCh6KFtW4a4Ozr81GI1cxaBQ",
+      "type": "channel",
+      "label": "University of California Television (UCTV)",
+      "url": "https://www.youtube.com/channel/UCh6KFtW4a4Ozr81GI1cxaBQ",
+      "firstSeenAt": "2026-10-04T12:18:54.281Z"
+    },
+    {
+      "id": "channel:UCw6_AmGqKxQ8lPhXYzAhpcg",
+      "type": "channel",
+      "label": "Scripps Oceanography",
+      "url": "https://www.youtube.com/channel/UCw6_AmGqKxQ8lPhXYzAhpcg",
+      "firstSeenAt": "2026-11-20T15:24:13.634Z"
+    }
+  ],
+  "recentItems": []
+}

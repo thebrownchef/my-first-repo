@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCOn923UnbV8H9zo_lO6ZCRw",
   "title": "Independent Film Company",
   "thumb": "https://yt3.ggpht.com/VVdmTQs2N5M0nYo_DqasviOnBB-P1b_8q8gRiHVwMPJ_oa-XVp01aVlmopqhiRciihedXgVS=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.34,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Brave New Hollywood",
       "url": "https://www.youtube.com/channel/UCKh2uxneD3Bpr5kSWx_NpHQ",
       "firstSeenAt": "2026-09-20T11:20:21.754Z"
+    },
+    {
+      "id": "wiki:Camp X-Ray (film)",
+      "type": "wikipedia",
+      "label": "Camp X-Ray (film)",
+      "url": "https://en.wikipedia.org/wiki/Camp_X-Ray_(film)",
+      "firstSeenAt": "2026-11-20T15:23:41.390Z"
     }
   ],
   "recentItems": []

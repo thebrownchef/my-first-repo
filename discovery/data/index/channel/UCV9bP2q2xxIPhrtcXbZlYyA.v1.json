@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCV9bP2q2xxIPhrtcXbZlYyA",
   "title": "Miss America",
   "thumb": "https://yt3.ggpht.com/UvrSJETA6ilMZMqGH2b57oq6J1LtI3Rbww2JBNGc-YIKQaugiAF8KDWtwEczer6JXYGJfa-gep4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Alexis Wineman",
       "url": "https://en.wikipedia.org/wiki/Alexis_Wineman",
       "firstSeenAt": "2026-11-12T15:08:31.511Z"
+    },
+    {
+      "id": "wiki:Hayley Lewis (model)",
+      "type": "wikipedia",
+      "label": "Hayley Lewis (model)",
+      "url": "https://en.wikipedia.org/wiki/Hayley_Lewis_(model)",
+      "firstSeenAt": "2026-11-20T15:23:41.388Z"
     }
   ],
   "recentItems": []

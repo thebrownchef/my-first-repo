@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCtzK8e1SQZ2YntwF80ORJ9Q",
   "title": "GM",
   "thumb": "https://yt3.ggpht.com/aOWuVsl3x7UAzfEDKSq9oRnBv30RRAda0LVfz1-gUifnb8GydL4jVUhSbE2YN7xhCFx51kIdFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Herb Goldberg",
       "url": "https://en.wikipedia.org/wiki/Herb_Goldberg",
       "firstSeenAt": "2026-11-17T15:56:40.700Z"
+    },
+    {
+      "id": "wiki:Eric Van Lustbader",
+      "type": "wikipedia",
+      "label": "Eric Van Lustbader",
+      "url": "https://en.wikipedia.org/wiki/Eric_Van_Lustbader",
+      "firstSeenAt": "2026-11-20T15:23:41.388Z"
+    },
+    {
+      "id": "wiki:Geoffrey R. Stone",
+      "type": "wikipedia",
+      "label": "Geoffrey R. Stone",
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_R._Stone",
+      "firstSeenAt": "2026-11-20T15:23:41.388Z"
     }
   ],
   "recentItems": []

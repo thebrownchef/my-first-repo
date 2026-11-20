@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T15:43:00.860Z",
+  "generatedAt": "2026-11-20T15:25:13.523Z",
   "id": "UCFkid-1EIBbauJLbMFDp2Cg",
   "title": "UC Berkeley Events",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kqdEXLIOn-E2yWhK76rH8hQu5p_6S4gvQSddvsXWzLmw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.5,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Alan Bernheimer",
       "url": "https://en.wikipedia.org/wiki/Alan_Bernheimer",
       "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "wiki:Martin Wolf",
+      "type": "wikipedia",
+      "label": "Martin Wolf",
+      "url": "https://en.wikipedia.org/wiki/Martin_Wolf",
+      "firstSeenAt": "2026-11-20T15:23:46.018Z"
     }
   ],
   "recentItems": []
