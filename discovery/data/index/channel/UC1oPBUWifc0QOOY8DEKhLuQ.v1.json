@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC1oPBUWifc0QOOY8DEKhLuQ",
   "title": "avex",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLFKt5mP2Y88rd28rdk4oTwUZkQYAfjxAdIXKhFuxDU1c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 22,
-  "distinctSourceCount": 22,
+  "score": 24,
+  "distinctSourceCount": 24,
   "hop": 0,
   "uploadsPerDay": 2.25,
   "sources": [
@@ -162,6 +162,20 @@
       "label": "Stay with Me Tonight (TVXQ song)",
       "url": "https://en.wikipedia.org/wiki/Stay_with_Me_Tonight_(TVXQ_song)",
       "firstSeenAt": "2026-11-12T15:08:31.512Z"
+    },
+    {
+      "id": "wiki:Message / Call My Name",
+      "type": "wikipedia",
+      "label": "Message / Call My Name",
+      "url": "https://en.wikipedia.org/wiki/Message_%2F_Call_My_Name",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
+    },
+    {
+      "id": "wiki:Shout It Out (BoA song)",
+      "type": "wikipedia",
+      "label": "Shout It Out (BoA song)",
+      "url": "https://en.wikipedia.org/wiki/Shout_It_Out_(BoA_song)",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": [

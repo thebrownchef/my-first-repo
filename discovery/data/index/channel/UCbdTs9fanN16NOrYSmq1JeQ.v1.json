@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCbdTs9fanN16NOrYSmq1JeQ",
   "title": "ClevverTV",
   "thumb": "https://yt3.ggpht.com/-RNLUh2uEVEqvK8uh5mguPKSnk-hQJKN7NNPFDzBmleipAoinfC3M6BFYLQm6DmkNHC1mmSbSQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.37,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Loud (R5 song)",
       "url": "https://en.wikipedia.org/wiki/Loud_(R5_song)",
       "firstSeenAt": "2026-11-07T12:56:36.816Z"
+    },
+    {
+      "id": "wiki:Lucas Cruikshank",
+      "type": "wikipedia",
+      "label": "Lucas Cruikshank",
+      "url": "https://en.wikipedia.org/wiki/Lucas_Cruikshank",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
     }
   ],
   "recentItems": []

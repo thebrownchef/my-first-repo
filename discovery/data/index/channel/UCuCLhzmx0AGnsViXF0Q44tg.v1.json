@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCuCLhzmx0AGnsViXF0Q44tg",
   "title": "SourceFedNERD",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mwVOXRvx6cnO3oRqfQUa1bZ-pjvtZi1d6QIHwbvqE3o6Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.5,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Jason Silva",
       "url": "https://en.wikipedia.org/wiki/Jason_Silva",
       "firstSeenAt": "2026-11-06T14:13:09.927Z"
+    },
+    {
+      "id": "wiki:Neverending Nightmares",
+      "type": "wikipedia",
+      "label": "Neverending Nightmares",
+      "url": "https://en.wikipedia.org/wiki/Neverending_Nightmares",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
   "title": "Computer History Museum",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nUos3s1cWl9yyre1OLdx-P4Y5vcEExpiE9evQ48al6FXk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Avram Miller",
       "url": "https://en.wikipedia.org/wiki/Avram_Miller",
       "firstSeenAt": "2026-11-19T15:41:25.825Z"
+    },
+    {
+      "id": "wiki:George Dyson (science historian)",
+      "type": "wikipedia",
+      "label": "George Dyson (science historian)",
+      "url": "https://en.wikipedia.org/wiki/George_Dyson_(science_historian)",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

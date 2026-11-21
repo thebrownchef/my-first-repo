@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC-lkYjunAyfultKGuRJz6HQ",
   "title": "Junior Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/S1ttDbpCpAAu05Ksxd6rxz8TsxfMkTQrd1t8AoFloPwJV7XWFzxL1qs9GzaDoLGaicV2fW6v=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Junior Eurovision Song Contest 2014",
       "url": "https://en.wikipedia.org/wiki/Junior_Eurovision_Song_Contest_2014",
       "firstSeenAt": "2026-11-20T15:23:46.019Z"
+    },
+    {
+      "id": "wiki:Mylène and Rosanne",
+      "type": "wikipedia",
+      "label": "Mylène and Rosanne",
+      "url": "https://en.wikipedia.org/wiki/Myl%C3%A8ne_and_Rosanne",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCmUpllWyvJ2eNCbZcNBJb4Q",
   "title": "TIFF",
   "thumb": "https://yt3.ggpht.com/DX1TLy3OPq1kAWkc3HvNhz7WYFh31DviuVmooafonKUImUfAjPRRMnB4h_Gsg8GM2QvyBQ54NQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 1.11,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Company You Keep (film)",
       "url": "https://en.wikipedia.org/wiki/The_Company_You_Keep_(film)",
       "firstSeenAt": "2026-11-04T14:28:02.598Z"
+    },
+    {
+      "id": "wiki:Chris A. Cummings",
+      "type": "wikipedia",
+      "label": "Chris A. Cummings",
+      "url": "https://en.wikipedia.org/wiki/Chris_A._Cummings",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
     }
   ],
   "recentItems": []

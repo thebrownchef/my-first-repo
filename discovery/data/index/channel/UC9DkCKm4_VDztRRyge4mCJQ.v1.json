@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC9DkCKm4_VDztRRyge4mCJQ",
   "title": "Amoeba",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m0l0TtAvmfEvQdq0rnTYoDVGD0ipsqnbt5kqrEF_8V8Epe=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "2 (Darker My Love album)",
       "url": "https://en.wikipedia.org/wiki/2_(Darker_My_Love_album)",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Clare Fischer",
+      "type": "wikipedia",
+      "label": "Clare Fischer",
+      "url": "https://en.wikipedia.org/wiki/Clare_Fischer",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
     }
   ],
   "recentItems": []

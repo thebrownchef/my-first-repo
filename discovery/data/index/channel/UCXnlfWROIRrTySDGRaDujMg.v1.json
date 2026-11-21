@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCXnlfWROIRrTySDGRaDujMg",
   "title": "ArtisanNewsService",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lxfyCkB6LEPlI84dXk_lE2owpZtHrqjfF9QdUlShzs6g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 1.27,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Going to Hell",
       "url": "https://en.wikipedia.org/wiki/Going_to_Hell",
       "firstSeenAt": "2026-11-12T15:08:37.042Z"
+    },
+    {
+      "id": "wiki:Stuart Smalley",
+      "type": "wikipedia",
+      "label": "Stuart Smalley",
+      "url": "https://en.wikipedia.org/wiki/Stuart_Smalley",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC4rasfm9J-X4jNl9SvXp8xA",
   "title": "Ultra Records",
   "thumb": "https://yt3.ggpht.com/ljBJgg_2rIQIhglsv5Mg-sWCH3BuRGkoc0EdTNXOAszyapyAzdB5OHVwdFTzVQIo1u3001kjfg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -92,6 +92,27 @@
       "label": "Steve Aoki",
       "url": "https://en.wikipedia.org/wiki/Steve_Aoki",
       "firstSeenAt": "2026-11-18T15:35:37.006Z"
+    },
+    {
+      "id": "wiki:Seven Lions",
+      "type": "wikipedia",
+      "label": "Seven Lions",
+      "url": "https://en.wikipedia.org/wiki/Seven_Lions",
+      "firstSeenAt": "2026-11-21T14:36:39.225Z"
+    },
+    {
+      "id": "wiki:Boneless (song)",
+      "type": "wikipedia",
+      "label": "Boneless (song)",
+      "url": "https://en.wikipedia.org/wiki/Boneless_(song)",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
+    },
+    {
+      "id": "wiki:Worlds Apart (Seven Lions EP)",
+      "type": "wikipedia",
+      "label": "Worlds Apart (Seven Lions EP)",
+      "url": "https://en.wikipedia.org/wiki/Worlds_Apart_(Seven_Lions_EP)",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

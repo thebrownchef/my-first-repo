@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCPyu2iJQ3xl_rn1abzlSTPw",
   "title": "somongkol",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kMXqQxvMuQU4t_GB_ZZrC-eNF3iZoyLiqUTALhffyDlA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Derek Freeman",
       "url": "https://en.wikipedia.org/wiki/Derek_Freeman",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Coming of Age in Samoa",
+      "type": "wikipedia",
+      "label": "Coming of Age in Samoa",
+      "url": "https://en.wikipedia.org/wiki/Coming_of_Age_in_Samoa",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCGwuxdEeCf0TIA2RbPOj-8g",
   "title": "Stanford Graduate School of Business",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lWoHJNSE1UPPiFdCG4_aQZ1apKXrKI7nZ_sFlKwhNwRl0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.6,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Reverse takeover",
       "url": "https://en.wikipedia.org/wiki/Reverse_takeover",
       "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "wiki:Donna Dubinsky",
+      "type": "wikipedia",
+      "label": "Donna Dubinsky",
+      "url": "https://en.wikipedia.org/wiki/Donna_Dubinsky",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
     }
   ],
   "recentItems": []

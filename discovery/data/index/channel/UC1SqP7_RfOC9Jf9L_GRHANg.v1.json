@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC1SqP7_RfOC9Jf9L_GRHANg",
   "title": "AviciiOfficialVEVO",
   "thumb": "https://yt3.ggpht.com/PbuhJdUw_rYQoCB_ROfXAsX-k9tDtThMIQ9L2jMJAhBLG-vwm1lPC_hu7l3gKD-tjOXc1GM-pw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Lay Me Down (Avicii song)",
       "url": "https://en.wikipedia.org/wiki/Lay_Me_Down_(Avicii_song)",
       "firstSeenAt": "2026-11-16T15:40:12.268Z"
+    },
+    {
+      "id": "wiki:The Days (Avicii song)",
+      "type": "wikipedia",
+      "label": "The Days (Avicii song)",
+      "url": "https://en.wikipedia.org/wiki/The_Days_(Avicii_song)",
+      "firstSeenAt": "2026-11-21T14:36:45.628Z"
     }
   ],
   "recentItems": []

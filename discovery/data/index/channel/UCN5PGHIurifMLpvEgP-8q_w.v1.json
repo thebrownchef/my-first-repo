@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCN5PGHIurifMLpvEgP-8q_w",
   "title": "GBH Forum Network",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m8paoTyr_8_2zonFS_HXEKMs9GPU8HswI4KaZGTXSa4FQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.83,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Siegfried Sassoon",
       "url": "https://en.wikipedia.org/wiki/Siegfried_Sassoon",
       "firstSeenAt": "2026-11-20T15:23:41.389Z"
+    },
+    {
+      "id": "wiki:Elizabeth Swados",
+      "type": "wikipedia",
+      "label": "Elizabeth Swados",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Swados",
+      "firstSeenAt": "2026-11-21T14:36:43.415Z"
     }
   ],
   "recentItems": []

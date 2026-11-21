@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCaO6BJaCYWO8dWkKJm_Ww5A",
   "title": "ShaneFilanVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kYaUKlZgLWqZy3RVLrTSa1QtaOwACv4vdUyaK2s_0ONvY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "About You (Shane Filan song)",
       "url": "https://en.wikipedia.org/wiki/About_You_(Shane_Filan_song)",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Baby Let's Dance",
+      "type": "wikipedia",
+      "label": "Baby Let's Dance",
+      "url": "https://en.wikipedia.org/wiki/Baby_Let's_Dance",
+      "firstSeenAt": "2026-11-21T14:36:45.628Z"
     }
   ],
   "recentItems": []

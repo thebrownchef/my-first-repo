@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCkyrSWEcjZKpIwMxiPfOcgg",
   "title": "5 канал",
   "thumb": "https://yt3.ggpht.com/nC8MFAojCH-V-1WQ6GqqUxLz7dr8oCKnl4uAAw7z5CNYnuharnQtB2MISBzfxeKs8vZROSk9=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 24.55,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Maidan casualties",
       "url": "https://en.wikipedia.org/wiki/Maidan_casualties",
       "firstSeenAt": "2026-11-04T14:28:02.598Z"
+    },
+    {
+      "id": "wiki:Tetiana Danylenko",
+      "type": "wikipedia",
+      "label": "Tetiana Danylenko",
+      "url": "https://en.wikipedia.org/wiki/Tetiana_Danylenko",
+      "firstSeenAt": "2026-11-21T14:36:39.226Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCaiYCcPssjd8IunMpjBsd1w",
   "title": "Kevin Sibley",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBjnZXtGOycoVBlbsFEil8yjPHs-Vsiob3Z5Jtzp4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Alan Pascoe",
       "url": "https://en.wikipedia.org/wiki/Alan_Pascoe",
       "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "wiki:Alberto Juantorena",
+      "type": "wikipedia",
+      "label": "Alberto Juantorena",
+      "url": "https://en.wikipedia.org/wiki/Alberto_Juantorena",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
+    },
+    {
+      "id": "wiki:David Jenkins (sprinter)",
+      "type": "wikipedia",
+      "label": "David Jenkins (sprinter)",
+      "url": "https://en.wikipedia.org/wiki/David_Jenkins_(sprinter)",
+      "firstSeenAt": "2026-11-21T14:36:45.628Z"
     }
   ],
   "recentItems": []

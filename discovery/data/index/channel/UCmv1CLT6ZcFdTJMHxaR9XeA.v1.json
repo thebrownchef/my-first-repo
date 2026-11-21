@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCmv1CLT6ZcFdTJMHxaR9XeA",
   "title": "Pentatonix",
   "thumb": "https://yt3.ggpht.com/mOPw7LayH33vrQC36RaTi6IK0BuRVPM18NgERoOTeGBioJhLxO1l_LAZmc8bAVEG0smtvs2V9Ks=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "jonhuertas",
       "url": "https://www.youtube.com/channel/UCc0hgnKESv5XZpI9S-uDR8A",
       "firstSeenAt": "2026-10-13T14:08:08.942Z"
+    },
+    {
+      "id": "wiki:Pentatonix discography",
+      "type": "wikipedia",
+      "label": "Pentatonix discography",
+      "url": "https://en.wikipedia.org/wiki/Pentatonix_discography",
+      "firstSeenAt": "2026-11-21T14:36:39.224Z"
     }
   ],
   "recentItems": []

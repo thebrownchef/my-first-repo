@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCtIQil-e9wzT_fxySy1y3nw",
   "title": "Harold Channer",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mN5O1wu72LNB-kKZZLV9tcAtvpxum9EM_d5vH6rpgVEg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Paul Ryan (video artist)",
       "url": "https://en.wikipedia.org/wiki/Paul_Ryan_(video_artist)",
       "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Stephen Holmes (political scientist)",
+      "type": "wikipedia",
+      "label": "Stephen Holmes (political scientist)",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Holmes_(political_scientist)",
+      "firstSeenAt": "2026-11-21T14:36:39.225Z"
     }
   ],
   "recentItems": []

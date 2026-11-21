@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC8l9frL61Yl5KFOl87nIm2w",
   "title": "BlankTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncpfaMstuqfHF2SAsKzZ3hXmrNY-FiLYU2geOzuYEZC1U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 3.09,
   "sources": [
@@ -64,6 +64,20 @@
       "label": "My Heart Bleeds the Darkest Blood",
       "url": "https://en.wikipedia.org/wiki/My_Heart_Bleeds_the_Darkest_Blood",
       "firstSeenAt": "2026-11-05T14:35:30.323Z"
+    },
+    {
+      "id": "wiki:The Ataris discography",
+      "type": "wikipedia",
+      "label": "The Ataris discography",
+      "url": "https://en.wikipedia.org/wiki/The_Ataris_discography",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
+    },
+    {
+      "id": "wiki:Chuck Dukowski",
+      "type": "wikipedia",
+      "label": "Chuck Dukowski",
+      "url": "https://en.wikipedia.org/wiki/Chuck_Dukowski",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
     }
   ],
   "recentItems": []

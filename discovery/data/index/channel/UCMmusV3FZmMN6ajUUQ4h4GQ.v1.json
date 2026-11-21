@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCMmusV3FZmMN6ajUUQ4h4GQ",
   "title": "Blue Stahli",
   "thumb": "https://yt3.ggpht.com/b6xLCNVbmuey0EdULRMUGR2crmT12xGkPpVg7ZJ7eqFtdZ1iiNSlctlu84flmk63d-VJZTbOO5Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The Devil (album)",
       "url": "https://en.wikipedia.org/wiki/The_Devil_(album)",
       "firstSeenAt": "2026-10-31T12:21:59.961Z"
+    },
+    {
+      "id": "wiki:Sick Puppies",
+      "type": "wikipedia",
+      "label": "Sick Puppies",
+      "url": "https://en.wikipedia.org/wiki/Sick_Puppies",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

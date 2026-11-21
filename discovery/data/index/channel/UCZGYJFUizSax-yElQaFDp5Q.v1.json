@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCZGYJFUizSax-yElQaFDp5Q",
   "title": "Star Wars",
   "thumb": "https://yt3.ggpht.com/6h_TKBeaT6QOIqIkjFO96tEpEcbqmW9SiUtit0L0_J-fM5uwwqYGuEa78-Zpol3jnZFugoY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Disney Plus",
       "url": "https://www.youtube.com/channel/UCIrgJInjLS2BhlHOMDW7v0g",
       "firstSeenAt": "2026-09-21T12:44:49.756Z"
+    },
+    {
+      "id": "wiki:List of Star Wars: The Clone Wars episodes",
+      "type": "wikipedia",
+      "label": "List of Star Wars: The Clone Wars episodes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Star_Wars%3A_The_Clone_Wars_episodes",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

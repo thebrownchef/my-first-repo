@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "id": "UCK8f1CUe8y403u3b0gCINww",
+  "title": "University of Oxford",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nfw1aF9W8uttDWhUtNLDVjjDRNwgQQr8YZGmqycv2kEKY=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.21,
+  "sources": [
+    {
+      "id": "channel:UCDYT9mM3L_ByrPYMyl0MGGg",
+      "type": "channel",
+      "label": "BBC Ideas",
+      "url": "https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg",
+      "firstSeenAt": "2026-09-25T11:48:19.370Z"
+    },
+    {
+      "id": "wiki:Andrew Motion",
+      "type": "wikipedia",
+      "label": "Andrew Motion",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Motion",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
+    }
+  ],
+  "recentItems": []
+}

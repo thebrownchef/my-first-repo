@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC3R-xanNgtoa8b7gpVexVlA",
   "title": "Smarthistory",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lqTCOtmJX6RPYhs3cAHMztn6c2-DouI3TslncTtdyHhW0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 2,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Cycladic art",
       "url": "https://en.wikipedia.org/wiki/Cycladic_art",
       "firstSeenAt": "2026-11-19T15:41:29.093Z"
+    },
+    {
+      "id": "wiki:Catacomb of Priscilla",
+      "type": "wikipedia",
+      "label": "Catacomb of Priscilla",
+      "url": "https://en.wikipedia.org/wiki/Catacomb_of_Priscilla",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

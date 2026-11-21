@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCGLzRVwflLiCoKKErrMfREg",
   "title": "LabrinthVEVO",
   "thumb": "https://yt3.ggpht.com/YqrpxHAVp5YJ8D10Y3-HSBPidf4lvmnzf115cuzQEYqgfPQyTY-gicyGG8fTIqp8mBqHcoyynw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Last Time (Labrinth song)",
       "url": "https://en.wikipedia.org/wiki/Last_Time_(Labrinth_song)",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Let It Be (Labrinth song)",
+      "type": "wikipedia",
+      "label": "Let It Be (Labrinth song)",
+      "url": "https://en.wikipedia.org/wiki/Let_It_Be_(Labrinth_song)",
+      "firstSeenAt": "2026-11-21T14:36:39.224Z"
     }
   ],
   "recentItems": []

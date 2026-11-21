@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCLnG1MmQ-Xm4yLvt7xEm84Q",
   "title": "MarkMolaro",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lUb3iFUtUxcbT_kc4VWLP1js8YMOLhejtB_qutk5DRVQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Paul Levinson",
       "url": "https://en.wikipedia.org/wiki/Paul_Levinson",
       "firstSeenAt": "2026-11-20T15:23:46.019Z"
+    },
+    {
+      "id": "wiki:Arianna Huffington",
+      "type": "wikipedia",
+      "label": "Arianna Huffington",
+      "url": "https://en.wikipedia.org/wiki/Arianna_Huffington",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
     }
   ],
   "recentItems": []

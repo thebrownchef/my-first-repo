@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC7qn3NBI3XV7d8I3cvZeABw",
   "title": "Red Bull Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l6jh3ukoyORB-lUUANWf0-uoiwsWLHIx67-WJsniP0cF8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Not Your Fault",
       "url": "https://en.wikipedia.org/wiki/Not_Your_Fault",
       "firstSeenAt": "2026-10-24T10:54:50.878Z"
+    },
+    {
+      "id": "wiki:Epsom Coaches",
+      "type": "wikipedia",
+      "label": "Epsom Coaches",
+      "url": "https://en.wikipedia.org/wiki/Epsom_Coaches",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC-ssAZ6qVu0glgFUIsC8VSA",
   "title": "The Museum of Classic Chicago Television (www.FuzzyMemories.TV)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k7Omh_J-r3Z5-6D7x8iDyMtGE84WyWvAAMNG95uqW-Zw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Franz Benteler",
       "url": "https://en.wikipedia.org/wiki/Franz_Benteler",
       "firstSeenAt": "2026-11-11T14:16:26.259Z"
+    },
+    {
+      "id": "wiki:Rula Lenska",
+      "type": "wikipedia",
+      "label": "Rula Lenska",
+      "url": "https://en.wikipedia.org/wiki/Rula_Lenska",
+      "firstSeenAt": "2026-11-21T14:36:39.224Z"
     }
   ],
   "recentItems": []

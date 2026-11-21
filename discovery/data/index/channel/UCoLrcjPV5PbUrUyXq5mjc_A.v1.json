@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCoLrcjPV5PbUrUyXq5mjc_A",
   "title": "MLB",
   "thumb": "https://yt3.ggpht.com/658nhCATwPt-TNMhFEaP0GY-jvLKK0ASvQuC7X8uSdodwus8NxTJWVFUsobIg5sf34sP3MWBbVg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 41.54,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Jack Cust",
       "url": "https://en.wikipedia.org/wiki/Jack_Cust",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Phillie Phanatic",
+      "type": "wikipedia",
+      "label": "Phillie Phanatic",
+      "url": "https://en.wikipedia.org/wiki/Phillie_Phanatic",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

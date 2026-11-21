@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCnAsiniI4DF7vAAe7omWWFQ",
   "title": "US National Archives",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lbyMtBC27JVL62Bd9YIeWaT4JbXoTxe6qe46UpgaFivCM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "David Ferriero",
       "url": "https://en.wikipedia.org/wiki/David_Ferriero",
       "firstSeenAt": "2026-11-19T15:41:29.094Z"
+    },
+    {
+      "id": "wiki:A'Lelia Bundles",
+      "type": "wikipedia",
+      "label": "A'Lelia Bundles",
+      "url": "https://en.wikipedia.org/wiki/A'Lelia_Bundles",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
     }
   ],
   "recentItems": []

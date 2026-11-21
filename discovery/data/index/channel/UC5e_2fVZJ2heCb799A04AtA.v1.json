@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC5e_2fVZJ2heCb799A04AtA",
   "title": "TrainVEVO",
   "thumb": "https://yt3.ggpht.com/Q6Gu7w-KUfHd_sKohMFnhVXgJOu82fWKQ5DM0S8UPE6pfMxm9Y6gu0nJqYzBCQUkcCO7E8Id=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Bruises (Train song)",
       "url": "https://en.wikipedia.org/wiki/Bruises_(Train_song)",
       "firstSeenAt": "2026-10-19T13:08:24.288Z"
+    },
+    {
+      "id": "wiki:Angel in Blue Jeans",
+      "type": "wikipedia",
+      "label": "Angel in Blue Jeans",
+      "url": "https://en.wikipedia.org/wiki/Angel_in_Blue_Jeans",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
     }
   ],
   "recentItems": []

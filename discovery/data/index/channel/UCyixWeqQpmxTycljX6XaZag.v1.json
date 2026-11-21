@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCyixWeqQpmxTycljX6XaZag",
   "title": "HotNSour Movie Channel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_loa_9D5Tp80r24oZyODGgjIzzE6VCQwsKq2gDcOmozkok=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Arangu (film)",
       "url": "https://en.wikipedia.org/wiki/Arangu_(film)",
       "firstSeenAt": "2026-11-20T15:23:46.019Z"
+    },
+    {
+      "id": "wiki:Chief Minister K. R. Gowthami",
+      "type": "wikipedia",
+      "label": "Chief Minister K. R. Gowthami",
+      "url": "https://en.wikipedia.org/wiki/Chief_Minister_K._R._Gowthami",
+      "firstSeenAt": "2026-11-21T14:36:39.225Z"
     }
   ],
   "recentItems": []

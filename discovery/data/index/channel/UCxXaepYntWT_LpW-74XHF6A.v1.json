@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCxXaepYntWT_LpW-74XHF6A",
   "title": "StuartLou",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kzOZmBRtgPALWu4vA4ojXDJ-6CwS-qAB4hAF33rPM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Dorothy Loudon",
       "url": "https://en.wikipedia.org/wiki/Dorothy_Loudon",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Stefan Zucker",
+      "type": "wikipedia",
+      "label": "Stefan Zucker",
+      "url": "https://en.wikipedia.org/wiki/Stefan_Zucker",
+      "firstSeenAt": "2026-11-21T14:36:39.225Z"
     }
   ],
   "recentItems": []

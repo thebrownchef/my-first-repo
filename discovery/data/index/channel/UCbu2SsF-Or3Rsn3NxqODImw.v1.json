@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCbu2SsF-Or3Rsn3NxqODImw",
   "title": "GameSpot",
   "thumb": "https://yt3.ggpht.com/2q8-YlqtAs3pWHamRcooAOvt_M88afnTwo7DYwqvHV9OSGlf2pBa5h3QJGeHrBkBidUjaL0mpA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 5.66,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Buzzword bingo",
       "url": "https://en.wikipedia.org/wiki/Buzzword_bingo",
       "firstSeenAt": "2026-11-18T15:35:37.006Z"
+    },
+    {
+      "id": "wiki:Josh Keaton",
+      "type": "wikipedia",
+      "label": "Josh Keaton",
+      "url": "https://en.wikipedia.org/wiki/Josh_Keaton",
+      "firstSeenAt": "2026-11-21T14:36:39.225Z"
+    },
+    {
+      "id": "wiki:Travis Willingham",
+      "type": "wikipedia",
+      "label": "Travis Willingham",
+      "url": "https://en.wikipedia.org/wiki/Travis_Willingham",
+      "firstSeenAt": "2026-11-21T14:36:39.226Z"
     }
   ],
   "recentItems": []

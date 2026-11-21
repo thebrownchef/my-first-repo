@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCdn86UYrf54lXfVli9CB6Aw",
   "title": "Barack Obama",
   "thumb": "https://yt3.ggpht.com/Nk08bfKqYHzaOG4nmgFTQLHCyMgdNLjuLPeT1tAvXYKj6C6U_yzRD9kTcgWayyg2pNFHMnvY-Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "dnc press",
       "url": "https://www.youtube.com/channel/UCs8lJd_K1ojDwp8IFdoT8_Q",
       "firstSeenAt": "2026-11-11T14:16:48.685Z"
+    },
+    {
+      "id": "wiki:Barack Obama Sr.",
+      "type": "wikipedia",
+      "label": "Barack Obama Sr.",
+      "url": "https://en.wikipedia.org/wiki/Barack_Obama_Sr.",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
     }
   ],
   "recentItems": []

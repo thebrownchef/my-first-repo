@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCXfbQAimgtbk4RAUHtIAUww",
   "title": "The Lizzie Bennet Diaries",
   "thumb": "https://yt3.ggpht.com/DoJC3iUtUDA1Fdkky69tDqb_XIrMaXSGLaIl7-twWfFyDlGfKK8NEJ-cWpVaZbpRfV-nYqNz_kM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Collins and Collins",
       "url": "https://www.youtube.com/channel/UCvojc8dK3zbf01yaqC7uiPA",
       "firstSeenAt": "2026-11-09T16:12:42.049Z"
+    },
+    {
+      "id": "channel:UCgOlD8TImVB4xalJTiO6eqQ",
+      "type": "channel",
+      "label": "Pemberley Digital",
+      "url": "https://www.youtube.com/channel/UCgOlD8TImVB4xalJTiO6eqQ",
+      "firstSeenAt": "2026-11-21T14:37:02.678Z"
     }
   ],
   "recentItems": []

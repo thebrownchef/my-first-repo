@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCti7EYQS4abHO1XHHZaulsA",
   "title": "Musée océanographique de Monaco",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mcXdXLO7lVnjsG1kzeinV06p0i8T49qn1_qzm2ecK9EpI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "MonacoInfo",
       "url": "https://www.youtube.com/channel/UCe14KNyzBAYaYxnz-TD9pyg",
       "firstSeenAt": "2026-09-24T11:42:58.050Z"
+    },
+    {
+      "id": "wiki:Robert Calcagno",
+      "type": "wikipedia",
+      "label": "Robert Calcagno",
+      "url": "https://en.wikipedia.org/wiki/Robert_Calcagno",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
     }
   ],
   "recentItems": []

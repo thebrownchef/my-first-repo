@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "id": "UCaXxanOHeArdOMmhNaXE67Q",
+  "title": "Netcompany INEOS",
+  "thumb": "https://yt3.ggpht.com/xyuW4ZIXGDMtysFmnJM6XzAU_IuDkOfwSfLrmdYPdYp12NvkkXEVCZE78IggesXpdCg4NAA0=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.11,
+  "sources": [
+    {
+      "id": "channel:UCnwaU7j34C92ywMHXJahHRA",
+      "type": "channel",
+      "label": "NOW",
+      "url": "https://www.youtube.com/channel/UCnwaU7j34C92ywMHXJahHRA",
+      "firstSeenAt": "2026-10-13T14:08:13.316Z"
+    },
+    {
+      "id": "wiki:Channel Tunnel",
+      "type": "wikipedia",
+      "label": "Channel Tunnel",
+      "url": "https://en.wikipedia.org/wiki/Channel_Tunnel",
+      "firstSeenAt": "2026-11-21T14:36:39.226Z"
+    }
+  ],
+  "recentItems": []
+}

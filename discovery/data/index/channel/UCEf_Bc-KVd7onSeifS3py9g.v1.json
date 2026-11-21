@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCEf_Bc-KVd7onSeifS3py9g",
   "title": "SMTOWN",
   "thumb": "https://yt3.ggpht.com/42gxi39XmaHVEYxeuzdXitmJ_ig7QGPHczWLt2oPLG0g7AzuIWnNhYzSBXxAaQmPiVSM7Fi6=s88-c-k-c0x00ffffff-no-rj",
-  "score": 49,
-  "distinctSourceCount": 49,
+  "score": 50,
+  "distinctSourceCount": 50,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -351,6 +351,13 @@
       "label": "Holler (EP)",
       "url": "https://en.wikipedia.org/wiki/Holler_(EP)",
       "firstSeenAt": "2026-11-20T15:23:46.018Z"
+    },
+    {
+      "id": "wiki:Shine (J-Min EP)",
+      "type": "wikipedia",
+      "label": "Shine (J-Min EP)",
+      "url": "https://en.wikipedia.org/wiki/Shine_(J-Min_EP)",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": [

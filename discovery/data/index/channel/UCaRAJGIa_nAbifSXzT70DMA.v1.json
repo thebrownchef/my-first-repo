@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCaRAJGIa_nAbifSXzT70DMA",
   "title": "REDVEVO",
   "thumb": "https://yt3.ggpht.com/xiRSklS7Fca96gFsu9rh6t9sefROk5R7SNb2bdsDEiDWZw8Y195AxtScNivNO5xMqTf-zXDm=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "thebandred",
       "url": "https://www.youtube.com/channel/UCAHPhykku172s6dUnSs0fAQ",
       "firstSeenAt": "2026-11-06T14:13:26.823Z"
+    },
+    {
+      "id": "wiki:Molly C. Quinn",
+      "type": "wikipedia",
+      "label": "Molly C. Quinn",
+      "url": "https://en.wikipedia.org/wiki/Molly_C._Quinn",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
     }
   ],
   "recentItems": []

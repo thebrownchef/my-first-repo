@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCv9Z8nhjtaiWykNYQFNrL4g",
   "title": "The Voice Kids Philippines",
   "thumb": "https://yt3.ggpht.com/KqEKqDZRym6vr71JMbwWw650HGZHxCwwAbg3_YvOycb12nua8SrxqG5WlLyb1mf8HIss74flPQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.67,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Voice Kids (Philippine TV series) season 1",
       "url": "https://en.wikipedia.org/wiki/The_Voice_Kids_(Philippine_TV_series)_season_1",
       "firstSeenAt": "2026-11-11T14:16:26.259Z"
+    },
+    {
+      "id": "wiki:The Voice of the Philippines",
+      "type": "wikipedia",
+      "label": "The Voice of the Philippines",
+      "url": "https://en.wikipedia.org/wiki/The_Voice_of_the_Philippines",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

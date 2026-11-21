@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCwCGWxVCEu7qI98HNUTo-Fw",
   "title": "Wanda Kaluza",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kl9dZYGUOzMOygYvr4y75JEHxn239H8_vMiJEGFkE2dbPN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Henry G. Morse",
       "url": "https://en.wikipedia.org/wiki/Henry_G._Morse",
       "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Kuerner Farm",
+      "type": "wikipedia",
+      "label": "Kuerner Farm",
+      "url": "https://en.wikipedia.org/wiki/Kuerner_Farm",
+      "firstSeenAt": "2026-11-21T14:36:42.574Z"
+    },
+    {
+      "id": "wiki:Charlestown Village Historic District",
+      "type": "wikipedia",
+      "label": "Charlestown Village Historic District",
+      "url": "https://en.wikipedia.org/wiki/Charlestown_Village_Historic_District",
+      "firstSeenAt": "2026-11-21T14:36:45.629Z"
     }
   ],
   "recentItems": []

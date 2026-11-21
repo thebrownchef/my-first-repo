@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UCEGVZ50kxeQrgbZ9CBTPXcg",
   "title": "Tokio Hotel",
   "thumb": "https://yt3.ggpht.com/Zay0PIcWJrln0-wwYpasceeuJazAqOb9fLz4MufldOvGnG5iKjpAARRQNMfPizpAKgcIWldigA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Kings of Suburbia",
       "url": "https://en.wikipedia.org/wiki/Kings_of_Suburbia",
       "firstSeenAt": "2026-11-20T15:23:41.390Z"
+    },
+    {
+      "id": "wiki:Love Who Loves You Back",
+      "type": "wikipedia",
+      "label": "Love Who Loves You Back",
+      "url": "https://en.wikipedia.org/wiki/Love_Who_Loves_You_Back",
+      "firstSeenAt": "2026-11-21T14:36:42.573Z"
     }
   ],
   "recentItems": []

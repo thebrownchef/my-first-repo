@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T15:25:13.523Z",
+  "generatedAt": "2026-11-21T14:38:25.871Z",
   "id": "UC4AEe6f1PRFmDEaJWhgb0Mw",
   "title": "MaryLambertVEVO",
   "thumb": "https://yt3.ggpht.com/KRTA_QB3UCud12XQ_He2rDhbX7lono9kK4_KFSNicWFPtsK9baINkqGhSQ1RfA_RpODqoAQxZg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Mary Lambert",
       "url": "https://www.youtube.com/channel/UCm1uXHPKFGBPJZuMB8gzj4w",
       "firstSeenAt": "2026-11-08T13:19:30.100Z"
+    },
+    {
+      "id": "wiki:Same Love",
+      "type": "wikipedia",
+      "label": "Same Love",
+      "url": "https://en.wikipedia.org/wiki/Same_Love",
+      "firstSeenAt": "2026-11-21T14:36:45.628Z"
     }
   ],
   "recentItems": []

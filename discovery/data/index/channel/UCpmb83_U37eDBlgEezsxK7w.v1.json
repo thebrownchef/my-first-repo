@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "id": "UCpmb83_U37eDBlgEezsxK7w",
+  "title": "WBAL-TV 11 Baltimore",
+  "thumb": "https://yt3.ggpht.com/ZO8MmMKDigqkfSDTjIVbwC96kpeOOcwq13t0ufy3vUxI9m3XnOrEbnkTmKd3opZWPId4itDghQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 8.45,
+  "sources": [
+    {
+      "id": "wiki:Harborplace",
+      "type": "wikipedia",
+      "label": "Harborplace",
+      "url": "https://en.wikipedia.org/wiki/Harborplace",
+      "firstSeenAt": "2026-09-05T10:32:37.097Z"
+    },
+    {
+      "id": "wiki:Wayne Gilchrest",
+      "type": "wikipedia",
+      "label": "Wayne Gilchrest",
+      "url": "https://en.wikipedia.org/wiki/Wayne_Gilchrest",
+      "firstSeenAt": "2026-11-21T14:36:39.226Z"
+    }
+  ],
+  "recentItems": []
+}
