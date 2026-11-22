@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "id": "UCt-WqkTyKK1_70U4bb4k4lQ",
+  "title": "TomoNews US",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_n_20KlqBhurQM8MkPt6s3J8Alkt8piUgXgQIwjSirlZiw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 3.42,
+  "sources": [
+    {
+      "id": "channel:UC4G3lPPWm6qtoWtRk4vyGwg",
+      "type": "channel",
+      "label": "TomoNews Funnies",
+      "url": "https://www.youtube.com/channel/UC4G3lPPWm6qtoWtRk4vyGwg",
+      "firstSeenAt": "2026-10-14T11:48:30.321Z"
+    },
+    {
+      "id": "wiki:2014 Olsberg mid-air collision",
+      "type": "wikipedia",
+      "label": "2014 Olsberg mid-air collision",
+      "url": "https://en.wikipedia.org/wiki/2014_Olsberg_mid-air_collision",
+      "firstSeenAt": "2026-11-22T14:30:52.630Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC-RcLOfoJrFN8eDGPtVlrPw",
   "title": "Otto Knows",
   "thumb": "https://yt3.ggpht.com/yJ5CljfXGn0OmKHka75X-XKzsFs4VDTYevPfxySNgWv-gcq2VGhULAlibsIcTdH6J4gKAvKS0A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "OttoKnowsVEVO",
       "url": "https://www.youtube.com/channel/UCUJKz48gEbG58nVv6a0BlNA",
       "firstSeenAt": "2026-10-19T13:08:48.112Z"
+    },
+    {
+      "id": "channel:UCWTD3EHR2SWV4D8WplDWFVg",
+      "type": "channel",
+      "label": "LindseyTime",
+      "url": "https://www.youtube.com/channel/UCWTD3EHR2SWV4D8WplDWFVg",
+      "firstSeenAt": "2026-11-22T14:31:05.285Z"
     }
   ],
   "recentItems": []

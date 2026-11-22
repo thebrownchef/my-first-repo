@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCtcEBK496kxrJE1rhOf4I0w",
   "title": "talkingsticktv",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mEbZRFXYoAynTe9ZIaDyFsT6De68d4NuhaLjbDezCRiQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Bait and Switch (book)",
       "url": "https://en.wikipedia.org/wiki/Bait_and_Switch_(book)",
       "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:Jennifer Harbury",
+      "type": "wikipedia",
+      "label": "Jennifer Harbury",
+      "url": "https://en.wikipedia.org/wiki/Jennifer_Harbury",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
     }
   ],
   "recentItems": []

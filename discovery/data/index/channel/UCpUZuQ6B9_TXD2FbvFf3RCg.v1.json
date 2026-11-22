@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCpUZuQ6B9_TXD2FbvFf3RCg",
   "title": "JaRuleVEVO",
   "thumb": "https://yt3.ggpht.com/jGc-sAfr1zEKt5kuBvDBRDJfwVZldpPeIci4TreUDPiRrNPHRil5rqxWUu1YZZcT55g3vh0sIts=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "AkonVEVO",
       "url": "https://www.youtube.com/channel/UCX2v47KsDKqajrEYFV7GbBg",
       "firstSeenAt": "2026-10-06T13:16:42.717Z"
+    },
+    {
+      "id": "channel:UCHR5uCAuIDNbLfPLJcdScZw",
+      "type": "channel",
+      "label": "WillSmithVEVO",
+      "url": "https://www.youtube.com/channel/UCHR5uCAuIDNbLfPLJcdScZw",
+      "firstSeenAt": "2026-11-22T14:31:05.841Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC_NaA2HkWDT6dliWVcvnkuQ",
   "title": "Creators",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m6B2s4Ixg818pRwrip1H3JqfKochbi1ANxOrrZKVSpPVk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Health (band)",
       "url": "https://en.wikipedia.org/wiki/Health_(band)",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Nixie Labs Nixie",
+      "type": "wikipedia",
+      "label": "Nixie Labs Nixie",
+      "url": "https://en.wikipedia.org/wiki/Nixie_Labs_Nixie",
+      "firstSeenAt": "2026-11-22T14:30:47.694Z"
     }
   ],
   "recentItems": []

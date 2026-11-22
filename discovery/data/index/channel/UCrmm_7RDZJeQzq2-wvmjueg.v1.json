@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCrmm_7RDZJeQzq2-wvmjueg",
   "title": "The Real News Network",
   "thumb": "https://yt3.ggpht.com/XykdDAUjGrcoHl_O8I2UX3uZeqgMbtwiotCG28xS1qZp57WOBdavgQIEBhzDKmeFqlyH0qoR5Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 2.1,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Jane D'Arista",
       "url": "https://en.wikipedia.org/wiki/Jane_D'Arista",
       "firstSeenAt": "2026-11-19T15:41:29.093Z"
+    },
+    {
+      "id": "wiki:Fatah–Hamas reconciliation process",
+      "type": "wikipedia",
+      "label": "Fatah–Hamas reconciliation process",
+      "url": "https://en.wikipedia.org/wiki/Fatah%E2%80%93Hamas_reconciliation_process",
+      "firstSeenAt": "2026-11-22T14:30:47.693Z"
+    },
+    {
+      "id": "wiki:Miguel Tinker Salas",
+      "type": "wikipedia",
+      "label": "Miguel Tinker Salas",
+      "url": "https://en.wikipedia.org/wiki/Miguel_Tinker_Salas",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

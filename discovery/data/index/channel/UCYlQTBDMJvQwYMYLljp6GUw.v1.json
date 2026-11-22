@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCYlQTBDMJvQwYMYLljp6GUw",
   "title": "guysebastianVEVO",
   "thumb": "https://yt3.ggpht.com/z8khux6zoAtDa1staq_svZzNlW7_49OhgnODwCQpHYX1rxMw43mJWHmvmoRYfLao2GEqWgZYKA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Like a Drum",
       "url": "https://en.wikipedia.org/wiki/Like_a_Drum",
       "firstSeenAt": "2026-11-13T14:31:13.886Z"
+    },
+    {
+      "id": "wiki:Come Home with Me (song)",
+      "type": "wikipedia",
+      "label": "Come Home with Me (song)",
+      "url": "https://en.wikipedia.org/wiki/Come_Home_with_Me_(song)",
+      "firstSeenAt": "2026-11-22T14:30:47.693Z"
     }
   ],
   "recentItems": []

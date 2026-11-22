@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCAptZHV2-xkB4GJGgSKRsHQ",
   "title": "Новий канал",
   "thumb": "https://yt3.ggpht.com/gCI0GLBdYRBu3SlNbCt1Zj4H7x6zzMTCHMHliE5Pvc0bjfegkCCccZDdC-7lcux0QWbSWVXCeQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 2.74,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Серіал Молода",
       "url": "https://www.youtube.com/channel/UC3hkHhT_K-YfQlBtzzpUUCw",
       "firstSeenAt": "2026-09-27T11:59:24.227Z"
+    },
+    {
+      "id": "channel:UCZXAXIq6outllOHv0KP8PVA",
+      "type": "channel",
+      "label": "Star LightMedia",
+      "url": "https://www.youtube.com/channel/UCZXAXIq6outllOHv0KP8PVA",
+      "firstSeenAt": "2026-11-22T14:31:12.850Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCyO8Tsjtx_cIHJnCtDzB-bQ",
   "title": "dougmilesmedia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nQF20JMhFfs8LjhBYpQZPASfa6o6HFYxNXohs_G5jNlQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.59,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Marty Appel",
       "url": "https://en.wikipedia.org/wiki/Marty_Appel",
       "firstSeenAt": "2026-11-20T15:23:46.018Z"
+    },
+    {
+      "id": "wiki:Louise DuArt",
+      "type": "wikipedia",
+      "label": "Louise DuArt",
+      "url": "https://en.wikipedia.org/wiki/Louise_DuArt",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

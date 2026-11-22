@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCtbHZdM_9O-BcXOwLRkqMiw",
   "title": "Super100MPH",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kaZxSe5g9gWqYWSgOfQfpEcQYnDTh9fHA1y9UEiYmwnEE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "Holden Commodore (VK)",
       "url": "https://en.wikipedia.org/wiki/Holden_Commodore_(VK)",
       "firstSeenAt": "2026-11-20T15:23:43.536Z"
+    },
+    {
+      "id": "wiki:Formula Holden",
+      "type": "wikipedia",
+      "label": "Formula Holden",
+      "url": "https://en.wikipedia.org/wiki/Formula_Holden",
+      "firstSeenAt": "2026-11-22T14:30:47.694Z"
+    },
+    {
+      "id": "wiki:Romano WE84",
+      "type": "wikipedia",
+      "label": "Romano WE84",
+      "url": "https://en.wikipedia.org/wiki/Romano_WE84",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
     }
   ],
   "recentItems": []

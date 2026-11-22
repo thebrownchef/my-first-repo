@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "id": "UCgITW_70LNZFkNna7VsXbuQ",
+  "title": "Peter Hollens",
+  "thumb": "https://yt3.ggpht.com/zFGEf0glIW741lCaZxKzhbutw7dBlemEYIzXsr7LxTr3hKiCU1k4YHgIE4Ug0OKJZyNfDlNr=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.1,
+  "sources": [
+    {
+      "id": "wiki:MatPat",
+      "type": "wikipedia",
+      "label": "MatPat",
+      "url": "https://en.wikipedia.org/wiki/MatPat",
+      "firstSeenAt": "2026-09-01T11:37:15.728Z"
+    },
+    {
+      "id": "channel:UCyC_4jvPzLiSkJkLIkA7B8g",
+      "type": "channel",
+      "label": "Lindsey Stirling",
+      "url": "https://www.youtube.com/channel/UCyC_4jvPzLiSkJkLIkA7B8g",
+      "firstSeenAt": "2026-11-22T14:31:05.048Z"
+    },
+    {
+      "id": "channel:UCWTD3EHR2SWV4D8WplDWFVg",
+      "type": "channel",
+      "label": "LindseyTime",
+      "url": "https://www.youtube.com/channel/UCWTD3EHR2SWV4D8WplDWFVg",
+      "firstSeenAt": "2026-11-22T14:31:05.286Z"
+    }
+  ],
+  "recentItems": []
+}

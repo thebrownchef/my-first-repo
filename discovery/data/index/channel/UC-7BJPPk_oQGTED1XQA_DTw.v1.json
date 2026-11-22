@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC-7BJPPk_oQGTED1XQA_DTw",
   "title": "VevoDSCVR",
   "thumb": "https://yt3.ggpht.com/QptM65ixZFKTd-FtDVK-4MTnOcoOGNxDWGlw33kK9WOxy-adaJk1WFDCVX8ibNd1bf_QcI3D-I4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.3,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "MØ",
       "url": "https://en.wikipedia.org/wiki/M%C3%98",
       "firstSeenAt": "2026-11-17T15:56:40.699Z"
+    },
+    {
+      "id": "channel:UC38ONkGNZ-uNhfNO5mrSJEA",
+      "type": "channel",
+      "label": "IndianaVEVO",
+      "url": "https://www.youtube.com/channel/UC38ONkGNZ-uNhfNO5mrSJEA",
+      "firstSeenAt": "2026-11-22T14:31:05.438Z"
     }
   ],
   "recentItems": []

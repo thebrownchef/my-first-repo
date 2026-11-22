@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCInpAOuv6nqdf6EheU4Wfjg",
   "title": "Lomax Film Collection",
   "thumb": "https://yt3.ggpht.com/yWV0NKxATc1850uL-ODGRcVfNuZrGRAvq4Li6v6wmrJRhCuWPB7XgAiKo8oEOhsExataqtKxEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Sonny Boy Nelson",
       "url": "https://en.wikipedia.org/wiki/Sonny_Boy_Nelson",
       "firstSeenAt": "2026-11-13T14:31:10.978Z"
+    },
+    {
+      "id": "wiki:Sam Chatmon",
+      "type": "wikipedia",
+      "label": "Sam Chatmon",
+      "url": "https://en.wikipedia.org/wiki/Sam_Chatmon",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

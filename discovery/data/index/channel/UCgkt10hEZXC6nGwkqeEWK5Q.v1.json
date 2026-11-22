@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCgkt10hEZXC6nGwkqeEWK5Q",
   "title": "ManicStPreachersVEVO",
   "thumb": "https://yt3.ggpht.com/31eovPsclyoe9PQVXQT3-34d58mq9sdPep99EOff9rHyQ-QF-W33frsh-tOq9XQC5fw2rUd_=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Slash 'n' Burn",
       "url": "https://en.wikipedia.org/wiki/Slash_'n'_Burn",
       "firstSeenAt": "2026-11-12T15:08:34.646Z"
+    },
+    {
+      "id": "wiki:Futurology (song)",
+      "type": "wikipedia",
+      "label": "Futurology (song)",
+      "url": "https://en.wikipedia.org/wiki/Futurology_(song)",
+      "firstSeenAt": "2026-11-22T14:30:52.630Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC3YkTEfdIffkutoI5zn146Q",
   "title": "Najieke",
   "thumb": "https://yt3.ggpht.com/GUWA2Jh6FJyUtzFlrsINiGB7pDwUJGJjDc6Ejh-IvRUheljgFviZHlNRof0Nhb2ypDWYOx2kDUk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Qurban Qurbanov",
       "url": "https://en.wikipedia.org/wiki/Qurban_Qurbanov",
       "firstSeenAt": "2026-11-20T15:23:41.390Z"
+    },
+    {
+      "id": "wiki:Ramil Sheydayev",
+      "type": "wikipedia",
+      "label": "Ramil Sheydayev",
+      "url": "https://en.wikipedia.org/wiki/Ramil_Sheydayev",
+      "firstSeenAt": "2026-11-22T14:30:52.630Z"
     }
   ],
   "recentItems": []

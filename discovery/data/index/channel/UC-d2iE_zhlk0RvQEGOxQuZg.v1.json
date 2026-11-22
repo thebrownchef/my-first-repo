@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC-d2iE_zhlk0RvQEGOxQuZg",
   "title": "Front Line Defenders",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nBeqIGPevX7zp8lmnUKaDu-yy8tzmHNI9081EEDew-pe0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Mahdi Abu Deeb",
       "url": "https://en.wikipedia.org/wiki/Mahdi_Abu_Deeb",
       "firstSeenAt": "2026-10-22T11:47:47.034Z"
+    },
+    {
+      "id": "wiki:Yara Sallam",
+      "type": "wikipedia",
+      "label": "Yara Sallam",
+      "url": "https://en.wikipedia.org/wiki/Yara_Sallam",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
     }
   ],
   "recentItems": []

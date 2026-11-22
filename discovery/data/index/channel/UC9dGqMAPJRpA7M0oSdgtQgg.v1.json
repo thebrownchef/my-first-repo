@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC9dGqMAPJRpA7M0oSdgtQgg",
   "title": "BFI",
   "thumb": "https://yt3.ggpht.com/sR4iA5E1w0QjB_N9WIeynH7hGTStl2mgPxkTEVJhGANXr96ZEex02658pMagMRKV6kFG0LLq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "BFITrailers",
       "url": "https://www.youtube.com/channel/UCeNI1r79dB2jWzUAkAQScmA",
       "firstSeenAt": "2026-11-16T15:40:23.010Z"
+    },
+    {
+      "id": "channel:UCSI0StWcKt8hhCQFHTaWnQQ",
+      "type": "channel",
+      "label": "Red Carpet News TV",
+      "url": "https://www.youtube.com/channel/UCSI0StWcKt8hhCQFHTaWnQQ",
+      "firstSeenAt": "2026-11-22T14:31:08.649Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCWTD3EHR2SWV4D8WplDWFVg",
   "title": "LindseyTime",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lr4L4mmAHc6l5s8ldFZR5rX-ZzCKKHPj33iO1fPNu1wQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Shatter Me (song)",
       "url": "https://en.wikipedia.org/wiki/Shatter_Me_(song)",
       "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "channel:UCyC_4jvPzLiSkJkLIkA7B8g",
+      "type": "channel",
+      "label": "Lindsey Stirling",
+      "url": "https://www.youtube.com/channel/UCyC_4jvPzLiSkJkLIkA7B8g",
+      "firstSeenAt": "2026-11-22T14:31:05.045Z"
     }
   ],
   "recentItems": []

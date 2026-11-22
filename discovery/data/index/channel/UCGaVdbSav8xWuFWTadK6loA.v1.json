@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCGaVdbSav8xWuFWTadK6loA",
   "title": "vlogbrothers",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kRgkKL2CrQ4Ix8eIcTVlL7kQtdiePYEmYeCHq126dk4TE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -113,6 +113,20 @@
       "label": "Esther Earl",
       "url": "https://en.wikipedia.org/wiki/Esther_Earl",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Green brothers",
+      "type": "wikipedia",
+      "label": "Green brothers",
+      "url": "https://en.wikipedia.org/wiki/Green_brothers",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
+    },
+    {
+      "id": "wiki:Rosianna Halse Rojas",
+      "type": "wikipedia",
+      "label": "Rosianna Halse Rojas",
+      "url": "https://en.wikipedia.org/wiki/Rosianna_Halse_Rojas",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
     }
   ],
   "recentItems": []

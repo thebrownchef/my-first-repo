@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCbD8EppRX3ZwJSou-TVo90A",
   "title": "Mnet K-POP",
   "thumb": "https://yt3.ggpht.com/xPBuFrafbL_6Opr8UVDVKinGSQRqv1432LMo-7tRojZpdOd7N3hLeCegoQPX45iKEvQnnIrx=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 6.33,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Monochrome (Lee Hyori album)",
       "url": "https://en.wikipedia.org/wiki/Monochrome_(Lee_Hyori_album)",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Quiet Night (album)",
+      "type": "wikipedia",
+      "label": "Quiet Night (album)",
+      "url": "https://en.wikipedia.org/wiki/Quiet_Night_(album)",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

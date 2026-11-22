@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCaBf1a-dpIsw8OxqH4ki2Kg",
   "title": "Geek & Sundry",
   "thumb": "https://yt3.ggpht.com/zi7GbYQvBWcaaIZSBtY7ns4KHXz-Twukt8q9kMkFWGJJAcbSiG0f6LuWKFnSFPF3IJHO_oES=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Josh Barnett",
       "url": "https://en.wikipedia.org/wiki/Josh_Barnett",
       "firstSeenAt": "2026-11-19T15:41:25.823Z"
+    },
+    {
+      "id": "wiki:The Morganville Vampires",
+      "type": "wikipedia",
+      "label": "The Morganville Vampires",
+      "url": "https://en.wikipedia.org/wiki/The_Morganville_Vampires",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

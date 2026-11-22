@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCkyfHZ6bY2TjqbJhiH8Y2QQ",
   "title": "thebrainscoop",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mFIQuAdRC1XELIf_H_v5Yv5fI1un_1Nhz-IHb3cLtgCEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
-  "hop": 1,
+  "score": 4,
+  "distinctSourceCount": 4,
+  "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
     {
@@ -29,6 +29,13 @@
       "label": "minutephysics",
       "url": "https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg",
       "firstSeenAt": "2026-10-01T13:10:03.067Z"
+    },
+    {
+      "id": "wiki:Emily Graslie",
+      "type": "wikipedia",
+      "label": "Emily Graslie",
+      "url": "https://en.wikipedia.org/wiki/Emily_Graslie",
+      "firstSeenAt": "2026-11-22T14:30:46.608Z"
     }
   ],
   "recentItems": []

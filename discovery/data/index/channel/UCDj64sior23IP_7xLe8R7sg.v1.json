@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCDj64sior23IP_7xLe8R7sg",
   "title": "Warner Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZBzZYd9fOiSvmo-S9qShR6u9twUMIkWm23FAtuUlTz2M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Stevie Nicks",
       "url": "https://www.youtube.com/channel/UCNk73lPOgAB_rRmUXDfp0Vw",
       "firstSeenAt": "2026-11-05T14:35:51.250Z"
+    },
+    {
+      "id": "wiki:Better Than Me (Terry Dexter song)",
+      "type": "wikipedia",
+      "label": "Better Than Me (Terry Dexter song)",
+      "url": "https://en.wikipedia.org/wiki/Better_Than_Me_(Terry_Dexter_song)",
+      "firstSeenAt": "2026-11-22T14:30:47.693Z"
     }
   ],
   "recentItems": []

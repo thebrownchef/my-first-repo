@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCjvZB8bh7MtsVFS7m-pEzuw",
   "title": "Sony Music Entertainment Indonesia",
   "thumb": "https://yt3.ggpht.com/YqHMVMKIUNAIc5wjRbbahH4nFehsKYvyc6LgqMREqUc768d-vqoIJAJeyLD2Ug-Hza35hLYYUeg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.85,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Cahaya Di Langit Itu",
       "url": "https://en.wikipedia.org/wiki/Cahaya_Di_Langit_Itu",
       "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Jangan Kau Bohong",
+      "type": "wikipedia",
+      "label": "Jangan Kau Bohong",
+      "url": "https://en.wikipedia.org/wiki/Jangan_Kau_Bohong",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCMAQTBPIm_0zRgTQVjS2NIA",
   "title": "jameskalm",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lIUJnZk09YfRinb1Lk17H5TvkgTf3vx9gwoxrBtgqI3g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "David Reed (artist)",
       "url": "https://en.wikipedia.org/wiki/David_Reed_(artist)",
       "firstSeenAt": "2026-11-19T15:41:29.094Z"
+    },
+    {
+      "id": "wiki:Loren Munk",
+      "type": "wikipedia",
+      "label": "Loren Munk",
+      "url": "https://en.wikipedia.org/wiki/Loren_Munk",
+      "firstSeenAt": "2026-11-22T14:30:50.225Z"
     }
   ],
   "recentItems": []

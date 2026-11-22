@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCrIIH7yHQugaUuoTZDoEUuQ",
   "title": "Tanya Burr",
   "thumb": "https://yt3.ggpht.com/5KKtvBJx4OObHQ0NmMGP-rLW0FKVnJ9qRq3Dja7-a2qGbm-yillAL79J1TUwTE6HeHRNwX0rLQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "PixiwooMadness",
       "url": "https://www.youtube.com/channel/UCn5_uZMdtmyCQl560TinbKQ",
       "firstSeenAt": "2026-10-09T13:13:33.818Z"
+    },
+    {
+      "id": "channel:UCSI0StWcKt8hhCQFHTaWnQQ",
+      "type": "channel",
+      "label": "Red Carpet News TV",
+      "url": "https://www.youtube.com/channel/UCSI0StWcKt8hhCQFHTaWnQQ",
+      "firstSeenAt": "2026-11-22T14:31:08.651Z"
     }
   ],
   "recentItems": []

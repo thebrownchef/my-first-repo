@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "id": "UCVQIByEKoy3UVOUXOWMC8iA",
+  "title": "Leeds Rhinos",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kB3M7dqMhtcDQDuGOx0PxMPHWJjo1r1lHciQ7lYzAJbW4=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 1.33,
+  "sources": [
+    {
+      "id": "wiki:Festive Challenge",
+      "type": "wikipedia",
+      "label": "Festive Challenge",
+      "url": "https://en.wikipedia.org/wiki/Festive_Challenge",
+      "firstSeenAt": "2026-09-01T11:37:15.727Z"
+    },
+    {
+      "id": "channel:UCDoKbw7Np8oheT6XCtjPf2A",
+      "type": "channel",
+      "label": "Super League",
+      "url": "https://www.youtube.com/channel/UCDoKbw7Np8oheT6XCtjPf2A",
+      "firstSeenAt": "2026-11-22T14:31:04.641Z"
+    }
+  ],
+  "recentItems": []
+}

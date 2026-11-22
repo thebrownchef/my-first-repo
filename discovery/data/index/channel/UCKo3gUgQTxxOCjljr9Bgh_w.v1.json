@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCKo3gUgQTxxOCjljr9Bgh_w",
   "title": "Brett Domino",
   "thumb": "https://yt3.ggpht.com/utXkDOWhPvlHx03vg5hesF4SMAlpFrUQJTYlA4aUujD2vkr5wX9FSns-qwn8dTUEVYoeWSx8Xg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Rob J Madin",
       "url": "https://www.youtube.com/channel/UC0S6Za-SRzLwhB7K3VYIkMg",
       "firstSeenAt": "2026-09-29T12:49:35.232Z"
+    },
+    {
+      "id": "channel:UCSI0StWcKt8hhCQFHTaWnQQ",
+      "type": "channel",
+      "label": "Red Carpet News TV",
+      "url": "https://www.youtube.com/channel/UCSI0StWcKt8hhCQFHTaWnQQ",
+      "firstSeenAt": "2026-11-22T14:31:08.650Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCtzK8e1SQZ2YntwF80ORJ9Q",
   "title": "GM",
   "thumb": "https://yt3.ggpht.com/aOWuVsl3x7UAzfEDKSq9oRnBv30RRAda0LVfz1-gUifnb8GydL4jVUhSbE2YN7xhCFx51kIdFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Geoffrey R. Stone",
       "url": "https://en.wikipedia.org/wiki/Geoffrey_R._Stone",
       "firstSeenAt": "2026-11-20T15:23:41.388Z"
+    },
+    {
+      "id": "wiki:Luis J. Rodriguez",
+      "type": "wikipedia",
+      "label": "Luis J. Rodriguez",
+      "url": "https://en.wikipedia.org/wiki/Luis_J._Rodriguez",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

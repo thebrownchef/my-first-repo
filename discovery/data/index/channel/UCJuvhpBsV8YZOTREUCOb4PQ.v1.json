@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
   "title": "underyourskin",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Pablo Moses",
       "url": "https://en.wikipedia.org/wiki/Pablo_Moses",
       "firstSeenAt": "2026-11-20T15:23:46.018Z"
+    },
+    {
+      "id": "wiki:Kahil El'Zabar",
+      "type": "wikipedia",
+      "label": "Kahil El'Zabar",
+      "url": "https://en.wikipedia.org/wiki/Kahil_El'Zabar",
+      "firstSeenAt": "2026-11-22T14:30:49.888Z"
     }
   ],
   "recentItems": []

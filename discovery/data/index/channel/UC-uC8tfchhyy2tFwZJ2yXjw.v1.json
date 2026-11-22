@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC-uC8tfchhyy2tFwZJ2yXjw",
   "title": "FaceCulture",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n3xLUMOqj2oSjB09S1c59M5tMT5VTQUIuwc6nO4qlTMw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 2.16,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Alice in Chains",
       "url": "https://en.wikipedia.org/wiki/Alice_in_Chains",
       "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:Marc Johnson (jazz musician)",
+      "type": "wikipedia",
+      "label": "Marc Johnson (jazz musician)",
+      "url": "https://en.wikipedia.org/wiki/Marc_Johnson_(jazz_musician)",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCYYSLCzDmmED5hnYcFmKimA",
   "title": "Ottawa Citizen",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ngpMcnMhZ0ROMyeHgjS7lqlGPpbDduUXSqIzvR_YKxpvA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.83,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "National Post",
       "url": "https://www.youtube.com/channel/UC5Vzc-I--guzURose4X6lKQ",
       "firstSeenAt": "2026-10-30T12:50:41.137Z"
+    },
+    {
+      "id": "wiki:Kevin S. MacLeod",
+      "type": "wikipedia",
+      "label": "Kevin S. MacLeod",
+      "url": "https://en.wikipedia.org/wiki/Kevin_S._MacLeod",
+      "firstSeenAt": "2026-11-22T14:30:49.888Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCS_hnpJLQTvBkqALgapi_4g",
   "title": "SBSKPOP X INKIGAYO",
   "thumb": "https://yt3.ggpht.com/GqzNZfMlBCgXYpAA74wuCs9HTEJ7ePtImt6QpXwk2qt6LJEIrZ8hEdPHeLPusnCCqoEGJb1pEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 7.44,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Modern Times (IU album)",
       "url": "https://en.wikipedia.org/wiki/Modern_Times_(IU_album)",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Home (Roy Kim album)",
+      "type": "wikipedia",
+      "label": "Home (Roy Kim album)",
+      "url": "https://en.wikipedia.org/wiki/Home_(Roy_Kim_album)",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
     }
   ],
   "recentItems": []

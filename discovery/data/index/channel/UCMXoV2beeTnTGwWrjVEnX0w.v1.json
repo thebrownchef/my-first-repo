@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCMXoV2beeTnTGwWrjVEnX0w",
   "title": "Kesslers Knigge",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lxavpCLUwI-N1EWCqwEeJg1xlmQmfDwOx7xBZPmhPg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
-  "hop": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
     {
@@ -22,6 +22,13 @@
       "label": "taff",
       "url": "https://www.youtube.com/channel/UCZX_5XCRE_dZ_4tNXOEYtog",
       "firstSeenAt": "2026-09-26T11:21:44.797Z"
+    },
+    {
+      "id": "wiki:Kesslers Knigge",
+      "type": "wikipedia",
+      "label": "Kesslers Knigge",
+      "url": "https://en.wikipedia.org/wiki/Kesslers_Knigge",
+      "firstSeenAt": "2026-11-22T14:30:51.028Z"
     }
   ],
   "recentItems": []

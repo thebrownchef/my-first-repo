@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCtIQil-e9wzT_fxySy1y3nw",
   "title": "Harold Channer",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mN5O1wu72LNB-kKZZLV9tcAtvpxum9EM_d5vH6rpgVEg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Stephen Holmes (political scientist)",
       "url": "https://en.wikipedia.org/wiki/Stephen_Holmes_(political_scientist)",
       "firstSeenAt": "2026-11-21T14:36:39.225Z"
+    },
+    {
+      "id": "wiki:Jeff B. Harmon",
+      "type": "wikipedia",
+      "label": "Jeff B. Harmon",
+      "url": "https://en.wikipedia.org/wiki/Jeff_B._Harmon",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
+    },
+    {
+      "id": "wiki:Mayer Schiller",
+      "type": "wikipedia",
+      "label": "Mayer Schiller",
+      "url": "https://en.wikipedia.org/wiki/Mayer_Schiller",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

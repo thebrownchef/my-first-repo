@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCmUpllWyvJ2eNCbZcNBJb4Q",
   "title": "TIFF",
   "thumb": "https://yt3.ggpht.com/DX1TLy3OPq1kAWkc3HvNhz7WYFh31DviuVmooafonKUImUfAjPRRMnB4h_Gsg8GM2QvyBQ54NQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 1.11,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Chris A. Cummings",
       "url": "https://en.wikipedia.org/wiki/Chris_A._Cummings",
       "firstSeenAt": "2026-11-21T14:36:42.573Z"
+    },
+    {
+      "id": "wiki:Ira Deutchman",
+      "type": "wikipedia",
+      "label": "Ira Deutchman",
+      "url": "https://en.wikipedia.org/wiki/Ira_Deutchman",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
     }
   ],
   "recentItems": []

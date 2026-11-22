@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCwWWbo90m_RsbjmrBCccvJQ",
   "title": "Decca Classics",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mrPKz9Xx7YqWyk0R1qJXHW9tzxjBBLSkiTsyJybr8vTg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Pumeza Matshikiza",
       "url": "https://en.wikipedia.org/wiki/Pumeza_Matshikiza",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Barenboim–Said Akademie",
+      "type": "wikipedia",
+      "label": "Barenboim–Said Akademie",
+      "url": "https://en.wikipedia.org/wiki/Barenboim%E2%80%93Said_Akademie",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

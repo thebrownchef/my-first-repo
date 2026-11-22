@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
   "title": "Bloomberg Originals",
   "thumb": "https://yt3.ggpht.com/8sL0eqOeU4a1wZBVxn5NOFsug17I2XM0dmCdT7eouq12qE-I-JLCzrzub9Z4SdF0IEt5AzEY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 6.57,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Miss America 2014",
       "url": "https://en.wikipedia.org/wiki/Miss_America_2014",
       "firstSeenAt": "2026-11-15T13:53:31.354Z"
+    },
+    {
+      "id": "wiki:James L. McGregor",
+      "type": "wikipedia",
+      "label": "James L. McGregor",
+      "url": "https://en.wikipedia.org/wiki/James_L._McGregor",
+      "firstSeenAt": "2026-11-22T14:30:49.887Z"
     }
   ],
   "recentItems": []

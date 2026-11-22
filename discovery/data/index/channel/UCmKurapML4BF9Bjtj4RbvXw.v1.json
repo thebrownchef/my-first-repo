@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCmKurapML4BF9Bjtj4RbvXw",
   "title": "The Piano Guys",
   "thumb": "https://yt3.ggpht.com/mM0LoOjNN1lG4U-_NpaDamH29zrL3OGmLurzfsi-Eg3TwsAnAPE-QQVIxn4IoDsd0omuIONZ_A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "elpidacki",
       "url": "https://www.youtube.com/channel/UCPBi4xMbu185_2tf68h2_gg",
       "firstSeenAt": "2026-11-19T15:41:53.419Z"
+    },
+    {
+      "id": "channel:UCyC_4jvPzLiSkJkLIkA7B8g",
+      "type": "channel",
+      "label": "Lindsey Stirling",
+      "url": "https://www.youtube.com/channel/UCyC_4jvPzLiSkJkLIkA7B8g",
+      "firstSeenAt": "2026-11-22T14:31:05.047Z"
+    },
+    {
+      "id": "channel:UCVw28wsZzjZkW240cKQ1nUw",
+      "type": "channel",
+      "label": "Rainer Hersch Fan Channel",
+      "url": "https://www.youtube.com/channel/UCVw28wsZzjZkW240cKQ1nUw",
+      "firstSeenAt": "2026-11-22T14:31:15.754Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC7SYsaZNNprwAJ_zi02rf_A",
   "title": "Empire Magazine",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m60IJroyPU3LBsInnz2P-Qwqpr8zJuDgEEXV5GF3w9XN0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "Danny Boyle",
       "url": "https://en.wikipedia.org/wiki/Danny_Boyle",
       "firstSeenAt": "2026-11-02T15:44:49.636Z"
+    },
+    {
+      "id": "wiki:Empire Award for The Art of 3D",
+      "type": "wikipedia",
+      "label": "Empire Award for The Art of 3D",
+      "url": "https://en.wikipedia.org/wiki/Empire_Award_for_The_Art_of_3D",
+      "firstSeenAt": "2026-11-22T14:30:47.693Z"
+    },
+    {
+      "id": "wiki:Empire Award for Best Soundtrack",
+      "type": "wikipedia",
+      "label": "Empire Award for Best Soundtrack",
+      "url": "https://en.wikipedia.org/wiki/Empire_Award_for_Best_Soundtrack",
+      "firstSeenAt": "2026-11-22T14:30:47.693Z"
     }
   ],
   "recentItems": []

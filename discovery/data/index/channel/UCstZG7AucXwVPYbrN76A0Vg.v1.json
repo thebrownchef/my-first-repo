@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCstZG7AucXwVPYbrN76A0Vg",
   "title": "Mystic Production TV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nuBsU4kbkxtr61YTmHmXYjs7-Kmosrk3ESj6XtoCxfQaQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Natalia Przybysz",
       "url": "https://en.wikipedia.org/wiki/Natalia_Przybysz",
       "firstSeenAt": "2026-11-21T14:36:42.574Z"
+    },
+    {
+      "id": "wiki:Akurat",
+      "type": "wikipedia",
+      "label": "Akurat",
+      "url": "https://en.wikipedia.org/wiki/Akurat",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

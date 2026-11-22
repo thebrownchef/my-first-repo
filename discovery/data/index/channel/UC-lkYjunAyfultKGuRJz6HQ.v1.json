@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC-lkYjunAyfultKGuRJz6HQ",
   "title": "Junior Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/S1ttDbpCpAAu05Ksxd6rxz8TsxfMkTQrd1t8AoFloPwJV7XWFzxL1qs9GzaDoLGaicV2fW6v=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "Mylène and Rosanne",
       "url": "https://en.wikipedia.org/wiki/Myl%C3%A8ne_and_Rosanne",
       "firstSeenAt": "2026-11-21T14:36:42.573Z"
+    },
+    {
+      "id": "wiki:Tu primo grande amore",
+      "type": "wikipedia",
+      "label": "Tu primo grande amore",
+      "url": "https://en.wikipedia.org/wiki/Tu_primo_grande_amore",
+      "firstSeenAt": "2026-11-22T14:30:47.693Z"
+    },
+    {
+      "id": "wiki:Krisia Todorova",
+      "type": "wikipedia",
+      "label": "Krisia Todorova",
+      "url": "https://en.wikipedia.org/wiki/Krisia_Todorova",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
+    },
+    {
+      "id": "wiki:Planet of the Children",
+      "type": "wikipedia",
+      "label": "Planet of the Children",
+      "url": "https://en.wikipedia.org/wiki/Planet_of_the_Children",
+      "firstSeenAt": "2026-11-22T14:30:52.629Z"
     }
   ],
   "recentItems": []

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UC_fGtUvYTzYWXVQUwGXleDg",
   "title": "Nathan",
   "thumb": "https://yt3.ggpht.com/_iFYYmZxoTeMx5Ofo6PEW5UOgeeF_OVHFNyPbFHA07PvYMCm3yZKS8SgollPcQ9wV2zIWQXUp-s=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
-  "hop": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
   "uploadsPerDay": 0.14,
   "sources": [
     {
@@ -22,6 +22,13 @@
       "label": "brentalfloss",
       "url": "https://www.youtube.com/channel/UCn0TDqRR4NjwWiAQR9FAd5w",
       "firstSeenAt": "2026-10-12T15:18:38.342Z"
+    },
+    {
+      "id": "wiki:Nathan Barnatt",
+      "type": "wikipedia",
+      "label": "Nathan Barnatt",
+      "url": "https://en.wikipedia.org/wiki/Nathan_Barnatt",
+      "firstSeenAt": "2026-11-22T14:30:45.541Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCyC_4jvPzLiSkJkLIkA7B8g",
   "title": "Lindsey Stirling",
   "thumb": "https://yt3.ggpht.com/9kcFnRounKFKYFzqsbTKWxeOcmf01OzQMxFN-BvAL4YQWwVkgbINlhmc12Zsq_vtk7ww-IMPpA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -29,6 +29,20 @@
       "label": "KIKOchannel",
       "url": "https://www.youtube.com/channel/UC0g5Gih1vwMLDn02lcbtO6w",
       "firstSeenAt": "2026-11-18T15:36:04.961Z"
+    },
+    {
+      "id": "wiki:Shatter Me (album)",
+      "type": "wikipedia",
+      "label": "Shatter Me (album)",
+      "url": "https://en.wikipedia.org/wiki/Shatter_Me_(album)",
+      "firstSeenAt": "2026-11-22T14:30:49.888Z"
+    },
+    {
+      "id": "channel:UCWTD3EHR2SWV4D8WplDWFVg",
+      "type": "channel",
+      "label": "LindseyTime",
+      "url": "https://www.youtube.com/channel/UCWTD3EHR2SWV4D8WplDWFVg",
+      "firstSeenAt": "2026-11-22T14:31:05.284Z"
     }
   ],
   "recentItems": []

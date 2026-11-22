@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T14:38:25.871Z",
+  "generatedAt": "2026-11-22T14:32:03.408Z",
   "id": "UCJk8BhnzYy-KkQ34Q7oZu1Q",
   "title": "LLCoolJVEVO",
   "thumb": "https://yt3.ggpht.com/jmhOIthQbnC1FJFJa_0m8JyLKrxO1D68X0oZQKZ-kaa2wjyjGi4nsGtBZMVM_Ygy-JNIc-35fg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Jingling Baby",
       "url": "https://en.wikipedia.org/wiki/Jingling_Baby",
       "firstSeenAt": "2026-10-26T12:56:37.390Z"
+    },
+    {
+      "id": "channel:UCHR5uCAuIDNbLfPLJcdScZw",
+      "type": "channel",
+      "label": "WillSmithVEVO",
+      "url": "https://www.youtube.com/channel/UCHR5uCAuIDNbLfPLJcdScZw",
+      "firstSeenAt": "2026-11-22T14:31:05.841Z"
     }
   ],
   "recentItems": []
