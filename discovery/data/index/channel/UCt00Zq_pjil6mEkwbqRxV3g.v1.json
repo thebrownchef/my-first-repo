@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCt00Zq_pjil6mEkwbqRxV3g",
   "title": "Roger Griffith",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 100,
-  "distinctSourceCount": 100,
+  "score": 103,
+  "distinctSourceCount": 103,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -708,16 +708,46 @@
       "label": "Rhytisma acerinum",
       "url": "https://en.wikipedia.org/wiki/Rhytisma_acerinum",
       "firstSeenAt": "2026-11-22T14:30:52.630Z"
+    },
+    {
+      "id": "wiki:Marcescence",
+      "type": "wikipedia",
+      "label": "Marcescence",
+      "url": "https://en.wikipedia.org/wiki/Marcescence",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
+    },
+    {
+      "id": "wiki:Dovecote",
+      "type": "wikipedia",
+      "label": "Dovecote",
+      "url": "https://en.wikipedia.org/wiki/Dovecote",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:Clearance cairn",
+      "type": "wikipedia",
+      "label": "Clearance cairn",
+      "url": "https://en.wikipedia.org/wiki/Clearance_cairn",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": [
     {
+      "id": "FPCT86CdcaE",
+      "title": "Natural and Local History Sites in East Ayrshire.  Survey Maps and Notable Species Lists.",
+      "publishedAt": "2026-11-23T16:22:35Z",
+      "durationSec": 364,
+      "thumb": "https://i.ytimg.com/vi/FPCT86CdcaE/mqdefault.jpg",
+      "description": "In the late 1980s, many of the significant wildlife sites in East Ayrshire (Kilmarnock & Loudoun), were surveyed and maps and species lists were produced by volunteers from the Scottish Wildlife Trust. These were lodged with the council and were used to help prevent developments from damaging them where possible. Many of these sites are part of old country estates, reservoirs, etc.  A set of these maps with full species lists are held by the Stewarton and District Museum in Stewarton.",
+      "chapters": []
+    },
+    {
       "id": "poCxCGE6iPY",
-      "title": "Glimpses along the Way   A Train Journey from Stewarton to Stranraer",
+      "title": "Glimpses along the Way.   A Train Journey from Stewarton to Stranraer.",
       "publishedAt": "2026-11-13T13:18:56Z",
       "durationSec": 212,
       "thumb": "https://i.ytimg.com/vi/poCxCGE6iPY/mqdefault.jpg",
-      "description": "The Girvan to Stranraer line is soon to be a 'one engine in steam' line with a single token issued at Girvan signal box. At present passing loops exist at Girvan, Kilkerran, Barrhill, Glenwhilly and Dunragit, with token exchanges at Glenwhilly and Dunragit. Barrhill is staffed with a signal box and the passing loop is in use. The points at Stranraer have been removed and therefore the second platform cannot be accessed and signalling is redundant.",
+      "description": "The Girvan to Stranraer line is soon to be a 'one engine in steam' line with a single token issued at Girvan signal box. At present passing loops exist at Girvan, Kilkerran, Barrhill, Glenwhilly and Dunragit, with token exchanges at Girvan, Glenwhilly and Dunragit. Barrhill is staffed with a signal box and the passing loop is in use. The points and semaphores at Stranraer have been removed and the second platform cannot be accessed and signalling is redundant. The station is owned by the Stena Line.",
       "chapters": []
     },
     {
@@ -808,15 +838,6 @@
       "durationSec": 253,
       "thumb": "https://i.ytimg.com/vi/oISQgzXNro0/mqdefault.jpg",
       "description": "The Lathalmond Railway Museum has been built on the site of the old WWII Royal Navy Stores Depot. The standard gauge line is quite short at the moment. A small station has been built and a signal box. The old loco shed is still in use. Hunslet and Andrew Barclay diesel locomotives are in use.",
-      "chapters": []
-    },
-    {
-      "id": "XEElSPPA-As",
-      "title": "Milliken Park railway station, Ayrshire Coast Line, Johnstone",
-      "publishedAt": "2026-08-09T09:40:34Z",
-      "durationSec": 199,
-      "thumb": "https://i.ytimg.com/vi/XEElSPPA-As/mqdefault.jpg",
-      "description": "Milliken Park is a station dating from 1989 that replaced the old station closed in 1966 that lay slightly closer to Johnstone. The next station\ntowards Ayr is Howwood. Trains call generally every 30 mins. Unusually\nno car park is provided, however a large housing estate is close by. The name 'Cochrane Mill' was first used for the 1840 station, however it\nbecame 'Milliken' in 1853 after the businessman who purchased the land.",
       "chapters": []
     }
   ]

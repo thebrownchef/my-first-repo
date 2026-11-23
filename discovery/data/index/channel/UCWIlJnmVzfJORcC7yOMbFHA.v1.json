@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCWIlJnmVzfJORcC7yOMbFHA",
   "title": "VintageBritishComedy",
   "thumb": "https://yt3.ggpht.com/Bemh8xjmgKtQ9xdcOreNvnLp64JF-wzIxRe23vs31LPmA2W4kuJ5ILROkP9b8Mc2sp823KeJZA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "John Clark (actor)",
       "url": "https://en.wikipedia.org/wiki/John_Clark_(actor)",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Three Little Fishies",
+      "type": "wikipedia",
+      "label": "Three Little Fishies",
+      "url": "https://en.wikipedia.org/wiki/Three_Little_Fishies",
+      "firstSeenAt": "2026-11-23T18:00:33.859Z"
     }
   ],
   "recentItems": []

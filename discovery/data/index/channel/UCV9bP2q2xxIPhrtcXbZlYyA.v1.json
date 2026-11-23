@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCV9bP2q2xxIPhrtcXbZlYyA",
   "title": "Miss America",
   "thumb": "https://yt3.ggpht.com/UvrSJETA6ilMZMqGH2b57oq6J1LtI3Rbww2JBNGc-YIKQaugiAF8KDWtwEczer6JXYGJfa-gep4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Hayley Lewis (model)",
       "url": "https://en.wikipedia.org/wiki/Hayley_Lewis_(model)",
       "firstSeenAt": "2026-11-20T15:23:41.388Z"
+    },
+    {
+      "id": "wiki:Mallory Hagan",
+      "type": "wikipedia",
+      "label": "Mallory Hagan",
+      "url": "https://en.wikipedia.org/wiki/Mallory_Hagan",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
     }
   ],
   "recentItems": []

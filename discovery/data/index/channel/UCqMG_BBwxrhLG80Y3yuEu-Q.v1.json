@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCqMG_BBwxrhLG80Y3yuEu-Q",
   "title": "XOXO Festival",
   "thumb": "https://yt3.ggpht.com/e0n6i0Hog6niaXf7pETYrPyUP5VjuDtIR1rPgvwkuUHiIrpKSzcWN-zClZLAknH0DtLCaGA-=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Kevin Kelly (editor)",
       "url": "https://en.wikipedia.org/wiki/Kevin_Kelly_(editor)",
       "firstSeenAt": "2026-11-21T14:36:42.574Z"
+    },
+    {
+      "id": "wiki:Green brothers",
+      "type": "wikipedia",
+      "label": "Green brothers",
+      "url": "https://en.wikipedia.org/wiki/Green_brothers",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
     }
   ],
   "recentItems": []

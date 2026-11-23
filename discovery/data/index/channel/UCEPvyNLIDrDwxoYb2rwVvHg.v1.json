@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCEPvyNLIDrDwxoYb2rwVvHg",
   "title": "LITT Live",
   "thumb": "https://yt3.ggpht.com/98lHfK51K2miZHJbryILqGm2KxtVQEZ6irVvTIX0EbjDLVXoT0B2sseXk6WNGUKg2j2xR1nmLg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.24,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Love?",
       "url": "https://en.wikipedia.org/wiki/Love%3F",
       "firstSeenAt": "2026-11-01T13:17:27.896Z"
+    },
+    {
+      "id": "wiki:VII (Teyana Taylor album)",
+      "type": "wikipedia",
+      "label": "VII (Teyana Taylor album)",
+      "url": "https://en.wikipedia.org/wiki/VII_(Teyana_Taylor_album)",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

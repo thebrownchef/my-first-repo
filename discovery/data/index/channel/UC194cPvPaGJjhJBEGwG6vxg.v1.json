@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC194cPvPaGJjhJBEGwG6vxg",
   "title": "OK Go",
   "thumb": "https://yt3.ggpht.com/e9anBZ_7WkCj1F2KDGiqN3pwWIt5VCgR58knJmrgtd0XojiV2hgkzvqQ1M3sSwj5JQXOOymM_g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "All Is Not Lost (song)",
       "url": "https://en.wikipedia.org/wiki/All_Is_Not_Lost_(song)",
       "firstSeenAt": "2026-11-14T13:28:02.869Z"
+    },
+    {
+      "id": "wiki:I Won't Let You Down (OK Go song)",
+      "type": "wikipedia",
+      "label": "I Won't Let You Down (OK Go song)",
+      "url": "https://en.wikipedia.org/wiki/I_Won't_Let_You_Down_(OK_Go_song)",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
     }
   ],
   "recentItems": []

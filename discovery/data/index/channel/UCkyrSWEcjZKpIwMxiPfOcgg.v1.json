@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCkyrSWEcjZKpIwMxiPfOcgg",
   "title": "5 канал",
   "thumb": "https://yt3.ggpht.com/nC8MFAojCH-V-1WQ6GqqUxLz7dr8oCKnl4uAAw7z5CNYnuharnQtB2MISBzfxeKs8vZROSk9=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 24.55,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Tetiana Danylenko",
       "url": "https://en.wikipedia.org/wiki/Tetiana_Danylenko",
       "firstSeenAt": "2026-11-21T14:36:39.226Z"
+    },
+    {
+      "id": "wiki:Russian embargo of Ukrainian goods",
+      "type": "wikipedia",
+      "label": "Russian embargo of Ukrainian goods",
+      "url": "https://en.wikipedia.org/wiki/Russian_embargo_of_Ukrainian_goods",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

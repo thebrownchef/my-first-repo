@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCbu2SsF-Or3Rsn3NxqODImw",
   "title": "GameSpot",
   "thumb": "https://yt3.ggpht.com/2q8-YlqtAs3pWHamRcooAOvt_M88afnTwo7DYwqvHV9OSGlf2pBa5h3QJGeHrBkBidUjaL0mpA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 5.66,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Travis Willingham",
       "url": "https://en.wikipedia.org/wiki/Travis_Willingham",
       "firstSeenAt": "2026-11-21T14:36:39.226Z"
+    },
+    {
+      "id": "wiki:Winifred Phillips",
+      "type": "wikipedia",
+      "label": "Winifred Phillips",
+      "url": "https://en.wikipedia.org/wiki/Winifred_Phillips",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

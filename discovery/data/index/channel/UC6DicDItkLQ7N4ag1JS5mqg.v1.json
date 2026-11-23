@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "id": "UC6DicDItkLQ7N4ag1JS5mqg",
+  "title": "Die Antwoord",
+  "thumb": "https://yt3.ggpht.com/7Qy-IHnlz_yV-bwn_b78s2VmCYktyBdJIa47CeRu1QyRHaPtjAMt4OqKFG63HxqX4ikuCATJng=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.03,
+  "sources": [
+    {
+      "id": "wiki:Ten$ion",
+      "type": "wikipedia",
+      "label": "Ten$ion",
+      "url": "https://en.wikipedia.org/wiki/Ten%24ion",
+      "firstSeenAt": "2026-11-04T14:28:02.596Z"
+    },
+    {
+      "id": "wiki:Donker Mag",
+      "type": "wikipedia",
+      "label": "Donker Mag",
+      "url": "https://en.wikipedia.org/wiki/Donker_Mag",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    }
+  ],
+  "recentItems": []
+}

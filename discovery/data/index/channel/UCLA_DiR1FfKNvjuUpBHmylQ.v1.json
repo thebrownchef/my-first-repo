@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
   "title": "NASA",
   "thumb": "https://yt3.ggpht.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.92,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "NASA TV",
       "url": "https://en.wikipedia.org/wiki/NASA_TV",
       "firstSeenAt": "2026-11-19T15:41:23.580Z"
+    },
+    {
+      "id": "wiki:NASA Social",
+      "type": "wikipedia",
+      "label": "NASA Social",
+      "url": "https://en.wikipedia.org/wiki/NASA_Social",
+      "firstSeenAt": "2026-11-23T18:00:33.858Z"
     }
   ],
   "recentItems": []

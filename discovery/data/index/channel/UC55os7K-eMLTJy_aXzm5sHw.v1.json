@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC55os7K-eMLTJy_aXzm5sHw",
   "title": "Film Companion Studios",
   "thumb": "https://yt3.ggpht.com/IqN0BAJtjCeY8lfUHRrU3OavODKaDY2a_zktzwiT6DUmv58mw9j5NfvuM2tOjwI4HE88BRDsKQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.84,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Film Companion South",
       "url": "https://www.youtube.com/channel/UC3F4P3KGQTf35BXKmscDyMg",
       "firstSeenAt": "2026-09-18T11:11:14.521Z"
+    },
+    {
+      "id": "wiki:Katiyabaaz",
+      "type": "wikipedia",
+      "label": "Katiyabaaz",
+      "url": "https://en.wikipedia.org/wiki/Katiyabaaz",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

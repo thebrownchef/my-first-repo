@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCjK8ORC71kwyj1DWFwril_A",
   "title": "SelenaGomezVEVO",
   "thumb": "https://yt3.ggpht.com/SdHhEkdZ78QM2SNYjgSRnJX_F-ulIdb-B001bxuTfzLX7rbfuEeO_GXaynLc2zp-LZQizNEB=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Naturally (Selena Gomez & the Scene song)",
       "url": "https://en.wikipedia.org/wiki/Naturally_(Selena_Gomez_%26_the_Scene_song)",
       "firstSeenAt": "2026-10-05T14:32:40.421Z"
+    },
+    {
+      "id": "wiki:Shiloh Fernandez",
+      "type": "wikipedia",
+      "label": "Shiloh Fernandez",
+      "url": "https://en.wikipedia.org/wiki/Shiloh_Fernandez",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

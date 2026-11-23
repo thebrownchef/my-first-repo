@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCzRBOssI9G6VN6HNP--wGFA",
   "title": "DocsOnline",
   "thumb": "https://yt3.ggpht.com/YxEQdNPxymObpy5jC0CTnnIZbhFEuT-sp368JZDpRYTZjT2JUDHr-NymPzIFKknVgZ-6xlPmQw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Geert Jan Jansen",
       "url": "https://en.wikipedia.org/wiki/Geert_Jan_Jansen",
       "firstSeenAt": "2026-11-19T15:41:22.285Z"
+    },
+    {
+      "id": "wiki:Qigang Chen",
+      "type": "wikipedia",
+      "label": "Qigang Chen",
+      "url": "https://en.wikipedia.org/wiki/Qigang_Chen",
+      "firstSeenAt": "2026-11-23T18:00:27.572Z"
     }
   ],
   "recentItems": []

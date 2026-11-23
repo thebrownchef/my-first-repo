@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCLi6DTUnJdDOUkWu0szfI0g",
   "title": "ScHoolBoyQVEVO",
   "thumb": "https://yt3.ggpht.com/f5mI3Nd4h6ErHbRQAoD86FhJZkjYw2uWw6YQx7nFgvXOb8wvc5Z8ydR0xWWcXHnU_RvUY-JVwCI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Studio (song)",
       "url": "https://en.wikipedia.org/wiki/Studio_(song)",
       "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    },
+    {
+      "id": "wiki:Hell of a Night (Schoolboy Q song)",
+      "type": "wikipedia",
+      "label": "Hell of a Night (Schoolboy Q song)",
+      "url": "https://en.wikipedia.org/wiki/Hell_of_a_Night_(Schoolboy_Q_song)",
+      "firstSeenAt": "2026-11-23T18:00:33.858Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
   "title": "TED",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_koIFcCOrvh0KThLNOiazAIDu6hcs8bjkGNwe1f6A_OYm8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 26,
-  "distinctSourceCount": 26,
+  "score": 30,
+  "distinctSourceCount": 30,
   "hop": 0,
   "uploadsPerDay": 0.81,
   "sources": [
@@ -190,6 +190,34 @@
       "label": "Kevin Bales",
       "url": "https://en.wikipedia.org/wiki/Kevin_Bales",
       "firstSeenAt": "2026-11-22T14:30:49.888Z"
+    },
+    {
+      "id": "wiki:Permission marketing",
+      "type": "wikipedia",
+      "label": "Permission marketing",
+      "url": "https://en.wikipedia.org/wiki/Permission_marketing",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
+    },
+    {
+      "id": "wiki:Technoself studies",
+      "type": "wikipedia",
+      "label": "Technoself studies",
+      "url": "https://en.wikipedia.org/wiki/Technoself_studies",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:Christopher Soghoian",
+      "type": "wikipedia",
+      "label": "Christopher Soghoian",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Soghoian",
+      "firstSeenAt": "2026-11-23T18:00:33.858Z"
+    },
+    {
+      "id": "wiki:George M. Whitesides",
+      "type": "wikipedia",
+      "label": "George M. Whitesides",
+      "url": "https://en.wikipedia.org/wiki/George_M._Whitesides",
+      "firstSeenAt": "2026-11-23T18:00:33.858Z"
     }
   ],
   "recentItems": [

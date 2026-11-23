@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC8p1vwvWtl6T73JiExfWs1g",
   "title": "CBS News",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niBFv49gSx4rr1afMZU_Pv7SeuPKO2SMHvv0Ar7OKxM4o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 1,
   "uploadsPerDay": 21.24,
   "sources": [
@@ -120,6 +120,13 @@
       "label": "Paul Douglas (cameraman)",
       "url": "https://en.wikipedia.org/wiki/Paul_Douglas_(cameraman)",
       "firstSeenAt": "2026-11-13T14:31:13.887Z"
+    },
+    {
+      "id": "wiki:Human Clay",
+      "type": "wikipedia",
+      "label": "Human Clay",
+      "url": "https://en.wikipedia.org/wiki/Human_Clay",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC8Su5vZCXWRag13H53zWVwA",
   "title": "TIME",
   "thumb": "https://yt3.ggpht.com/VIvmcZV8AS2ol9dhW0lCfsBYXhUTS6ODzeKkCYC7ucUKbqhD37WJxTNzHXDcEi7_Zpf8ROuu=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "TIME Breaking News",
       "url": "https://www.youtube.com/channel/UCpxdGwLq63mkJUk242X2-jw",
       "firstSeenAt": "2026-10-02T12:30:42.874Z"
+    },
+    {
+      "id": "wiki:Deerhoof",
+      "type": "wikipedia",
+      "label": "Deerhoof",
+      "url": "https://en.wikipedia.org/wiki/Deerhoof",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCngEuLm1Ue3i3dsOsHS55aw",
   "title": "VideosTimes2",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k2zYybIFCqCChU4ErV_T0eg8xg-FDz5Mb_5pFTVfU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Dorothy Collins",
       "url": "https://en.wikipedia.org/wiki/Dorothy_Collins",
       "firstSeenAt": "2026-11-12T15:08:37.043Z"
+    },
+    {
+      "id": "wiki:Bonnie Lou",
+      "type": "wikipedia",
+      "label": "Bonnie Lou",
+      "url": "https://en.wikipedia.org/wiki/Bonnie_Lou",
+      "firstSeenAt": "2026-11-23T18:00:33.859Z"
     }
   ],
   "recentItems": []

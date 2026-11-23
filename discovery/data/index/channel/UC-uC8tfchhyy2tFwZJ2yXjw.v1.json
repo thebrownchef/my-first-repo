@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC-uC8tfchhyy2tFwZJ2yXjw",
   "title": "FaceCulture",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n3xLUMOqj2oSjB09S1c59M5tMT5VTQUIuwc6nO4qlTMw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 2.16,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Marc Johnson (jazz musician)",
       "url": "https://en.wikipedia.org/wiki/Marc_Johnson_(jazz_musician)",
       "firstSeenAt": "2026-11-22T14:30:52.629Z"
+    },
+    {
+      "id": "wiki:Bloodflood",
+      "type": "wikipedia",
+      "label": "Bloodflood",
+      "url": "https://en.wikipedia.org/wiki/Bloodflood",
+      "firstSeenAt": "2026-11-23T18:00:27.572Z"
     }
   ],
   "recentItems": []

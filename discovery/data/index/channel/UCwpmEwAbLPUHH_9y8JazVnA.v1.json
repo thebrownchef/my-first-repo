@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCwpmEwAbLPUHH_9y8JazVnA",
   "title": "BEAST 비스트 (Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k4e06spdh74aLdau4OgnwcsNwe6_E_Co0v_6P3bTho3oU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Good Luck (Beast EP)",
       "url": "https://en.wikipedia.org/wiki/Good_Luck_(Beast_EP)",
       "firstSeenAt": "2026-11-16T15:40:09.990Z"
+    },
+    {
+      "id": "wiki:Time (Beast EP)",
+      "type": "wikipedia",
+      "label": "Time (Beast EP)",
+      "url": "https://en.wikipedia.org/wiki/Time_(Beast_EP)",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

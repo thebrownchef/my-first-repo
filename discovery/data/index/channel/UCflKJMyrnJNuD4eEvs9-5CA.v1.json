@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCflKJMyrnJNuD4eEvs9-5CA",
   "title": "SmashingPumpkinsVEVO",
   "thumb": "https://yt3.ggpht.com/zep_Cyabh0f5mA659tajbsWW01jfJ5XLSkNtqXCScdxp2U4xMYJATuCeDgETSUQdAgFwvGW4og=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Today (The Smashing Pumpkins song)",
       "url": "https://en.wikipedia.org/wiki/Today_(The_Smashing_Pumpkins_song)",
       "firstSeenAt": "2026-11-15T13:53:33.394Z"
+    },
+    {
+      "id": "wiki:Georges Méliès in culture",
+      "type": "wikipedia",
+      "label": "Georges Méliès in culture",
+      "url": "https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s_in_culture",
+      "firstSeenAt": "2026-11-23T18:00:33.858Z"
     }
   ],
   "recentItems": []

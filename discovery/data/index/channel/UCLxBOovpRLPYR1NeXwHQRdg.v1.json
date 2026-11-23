@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCLxBOovpRLPYR1NeXwHQRdg",
   "title": "bsgs98",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mZqTy1lh6j1gZbUpQ3udy-4G8tnVQJEj7FH_uXzujTVO4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Harry D. Kerr",
       "url": "https://en.wikipedia.org/wiki/Harry_D._Kerr",
       "firstSeenAt": "2026-11-10T14:49:46.639Z"
+    },
+    {
+      "id": "wiki:Holiday for Strings (song)",
+      "type": "wikipedia",
+      "label": "Holiday for Strings (song)",
+      "url": "https://en.wikipedia.org/wiki/Holiday_for_Strings_(song)",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

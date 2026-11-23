@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCi7GJNg51C3jgmYTUwqoUXA",
   "title": "Team Coco",
   "thumb": "https://yt3.ggpht.com/B3EaVhMFIewHYNbLd6NCkunUfxEYIvlbz6MUjQkFacFzpFevaRTB8cAGCFooCuBv4oyCE3ur=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.85,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Breckin Meyer",
       "url": "https://en.wikipedia.org/wiki/Breckin_Meyer",
       "firstSeenAt": "2026-11-20T15:23:46.017Z"
+    },
+    {
+      "id": "wiki:Jimmy Vivino and the Basic Cable Band",
+      "type": "wikipedia",
+      "label": "Jimmy Vivino and the Basic Cable Band",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Vivino_and_the_Basic_Cable_Band",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

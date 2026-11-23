@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC9xncyB15xEnnWfgBp8wAeg",
   "title": "GeorgeEzraVEVO",
   "thumb": "https://yt3.ggpht.com/tVmnaHIV_HASJbf3KBG_4XqNIo3nUogQAH3tTOwzSBNO8dKUhnh1vvMJAFvDedwkjTYr9a45=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Blame It on Me (George Ezra song)",
       "url": "https://en.wikipedia.org/wiki/Blame_It_on_Me_(George_Ezra_song)",
       "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:Listen to the Man",
+      "type": "wikipedia",
+      "label": "Listen to the Man",
+      "url": "https://en.wikipedia.org/wiki/Listen_to_the_Man",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

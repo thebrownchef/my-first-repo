@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC8YgWcDKi1rLbQ1OtrOHeDw",
   "title": "David Bowie",
   "thumb": "https://yt3.ggpht.com/S8HBQAekRCOxvMmZ6a0Kd0bis1HIdmbkmec1b_t-X6fa3ZUJBtF1n_rK274bamaY_i8if1uuy-8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Next Day (song)",
       "url": "https://en.wikipedia.org/wiki/The_Next_Day_(song)",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Richard Fairbrass",
+      "type": "wikipedia",
+      "label": "Richard Fairbrass",
+      "url": "https://en.wikipedia.org/wiki/Richard_Fairbrass",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

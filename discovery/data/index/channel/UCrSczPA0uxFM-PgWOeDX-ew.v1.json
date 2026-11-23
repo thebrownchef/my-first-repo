@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCrSczPA0uxFM-PgWOeDX-ew",
   "title": "NellyFurtadoVEVO",
   "thumb": "https://yt3.ggpht.com/kR10qBTgfsT08zHDZTCZOvJgiJwWZDdsBYraFJ-lLUAU4ilXE4oJ3L0c7JXETpACgVrRMNzI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "I'm Like a Bird",
       "url": "https://en.wikipedia.org/wiki/I'm_Like_a_Bird",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Shit on the Radio (Remember the Days)",
+      "type": "wikipedia",
+      "label": "Shit on the Radio (Remember the Days)",
+      "url": "https://en.wikipedia.org/wiki/Shit_on_the_Radio_(Remember_the_Days)",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
+    },
+    {
+      "id": "wiki:Try (Nelly Furtado song)",
+      "type": "wikipedia",
+      "label": "Try (Nelly Furtado song)",
+      "url": "https://en.wikipedia.org/wiki/Try_(Nelly_Furtado_song)",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
     }
   ],
   "recentItems": []

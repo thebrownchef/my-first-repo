@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCxzcBfvmeLmUNjlyM7FMgFg",
   "title": "Larry King",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lkk5TV7J0uPiO6B3AkcuM15ju1n3WtQLxZx4ulQTgzEChN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.32,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Buddhism and LGBTQ",
       "url": "https://en.wikipedia.org/wiki/Buddhism_and_LGBTQ",
       "firstSeenAt": "2026-11-05T14:35:34.046Z"
+    },
+    {
+      "id": "wiki:The Late Late Show with Craig Ferguson",
+      "type": "wikipedia",
+      "label": "The Late Late Show with Craig Ferguson",
+      "url": "https://en.wikipedia.org/wiki/The_Late_Late_Show_with_Craig_Ferguson",
+      "firstSeenAt": "2026-11-23T18:00:27.572Z"
+    },
+    {
+      "id": "wiki:Josh Robert Thompson",
+      "type": "wikipedia",
+      "label": "Josh Robert Thompson",
+      "url": "https://en.wikipedia.org/wiki/Josh_Robert_Thompson",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
     }
   ],
   "recentItems": []

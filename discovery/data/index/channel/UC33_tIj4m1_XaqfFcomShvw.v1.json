@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC33_tIj4m1_XaqfFcomShvw",
   "title": "BABYMETAL",
   "thumb": "https://yt3.ggpht.com/MMA9n48WFsi5kgHIjY3njgTq5FORyGqLHXFSqg9JLQqO7533uXnwWlYi46bUYd7aPUPD6lD3Rxg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Megitsune",
       "url": "https://en.wikipedia.org/wiki/Megitsune",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Live: Legend 1999 & 1997 Apocalypse",
+      "type": "wikipedia",
+      "label": "Live: Legend 1999 & 1997 Apocalypse",
+      "url": "https://en.wikipedia.org/wiki/Live%3A_Legend_1999_%26_1997_Apocalypse",
+      "firstSeenAt": "2026-11-23T18:00:27.572Z"
     }
   ],
   "recentItems": []

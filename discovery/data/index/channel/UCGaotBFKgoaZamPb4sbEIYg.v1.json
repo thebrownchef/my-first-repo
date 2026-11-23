@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCGaotBFKgoaZamPb4sbEIYg",
   "title": "KeriHilsonVEVO",
   "thumb": "https://yt3.ggpht.com/c_mkgl_jWcaxkCR13d59KUK7iMvkJDgxBTKP9d3TJ0nfkh5qJUJDebLNecdBrt89IOJpGLQB=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Breaking Point (Keri Hilson song)",
       "url": "https://en.wikipedia.org/wiki/Breaking_Point_(Keri_Hilson_song)",
       "firstSeenAt": "2026-10-10T12:28:20.461Z"
+    },
+    {
+      "id": "wiki:Return the Favor",
+      "type": "wikipedia",
+      "label": "Return the Favor",
+      "url": "https://en.wikipedia.org/wiki/Return_the_Favor",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
     }
   ],
   "recentItems": []

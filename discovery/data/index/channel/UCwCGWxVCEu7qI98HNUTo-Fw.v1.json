@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCwCGWxVCEu7qI98HNUTo-Fw",
   "title": "Wanda Kaluza",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kl9dZYGUOzMOygYvr4y75JEHxn239H8_vMiJEGFkE2dbPN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Walsh-McLean House",
       "url": "https://en.wikipedia.org/wiki/Walsh-McLean_House",
       "firstSeenAt": "2026-11-22T14:30:52.629Z"
+    },
+    {
+      "id": "wiki:Stevens Institute of Technology",
+      "type": "wikipedia",
+      "label": "Stevens Institute of Technology",
+      "url": "https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology",
+      "firstSeenAt": "2026-11-23T18:00:33.859Z"
     }
   ],
   "recentItems": []

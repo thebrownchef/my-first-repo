@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCWGljB8djPusdaKtVx1UKfg",
   "title": "UPROXX",
   "thumb": "https://yt3.ggpht.com/LdZaBU4jjpAen3PEckYicOML--si51DeO1HPqhTcaArB16JST-50ypJiRuBXjyadZKMZrC4b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.31,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "HipHopLivesToday",
       "url": "https://www.youtube.com/channel/UCHUHPEIcZh3kZcdXTTVKMRw",
       "firstSeenAt": "2026-10-20T11:32:24.080Z"
+    },
+    {
+      "id": "wiki:Tha Mexakinz",
+      "type": "wikipedia",
+      "label": "Tha Mexakinz",
+      "url": "https://en.wikipedia.org/wiki/Tha_Mexakinz",
+      "firstSeenAt": "2026-11-23T18:00:33.859Z"
     }
   ],
   "recentItems": []

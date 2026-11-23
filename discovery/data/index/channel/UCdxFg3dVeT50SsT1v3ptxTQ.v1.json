@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCdxFg3dVeT50SsT1v3ptxTQ",
   "title": "Janelle Monáe",
   "thumb": "https://yt3.ggpht.com/efKXGxJT8IG76iq3Wjk7zzgQ6BosnWOO4rIvOQ1kQmi9RKoyd-OQRu-_h64aQxwpxk8C0-GFFQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Dance Apocalyptic",
       "url": "https://en.wikipedia.org/wiki/Dance_Apocalyptic",
       "firstSeenAt": "2026-11-14T13:28:02.868Z"
+    },
+    {
+      "id": "wiki:Q.U.E.E.N.",
+      "type": "wikipedia",
+      "label": "Q.U.E.E.N.",
+      "url": "https://en.wikipedia.org/wiki/Q.U.E.E.N.",
+      "firstSeenAt": "2026-11-23T18:00:33.859Z"
     }
   ],
   "recentItems": []

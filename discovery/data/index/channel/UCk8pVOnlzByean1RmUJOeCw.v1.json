@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCk8pVOnlzByean1RmUJOeCw",
   "title": "travelfilmarchive",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mSjWEejctoN4XKnlFCydmS2qfQfm8f4BHv3ye8RU5p=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.22,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "foodfilmarchive",
       "url": "https://www.youtube.com/channel/UC-1kpTOC-23yYf2cCsfRTyg",
       "firstSeenAt": "2026-09-16T11:29:08.485Z"
+    },
+    {
+      "id": "wiki:High Commissioner to the Philippines",
+      "type": "wikipedia",
+      "label": "High Commissioner to the Philippines",
+      "url": "https://en.wikipedia.org/wiki/High_Commissioner_to_the_Philippines",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

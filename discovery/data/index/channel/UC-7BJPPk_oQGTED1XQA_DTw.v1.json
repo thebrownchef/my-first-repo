@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC-7BJPPk_oQGTED1XQA_DTw",
   "title": "VevoDSCVR",
   "thumb": "https://yt3.ggpht.com/QptM65ixZFKTd-FtDVK-4MTnOcoOGNxDWGlw33kK9WOxy-adaJk1WFDCVX8ibNd1bf_QcI3D-I4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.3,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "IndianaVEVO",
       "url": "https://www.youtube.com/channel/UC38ONkGNZ-uNhfNO5mrSJEA",
       "firstSeenAt": "2026-11-22T14:31:05.438Z"
+    },
+    {
+      "id": "channel:UC8SskoYKFS4lRKbXr_q9s4g",
+      "type": "channel",
+      "label": "MNEKVEVO",
+      "url": "https://www.youtube.com/channel/UC8SskoYKFS4lRKbXr_q9s4g",
+      "firstSeenAt": "2026-11-23T18:00:54.910Z"
     }
   ],
   "recentItems": []

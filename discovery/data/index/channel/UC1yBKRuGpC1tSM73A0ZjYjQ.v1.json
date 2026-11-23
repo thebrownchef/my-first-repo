@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
   "title": "The Young Turks",
   "thumb": "https://yt3.ggpht.com/GaZdiTH19-g6JFMUkh2UzeulwgtnSiz-4fRbgrEW2tSFzFUUyTFFNrPChP5Ens5v5f-JpTybAg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 9.73,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Mark Souder",
       "url": "https://en.wikipedia.org/wiki/Mark_Souder",
       "firstSeenAt": "2026-11-22T14:30:52.629Z"
+    },
+    {
+      "id": "wiki:Steve Vaillancourt",
+      "type": "wikipedia",
+      "label": "Steve Vaillancourt",
+      "url": "https://en.wikipedia.org/wiki/Steve_Vaillancourt",
+      "firstSeenAt": "2026-11-23T18:00:31.752Z"
     }
   ],
   "recentItems": []

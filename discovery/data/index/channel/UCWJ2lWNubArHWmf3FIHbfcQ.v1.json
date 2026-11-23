@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T14:32:03.408Z",
+  "generatedAt": "2026-11-23T18:02:12.846Z",
   "id": "UCWJ2lWNubArHWmf3FIHbfcQ",
   "title": "NBA",
   "thumb": "https://yt3.ggpht.com/eGmO8yk_eHvLzEywzlPwRV_-7RiDayDLeXWWBVExMLN4qXA7z7fD6ldPXatXZiQOvgW4--jzNA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 10.49,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "1994–95 Miami Heat season",
       "url": "https://en.wikipedia.org/wiki/1994%E2%80%9395_Miami_Heat_season",
       "firstSeenAt": "2026-11-13T14:31:10.979Z"
+    },
+    {
+      "id": "wiki:Klay Thompson",
+      "type": "wikipedia",
+      "label": "Klay Thompson",
+      "url": "https://en.wikipedia.org/wiki/Klay_Thompson",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
     }
   ],
   "recentItems": []
