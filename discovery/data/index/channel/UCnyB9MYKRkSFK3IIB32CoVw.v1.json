@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCnyB9MYKRkSFK3IIB32CoVw",
   "title": "DemiLovatoVEVO",
   "thumb": "https://yt3.ggpht.com/FyDHPMVphY--_6Pm9S01jaHedRn_xQ-ZSxZ8Uqd4QRbwEPWRlhyXqRqs5fNWxza64vk2Pp5NOQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Skyscraper (song)",
       "url": "https://en.wikipedia.org/wiki/Skyscraper_(song)",
       "firstSeenAt": "2026-11-09T16:12:20.260Z"
+    },
+    {
+      "id": "wiki:Give Your Heart a Break",
+      "type": "wikipedia",
+      "label": "Give Your Heart a Break",
+      "url": "https://en.wikipedia.org/wiki/Give_Your_Heart_a_Break",
+      "firstSeenAt": "2026-11-24T17:38:37.540Z"
     }
   ],
   "recentItems": []

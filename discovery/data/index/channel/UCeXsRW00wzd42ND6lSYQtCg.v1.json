@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCeXsRW00wzd42ND6lSYQtCg",
   "title": "trivinity",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfoiF2FIc6dqq-Z7mdM00HrHE0vKqAakR9n07xa7z6GQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "1982 Cotton Bowl Classic",
       "url": "https://en.wikipedia.org/wiki/1982_Cotton_Bowl_Classic",
       "firstSeenAt": "2026-11-02T15:44:49.635Z"
+    },
+    {
+      "id": "wiki:Cotton Bowl Classic",
+      "type": "wikipedia",
+      "label": "Cotton Bowl Classic",
+      "url": "https://en.wikipedia.org/wiki/Cotton_Bowl_Classic",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCsaS5aZjlJPJCzNwjEc3waw",
   "title": "Scotland National Team",
   "thumb": "https://yt3.ggpht.com/2cKj6E5b9QZk0quV727BFjBIpDHeSdivZ9iYlwnK76tU-3SSd91i7Mww6zSURE3hTa1fH88x=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Scottish FA",
       "url": "https://www.youtube.com/channel/UChaFW_N-7dndut-HC4Exe-g",
       "firstSeenAt": "2026-10-27T12:07:20.089Z"
+    },
+    {
+      "id": "wiki:Matt Gilks",
+      "type": "wikipedia",
+      "label": "Matt Gilks",
+      "url": "https://en.wikipedia.org/wiki/Matt_Gilks",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

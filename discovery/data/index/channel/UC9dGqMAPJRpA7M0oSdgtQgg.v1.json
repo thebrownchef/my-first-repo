@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC9dGqMAPJRpA7M0oSdgtQgg",
   "title": "BFI",
   "thumb": "https://yt3.ggpht.com/sR4iA5E1w0QjB_N9WIeynH7hGTStl2mgPxkTEVJhGANXr96ZEex02658pMagMRKV6kFG0LLq=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.87,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Red Carpet News TV",
       "url": "https://www.youtube.com/channel/UCSI0StWcKt8hhCQFHTaWnQQ",
       "firstSeenAt": "2026-11-22T14:31:08.649Z"
+    },
+    {
+      "id": "wiki:The Naughty Otter",
+      "type": "wikipedia",
+      "label": "The Naughty Otter",
+      "url": "https://en.wikipedia.org/wiki/The_Naughty_Otter",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
     }
   ],
   "recentItems": []

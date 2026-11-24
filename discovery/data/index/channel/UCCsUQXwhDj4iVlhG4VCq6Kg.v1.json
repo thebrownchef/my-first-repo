@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCCsUQXwhDj4iVlhG4VCq6Kg",
   "title": "華研國際",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mHloiVOAQ6hbuhhZOdHbKhq8_Pd3cREfG19VEi0d8Hu6E=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Fiction (Yoga Lin album)",
       "url": "https://en.wikipedia.org/wiki/Fiction_(Yoga_Lin_album)",
       "firstSeenAt": "2026-11-01T13:17:24.371Z"
+    },
+    {
+      "id": "wiki:Puff Kuo",
+      "type": "wikipedia",
+      "label": "Puff Kuo",
+      "url": "https://en.wikipedia.org/wiki/Puff_Kuo",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

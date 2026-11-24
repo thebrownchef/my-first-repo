@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 23,
-  "distinctSourceCount": 23,
+  "score": 24,
+  "distinctSourceCount": 24,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -169,6 +169,13 @@
       "label": "Anthony Grafton",
       "url": "https://en.wikipedia.org/wiki/Anthony_Grafton",
       "firstSeenAt": "2026-11-21T14:36:42.574Z"
+    },
+    {
+      "id": "wiki:The Solutions Project",
+      "type": "wikipedia",
+      "label": "The Solutions Project",
+      "url": "https://en.wikipedia.org/wiki/The_Solutions_Project",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": [

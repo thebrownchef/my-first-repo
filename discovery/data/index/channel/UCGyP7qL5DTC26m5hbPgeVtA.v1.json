@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCGyP7qL5DTC26m5hbPgeVtA",
   "title": "mediafunhouse",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m8tEOfuhNLUN3rCNigIyKiZyszAWMoiu8Gtb-LogA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Carroll Baker",
       "url": "https://en.wikipedia.org/wiki/Carroll_Baker",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Her Harem",
+      "type": "wikipedia",
+      "label": "Her Harem",
+      "url": "https://en.wikipedia.org/wiki/Her_Harem",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

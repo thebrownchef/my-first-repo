@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCGaOeIZLNXadoevCSuL2N8g",
   "title": "NFSA Online",
   "thumb": "https://yt3.ggpht.com/XinLFl4k_-eDeChFNdYM5FEDFzFEYRDr4GamqPh-7ykxdHxo6pJrS7wYFs2hFT8sRcfhpHwdEsQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -29,6 +29,27 @@
       "label": "NFSA Film Australia",
       "url": "https://www.youtube.com/channel/UCBEwcP6rsQSGJ3G869i8-IQ",
       "firstSeenAt": "2026-11-15T13:53:54.461Z"
+    },
+    {
+      "id": "wiki:Thunderbolt (1910 film)",
+      "type": "wikipedia",
+      "label": "Thunderbolt (1910 film)",
+      "url": "https://en.wikipedia.org/wiki/Thunderbolt_(1910_film)",
+      "firstSeenAt": "2026-11-24T17:38:33.295Z"
+    },
+    {
+      "id": "wiki:A Miner's Luck",
+      "type": "wikipedia",
+      "label": "A Miner's Luck",
+      "url": "https://en.wikipedia.org/wiki/A_Miner's_Luck",
+      "firstSeenAt": "2026-11-24T17:38:33.295Z"
+    },
+    {
+      "id": "wiki:The Romantic Story of Margaret Catchpole",
+      "type": "wikipedia",
+      "label": "The Romantic Story of Margaret Catchpole",
+      "url": "https://en.wikipedia.org/wiki/The_Romantic_Story_of_Margaret_Catchpole",
+      "firstSeenAt": "2026-11-24T17:38:33.295Z"
     }
   ],
   "recentItems": []

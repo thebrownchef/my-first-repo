@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC1qwqLZG8b5f33Y_6aRpUtQ",
   "title": "05041947",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_luVSHYQsqkoSLV_E-Ii3IZrhQriwgZR4WSnxCsadQt=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hugo Peretti",
       "url": "https://en.wikipedia.org/wiki/Hugo_Peretti",
       "firstSeenAt": "2026-11-12T15:08:34.647Z"
+    },
+    {
+      "id": "wiki:Tantum ergo, WAB 32",
+      "type": "wikipedia",
+      "label": "Tantum ergo, WAB 32",
+      "url": "https://en.wikipedia.org/wiki/Tantum_ergo%2C_WAB_32",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC2lF51-X_-Ow03T4R6RpD_Q",
   "title": "Boyzone",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLszhRVzJGOvhl9KugRLfDmLZGOHlTPDEU80EXBJPrVnY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Light Up the Night (Boyzone song)",
       "url": "https://en.wikipedia.org/wiki/Light_Up_the_Night_(Boyzone_song)",
       "firstSeenAt": "2026-11-03T14:08:01.516Z"
+    },
+    {
+      "id": "wiki:Dublin to Detroit",
+      "type": "wikipedia",
+      "label": "Dublin to Detroit",
+      "url": "https://en.wikipedia.org/wiki/Dublin_to_Detroit",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

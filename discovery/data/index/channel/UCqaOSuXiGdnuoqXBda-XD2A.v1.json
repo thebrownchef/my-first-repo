@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCqaOSuXiGdnuoqXBda-XD2A",
   "title": "Canal Once",
   "thumb": "https://yt3.ggpht.com/PJhIJnCc1wWOurUWLyD0St_1pb3wPt7pH7C4oZVFclQMi5JdJfA-bELr3Va6sCuSjnqoJqzqww=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 6.45,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Diary of a Chambermaid (1964 film)",
       "url": "https://en.wikipedia.org/wiki/Diary_of_a_Chambermaid_(1964_film)",
       "firstSeenAt": "2026-11-17T15:56:40.700Z"
+    },
+    {
+      "id": "wiki:Koreans in Mexico",
+      "type": "wikipedia",
+      "label": "Koreans in Mexico",
+      "url": "https://en.wikipedia.org/wiki/Koreans_in_Mexico",
+      "firstSeenAt": "2026-11-24T17:38:44.716Z"
+    },
+    {
+      "id": "wiki:Lebanese Mexicans",
+      "type": "wikipedia",
+      "label": "Lebanese Mexicans",
+      "url": "https://en.wikipedia.org/wiki/Lebanese_Mexicans",
+      "firstSeenAt": "2026-11-24T17:38:44.716Z"
     }
   ],
   "recentItems": []

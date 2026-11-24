@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCB9E_q0XydoA4pOj90pgEyw",
   "title": "CHIKARAoffice",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mdsnBYk61Jvml7z53OHcppfJ4K5eYBdpMWt-fSattsOA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Chikara Grand Championship",
       "url": "https://en.wikipedia.org/wiki/Chikara_Grand_Championship",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Chikara Tomorrow Never Dies",
+      "type": "wikipedia",
+      "label": "Chikara Tomorrow Never Dies",
+      "url": "https://en.wikipedia.org/wiki/Chikara_Tomorrow_Never_Dies",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
     }
   ],
   "recentItems": []

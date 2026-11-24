@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCoxcjq-8xIDTYp3uz647V5A",
   "title": "Numberphile",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nmbQSAGKk1OZCBBf_sPJqLoFfYOVDWRDzALocBjGQtHeI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 0,
   "uploadsPerDay": 0.15,
   "sources": [
@@ -120,7 +120,112 @@
       "label": "John Horton Conway",
       "url": "https://en.wikipedia.org/wiki/John_Horton_Conway",
       "firstSeenAt": "2026-11-17T15:56:43.259Z"
+    },
+    {
+      "id": "wiki:G. W. Peck",
+      "type": "wikipedia",
+      "label": "G. W. Peck",
+      "url": "https://en.wikipedia.org/wiki/G._W._Peck",
+      "firstSeenAt": "2026-11-24T17:38:35.591Z"
+    },
+    {
+      "id": "wiki:Erdős number",
+      "type": "wikipedia",
+      "label": "Erdős number",
+      "url": "https://en.wikipedia.org/wiki/Erd%C5%91s_number",
+      "firstSeenAt": "2026-11-24T17:38:37.540Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "PjGlt3y-Nco",
+      "title": "How did they crack the Riemann Hypothesis? - Numberphile",
+      "publishedAt": "2026-11-23T17:06:53Z",
+      "durationSec": 1592,
+      "thumb": "https://i.ytimg.com/vi/PjGlt3y-Nco/mqdefault.jpg",
+      "description": "Featuring Jon Keating from the University of Oxford. More links & stuff in full description below ↓↓↓\n\nNumberphile AI videos: https://www.youtube.com/playlist?list=PLVsSL1XVSphg\n\nOur initial Riemann reaction video: https://youtu.be/sMZMpsHeFKc\n\nLevent Alpöge statement on his AI proof: https://alpo.ge/remark.pdf\nThe Alessandro Maria Masullo paper: https://math216.wordpress.com/wp-content/uploads/2026/11/the-music-of-the-primes.pdf\n\nAlso on Numberphile...\nThe Key to the Riemann Hypothesis (Jon Keating and those L-Functions):  ⁠https://youtu.be/VTveQ1ndH1c\nRiemann Hypothesis (Edward Frenkel):  ⁠https://youtu.be/d6c6uIyieoo\nCollatz Conjecture: https://youtu.be/5mFpVDpKX70\n\nJon Keating: https://www.maths.ox.ac.uk/people/jon.keating\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nWe are also grateful for support from the Ben Delo Foundation - https://delo.org/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideos by Brady Haran\n\nNumberphile T-Shirts and Merch: https://numberphile-shop.fourthwall.com\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "sMZMpsHeFKc",
+      "title": "The Riemann Hypothesis Falls (reaction) - Numberphile",
+      "publishedAt": "2026-11-20T19:04:28Z",
+      "durationSec": 813,
+      "thumb": "https://i.ytimg.com/vi/sMZMpsHeFKc/mqdefault.jpg",
+      "description": "Tony Padilla and Brady Haran discuss news that the Riemann Hypothesis may have been proven (with AI)... More links & stuff in full description below ↓↓↓\n\nLevent Alpöge statement: https://alpo.ge/remark.pdf\n\nNumberphile AI videos: https://www.youtube.com/playlist?list=PLVsSL1XVSphg\n\nThe Yang-Mills video we posted the same day: https://youtu.be/ZCu5KGpCl68\n\nRiemann Hypothesis (Edward Frenkel) —  ⁠https://youtu.be/d6c6uIyieoo\nThe Key to the Riemann Hypothesis (Jon Keating) —  ⁠https://youtu.be/VTveQ1ndH1c\n\nCORRECTION: Riemann died in 1866, not 1846\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideos by Brady Haran\n\nNumberphile T-Shirts and Merch: https://numberphile-shop.fourthwall.com\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "ZCu5KGpCl68",
+      "title": "The Yang-Mills Problem (news) - Numberphile",
+      "publishedAt": "2026-11-20T15:44:07Z",
+      "durationSec": 1012,
+      "thumb": "https://i.ytimg.com/vi/ZCu5KGpCl68/mqdefault.jpg",
+      "description": "Professor Tony Padilla discusses the latest news on another Millennium Prize Problem being tackled by AI - this time it's Yang-Mills. More links & stuff in full description below ↓↓↓\n\nCatch our related physics channel Sixty Symbols -  ⁠https://www.youtube.com/@sixtysymbols\n\nTony Padilla Numberphile Playlist - https://www.youtube.com/playlist?list=PLt5AfwLFPxWL8KAJKO3WfHhJcWrJfjgfU\nTony Padilla Sixty Symbols Playlist - https://www.youtube.com/playlist?list=PLcUY9vudNKBPJmX64Jay51cdZTKMz4ACs\n\nNumberphile’s playlist on AI in Mathematics - https://www.youtube.com/playlist?list=PLVsSL1XVSphg\n\nThe Millennium Prize Problems (official site) - https://www.claymath.org/millennium-problems/\n\nLatest from OpenAI on the Yang–Mills Problem - https://openai.com/index/building-scientific-understanding-with-academic-communities/\n\nYang–Mills Committee findings and updates - https://github.com/yang-mills-group/YM\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideos by Brady Haran\n\nNumberphile T-Shirts and Merch: https://numberphile-shop.fourthwall.com\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "k9Tf0Hq8Viw",
+      "title": "Blind Ranking Numbers (Sophie Maclean)",
+      "publishedAt": "2026-11-18T16:57:44Z",
+      "durationSec": 86,
+      "thumb": "https://i.ytimg.com/vi/k9Tf0Hq8Viw/mqdefault.jpg",
+      "description": "Sophie Maclean takes the challenge. More links & stuff in full description below ↓↓↓\n\nFull Blind Ranking Playlist - https://www.youtube.com/playlist?list=PLamfj2wpJxmo\n\nSophie videos - https://www.youtube.com/playlist?list=PLt5AfwLFPxWJL8jqE19RlDCMJp7psCA6r\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideos by Brady Haran\n\nNumberphile T-Shirts and Merch: https://teespring.com/stores/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "LxVW3b8jVdE",
+      "title": "A Two-Button Calculator That Does Everything - Numberphile",
+      "publishedAt": "2026-11-12T14:29:27Z",
+      "durationSec": 1054,
+      "thumb": "https://i.ytimg.com/vi/LxVW3b8jVdE/mqdefault.jpg",
+      "description": "Dr James Grime explains how to make a fully-functional scientific calculator with just two buttons. More links & stuff in full description below ↓↓↓\n\nPAPER: All elementary functions from a single operator by Andrzej Odrzywołek - https://arxiv.org/html/2603.21852v2\n\nDr Grime's website - https://www.singingbanana.com/\n\nMore James Grime on Numberphile - https://www.youtube.com/playlist?list=PLt5AfwLFPxWLNZRKWlcRmTABh_SExiiCj\n\nCalculator videos playlist - https://www.youtube.com/playlist?list=PLbj70YAVHnS4\n\nAnd Calculator Unboxings (a bit less serious) - https://www.youtube.com/playlist?list=PLt5AfwLFPxWKAINNfxIdYmFVKuk_F_cQq\n\nJosip sent us this working version of the calculators: https://calc4or2.netlify.app\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nWe are also grateful for support from the Ben Delo Foundation - https://delo.org/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideo by Brady Haran and Pete McPartlan\n\nNumberphile T-Shirts and Merch: https://numberphile-shop.fourthwall.com/\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "p2AAz24AzU4",
+      "title": "Terence Tao's Math(s) Essentials - Numberphile",
+      "publishedAt": "2026-11-09T12:43:16Z",
+      "durationSec": 802,
+      "thumb": "https://i.ytimg.com/vi/p2AAz24AzU4/mqdefault.jpg",
+      "description": "Terence Tao discusses his new popular book about mathematics… and a little bit of Australian nostalgia. More links & stuff in full description below ↓↓↓\n\nOrder Six Math Essentials - https://www.quantabooks.org/books/six-math-essentials/\n\nAmazon UK - https://link.amazon/B0bCSas3B\nAmazon US - https://link.amazon/B0dxNUQxL\n\nTerence Tao’s blog - https://terrytao.wordpress.com/\n\nSome previous videos and podcasts with Terence Tao - https://www.youtube.com/playlist?list=PLY7wcvVEDTvU\n\nCalculating Pie with Meat Pies - https://youtu.be/ZNiRzZ66YN0\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nWe are also grateful for support from the Ben Delo Foundation - https://delo.org/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideos by Brady Haran\n\nNumberphile T-Shirts and Merch: https://teespring.com/stores/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "vCAD3W43lIk",
+      "title": "Who's Richer, Mario or Sonic? - Numberphile",
+      "publishedAt": "2026-11-01T12:06:18Z",
+      "durationSec": 1178,
+      "thumb": "https://i.ytimg.com/vi/vCAD3W43lIk/mqdefault.jpg",
+      "description": "Tom Crawford ponders a question you probably never asked... \nMore links & stuff in full description below ↓↓↓\n\nTom's book is How Many Pikachus Would It Take to Power a Lightbulb?\nOrder a signed copy: https://bit.ly/Pikachu-Lightbulb\nUS: https://link.amazon/B0fW4oSFe\nUK: https://link.amazon/B00CvSgDO\n\nTom's website: https://tomrocksmaths.com/\n\nMore Tom on Numberphile: https://www.youtube.com/playlist?list=PLt5AfwLFPxWJ2TNTA79reKQ6S88kTvDR-\n\nSonic the Hedgehog: https://www.sega.com/sonic-the-hedgehog\nSuper Mario: https://www.nintendo.com/us/explore/characters/mario/\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nWe are also grateful for support from the Ben Delo Foundation - https://delo.org/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideo by Brady Haran & Pete McPartlan\n\nNumberphile T-Shirts and Merch: https://teespring.com/stores/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "iJU6csQs_no",
+      "title": "Blind Ranking Numbers (Daniel Litt)",
+      "publishedAt": "2026-10-29T17:35:33Z",
+      "durationSec": 93,
+      "thumb": "https://i.ytimg.com/vi/iJU6csQs_no/mqdefault.jpg",
+      "description": "Daniel Litt, an assistant Professor of mathematics at the University of Toronto, takes on our Blind Ranking challenge.\n\nFull Blind Ranking Playlist - https://www.youtube.com/playlist?list=PLamfj2wpJxmo\n\nDaniel: https://www.daniellitt.com/\n\nNumberphile is supported by Jane Street.\n\nLearn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideos by Brady Haran\n\nNumberphile T-Shirts and Merch: https://teespring.com/stores/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "33_jJ4kIxfc",
+      "title": "Blind Ranking Numbers (Terence Tao)",
+      "publishedAt": "2026-10-27T09:00:23Z",
+      "durationSec": 75,
+      "thumb": "https://i.ytimg.com/vi/33_jJ4kIxfc/mqdefault.jpg",
+      "description": "Possibly the world's greatest mathematician. Terence Tao is a Fields Medalist, Breakthrough Prize winner, and now a Numberphile Blind Ranker of Numbers!\n\nFull Blind Ranking Playlist - https://www.youtube.com/playlist?list=PLamfj2wpJxmo\n\nOrder Six Math Essentials - https://www.quantabooks.org/books/six-math-essentials/\n\nAmazon UK - https://link.amazon/B0bCSas3B\nAmazon US - https://link.amazon/B0dxNUQxL\n\nMore links & stuff in full description below ↓↓↓\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideos by Brady Haran\n\nNumberphile T-Shirts and Merch: https://teespring.com/stores/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    },
+    {
+      "id": "EgnAN0ZUl08",
+      "title": "Squaring the Triangle - Numberphile",
+      "publishedAt": "2026-10-25T14:44:43Z",
+      "durationSec": 819,
+      "thumb": "https://i.ytimg.com/vi/EgnAN0ZUl08/mqdefault.jpg",
+      "description": "The inimitable James Grime is back showing us how to convert an equilateral triangle into a square - and more... Additional links & stuff in full description below ↓↓↓\n\nWhile a fan of Dudeney, we'd like to shout-out Charles William McElroy who is likely the discoverer of this dissection... \n\nMore James Grime on Numberphile - https://www.youtube.com/playlist?list=PLt5AfwLFPxWLNZRKWlcRmTABh_SExiiCj\n\nJames Grime's own website with more details about his and his work - https://www.singingbanana.com/ (you can even book James to do one of this brilliant talks!)\n\nSquaring the Circle (featuring James) - https://youtu.be/CMP9a2J4Bqw\n\nJames inspects a squaring the circle device on Objectivity - https://youtu.be/B4gzt8v401Q\n\nThe paper discussed in this video - Dudeney's Dissection is Optimal - https://arxiv.org/abs/2412.03865\n\nThe Dehn Invariant - https://youtu.be/eYfpSAxGakI\n\nPatreon: http://www.patreon.com/numberphile\n\nNumberphile is supported by Jane Street. Learn more about them (and exciting career opportunities) at: https://bit.ly/numberphile-janestreet\n\nWe are also grateful for support from the Ben Delo Foundation - https://delo.org/\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\n\nVideo by Pete McPartlan and Brady Haran\n\nNumberphile T-Shirts and Merch: https://teespring.com/stores/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9",
+      "chapters": []
+    }
+  ]
 }

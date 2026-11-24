@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCVrPiUtl29kULN2HIAm244Q",
   "title": "LordeVEVO",
   "thumb": "https://yt3.ggpht.com/ja0R4sbUZ7vXvGmrbZoCHAuJ5NEdM5xcarIL721Cfn_24InqoaJW_Bvv8TxU3rNOEmVYW6j1kg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Yellow Flicker Beat",
       "url": "https://en.wikipedia.org/wiki/Yellow_Flicker_Beat",
       "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:Lorde",
+      "type": "wikipedia",
+      "label": "Lorde",
+      "url": "https://en.wikipedia.org/wiki/Lorde",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
     }
   ],
   "recentItems": []

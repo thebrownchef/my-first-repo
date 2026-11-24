@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCgPClNr5VSYC3syrDUIlzLw",
   "title": "Adult Swim",
   "thumb": "https://yt3.ggpht.com/oGhBcOj4r0zwibT0YBO70um0bKh5g-DW7cuamIha3zmdJ7wxcinJUMybzVwhXCn6PXnFf8zP=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 1.19,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Spencer Grammer",
       "url": "https://en.wikipedia.org/wiki/Spencer_Grammer",
       "firstSeenAt": "2026-11-19T15:41:25.824Z"
+    },
+    {
+      "id": "wiki:The Best Show with Tom Scharpling",
+      "type": "wikipedia",
+      "label": "The Best Show with Tom Scharpling",
+      "url": "https://en.wikipedia.org/wiki/The_Best_Show_with_Tom_Scharpling",
+      "firstSeenAt": "2026-11-24T17:38:35.591Z"
     }
   ],
   "recentItems": []

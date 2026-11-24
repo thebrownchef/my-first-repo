@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCj4PxzfWBNV9vIdEPkglrrg",
   "title": "FoundationINTERVIEWS",
   "thumb": "https://yt3.ggpht.com/upfgtJrTmgKsCwqUcvKvPSo9oubP96yMVPMB8TrV1MZ98B6XBzW-puwaM9387lHI-yPhW6Wqk7U=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 2.01,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "The Great Gazoo",
       "url": "https://en.wikipedia.org/wiki/The_Great_Gazoo",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Billy Campbell",
+      "type": "wikipedia",
+      "label": "Billy Campbell",
+      "url": "https://en.wikipedia.org/wiki/Billy_Campbell",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
     }
   ],
   "recentItems": []

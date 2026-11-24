@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCCxKPNMqjnqbxVEt1tyDUsA",
   "title": "kermodeandmayo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ks6dEmEkAImF_CZKA2ou92K3XWGrURDSlU25bAH3QGsg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.63,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Mrs. Brown's Boys D'Movie",
       "url": "https://en.wikipedia.org/wiki/Mrs._Brown's_Boys_D'Movie",
       "firstSeenAt": "2026-11-14T13:27:58.304Z"
+    },
+    {
+      "id": "wiki:The Twilight Saga: New Moon",
+      "type": "wikipedia",
+      "label": "The Twilight Saga: New Moon",
+      "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga%3A_New_Moon",
+      "firstSeenAt": "2026-11-24T17:38:37.540Z"
     }
   ],
   "recentItems": []

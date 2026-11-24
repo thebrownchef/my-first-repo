@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCmak-2fOHzZBbnQ4KMULLqQ",
   "title": "Bestiacane",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mlVo7ZZ_jlwpQ79EE4rVDHoBUT8Aqh40EaDc3w9zvJTw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Salvatore Lo Piccolo",
       "url": "https://en.wikipedia.org/wiki/Salvatore_Lo_Piccolo",
       "firstSeenAt": "2026-11-19T15:41:25.823Z"
+    },
+    {
+      "id": "wiki:Santino Di Matteo",
+      "type": "wikipedia",
+      "label": "Santino Di Matteo",
+      "url": "https://en.wikipedia.org/wiki/Santino_Di_Matteo",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC93DEJOBeet3XXZlJy2uJuA",
   "title": "Young Hollywood",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mNS-Rd7x4PYRLdgZzgIVOXuG46KLntl13u992LKM-knbI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.7,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "The YOMYOMF Network",
       "url": "https://www.youtube.com/channel/UCYU0rjeVvqOg-JmBHSvOVQA",
       "firstSeenAt": "2026-10-24T10:55:02.913Z"
+    },
+    {
+      "id": "wiki:Zhu Zhu",
+      "type": "wikipedia",
+      "label": "Zhu Zhu",
+      "url": "https://en.wikipedia.org/wiki/Zhu_Zhu",
+      "firstSeenAt": "2026-11-24T17:38:37.540Z"
     }
   ],
   "recentItems": []

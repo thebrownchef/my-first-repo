@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCAMWWQQNQeD73DtiddfBrpg",
   "title": "alt-J",
   "thumb": "https://yt3.ggpht.com/8pLyAkd_GYx6q5vEqgGp-qDyk434iBlCWG_pasVta61jfvejmlpBz-gLytaUu-8YMclsyk-V=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hunger of the Pine",
       "url": "https://en.wikipedia.org/wiki/Hunger_of_the_Pine",
       "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:Left Hand Free",
+      "type": "wikipedia",
+      "label": "Left Hand Free",
+      "url": "https://en.wikipedia.org/wiki/Left_Hand_Free",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

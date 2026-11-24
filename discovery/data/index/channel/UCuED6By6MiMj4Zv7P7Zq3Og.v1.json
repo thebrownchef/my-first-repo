@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCuED6By6MiMj4Zv7P7Zq3Og",
   "title": "TMRW Music",
   "thumb": "https://yt3.ggpht.com/KbgQRZXwh419ptUKLbOKBDXJGQMseU5c0YKYMVYSO4tieLFbbCmFzIGKgDSo6ALUDm-1J8RvbA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Wild Child (Elen Levon song)",
       "url": "https://en.wikipedia.org/wiki/Wild_Child_(Elen_Levon_song)",
       "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Freaks (Timmy Trumpet and Savage song)",
+      "type": "wikipedia",
+      "label": "Freaks (Timmy Trumpet and Savage song)",
+      "url": "https://en.wikipedia.org/wiki/Freaks_(Timmy_Trumpet_and_Savage_song)",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

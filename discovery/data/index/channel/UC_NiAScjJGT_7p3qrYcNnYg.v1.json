@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "id": "UC_NiAScjJGT_7p3qrYcNnYg",
+  "title": "El Toyotero",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVIc9ZSLEeoBqbtcdpEm1DXCC6C1JAWulO-SrS_Ec_3g=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.01,
+  "sources": [
+    {
+      "id": "wiki:James Burke (science historian)",
+      "type": "wikipedia",
+      "label": "James Burke (science historian)",
+      "url": "https://en.wikipedia.org/wiki/James_Burke_(science_historian)",
+      "firstSeenAt": "2026-11-23T18:00:27.573Z"
+    },
+    {
+      "id": "wiki:Apollo 1",
+      "type": "wikipedia",
+      "label": "Apollo 1",
+      "url": "https://en.wikipedia.org/wiki/Apollo_1",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
+    }
+  ],
+  "recentItems": []
+}

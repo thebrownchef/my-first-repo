@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCHSnlLKaXqJADnyFpcgUxVA",
   "title": "Jewish Educational Media | The Lubavitcher Rebbe",
   "thumb": "https://yt3.ggpht.com/ATnsSf_hd8OMxsirkOscTgjtWMS0Pagd7deMyjMMdO0q2rRnE_Q9-_vpEjPlnHZmgH1cPR-DuQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.29,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Herschel Schacter",
       "url": "https://en.wikipedia.org/wiki/Herschel_Schacter",
       "firstSeenAt": "2026-11-10T14:49:44.158Z"
+    },
+    {
+      "id": "channel:UCayenVcNFTYvBS18NjTStLA",
+      "type": "channel",
+      "label": "Rebbe Clips",
+      "url": "https://www.youtube.com/channel/UCayenVcNFTYvBS18NjTStLA",
+      "firstSeenAt": "2026-11-24T17:39:03.467Z"
     }
   ],
   "recentItems": []

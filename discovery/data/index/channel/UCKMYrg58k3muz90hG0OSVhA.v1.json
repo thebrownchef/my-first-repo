@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCKMYrg58k3muz90hG0OSVhA",
   "title": "Fearless Records",
   "thumb": "https://yt3.ggpht.com/j2yZ4NeQBSA5GAaYNJmMo1WKwlSMdUrpe-lSAbQWfwJglBSv35H_8bc1i-TyJ75jz_ulCX69mQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.39,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "A Static Lullaby",
       "url": "https://en.wikipedia.org/wiki/A_Static_Lullaby",
       "firstSeenAt": "2026-11-12T15:08:31.511Z"
+    },
+    {
+      "id": "channel:UCH_TWswNlSRz9LtnpWOmA2Q",
+      "type": "channel",
+      "label": "Alternative Press",
+      "url": "https://www.youtube.com/channel/UCH_TWswNlSRz9LtnpWOmA2Q",
+      "firstSeenAt": "2026-11-24T17:38:56.197Z"
     }
   ],
   "recentItems": []

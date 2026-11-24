@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCRpjHHu8ivVWs73uxHlWwFA",
   "title": "Eurovision Song Contest",
   "thumb": "https://yt3.ggpht.com/Nbk9FOWmzYz-1eYlnqhnR1qT0ULJ2iQ0L4IR1eLx7silv-qETBsh_LjpUgnG0WvV6fZypNzCfw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 1.2,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "crawlinghybrid2001",
       "url": "https://www.youtube.com/channel/UCQaR3-vpcl5abzvKxILpmcA",
       "firstSeenAt": "2026-11-13T14:31:27.021Z"
+    },
+    {
+      "id": "wiki:Axel Ehnström",
+      "type": "wikipedia",
+      "label": "Axel Ehnström",
+      "url": "https://en.wikipedia.org/wiki/Axel_Ehnstr%C3%B6m",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCtVkLGyanc902-zj4EJce5w",
   "title": "Carly Simon",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ncBITi-mQL431wqIpnPtZXWnqsCY7Va6A5a1GahCMMHPE=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "This Is My Life (soundtrack)",
       "url": "https://en.wikipedia.org/wiki/This_Is_My_Life_(soundtrack)",
       "firstSeenAt": "2026-11-18T15:35:37.007Z"
+    },
+    {
+      "id": "wiki:My New Boyfriend",
+      "type": "wikipedia",
+      "label": "My New Boyfriend",
+      "url": "https://en.wikipedia.org/wiki/My_New_Boyfriend",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

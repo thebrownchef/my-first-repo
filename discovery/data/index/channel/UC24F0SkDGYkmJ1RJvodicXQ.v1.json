@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC24F0SkDGYkmJ1RJvodicXQ",
   "title": "DFA Records",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nFtaLcFp4bcf2HWchZPaCs5gGPXsLmG9W1fUhseBwII5c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Future Will Come",
       "url": "https://en.wikipedia.org/wiki/The_Future_Will_Come",
       "firstSeenAt": "2026-11-02T15:44:43.064Z"
+    },
+    {
+      "id": "wiki:Slim Twig",
+      "type": "wikipedia",
+      "label": "Slim Twig",
+      "url": "https://en.wikipedia.org/wiki/Slim_Twig",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

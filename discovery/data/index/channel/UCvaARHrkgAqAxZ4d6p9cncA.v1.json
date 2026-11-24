@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCvaARHrkgAqAxZ4d6p9cncA",
   "title": "mrblindfreddy9999",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lfM6D6AJm3BcaPvPtwN5seAFhKoB8a30fzcLL6gxh2IA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.28,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The Blue Juniata",
       "url": "https://en.wikipedia.org/wiki/The_Blue_Juniata",
       "firstSeenAt": "2026-11-13T14:31:16.364Z"
+    },
+    {
+      "id": "wiki:Elton Britt",
+      "type": "wikipedia",
+      "label": "Elton Britt",
+      "url": "https://en.wikipedia.org/wiki/Elton_Britt",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
     }
   ],
   "recentItems": []

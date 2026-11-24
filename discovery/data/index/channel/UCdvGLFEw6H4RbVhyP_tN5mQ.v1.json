@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCdvGLFEw6H4RbVhyP_tN5mQ",
   "title": "collectionCB2",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lD04B-tTcgT3Yk2ileKQUYZwvLTc8XYERaIKzuQ5F0Cg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Ina Boyle",
       "url": "https://en.wikipedia.org/wiki/Ina_Boyle",
       "firstSeenAt": "2026-11-20T15:23:43.536Z"
+    },
+    {
+      "id": "channel:UCQzJWmOB0CnaTI4C966Ym3Q",
+      "type": "channel",
+      "label": "collectionCB3",
+      "url": "https://www.youtube.com/channel/UCQzJWmOB0CnaTI4C966Ym3Q",
+      "firstSeenAt": "2026-11-24T17:39:00.807Z"
     }
   ],
   "recentItems": []

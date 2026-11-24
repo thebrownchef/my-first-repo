@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCeq81A3_ZzK5-A74k3BQ7hg",
   "title": "noochinator2",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lh6VdqawNm5ieK7V0ANgIz-deVYyp-QkB0bmOj8oExmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -57,6 +57,20 @@
       "label": "James Dickey",
       "url": "https://en.wikipedia.org/wiki/James_Dickey",
       "firstSeenAt": "2026-11-22T14:30:52.630Z"
+    },
+    {
+      "id": "wiki:András Schiff",
+      "type": "wikipedia",
+      "label": "András Schiff",
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A1s_Schiff",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
+    },
+    {
+      "id": "wiki:Renata Scotto",
+      "type": "wikipedia",
+      "label": "Renata Scotto",
+      "url": "https://en.wikipedia.org/wiki/Renata_Scotto",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

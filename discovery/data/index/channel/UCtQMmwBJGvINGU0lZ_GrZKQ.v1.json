@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCtQMmwBJGvINGU0lZ_GrZKQ",
   "title": "PharrellWilliamsVEVO",
   "thumb": "https://yt3.ggpht.com/LtoZFEyh1hUGli1q-KPUc9EyYCQSFWif6pjc7fz8SQbS8W_LDhWUTZbptouwWLcXzJjn7r5p=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "AloeBlaccVEVO",
       "url": "https://www.youtube.com/channel/UCcFKiA_8CSzamBPw3dPNRbQ",
       "firstSeenAt": "2026-11-18T15:35:55.439Z"
+    },
+    {
+      "id": "wiki:Gust of Wind",
+      "type": "wikipedia",
+      "label": "Gust of Wind",
+      "url": "https://en.wikipedia.org/wiki/Gust_of_Wind",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

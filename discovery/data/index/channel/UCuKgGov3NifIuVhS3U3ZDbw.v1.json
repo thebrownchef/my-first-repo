@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCuKgGov3NifIuVhS3U3ZDbw",
   "title": "PBS KIDS for Parents",
   "thumb": "https://yt3.ggpht.com/KoNg0iUHWMIUyfI9VV9-q66T0KC0xs2zOom76a3G-uORf8gycBaNg4OxHgmd5jbcq0RD2DDW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Milwaukee PBS",
       "url": "https://www.youtube.com/channel/UCDttISJ8lpx_476pF3i3sfA",
       "firstSeenAt": "2026-11-11T14:16:46.785Z"
+    },
+    {
+      "id": "channel:UCbWLVuRxF-DLCJPSuJl2c3w",
+      "type": "channel",
+      "label": "SparkAction",
+      "url": "https://www.youtube.com/channel/UCbWLVuRxF-DLCJPSuJl2c3w",
+      "firstSeenAt": "2026-11-24T17:38:52.470Z"
     }
   ],
   "recentItems": []

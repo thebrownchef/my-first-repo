@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC5OrDvL9DscpcAstz7JnQGA",
   "title": "Michael Jackson",
   "thumb": "https://yt3.ggpht.com/nvt02XjPB-lklNBuV8rI9BQOgD1l7geYdJBzTkgoFJTgdK_Fzv_eaoQ9jV4Vb9DWFks0QFzeog=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "michaeljacksonVEVO",
       "url": "https://www.youtube.com/channel/UCulYu1HEIa7f70L2lYZWHOw",
       "firstSeenAt": "2026-10-04T12:19:01.300Z"
+    },
+    {
+      "id": "wiki:2014 in American music",
+      "type": "wikipedia",
+      "label": "2014 in American music",
+      "url": "https://en.wikipedia.org/wiki/2014_in_American_music",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
     }
   ],
   "recentItems": []

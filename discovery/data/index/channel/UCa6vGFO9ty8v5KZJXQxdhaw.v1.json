@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCa6vGFO9ty8v5KZJXQxdhaw",
   "title": "Jimmy Kimmel Live",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhbMFP_RRAtTgX-58mKKhuVG_P-qESOBnMDiPE0vhJgEMm=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 1.11,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Chandelier (song)",
       "url": "https://en.wikipedia.org/wiki/Chandelier_(song)",
       "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Joel the Lump of Coal",
+      "type": "wikipedia",
+      "label": "Joel the Lump of Coal",
+      "url": "https://en.wikipedia.org/wiki/Joel_the_Lump_of_Coal",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC5BMQOsAB8hKUyHu9KI6yig",
   "title": "KBS WORLD TV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kWAyYX8IuruW0YuQuEK6Jn-cfqZZ8oFZCcpy7HnzB3C_FA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 12.23,
   "sources": [
@@ -85,6 +85,20 @@
       "label": "Fly High (EP)",
       "url": "https://en.wikipedia.org/wiki/Fly_High_(EP)",
       "firstSeenAt": "2026-11-06T14:13:06.882Z"
+    },
+    {
+      "id": "wiki:I Am a Man (TV series)",
+      "type": "wikipedia",
+      "label": "I Am a Man (TV series)",
+      "url": "https://en.wikipedia.org/wiki/I_Am_a_Man_(TV_series)",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
+    },
+    {
+      "id": "wiki:Do You Know Taekwondo?",
+      "type": "wikipedia",
+      "label": "Do You Know Taekwondo?",
+      "url": "https://en.wikipedia.org/wiki/Do_You_Know_Taekwondo%3F",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

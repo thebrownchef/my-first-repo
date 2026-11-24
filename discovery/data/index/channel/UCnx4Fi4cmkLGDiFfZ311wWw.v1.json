@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCnx4Fi4cmkLGDiFfZ311wWw",
   "title": "스브스 예능맛집",
   "thumb": "https://yt3.ggpht.com/N4ISELzK2JUX9a82XoRDipAAZWLozCQR0d9IORLfS9yzJqtA4_M1h6jvre7OI9zH1y4ouLenIa0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
-  "uploadsPerDay": 1.02,
+  "uploadsPerDay": 1.03,
   "sources": [
     {
       "id": "channel:UCS_hnpJLQTvBkqALgapi_4g",
@@ -78,6 +78,20 @@
       "label": "K-pop Star 3",
       "url": "https://en.wikipedia.org/wiki/K-pop_Star_3",
       "firstSeenAt": "2026-11-04T14:28:06.791Z"
+    },
+    {
+      "id": "wiki:K-pop Star 4",
+      "type": "wikipedia",
+      "label": "K-pop Star 4",
+      "url": "https://en.wikipedia.org/wiki/K-pop_Star_4",
+      "firstSeenAt": "2026-11-24T17:38:30.921Z"
+    },
+    {
+      "id": "wiki:K-pop Star",
+      "type": "wikipedia",
+      "label": "K-pop Star",
+      "url": "https://en.wikipedia.org/wiki/K-pop_Star",
+      "firstSeenAt": "2026-11-24T17:38:36.212Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCrfKGpvbEQXcbe68dzXgJuA",
   "title": "Forgotten Weapons",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mIW03OQQgHpn-qTwn2hjwhDEf22q41reXpvfYs0hkDPSo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.82,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "Sedgley OSS .38",
       "url": "https://en.wikipedia.org/wiki/Sedgley_OSS_.38",
       "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:Zastava M76",
+      "type": "wikipedia",
+      "label": "Zastava M76",
+      "url": "https://en.wikipedia.org/wiki/Zastava_M76",
+      "firstSeenAt": "2026-11-24T17:38:33.295Z"
     }
   ],
   "recentItems": []

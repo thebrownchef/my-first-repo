@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC0uVZd8N7FfIZnPu0y7o95A",
   "title": "ReasonTV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_laWbFN7VLpzIpPbp2eO_YiLXnMZV2R5NBawv6mtz9jDZ0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.7,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "David Stockman",
       "url": "https://en.wikipedia.org/wiki/David_Stockman",
       "firstSeenAt": "2026-11-19T15:41:29.094Z"
+    },
+    {
+      "id": "wiki:Cody Wilson",
+      "type": "wikipedia",
+      "label": "Cody Wilson",
+      "url": "https://en.wikipedia.org/wiki/Cody_Wilson",
+      "firstSeenAt": "2026-11-24T17:38:33.293Z"
     }
   ],
   "recentItems": []

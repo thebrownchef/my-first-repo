@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC3ePO05Z8DUw-w9F59p5Mjg",
   "title": "Kimberley Chen",
   "thumb": "https://yt3.ggpht.com/hT4S6M_gXWSBoKT2nb0O3WXLoUq7jmj7Oa3-OTVnxwy2TPTs5sUyMOLQkU4CYJ0ZEsrJq8R2=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Liljay",
       "url": "https://en.wikipedia.org/wiki/Liljay",
       "firstSeenAt": "2026-10-30T12:50:07.350Z"
+    },
+    {
+      "id": "wiki:Jasper Liu",
+      "type": "wikipedia",
+      "label": "Jasper Liu",
+      "url": "https://en.wikipedia.org/wiki/Jasper_Liu",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

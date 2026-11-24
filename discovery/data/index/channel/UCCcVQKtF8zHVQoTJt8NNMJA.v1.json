@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCCcVQKtF8zHVQoTJt8NNMJA",
   "title": "AfterBuzz TV",
   "thumb": "https://yt3.ggpht.com/u8UAzL-SDd26jLZuCJNcx8c4TrYY9-kfF4tRVEO5mgtcvT8a2M3OKQ5ga8bx9mmSfa57TtgX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 98,
-  "distinctSourceCount": 98,
+  "score": 104,
+  "distinctSourceCount": 104,
   "hop": 1,
   "uploadsPerDay": 4.46,
   "sources": [
@@ -694,6 +694,48 @@
       "label": "Queer Eyes, Full Hearts",
       "url": "https://en.wikipedia.org/wiki/Queer_Eyes%2C_Full_Hearts",
       "firstSeenAt": "2026-11-23T18:00:33.859Z"
+    },
+    {
+      "id": "wiki:Three Turkeys",
+      "type": "wikipedia",
+      "label": "Three Turkeys",
+      "url": "https://en.wikipedia.org/wiki/Three_Turkeys",
+      "firstSeenAt": "2026-11-24T17:38:33.295Z"
+    },
+    {
+      "id": "wiki:Black Hole Sun (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Black Hole Sun (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Black_Hole_Sun_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
+    },
+    {
+      "id": "wiki:The World Has Turned and Left Me Here",
+      "type": "wikipedia",
+      "label": "The World Has Turned and Left Me Here",
+      "url": "https://en.wikipedia.org/wiki/The_World_Has_Turned_and_Left_Me_Here",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
+    },
+    {
+      "id": "wiki:The More You Ignore Me, the Closer I Get (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "The More You Ignore Me, the Closer I Get (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/The_More_You_Ignore_Me%2C_the_Closer_I_Get_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
+    },
+    {
+      "id": "wiki:Do You Remember the First Time? (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Do You Remember the First Time? (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Do_You_Remember_the_First_Time%3F_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
+    },
+    {
+      "id": "wiki:Fade into You (The Vampire Diaries)",
+      "type": "wikipedia",
+      "label": "Fade into You (The Vampire Diaries)",
+      "url": "https://en.wikipedia.org/wiki/Fade_into_You_(The_Vampire_Diaries)",
+      "firstSeenAt": "2026-11-24T17:38:35.591Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCI-Oq7oFGakzSzHFlTtsUsQ",
   "title": "ESNEWS",
   "thumb": "https://yt3.ggpht.com/6llf4wpUPr8NOxNUSXsYAwElOCC6BrUuqRiFK7_l4ZqbFIaOI8B2Lc2UAprDaA_Q0EhHy6nudg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 20.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Victor Pasillas",
       "url": "https://en.wikipedia.org/wiki/Victor_Pasillas",
       "firstSeenAt": "2026-10-29T12:56:13.783Z"
+    },
+    {
+      "id": "wiki:Floyd Mayweather Jr.",
+      "type": "wikipedia",
+      "label": "Floyd Mayweather Jr.",
+      "url": "https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.",
+      "firstSeenAt": "2026-11-24T17:38:37.540Z"
     }
   ],
   "recentItems": []

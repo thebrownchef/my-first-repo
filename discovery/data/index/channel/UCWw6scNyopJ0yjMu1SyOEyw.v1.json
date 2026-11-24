@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCWw6scNyopJ0yjMu1SyOEyw",
   "title": "talkSPORT",
   "thumb": "https://yt3.ggpht.com/i_nrwhCjuhW-XibmYmGBLptarZmwXf5qma5vXgVEVZKR7FkpPvjx4oWt5vUccCBI2WIn3RscRFI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 7.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "TalkTV",
       "url": "https://www.youtube.com/channel/UCm0yTweyAa0PwEIp0l3N_gA",
       "firstSeenAt": "2026-10-13T14:08:12.938Z"
+    },
+    {
+      "id": "wiki:David Ginola",
+      "type": "wikipedia",
+      "label": "David Ginola",
+      "url": "https://en.wikipedia.org/wiki/David_Ginola",
+      "firstSeenAt": "2026-11-24T17:38:33.294Z"
     }
   ],
   "recentItems": []

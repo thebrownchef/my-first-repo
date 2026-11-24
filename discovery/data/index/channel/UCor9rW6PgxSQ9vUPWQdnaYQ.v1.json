@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCor9rW6PgxSQ9vUPWQdnaYQ",
   "title": "SearchlightPictures",
   "thumb": "https://yt3.ggpht.com/NJLifmPzxlxslQCFAGS0qnp8knDuBDvOa1xkULJzWkOYcZmzZJUpT1WVDSharUIGhNKx3KXWpw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "The Weary Kind",
       "url": "https://en.wikipedia.org/wiki/The_Weary_Kind",
       "firstSeenAt": "2026-11-05T14:35:30.322Z"
+    },
+    {
+      "id": "wiki:Falling Slowly",
+      "type": "wikipedia",
+      "label": "Falling Slowly",
+      "url": "https://en.wikipedia.org/wiki/Falling_Slowly",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

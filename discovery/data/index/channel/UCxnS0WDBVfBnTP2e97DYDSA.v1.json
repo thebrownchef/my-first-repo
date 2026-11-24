@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCxnS0WDBVfBnTP2e97DYDSA",
   "title": "riserecords",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nU6_yPbHlwf2K5uwf_CIUXpiXKXXBR-EaY51SOxol6VIQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.7,
   "sources": [
@@ -92,6 +92,20 @@
       "label": "The Color Morale",
       "url": "https://en.wikipedia.org/wiki/The_Color_Morale",
       "firstSeenAt": "2026-11-20T15:23:41.388Z"
+    },
+    {
+      "id": "wiki:Crown the Empire discography",
+      "type": "wikipedia",
+      "label": "Crown the Empire discography",
+      "url": "https://en.wikipedia.org/wiki/Crown_the_Empire_discography",
+      "firstSeenAt": "2026-11-24T17:38:35.591Z"
+    },
+    {
+      "id": "channel:UCH_TWswNlSRz9LtnpWOmA2Q",
+      "type": "channel",
+      "label": "Alternative Press",
+      "url": "https://www.youtube.com/channel/UCH_TWswNlSRz9LtnpWOmA2Q",
+      "firstSeenAt": "2026-11-24T17:38:56.196Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCGnlgHCdAsCNeAdNRTbS4hg",
   "title": "RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kzCs6Jo_vk0x1Usndx_fmWQppooWChAV_6fb9B8JZm5tI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 1.41,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "John Sheahan",
       "url": "https://en.wikipedia.org/wiki/John_Sheahan",
       "firstSeenAt": "2026-11-20T15:23:43.536Z"
+    },
+    {
+      "id": "wiki:The Blades (band)",
+      "type": "wikipedia",
+      "label": "The Blades (band)",
+      "url": "https://en.wikipedia.org/wiki/The_Blades_(band)",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

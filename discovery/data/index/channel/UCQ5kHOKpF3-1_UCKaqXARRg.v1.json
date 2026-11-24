@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCQ5kHOKpF3-1_UCKaqXARRg",
   "title": "OneRepublicVEVO",
   "thumb": "https://yt3.ggpht.com/WreNpfmfoL90x5CpxIppz6bG-O4-71yTWdAW_lFAjTRFIoqWek_sfMZ14i0JAY2sStjhCKvtcA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Native (album)",
       "url": "https://en.wikipedia.org/wiki/Native_(album)",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:I Lived",
+      "type": "wikipedia",
+      "label": "I Lived",
+      "url": "https://en.wikipedia.org/wiki/I_Lived",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

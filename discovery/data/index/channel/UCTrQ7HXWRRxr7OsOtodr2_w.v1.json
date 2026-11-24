@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCTrQ7HXWRRxr7OsOtodr2_w",
   "title": "Channel 4 News",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mNdhtpAi0ZQmCqfkDSq6MQVdbfZe-c70nZ1qqdyQNzK3c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 3.57,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Film4",
       "url": "https://www.youtube.com/channel/UCnmDn3QFyDe4WJ44CsiSiiw",
       "firstSeenAt": "2026-09-18T11:11:11.162Z"
+    },
+    {
+      "id": "wiki:Russell Brand",
+      "type": "wikipedia",
+      "label": "Russell Brand",
+      "url": "https://en.wikipedia.org/wiki/Russell_Brand",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCaiYCcPssjd8IunMpjBsd1w",
   "title": "Kevin Sibley",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lBjnZXtGOycoVBlbsFEil8yjPHs-Vsiob3Z5Jtzp4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "David Jenkins (sprinter)",
       "url": "https://en.wikipedia.org/wiki/David_Jenkins_(sprinter)",
       "firstSeenAt": "2026-11-21T14:36:45.628Z"
+    },
+    {
+      "id": "wiki:Robert Taylor (sprinter, born 1953)",
+      "type": "wikipedia",
+      "label": "Robert Taylor (sprinter, born 1953)",
+      "url": "https://en.wikipedia.org/wiki/Robert_Taylor_(sprinter%2C_born_1953)",
+      "firstSeenAt": "2026-11-24T17:38:33.293Z"
+    },
+    {
+      "id": "wiki:Steve Williams (sprinter)",
+      "type": "wikipedia",
+      "label": "Steve Williams (sprinter)",
+      "url": "https://en.wikipedia.org/wiki/Steve_Williams_(sprinter)",
+      "firstSeenAt": "2026-11-24T17:38:35.591Z"
     }
   ],
   "recentItems": []

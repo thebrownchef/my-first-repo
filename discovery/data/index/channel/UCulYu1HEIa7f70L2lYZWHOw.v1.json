@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCulYu1HEIa7f70L2lYZWHOw",
   "title": "michaeljacksonVEVO",
   "thumb": "https://yt3.ggpht.com/nvt02XjPB-lklNBuV8rI9BQOgD1l7geYdJBzTkgoFJTgdK_Fzv_eaoQ9jV4Vb9DWFks0QFzeog=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Michael Jackson's Thriller (music video)",
       "url": "https://en.wikipedia.org/wiki/Michael_Jackson's_Thriller_(music_video)",
       "firstSeenAt": "2026-11-23T18:00:27.572Z"
+    },
+    {
+      "id": "wiki:Gone Too Soon",
+      "type": "wikipedia",
+      "label": "Gone Too Soon",
+      "url": "https://en.wikipedia.org/wiki/Gone_Too_Soon",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []

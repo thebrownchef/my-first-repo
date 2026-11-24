@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UCe52oeb7Xv_KaJsEzcKXJJg",
   "title": "MBCkpop",
   "thumb": "https://yt3.ggpht.com/lMLCpSdIgJNZ11RW-0hyfU3Xb4f-molFbQFPn_302s1BAjJUFL8298P4Sbz_W76YEWtwscXi-48=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 10.83,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Home (Roy Kim album)",
       "url": "https://en.wikipedia.org/wiki/Home_(Roy_Kim_album)",
       "firstSeenAt": "2026-11-22T14:30:49.887Z"
+    },
+    {
+      "id": "wiki:MFBTY",
+      "type": "wikipedia",
+      "label": "MFBTY",
+      "url": "https://en.wikipedia.org/wiki/MFBTY",
+      "firstSeenAt": "2026-11-24T17:38:35.590Z"
     }
   ],
   "recentItems": []

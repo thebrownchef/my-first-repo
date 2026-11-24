@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T18:02:12.846Z",
+  "generatedAt": "2026-11-24T17:40:06.847Z",
   "id": "UC3p0IP1v4OoJOKl-PS5g0_w",
   "title": "TakeThatVEVO",
   "thumb": "https://yt3.ggpht.com/p5dXNF6vLKueXOfKQOPl-h4hKjh-WY8HApz4TS-WxKgpndgIxfY7v4JXwZMzES1hKq1HWONX=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "III (Take That album)",
       "url": "https://en.wikipedia.org/wiki/III_(Take_That_album)",
       "firstSeenAt": "2026-11-21T14:36:45.629Z"
+    },
+    {
+      "id": "wiki:These Days (Take That song)",
+      "type": "wikipedia",
+      "label": "These Days (Take That song)",
+      "url": "https://en.wikipedia.org/wiki/These_Days_(Take_That_song)",
+      "firstSeenAt": "2026-11-24T17:38:37.541Z"
     }
   ],
   "recentItems": []
