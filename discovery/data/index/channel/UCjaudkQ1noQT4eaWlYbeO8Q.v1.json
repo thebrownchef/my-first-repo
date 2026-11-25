@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCjaudkQ1noQT4eaWlYbeO8Q",
   "title": "SQEXPresents",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nnq_ZmhaF2tk4oq1rZMdh2AElBQohziq9tqM_Kqk9NcQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Square Enix France",
       "url": "https://www.youtube.com/channel/UCeqwjW73WROhLduO384pAPQ",
       "firstSeenAt": "2026-09-20T11:20:17.896Z"
+    },
+    {
+      "id": "wiki:Compilation of Final Fantasy VII",
+      "type": "wikipedia",
+      "label": "Compilation of Final Fantasy VII",
+      "url": "https://en.wikipedia.org/wiki/Compilation_of_Final_Fantasy_VII",
+      "firstSeenAt": "2026-11-25T17:09:41.469Z"
     }
   ],
   "recentItems": []

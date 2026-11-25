@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UC_NaA2HkWDT6dliWVcvnkuQ",
   "title": "Creators",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_m6B2s4Ixg818pRwrip1H3JqfKochbi1ANxOrrZKVSpPVk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Nixie Labs Nixie",
       "url": "https://en.wikipedia.org/wiki/Nixie_Labs_Nixie",
       "firstSeenAt": "2026-11-22T14:30:47.694Z"
+    },
+    {
+      "id": "wiki:Benjamin Millepied",
+      "type": "wikipedia",
+      "label": "Benjamin Millepied",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Millepied",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

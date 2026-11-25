@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "id": "UCkTtNUjvPcSc50HyO7sBtxg",
+  "title": "MovieWeb",
+  "thumb": "https://yt3.ggpht.com/kNhSbk5cpJ_brVTp-b8YiEHnrxm60deyNwmjUpXPSr4osfI_asnujcsjnmse8Mh-QxNYZM7l=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.71,
+  "sources": [
+    {
+      "id": "channel:UCucI17HvK1Iy9AqjzqZ3ZVg",
+      "type": "channel",
+      "label": "TVweb",
+      "url": "https://www.youtube.com/channel/UCucI17HvK1Iy9AqjzqZ3ZVg",
+      "firstSeenAt": "2026-11-10T14:50:01.784Z"
+    },
+    {
+      "id": "wiki:Dear Zachary: A Letter to a Son About His Father",
+      "type": "wikipedia",
+      "label": "Dear Zachary: A Letter to a Son About His Father",
+      "url": "https://en.wikipedia.org/wiki/Dear_Zachary%3A_A_Letter_to_a_Son_About_His_Father",
+      "firstSeenAt": "2026-11-25T17:09:36.638Z"
+    }
+  ],
+  "recentItems": []
+}

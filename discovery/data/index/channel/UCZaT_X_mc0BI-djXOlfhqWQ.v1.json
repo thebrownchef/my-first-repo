@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCZaT_X_mc0BI-djXOlfhqWQ",
   "title": "VICE News",
   "thumb": "https://yt3.ggpht.com/5-T_4OQwbVFrezPHUc3VP3wCyqo8nZ-VMOpJA_nppoxnZ6IhSVx1PrJPgfFkxD4Z8c5eDuQ9XQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 0,
   "uploadsPerDay": 1.48,
   "sources": [
@@ -127,6 +127,13 @@
       "label": "Vice News",
       "url": "https://en.wikipedia.org/wiki/Vice_News",
       "firstSeenAt": "2026-11-18T15:35:40.191Z"
+    },
+    {
+      "id": "wiki:James Elmer Mitchell",
+      "type": "wikipedia",
+      "label": "James Elmer Mitchell",
+      "url": "https://en.wikipedia.org/wiki/James_Elmer_Mitchell",
+      "firstSeenAt": "2026-11-25T17:09:39.108Z"
     }
   ],
   "recentItems": []

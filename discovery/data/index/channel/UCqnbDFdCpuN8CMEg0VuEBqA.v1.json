@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCqnbDFdCpuN8CMEg0VuEBqA",
   "title": "The New York Times",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niRq8CFu_t0QX45kIzJ58GtS9zlO2SGo7wArxG9gy6uEc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.5,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Jules Dervaes",
       "url": "https://en.wikipedia.org/wiki/Jules_Dervaes",
       "firstSeenAt": "2026-11-20T15:23:43.536Z"
+    },
+    {
+      "id": "wiki:Zhang Yimou",
+      "type": "wikipedia",
+      "label": "Zhang Yimou",
+      "url": "https://en.wikipedia.org/wiki/Zhang_Yimou",
+      "firstSeenAt": "2026-11-25T17:09:41.471Z"
     }
   ],
   "recentItems": []

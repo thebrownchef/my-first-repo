@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "id": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+  "title": "Microsoft Research",
+  "thumb": "https://yt3.ggpht.com/H4L6_GZ4lS3MqX3Rw9XnqAfltj1GZscDT4144uypXqNuVYhqLmUiTRiWygg7cnhMdM2nfxo9KFM=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 1.44,
+  "sources": [
+    {
+      "id": "wiki:Oren Etzioni",
+      "type": "wikipedia",
+      "label": "Oren Etzioni",
+      "url": "https://en.wikipedia.org/wiki/Oren_Etzioni",
+      "firstSeenAt": "2026-11-06T14:13:09.926Z"
+    },
+    {
+      "id": "wiki:Microsoft Translator",
+      "type": "wikipedia",
+      "label": "Microsoft Translator",
+      "url": "https://en.wikipedia.org/wiki/Microsoft_Translator",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
+    },
+    {
+      "id": "wiki:Skype Translator",
+      "type": "wikipedia",
+      "label": "Skype Translator",
+      "url": "https://en.wikipedia.org/wiki/Skype_Translator",
+      "firstSeenAt": "2026-11-25T17:09:41.470Z"
+    }
+  ],
+  "recentItems": []
+}

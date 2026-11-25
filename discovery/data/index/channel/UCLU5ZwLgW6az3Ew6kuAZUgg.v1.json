@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "id": "UCLU5ZwLgW6az3Ew6kuAZUgg",
+  "title": "Antonio Martins",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kfv1jYnuKX_yFTNKYYAyg8fZaspu9-XIDRxmkLu-RUVg=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.07,
+  "sources": [
+    {
+      "id": "wiki:Arusha Airport",
+      "type": "wikipedia",
+      "label": "Arusha Airport",
+      "url": "https://en.wikipedia.org/wiki/Arusha_Airport",
+      "firstSeenAt": "2026-11-25T17:09:41.470Z"
+    },
+    {
+      "id": "wiki:Lake Manyara Airport",
+      "type": "wikipedia",
+      "label": "Lake Manyara Airport",
+      "url": "https://en.wikipedia.org/wiki/Lake_Manyara_Airport",
+      "firstSeenAt": "2026-11-25T17:09:41.470Z"
+    }
+  ],
+  "recentItems": []
+}

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCh6KFtW4a4Ozr81GI1cxaBQ",
   "title": "University of California Television (UCTV)",
   "thumb": "https://yt3.ggpht.com/ABuxegbRX6xVmeFnmLMJtPe6IwRRE4Rh6oeVzuT2apDmp4MHb-0psv6EQQZDn50D_SluKZ7th7M=s88-c-k-c0x00ffffff-no-rj",
-  "score": 16,
-  "distinctSourceCount": 16,
+  "score": 17,
+  "distinctSourceCount": 17,
   "hop": 0,
   "uploadsPerDay": 1.52,
   "sources": [
@@ -120,6 +120,13 @@
       "label": "Tecla Namachanja Wanjala",
       "url": "https://en.wikipedia.org/wiki/Tecla_Namachanja_Wanjala",
       "firstSeenAt": "2026-11-20T15:23:43.536Z"
+    },
+    {
+      "id": "wiki:Harry Kreisler",
+      "type": "wikipedia",
+      "label": "Harry Kreisler",
+      "url": "https://en.wikipedia.org/wiki/Harry_Kreisler",
+      "firstSeenAt": "2026-11-25T17:09:36.639Z"
     }
   ],
   "recentItems": []

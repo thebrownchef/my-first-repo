@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCMY4Z-J2HERv_dEt0wrSATw",
   "title": "WHYY",
   "thumb": "https://yt3.ggpht.com/n7stCKeV5oIMJwj4nkPj69vV3QStP6-dSR0Mie9HQmDXBynk52U0siiyAzrzDoC7ZbN-Aw7KkQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.94,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Atlantic horseshoe crab",
       "url": "https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab",
       "firstSeenAt": "2026-11-07T12:56:33.840Z"
+    },
+    {
+      "id": "wiki:Frank Stefanko",
+      "type": "wikipedia",
+      "label": "Frank Stefanko",
+      "url": "https://en.wikipedia.org/wiki/Frank_Stefanko",
+      "firstSeenAt": "2026-11-25T17:09:36.639Z"
     }
   ],
   "recentItems": []

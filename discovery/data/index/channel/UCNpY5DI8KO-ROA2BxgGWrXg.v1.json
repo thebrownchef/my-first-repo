@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCNpY5DI8KO-ROA2BxgGWrXg",
   "title": "RickyMartinVEVO",
   "thumb": "https://yt3.ggpht.com/EFrrgdVLsQ8MgVq_7D6N-gyDPK3GVJNrAmI2hymvaa_gYQ8El2bw3b4eEQLtcNv410eXrxvuCg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Vida (Ricky Martin song)",
       "url": "https://en.wikipedia.org/wiki/Vida_(Ricky_Martin_song)",
       "firstSeenAt": "2026-11-09T16:12:20.261Z"
+    },
+    {
+      "id": "wiki:Adiós (Ricky Martin song)",
+      "type": "wikipedia",
+      "label": "Adiós (Ricky Martin song)",
+      "url": "https://en.wikipedia.org/wiki/Adi%C3%B3s_(Ricky_Martin_song)",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCmVE1oDNf5IjExOGfdbL3SA",
   "title": "NettwerkMusic",
   "thumb": "https://yt3.ggpht.com/WgRK3nOpCTWbXVzs9B_n1GgN9sn-Bf5u6AA0HrX7jyDKVTQdddEcMd1iIt1RYyuw8VLsiMwLrps=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Abereiddy",
       "url": "https://en.wikipedia.org/wiki/Abereiddy",
       "firstSeenAt": "2026-11-14T13:28:00.334Z"
+    },
+    {
+      "id": "wiki:Sam Cohen (musician)",
+      "type": "wikipedia",
+      "label": "Sam Cohen (musician)",
+      "url": "https://en.wikipedia.org/wiki/Sam_Cohen_(musician)",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

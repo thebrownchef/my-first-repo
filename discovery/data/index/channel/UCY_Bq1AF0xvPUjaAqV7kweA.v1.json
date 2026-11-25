@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCY_Bq1AF0xvPUjaAqV7kweA",
   "title": "SBS Dateline",
   "thumb": "https://yt3.ggpht.com/cJFm-76MoVSLW4-PELtOaonkWQmt0Zh0-kkcxH6VyQGvYlAcAoB49vAMDFsuXVZS06lyRBHjxQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Luo Meizhen",
       "url": "https://en.wikipedia.org/wiki/Luo_Meizhen",
       "firstSeenAt": "2026-11-10T14:49:44.158Z"
+    },
+    {
+      "id": "wiki:Mount Kemukus",
+      "type": "wikipedia",
+      "label": "Mount Kemukus",
+      "url": "https://en.wikipedia.org/wiki/Mount_Kemukus",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

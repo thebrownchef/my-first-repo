@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCryGec9PdUCLjpJW2mgCuLw",
   "title": "NASA Jet Propulsion Laboratory",
   "thumb": "https://yt3.ggpht.com/Qc8LKJsm3lqSGkKSb9kkJbJWW4PXBgt25eLVwWuMFZiSRl6RHptXnC2MwfmSl2kddj4Fhb3yQw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 2,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Gale (crater)",
       "url": "https://en.wikipedia.org/wiki/Gale_(crater)",
       "firstSeenAt": "2026-11-10T14:49:44.157Z"
+    },
+    {
+      "id": "wiki:Timeline of Mars Science Laboratory",
+      "type": "wikipedia",
+      "label": "Timeline of Mars Science Laboratory",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_Mars_Science_Laboratory",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

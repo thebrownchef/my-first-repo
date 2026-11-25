@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCTkC3Jt91QkqNAE4FGWkEIQ",
   "title": "The Royal Family",
   "thumb": "https://yt3.ggpht.com/U2m3ZogzHF0WqoxAN-p_V_2PQqwg4yoM1Kj082-a1aYlUIxuZUmHF8a9ixhc9hxki30uJjB8YZI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.26,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "British Stuff TV",
       "url": "https://www.youtube.com/channel/UCN5Bw2dVHHok-OxHfIj0jZA",
       "firstSeenAt": "2026-09-06T10:53:26.528Z"
+    },
+    {
+      "id": "channel:UCa-W8MmkkaHUrFlSqZLbucQ",
+      "type": "channel",
+      "label": "Governor-General",
+      "url": "https://www.youtube.com/channel/UCa-W8MmkkaHUrFlSqZLbucQ",
+      "firstSeenAt": "2026-11-25T17:09:57.602Z"
     }
   ],
   "recentItems": []

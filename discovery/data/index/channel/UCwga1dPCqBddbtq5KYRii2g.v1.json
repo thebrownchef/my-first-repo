@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCwga1dPCqBddbtq5KYRii2g",
   "title": "NTVUganda",
   "thumb": "https://yt3.ggpht.com/SN1BpMAwVOpO76y8M0nyF3Mte0sLIASnlORLKK9un6FwDUOPExmsuO60yLUgvTei8yPrlcZieQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 13.56,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Joseph Olita",
       "url": "https://en.wikipedia.org/wiki/Joseph_Olita",
       "firstSeenAt": "2026-11-24T17:38:37.541Z"
+    },
+    {
+      "id": "wiki:Rise and Fall of Idi Amin",
+      "type": "wikipedia",
+      "label": "Rise and Fall of Idi Amin",
+      "url": "https://en.wikipedia.org/wiki/Rise_and_Fall_of_Idi_Amin",
+      "firstSeenAt": "2026-11-25T17:09:39.108Z"
     }
   ],
   "recentItems": []

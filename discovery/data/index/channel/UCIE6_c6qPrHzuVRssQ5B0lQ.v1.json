@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCIE6_c6qPrHzuVRssQ5B0lQ",
   "title": "PentatonixVEVO",
   "thumb": "https://yt3.ggpht.com/mOPw7LayH33vrQC36RaTi6IK0BuRVPM18NgERoOTeGBioJhLxO1l_LAZmc8bAVEG0smtvs2V9Ks=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Pentatonix discography",
       "url": "https://en.wikipedia.org/wiki/Pentatonix_discography",
       "firstSeenAt": "2026-11-21T14:36:39.224Z"
+    },
+    {
+      "id": "wiki:Mary, Did You Know?",
+      "type": "wikipedia",
+      "label": "Mary, Did You Know?",
+      "url": "https://en.wikipedia.org/wiki/Mary%2C_Did_You_Know%3F",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

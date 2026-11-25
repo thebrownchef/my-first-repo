@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCxR7i_S5yMuTKkzEwRXdb9A",
   "title": "Cherry Red Records",
   "thumb": "https://yt3.ggpht.com/-cRnVejVE4J9zFrh7ShIzT_3SOOl6_y77YBqve1S8EUCYPG0BsuOiqcBl4a3lAhxA3IaBtNKEQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -64,6 +64,20 @@
       "label": "Stuart Cash",
       "url": "https://en.wikipedia.org/wiki/Stuart_Cash",
       "firstSeenAt": "2026-11-20T15:23:43.536Z"
+    },
+    {
+      "id": "wiki:Terry Brown (football manager)",
+      "type": "wikipedia",
+      "label": "Terry Brown (football manager)",
+      "url": "https://en.wikipedia.org/wiki/Terry_Brown_(football_manager)",
+      "firstSeenAt": "2026-11-25T17:09:41.470Z"
+    },
+    {
+      "id": "wiki:Paul Bence",
+      "type": "wikipedia",
+      "label": "Paul Bence",
+      "url": "https://en.wikipedia.org/wiki/Paul_Bence",
+      "firstSeenAt": "2026-11-25T17:09:41.470Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCM2nSBiVH_QQkaHfOmwkdtQ",
   "title": "Chicago Humanities",
   "thumb": "https://yt3.ggpht.com/-1dmQMxa68g0iuXcyN14VYwhJiO67_QtxIJ01F6JjA4RU0njGVoKIW-crsK1iTp-Su1FfQmUog=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Jenette Kahn",
       "url": "https://en.wikipedia.org/wiki/Jenette_Kahn",
       "firstSeenAt": "2026-11-20T15:23:43.535Z"
+    },
+    {
+      "id": "wiki:Anne Rice",
+      "type": "wikipedia",
+      "label": "Anne Rice",
+      "url": "https://en.wikipedia.org/wiki/Anne_Rice",
+      "firstSeenAt": "2026-11-25T17:09:36.639Z"
     }
   ],
   "recentItems": []

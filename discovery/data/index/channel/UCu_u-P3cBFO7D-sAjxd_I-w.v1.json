@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCu_u-P3cBFO7D-sAjxd_I-w",
   "title": "TVO Today",
   "thumb": "https://yt3.ggpht.com/jA8SGuwlShW5GFY7DTsdhzLW_-4E9U6j3ChwTipgJoebW2y1yT33X9kFj3ZD7BxmCgobD9ypNQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.64,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Bakyt Beshimov",
       "url": "https://en.wikipedia.org/wiki/Bakyt_Beshimov",
       "firstSeenAt": "2026-11-21T14:36:42.574Z"
+    },
+    {
+      "id": "wiki:Michael Landsberg",
+      "type": "wikipedia",
+      "label": "Michael Landsberg",
+      "url": "https://en.wikipedia.org/wiki/Michael_Landsberg",
+      "firstSeenAt": "2026-11-25T17:09:41.471Z"
     }
   ],
   "recentItems": []

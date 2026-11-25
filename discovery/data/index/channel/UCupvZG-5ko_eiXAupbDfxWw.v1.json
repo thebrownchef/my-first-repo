@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCupvZG-5ko_eiXAupbDfxWw",
   "title": "CNN",
   "thumb": "https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 24.38,
   "sources": [
@@ -78,6 +78,20 @@
       "label": "Mike D",
       "url": "https://en.wikipedia.org/wiki/Mike_D",
       "firstSeenAt": "2026-11-22T14:30:47.693Z"
+    },
+    {
+      "id": "wiki:Tony Perkins (politician)",
+      "type": "wikipedia",
+      "label": "Tony Perkins (politician)",
+      "url": "https://en.wikipedia.org/wiki/Tony_Perkins_(politician)",
+      "firstSeenAt": "2026-11-25T17:09:36.639Z"
+    },
+    {
+      "id": "wiki:Ferguson Municipal Public Library",
+      "type": "wikipedia",
+      "label": "Ferguson Municipal Public Library",
+      "url": "https://en.wikipedia.org/wiki/Ferguson_Municipal_Public_Library",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

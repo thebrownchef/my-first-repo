@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCDPM_n1atn2ijUwHd0NNRQw",
   "title": "Coldplay",
   "thumb": "https://yt3.ggpht.com/vWWn3HO1emNl2iGb08UuY4q_OtqXwUUWJMjMDr6bBPpuCBoWg-dE_Gu-yoMQNrBqb2gMzA3wLQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Magic (Coldplay song)",
       "url": "https://en.wikipedia.org/wiki/Magic_(Coldplay_song)",
       "firstSeenAt": "2026-11-08T13:19:11.788Z"
+    },
+    {
+      "id": "wiki:Miracles (Coldplay song)",
+      "type": "wikipedia",
+      "label": "Miracles (Coldplay song)",
+      "url": "https://en.wikipedia.org/wiki/Miracles_(Coldplay_song)",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

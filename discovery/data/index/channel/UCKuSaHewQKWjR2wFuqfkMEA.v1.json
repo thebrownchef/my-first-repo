@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCKuSaHewQKWjR2wFuqfkMEA",
   "title": "U.S. Navy",
   "thumb": "https://yt3.ggpht.com/iwYWxo0BnQuAh57okQk1RN1xULYmQpap0K49BwXGyd2He9N3f-4Fe5ViFxek0lOTOZcUmGj3lQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 1.23,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "America's Navy",
       "url": "https://www.youtube.com/channel/UCjdWZTMt_7O6Jue7gFbxj7w",
       "firstSeenAt": "2026-09-19T10:55:46.527Z"
+    },
+    {
+      "id": "wiki:USS Ponce (LPD-15)",
+      "type": "wikipedia",
+      "label": "USS Ponce (LPD-15)",
+      "url": "https://en.wikipedia.org/wiki/USS_Ponce_(LPD-15)",
+      "firstSeenAt": "2026-11-25T17:09:39.108Z"
     }
   ],
   "recentItems": []

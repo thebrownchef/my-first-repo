@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCjB9OChgVzzAJ0uUCZhIoKA",
   "title": "The Federal File",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lPLjrXE7RDl6HCUmEKIVsbPyLj9vCUGfYFUY5VzfAh5w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The Three Musketeers (1921 film)",
       "url": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(1921_film)",
       "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:Duck and Cover (film)",
+      "type": "wikipedia",
+      "label": "Duck and Cover (film)",
+      "url": "https://en.wikipedia.org/wiki/Duck_and_Cover_(film)",
+      "firstSeenAt": "2026-11-25T17:09:41.470Z"
     }
   ],
   "recentItems": []

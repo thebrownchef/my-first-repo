@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCprhX_G7Ksas92zvcOKObEA",
   "title": "Happy Music",
   "thumb": "https://yt3.ggpht.com/SHaDNB0108hXvFPcyagpOCs5fqCxVSpHqJwW_SL89zlFrEgb7trdvd1fvDzHwJywsMhte-oa=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Love on My Mind (Freemasons song)",
       "url": "https://en.wikipedia.org/wiki/Love_on_My_Mind_(Freemasons_song)",
       "firstSeenAt": "2026-10-05T14:32:46.433Z"
+    },
+    {
+      "id": "wiki:We Are Beautiful",
+      "type": "wikipedia",
+      "label": "We Are Beautiful",
+      "url": "https://en.wikipedia.org/wiki/We_Are_Beautiful",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

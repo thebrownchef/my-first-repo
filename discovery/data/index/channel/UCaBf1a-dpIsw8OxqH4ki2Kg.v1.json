@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCaBf1a-dpIsw8OxqH4ki2Kg",
   "title": "Geek & Sundry",
   "thumb": "https://yt3.ggpht.com/zi7GbYQvBWcaaIZSBtY7ns4KHXz-Twukt8q9kMkFWGJJAcbSiG0f6LuWKFnSFPF3IJHO_oES=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.42,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "The Morganville Vampires",
       "url": "https://en.wikipedia.org/wiki/The_Morganville_Vampires",
       "firstSeenAt": "2026-11-22T14:30:52.629Z"
+    },
+    {
+      "id": "wiki:Terror in Meeple City",
+      "type": "wikipedia",
+      "label": "Terror in Meeple City",
+      "url": "https://en.wikipedia.org/wiki/Terror_in_Meeple_City",
+      "firstSeenAt": "2026-11-25T17:09:39.108Z"
     }
   ],
   "recentItems": []

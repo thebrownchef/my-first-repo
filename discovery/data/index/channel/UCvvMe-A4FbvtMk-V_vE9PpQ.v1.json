@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCvvMe-A4FbvtMk-V_vE9PpQ",
   "title": "OFWGKTA",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n3C-0hRELksv3aPZRf-OOGKgA5BbJvLImB7YRy3bAf-No=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Hive (song)",
       "url": "https://en.wikipedia.org/wiki/Hive_(song)",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Tyler, the Creator discography",
+      "type": "wikipedia",
+      "label": "Tyler, the Creator discography",
+      "url": "https://en.wikipedia.org/wiki/Tyler%2C_the_Creator_discography",
+      "firstSeenAt": "2026-11-25T17:09:36.918Z"
     }
   ],
   "recentItems": []

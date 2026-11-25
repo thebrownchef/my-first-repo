@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCPe3OKpEaeOUC8k3Z3Aw8Lw",
   "title": "ABC Classic",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mAg_6jJDV4ci6B7xjQZY8KMz2enEgMCzGpDzS3h3tNyTA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "ABC Music",
       "url": "https://www.youtube.com/channel/UCx6ECeM2io2sEyg2pB2uU5Q",
       "firstSeenAt": "2026-10-13T14:08:27.543Z"
+    },
+    {
+      "id": "wiki:Simon Tedeschi",
+      "type": "wikipedia",
+      "label": "Simon Tedeschi",
+      "url": "https://en.wikipedia.org/wiki/Simon_Tedeschi",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UC_7GFqFFwqFIAaHVLkiMsOw",
   "title": "Walker Art Center",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_l_CY62E2yFdvaHygZSsvhtSQSeEhHmbhupNunQi6m0Zyg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Loves of a Blonde",
       "url": "https://en.wikipedia.org/wiki/Loves_of_a_Blonde",
       "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:Kent Johnson (poet)",
+      "type": "wikipedia",
+      "label": "Kent Johnson (poet)",
+      "url": "https://en.wikipedia.org/wiki/Kent_Johnson_(poet)",
+      "firstSeenAt": "2026-11-25T17:09:41.470Z"
     }
   ],
   "recentItems": []

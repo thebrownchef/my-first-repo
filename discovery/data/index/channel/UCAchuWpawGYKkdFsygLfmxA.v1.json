@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCAchuWpawGYKkdFsygLfmxA",
   "title": "byronfgarcia",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nPoBIAb4DsjowCMaG-wrtw0eXaUWmpmaIFu_HVNQRi0vA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "CPDRC Dancing Inmates",
       "url": "https://en.wikipedia.org/wiki/CPDRC_Dancing_Inmates",
       "firstSeenAt": "2026-10-16T11:19:23.209Z"
+    },
+    {
+      "id": "wiki:Thriller (viral video)",
+      "type": "wikipedia",
+      "label": "Thriller (viral video)",
+      "url": "https://en.wikipedia.org/wiki/Thriller_(viral_video)",
+      "firstSeenAt": "2026-11-25T17:09:36.639Z"
     }
   ],
   "recentItems": []

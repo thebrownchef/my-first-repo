@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
   "title": "Bloomberg Originals",
   "thumb": "https://yt3.ggpht.com/8sL0eqOeU4a1wZBVxn5NOFsug17I2XM0dmCdT7eouq12qE-I-JLCzrzub9Z4SdF0IEt5AzEY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 6.57,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "James L. McGregor",
       "url": "https://en.wikipedia.org/wiki/James_L._McGregor",
       "firstSeenAt": "2026-11-22T14:30:49.887Z"
+    },
+    {
+      "id": "wiki:Timothy Francis McCarthy",
+      "type": "wikipedia",
+      "label": "Timothy Francis McCarthy",
+      "url": "https://en.wikipedia.org/wiki/Timothy_Francis_McCarthy",
+      "firstSeenAt": "2026-11-25T17:09:41.470Z"
     }
   ],
   "recentItems": []

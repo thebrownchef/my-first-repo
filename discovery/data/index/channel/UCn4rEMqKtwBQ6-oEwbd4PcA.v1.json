@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCn4rEMqKtwBQ6-oEwbd4PcA",
   "title": "Sony Music South",
   "thumb": "https://yt3.ggpht.com/JyW58ywuh93rxLy6AwiOJ99HsYrh3iODK49mZ2BkxKkREQT1_pGy2rx7PZ3o1ROhhNc4i03d24Y=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 1.4,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Why This Kolaveri Di",
       "url": "https://en.wikipedia.org/wiki/Why_This_Kolaveri_Di",
       "firstSeenAt": "2026-10-08T13:25:13.275Z"
+    },
+    {
+      "id": "wiki:Lingaa (soundtrack)",
+      "type": "wikipedia",
+      "label": "Lingaa (soundtrack)",
+      "url": "https://en.wikipedia.org/wiki/Lingaa_(soundtrack)",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

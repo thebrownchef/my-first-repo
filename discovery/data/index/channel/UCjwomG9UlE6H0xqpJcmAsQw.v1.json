@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCjwomG9UlE6H0xqpJcmAsQw",
   "title": "NASA Glenn Research Center",
   "thumb": "https://yt3.ggpht.com/ZSoVKB1S49zauSEauSsaGjafotX7yu-QNQhPgPGimnavL7-Hc2MO7M8iQPkzKuxlYq43gzpwhQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NASA Science",
       "url": "https://www.youtube.com/channel/UCKt6dYzHqHfpcp1lgj4bl1A",
       "firstSeenAt": "2026-11-03T14:08:34.411Z"
+    },
+    {
+      "id": "wiki:Project Mercury",
+      "type": "wikipedia",
+      "label": "Project Mercury",
+      "url": "https://en.wikipedia.org/wiki/Project_Mercury",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

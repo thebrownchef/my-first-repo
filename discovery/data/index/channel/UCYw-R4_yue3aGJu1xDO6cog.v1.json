@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCYw-R4_yue3aGJu1xDO6cog",
   "title": "BBC Radio 2",
   "thumb": "https://yt3.ggpht.com/2kdYOwEvNyItQAiGYlGzvTWZStcRQMA8kc88sDKCggyAbJCUfeVSaHz_Hbycufi4KWn4FXbpYg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Jon Briggs",
       "url": "https://en.wikipedia.org/wiki/Jon_Briggs",
       "firstSeenAt": "2026-11-18T15:35:39.404Z"
+    },
+    {
+      "id": "wiki:Georgie Fame and the Blue Flames",
+      "type": "wikipedia",
+      "label": "Georgie Fame and the Blue Flames",
+      "url": "https://en.wikipedia.org/wiki/Georgie_Fame_and_the_Blue_Flames",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

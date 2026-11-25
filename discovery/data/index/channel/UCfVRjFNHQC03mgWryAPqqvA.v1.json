@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCfVRjFNHQC03mgWryAPqqvA",
   "title": "Krutt07",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nj-3JYvfl641Et8H0UnQQAaZCa8dX21NJ-ZXfJkczKmg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Geir Rognø",
       "url": "https://en.wikipedia.org/wiki/Geir_Rogn%C3%B8",
       "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:Trond Frønes",
+      "type": "wikipedia",
+      "label": "Trond Frønes",
+      "url": "https://en.wikipedia.org/wiki/Trond_Fr%C3%B8nes",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

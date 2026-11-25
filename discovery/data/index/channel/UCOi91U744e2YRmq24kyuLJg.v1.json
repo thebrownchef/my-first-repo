@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCOi91U744e2YRmq24kyuLJg",
   "title": "Enter Shikari",
   "thumb": "https://yt3.ggpht.com/TjY8C_jgIwZZbXYdsVzMZFJ2c9O8Y-5ZBB4hnAG15fApR500AP1FAH1hx2st8tgv0AwJtRSTBSo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Common Dreads",
       "url": "https://en.wikipedia.org/wiki/Common_Dreads",
       "firstSeenAt": "2026-11-03T14:08:07.873Z"
+    },
+    {
+      "id": "wiki:Sssnakepit",
+      "type": "wikipedia",
+      "label": "Sssnakepit",
+      "url": "https://en.wikipedia.org/wiki/Sssnakepit",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

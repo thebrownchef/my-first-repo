@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCy6kyFxaMqGtpE3pQTflK8A",
   "title": "Real Time with Bill Maher",
   "thumb": "https://yt3.ggpht.com/iRVUOhLrMwYlzc6gqD-aCH6a54Z7l4rHZK3RMep3ZoBB3aWV1xLDbDat4YLRDtjZUFbtJpvO=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.34,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "GameofThrones",
       "url": "https://www.youtube.com/channel/UCQzdMyuz0Lf4zo4uGcEujFw",
       "firstSeenAt": "2026-10-15T11:25:13.755Z"
+    },
+    {
+      "id": "wiki:Hand to Mouth: Living in Bootstrap America",
+      "type": "wikipedia",
+      "label": "Hand to Mouth: Living in Bootstrap America",
+      "url": "https://en.wikipedia.org/wiki/Hand_to_Mouth%3A_Living_in_Bootstrap_America",
+      "firstSeenAt": "2026-11-25T17:09:36.639Z"
     }
   ],
   "recentItems": []

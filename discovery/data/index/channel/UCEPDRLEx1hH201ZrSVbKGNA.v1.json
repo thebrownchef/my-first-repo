@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCEPDRLEx1hH201ZrSVbKGNA",
   "title": "MICHUZI INTERVIEWS",
   "thumb": "https://yt3.ggpht.com/Z6ypXfJvjSPctZ059-s-qWgQUUBjZJiJ-2DqCZsCDcGpawZPqVAcAGBkBDNonAzmTd6Fxm8U5A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.21,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Yusuf Makamba",
       "url": "https://en.wikipedia.org/wiki/Yusuf_Makamba",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Bukoba Airport",
+      "type": "wikipedia",
+      "label": "Bukoba Airport",
+      "url": "https://en.wikipedia.org/wiki/Bukoba_Airport",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCVVuAYyOt54zkIT0sezX-4Q",
   "title": "Trinity College Dublin",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nH7qFB7HgTxCxOt1LFqPYoL9iJR43eowDurL8ZaSNso34=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.41,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "For Ireland's Sake",
       "url": "https://en.wikipedia.org/wiki/For_Ireland's_Sake",
       "firstSeenAt": "2026-11-24T17:38:37.540Z"
+    },
+    {
+      "id": "wiki:His Mother",
+      "type": "wikipedia",
+      "label": "His Mother",
+      "url": "https://en.wikipedia.org/wiki/His_Mother",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
+    },
+    {
+      "id": "wiki:You Remember Ellen",
+      "type": "wikipedia",
+      "label": "You Remember Ellen",
+      "url": "https://en.wikipedia.org/wiki/You_Remember_Ellen",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

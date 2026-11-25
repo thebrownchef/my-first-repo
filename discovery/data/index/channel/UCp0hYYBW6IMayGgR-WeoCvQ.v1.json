@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCp0hYYBW6IMayGgR-WeoCvQ",
   "title": "TheEllenShow",
   "thumb": "https://yt3.ggpht.com/n6BksIXpbZfRmlxqgdhTGVLvQVDtajIo1a8mxFDADhwE4wMUOhjnZ9qsRVPoTa9dfHnW1Yn9=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 2.7,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Kim Jew",
       "url": "https://en.wikipedia.org/wiki/Kim_Jew",
       "firstSeenAt": "2026-11-22T14:30:48.491Z"
+    },
+    {
+      "id": "wiki:Two and a Half Men season 12",
+      "type": "wikipedia",
+      "label": "Two and a Half Men season 12",
+      "url": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []

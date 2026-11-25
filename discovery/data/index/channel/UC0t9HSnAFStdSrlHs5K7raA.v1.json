@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UC0t9HSnAFStdSrlHs5K7raA",
   "title": "Vevo France",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kpQmHUM_KySLsX4_lorhvIhcWo9gifv4mOGsdSu8gbeTc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "NessbealVEVO",
       "url": "https://www.youtube.com/channel/UCISd0j9_-m_-bOj0LyeEKuQ",
       "firstSeenAt": "2026-11-24T17:39:00.863Z"
+    },
+    {
+      "id": "channel:UCl-CguxAi1rnAuld0vIQexw",
+      "type": "channel",
+      "label": "LaFouineVEVO",
+      "url": "https://www.youtube.com/channel/UCl-CguxAi1rnAuld0vIQexw",
+      "firstSeenAt": "2026-11-25T17:10:01.450Z"
     }
   ],
   "recentItems": []

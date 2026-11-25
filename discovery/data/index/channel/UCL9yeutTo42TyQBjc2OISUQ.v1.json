@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCL9yeutTo42TyQBjc2OISUQ",
   "title": "zlelik",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kV4ztSzwkzDe3P_2g6z7hyu81v-QWhDX0PM_9_9-YQEd4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Solar eclipse of October 23, 2014",
       "url": "https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23%2C_2014",
       "firstSeenAt": "2026-11-22T14:30:52.629Z"
+    },
+    {
+      "id": "wiki:Small-spotted catshark",
+      "type": "wikipedia",
+      "label": "Small-spotted catshark",
+      "url": "https://en.wikipedia.org/wiki/Small-spotted_catshark",
+      "firstSeenAt": "2026-11-25T17:09:39.108Z"
     }
   ],
   "recentItems": []

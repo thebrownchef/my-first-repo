@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCTUPsBBQA4Am8k23BYETRJg",
   "title": "Songkick",
   "thumb": "https://yt3.ggpht.com/ki_41gtUzLSbqVo-p4V1VGqNnC-axcO8MKnjC4E9cN3AcgrUrOv7qJbZWoleI_yiBEvdJWAxSA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 0.22,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "ishmusic",
       "url": "https://www.youtube.com/channel/UC6id1wI5rWfdCRtnGbeMnTQ",
       "firstSeenAt": "2026-11-23T18:00:59.886Z"
+    },
+    {
+      "id": "wiki:Elton John",
+      "type": "wikipedia",
+      "label": "Elton John",
+      "url": "https://en.wikipedia.org/wiki/Elton_John",
+      "firstSeenAt": "2026-11-25T17:09:36.640Z"
     }
   ],
   "recentItems": []

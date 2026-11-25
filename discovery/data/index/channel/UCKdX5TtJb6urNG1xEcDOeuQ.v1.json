@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:40:06.847Z",
+  "generatedAt": "2026-11-25T17:11:11.141Z",
   "id": "UCKdX5TtJb6urNG1xEcDOeuQ",
   "title": "Royal Stag Barrel Select Shorts",
   "thumb": "https://yt3.ggpht.com/oqdZE-rtL6p1Owa3ChhcnOv0Vb2wY944hKBjzZY_JErInOaK9FRsqeoz4TwDblBiMmlHkGfAiGM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Kumud Mishra",
       "url": "https://en.wikipedia.org/wiki/Kumud_Mishra",
       "firstSeenAt": "2026-08-29T12:40:10.328Z"
+    },
+    {
+      "id": "wiki:That Day After Everyday",
+      "type": "wikipedia",
+      "label": "That Day After Everyday",
+      "url": "https://en.wikipedia.org/wiki/That_Day_After_Everyday",
+      "firstSeenAt": "2026-11-25T17:09:39.109Z"
     }
   ],
   "recentItems": []
