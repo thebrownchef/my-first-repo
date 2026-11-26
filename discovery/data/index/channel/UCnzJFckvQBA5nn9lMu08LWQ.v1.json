@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCnzJFckvQBA5nn9lMu08LWQ",
   "title": "JColeVEVO",
   "thumb": "https://yt3.ggpht.com/FFtCR-47N7cVsJ0sGv4_HHhrUCjXhaoCznciK0tMBrswegQWQn6C3o2oUYO299j8cZVABXbm=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Killing of Aiyana Jones",
       "url": "https://en.wikipedia.org/wiki/Killing_of_Aiyana_Jones",
       "firstSeenAt": "2026-10-29T12:56:17.992Z"
+    },
+    {
+      "id": "wiki:J. Cole discography",
+      "type": "wikipedia",
+      "label": "J. Cole discography",
+      "url": "https://en.wikipedia.org/wiki/J._Cole_discography",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
     }
   ],
   "recentItems": []

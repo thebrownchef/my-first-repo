@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 24,
-  "distinctSourceCount": 24,
+  "score": 26,
+  "distinctSourceCount": 26,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -176,6 +176,20 @@
       "label": "The Solutions Project",
       "url": "https://en.wikipedia.org/wiki/The_Solutions_Project",
       "firstSeenAt": "2026-11-24T17:38:33.294Z"
+    },
+    {
+      "id": "wiki:Transcendent Man",
+      "type": "wikipedia",
+      "label": "Transcendent Man",
+      "url": "https://en.wikipedia.org/wiki/Transcendent_Man",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
+    },
+    {
+      "id": "wiki:Radhanath Swami",
+      "type": "wikipedia",
+      "label": "Radhanath Swami",
+      "url": "https://en.wikipedia.org/wiki/Radhanath_Swami",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": [

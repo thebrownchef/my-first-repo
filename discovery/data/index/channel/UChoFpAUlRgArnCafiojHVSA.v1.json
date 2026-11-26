@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UChoFpAUlRgArnCafiojHVSA",
   "title": "CatsPjamas1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mjXZt8EF1oMi2rGg2KCdn86cadRD6C6PMbkAZMNxiAjQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Piano roll blues",
       "url": "https://en.wikipedia.org/wiki/Piano_roll_blues",
       "firstSeenAt": "2026-11-08T13:19:09.248Z"
+    },
+    {
+      "id": "wiki:George MacFarlane",
+      "type": "wikipedia",
+      "label": "George MacFarlane",
+      "url": "https://en.wikipedia.org/wiki/George_MacFarlane",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

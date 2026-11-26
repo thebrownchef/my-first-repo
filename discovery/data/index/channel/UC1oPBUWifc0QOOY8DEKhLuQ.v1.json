@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UC1oPBUWifc0QOOY8DEKhLuQ",
   "title": "avex",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kLFKt5mP2Y88rd28rdk4oTwUZkQYAfjxAdIXKhFuxDU1c=s88-c-k-c0x00ffffff-no-rj",
-  "score": 27,
-  "distinctSourceCount": 27,
+  "score": 28,
+  "distinctSourceCount": 28,
   "hop": 0,
   "uploadsPerDay": 2.25,
   "sources": [
@@ -197,6 +197,13 @@
       "label": "Scream (2NE1 song)",
       "url": "https://en.wikipedia.org/wiki/Scream_(2NE1_song)",
       "firstSeenAt": "2026-11-25T17:09:41.471Z"
+    },
+    {
+      "id": "wiki:After School (group)",
+      "type": "wikipedia",
+      "label": "After School (group)",
+      "url": "https://en.wikipedia.org/wiki/After_School_(group)",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": [

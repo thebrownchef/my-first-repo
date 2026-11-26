@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCBRFlde39a2U4nAkmGqJwAQ",
   "title": "Flo Rida",
   "thumb": "https://yt3.ggpht.com/CcX6WfKEG3Jb74XBcjoBw19VT2PMT1N6jq8aF3taRBkN7Yu3VDmUJmiyeKv0rftvUGmd7cuh5A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Elevator (Flo Rida song)",
       "url": "https://en.wikipedia.org/wiki/Elevator_(Flo_Rida_song)",
       "firstSeenAt": "2026-11-23T18:00:27.573Z"
+    },
+    {
+      "id": "wiki:G.D.F.R.",
+      "type": "wikipedia",
+      "label": "G.D.F.R.",
+      "url": "https://en.wikipedia.org/wiki/G.D.F.R.",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCOvEMf00DnwdkpOCRWdc6uA",
   "title": "Charli xcx",
   "thumb": "https://yt3.ggpht.com/VYKAe3GOHhrgvsgs-4Ri4YZh0Qjd9Zvh60uAzyr963SDn4PrGr6VnSDyIXMEVOdp91tPOdBoTg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Nuclear Seasons",
       "url": "https://en.wikipedia.org/wiki/Nuclear_Seasons",
       "firstSeenAt": "2026-11-04T14:28:09.026Z"
+    },
+    {
+      "id": "wiki:Break the Rules (Charli XCX song)",
+      "type": "wikipedia",
+      "label": "Break the Rules (Charli XCX song)",
+      "url": "https://en.wikipedia.org/wiki/Break_the_Rules_(Charli_XCX_song)",
+      "firstSeenAt": "2026-11-26T16:50:44.831Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCJuvhpBsV8YZOTREUCOb4PQ",
   "title": "underyourskin",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhS6sCB272p6wW-dQPcWFAiEunTV37gIiLSUhfWXc06Ws=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Kahil El'Zabar",
       "url": "https://en.wikipedia.org/wiki/Kahil_El'Zabar",
       "firstSeenAt": "2026-11-22T14:30:49.888Z"
+    },
+    {
+      "id": "wiki:Greg Phillinganes",
+      "type": "wikipedia",
+      "label": "Greg Phillinganes",
+      "url": "https://en.wikipedia.org/wiki/Greg_Phillinganes",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

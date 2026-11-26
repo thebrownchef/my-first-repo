@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCa9c6LDV43ZfD89zsxkEyzg",
   "title": "SRS Media Vision | Kannada Full Movies",
   "thumb": "https://yt3.ggpht.com/SNj12ppdQg8rpz9tkwn3MTuo1bct5Kc3yyQZUWqzjr8J5aslfxvagT_TdMuoi9D5OHTZ7bBvUA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 27,
-  "distinctSourceCount": 27,
+  "score": 29,
+  "distinctSourceCount": 29,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -197,6 +197,20 @@
       "label": "Anand Audio Hindi",
       "url": "https://www.youtube.com/channel/UCX8FGZ3-m_lAtbqhptI_Dng",
       "firstSeenAt": "2026-10-23T11:34:58.499Z"
+    },
+    {
+      "id": "wiki:Chinnari Puttanna",
+      "type": "wikipedia",
+      "label": "Chinnari Puttanna",
+      "url": "https://en.wikipedia.org/wiki/Chinnari_Puttanna",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    },
+    {
+      "id": "wiki:Police Lockup",
+      "type": "wikipedia",
+      "label": "Police Lockup",
+      "url": "https://en.wikipedia.org/wiki/Police_Lockup",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
     }
   ],
   "recentItems": [

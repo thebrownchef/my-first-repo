@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCUyBgUUx0WU5HMmEmatyU7Q",
   "title": "TheOfficialTitanium",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lPggnJSJ-qDhTtvX6mc2lxPEaFPkVbAA8klrbtCjbmNpw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "I Won't Give Up",
       "url": "https://en.wikipedia.org/wiki/I_Won't_Give_Up",
       "firstSeenAt": "2026-10-21T11:44:40.898Z"
+    },
+    {
+      "id": "wiki:Take Us Back (Titanium song)",
+      "type": "wikipedia",
+      "label": "Take Us Back (Titanium song)",
+      "url": "https://en.wikipedia.org/wiki/Take_Us_Back_(Titanium_song)",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

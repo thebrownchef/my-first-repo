@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCZaT_X_mc0BI-djXOlfhqWQ",
   "title": "VICE News",
   "thumb": "https://yt3.ggpht.com/5-T_4OQwbVFrezPHUc3VP3wCyqo8nZ-VMOpJA_nppoxnZ6IhSVx1PrJPgfFkxD4Z8c5eDuQ9XQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 1.48,
   "sources": [
@@ -134,7 +134,69 @@
       "label": "James Elmer Mitchell",
       "url": "https://en.wikipedia.org/wiki/James_Elmer_Mitchell",
       "firstSeenAt": "2026-11-25T17:09:39.108Z"
+    },
+    {
+      "id": "wiki:Operation Sangaris",
+      "type": "wikipedia",
+      "label": "Operation Sangaris",
+      "url": "https://en.wikipedia.org/wiki/Operation_Sangaris",
+      "firstSeenAt": "2026-11-26T16:50:44.833Z"
     }
   ],
-  "recentItems": []
+  "recentItems": [
+    {
+      "id": "flqAXVPzh38",
+      "title": "WHAT FRANCE'S PROTESTS MEAN FOR THE FUTURE",
+      "publishedAt": "2026-11-25T21:25:45Z",
+      "durationSec": 134,
+      "thumb": "https://i.ytimg.com/vi/flqAXVPzh38/mqdefault.jpg",
+      "description": "From Paris to Athens, anger over rising rents, stagnant wages and an uncertain future is driving young Europeans into the streets. But their protests could have political consequences far beyond what they intended.\n\nDave Keating went to Paris to find out what’s at stake for the future of Europe.\n\nRead on: https://www.vicenews.com/p/europes-youth-are-revolting-but-what",
+      "chapters": []
+    },
+    {
+      "id": "_Nr_m3ZcC-0",
+      "title": "Somali Pirates Are Back. Are the Houthis Helping Them?",
+      "publishedAt": "2026-11-20T18:29:12Z",
+      "durationSec": 132,
+      "thumb": "https://i.ytimg.com/vi/_Nr_m3ZcC-0/mqdefault.jpg",
+      "description": "Somali piracy is back. After years of naval patrols pushing it down, pirates are hijacking ships off the Horn of Africa again. Now there are growing fears they could be working with the Houthis.\n\nFollow our coverage at ViceNews.com.",
+      "chapters": []
+    },
+    {
+      "id": "qD0IeHGz7V0",
+      "title": "Shane Smith Speaks to Aaron Parnas from Moscow",
+      "publishedAt": "2026-11-19T02:33:05Z",
+      "durationSec": 96,
+      "thumb": "https://i.ytimg.com/vi/qD0IeHGz7V0/mqdefault.jpg",
+      "description": "During his visit to Moscow, Tucker Carlson claimed that Russian life had been largely unaffected by the war and Western sanctions.\n\nReporting from Russia, Shane Smith, Editor-in-Chief of VICE News, tells Aaron Parnas a more complicated story—long gas lines, a quieter capital, and rising costs, even as daily life continues and construction booms.",
+      "chapters": []
+    },
+    {
+      "id": "ztehiQoQncU",
+      "title": "LIVE FROM RUSSIA | VICE News",
+      "publishedAt": "2026-11-17T18:15:20Z",
+      "durationSec": 1588,
+      "thumb": "https://i.ytimg.com/vi/ztehiQoQncU/mqdefault.jpg",
+      "description": "VICE News Editor-In-Chief, Shane Smith, reports on the ground in Moscow.\n\nSubscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News\nCheck out VICE News for more: http://vicenews.com\n\nFollow VICE News:\nTikTok: https://www.tiktok.com/@vicenews?lang=en\nFacebook: https://www.facebook.com/vicenews\nTwitter: https://twitter.com/vicenews\nInstagram: http://instagram.com/vicenews\nMore videos from the VICE network: https://www.fb.com/vicevideo",
+      "chapters": []
+    },
+    {
+      "id": "bhXSJFllbBY",
+      "title": "Nick Offerman Almost Joined The Office",
+      "publishedAt": "2026-11-13T18:09:38Z",
+      "durationSec": 78,
+      "thumb": "https://i.ytimg.com/vi/bhXSJFllbBY/mqdefault.jpg",
+      "description": "Nick Offerman on landing the role of Ron Swanson — and the Post-it note that changed his life.\n\nWatch the full episode of Shane Smith Has Questions on YouTube.",
+      "chapters": []
+    },
+    {
+      "id": "HEEQ-4Oii_k",
+      "title": "Nick Offerman Says Consumerism Sold Us a Lie About Work",
+      "publishedAt": "2026-11-13T00:12:37Z",
+      "durationSec": 71,
+      "thumb": "https://i.ytimg.com/vi/HEEQ-4Oii_k/mqdefault.jpg",
+      "description": "Nick Offerman has “always understood the gratification of having good work to do.” Now, he thinks we’re losing something important in the age of consumerism.\n\n“People think that somehow work is beneath them. They think that things are disposable.”\n\nWatch the full episode of Shane Smith Has Questions on YouTube.",
+      "chapters": []
+    }
+  ]
 }

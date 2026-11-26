@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UC7tiuptCKrRGZNDQJ53Q11w",
   "title": "Warner Music Spain",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mdPBWfhY5FhOLQCUtj3TJ6qiIhjoiwK6m2H53gy-O6xq0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "El Sueño de Morfeo",
       "url": "https://www.youtube.com/channel/UC7cn269s72-8NOZLSmxXFHQ",
       "firstSeenAt": "2026-11-12T15:09:01.444Z"
+    },
+    {
+      "id": "channel:UC9feDX1oeYbY-gQOh5ajxbg",
+      "type": "channel",
+      "label": "Oficial Fangoria",
+      "url": "https://www.youtube.com/channel/UC9feDX1oeYbY-gQOh5ajxbg",
+      "firstSeenAt": "2026-11-26T16:51:07.804Z"
     }
   ],
   "recentItems": []

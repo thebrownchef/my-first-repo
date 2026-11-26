@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCeq81A3_ZzK5-A74k3BQ7hg",
   "title": "noochinator2",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lh6VdqawNm5ieK7V0ANgIz-deVYyp-QkB0bmOj8oExmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -78,6 +78,20 @@
       "label": "Ilse Fromm-Michaels",
       "url": "https://en.wikipedia.org/wiki/Ilse_Fromm-Michaels",
       "firstSeenAt": "2026-11-25T17:09:39.108Z"
+    },
+    {
+      "id": "wiki:Robert Moffat Palmer",
+      "type": "wikipedia",
+      "label": "Robert Moffat Palmer",
+      "url": "https://en.wikipedia.org/wiki/Robert_Moffat_Palmer",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
+    },
+    {
+      "id": "wiki:Oriana Fallaci",
+      "type": "wikipedia",
+      "label": "Oriana Fallaci",
+      "url": "https://en.wikipedia.org/wiki/Oriana_Fallaci",
+      "firstSeenAt": "2026-11-26T16:50:49.970Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UC88nGROvozD_D3FWojbNErA",
   "title": "CROAYON POP (크레용팝)",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mrwYXHOH-ptd6a5_cAfVh03gnicOSQ7noRp5dUd6V3Sxk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The 1st Mini Album (Strawberry Milk EP)",
       "url": "https://en.wikipedia.org/wiki/The_1st_Mini_Album_(Strawberry_Milk_EP)",
       "firstSeenAt": "2026-11-22T14:30:52.629Z"
+    },
+    {
+      "id": "wiki:Crayon Pop",
+      "type": "wikipedia",
+      "label": "Crayon Pop",
+      "url": "https://en.wikipedia.org/wiki/Crayon_Pop",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

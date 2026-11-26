@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCA188DRnT6F00A9mBTQb9vw",
   "title": "WWNorton",
   "thumb": "https://yt3.ggpht.com/qKoXpDlEmVBHy7afA8eqa1Tbc6RBwbZMMJUG2LqTSuc4Thu6jkSAuaqpLHU1QTwx_s2g4DCoz7k=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Jerome Charyn",
       "url": "https://en.wikipedia.org/wiki/Jerome_Charyn",
       "firstSeenAt": "2026-11-17T15:56:40.700Z"
+    },
+    {
+      "id": "wiki:Andre Dubus III",
+      "type": "wikipedia",
+      "label": "Andre Dubus III",
+      "url": "https://en.wikipedia.org/wiki/Andre_Dubus_III",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

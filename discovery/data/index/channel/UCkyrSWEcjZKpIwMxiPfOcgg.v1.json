@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCkyrSWEcjZKpIwMxiPfOcgg",
   "title": "5 канал",
   "thumb": "https://yt3.ggpht.com/nC8MFAojCH-V-1WQ6GqqUxLz7dr8oCKnl4uAAw7z5CNYnuharnQtB2MISBzfxeKs8vZROSk9=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 24.55,
   "sources": [
@@ -78,6 +78,20 @@
       "label": "Russian embargo of Ukrainian goods",
       "url": "https://en.wikipedia.org/wiki/Russian_embargo_of_Ukrainian_goods",
       "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:Boycott Russian Films",
+      "type": "wikipedia",
+      "label": "Boycott Russian Films",
+      "url": "https://en.wikipedia.org/wiki/Boycott_Russian_Films",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    },
+    {
+      "id": "wiki:Bridge over Instytutska Street",
+      "type": "wikipedia",
+      "label": "Bridge over Instytutska Street",
+      "url": "https://en.wikipedia.org/wiki/Bridge_over_Instytutska_Street",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

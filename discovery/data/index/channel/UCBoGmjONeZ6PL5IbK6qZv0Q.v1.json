@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCBoGmjONeZ6PL5IbK6qZv0Q",
   "title": "SHANT TV Armenia",
   "thumb": "https://yt3.ggpht.com/oW2f5RAo-igrQuoeo4Xxuvdpk-aWDDuPvmbLFUoa-PaXYLHnchAi1VKktlrUA4kgKZoddVaxYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 5.03,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Sebu Simonian",
       "url": "https://en.wikipedia.org/wiki/Sebu_Simonian",
       "firstSeenAt": "2026-11-24T17:38:37.541Z"
+    },
+    {
+      "id": "wiki:Avedis Kendir",
+      "type": "wikipedia",
+      "label": "Avedis Kendir",
+      "url": "https://en.wikipedia.org/wiki/Avedis_Kendir",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

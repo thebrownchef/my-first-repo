@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCPpw6jRIL1B9nU0k7-GujOQ",
   "title": "UCLA",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lN4gu9K-Llwlb09pGNVeTYkoiH5wFUaxB1uvPWtsgatw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.52,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Kenneth Anger",
       "url": "https://en.wikipedia.org/wiki/Kenneth_Anger",
       "firstSeenAt": "2026-11-16T15:40:08.292Z"
+    },
+    {
+      "id": "wiki:Andrew Apter",
+      "type": "wikipedia",
+      "label": "Andrew Apter",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Apter",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

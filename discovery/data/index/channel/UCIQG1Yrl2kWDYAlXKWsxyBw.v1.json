@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCIQG1Yrl2kWDYAlXKWsxyBw",
   "title": "carmenmfenn1",
   "thumb": "https://yt3.ggpht.com/CfvdldLsc9goUoCbqri6dBpjJofoL5KKir_-bVs5nMVnaeD5sHWE41e9BaxnXetMnkpy_BrDTg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Giovanni Boldini",
       "url": "https://en.wikipedia.org/wiki/Giovanni_Boldini",
       "firstSeenAt": "2026-11-08T13:19:06.562Z"
+    },
+    {
+      "id": "wiki:Franca Florio, regina di Palermo",
+      "type": "wikipedia",
+      "label": "Franca Florio, regina di Palermo",
+      "url": "https://en.wikipedia.org/wiki/Franca_Florio%2C_regina_di_Palermo",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

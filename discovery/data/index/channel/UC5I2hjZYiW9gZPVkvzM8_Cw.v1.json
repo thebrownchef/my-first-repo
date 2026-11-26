@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UC5I2hjZYiW9gZPVkvzM8_Cw",
   "title": "Techmoan",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lkvmCzgkQbIoxuUDmUcKkZxdpVf2PJ_4U-GzSFWIsRodqk=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
-  "hop": 1,
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
   "uploadsPerDay": 0.12,
   "sources": [
     {
@@ -22,6 +22,13 @@
       "label": "NT (cassette)",
       "url": "https://en.wikipedia.org/wiki/NT_(cassette)",
       "firstSeenAt": "2026-11-24T17:38:33.295Z"
+    },
+    {
+      "id": "wiki:Techmoan",
+      "type": "wikipedia",
+      "label": "Techmoan",
+      "url": "https://en.wikipedia.org/wiki/Techmoan",
+      "firstSeenAt": "2026-11-26T16:50:45.638Z"
     }
   ],
   "recentItems": []

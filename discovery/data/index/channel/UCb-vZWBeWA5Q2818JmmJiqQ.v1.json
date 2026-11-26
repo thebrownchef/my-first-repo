@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCb-vZWBeWA5Q2818JmmJiqQ",
   "title": "Oscars",
   "thumb": "https://yt3.ggpht.com/NpO5ACfL4GyjGF4jE6OZwHNatbPnVXIzwzl9gp3bU-avVqygYJXiLzjrLz_hLmbOr2AHV4qyO3o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 32,
-  "distinctSourceCount": 32,
+  "score": 33,
+  "distinctSourceCount": 33,
   "hop": 0,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -232,6 +232,13 @@
       "label": "Claire Bloom",
       "url": "https://en.wikipedia.org/wiki/Claire_Bloom",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Timeline of Brooklyn",
+      "type": "wikipedia",
+      "label": "Timeline of Brooklyn",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_Brooklyn",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
     }
   ],
   "recentItems": [

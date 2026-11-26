@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCtb4Xi33wb-5L_VxCOx6bTw",
   "title": "GorgonCityVEVO",
   "thumb": "https://yt3.ggpht.com/42cSvFLuryzrrEU-VYMECk2NwUY7DfSvlX9drUKsZxtid62Cssb1v2duaCaIZKiRBdWisIUG=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Unmissable",
       "url": "https://en.wikipedia.org/wiki/Unmissable",
       "firstSeenAt": "2026-11-25T17:09:39.109Z"
+    },
+    {
+      "id": "wiki:Go All Night",
+      "type": "wikipedia",
+      "label": "Go All Night",
+      "url": "https://en.wikipedia.org/wiki/Go_All_Night",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
     }
   ],
   "recentItems": []

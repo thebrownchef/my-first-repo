@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCqMG_BBwxrhLG80Y3yuEu-Q",
   "title": "XOXO Festival",
   "thumb": "https://yt3.ggpht.com/e0n6i0Hog6niaXf7pETYrPyUP5VjuDtIR1rPgvwkuUHiIrpKSzcWN-zClZLAknH0DtLCaGA-=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Green brothers",
       "url": "https://en.wikipedia.org/wiki/Green_brothers",
       "firstSeenAt": "2026-11-23T18:00:27.573Z"
+    },
+    {
+      "id": "wiki:Emily Winfield Martin",
+      "type": "wikipedia",
+      "label": "Emily Winfield Martin",
+      "url": "https://en.wikipedia.org/wiki/Emily_Winfield_Martin",
+      "firstSeenAt": "2026-11-26T16:50:49.970Z"
     }
   ],
   "recentItems": []

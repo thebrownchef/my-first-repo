@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "title": "Google",
   "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Peter J. Weinberger",
       "url": "https://en.wikipedia.org/wiki/Peter_J._Weinberger",
       "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Alex Martelli",
+      "type": "wikipedia",
+      "label": "Alex Martelli",
+      "url": "https://en.wikipedia.org/wiki/Alex_Martelli",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

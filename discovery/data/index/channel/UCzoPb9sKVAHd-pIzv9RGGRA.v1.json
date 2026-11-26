@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCzoPb9sKVAHd-pIzv9RGGRA",
   "title": "Eleven Broadcasting",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lhbBt-NAuPIX6kTVnyRf0m9CxiLvQn_b70S-qfPQVCpA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 20.35,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Soe Min Oo",
       "url": "https://en.wikipedia.org/wiki/Soe_Min_Oo",
       "firstSeenAt": "2026-10-29T12:56:22.197Z"
+    },
+    {
+      "id": "wiki:As U Like",
+      "type": "wikipedia",
+      "label": "As U Like",
+      "url": "https://en.wikipedia.org/wiki/As_U_Like",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
+    },
+    {
+      "id": "wiki:List of Myanmar Motion Picture Academy Awards",
+      "type": "wikipedia",
+      "label": "List of Myanmar Motion Picture Academy Awards",
+      "url": "https://en.wikipedia.org/wiki/List_of_Myanmar_Motion_Picture_Academy_Awards",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

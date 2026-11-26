@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCOi91U744e2YRmq24kyuLJg",
   "title": "Enter Shikari",
   "thumb": "https://yt3.ggpht.com/TjY8C_jgIwZZbXYdsVzMZFJ2c9O8Y-5ZBB4hnAG15fApR500AP1FAH1hx2st8tgv0AwJtRSTBSo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Sssnakepit",
       "url": "https://en.wikipedia.org/wiki/Sssnakepit",
       "firstSeenAt": "2026-11-25T17:09:36.640Z"
+    },
+    {
+      "id": "wiki:No Sleep Tonight (Enter Shikari song)",
+      "type": "wikipedia",
+      "label": "No Sleep Tonight (Enter Shikari song)",
+      "url": "https://en.wikipedia.org/wiki/No_Sleep_Tonight_(Enter_Shikari_song)",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

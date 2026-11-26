@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCZlOun_v2zUQwH8kw-t55pQ",
   "title": "Biscoot Kannada",
   "thumb": "https://yt3.ggpht.com/SaOI19__nXpajT8M1HtReOzy4fwaZPRpHO_BGkBOyg736YIQqZUFADlobs9jW0x2HSzr4fH8WFY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 2,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Biscoot Filmy Talkies",
       "url": "https://www.youtube.com/channel/UCVlL4b5rR9B8tqmmbreLF_A",
       "firstSeenAt": "2026-10-01T13:11:07.192Z"
+    },
+    {
+      "id": "wiki:Manikantana Mahime",
+      "type": "wikipedia",
+      "label": "Manikantana Mahime",
+      "url": "https://en.wikipedia.org/wiki/Manikantana_Mahime",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    },
+    {
+      "id": "wiki:Kalinga Sarpa",
+      "type": "wikipedia",
+      "label": "Kalinga Sarpa",
+      "url": "https://en.wikipedia.org/wiki/Kalinga_Sarpa",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

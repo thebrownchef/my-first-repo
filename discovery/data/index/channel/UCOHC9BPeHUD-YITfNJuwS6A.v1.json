@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCOHC9BPeHUD-YITfNJuwS6A",
   "title": "Susan Gerbic",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lt4x5OjAkEr5UEBW_AGwT6q5LdZNDaW6uGp4OX3Ohqlf7F=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Perry DeAngelis",
       "url": "https://en.wikipedia.org/wiki/Perry_DeAngelis",
       "firstSeenAt": "2026-11-24T17:38:33.295Z"
+    },
+    {
+      "id": "wiki:Skepticality",
+      "type": "wikipedia",
+      "label": "Skepticality",
+      "url": "https://en.wikipedia.org/wiki/Skepticality",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
     }
   ],
   "recentItems": []

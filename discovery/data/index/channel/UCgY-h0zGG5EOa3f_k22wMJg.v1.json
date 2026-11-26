@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCgY-h0zGG5EOa3f_k22wMJg",
   "title": "Sainsbury's",
   "thumb": "https://yt3.ggpht.com/CA64RzVJs0bJzbNgSxEid7_bsb10BrA83swdaotgjvnd0dFfZ0KEaF8IlqAxHmV4fcZ0AtoRAg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Sainsbury's Food",
       "url": "https://www.youtube.com/channel/UCOYTXGVqi_SKtbO6X6-baJQ",
       "firstSeenAt": "2026-10-13T14:08:17.636Z"
+    },
+    {
+      "id": "wiki:Life in a Day (2011 film)",
+      "type": "wikipedia",
+      "label": "Life in a Day (2011 film)",
+      "url": "https://en.wikipedia.org/wiki/Life_in_a_Day_(2011_film)",
+      "firstSeenAt": "2026-11-26T16:50:44.831Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCwMzrhrw-GhekJgDLj_8gkA",
   "title": "MGMTVEVO",
   "thumb": "https://yt3.ggpht.com/UVEP-9sqvKNivB7wQDT4WnJATYtVMSnxEqOy8oNEWCI-VmQ50SQztC1ErqG4RACe_hKG-9BW=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 1,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "MGMT",
       "url": "https://www.youtube.com/channel/UCC2i4uIWWjx5L5V5Q5k7eiQ",
       "firstSeenAt": "2026-10-22T11:47:59.237Z"
+    },
+    {
+      "id": "wiki:MGMT",
+      "type": "wikipedia",
+      "label": "MGMT",
+      "url": "https://en.wikipedia.org/wiki/MGMT",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

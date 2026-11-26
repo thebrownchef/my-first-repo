@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCJrREGJ2R1mMuKJkZ8SMCcA",
   "title": "BeckyGVEVO",
   "thumb": "https://yt3.ggpht.com/mnhA7phg9lNpqfohdcWaOiaPgtY3XK7DdgEflgyNYkwJIjdqOifaqDBDw9bL0yfOm_Oj9qwtRw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Shower (song)",
       "url": "https://en.wikipedia.org/wiki/Shower_(song)",
       "firstSeenAt": "2026-11-14T13:28:00.334Z"
+    },
+    {
+      "id": "wiki:Can't Stop Dancin' (Becky G song)",
+      "type": "wikipedia",
+      "label": "Can't Stop Dancin' (Becky G song)",
+      "url": "https://en.wikipedia.org/wiki/Can't_Stop_Dancin'_(Becky_G_song)",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
     }
   ],
   "recentItems": []

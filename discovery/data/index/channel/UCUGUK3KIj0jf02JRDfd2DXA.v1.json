@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCUGUK3KIj0jf02JRDfd2DXA",
   "title": "Strombo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lkotO8B7BmCgCZvFuD4MhKfFVGNj9uDFpIWm1N8fwx0g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.38,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "The Amazing Kreskin",
       "url": "https://en.wikipedia.org/wiki/The_Amazing_Kreskin",
       "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:Laura Nyro",
+      "type": "wikipedia",
+      "label": "Laura Nyro",
+      "url": "https://en.wikipedia.org/wiki/Laura_Nyro",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
     }
   ],
   "recentItems": []

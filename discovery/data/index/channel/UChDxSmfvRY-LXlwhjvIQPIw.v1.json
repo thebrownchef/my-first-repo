@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UChDxSmfvRY-LXlwhjvIQPIw",
   "title": "Kaare K. Johnsen",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mRdk8LsEjuUcjcGKyVHU6pCxJaEECzYoXKzDhjwcle5w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Stian Carstensen",
       "url": "https://en.wikipedia.org/wiki/Stian_Carstensen",
       "firstSeenAt": "2026-11-21T14:36:42.573Z"
+    },
+    {
+      "id": "wiki:Sinikka Langeland",
+      "type": "wikipedia",
+      "label": "Sinikka Langeland",
+      "url": "https://en.wikipedia.org/wiki/Sinikka_Langeland",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
+    },
+    {
+      "id": "wiki:Annbjørg Lien",
+      "type": "wikipedia",
+      "label": "Annbjørg Lien",
+      "url": "https://en.wikipedia.org/wiki/Annbj%C3%B8rg_Lien",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

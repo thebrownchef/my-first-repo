@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UC_pwIXKXNm5KGhdEVzmY60A",
   "title": "STONE MUSIC",
   "thumb": "https://yt3.ggpht.com/zSffq8rm458GQ4M59e82ORKqtLaYSgJJO3srCDJkkY7y3QCR8U_F2dszJpY-VQlA9-CXDsgzaA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 2.62,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Love Love Love (Roy Kim album)",
       "url": "https://en.wikipedia.org/wiki/Love_Love_Love_(Roy_Kim_album)",
       "firstSeenAt": "2026-11-22T14:30:47.694Z"
+    },
+    {
+      "id": "wiki:It's Christmas Day",
+      "type": "wikipedia",
+      "label": "It's Christmas Day",
+      "url": "https://en.wikipedia.org/wiki/It's_Christmas_Day",
+      "firstSeenAt": "2026-11-26T16:50:44.831Z"
     }
   ],
   "recentItems": []

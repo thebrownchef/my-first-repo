@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "id": "UC4-hGd01KPF1i9xSWtox0JQ",
+  "title": "The Paley Center for Media",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nGLwJFJt3er3yd0CenAZMnUvq-9NZ0A0XwdTtzaszJZn0=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.44,
+  "sources": [
+    {
+      "id": "wiki:Little Bo Bleep",
+      "type": "wikipedia",
+      "label": "Little Bo Bleep",
+      "url": "https://en.wikipedia.org/wiki/Little_Bo_Bleep",
+      "firstSeenAt": "2026-10-27T12:06:51.026Z"
+    },
+    {
+      "id": "wiki:College of the Canyons",
+      "type": "wikipedia",
+      "label": "College of the Canyons",
+      "url": "https://en.wikipedia.org/wiki/College_of_the_Canyons",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    }
+  ],
+  "recentItems": []
+}

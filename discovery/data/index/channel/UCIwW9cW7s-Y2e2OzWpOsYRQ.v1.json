@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCIwW9cW7s-Y2e2OzWpOsYRQ",
   "title": "noochinator1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOW0gkUIPEkXuZ8sEIJ1RKlG6ieifjNCfJXHF7GgZ93g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 54,
-  "distinctSourceCount": 54,
+  "score": 55,
+  "distinctSourceCount": 55,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -386,6 +386,13 @@
       "label": "John Gardner (American writer)",
       "url": "https://en.wikipedia.org/wiki/John_Gardner_(American_writer)",
       "firstSeenAt": "2026-11-24T17:38:37.541Z"
+    },
+    {
+      "id": "wiki:Philippe Entremont",
+      "type": "wikipedia",
+      "label": "Philippe Entremont",
+      "url": "https://en.wikipedia.org/wiki/Philippe_Entremont",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": [

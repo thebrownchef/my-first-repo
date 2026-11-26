@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCnWBWA6pii2uvEwgBwEObVA",
   "title": "Edgardo Huertas",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mEwZUu18r5wj2cIDhlJGM5EvJrq2Tbfkb8UUSIbHY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Blanca Rosa Gil",
       "url": "https://en.wikipedia.org/wiki/Blanca_Rosa_Gil",
       "firstSeenAt": "2026-11-17T15:56:40.699Z"
+    },
+    {
+      "id": "wiki:Braulio Castillo Jr.",
+      "type": "wikipedia",
+      "label": "Braulio Castillo Jr.",
+      "url": "https://en.wikipedia.org/wiki/Braulio_Castillo_Jr.",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

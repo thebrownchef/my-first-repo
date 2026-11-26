@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCo9Soieb8nFpRoDHobeFcpA",
   "title": "armyreco",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k38g4Pfw-12jVPuyU2cxjP7KUZP5aOlRHhh4p2fr2HrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Atom (infantry fighting vehicle)",
       "url": "https://en.wikipedia.org/wiki/Atom_(infantry_fighting_vehicle)",
       "firstSeenAt": "2026-11-17T15:56:43.258Z"
+    },
+    {
+      "id": "wiki:Ghauri (missile)",
+      "type": "wikipedia",
+      "label": "Ghauri (missile)",
+      "url": "https://en.wikipedia.org/wiki/Ghauri_(missile)",
+      "firstSeenAt": "2026-11-26T16:50:44.833Z"
     }
   ],
   "recentItems": []

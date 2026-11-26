@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "id": "UCyHcFqvFG53QfBllFgM9Ceg",
+  "title": "CapNewsNet",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kEo6Y5pRIdRXS1XkWEbqTCGdmFz9BJiCY-OdZtQQkMmA=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.05,
+  "sources": [
+    {
+      "id": "wiki:Philip J. Landrigan",
+      "type": "wikipedia",
+      "label": "Philip J. Landrigan",
+      "url": "https://en.wikipedia.org/wiki/Philip_J._Landrigan",
+      "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Optional Practical Training",
+      "type": "wikipedia",
+      "label": "Optional Practical Training",
+      "url": "https://en.wikipedia.org/wiki/Optional_Practical_Training",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
+    }
+  ],
+  "recentItems": []
+}

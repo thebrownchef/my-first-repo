@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCqnbDFdCpuN8CMEg0VuEBqA",
   "title": "The New York Times",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_niRq8CFu_t0QX45kIzJ58GtS9zlO2SGo7wArxG9gy6uEc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.5,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Zhang Yimou",
       "url": "https://en.wikipedia.org/wiki/Zhang_Yimou",
       "firstSeenAt": "2026-11-25T17:09:41.471Z"
+    },
+    {
+      "id": "channel:UCsp7EwFKIJqt8z820G2tQRA",
+      "type": "channel",
+      "label": "Demotix News",
+      "url": "https://www.youtube.com/channel/UCsp7EwFKIJqt8z820G2tQRA",
+      "firstSeenAt": "2026-11-26T16:51:14.146Z"
     }
   ],
   "recentItems": []

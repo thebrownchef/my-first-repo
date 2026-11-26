@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCqZKc23a7IWL0cUp1nvoLFA",
   "title": "SteveAATW",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leSGlAt22L_Rrcwgy8So3KzG_14LSC6lvKR97-WtquIAs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -78,6 +78,20 @@
       "label": "Matt Edmondson",
       "url": "https://en.wikipedia.org/wiki/Matt_Edmondson",
       "firstSeenAt": "2026-10-30T12:50:14.637Z"
+    },
+    {
+      "id": "wiki:Northern Light (song)",
+      "type": "wikipedia",
+      "label": "Northern Light (song)",
+      "url": "https://en.wikipedia.org/wiki/Northern_Light_(song)",
+      "firstSeenAt": "2026-11-26T16:50:44.831Z"
+    },
+    {
+      "id": "wiki:Dream on the Dancefloor",
+      "type": "wikipedia",
+      "label": "Dream on the Dancefloor",
+      "url": "https://en.wikipedia.org/wiki/Dream_on_the_Dancefloor",
+      "firstSeenAt": "2026-11-26T16:50:44.831Z"
     }
   ],
   "recentItems": []

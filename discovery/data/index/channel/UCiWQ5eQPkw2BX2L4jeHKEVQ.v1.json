@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "id": "UCiWQ5eQPkw2BX2L4jeHKEVQ",
+  "title": "McLaren Automotive",
+  "thumb": "https://yt3.ggpht.com/PK4pJfguZniv2Z_svskX_6fJkahFzgX-6G6kPWSlNCP05K3VP9KFSKKLnlZRnwM9p-XmGqSxuQ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.13,
+  "sources": [
+    {
+      "id": "wiki:List of Nordschleife lap times (racing)",
+      "type": "wikipedia",
+      "label": "List of Nordschleife lap times (racing)",
+      "url": "https://en.wikipedia.org/wiki/List_of_Nordschleife_lap_times_(racing)",
+      "firstSeenAt": "2026-11-20T15:23:43.536Z"
+    },
+    {
+      "id": "wiki:List of Nürburgring Nordschleife lap times",
+      "type": "wikipedia",
+      "label": "List of Nürburgring Nordschleife lap times",
+      "url": "https://en.wikipedia.org/wiki/List_of_N%C3%BCrburgring_Nordschleife_lap_times",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
+    }
+  ],
+  "recentItems": []
+}

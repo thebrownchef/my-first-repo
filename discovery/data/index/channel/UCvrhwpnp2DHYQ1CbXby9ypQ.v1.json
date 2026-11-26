@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCvrhwpnp2DHYQ1CbXby9ypQ",
   "title": "Vijay Television",
   "thumb": "https://yt3.ggpht.com/51CujRpGuudc87gHFhhpRD-tSGPzO0oqAMaDovDZoj-nEgl5lQca5_lC7u62Pn_fTIc2pfIA6UU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 20.83,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Senthil",
       "url": "https://en.wikipedia.org/wiki/Senthil",
       "firstSeenAt": "2026-11-23T18:00:27.572Z"
+    },
+    {
+      "id": "wiki:Padayappa",
+      "type": "wikipedia",
+      "label": "Padayappa",
+      "url": "https://en.wikipedia.org/wiki/Padayappa",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

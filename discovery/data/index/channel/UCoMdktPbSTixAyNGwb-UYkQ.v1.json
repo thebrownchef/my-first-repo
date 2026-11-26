@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCoMdktPbSTixAyNGwb-UYkQ",
   "title": "Sky News",
   "thumb": "https://yt3.ggpht.com/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 10.42,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Sky TV",
       "url": "https://www.youtube.com/channel/UCxw5iQs7tt4qbcLa31shZ7Q",
       "firstSeenAt": "2026-10-13T14:08:13.753Z"
+    },
+    {
+      "id": "wiki:Makers Academy",
+      "type": "wikipedia",
+      "label": "Makers Academy",
+      "url": "https://en.wikipedia.org/wiki/Makers_Academy",
+      "firstSeenAt": "2026-11-26T16:50:47.285Z"
     }
   ],
   "recentItems": []

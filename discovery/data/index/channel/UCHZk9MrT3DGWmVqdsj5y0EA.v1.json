@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "id": "UCHZk9MrT3DGWmVqdsj5y0EA",
+  "title": "BBC Persian",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_n2v3RuCAyxj4wJ4mMphlWm23BBzPNOzCvilxkETADBJhI=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 2.73,
+  "sources": [
+    {
+      "id": "channel:UCUBIrDsIVzRpKsClMlSlTpQ",
+      "type": "channel",
+      "label": "BBC News Mundo",
+      "url": "https://www.youtube.com/channel/UCUBIrDsIVzRpKsClMlSlTpQ",
+      "firstSeenAt": "2026-10-27T12:07:19.712Z"
+    },
+    {
+      "id": "wiki:25band",
+      "type": "wikipedia",
+      "label": "25band",
+      "url": "https://en.wikipedia.org/wiki/25band",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
+    }
+  ],
+  "recentItems": []
+}

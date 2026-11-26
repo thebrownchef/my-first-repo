@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UC9uPFZUcypOzLtKrv3M94sQ",
   "title": "WatchBlueSkies",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mq5uJvsnA0vOUwixDJmli0KkZZYuKb3hWbzSJTS2we5A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Stanisław Wisłocki",
       "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Wis%C5%82ocki",
       "firstSeenAt": "2026-11-14T13:27:58.304Z"
+    },
+    {
+      "id": "channel:UCVNGfdoEjQ9Co3nGzywLt0w",
+      "type": "channel",
+      "label": "Lendall Pitts",
+      "url": "https://www.youtube.com/channel/UCVNGfdoEjQ9Co3nGzywLt0w",
+      "firstSeenAt": "2026-11-26T16:50:59.919Z"
     }
   ],
   "recentItems": []

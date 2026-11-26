@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCqFzWxSCi39LnW1JKFR3efg",
   "title": "Saturday Night Live",
   "thumb": "https://yt3.ggpht.com/0UstnnBY3C69WcOIv8W_8blHZKMpoxluehKazofyMTt93kO2wGbJ1-ZIiHaFSNYBVGAgu3AEUEo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 2.15,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Recurring Saturday Night Live characters and sketches introduced 2008–09",
       "url": "https://en.wikipedia.org/wiki/Recurring_Saturday_Night_Live_characters_and_sketches_introduced_2008%E2%80%9309",
       "firstSeenAt": "2026-11-14T13:27:58.303Z"
+    },
+    {
+      "id": "wiki:Serial (podcast)",
+      "type": "wikipedia",
+      "label": "Serial (podcast)",
+      "url": "https://en.wikipedia.org/wiki/Serial_(podcast)",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
     }
   ],
   "recentItems": []

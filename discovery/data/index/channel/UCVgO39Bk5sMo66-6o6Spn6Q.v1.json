@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCVgO39Bk5sMo66-6o6Spn6Q",
   "title": "ABC News (Australia)",
   "thumb": "https://yt3.ggpht.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 17.23,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Ray Martin (television presenter)",
       "url": "https://en.wikipedia.org/wiki/Ray_Martin_(television_presenter)",
       "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Julia Gillard's misogyny speech",
+      "type": "wikipedia",
+      "label": "Julia Gillard's misogyny speech",
+      "url": "https://en.wikipedia.org/wiki/Julia_Gillard's_misogyny_speech",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

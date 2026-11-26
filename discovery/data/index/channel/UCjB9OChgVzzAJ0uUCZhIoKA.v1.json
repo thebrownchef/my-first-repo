@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCjB9OChgVzzAJ0uUCZhIoKA",
   "title": "The Federal File",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lPLjrXE7RDl6HCUmEKIVsbPyLj9vCUGfYFUY5VzfAh5w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Duck and Cover (film)",
       "url": "https://en.wikipedia.org/wiki/Duck_and_Cover_(film)",
       "firstSeenAt": "2026-11-25T17:09:41.470Z"
+    },
+    {
+      "id": "wiki:The Price of Rendova",
+      "type": "wikipedia",
+      "label": "The Price of Rendova",
+      "url": "https://en.wikipedia.org/wiki/The_Price_of_Rendova",
+      "firstSeenAt": "2026-11-26T16:50:49.969Z"
     }
   ],
   "recentItems": []

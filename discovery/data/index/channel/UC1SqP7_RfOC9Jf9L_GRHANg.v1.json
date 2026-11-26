@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UC1SqP7_RfOC9Jf9L_GRHANg",
   "title": "AviciiOfficialVEVO",
   "thumb": "https://yt3.ggpht.com/PbuhJdUw_rYQoCB_ROfXAsX-k9tDtThMIQ9L2jMJAhBLG-vwm1lPC_hu7l3gKD-tjOXc1GM-pw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "The Days (Avicii song)",
       "url": "https://en.wikipedia.org/wiki/The_Days_(Avicii_song)",
       "firstSeenAt": "2026-11-21T14:36:45.628Z"
+    },
+    {
+      "id": "wiki:The Nights",
+      "type": "wikipedia",
+      "label": "The Nights",
+      "url": "https://en.wikipedia.org/wiki/The_Nights",
+      "firstSeenAt": "2026-11-26T16:50:49.970Z"
     }
   ],
   "recentItems": []

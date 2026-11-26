@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UCxoxU-QnI2RhSaAfhfThxHQ",
   "title": "Nico & Vinz",
   "thumb": "https://yt3.ggpht.com/MKKoDcrzEuqKHZbnpuWp9iYDFBgE9LtA9QtETkLGWD20tM6KOfHGawzQqshfOYZUMkgX0hblAA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Nico & Vinz",
       "url": "https://en.wikipedia.org/wiki/Nico_%26_Vinz",
       "firstSeenAt": "2026-11-17T15:56:43.259Z"
+    },
+    {
+      "id": "wiki:When the Day Comes",
+      "type": "wikipedia",
+      "label": "When the Day Comes",
+      "url": "https://en.wikipedia.org/wiki/When_the_Day_Comes",
+      "firstSeenAt": "2026-11-26T16:50:47.284Z"
     }
   ],
   "recentItems": []

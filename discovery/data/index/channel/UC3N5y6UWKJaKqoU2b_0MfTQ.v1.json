@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:11:11.141Z",
+  "generatedAt": "2026-11-26T16:52:25.808Z",
   "id": "UC3N5y6UWKJaKqoU2b_0MfTQ",
   "title": "LanaDelReyVEVO",
   "thumb": "https://yt3.ggpht.com/v7FFBCqWHtvh-_wLtWV2vOrgBI7p7puXjiZgZJ1bOcwdGUkP8DjHVdt6U-QvSDjEMtYa0aSw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Shades of Cool",
       "url": "https://en.wikipedia.org/wiki/Shades_of_Cool",
       "firstSeenAt": "2026-11-13T14:31:10.980Z"
+    },
+    {
+      "id": "wiki:Big Eyes (song)",
+      "type": "wikipedia",
+      "label": "Big Eyes (song)",
+      "url": "https://en.wikipedia.org/wiki/Big_Eyes_(song)",
+      "firstSeenAt": "2026-11-26T16:50:44.832Z"
     }
   ],
   "recentItems": []
