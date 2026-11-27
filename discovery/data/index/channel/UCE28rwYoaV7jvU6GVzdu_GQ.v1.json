@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCE28rwYoaV7jvU6GVzdu_GQ",
   "title": "World Rugby",
   "thumb": "https://yt3.ggpht.com/iLWvjwtBpNga5oQopnTzx4ZdHqJe5MhSwH9GLDI3OUviJYcS8Ef9BfUnEP_6oZjLF0s6bJ2ZzQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.45,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Mike Gibson (rugby union)",
       "url": "https://en.wikipedia.org/wiki/Mike_Gibson_(rugby_union)",
       "firstSeenAt": "2026-10-14T11:48:17.920Z"
+    },
+    {
+      "id": "wiki:David Barnes (rugby union)",
+      "type": "wikipedia",
+      "label": "David Barnes (rugby union)",
+      "url": "https://en.wikipedia.org/wiki/David_Barnes_(rugby_union)",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
     }
   ],
   "recentItems": []

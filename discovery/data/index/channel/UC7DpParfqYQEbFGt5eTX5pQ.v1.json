@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UC7DpParfqYQEbFGt5eTX5pQ",
   "title": "Trey Songz",
   "thumb": "https://yt3.ggpht.com/3UOWVMPQYdlGcjkN55FhKBBQE4uiZ9L6mzcf-7cfsv-EjRamxa67mjO578r4pmcf_APv62GlpQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "K. Michelle ",
       "url": "https://www.youtube.com/channel/UCx5Tqy7lZgSj8NLocGgYZ6g",
       "firstSeenAt": "2026-11-12T15:08:50.257Z"
+    },
+    {
+      "id": "wiki:Dive In (Trey Songz song)",
+      "type": "wikipedia",
+      "label": "Dive In (Trey Songz song)",
+      "url": "https://en.wikipedia.org/wiki/Dive_In_(Trey_Songz_song)",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
     }
   ],
   "recentItems": []

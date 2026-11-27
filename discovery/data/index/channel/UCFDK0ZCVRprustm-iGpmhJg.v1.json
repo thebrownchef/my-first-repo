@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCFDK0ZCVRprustm-iGpmhJg",
   "title": "Some folk",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n4c0DigAKm--L5r_n2yswHC85omJTVmXnniynXr8Y6sQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -50,6 +50,20 @@
       "label": "Gordon Highlanders",
       "url": "https://en.wikipedia.org/wiki/Gordon_Highlanders",
       "firstSeenAt": "2026-11-21T14:36:45.628Z"
+    },
+    {
+      "id": "wiki:Teresa and Maria Milanollo",
+      "type": "wikipedia",
+      "label": "Teresa and Maria Milanollo",
+      "url": "https://en.wikipedia.org/wiki/Teresa_and_Maria_Milanollo",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
+    },
+    {
+      "id": "wiki:Coldstream Guards",
+      "type": "wikipedia",
+      "label": "Coldstream Guards",
+      "url": "https://en.wikipedia.org/wiki/Coldstream_Guards",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCn8zNIfYAQNdrFRrr8oibKw",
   "title": "VICE",
   "thumb": "https://yt3.ggpht.com/9AgWUnohXk3gFYvmvAZemlr1q6yd7NxHozeEqrPpJhYf9Crjrvqml0ulZ4PL4v38I4XDoLEhaw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 1,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -127,6 +127,13 @@
       "label": "Agafia Lykova",
       "url": "https://en.wikipedia.org/wiki/Agafia_Lykova",
       "firstSeenAt": "2026-11-18T15:35:42.168Z"
+    },
+    {
+      "id": "wiki:Bab al-Tabbaneh–Jabal Mohsen conflict",
+      "type": "wikipedia",
+      "label": "Bab al-Tabbaneh–Jabal Mohsen conflict",
+      "url": "https://en.wikipedia.org/wiki/Bab_al-Tabbaneh%E2%80%93Jabal_Mohsen_conflict",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
     }
   ],
   "recentItems": []

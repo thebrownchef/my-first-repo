@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UChwgB3XD2h__UI3bjOk_4Fg",
   "title": "Rap-Up",
   "thumb": "https://yt3.ggpht.com/iMtWOXtjIqXOxFPcw1v-5yF67Z1JJvMa2bF8Sj8MyiCOkiF6yZmd1TQCfgRI5NIW95GRLnWBSvY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.24,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Trapped in the Closet",
       "url": "https://en.wikipedia.org/wiki/Trapped_in_the_Closet",
       "firstSeenAt": "2026-11-04T14:28:02.598Z"
+    },
+    {
+      "id": "wiki:Blackheart (album)",
+      "type": "wikipedia",
+      "label": "Blackheart (album)",
+      "url": "https://en.wikipedia.org/wiki/Blackheart_(album)",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

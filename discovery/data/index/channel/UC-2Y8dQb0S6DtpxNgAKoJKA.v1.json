@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
   "title": "PlayStation",
   "thumb": "https://yt3.ggpht.com/uiQh9JC7wAmCl63jhNilJvAcqNbwnMmUf5FUCQBecipe6yGmUWpPvAMVixALEt6xpPOVbsouzw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 3.72,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Beyond: Two Souls",
       "url": "https://en.wikipedia.org/wiki/Beyond%3A_Two_Souls",
       "firstSeenAt": "2026-11-20T15:23:41.388Z"
+    },
+    {
+      "id": "wiki:Killing Floor (video game)",
+      "type": "wikipedia",
+      "label": "Killing Floor (video game)",
+      "url": "https://en.wikipedia.org/wiki/Killing_Floor_(video_game)",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

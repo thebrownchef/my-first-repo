@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCbmNph6atAoGfqLoCL_duAg",
   "title": "Talks at Google",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_leGLUXS5clG8T-zaTxFoLj-BSWlcAcG-RaMp3Zz-NgRd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 26,
-  "distinctSourceCount": 26,
+  "score": 27,
+  "distinctSourceCount": 27,
   "hop": 0,
   "uploadsPerDay": 0.79,
   "sources": [
@@ -190,6 +190,13 @@
       "label": "Radhanath Swami",
       "url": "https://en.wikipedia.org/wiki/Radhanath_Swami",
       "firstSeenAt": "2026-11-26T16:50:49.969Z"
+    },
+    {
+      "id": "wiki:The Bite in the Apple",
+      "type": "wikipedia",
+      "label": "The Bite in the Apple",
+      "url": "https://en.wikipedia.org/wiki/The_Bite_in_the_Apple",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": [

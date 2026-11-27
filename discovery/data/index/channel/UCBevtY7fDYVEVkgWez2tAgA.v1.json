@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "id": "UCBevtY7fDYVEVkgWez2tAgA",
+  "title": "NRK",
+  "thumb": "https://yt3.ggpht.com/53GwO1zU7K_Y8H1o68msmFUBcFysJ1uYFxK3ZQm8Z22dlUubUmm-bQMX5aucX1OX6D8FVDfkhw=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 2,
+  "uploadsPerDay": 0.51,
+  "sources": [
+    {
+      "id": "channel:UCDVn8wLFP-zeFVWfWIFb14A",
+      "type": "channel",
+      "label": "NRK Super",
+      "url": "https://www.youtube.com/channel/UCDVn8wLFP-zeFVWfWIFb14A",
+      "firstSeenAt": "2026-09-23T11:32:18.346Z"
+    },
+    {
+      "id": "wiki:The Heavy Water War",
+      "type": "wikipedia",
+      "label": "The Heavy Water War",
+      "url": "https://en.wikipedia.org/wiki/The_Heavy_Water_War",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
+    }
+  ],
+  "recentItems": []
+}

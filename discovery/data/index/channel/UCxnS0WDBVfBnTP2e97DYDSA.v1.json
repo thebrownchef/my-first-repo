@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCxnS0WDBVfBnTP2e97DYDSA",
   "title": "riserecords",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nU6_yPbHlwf2K5uwf_CIUXpiXKXXBR-EaY51SOxol6VIQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 0.7,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Alternative Press",
       "url": "https://www.youtube.com/channel/UCH_TWswNlSRz9LtnpWOmA2Q",
       "firstSeenAt": "2026-11-24T17:38:56.196Z"
+    },
+    {
+      "id": "wiki:I Am Alive in Everything I Touch",
+      "type": "wikipedia",
+      "label": "I Am Alive in Everything I Touch",
+      "url": "https://en.wikipedia.org/wiki/I_Am_Alive_in_Everything_I_Touch",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

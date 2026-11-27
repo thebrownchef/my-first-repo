@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UC_gE-kg7JvuwCNlbZ1-shlA",
   "title": "SourceFed",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_n0DmvX5e8VPC4KB0mUR7cbCR1vRSY1y65sLWzfmH8tPBo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.84,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "SourceFed",
       "url": "https://en.wikipedia.org/wiki/SourceFed",
       "firstSeenAt": "2026-11-19T15:41:29.093Z"
+    },
+    {
+      "id": "wiki:Meg Turney",
+      "type": "wikipedia",
+      "label": "Meg Turney",
+      "url": "https://en.wikipedia.org/wiki/Meg_Turney",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCeq81A3_ZzK5-A74k3BQ7hg",
   "title": "noochinator2",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lh6VdqawNm5ieK7V0ANgIz-deVYyp-QkB0bmOj8oExmA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Oriana Fallaci",
       "url": "https://en.wikipedia.org/wiki/Oriana_Fallaci",
       "firstSeenAt": "2026-11-26T16:50:49.970Z"
+    },
+    {
+      "id": "wiki:Lawrence Ferlinghetti",
+      "type": "wikipedia",
+      "label": "Lawrence Ferlinghetti",
+      "url": "https://en.wikipedia.org/wiki/Lawrence_Ferlinghetti",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UC0C-w0YjGpqDXGB8IHb662A",
   "title": "Ed Sheeran",
   "thumb": "https://yt3.ggpht.com/pZQ5JMD4EOI8TcNYAPTzMexe_fC0CKnb_hYlV4rPfIzmDidF239fH1XKmzkeT30XSg7fxNwc_w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 1,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Tabitha and Napoleon D'umo",
       "url": "https://en.wikipedia.org/wiki/Tabitha_and_Napoleon_D'umo",
       "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:All of the Stars",
+      "type": "wikipedia",
+      "label": "All of the Stars",
+      "url": "https://en.wikipedia.org/wiki/All_of_the_Stars",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

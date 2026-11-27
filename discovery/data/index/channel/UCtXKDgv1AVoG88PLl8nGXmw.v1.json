@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCtXKDgv1AVoG88PLl8nGXmw",
   "title": "Google TechTalks",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_np5QbjchJOQKKpyqO3Uo7sg3YUaFx2EWN1kCQ0N7HRrQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 0.35,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "Geoffrey West",
       "url": "https://en.wikipedia.org/wiki/Geoffrey_West",
       "firstSeenAt": "2026-11-23T18:00:33.859Z"
+    },
+    {
+      "id": "wiki:Daniel J. Siegel",
+      "type": "wikipedia",
+      "label": "Daniel J. Siegel",
+      "url": "https://en.wikipedia.org/wiki/Daniel_J._Siegel",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": [

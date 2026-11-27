@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCRiSy1NSl9-dZ_ky9O6wIyA",
   "title": "ACBL - American Contract Bridge League",
   "thumb": "https://yt3.ggpht.com/kNFXvEwmoQ6hnXLaJRHLjPyPXLDzJVVPnSn6sST2guyqEX_YnU2BJ6JiwhQAYk7Ui8pf6tpWyQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -50,6 +50,41 @@
       "label": "Sami Kehela",
       "url": "https://en.wikipedia.org/wiki/Sami_Kehela",
       "firstSeenAt": "2026-11-17T15:56:40.698Z"
+    },
+    {
+      "id": "wiki:Benito Garozzo",
+      "type": "wikipedia",
+      "label": "Benito Garozzo",
+      "url": "https://en.wikipedia.org/wiki/Benito_Garozzo",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
+    },
+    {
+      "id": "wiki:Bobby Levin",
+      "type": "wikipedia",
+      "label": "Bobby Levin",
+      "url": "https://en.wikipedia.org/wiki/Bobby_Levin",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
+    },
+    {
+      "id": "wiki:Jeff Meckstroth",
+      "type": "wikipedia",
+      "label": "Jeff Meckstroth",
+      "url": "https://en.wikipedia.org/wiki/Jeff_Meckstroth",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
+    },
+    {
+      "id": "wiki:American Contract Bridge League",
+      "type": "wikipedia",
+      "label": "American Contract Bridge League",
+      "url": "https://en.wikipedia.org/wiki/American_Contract_Bridge_League",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
+    },
+    {
+      "id": "wiki:Mark Molson",
+      "type": "wikipedia",
+      "label": "Mark Molson",
+      "url": "https://en.wikipedia.org/wiki/Mark_Molson",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "id": "UCwmFOfFuvRPI112vR5DNnrA",
+  "title": "Vsauce3",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_kkfo8xzBuECAN3FF_vRx_e4fTyDLhQJrojFBCorfFTIDs=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.04,
+  "sources": [
+    {
+      "id": "channel:UCEmCXnbNYz-MOtXi3lZ7W1Q",
+      "type": "channel",
+      "label": "The Key of Awesome",
+      "url": "https://www.youtube.com/channel/UCEmCXnbNYz-MOtXi3lZ7W1Q",
+      "firstSeenAt": "2026-11-02T15:45:00.509Z"
+    },
+    {
+      "id": "wiki:Shapist",
+      "type": "wikipedia",
+      "label": "Shapist",
+      "url": "https://en.wikipedia.org/wiki/Shapist",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
+    }
+  ],
+  "recentItems": []
+}

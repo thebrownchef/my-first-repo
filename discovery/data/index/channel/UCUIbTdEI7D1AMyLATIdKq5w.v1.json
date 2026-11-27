@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCUIbTdEI7D1AMyLATIdKq5w",
   "title": "Groucho Marx - You Bet Your Life",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ndCH-S-TBxWKYkDqLcNr-568NJIq0KYubISGWqTai26g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 18,
-  "distinctSourceCount": 18,
+  "score": 19,
+  "distinctSourceCount": 19,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -134,6 +134,13 @@
       "label": "Liberace",
       "url": "https://en.wikipedia.org/wiki/Liberace",
       "firstSeenAt": "2026-11-20T15:23:46.019Z"
+    },
+    {
+      "id": "wiki:Albert Hibbs",
+      "type": "wikipedia",
+      "label": "Albert Hibbs",
+      "url": "https://en.wikipedia.org/wiki/Albert_Hibbs",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
     }
   ],
   "recentItems": [

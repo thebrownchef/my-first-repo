@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "id": "UCb0xfM3HGOsqPYNAocXXNAQ",
+  "title": "truTV",
+  "thumb": "https://yt3.ggpht.com/aZpNbjxkd2w1iQMtEc-OWuAEwgfmw7Zfzytml3fwXsXZJQ7kvwdeT7DFRe_xqTCMCoqiMmnZ=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.85,
+  "sources": [
+    {
+      "id": "channel:UC1DZpQ2DDExws9Zvl7UcSkg",
+      "type": "channel",
+      "label": "TNT",
+      "url": "https://www.youtube.com/channel/UC1DZpQ2DDExws9Zvl7UcSkg",
+      "firstSeenAt": "2026-09-09T11:20:01.093Z"
+    },
+    {
+      "id": "wiki:Hack My Life",
+      "type": "wikipedia",
+      "label": "Hack My Life",
+      "url": "https://en.wikipedia.org/wiki/Hack_My_Life",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
+    }
+  ],
+  "recentItems": []
+}

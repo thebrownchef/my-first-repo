@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCd2KNtfphz8HvYzM4pwtHmg",
   "title": "triple j",
   "thumb": "https://yt3.ggpht.com/cmycB_xqU9BRUqBeDxft-hZZGOi0jiX-u0rj1d7W_8sDlPxxWZk-9Qxiafbns3qdiIuG3BRqZQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 1,
   "uploadsPerDay": 0.65,
   "sources": [
@@ -71,6 +71,20 @@
       "label": "Lakyn Heperi",
       "url": "https://en.wikipedia.org/wiki/Lakyn_Heperi",
       "firstSeenAt": "2026-10-29T12:56:13.783Z"
+    },
+    {
+      "id": "wiki:Daniel Johns",
+      "type": "wikipedia",
+      "label": "Daniel Johns",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Johns",
+      "firstSeenAt": "2026-11-27T16:35:55.283Z"
+    },
+    {
+      "id": "wiki:Joelistics",
+      "type": "wikipedia",
+      "label": "Joelistics",
+      "url": "https://en.wikipedia.org/wiki/Joelistics",
+      "firstSeenAt": "2026-11-27T16:35:55.283Z"
     }
   ],
   "recentItems": []

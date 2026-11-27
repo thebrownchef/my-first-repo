@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCQ5kHOKpF3-1_UCKaqXARRg",
   "title": "OneRepublicVEVO",
   "thumb": "https://yt3.ggpht.com/WreNpfmfoL90x5CpxIppz6bG-O4-71yTWdAW_lFAjTRFIoqWek_sfMZ14i0JAY2sStjhCKvtcA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "I Lived",
       "url": "https://en.wikipedia.org/wiki/I_Lived",
       "firstSeenAt": "2026-11-24T17:38:37.541Z"
+    },
+    {
+      "id": "wiki:Something I Need",
+      "type": "wikipedia",
+      "label": "Something I Need",
+      "url": "https://en.wikipedia.org/wiki/Something_I_Need",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
     }
   ],
   "recentItems": []

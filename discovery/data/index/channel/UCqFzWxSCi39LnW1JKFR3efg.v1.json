@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCqFzWxSCi39LnW1JKFR3efg",
   "title": "Saturday Night Live",
   "thumb": "https://yt3.ggpht.com/0UstnnBY3C69WcOIv8W_8blHZKMpoxluehKazofyMTt93kO2wGbJ1-ZIiHaFSNYBVGAgu3AEUEo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 2.15,
   "sources": [
@@ -99,6 +99,20 @@
       "label": "Serial (podcast)",
       "url": "https://en.wikipedia.org/wiki/Serial_(podcast)",
       "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    },
+    {
+      "id": "wiki:Nancy Grace",
+      "type": "wikipedia",
+      "label": "Nancy Grace",
+      "url": "https://en.wikipedia.org/wiki/Nancy_Grace",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
+    },
+    {
+      "id": "wiki:List of Saturday Night Live commercial parodies",
+      "type": "wikipedia",
+      "label": "List of Saturday Night Live commercial parodies",
+      "url": "https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_commercial_parodies",
+      "firstSeenAt": "2026-11-27T16:35:55.283Z"
     }
   ],
   "recentItems": []

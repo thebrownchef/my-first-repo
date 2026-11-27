@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UC6t1Tkom_lz6nPYsBjOeD9w",
   "title": "Shemaroo Kannada",
   "thumb": "https://yt3.ggpht.com/XAUXzDgGoEjKDXjYxBcvbfXer2YyVowHK1AM4QL_ysn37OX5Qhuf-TAr0QS0J7y8RiSuMPVc3Wc=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0.91,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Shivanaga",
       "url": "https://en.wikipedia.org/wiki/Shivanaga",
       "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    },
+    {
+      "id": "wiki:Madhu Malathi",
+      "type": "wikipedia",
+      "label": "Madhu Malathi",
+      "url": "https://en.wikipedia.org/wiki/Madhu_Malathi",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCZYTClx2T1of7BRZ86-8fow",
   "title": "SciShow",
   "thumb": "https://yt3.ggpht.com/PeTBgposs2PwFQ9w75vPgEzKGZqHQb6slgisyh3dcF61uLD3y-tczPRhaH0s_AOSovMjtiBy1A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.77,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Green brothers",
       "url": "https://en.wikipedia.org/wiki/Green_brothers",
       "firstSeenAt": "2026-11-22T14:30:52.629Z"
+    },
+    {
+      "id": "wiki:SciShow",
+      "type": "wikipedia",
+      "label": "SciShow",
+      "url": "https://en.wikipedia.org/wiki/SciShow",
+      "firstSeenAt": "2026-11-27T16:35:55.283Z"
     }
   ],
   "recentItems": []

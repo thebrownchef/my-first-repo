@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UC1NF71EwP41VdjAU1iXdLkw",
   "title": "Narendra Modi",
   "thumb": "https://yt3.ggpht.com/UkHAndHfP8kM_G0-rYjIi882mFD-337fI2tDpN1uFasFjFKllur19MGtkCbnRZ-YNE8F_LKjeg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 5.15,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Radhanath Swami",
       "url": "https://en.wikipedia.org/wiki/Radhanath_Swami",
       "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    },
+    {
+      "id": "wiki:Mahadev R. Desai",
+      "type": "wikipedia",
+      "label": "Mahadev R. Desai",
+      "url": "https://en.wikipedia.org/wiki/Mahadev_R._Desai",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
     }
   ],
   "recentItems": []

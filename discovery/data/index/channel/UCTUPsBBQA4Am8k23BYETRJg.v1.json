@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCTUPsBBQA4Am8k23BYETRJg",
   "title": "Songkick",
   "thumb": "https://yt3.ggpht.com/ki_41gtUzLSbqVo-p4V1VGqNnC-axcO8MKnjC4E9cN3AcgrUrOv7qJbZWoleI_yiBEvdJWAxSA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.22,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Elton John",
       "url": "https://en.wikipedia.org/wiki/Elton_John",
       "firstSeenAt": "2026-11-25T17:09:36.640Z"
+    },
+    {
+      "id": "wiki:Ed Sheeran",
+      "type": "wikipedia",
+      "label": "Ed Sheeran",
+      "url": "https://en.wikipedia.org/wiki/Ed_Sheeran",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
     }
   ],
   "recentItems": []

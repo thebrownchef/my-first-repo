@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "id": "UC_bbrKG3Jqj_zDxnkGNoNjQ",
+  "title": "Edinburgh TV Festival",
+  "thumb": "https://yt3.ggpht.com/D18siK7vjQQUN2ZLNA-PLDd3dVnss1kbhykTkIKVt2FRUFwr4HAblau7HzcaGy5zs5aSyKcL=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.16,
+  "sources": [
+    {
+      "id": "wiki:Michaela Coel",
+      "type": "wikipedia",
+      "label": "Michaela Coel",
+      "url": "https://en.wikipedia.org/wiki/Michaela_Coel",
+      "firstSeenAt": "2026-08-28T18:39:19.394Z"
+    },
+    {
+      "id": "wiki:Chris Morris (satirist)",
+      "type": "wikipedia",
+      "label": "Chris Morris (satirist)",
+      "url": "https://en.wikipedia.org/wiki/Chris_Morris_(satirist)",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
+    },
+    {
+      "id": "wiki:TVGoHome",
+      "type": "wikipedia",
+      "label": "TVGoHome",
+      "url": "https://en.wikipedia.org/wiki/TVGoHome",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
+    }
+  ],
+  "recentItems": []
+}

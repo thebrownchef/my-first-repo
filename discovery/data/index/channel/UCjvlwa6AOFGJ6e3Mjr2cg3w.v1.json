@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCjvlwa6AOFGJ6e3Mjr2cg3w",
   "title": "DestinysChildVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kDZmJPFiRSGT34YMEDpSJpLeiGkbyDJKXKBmpa9FasSvI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Cater 2 U",
       "url": "https://en.wikipedia.org/wiki/Cater_2_U",
       "firstSeenAt": "2026-11-16T15:40:09.990Z"
+    },
+    {
+      "id": "wiki:Stand Up for Love",
+      "type": "wikipedia",
+      "label": "Stand Up for Love",
+      "url": "https://en.wikipedia.org/wiki/Stand_Up_for_Love",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCMO4tHTk9txbO7GvMmCp3Bg",
   "title": "CreativeStuffVideo",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k1Mvy3VXjofx2QyHu51pmBfM3S1ixjnpv2Vci38Nemtg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Danny Harris",
       "url": "https://en.wikipedia.org/wiki/Danny_Harris",
       "firstSeenAt": "2026-11-14T13:27:58.305Z"
+    },
+    {
+      "id": "wiki:David Kerley",
+      "type": "wikipedia",
+      "label": "David Kerley",
+      "url": "https://en.wikipedia.org/wiki/David_Kerley",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

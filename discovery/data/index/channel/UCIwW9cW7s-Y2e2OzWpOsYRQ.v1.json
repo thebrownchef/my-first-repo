@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCIwW9cW7s-Y2e2OzWpOsYRQ",
   "title": "noochinator1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kOW0gkUIPEkXuZ8sEIJ1RKlG6ieifjNCfJXHF7GgZ93g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 55,
-  "distinctSourceCount": 55,
+  "score": 57,
+  "distinctSourceCount": 57,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -393,6 +393,20 @@
       "label": "Philippe Entremont",
       "url": "https://en.wikipedia.org/wiki/Philippe_Entremont",
       "firstSeenAt": "2026-11-26T16:50:47.285Z"
+    },
+    {
+      "id": "wiki:Larry Austin",
+      "type": "wikipedia",
+      "label": "Larry Austin",
+      "url": "https://en.wikipedia.org/wiki/Larry_Austin",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
+    },
+    {
+      "id": "wiki:Jay Sydeman",
+      "type": "wikipedia",
+      "label": "Jay Sydeman",
+      "url": "https://en.wikipedia.org/wiki/Jay_Sydeman",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCjB9OChgVzzAJ0uUCZhIoKA",
   "title": "The Federal File",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lPLjrXE7RDl6HCUmEKIVsbPyLj9vCUGfYFUY5VzfAh5w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -43,6 +43,41 @@
       "label": "The Price of Rendova",
       "url": "https://en.wikipedia.org/wiki/The_Price_of_Rendova",
       "firstSeenAt": "2026-11-26T16:50:49.969Z"
+    },
+    {
+      "id": "wiki:Sinners in Paradise",
+      "type": "wikipedia",
+      "label": "Sinners in Paradise",
+      "url": "https://en.wikipedia.org/wiki/Sinners_in_Paradise",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
+    },
+    {
+      "id": "wiki:Inside the Lines (1930 film)",
+      "type": "wikipedia",
+      "label": "Inside the Lines (1930 film)",
+      "url": "https://en.wikipedia.org/wiki/Inside_the_Lines_(1930_film)",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
+    },
+    {
+      "id": "wiki:Fighting Caravans",
+      "type": "wikipedia",
+      "label": "Fighting Caravans",
+      "url": "https://en.wikipedia.org/wiki/Fighting_Caravans",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
+    },
+    {
+      "id": "wiki:Young Bill Hickok",
+      "type": "wikipedia",
+      "label": "Young Bill Hickok",
+      "url": "https://en.wikipedia.org/wiki/Young_Bill_Hickok",
+      "firstSeenAt": "2026-11-27T16:35:52.951Z"
+    },
+    {
+      "id": "wiki:VT-8",
+      "type": "wikipedia",
+      "label": "VT-8",
+      "url": "https://en.wikipedia.org/wiki/VT-8",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

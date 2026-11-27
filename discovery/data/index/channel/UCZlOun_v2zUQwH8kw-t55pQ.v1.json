@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCZlOun_v2zUQwH8kw-t55pQ",
   "title": "Biscoot Kannada",
   "thumb": "https://yt3.ggpht.com/SaOI19__nXpajT8M1HtReOzy4fwaZPRpHO_BGkBOyg736YIQqZUFADlobs9jW0x2HSzr4fH8WFY=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 2,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Kalinga Sarpa",
       "url": "https://en.wikipedia.org/wiki/Kalinga_Sarpa",
       "firstSeenAt": "2026-11-26T16:50:47.285Z"
+    },
+    {
+      "id": "wiki:Kasidre Kailasa",
+      "type": "wikipedia",
+      "label": "Kasidre Kailasa",
+      "url": "https://en.wikipedia.org/wiki/Kasidre_Kailasa",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

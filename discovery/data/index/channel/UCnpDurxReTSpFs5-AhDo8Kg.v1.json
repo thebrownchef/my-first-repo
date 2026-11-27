@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCnpDurxReTSpFs5-AhDo8Kg",
   "title": "AT&T Tech Channel",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kCQeCjPa9C1BlZBEouKdu7WLlQX73IZftngblTERwJBg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.28,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "TAT-2",
       "url": "https://en.wikipedia.org/wiki/TAT-2",
       "firstSeenAt": "2026-11-19T15:41:29.093Z"
+    },
+    {
+      "id": "wiki:Olympic Center",
+      "type": "wikipedia",
+      "label": "Olympic Center",
+      "url": "https://en.wikipedia.org/wiki/Olympic_Center",
+      "firstSeenAt": "2026-11-27T16:35:50.155Z"
     }
   ],
   "recentItems": []

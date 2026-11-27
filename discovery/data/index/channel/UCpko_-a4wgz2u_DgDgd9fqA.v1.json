@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCpko_-a4wgz2u_DgDgd9fqA",
   "title": "BuzzFeedVideo",
   "thumb": "https://yt3.ggpht.com/FQRjWCifwITpxpp4EvfHUEUjUwtS_wrDwGEHzvUA3NlzRlxqb-cUpfBKizDKSt-iiGW4mtFl3Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "NewDuracellKid",
       "url": "https://www.youtube.com/channel/UC2FYk45tydEEiKs-btM0oxQ",
       "firstSeenAt": "2026-09-06T10:53:38.747Z"
+    },
+    {
+      "id": "wiki:Mission District, San Francisco",
+      "type": "wikipedia",
+      "label": "Mission District, San Francisco",
+      "url": "https://en.wikipedia.org/wiki/Mission_District%2C_San_Francisco",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
     }
   ],
   "recentItems": []

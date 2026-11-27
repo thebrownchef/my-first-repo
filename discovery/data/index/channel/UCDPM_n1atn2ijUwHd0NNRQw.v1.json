@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCDPM_n1atn2ijUwHd0NNRQw",
   "title": "Coldplay",
   "thumb": "https://yt3.ggpht.com/vWWn3HO1emNl2iGb08UuY4q_OtqXwUUWJMjMDr6bBPpuCBoWg-dE_Gu-yoMQNrBqb2gMzA3wLQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 2,
   "uploadsPerDay": 0.09,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Miracles (Coldplay song)",
       "url": "https://en.wikipedia.org/wiki/Miracles_(Coldplay_song)",
       "firstSeenAt": "2026-11-25T17:09:39.109Z"
+    },
+    {
+      "id": "wiki:King Street, Newtown, Sydney",
+      "type": "wikipedia",
+      "label": "King Street, Newtown, Sydney",
+      "url": "https://en.wikipedia.org/wiki/King_Street%2C_Newtown%2C_Sydney",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
     }
   ],
   "recentItems": []

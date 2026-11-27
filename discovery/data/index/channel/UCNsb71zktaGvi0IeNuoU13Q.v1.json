@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCNsb71zktaGvi0IeNuoU13Q",
   "title": "duxdemontis98",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kSokP5BRtWaNtOo4K_uCwi_NX6yhLA1sYs3-B4htw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.25,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Foshay Tower",
       "url": "https://en.wikipedia.org/wiki/Foshay_Tower",
       "firstSeenAt": "2026-10-17T10:39:49.194Z"
+    },
+    {
+      "id": "wiki:Military march (Bruckner)",
+      "type": "wikipedia",
+      "label": "Military march (Bruckner)",
+      "url": "https://en.wikipedia.org/wiki/Military_march_(Bruckner)",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
     }
   ],
   "recentItems": []

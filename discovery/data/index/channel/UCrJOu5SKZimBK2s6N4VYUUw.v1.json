@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCrJOu5SKZimBK2s6N4VYUUw",
   "title": "sp1873",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lddsI3tvOuMBj7fpufTnJqhvfwe-VktIq6GZ2cg3rL1cbz=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 2.69,
   "sources": [
@@ -43,6 +43,20 @@
       "label": "History of Albanian football",
       "url": "https://en.wikipedia.org/wiki/History_of_Albanian_football",
       "firstSeenAt": "2026-09-02T11:15:16.624Z"
+    },
+    {
+      "id": "wiki:Fredy Bareiro",
+      "type": "wikipedia",
+      "label": "Fredy Bareiro",
+      "url": "https://en.wikipedia.org/wiki/Fredy_Bareiro",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
+    },
+    {
+      "id": "wiki:1998 FIFA World Cup qualification (CONMEBOL)",
+      "type": "wikipedia",
+      "label": "1998 FIFA World Cup qualification (CONMEBOL)",
+      "url": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_qualification_(CONMEBOL)",
+      "firstSeenAt": "2026-11-27T16:35:52.950Z"
     }
   ],
   "recentItems": []

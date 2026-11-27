@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UC6cnrd8SMMC2x9rud3RfqlA",
   "title": "Museum of New Zealand Te Papa Tongarewa",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nhupT6p2T3vS1Abq3HUgDRnwLWjKcQgi6mDQm9IIWGjEU=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Margery Blackman",
       "url": "https://en.wikipedia.org/wiki/Margery_Blackman",
       "firstSeenAt": "2026-11-25T17:09:39.108Z"
+    },
+    {
+      "id": "wiki:Toi Te Rito Maihi",
+      "type": "wikipedia",
+      "label": "Toi Te Rito Maihi",
+      "url": "https://en.wikipedia.org/wiki/Toi_Te_Rito_Maihi",
+      "firstSeenAt": "2026-11-27T16:35:50.156Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UCyh6Wrcsij3-SlORwwBC5Sg",
   "title": "Not Just Every Four Years",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lmfMlm7mvgCBaKxr28ToxC0pRlCwZwL1OH3sMsflQPBOitVI7HouPqTrq8uBQXl6I5tA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.13,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Alberto Juantorena",
       "url": "https://en.wikipedia.org/wiki/Alberto_Juantorena",
       "firstSeenAt": "2026-11-21T14:36:42.574Z"
+    },
+    {
+      "id": "wiki:Christin Cooper",
+      "type": "wikipedia",
+      "label": "Christin Cooper",
+      "url": "https://en.wikipedia.org/wiki/Christin_Cooper",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []

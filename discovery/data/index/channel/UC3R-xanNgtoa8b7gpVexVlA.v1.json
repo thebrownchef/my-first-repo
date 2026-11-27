@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T16:52:25.808Z",
+  "generatedAt": "2026-11-27T16:37:07.350Z",
   "id": "UC3R-xanNgtoa8b7gpVexVlA",
   "title": "Smarthistory",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lqTCOtmJX6RPYhs3cAHMztn6c2-DouI3TslncTtdyHhW0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 2,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Catacomb of Priscilla",
       "url": "https://en.wikipedia.org/wiki/Catacomb_of_Priscilla",
       "firstSeenAt": "2026-11-21T14:36:45.629Z"
+    },
+    {
+      "id": "wiki:Munduruku",
+      "type": "wikipedia",
+      "label": "Munduruku",
+      "url": "https://en.wikipedia.org/wiki/Munduruku",
+      "firstSeenAt": "2026-11-27T16:35:55.282Z"
     }
   ],
   "recentItems": []
