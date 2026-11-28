@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCcjoLhqu3nyOFmdqF17LeBQ",
   "title": "BBC deepwatch",
   "thumb": "https://yt3.ggpht.com/r5JP6_q5C6HR0vCzcRtAsy01CMBgnXmTE5K_fTzE0o8iHNZS-3wQri8qxaMfeUZOz3VDkbii=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.58,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "BBC Ideas",
       "url": "https://www.youtube.com/channel/UCDYT9mM3L_ByrPYMyl0MGGg",
       "firstSeenAt": "2026-09-25T11:48:19.373Z"
+    },
+    {
+      "id": "channel:UCAwTHwWoyi_2jgB_lQjyIyg",
+      "type": "channel",
+      "label": "BBC Northern Ireland",
+      "url": "https://www.youtube.com/channel/UCAwTHwWoyi_2jgB_lQjyIyg",
+      "firstSeenAt": "2026-11-28T15:28:08.469Z"
     }
   ],
   "recentItems": []

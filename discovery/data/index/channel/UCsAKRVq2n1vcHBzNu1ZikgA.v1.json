@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCsAKRVq2n1vcHBzNu1ZikgA",
   "title": "5 News",
   "thumb": "https://yt3.ggpht.com/_hhaiqsrKb5OoQMCLFWOr0gi99QsF37rcrC1WLVu_QHSsb0gxdkPO0alSs7nCF4xxaJHz0QQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 3.9,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Channel 5",
       "url": "https://www.youtube.com/channel/UC1XSYJz0tzqNONTlIoRpqog",
       "firstSeenAt": "2026-10-13T14:08:13.145Z"
+    },
+    {
+      "id": "wiki:Sarah Ockwell-Smith",
+      "type": "wikipedia",
+      "label": "Sarah Ockwell-Smith",
+      "url": "https://en.wikipedia.org/wiki/Sarah_Ockwell-Smith",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

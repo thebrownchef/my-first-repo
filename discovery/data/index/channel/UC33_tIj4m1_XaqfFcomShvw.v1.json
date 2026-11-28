@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC33_tIj4m1_XaqfFcomShvw",
   "title": "BABYMETAL",
   "thumb": "https://yt3.ggpht.com/MMA9n48WFsi5kgHIjY3njgTq5FORyGqLHXFSqg9JLQqO7533uXnwWlYi46bUYd7aPUPD6lD3Rxg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.07,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Live: Legend 1999 & 1997 Apocalypse",
       "url": "https://en.wikipedia.org/wiki/Live%3A_Legend_1999_%26_1997_Apocalypse",
       "firstSeenAt": "2026-11-23T18:00:27.572Z"
+    },
+    {
+      "id": "wiki:Live at Budokan: Red Night & Black Night Apocalypse",
+      "type": "wikipedia",
+      "label": "Live at Budokan: Red Night & Black Night Apocalypse",
+      "url": "https://en.wikipedia.org/wiki/Live_at_Budokan%3A_Red_Night_%26_Black_Night_Apocalypse",
+      "firstSeenAt": "2026-11-28T15:27:53.072Z"
     }
   ],
   "recentItems": []

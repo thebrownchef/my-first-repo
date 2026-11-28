@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCJSX0gNr2U5lawLXE6IjRmA",
   "title": "Saregama Marathi",
   "thumb": "https://yt3.ggpht.com/fxa7yDAdmAA1PGBOLcMMnnAlmoxgRxtarIo9futTCh-eEvVqrKLZz-GNKszYMR1j8DWCqpAR6w=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.94,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Saregama Tamil",
       "url": "https://www.youtube.com/channel/UCzee67JnEcuvjErRyWP3GpQ",
       "firstSeenAt": "2026-09-21T12:44:52.309Z"
+    },
+    {
+      "id": "wiki:Sukhakarta Dukhaharta",
+      "type": "wikipedia",
+      "label": "Sukhakarta Dukhaharta",
+      "url": "https://en.wikipedia.org/wiki/Sukhakarta_Dukhaharta",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
     }
   ],
   "recentItems": []

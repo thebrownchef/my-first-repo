@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T15:29:02.209Z",
+  "id": "UCVT29Hdkjx2rG2GsZ-oSY0A",
+  "title": "Yale University Art Gallery",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_n4AZU4eFwEERaEehmgzy260qMhk0jXHeVnyhQ9J7GmgKo=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 1,
+  "uploadsPerDay": 0.08,
+  "sources": [
+    {
+      "id": "channel:UCGF_z7NNup6feP3ry_mRxnA",
+      "type": "channel",
+      "label": "Yale University Channels",
+      "url": "https://www.youtube.com/channel/UCGF_z7NNup6feP3ry_mRxnA",
+      "firstSeenAt": "2026-10-31T12:22:33.920Z"
+    },
+    {
+      "id": "wiki:Chariot clock",
+      "type": "wikipedia",
+      "label": "Chariot clock",
+      "url": "https://en.wikipedia.org/wiki/Chariot_clock",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
+    }
+  ],
+  "recentItems": []
+}

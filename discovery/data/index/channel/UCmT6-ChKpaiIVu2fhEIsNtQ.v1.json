@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCmT6-ChKpaiIVu2fhEIsNtQ",
   "title": "misesmedia",
   "thumb": "https://yt3.ggpht.com/_rWbXjifNc8qv7XVkQqd5hGVum1KQ_XoPRzFlT0thv4boUAo-fOfAocuAL7tceOp640CjoNjQA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 1,
   "uploadsPerDay": 0.47,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Ludwig von Mises",
       "url": "https://en.wikipedia.org/wiki/Ludwig_von_Mises",
       "firstSeenAt": "2026-11-11T14:16:20.748Z"
+    },
+    {
+      "id": "wiki:George Selgin",
+      "type": "wikipedia",
+      "label": "George Selgin",
+      "url": "https://en.wikipedia.org/wiki/George_Selgin",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

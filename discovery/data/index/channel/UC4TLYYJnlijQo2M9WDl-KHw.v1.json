@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC4TLYYJnlijQo2M9WDl-KHw",
   "title": "ANGELO C TURETROMUSIC",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mWSbS6p_Vn8qFgUg76V9Q63AXJMTHl3A271Nd2BGMN5ms=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.64,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "Los Donatti",
       "url": "https://en.wikipedia.org/wiki/Los_Donatti",
       "firstSeenAt": "2026-11-25T17:09:41.470Z"
+    },
+    {
+      "id": "wiki:Enamorada (1986 TV series)",
+      "type": "wikipedia",
+      "label": "Enamorada (1986 TV series)",
+      "url": "https://en.wikipedia.org/wiki/Enamorada_(1986_TV_series)",
+      "firstSeenAt": "2026-11-28T15:27:50.315Z"
+    },
+    {
+      "id": "wiki:María Teresa (TV series)",
+      "type": "wikipedia",
+      "label": "María Teresa (TV series)",
+      "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Teresa_(TV_series)",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

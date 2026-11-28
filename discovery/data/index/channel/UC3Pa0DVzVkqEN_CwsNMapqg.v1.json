@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC3Pa0DVzVkqEN_CwsNMapqg",
   "title": "SamSmithVEVO",
   "thumb": "https://yt3.ggpht.com/0_ZyggCSiYU3giBKLroX5FXea3rN8DP1G4zWCc4Zq5X10YNae5W3KMtHHVs0-PLYMmBycrGlyyg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 2,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Stay with Me (Sam Smith song)",
       "url": "https://en.wikipedia.org/wiki/Stay_with_Me_(Sam_Smith_song)",
       "firstSeenAt": "2026-11-07T12:56:33.839Z"
+    },
+    {
+      "id": "wiki:Like I Can",
+      "type": "wikipedia",
+      "label": "Like I Can",
+      "url": "https://en.wikipedia.org/wiki/Like_I_Can",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

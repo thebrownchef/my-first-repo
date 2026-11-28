@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCt00Zq_pjil6mEkwbqRxV3g",
   "title": "Roger Griffith",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mLDFqORUs32h9WervbYgwH_4I0dkhAsRXdbn6uNUKS0v0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 136,
-  "distinctSourceCount": 136,
+  "score": 138,
+  "distinctSourceCount": 138,
   "hop": 0,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -960,6 +960,20 @@
       "label": "Kilmaurs Castle",
       "url": "https://en.wikipedia.org/wiki/Kilmaurs_Castle",
       "firstSeenAt": "2026-11-27T16:35:50.156Z"
+    },
+    {
+      "id": "wiki:Murder of James Young",
+      "type": "wikipedia",
+      "label": "Murder of James Young",
+      "url": "https://en.wikipedia.org/wiki/Murder_of_James_Young",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
+    },
+    {
+      "id": "wiki:Dudsday",
+      "type": "wikipedia",
+      "label": "Dudsday",
+      "url": "https://en.wikipedia.org/wiki/Dudsday",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
     }
   ],
   "recentItems": [

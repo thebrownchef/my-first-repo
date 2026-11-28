@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCD9sCcKXnFxMeuFoNayVxeQ",
   "title": "beegees",
   "thumb": "https://yt3.ggpht.com/i4xL-XCMHmNpSSSuXEzW6ijBPOiGhuMvcRB190QcWcgfuDuj2vOHXtAeaghQ4neoqvOn8BIF8Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.03,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "New York Mining Disaster 1941",
       "url": "https://en.wikipedia.org/wiki/New_York_Mining_Disaster_1941",
       "firstSeenAt": "2026-11-05T14:35:34.047Z"
+    },
+    {
+      "id": "wiki:Lonely Days",
+      "type": "wikipedia",
+      "label": "Lonely Days",
+      "url": "https://en.wikipedia.org/wiki/Lonely_Days",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
     }
   ],
   "recentItems": []

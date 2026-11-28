@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCZFMm1mMw0F81Z37aaEzTUA",
   "title": "NDTV",
   "thumb": "https://yt3.ggpht.com/mOb3OXPZO0-7LmZ0Y4o_wz2imPJ7aFa_isYXg0awkLyL1ehglmsiQD4rWxwrUrfXLK9jlh35=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 39.85,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Rohtak sisters viral video controversy",
       "url": "https://en.wikipedia.org/wiki/Rohtak_sisters_viral_video_controversy",
       "firstSeenAt": "2026-11-27T16:35:55.282Z"
+    },
+    {
+      "id": "wiki:2015 Delhi Legislative Assembly election",
+      "type": "wikipedia",
+      "label": "2015 Delhi Legislative Assembly election",
+      "url": "https://en.wikipedia.org/wiki/2015_Delhi_Legislative_Assembly_election",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
     }
   ],
   "recentItems": []

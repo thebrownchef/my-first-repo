@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
   "title": "National Geographic",
   "thumb": "https://yt3.ggpht.com/-FOFg8o1y4dAHDB2MvhORHnLMOaaOKnaNUNsrU-U57Eac6gjB5VO8sYJQC1KkULGQvKP2XpArA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 15,
-  "distinctSourceCount": 15,
+  "score": 16,
+  "distinctSourceCount": 16,
   "hop": 0,
   "uploadsPerDay": 1.55,
   "sources": [
@@ -113,6 +113,13 @@
       "label": "Patrick Nee",
       "url": "https://en.wikipedia.org/wiki/Patrick_Nee",
       "firstSeenAt": "2026-11-19T15:41:22.286Z"
+    },
+    {
+      "id": "wiki:Wei-Assipu-tepui",
+      "type": "wikipedia",
+      "label": "Wei-Assipu-tepui",
+      "url": "https://en.wikipedia.org/wiki/Wei-Assipu-tepui",
+      "firstSeenAt": "2026-11-28T15:27:53.072Z"
     }
   ],
   "recentItems": []

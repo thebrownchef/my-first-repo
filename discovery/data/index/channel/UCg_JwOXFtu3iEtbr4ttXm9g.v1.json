@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCg_JwOXFtu3iEtbr4ttXm9g",
   "title": "PlayStation Europe",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k8IbowrU-zpk1MOdHegH5yHiBCeh_sifQufdqaJ56iU6I=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.95,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Ice on the Dune",
       "url": "https://en.wikipedia.org/wiki/Ice_on_the_Dune",
       "firstSeenAt": "2026-10-30T12:50:10.991Z"
+    },
+    {
+      "id": "wiki:Development of The Last of Us (video game)",
+      "type": "wikipedia",
+      "label": "Development of The Last of Us (video game)",
+      "url": "https://en.wikipedia.org/wiki/Development_of_The_Last_of_Us_(video_game)",
+      "firstSeenAt": "2026-11-28T15:27:53.072Z"
     }
   ],
   "recentItems": []

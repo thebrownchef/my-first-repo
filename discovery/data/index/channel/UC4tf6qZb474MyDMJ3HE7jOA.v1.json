@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T15:29:02.209Z",
+  "id": "UC4tf6qZb474MyDMJ3HE7jOA",
+  "title": "Harrison Ford",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nj5ByIBiPP4r7XjH-GRslySvIk6xQP_wwxMsFx6j8=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0,
+  "sources": [
+    {
+      "id": "wiki:All That Remains (band)",
+      "type": "wikipedia",
+      "label": "All That Remains (band)",
+      "url": "https://en.wikipedia.org/wiki/All_That_Remains_(band)",
+      "firstSeenAt": "2026-11-24T17:38:33.293Z"
+    },
+    {
+      "id": "wiki:The Order of Things (album)",
+      "type": "wikipedia",
+      "label": "The Order of Things (album)",
+      "url": "https://en.wikipedia.org/wiki/The_Order_of_Things_(album)",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
+    }
+  ],
+  "recentItems": []
+}

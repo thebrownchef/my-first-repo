@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCW6-BQWFA70Dyyc7ZpZ9Xlg",
   "title": "BBC Sport",
   "thumb": "https://yt3.ggpht.com/7MVBSLQu23KEmav1jgqQkNSE-JsxRTqyfdKX_DVCl0oSAxALtPKwLhERmLOGgILKTjxdvcjD56k=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 1.16,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "BBC Women's Football",
       "url": "https://www.youtube.com/channel/UCRgEcyONlt8asRidnFfVjTw",
       "firstSeenAt": "2026-09-25T11:48:19.715Z"
+    },
+    {
+      "id": "channel:UCAwTHwWoyi_2jgB_lQjyIyg",
+      "type": "channel",
+      "label": "BBC Northern Ireland",
+      "url": "https://www.youtube.com/channel/UCAwTHwWoyi_2jgB_lQjyIyg",
+      "firstSeenAt": "2026-11-28T15:28:08.467Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC3R-xanNgtoa8b7gpVexVlA",
   "title": "Smarthistory",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lqTCOtmJX6RPYhs3cAHMztn6c2-DouI3TslncTtdyHhW0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 2,
   "uploadsPerDay": 0.23,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Munduruku",
       "url": "https://en.wikipedia.org/wiki/Munduruku",
       "firstSeenAt": "2026-11-27T16:35:55.282Z"
+    },
+    {
+      "id": "wiki:The Peasant Wedding",
+      "type": "wikipedia",
+      "label": "The Peasant Wedding",
+      "url": "https://en.wikipedia.org/wiki/The_Peasant_Wedding",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

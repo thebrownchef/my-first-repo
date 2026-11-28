@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCbu2SsF-Or3Rsn3NxqODImw",
   "title": "GameSpot",
   "thumb": "https://yt3.ggpht.com/2q8-YlqtAs3pWHamRcooAOvt_M88afnTwo7DYwqvHV9OSGlf2pBa5h3QJGeHrBkBidUjaL0mpA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 5.66,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Winifred Phillips",
       "url": "https://en.wikipedia.org/wiki/Winifred_Phillips",
       "firstSeenAt": "2026-11-23T18:00:31.752Z"
+    },
+    {
+      "id": "wiki:UFO: Enemy Unknown",
+      "type": "wikipedia",
+      "label": "UFO: Enemy Unknown",
+      "url": "https://en.wikipedia.org/wiki/UFO%3A_Enemy_Unknown",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCypRipZQkVU_TZYa6WgSMvg",
   "title": "CiaraVEVO",
   "thumb": "https://yt3.ggpht.com/HdT6s1mAxBppRlXgNg524X3qemFP3LdV2NyWJ2RMbNn4-ZdxsiziWvS4bonzbl-1yw3PHD56JGo=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "I'm Out",
       "url": "https://en.wikipedia.org/wiki/I'm_Out",
       "firstSeenAt": "2026-10-24T10:54:52.442Z"
+    },
+    {
+      "id": "wiki:I Bet",
+      "type": "wikipedia",
+      "label": "I Bet",
+      "url": "https://en.wikipedia.org/wiki/I_Bet",
+      "firstSeenAt": "2026-11-28T15:27:53.074Z"
     }
   ],
   "recentItems": []

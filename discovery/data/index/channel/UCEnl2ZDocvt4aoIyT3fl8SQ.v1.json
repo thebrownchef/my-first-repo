@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCEnl2ZDocvt4aoIyT3fl8SQ",
   "title": "CriticalPast",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_lTo9X3cgaYXkks-WJQjgU-fL7RpKwefNd_rrOe1gD3ZZA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 4.5,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Smaranda Brăescu",
       "url": "https://en.wikipedia.org/wiki/Smaranda_Br%C4%83escu",
       "firstSeenAt": "2026-11-26T16:50:47.285Z"
+    },
+    {
+      "id": "wiki:Franklin D. Roosevelt III",
+      "type": "wikipedia",
+      "label": "Franklin D. Roosevelt III",
+      "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt_III",
+      "firstSeenAt": "2026-11-28T15:27:50.315Z"
     }
   ],
   "recentItems": []

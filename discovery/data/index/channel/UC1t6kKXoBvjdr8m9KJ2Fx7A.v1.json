@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC1t6kKXoBvjdr8m9KJ2Fx7A",
   "title": "Gresham College",
   "thumb": "https://yt3.ggpht.com/QqCYkHF-e2QnFGwBddFcKxbvo6fJlLSlECnV83FK1z8sQO6vFguNC262KUNSiJoTio_PuEQevw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 1,
   "uploadsPerDay": 0.76,
   "sources": [
@@ -22,6 +22,20 @@
       "label": "String Quartet No. 14 (Schubert)",
       "url": "https://en.wikipedia.org/wiki/String_Quartet_No._14_(Schubert)",
       "firstSeenAt": "2026-11-27T16:35:55.281Z"
+    },
+    {
+      "id": "wiki:Raymond Flood (mathematician)",
+      "type": "wikipedia",
+      "label": "Raymond Flood (mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Raymond_Flood_(mathematician)",
+      "firstSeenAt": "2026-11-28T15:27:50.315Z"
+    },
+    {
+      "id": "wiki:Belinda Jack",
+      "type": "wikipedia",
+      "label": "Belinda Jack",
+      "url": "https://en.wikipedia.org/wiki/Belinda_Jack",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

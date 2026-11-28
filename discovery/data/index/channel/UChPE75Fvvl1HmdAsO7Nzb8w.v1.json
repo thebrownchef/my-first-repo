@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UChPE75Fvvl1HmdAsO7Nzb8w",
   "title": "What's My Line?",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k74HINakk7qcURdIhAkKEvzEV9wqTWEfZpPJTNZPMnCA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 19,
-  "distinctSourceCount": 19,
+  "score": 20,
+  "distinctSourceCount": 20,
   "hop": 0,
   "uploadsPerDay": 0.18,
   "sources": [
@@ -141,6 +141,13 @@
       "label": "Yves Saint Laurent (designer)",
       "url": "https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(designer)",
       "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    },
+    {
+      "id": "wiki:Jane Froman",
+      "type": "wikipedia",
+      "label": "Jane Froman",
+      "url": "https://en.wikipedia.org/wiki/Jane_Froman",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
     }
   ],
   "recentItems": [

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCZtDUmC3W7j25XHZWFT_XgQ",
   "title": "BBC Music",
   "thumb": "https://yt3.ggpht.com/5Gz3E0QBR8RfkiOhHz_akIaoCISId7tCEO4LoFUxFkS96rsRJX7TfqmLtb0RxxFV15iZNyb8q3s=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 1,
   "uploadsPerDay": 1.08,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "Country Song (Jake Bugg song)",
       "url": "https://en.wikipedia.org/wiki/Country_Song_(Jake_Bugg_song)",
       "firstSeenAt": "2026-11-04T14:28:05.800Z"
+    },
+    {
+      "id": "channel:UCAwTHwWoyi_2jgB_lQjyIyg",
+      "type": "channel",
+      "label": "BBC Northern Ireland",
+      "url": "https://www.youtube.com/channel/UCAwTHwWoyi_2jgB_lQjyIyg",
+      "firstSeenAt": "2026-11-28T15:28:08.468Z"
     }
   ],
   "recentItems": []

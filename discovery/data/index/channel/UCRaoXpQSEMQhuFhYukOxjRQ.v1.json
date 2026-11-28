@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCRaoXpQSEMQhuFhYukOxjRQ",
   "title": "NewsActive3",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nbYIjDPBEZlSMPFEyFVgskJi1TphQUG3CDGrMJDmVI9Q=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 1,
   "uploadsPerDay": 0.43,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Archiva",
       "url": "https://www.youtube.com/channel/UCwjTxsjsqMQzVSq3o8aqUhQ",
       "firstSeenAt": "2026-10-27T12:07:20.150Z"
+    },
+    {
+      "id": "wiki:Jim Rosenfield",
+      "type": "wikipedia",
+      "label": "Jim Rosenfield",
+      "url": "https://en.wikipedia.org/wiki/Jim_Rosenfield",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

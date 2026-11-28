@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCbdTs9fanN16NOrYSmq1JeQ",
   "title": "ClevverTV",
   "thumb": "https://yt3.ggpht.com/-RNLUh2uEVEqvK8uh5mguPKSnk-hQJKN7NNPFDzBmleipAoinfC3M6BFYLQm6DmkNHC1mmSbSQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 1.37,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "Lucas Cruikshank",
       "url": "https://en.wikipedia.org/wiki/Lucas_Cruikshank",
       "firstSeenAt": "2026-11-21T14:36:42.573Z"
+    },
+    {
+      "id": "wiki:Mandy Rain",
+      "type": "wikipedia",
+      "label": "Mandy Rain",
+      "url": "https://en.wikipedia.org/wiki/Mandy_Rain",
+      "firstSeenAt": "2026-11-28T15:27:53.072Z"
     }
   ],
   "recentItems": []

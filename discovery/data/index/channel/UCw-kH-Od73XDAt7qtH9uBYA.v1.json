@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCw-kH-Od73XDAt7qtH9uBYA",
   "title": "World Economic Forum",
   "thumb": "https://yt3.ggpht.com/IZt6rJxlvGmTE1lxo9UNtYXzr_AaJ75YtTsVruXB8FKAPbg6SMJiaxZ3i5PKmB4LLWBGNKOUqw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.38,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Morgan Tsvangirai",
       "url": "https://en.wikipedia.org/wiki/Morgan_Tsvangirai",
       "firstSeenAt": "2026-11-22T14:30:52.630Z"
+    },
+    {
+      "id": "wiki:Eurasian Economic Union",
+      "type": "wikipedia",
+      "label": "Eurasian Economic Union",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_Economic_Union",
+      "firstSeenAt": "2026-11-28T15:27:53.072Z"
     }
   ],
   "recentItems": []

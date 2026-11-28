@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UChoFpAUlRgArnCafiojHVSA",
   "title": "CatsPjamas1",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mjXZt8EF1oMi2rGg2KCdn86cadRD6C6PMbkAZMNxiAjQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "George MacFarlane",
       "url": "https://en.wikipedia.org/wiki/George_MacFarlane",
       "firstSeenAt": "2026-11-26T16:50:49.969Z"
+    },
+    {
+      "id": "wiki:The Diary (song)",
+      "type": "wikipedia",
+      "label": "The Diary (song)",
+      "url": "https://en.wikipedia.org/wiki/The_Diary_(song)",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

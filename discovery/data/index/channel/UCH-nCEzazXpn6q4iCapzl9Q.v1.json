@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCH-nCEzazXpn6q4iCapzl9Q",
   "title": "Getty Museum",
   "thumb": "https://yt3.ggpht.com/pT_6aqOZN_IN0MoiRgcdF1CrDxdLuh1YkktPezXzQgzue4ZHqWWrUyYai-7rQAhSWe2Zdu1OaSg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 2,
   "uploadsPerDay": 0.16,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Getty Research Institute",
       "url": "https://www.youtube.com/channel/UCn1xTnySNX-gN6G8bWWuGDQ",
       "firstSeenAt": "2026-10-24T10:55:04.153Z"
+    },
+    {
+      "id": "wiki:Walker Evans",
+      "type": "wikipedia",
+      "label": "Walker Evans",
+      "url": "https://en.wikipedia.org/wiki/Walker_Evans",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
     }
   ],
   "recentItems": []

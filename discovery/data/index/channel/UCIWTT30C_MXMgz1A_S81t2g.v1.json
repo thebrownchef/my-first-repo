@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCIWTT30C_MXMgz1A_S81t2g",
   "title": "iBiology Science Stories",
   "thumb": "https://yt3.ggpht.com/ape3T2kIvvubL_-V-TcQj8mLCe3wiYhwObTb-KWNf15DtPnr882ozlzONbIM3SczZEzPzlq7_g=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Joan A. Steitz",
       "url": "https://en.wikipedia.org/wiki/Joan_A._Steitz",
       "firstSeenAt": "2026-11-26T16:50:47.284Z"
+    },
+    {
+      "id": "wiki:Harold McGee",
+      "type": "wikipedia",
+      "label": "Harold McGee",
+      "url": "https://en.wikipedia.org/wiki/Harold_McGee",
+      "firstSeenAt": "2026-11-28T15:27:50.315Z"
     }
   ],
   "recentItems": []

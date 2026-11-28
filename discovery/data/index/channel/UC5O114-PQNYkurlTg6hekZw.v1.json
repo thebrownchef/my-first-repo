@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC5O114-PQNYkurlTg6hekZw",
   "title": "United Nations",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mhklaGL8Bhv52CUPcBs7hkD_NvL1T6b98voTSC0aCTxmM=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 2.82,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Fazlun Khalid",
       "url": "https://en.wikipedia.org/wiki/Fazlun_Khalid",
       "firstSeenAt": "2026-11-16T15:40:12.269Z"
+    },
+    {
+      "id": "wiki:Jordan McLean (musician)",
+      "type": "wikipedia",
+      "label": "Jordan McLean (musician)",
+      "url": "https://en.wikipedia.org/wiki/Jordan_McLean_(musician)",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

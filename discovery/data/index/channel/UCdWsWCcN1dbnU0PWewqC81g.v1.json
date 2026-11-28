@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCdWsWCcN1dbnU0PWewqC81g",
   "title": "jim bianco",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kIKt4VgQm0ZrIpsfENbNOkWt6iJDVtRgcjiFCY5Fun0ts=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 5,
+  "distinctSourceCount": 5,
   "hop": 0,
   "uploadsPerDay": 0,
   "sources": [
@@ -36,6 +36,13 @@
       "label": "Jim Bianco",
       "url": "https://en.wikipedia.org/wiki/Jim_Bianco",
       "firstSeenAt": "2026-11-27T16:35:52.949Z"
+    },
+    {
+      "id": "wiki:Cookie Cutter (album)",
+      "type": "wikipedia",
+      "label": "Cookie Cutter (album)",
+      "url": "https://en.wikipedia.org/wiki/Cookie_Cutter_(album)",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

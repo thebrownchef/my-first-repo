@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCA7e77QnJYE-y9cQYzrGXeQ",
   "title": "Majamaadu Biscoot",
   "thumb": "https://yt3.ggpht.com/6wfxBFGf7TkmKlAM7EXMLDWnnXU2dz1eIa6hWR4dd5a5BLJwPQ0Zns2r5ItrQk_ThdetBb3Acd8=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 0.92,
   "sources": [
@@ -43,6 +43,27 @@
       "label": "Simply South",
       "url": "https://www.youtube.com/channel/UCPnW0dPMmjIsQlvkUwcdFsg",
       "firstSeenAt": "2026-10-01T13:11:06.569Z"
+    },
+    {
+      "id": "wiki:Khaidi (1984 film)",
+      "type": "wikipedia",
+      "label": "Khaidi (1984 film)",
+      "url": "https://en.wikipedia.org/wiki/Khaidi_(1984_film)",
+      "firstSeenAt": "2026-11-28T15:27:50.315Z"
+    },
+    {
+      "id": "wiki:Mutthaide Bhagya (1983 film)",
+      "type": "wikipedia",
+      "label": "Mutthaide Bhagya (1983 film)",
+      "url": "https://en.wikipedia.org/wiki/Mutthaide_Bhagya_(1983_film)",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
+    },
+    {
+      "id": "wiki:Siritanakke Savaal",
+      "type": "wikipedia",
+      "label": "Siritanakke Savaal",
+      "url": "https://en.wikipedia.org/wiki/Siritanakke_Savaal",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
     }
   ],
   "recentItems": []

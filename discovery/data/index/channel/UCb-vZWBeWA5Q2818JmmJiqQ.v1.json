@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCb-vZWBeWA5Q2818JmmJiqQ",
   "title": "Oscars",
   "thumb": "https://yt3.ggpht.com/NpO5ACfL4GyjGF4jE6OZwHNatbPnVXIzwzl9gp3bU-avVqygYJXiLzjrLz_hLmbOr2AHV4qyO3o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 34,
-  "distinctSourceCount": 34,
+  "score": 35,
+  "distinctSourceCount": 35,
   "hop": 0,
   "uploadsPerDay": 0.8,
   "sources": [
@@ -246,6 +246,13 @@
       "label": "Myrna Loy",
       "url": "https://en.wikipedia.org/wiki/Myrna_Loy",
       "firstSeenAt": "2026-11-27T16:35:52.950Z"
+    },
+    {
+      "id": "wiki:Jory Prum",
+      "type": "wikipedia",
+      "label": "Jory Prum",
+      "url": "https://en.wikipedia.org/wiki/Jory_Prum",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": [

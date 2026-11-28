@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCLyYEq4ODlw3OD9qhGqwimw",
   "title": "Rotten Tomatoes Indie",
   "thumb": "https://yt3.ggpht.com/O3hkk4VZ31o_jh43JvVJpuwz00zxMd7ZsIX5w4rBmlQBhfWbVOenSObXjfEvu6J3TIalfjJD=s88-c-k-c0x00ffffff-no-rj",
-  "score": 14,
-  "distinctSourceCount": 14,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 1,
   "uploadsPerDay": 1.83,
   "sources": [
@@ -106,6 +106,13 @@
       "label": "Elaine Stritch: Shoot Me",
       "url": "https://en.wikipedia.org/wiki/Elaine_Stritch%3A_Shoot_Me",
       "firstSeenAt": "2026-11-08T13:19:09.247Z"
+    },
+    {
+      "id": "wiki:The Green Prince (film)",
+      "type": "wikipedia",
+      "label": "The Green Prince (film)",
+      "url": "https://en.wikipedia.org/wiki/The_Green_Prince_(film)",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

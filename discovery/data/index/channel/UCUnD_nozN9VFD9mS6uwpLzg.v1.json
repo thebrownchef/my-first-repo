@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T15:29:02.209Z",
+  "id": "UCUnD_nozN9VFD9mS6uwpLzg",
+  "title": "prismfilms1",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lrullppPNUnjkKJuuLO2-EP34dVnDtWeBOZd3at6Yg2A=s88-c-k-c0x00ffffff-no-rj",
+  "score": 3,
+  "distinctSourceCount": 3,
+  "hop": 0,
+  "uploadsPerDay": 0.09,
+  "sources": [
+    {
+      "id": "wiki:Sweet Jane",
+      "type": "wikipedia",
+      "label": "Sweet Jane",
+      "url": "https://en.wikipedia.org/wiki/Sweet_Jane",
+      "firstSeenAt": "2026-11-28T15:27:50.314Z"
+    },
+    {
+      "id": "wiki:Satellite of Love",
+      "type": "wikipedia",
+      "label": "Satellite of Love",
+      "url": "https://en.wikipedia.org/wiki/Satellite_of_Love",
+      "firstSeenAt": "2026-11-28T15:27:50.314Z"
+    },
+    {
+      "id": "wiki:Viva Hate",
+      "type": "wikipedia",
+      "label": "Viva Hate",
+      "url": "https://en.wikipedia.org/wiki/Viva_Hate",
+      "firstSeenAt": "2026-11-28T15:27:50.315Z"
+    }
+  ],
+  "recentItems": []
+}

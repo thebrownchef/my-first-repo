@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCFcqi7MrlzIp9RMTtUlxE8g",
   "title": "Avenged Sevenfold",
   "thumb": "https://yt3.ggpht.com/PP7MZkIUiZ94P5nCGaN4ykumm0yBaHbcpX2vbdVea9MQe6aZKqzAnGAB4AQ-HXmrTTdfggCDww=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.04,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Shepherd of Fire",
       "url": "https://en.wikipedia.org/wiki/Shepherd_of_Fire",
       "firstSeenAt": "2026-11-24T17:38:37.540Z"
+    },
+    {
+      "id": "wiki:This Means War (Avenged Sevenfold song)",
+      "type": "wikipedia",
+      "label": "This Means War (Avenged Sevenfold song)",
+      "url": "https://en.wikipedia.org/wiki/This_Means_War_(Avenged_Sevenfold_song)",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

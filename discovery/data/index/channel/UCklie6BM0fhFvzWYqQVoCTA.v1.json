@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCklie6BM0fhFvzWYqQVoCTA",
   "title": "SQUASHTV",
   "thumb": "https://yt3.ggpht.com/wGVd3VftBIq5c6Iyki7MIB9uQEI40rlD-YRiUSooGdekZBLIIpPy7lWuqkZ_qKt2nToqCDs9Hw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 1.87,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "2014 Men's World Open Squash Championship",
       "url": "https://en.wikipedia.org/wiki/2014_Men's_World_Open_Squash_Championship",
       "firstSeenAt": "2026-11-24T17:38:33.294Z"
+    },
+    {
+      "id": "wiki:Women's Tournament of Champions 2015",
+      "type": "wikipedia",
+      "label": "Women's Tournament of Champions 2015",
+      "url": "https://en.wikipedia.org/wiki/Women's_Tournament_of_Champions_2015",
+      "firstSeenAt": "2026-11-28T15:27:50.314Z"
     }
   ],
   "recentItems": []

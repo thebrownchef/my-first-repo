@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC56gTxNs4f9xZ7Pa2i5xNzg",
   "title": "Sony Music India",
   "thumb": "https://yt3.ggpht.com/42o3XIW1j5zmzsFeZs3ND4QwaXXrnpK9vqftcEuEdbgNhPbltXRktcSmyJ12-gSRqKch93Ir=s88-c-k-c0x00ffffff-no-rj",
-  "score": 9,
-  "distinctSourceCount": 9,
+  "score": 10,
+  "distinctSourceCount": 10,
   "hop": 0,
   "uploadsPerDay": 2.02,
   "sources": [
@@ -71,6 +71,13 @@
       "label": "Nagada Sang Dhol",
       "url": "https://en.wikipedia.org/wiki/Nagada_Sang_Dhol",
       "firstSeenAt": "2026-11-18T15:35:42.169Z"
+    },
+    {
+      "id": "wiki:Laal Ishq (song)",
+      "type": "wikipedia",
+      "label": "Laal Ishq (song)",
+      "url": "https://en.wikipedia.org/wiki/Laal_Ishq_(song)",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

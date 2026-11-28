@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCqMDNf3Pn5L7pcNkuSEeO3w",
   "title": "Madeon",
   "thumb": "https://yt3.ggpht.com/gu1re5n1mXxUDCAKM72JAG9k9RAEiuYcVBcVq07tih_JLfOj71-rUruNeRLDwlaFeMzAFudfVU0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "The City (EP)",
       "url": "https://en.wikipedia.org/wiki/The_City_(EP)",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:Adventure (Madeon album)",
+      "type": "wikipedia",
+      "label": "Adventure (Madeon album)",
+      "url": "https://en.wikipedia.org/wiki/Adventure_(Madeon_album)",
+      "firstSeenAt": "2026-11-28T15:27:53.072Z"
     }
   ],
   "recentItems": []

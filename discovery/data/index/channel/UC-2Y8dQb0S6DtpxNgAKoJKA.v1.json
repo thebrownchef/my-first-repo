@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
   "title": "PlayStation",
   "thumb": "https://yt3.ggpht.com/uiQh9JC7wAmCl63jhNilJvAcqNbwnMmUf5FUCQBecipe6yGmUWpPvAMVixALEt6xpPOVbsouzw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 1,
   "uploadsPerDay": 3.72,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Killing Floor (video game)",
       "url": "https://en.wikipedia.org/wiki/Killing_Floor_(video_game)",
       "firstSeenAt": "2026-11-27T16:35:55.282Z"
+    },
+    {
+      "id": "wiki:Development of The Last of Us (video game)",
+      "type": "wikipedia",
+      "label": "Development of The Last of Us (video game)",
+      "url": "https://en.wikipedia.org/wiki/Development_of_The_Last_of_Us_(video_game)",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
     }
   ],
   "recentItems": []

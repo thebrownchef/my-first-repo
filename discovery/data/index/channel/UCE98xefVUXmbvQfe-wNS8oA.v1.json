@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCE98xefVUXmbvQfe-wNS8oA",
   "title": "Matt Barton",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_luuk3NxiulAEfxWXE5qpCPhH5Yf_CnbDFnPh8YxGa-T7A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.1,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Chuck Bueche",
       "url": "https://en.wikipedia.org/wiki/Chuck_Bueche",
       "firstSeenAt": "2026-11-09T16:12:25.573Z"
+    },
+    {
+      "id": "wiki:Howard Scott Warshaw",
+      "type": "wikipedia",
+      "label": "Howard Scott Warshaw",
+      "url": "https://en.wikipedia.org/wiki/Howard_Scott_Warshaw",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

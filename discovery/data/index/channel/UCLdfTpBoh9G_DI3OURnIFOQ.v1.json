@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCLdfTpBoh9G_DI3OURnIFOQ",
   "title": "Blur",
   "thumb": "https://yt3.ggpht.com/zDqC_Z4g_Pslq4IFdlGTkslL2BBuNiqHkyu2Ne5FEA6zZ2hVnlDuC4EmvFCiFND9i55oQXIS=s88-c-k-c0x00ffffff-no-rj",
-  "score": 23,
-  "distinctSourceCount": 23,
+  "score": 24,
+  "distinctSourceCount": 24,
   "hop": 0,
   "uploadsPerDay": 0.05,
   "sources": [
@@ -169,6 +169,13 @@
       "label": "The Puritan (song)",
       "url": "https://en.wikipedia.org/wiki/The_Puritan_(song)",
       "firstSeenAt": "2026-10-19T13:08:25.822Z"
+    },
+    {
+      "id": "wiki:Coffee & TV",
+      "type": "wikipedia",
+      "label": "Coffee & TV",
+      "url": "https://en.wikipedia.org/wiki/Coffee_%26_TV",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

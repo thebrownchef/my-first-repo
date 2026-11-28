@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCLx053rWZxCiYWsBETgdKrQ",
   "title": "LGR",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_ly-nFGTUa0nAu_QX2eIVN_UMRxG2cZOwLKUIU1kXk17eI=s88-c-k-c0x00ffffff-no-rj",
-  "score": 5,
-  "distinctSourceCount": 5,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -43,6 +43,13 @@
       "label": "TanRu Nomad",
       "url": "https://www.youtube.com/channel/UCWzuNflwywaRVerbDsgG2lA",
       "firstSeenAt": "2026-11-11T14:16:39.510Z"
+    },
+    {
+      "id": "wiki:IBM PCjr",
+      "type": "wikipedia",
+      "label": "IBM PCjr",
+      "url": "https://en.wikipedia.org/wiki/IBM_PCjr",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

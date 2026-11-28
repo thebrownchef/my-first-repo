@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC5BMQOsAB8hKUyHu9KI6yig",
   "title": "KBS WORLD TV",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kWAyYX8IuruW0YuQuEK6Jn-cfqZZ8oFZCcpy7HnzB3C_FA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 15,
+  "distinctSourceCount": 15,
   "hop": 0,
   "uploadsPerDay": 12.23,
   "sources": [
@@ -99,6 +99,20 @@
       "label": "Do You Know Taekwondo?",
       "url": "https://en.wikipedia.org/wiki/Do_You_Know_Taekwondo%3F",
       "firstSeenAt": "2026-11-24T17:38:37.541Z"
+    },
+    {
+      "id": "wiki:Bye Bye Sea",
+      "type": "wikipedia",
+      "label": "Bye Bye Sea",
+      "url": "https://en.wikipedia.org/wiki/Bye_Bye_Sea",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
+    },
+    {
+      "id": "wiki:Jung Dong-ha",
+      "type": "wikipedia",
+      "label": "Jung Dong-ha",
+      "url": "https://en.wikipedia.org/wiki/Jung_Dong-ha",
+      "firstSeenAt": "2026-11-28T15:27:53.073Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC3lz95UPhKJW1aS3_za6SuQ",
   "title": "United CUBE (CUBE Entertainment Official YouTube Channel)",
   "thumb": "https://yt3.ggpht.com/XUJmuh82OeRpLEuahv6_OZNSKKS4Rr32eYjuhXHJRFWFb5A5lfkL7XHy7g7SSdlXq1hoTk6XgA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 8,
-  "distinctSourceCount": 8,
+  "score": 9,
+  "distinctSourceCount": 9,
   "hop": 0,
   "uploadsPerDay": 0.33,
   "sources": [
@@ -64,6 +64,13 @@
       "label": "Gwiyomi Song",
       "url": "https://en.wikipedia.org/wiki/Gwiyomi_Song",
       "firstSeenAt": "2026-11-04T14:28:05.801Z"
+    },
+    {
+      "id": "wiki:M4M (band)",
+      "type": "wikipedia",
+      "label": "M4M (band)",
+      "url": "https://en.wikipedia.org/wiki/M4M_(band)",
+      "firstSeenAt": "2026-11-28T15:27:50.314Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCtESv1e7ntJaLJYKIO1FoYw",
   "title": "Periodic Videos",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_mVnp1Lc31B0TPILH30sz-eIQqX9ZML3ORtONYjcoNiQP4=s88-c-k-c0x00ffffff-no-rj",
-  "score": 17,
-  "distinctSourceCount": 17,
+  "score": 18,
+  "distinctSourceCount": 18,
   "hop": 0,
   "uploadsPerDay": 0.11,
   "sources": [
@@ -127,6 +127,13 @@
       "label": "Belousov–Zhabotinsky reaction",
       "url": "https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction",
       "firstSeenAt": "2026-11-26T16:50:44.832Z"
+    },
+    {
+      "id": "wiki:Tony Judt",
+      "type": "wikipedia",
+      "label": "Tony Judt",
+      "url": "https://en.wikipedia.org/wiki/Tony_Judt",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
     }
   ],
   "recentItems": []

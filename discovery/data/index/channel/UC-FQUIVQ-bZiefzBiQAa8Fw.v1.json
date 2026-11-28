@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC-FQUIVQ-bZiefzBiQAa8Fw",
   "title": "BBC Radio 1",
   "thumb": "https://yt3.ggpht.com/DCFe6o9pTYMisY4K9sCR5TP4QoOfBKC2bGURwUduYe2KyYp4rTOakvv2X9PKOg1LDQBBVOa2IQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.66,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Scars (James Bay song)",
       "url": "https://en.wikipedia.org/wiki/Scars_(James_Bay_song)",
       "firstSeenAt": "2026-11-27T16:35:55.282Z"
+    },
+    {
+      "id": "channel:UCAwTHwWoyi_2jgB_lQjyIyg",
+      "type": "channel",
+      "label": "BBC Northern Ireland",
+      "url": "https://www.youtube.com/channel/UCAwTHwWoyi_2jgB_lQjyIyg",
+      "firstSeenAt": "2026-11-28T15:28:08.471Z"
     }
   ],
   "recentItems": []

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T15:29:02.209Z",
+  "id": "UC85gWFvuieBEvOjI4GfWcsQ",
+  "title": "University of Wolverhampton",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_nTPJXxgC4iwPZWCUCzY44AQ_V5Dwz-W_k3UJRe9ASaAHU=s88-c-k-c0x00ffffff-no-rj",
+  "score": 2,
+  "distinctSourceCount": 2,
+  "hop": 0,
+  "uploadsPerDay": 0.35,
+  "sources": [
+    {
+      "id": "wiki:Michael Salu",
+      "type": "wikipedia",
+      "label": "Michael Salu",
+      "url": "https://en.wikipedia.org/wiki/Michael_Salu",
+      "firstSeenAt": "2026-11-11T14:16:18.275Z"
+    },
+    {
+      "id": "wiki:Laura Harvey",
+      "type": "wikipedia",
+      "label": "Laura Harvey",
+      "url": "https://en.wikipedia.org/wiki/Laura_Harvey",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
+    }
+  ],
+  "recentItems": []
+}

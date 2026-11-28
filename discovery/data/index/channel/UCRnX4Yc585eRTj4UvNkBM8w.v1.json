@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCRnX4Yc585eRTj4UvNkBM8w",
   "title": "Autodesk",
   "thumb": "https://yt3.ggpht.com/sMxA9Ihd_3j_KVYRvkkABiLAXiQvSPRqMcUIMNd0bfvWXapV3Yenxl8SNzF_vpqCmxUZjwXN=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "AutoCAD",
       "url": "https://www.youtube.com/channel/UCLFaiut3Z6IxD4NvkMt4qHQ",
       "firstSeenAt": "2026-11-19T15:41:59.386Z"
+    },
+    {
+      "id": "wiki:Development of The Last of Us (video game)",
+      "type": "wikipedia",
+      "label": "Development of The Last of Us (video game)",
+      "url": "https://en.wikipedia.org/wiki/Development_of_The_Last_of_Us_(video_game)",
+      "firstSeenAt": "2026-11-28T15:27:53.072Z"
     }
   ],
   "recentItems": []

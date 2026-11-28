@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCGp4u0WHLsK8OAxnvwiTyhA",
   "title": "British Pathé",
   "thumb": "https://yt3.ggpht.com/_x4OxZHFyys6g3HZ5S-KBZ4s82W5jO2p8KhmqL1KwU9qjiJJLN2Ovg9RVc9GzD1O3K01Ujl4lDQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 48,
-  "distinctSourceCount": 48,
+  "score": 50,
+  "distinctSourceCount": 50,
   "hop": 0,
   "uploadsPerDay": 12.88,
   "sources": [
@@ -344,6 +344,20 @@
       "label": "Ingo Simon",
       "url": "https://en.wikipedia.org/wiki/Ingo_Simon",
       "firstSeenAt": "2026-11-26T16:50:49.970Z"
+    },
+    {
+      "id": "wiki:Antonio Arrúe Zarauz",
+      "type": "wikipedia",
+      "label": "Antonio Arrúe Zarauz",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Arr%C3%BAe_Zarauz",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
+    },
+    {
+      "id": "wiki:Tater Du Lighthouse",
+      "type": "wikipedia",
+      "label": "Tater Du Lighthouse",
+      "url": "https://en.wikipedia.org/wiki/Tater_Du_Lighthouse",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
     }
   ],
   "recentItems": [

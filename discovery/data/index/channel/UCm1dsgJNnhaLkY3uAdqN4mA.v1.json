@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCm1dsgJNnhaLkY3uAdqN4mA",
   "title": "ChrisBrownVEVO",
   "thumb": "https://yt3.ggpht.com/LQZxBlTRHDjVmcGbzUZqwwRmZ9ebU-XU8frGW6SEgcllooaoqnvL4bd_dTrraTZirHtuT1epKg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 1,
   "uploadsPerDay": 0.06,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "New Flame",
       "url": "https://en.wikipedia.org/wiki/New_Flame",
       "firstSeenAt": "2026-11-17T15:56:45.707Z"
+    },
+    {
+      "id": "wiki:Ayo (song)",
+      "type": "wikipedia",
+      "label": "Ayo (song)",
+      "url": "https://en.wikipedia.org/wiki/Ayo_(song)",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

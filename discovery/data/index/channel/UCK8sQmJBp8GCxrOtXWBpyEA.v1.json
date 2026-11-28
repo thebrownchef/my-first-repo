@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
   "title": "Google",
   "thumb": "https://yt3.ggpht.com/bAseQlKvNmjdLQrvYWm_q3QDp8C8YKyYI-nYJewgOkPi0JU1_3X9oFgjrEdzkOlXzLGFxFbnsw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 1,
   "uploadsPerDay": 0.36,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "Alex Martelli",
       "url": "https://en.wikipedia.org/wiki/Alex_Martelli",
       "firstSeenAt": "2026-11-26T16:50:49.969Z"
+    },
+    {
+      "id": "wiki:Jean Case",
+      "type": "wikipedia",
+      "label": "Jean Case",
+      "url": "https://en.wikipedia.org/wiki/Jean_Case",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

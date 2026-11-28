@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC1l7wYrva1qCH-wgqcHaaRg",
   "title": "David Guetta",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_nVKPoGkfw44ICB715GPlzNDsmqZdlwewB1QGa9K4vD94o=s88-c-k-c0x00ffffff-no-rj",
-  "score": 13,
-  "distinctSourceCount": 13,
+  "score": 14,
+  "distinctSourceCount": 14,
   "hop": 0,
   "uploadsPerDay": 0.19,
   "sources": [
@@ -99,6 +99,13 @@
       "label": "The Alphabeat (song)",
       "url": "https://en.wikipedia.org/wiki/The_Alphabeat_(song)",
       "firstSeenAt": "2026-11-17T15:56:40.700Z"
+    },
+    {
+      "id": "wiki:Dangerous (David Guetta song)",
+      "type": "wikipedia",
+      "label": "Dangerous (David Guetta song)",
+      "url": "https://en.wikipedia.org/wiki/Dangerous_(David_Guetta_song)",
+      "firstSeenAt": "2026-11-28T15:27:50.316Z"
     }
   ],
   "recentItems": []

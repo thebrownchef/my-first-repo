@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCFL1sCAksD6_7JIZwwHcwjQ",
   "title": "JTBC Entertainment",
   "thumb": "https://yt3.ggpht.com/vsTOwrvjlLIGUg0YB0jFlMCuLLGF-mHZoa5EJMzAicIVPo8fFiUzwQY_82LZSqPVYGOaa18N1A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 1,
   "uploadsPerDay": 18.84,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Lee Jeonghee",
       "url": "https://en.wikipedia.org/wiki/Lee_Jeonghee",
       "firstSeenAt": "2026-11-13T14:31:16.363Z"
+    },
+    {
+      "id": "wiki:Dating Alone",
+      "type": "wikipedia",
+      "label": "Dating Alone",
+      "url": "https://en.wikipedia.org/wiki/Dating_Alone",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

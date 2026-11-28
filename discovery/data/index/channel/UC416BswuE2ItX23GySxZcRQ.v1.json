@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC416BswuE2ItX23GySxZcRQ",
   "title": "National Gallery of Art",
   "thumb": "https://yt3.ggpht.com/gc4KSsfNA6UbI7MNV8Kz32wqSZ7DYylLMZ6tFO89AaFWqP87FJbjMKJGmkZNYP8PAALhGsFz0A=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.08,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "Wivenhoe Park (painting)",
       "url": "https://en.wikipedia.org/wiki/Wivenhoe_Park_(painting)",
       "firstSeenAt": "2026-11-24T17:38:33.295Z"
+    },
+    {
+      "id": "wiki:Self-portrait by Judith Leyster",
+      "type": "wikipedia",
+      "label": "Self-portrait by Judith Leyster",
+      "url": "https://en.wikipedia.org/wiki/Self-portrait_by_Judith_Leyster",
+      "firstSeenAt": "2026-11-28T15:27:53.072Z"
     }
   ],
   "recentItems": []

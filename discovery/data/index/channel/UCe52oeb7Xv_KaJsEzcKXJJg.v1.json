@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCe52oeb7Xv_KaJsEzcKXJJg",
   "title": "MBCkpop",
   "thumb": "https://yt3.ggpht.com/lMLCpSdIgJNZ11RW-0hyfU3Xb4f-molFbQFPn_302s1BAjJUFL8298P4Sbz_W76YEWtwscXi-48=s88-c-k-c0x00ffffff-no-rj",
-  "score": 7,
-  "distinctSourceCount": 7,
+  "score": 8,
+  "distinctSourceCount": 8,
   "hop": 0,
   "uploadsPerDay": 10.83,
   "sources": [
@@ -57,6 +57,13 @@
       "label": "MFBTY",
       "url": "https://en.wikipedia.org/wiki/MFBTY",
       "firstSeenAt": "2026-11-24T17:38:35.590Z"
+    },
+    {
+      "id": "wiki:T.O.P. (Shinhwa album)",
+      "type": "wikipedia",
+      "label": "T.O.P. (Shinhwa album)",
+      "url": "https://en.wikipedia.org/wiki/T.O.P._(Shinhwa_album)",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": []

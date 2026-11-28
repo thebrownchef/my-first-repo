@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCupvZG-5ko_eiXAupbDfxWw",
   "title": "CNN",
   "thumb": "https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 12,
-  "distinctSourceCount": 12,
+  "score": 13,
+  "distinctSourceCount": 13,
   "hop": 0,
   "uploadsPerDay": 24.38,
   "sources": [
@@ -92,6 +92,13 @@
       "label": "Ferguson Municipal Public Library",
       "url": "https://en.wikipedia.org/wiki/Ferguson_Municipal_Public_Library",
       "firstSeenAt": "2026-11-25T17:09:36.640Z"
+    },
+    {
+      "id": "wiki:Going Clear (film)",
+      "type": "wikipedia",
+      "label": "Going Clear (film)",
+      "url": "https://en.wikipedia.org/wiki/Going_Clear_(film)",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
     }
   ],
   "recentItems": []

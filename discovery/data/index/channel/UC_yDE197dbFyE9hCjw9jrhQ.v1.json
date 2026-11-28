@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC_yDE197dbFyE9hCjw9jrhQ",
   "title": "FANFARA BERSAGLIERI \"A.CARETTO\" di BEDIZZOLE",
   "thumb": "https://yt3.ggpht.com/GWBS07s8dE0KF4-fURnS7N84cqiR9KDJlIg6a1C0KyGd_C6zTnvibRi1jyrmI-aFSOi_eYm2Vg=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.2,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "F.C.P. VIDEO UNIVERSE",
       "url": "https://www.youtube.com/channel/UC5vy0Zfh9dZ2THB8pK1ehgg",
       "firstSeenAt": "2026-09-20T11:20:15.081Z"
+    },
+    {
+      "id": "wiki:Pike (weapon)",
+      "type": "wikipedia",
+      "label": "Pike (weapon)",
+      "url": "https://en.wikipedia.org/wiki/Pike_(weapon)",
+      "firstSeenAt": "2026-11-28T15:27:50.314Z"
     }
   ],
   "recentItems": []

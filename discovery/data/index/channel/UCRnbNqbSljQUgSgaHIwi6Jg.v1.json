@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCRnbNqbSljQUgSgaHIwi6Jg",
   "title": "MilesKaneVEVO",
   "thumb": "https://yt3.ggpht.com/K7ZllWinDBCrTw5YvUCkIcoC3gusZ6-LiWaxt3RLxTKk4qry4AqGZWN1jGtfcUcP4w8n1E8D=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 0.01,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Come Closer (Miles Kane song)",
       "url": "https://en.wikipedia.org/wiki/Come_Closer_(Miles_Kane_song)",
       "firstSeenAt": "2026-11-04T14:28:09.025Z"
+    },
+    {
+      "id": "wiki:Drew Pearce",
+      "type": "wikipedia",
+      "label": "Drew Pearce",
+      "url": "https://en.wikipedia.org/wiki/Drew_Pearce",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
     }
   ],
   "recentItems": []

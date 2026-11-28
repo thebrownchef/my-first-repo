@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCddem5RlB3bQe99wyY49g0g",
   "title": "PeriscopeFilm",
   "thumb": "https://yt3.ggpht.com/Z3ce3koMksEVi7oZLNaPHPIOz5WXD0WAoybjeuwSZVG254OiCRl8oGAKyucf-PtcHCtWeI0UpQ=s88-c-k-c0x00ffffff-no-rj",
-  "score": 6,
-  "distinctSourceCount": 6,
+  "score": 7,
+  "distinctSourceCount": 7,
   "hop": 0,
   "uploadsPerDay": 1.86,
   "sources": [
@@ -50,6 +50,13 @@
       "label": "Lookout Mountain Air Force Station",
       "url": "https://en.wikipedia.org/wiki/Lookout_Mountain_Air_Force_Station",
       "firstSeenAt": "2026-11-05T14:35:31.778Z"
+    },
+    {
+      "id": "wiki:Johnny Hyde (RAF officer)",
+      "type": "wikipedia",
+      "label": "Johnny Hyde (RAF officer)",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Hyde_(RAF_officer)",
+      "firstSeenAt": "2026-11-28T15:27:50.314Z"
     }
   ],
   "recentItems": []

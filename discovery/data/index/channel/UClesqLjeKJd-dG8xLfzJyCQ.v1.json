@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UClesqLjeKJd-dG8xLfzJyCQ",
   "title": "5SOSVEVO",
   "thumb": "https://yt3.ggpht.com/g-B-MDlPttQJCio0Z-2Sr9SwAsJDIgsgVxPG5_zQFbCvZt7ZFoQQIQp9TBFjqw4Orgg_BSG_zA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "5 Seconds of Summer",
       "url": "https://en.wikipedia.org/wiki/5_Seconds_of_Summer",
       "firstSeenAt": "2026-08-28T18:39:19.394Z"
+    },
+    {
+      "id": "wiki:What I Like About You (The Romantics song)",
+      "type": "wikipedia",
+      "label": "What I Like About You (The Romantics song)",
+      "url": "https://en.wikipedia.org/wiki/What_I_Like_About_You_(The_Romantics_song)",
+      "firstSeenAt": "2026-11-28T15:27:53.074Z"
     }
   ],
   "recentItems": []

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCYDmx2Sfpnaxg488yBpZIGg",
   "title": "STARSHIP",
   "thumb": "https://yt3.ggpht.com/k6p06Jx1N1ItWTjYjdDhDPadzWvIRFPdbqqtM-81QuHF9bzqCj4yy_ZVc40AaFsRvtjwd7ex=s88-c-k-c0x00ffffff-no-rj",
-  "score": 10,
-  "distinctSourceCount": 10,
+  "score": 11,
+  "distinctSourceCount": 11,
   "hop": 0,
   "uploadsPerDay": 0.4,
   "sources": [
@@ -78,6 +78,13 @@
       "label": "boyfriendjp",
       "url": "https://www.youtube.com/channel/UCSAXzzxvuTLGaC87SdqVAaQ",
       "firstSeenAt": "2026-11-18T15:35:55.573Z"
+    },
+    {
+      "id": "wiki:Witch (Boyfriend EP)",
+      "type": "wikipedia",
+      "label": "Witch (Boyfriend EP)",
+      "url": "https://en.wikipedia.org/wiki/Witch_(Boyfriend_EP)",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
     }
   ],
   "recentItems": []

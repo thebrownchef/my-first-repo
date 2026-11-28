@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCshnCkfV7U6DqR4IHbQbI7Q",
   "title": "alyankovicVEVO",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_k3BmL4rKMAc80Rr2CQeRgxIqiqXWwKCS2aHxFiNWJZ9Kw=s88-c-k-c0x00ffffff-no-rj",
-  "score": 4,
-  "distinctSourceCount": 4,
+  "score": 6,
+  "distinctSourceCount": 6,
   "hop": 0,
   "uploadsPerDay": 0.02,
   "sources": [
@@ -36,6 +36,20 @@
       "label": "Word Crimes",
       "url": "https://en.wikipedia.org/wiki/Word_Crimes",
       "firstSeenAt": "2026-11-15T13:53:32.349Z"
+    },
+    {
+      "id": "wiki:The Saga Begins",
+      "type": "wikipedia",
+      "label": "The Saga Begins",
+      "url": "https://en.wikipedia.org/wiki/The_Saga_Begins",
+      "firstSeenAt": "2026-11-28T15:27:50.314Z"
+    },
+    {
+      "id": "wiki:Fat (song)",
+      "type": "wikipedia",
+      "label": "Fat (song)",
+      "url": "https://en.wikipedia.org/wiki/Fat_(song)",
+      "firstSeenAt": "2026-11-28T15:27:50.315Z"
     }
   ],
   "recentItems": []

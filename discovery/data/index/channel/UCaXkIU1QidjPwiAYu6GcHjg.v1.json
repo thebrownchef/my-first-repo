@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCaXkIU1QidjPwiAYu6GcHjg",
   "title": "MS NOW",
   "thumb": "https://yt3.ggpht.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj",
-  "score": 2,
-  "distinctSourceCount": 2,
+  "score": 3,
+  "distinctSourceCount": 3,
   "hop": 0,
   "uploadsPerDay": 22.19,
   "sources": [
@@ -22,6 +22,13 @@
       "label": "Dateline NBC",
       "url": "https://www.youtube.com/channel/UCu3sKtOW9TGaErPsAYVPplA",
       "firstSeenAt": "2026-09-16T11:29:08.884Z"
+    },
+    {
+      "id": "wiki:Bryan Fischer",
+      "type": "wikipedia",
+      "label": "Bryan Fischer",
+      "url": "https://en.wikipedia.org/wiki/Bryan_Fischer",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
     }
   ],
   "recentItems": []

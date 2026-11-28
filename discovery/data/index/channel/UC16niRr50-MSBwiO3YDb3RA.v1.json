@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UC16niRr50-MSBwiO3YDb3RA",
   "title": "BBC News",
   "thumb": "https://yt3.ggpht.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 11,
-  "distinctSourceCount": 11,
+  "score": 12,
+  "distinctSourceCount": 12,
   "hop": 0,
   "uploadsPerDay": 4.39,
   "sources": [
@@ -85,6 +85,13 @@
       "label": "Urban rail transit in China",
       "url": "https://en.wikipedia.org/wiki/Urban_rail_transit_in_China",
       "firstSeenAt": "2026-11-24T17:38:35.590Z"
+    },
+    {
+      "id": "channel:UCAwTHwWoyi_2jgB_lQjyIyg",
+      "type": "channel",
+      "label": "BBC Northern Ireland",
+      "url": "https://www.youtube.com/channel/UCAwTHwWoyi_2jgB_lQjyIyg",
+      "firstSeenAt": "2026-11-28T15:28:08.469Z"
     }
   ],
   "recentItems": []

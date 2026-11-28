@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCZU9T1ceaOgwfLRq7OKFU4Q",
   "title": "Linkin Park",
   "thumb": "https://yt3.ggpht.com/OtUf050j6w6iRPUmGgmzblD2saluxUusxiVmo0-SMUnWiNKwR89JL_-xJ6JvIEram8UbPT_zDA=s88-c-k-c0x00ffffff-no-rj",
-  "score": 24,
-  "distinctSourceCount": 24,
+  "score": 25,
+  "distinctSourceCount": 25,
   "hop": 2,
   "uploadsPerDay": 0.17,
   "sources": [
@@ -176,6 +176,13 @@
       "label": "Mall (soundtrack)",
       "url": "https://en.wikipedia.org/wiki/Mall_(soundtrack)",
       "firstSeenAt": "2026-11-22T14:30:47.695Z"
+    },
+    {
+      "id": "wiki:The Hunting Party Tour",
+      "type": "wikipedia",
+      "label": "The Hunting Party Tour",
+      "url": "https://en.wikipedia.org/wiki/The_Hunting_Party_Tour",
+      "firstSeenAt": "2026-11-28T15:27:55.508Z"
     }
   ],
   "recentItems": [

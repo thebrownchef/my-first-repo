@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T16:37:07.350Z",
+  "generatedAt": "2026-11-28T15:29:02.209Z",
   "id": "UCzQUP1qoWDoEbmsQxvdjxgQ",
   "title": "PowerfulJRE",
   "thumb": "https://yt3.ggpht.com/ytc/AIdro_kIOv8XSayB3mVzdmGH6r6nOuncclc_QxWr7TYTXM4dFrs=s88-c-k-c0x00ffffff-no-rj",
-  "score": 3,
-  "distinctSourceCount": 3,
+  "score": 4,
+  "distinctSourceCount": 4,
   "hop": 0,
   "uploadsPerDay": 0.73,
   "sources": [
@@ -29,6 +29,13 @@
       "label": "James Talarico",
       "url": "https://en.wikipedia.org/wiki/James_Talarico",
       "firstSeenAt": "2026-10-12T15:18:33.522Z"
+    },
+    {
+      "id": "wiki:Justin Wren",
+      "type": "wikipedia",
+      "label": "Justin Wren",
+      "url": "https://en.wikipedia.org/wiki/Justin_Wren",
+      "firstSeenAt": "2026-11-28T15:27:55.507Z"
     }
   ],
   "recentItems": []
